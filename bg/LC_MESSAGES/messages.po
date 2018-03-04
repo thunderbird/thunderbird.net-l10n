@@ -11,16 +11,16 @@ msgstr ""
 "PO-Revision-Date: 2018-03-03 23:50-0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.3\n"
-"Language: bg\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.5.3\n"
 
 #: website/base-resp.html:24
 msgid "Menu"
-msgstr ""
+msgstr "Меню"
 
 #: website/base-resp.html:26 website/index.html:7 website/index.html:14
 #: website/index.html:26 website/index.html:40 website/index.html:59
@@ -34,11 +34,11 @@ msgstr ""
 
 #: website/base-resp.html:35
 msgid "Features"
-msgstr ""
+msgstr "Възможности"
 
 #: website/base-resp.html:40
 msgid "Releases"
-msgstr ""
+msgstr "Издания"
 
 #: website/base-resp.html:45
 msgid "Thunderbird for Organizations"
@@ -46,19 +46,19 @@ msgstr ""
 
 #: website/base-resp.html:52 website/base-resp.html:57
 msgid "Add-ons"
-msgstr ""
+msgstr "Добавки"
 
 #: website/base-resp.html:62
 msgid "Themes"
-msgstr ""
+msgstr "Теми"
 
 #: website/base-resp.html:69
 msgid "Support"
-msgstr ""
+msgstr "Поддръжка"
 
 #: website/base-resp.html:74 website/site-footer.html:17
 msgid "Donate"
-msgstr ""
+msgstr "Даряване"
 
 #: website/download-button.html:7 website/download-button.html:48
 msgid "Download Thunderbird"
@@ -88,29 +88,31 @@ msgstr ""
 
 #: website/download-button.html:57
 msgid "Systems &amp; Languages"
-msgstr ""
+msgstr "Системи и езици"
 
 #: website/download-button.html:59
 msgid "What’s New"
-msgstr ""
+msgstr "Новото в това издание"
 
 #: website/download-button.html:61 website/site-footer.html:22
 msgid "Privacy"
-msgstr ""
+msgstr "Лични данни"
 
 #: website/index.html:8
 msgid "Software made to make email easier."
-msgstr ""
+msgstr "Софтуер създаден за да улесни електронната поща."
 
 #: website/index.html:9
 msgid ""
 "Thunderbird is a free email application that’s easy to set up and customize "
 "- and it’s loaded with great features!"
 msgstr ""
+"Thunderbird е безплатна пощенска програма, с която лесно се борави и "
+"приспособява - също така е заредена с чудесни функции!"
 
 #: website/index.html:30
 msgid "Free Download"
-msgstr ""
+msgstr "Свободно изтегляне"
 
 #: website/index.html:35
 msgid "Thunderbird screenshot"
@@ -122,11 +124,11 @@ msgstr ""
 
 #: website/lang_switcher.html:10
 msgid "Page language:"
-msgstr ""
+msgstr "Език на страницата:"
 
 #: website/lang_switcher.html:12
 msgid "Other languages:"
-msgstr ""
+msgstr "Други езици:"
 
 #: website/lang_switcher.html:23
 msgid "Go"
@@ -139,30 +141,33 @@ msgid ""
 "              mozilla.org contributors. Content available under\n"
 "              a <a href=\"%(url)s\">Creative Commons license</a>."
 msgstr ""
+"Части от това съдържание са ©1998–%(current_year)s на индивидуални "
+"сътрудници на mozilla.org. Съдържанието е достъпно под <a "
+"href=\"%(url)s\">Creative Commons license</a>."
 
 #: website/site-footer.html:15
 msgid "About"
-msgstr ""
+msgstr "Относно"
 
 #: website/site-footer.html:16
 msgid "Contact Us"
-msgstr ""
+msgstr "Връзка с нас"
 
 #: website/site-footer.html:18
 msgid "Contribute to this site"
-msgstr ""
+msgstr "Принос към страницата"
 
 #: website/site-footer.html:23
 msgid "Cookies"
-msgstr ""
+msgstr "Бисквитки"
 
 #: website/site-footer.html:24
 msgid "Legal"
-msgstr ""
+msgstr "Правни въпроси"
 
 #: website/site-footer.html:25
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "Докладване на злоупотреба с търговска марка"
 
 #: website/channel/index.html:7
 msgid ""
@@ -198,66 +203,77 @@ msgstr ""
 
 #: website/features/index.html:7
 msgid "Thunderbird Features"
-msgstr ""
+msgstr "Качествана Thunderbird"
 
 #: website/features/index.html:13
 msgid "It’s all yours. It’s now easier to upgrade to Thunderbird."
-msgstr ""
+msgstr "Сега вече е по-лесно да преминем на Thunderbird."
 
 #: website/features/index.html:31 website/features/index.html:40
 msgid "Easier to Get Started"
-msgstr ""
+msgstr "По-лесно е Да Започнете"
 
 #: website/features/index.html:32 website/features/index.html:91
 msgid "Tabs and Search"
-msgstr ""
+msgstr "Табове и Търсачка"
 
 #: website/features/index.html:33 website/features/index.html:164
 msgid "Customize Your Email Experience"
-msgstr ""
+msgstr "Персонализирайте Вашето Преживяване с Електронната Поща"
 
 #: website/features/index.html:34 website/features/index.html:199
 msgid "Secure and Protect Your Email"
-msgstr ""
+msgstr "Обезопасете и Защитете Вашата електронна поща"
 
 #: website/features/index.html:45
 msgid "Mail Account Setup Wizard"
-msgstr ""
+msgstr "Ръководителя за Настройка на Пощи"
 
 #: website/features/index.html:46
 msgid ""
-"Prior to this feature you had to know your IMAP, SMTP, and SSL/TLS settings. "
-"Now all you need to provide is your name, email address, and password and "
-"the email account set up wizardry will check our database and find the email "
-"settings for you."
+"Prior to this feature you had to know your IMAP, SMTP, and SSL/TLS settings."
+" Now all you need to provide is your name, email address, and password and "
+"the email account set up wizardry will check our database and find the email"
+" settings for you."
 msgstr ""
+"Преди излизането на тази функция трябваше да знаете вашите IMAP, SMTP, и "
+"SSL/TLS настройки. Сега всичко което е нужно да посочите - са името, "
+"пощенския адрес и паролата, след което помощника за настройка на пощи ще "
+"провери автоматично нашата база данни и ще въведе необходимите настройки."
 
 #: website/features/index.html:64
 msgid "One-click Address Book"
-msgstr ""
+msgstr "Адресник с Едно-щракване"
 
 #: website/features/index.html:65
 msgid ""
-"One-click Address Book is a quick and easy way to add people to your address "
-"book. Add people by simply clicking on the star icon in the message you "
-"receive. Two clicks and you can add more details like a photo, birthday, and "
-"other contact information."
+"One-click Address Book is a quick and easy way to add people to your address"
+" book. Add people by simply clicking on the star icon in the message you "
+"receive. Two clicks and you can add more details like a photo, birthday, and"
+" other contact information."
 msgstr ""
+"Адресника с Едно-Цъкане е бърз и лесен начин да добавите нови контакти към "
+"вашия адресник. За да добавите просто цъкнете звездичката в получено "
+"съобщение. С две цъкания ще добавите подробности като снимка, рожден ден и "
+"друга информация за контакта."
 
 #: website/features/index.html:71
 msgid "Attachment Reminder"
-msgstr ""
+msgstr "Напомняне за Прикачени Файлове"
 
 #: website/features/index.html:72
 msgid ""
 "The attachment reminder looks for the word attachment (and other words like "
-"file types) in the body of your message and reminds you to add an attachment "
-"before hitting send."
+"file types) in the body of your message and reminds you to add an attachment"
+" before hitting send."
 msgstr ""
+"Системата следи за думи като \"прикачен\" и файлови разширения в съдържанието "
+"на съобщенията Ви и проверява дали не сте забравили нещо за да Ви напомни "
+"преди да изпратите писмото."
 
 #: website/features/index.html:103
 msgid "Tabs"
-msgstr ""
+msgstr "Табове"
 
 #: website/features/index.html:104
 msgid ""
@@ -267,50 +283,71 @@ msgid ""
 "to an earlier email. Tabbed email lets you keep multiple emails open for "
 "easy reference."
 msgstr ""
+"Ако Ви харесва Табовото сърфиране във Firefox’s, ще обикнете и табулираната "
+"поща. Можете да зареждате различни писма в различни табове и лесно да се "
+"прехвърляте от едно на друго. Пощата в табове улеснява справките Ви в "
+"различни писма когато имате нужда. За улеснение табовете Ви позволяват да "
+"държите множество писма отворени едновременно."
 
 #: website/features/index.html:105
 msgid ""
 "Double-clicking or hitting enter on a mail message will now open that "
-"message in a new tab window. Right-clicking on messages or folders will open "
-"them in a tab in the background."
+"message in a new tab window. Right-clicking on messages or folders will open"
+" them in a tab in the background."
 msgstr ""
+"Двойно-цъкане или натискане на enter вече отваря текущото писмо в нов табов "
+"прозорец. Дясно-цъкане на съобщенията или папки ги отваря в таб на задния "
+"фон."
 
 #: website/features/index.html:106
 msgid ""
 "When quitting Thunderbird, visible tabs will be saved and will be restored "
-"when you open Thunderbird the next time. There is also a Tab menu on the Tab "
-"toolbar to help you switch between Tabs."
+"when you open Thunderbird the next time. There is also a Tab menu on the Tab"
+" toolbar to help you switch between Tabs."
 msgstr ""
+"При изход от Thunderbird, видимите табове се запазват и възстановяват при "
+"следващото отваряне на Thunderbird. Също има меню за Табовете върху лентата "
+"с инструменти за Табове за да Ви помогне да превключвате между тях."
 
 #: website/features/index.html:126
 msgid "Quick Filter Toolbar"
-msgstr ""
+msgstr "Лента с инструменти за Бързо Филтриране"
 
 #: website/features/index.html:127
 msgid ""
 "The Quick Filter Toolbar lets you filter your email faster. Start typing in "
 "words in the Quick Filter search box and the results are displayed "
-"instantly. Or you can filter your email by New Messages, Tags, and people in "
-"your Address Book. You can also \"Pin\" or save a Filter and use it across "
+"instantly. Or you can filter your email by New Messages, Tags, and people in"
+" your Address Book. You can also \"Pin\" or save a Filter and use it across "
 "multiple folders."
 msgstr ""
+"Лентата с инструменти за Бързо Филтриране спомага за по-бързото разпределяна"
+" не пощата ви. Започнете да въвеждате думи във полето за търсене на Бързия "
+"Филтър и получавате светкавични резултати. Или пък можете да филтрирате поща"
+" според Нови съобщения, Маркери, Контакти в адресника итн. Можете същото да "
+"\"Закачате\" или запазите Филтър и да го ползвате из множество папки."
 
 #: website/features/index.html:137
 msgid "Search"
-msgstr ""
+msgstr "Търсене"
 
 #: website/features/index.html:138
 msgid ""
-"The search interface in Thunderbird contains filtering and timeline tools to "
-"pinpoint the exact email you’re looking for. Thunderbird also indexes all of "
-"your emails to help you search even faster. Your search results are "
+"The search interface in Thunderbird contains filtering and timeline tools to"
+" pinpoint the exact email you’re looking for. Thunderbird also indexes all "
+"of your emails to help you search even faster. Your search results are "
 "displayed in a tab so you can easily switch back and forth to your search "
 "results and other email."
 msgstr ""
+"Инструментите за търсене в Thunderbird съдържа функции за филтриране и "
+"хронология за да спомогнат за намирането на точното писмо. Thunderbird също "
+"така индексира всичките Ви писма което значително забързва търсенето. "
+"Резултатите от търсенето са показани в Таб така че да можете лесно боравите "
+"между тях и други писма."
 
 #: website/features/index.html:147
 msgid "Message Archive"
-msgstr ""
+msgstr "Архив на Съобщенията"
 
 #: website/features/index.html:148
 msgid ""
@@ -318,15 +355,19 @@ msgid ""
 "your inbox without deleting it, archive it! Archiving helps you manage your "
 "inbox and put your email into the archive folder system."
 msgstr ""
+"Ако смятате че ще имате нужда от определени писма в бъдеще но не ги искате "
+"смесени с останалите в главната поща можете да ги архивирате! Архивирането "
+"спомага да ръководите кутията за нова поща и да прехвърляте писма в "
+"системата за архивиране."
 
 #: website/features/index.html:149
 msgid ""
 "Selecting the Archive button or hitting the ‘A’ key will archive your email."
-msgstr ""
+msgstr "Избирайки бутона Архивирай или клавиш "А" можете да архивирате поща."
 
 #: website/features/index.html:155
 msgid "Activity Manager"
-msgstr ""
+msgstr "Мениджър по Активности"
 
 #: website/features/index.html:156
 msgid ""
@@ -334,10 +375,13 @@ msgid ""
 "your email provider in one place. There’s no more guess work. You only have "
 "to look in one place to see everything that’s happening with your email."
 msgstr ""
+"Мениджъра по Активността записва всички взаимодействия между Thunderbird и "
+"пощенския Ви доставчик на едно място. Вече няма гадаене. С един поглед на "
+"едно място можете да видите всичко което се случва във вашата поща."
 
 #: website/features/index.html:180
 msgid "Thunderbird Look & Feel"
-msgstr ""
+msgstr "Образ и Усет на Thunderbird"
 
 #: website/features/index.html:181
 msgid ""
@@ -346,34 +390,47 @@ msgid ""
 "latest movies, famous landmarks, and Japanese tattoos. You can also choose "
 "from several Themes that dress up all the different icons in Thunderbird."
 msgstr ""
+"С Персони, леки \"кожи\" можете да променяте образа на вашия Thunderbird "
+"моментално. Достъпни са стотици варианти от всякакви видове. Можете също да "
+"избирате и от множество Теми които преобразяват целия набор икони в "
+"Thunderbird."
 
 #: website/features/index.html:184
 msgid "Smart Folders"
-msgstr ""
+msgstr "Умни Папки"
 
 #: website/features/index.html:185
 msgid ""
 "Smart Folders help you manage multiple email accounts by combining special "
 "folders like your Inbox, Sent, or Archive folder. Instead of going to the "
-"Inbox for each of your mail accounts, you can see all of your incoming email "
-"in one Inbox folder."
+"Inbox for each of your mail accounts, you can see all of your incoming email"
+" in one Inbox folder."
 msgstr ""
+"Умните Папки позволяват да боравите с множество пощенски регистрации като "
+"комбинира основни папки като \"Входящи\", \"Изпратени\" или \"Архивирани\". Вместо"
+" да влизате във входящата кутия на множество регистрации, можете да видите "
+"всички нови писма на едно място."
 
 #: website/features/index.html:190
 msgid "Add-ons Manager"
-msgstr ""
+msgstr "Мениджъра за Добавки"
 
 #: website/features/index.html:191
 msgid ""
 "Find and install add-ons directly in Thunderbird. You no longer need to "
-"visit the add-ons Web site - instead simply fire up the Add-ons Manager. Not "
-"sure which add-on is right for you? Ratings, recommendations, descriptions "
+"visit the add-ons Web site - instead simply fire up the Add-ons Manager. Not"
+" sure which add-on is right for you? Ratings, recommendations, descriptions "
 "and pictures of the add-ons in action help you make your selection."
 msgstr ""
+"Изберете и инсталирайте Добавки директно към Thunderbird. Вече не е "
+"необходимо да ходите до сайта за добавки а просто да пуснете Мениджъра за "
+"Добавки. Не сте сигурни коя добавка е подходяща за вас? По всяко време "
+"можете прегледате рейтинги, препоръки, описания, снимки и да задавате "
+"въпроси на място за да решите кои са подходящи за Вас."
 
 #: website/features/index.html:208
 msgid "Robust Privacy"
-msgstr ""
+msgstr "Строга Поверителност"
 
 #: website/features/index.html:209
 msgid ""
@@ -381,10 +438,13 @@ msgid ""
 "ensure a user’s privacy, Thunderbird automatically blocks remote images in "
 "email messages."
 msgstr ""
+"Thunderbird предлага задълбочена поддръжка за вашата поверителност както и "
+"защита от външни изображения. За да подсигури вашата поверителност, "
+"Thunderbird автоматично блокира външни изображения към писмата."
 
 #: website/features/index.html:216
 msgid "Phishing Protection"
-msgstr ""
+msgstr "Защита от Измами"
 
 #: website/features/index.html:217
 msgid ""
@@ -392,36 +452,48 @@ msgid ""
 "handing over personal and confidential information by indicating when a "
 "message is a potential phishing attempt. As a second line of defense, "
 "Thunderbird warns you when you click on a link which appears to be taking "
-"you to a different Web site than the one indicated by the URL in the message."
+"you to a different Web site than the one indicated by the URL in the "
+"message."
 msgstr ""
+"Thunderbird ви пази от писма който се опитват да ви заблудят за да получат "
+"лична и конфиденциална информация от вас и ви предупреждава когато "
+"определено писмо е потенциална измама. Като допълнителна защита, Thunderbird"
+" ви предупреждава когато цъкнете на някоя връзка която се опитва да ви "
+"отведе на различно място от упоменатото в съобщението."
 
 #: website/features/index.html:225
 msgid "Automated Update"
-msgstr ""
+msgstr "Автоматично Обновление"
 
 #: website/features/index.html:228
 msgid ""
 "Thunderbird’s update system checks to see if you’re running the latest "
 "version, and notifies you when a security update is available. These "
-"security updates are small (usually 200KB - 700KB), giving you only what you "
-"need and making the security update quick to download and install. The "
+"security updates are small (usually 200KB - 700KB), giving you only what you"
+" need and making the security update quick to download and install. The "
 "automated update system provides updates for Thunderbird on Windows, macOS, "
 "and Linux in over 40 different languages."
 msgstr ""
+"Системата за обновления на Thunderbird проверява дали използвате последната "
+"версия и ви уведомява когато има достъпни обновления. Обновленията по "
+"сигурността обикновено са с малък размер от 200 KB - 700 KB, правейки "
+"свалянето, боравенето и инсталирането им бърз процес. Автоматичната система "
+"за обновления доставя най-новия Thunderbird за Windows, macOS и Linux в над "
+"40 различни езика."
 
 #: website/features/index.html:230
 msgid ""
 "Thunderbird’s update system checks to see if you’re running the latest "
 "version, and notifies you when a security update is available. These "
-"security updates are small (usually 200KB - 700KB), giving you only what you "
-"need and making the security update quick to download and install. The "
+"security updates are small (usually 200KB - 700KB), giving you only what you"
+" need and making the security update quick to download and install. The "
 "automated update system provides updates for Thunderbird on Windows, OS X, "
 "and Linux in over 40 different languages."
 msgstr ""
 
 #: website/features/index.html:238
 msgid "Cutting Out the Junk"
-msgstr ""
+msgstr "Отрязване на Боклука"
 
 #: website/features/index.html:239
 msgid ""
@@ -432,20 +504,33 @@ msgid ""
 "matters. Thunderbird can also use your mail provider’s spam filters to keep "
 "junk mail out of your inbox."
 msgstr ""
+"Популярните инструменти за боклуци които има Thunderbird са усъвършенствани "
+"така, че да са една крачка напред от нежеланата поща. Всяко писмо което "
+"получавате преминава най-модерните Thunderbird филтри за нежелана поща. "
+"Всеки път когато маркирате писмо като нежелано системата на Thunderbird го "
+"взима в предвид и се развива, за да можете да прекарвате повече време "
+"четейки писма от значение. Thunderbird може също да ползва филтрите за "
+"нежелана поща и на вашия доставчик за по-голяма защита от боклуци."
 
 #: website/features/index.html:242
 msgid "Open Source"
-msgstr ""
+msgstr "Отворен Код"
 
 #: website/features/index.html:243
 msgid ""
 "At the heart of Thunderbird is an open source development process driven by "
 "thousands of passionate, experienced developers and security experts spread "
 "all over the world. Our openness and active community of experts helps to "
-"ensure our products are more secure and quickly updated, while also enabling "
-"us to take advantage of the best third party security scanning and "
+"ensure our products are more secure and quickly updated, while also enabling"
+" us to take advantage of the best third party security scanning and "
 "evaluation tools to further bolster overall security."
 msgstr ""
+"Сърцето на Thunderbird е отворено към всеки и е водено от хиляди пламенни, "
+"опитни разработчици и експерти по сигурността от цял свят. Нашата отворена "
+"среда и активна общност от експерти спомага да подсигурим защита заедно с "
+"постоянното усъвършенстване на нашите продукти и едновременно с това да се "
+"оползотворяват най-добрите защитни средства от трети лица за още по-голяма "
+"сигурност."
 
 #: website/thunderbird/all/index.html:10
 #, python-format
@@ -500,7 +585,7 @@ msgstr ""
 
 #: website/thunderbird/releases/index.html:19
 msgid "Release Notes"
-msgstr ""
+msgstr "Бележки към изданието"
 
 #: website/thunderbird/releases/index.html:25
 msgid "Thunderbird Releases"

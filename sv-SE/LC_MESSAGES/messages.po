@@ -11,15 +11,15 @@ msgstr ""
 "PO-Revision-Date: 2018-03-03 23:50-0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: sv-SE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.5.3\n"
-"Language: sv-SE\n"
 
 #: website/base-resp.html:24
 msgid "Menu"
-msgstr ""
+msgstr "Meny"
 
 #: website/base-resp.html:26 website/index.html:7 website/index.html:14
 #: website/index.html:26 website/index.html:40 website/index.html:59
@@ -33,11 +33,11 @@ msgstr ""
 
 #: website/base-resp.html:35
 msgid "Features"
-msgstr ""
+msgstr "Funktioner"
 
 #: website/base-resp.html:40
 msgid "Releases"
-msgstr ""
+msgstr "Utgåvor"
 
 #: website/base-resp.html:45
 msgid "Thunderbird for Organizations"
@@ -45,19 +45,19 @@ msgstr ""
 
 #: website/base-resp.html:52 website/base-resp.html:57
 msgid "Add-ons"
-msgstr ""
+msgstr "Tillägg"
 
 #: website/base-resp.html:62
 msgid "Themes"
-msgstr ""
+msgstr "Teman"
 
 #: website/base-resp.html:69
 msgid "Support"
-msgstr ""
+msgstr "Hjälpcenter"
 
 #: website/base-resp.html:74 website/site-footer.html:17
 msgid "Donate"
-msgstr ""
+msgstr "Donera"
 
 #: website/download-button.html:7 website/download-button.html:48
 msgid "Download Thunderbird"
@@ -87,29 +87,31 @@ msgstr ""
 
 #: website/download-button.html:57
 msgid "Systems &amp; Languages"
-msgstr ""
+msgstr "System &amp; språk"
 
 #: website/download-button.html:59
 msgid "What’s New"
-msgstr ""
+msgstr "Nyheter"
 
 #: website/download-button.html:61 website/site-footer.html:22
 msgid "Privacy"
-msgstr ""
+msgstr "Sekretess"
 
 #: website/index.html:8
 msgid "Software made to make email easier."
-msgstr ""
+msgstr "Gör e-post enklare."
 
 #: website/index.html:9
 msgid ""
 "Thunderbird is a free email application that’s easy to set up and customize "
 "- and it’s loaded with great features!"
 msgstr ""
+"Thunderbird är ett gratis e-postprogram som är enkelt att använda och "
+"anpassa — och som är späckat med fantastiska funktioner!"
 
 #: website/index.html:30
 msgid "Free Download"
-msgstr ""
+msgstr "Hämta gratis"
 
 #: website/index.html:35
 msgid "Thunderbird screenshot"
@@ -121,11 +123,11 @@ msgstr ""
 
 #: website/lang_switcher.html:10
 msgid "Page language:"
-msgstr ""
+msgstr "Sidspråk:"
 
 #: website/lang_switcher.html:12
 msgid "Other languages:"
-msgstr ""
+msgstr "Andra språk:"
 
 #: website/lang_switcher.html:23
 msgid "Go"
@@ -138,30 +140,33 @@ msgid ""
 "              mozilla.org contributors. Content available under\n"
 "              a <a href=\"%(url)s\">Creative Commons license</a>."
 msgstr ""
+"Upphovsrätten för delar av detta innehåll tillhör enskilda medarbetare vid "
+"mozilla.org – ©1998–%(current_year)s. Innehållet är tillgängligt under en <a"
+" href=\"%(url)s\">Creative Commons-licens</a>."
 
 #: website/site-footer.html:15
 msgid "About"
-msgstr ""
+msgstr "Om Mozilla"
 
 #: website/site-footer.html:16
 msgid "Contact Us"
-msgstr ""
+msgstr "Kontakta oss"
 
 #: website/site-footer.html:18
 msgid "Contribute to this site"
-msgstr ""
+msgstr "Bidra till den här webbplatsen"
 
 #: website/site-footer.html:23
 msgid "Cookies"
-msgstr ""
+msgstr "Kakor"
 
 #: website/site-footer.html:24
 msgid "Legal"
-msgstr ""
+msgstr "Juridisk information"
 
 #: website/site-footer.html:25
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "Rapportera varu&shy;märkes&shy;intrång"
 
 #: website/channel/index.html:7
 msgid ""
@@ -197,66 +202,78 @@ msgstr ""
 
 #: website/features/index.html:7
 msgid "Thunderbird Features"
-msgstr ""
+msgstr "Thunderbirds huvudfunktioner"
 
 #: website/features/index.html:13
 msgid "It’s all yours. It’s now easier to upgrade to Thunderbird."
 msgstr ""
+"Din och ingen annans. Nu är det enklare att uppgradera till Thunderbird."
 
 #: website/features/index.html:31 website/features/index.html:40
 msgid "Easier to Get Started"
-msgstr ""
+msgstr "Enklare att komma igång"
 
 #: website/features/index.html:32 website/features/index.html:91
 msgid "Tabs and Search"
-msgstr ""
+msgstr "Flikar och sökning"
 
 #: website/features/index.html:33 website/features/index.html:164
 msgid "Customize Your Email Experience"
-msgstr ""
+msgstr "Gör din e-postupplevelse personlig"
 
 #: website/features/index.html:34 website/features/index.html:199
 msgid "Secure and Protect Your Email"
-msgstr ""
+msgstr "Säkra och skydda din e-post"
 
 #: website/features/index.html:45
 msgid "Mail Account Setup Wizard"
-msgstr ""
+msgstr "Kontoguiden"
 
 #: website/features/index.html:46
 msgid ""
-"Prior to this feature you had to know your IMAP, SMTP, and SSL/TLS settings. "
-"Now all you need to provide is your name, email address, and password and "
-"the email account set up wizardry will check our database and find the email "
-"settings for you."
+"Prior to this feature you had to know your IMAP, SMTP, and SSL/TLS settings."
+" Now all you need to provide is your name, email address, and password and "
+"the email account set up wizardry will check our database and find the email"
+" settings for you."
 msgstr ""
+"Innan den här funktionen introducerades var du tvungen att själv känna till "
+"dina IMAP-, SMTP- och SSL/TLS-inställningar. Nu behöver du bara ange ditt "
+"namn, din e-postadress och ditt lösenord, så kommer Kontoguiden att söka i "
+"vår databas och leta reda på de rätta e-postinställningarna åt dig."
 
 #: website/features/index.html:64
 msgid "One-click Address Book"
-msgstr ""
+msgstr "Adressbok med enkelklicksfunktion"
 
 #: website/features/index.html:65
 msgid ""
-"One-click Address Book is a quick and easy way to add people to your address "
-"book. Add people by simply clicking on the star icon in the message you "
-"receive. Two clicks and you can add more details like a photo, birthday, and "
-"other contact information."
+"One-click Address Book is a quick and easy way to add people to your address"
+" book. Add people by simply clicking on the star icon in the message you "
+"receive. Two clicks and you can add more details like a photo, birthday, and"
+" other contact information."
 msgstr ""
+"Adressbokens enkelklicksfunktion är ett snabbt och enkelt sätt att lägga "
+"till personer i din adressbok. Klicka bara på stjärnikonen i meddelanden du "
+"tar emot. Två klick ger dig en möjlighet att lägga till mer information, "
+"t.ex. ett fotografi, födelsedag och annan kontaktinformation."
 
 #: website/features/index.html:71
 msgid "Attachment Reminder"
-msgstr ""
+msgstr "Bli påmind om bilagor"
 
 #: website/features/index.html:72
 msgid ""
 "The attachment reminder looks for the word attachment (and other words like "
-"file types) in the body of your message and reminds you to add an attachment "
-"before hitting send."
+"file types) in the body of your message and reminds you to add an attachment"
+" before hitting send."
 msgstr ""
+"Bilagepåminnelsefunktionen letar efter ordet \"bilaga\" (och andra ord, bl.a. "
+"vissa filtyper) i meddelandetexten och påminner dig att lägga till en bilaga"
+" innan du skickar meddelandet."
 
 #: website/features/index.html:103
 msgid "Tabs"
-msgstr ""
+msgstr "Flikar"
 
 #: website/features/index.html:104
 msgid ""
@@ -266,50 +283,72 @@ msgid ""
 "to an earlier email. Tabbed email lets you keep multiple emails open for "
 "easy reference."
 msgstr ""
+"Om du gillar Firefox flikbaserade surfning, så kommer du att älska "
+"meddelandeflikarna. Flikbaserad e-post låter dig läsa in meddelanden i "
+"separata flikar så att du snabbt kan hoppa mellan dem. Du kanske svarar på "
+"ett meddelande och behöver referera till ett tidigare meddelande. "
+"Flikbaserad e-post låter dig behålla flera meddelanden öppna samtidigt för "
+"enkel referens."
 
 #: website/features/index.html:105
 msgid ""
 "Double-clicking or hitting enter on a mail message will now open that "
-"message in a new tab window. Right-clicking on messages or folders will open "
-"them in a tab in the background."
+"message in a new tab window. Right-clicking on messages or folders will open"
+" them in a tab in the background."
 msgstr ""
+"Dubbelklick eller ett tryck på Retur på ett e-postmeddelande kommer nu att "
+"öppna det meddelandet i en ny flik. Högerklick på meddelanden eller mappar "
+"kommer att öppna dem i en flik i bakgrunden."
 
 #: website/features/index.html:106
 msgid ""
 "When quitting Thunderbird, visible tabs will be saved and will be restored "
-"when you open Thunderbird the next time. There is also a Tab menu on the Tab "
-"toolbar to help you switch between Tabs."
+"when you open Thunderbird the next time. There is also a Tab menu on the Tab"
+" toolbar to help you switch between Tabs."
 msgstr ""
+"När du avslutar Thunderbird, kommer öppnade flikar att sparas och "
+"återställas nästa gång du startar Thunderbird. Det finns även en flikmeny i "
+"flikfältet för att hjälpa dig att byta mellan flikar."
 
 #: website/features/index.html:126
 msgid "Quick Filter Toolbar"
-msgstr ""
+msgstr "Snabbfilterfält"
 
 #: website/features/index.html:127
 msgid ""
 "The Quick Filter Toolbar lets you filter your email faster. Start typing in "
 "words in the Quick Filter search box and the results are displayed "
-"instantly. Or you can filter your email by New Messages, Tags, and people in "
-"your Address Book. You can also \"Pin\" or save a Filter and use it across "
+"instantly. Or you can filter your email by New Messages, Tags, and people in"
+" your Address Book. You can also \"Pin\" or save a Filter and use it across "
 "multiple folders."
 msgstr ""
+"Snabbfilterfältet låter dig filtrera din e-post snabbare. Börja skriva in "
+"ord i snabbfilterfältets sökruta och resultaten visas omedelbart. Du kan "
+"även snabbfiltrera din e-post efter Olästa meddelanden, Taggar och Kontakter"
+" i din adressbok. Dessutom kan du \"nåla fast\" eller spara ett filter och "
+"använda det över flera mappar."
 
 #: website/features/index.html:137
 msgid "Search"
-msgstr ""
+msgstr "Sökning"
 
 #: website/features/index.html:138
 msgid ""
-"The search interface in Thunderbird contains filtering and timeline tools to "
-"pinpoint the exact email you’re looking for. Thunderbird also indexes all of "
-"your emails to help you search even faster. Your search results are "
+"The search interface in Thunderbird contains filtering and timeline tools to"
+" pinpoint the exact email you’re looking for. Thunderbird also indexes all "
+"of your emails to help you search even faster. Your search results are "
 "displayed in a tab so you can easily switch back and forth to your search "
 "results and other email."
 msgstr ""
+"Sökgränssnittet i Thunderbird innehåller filtrerings- och tidslinjeverktyg "
+"för att ringa in exakt det meddelande som du letar efter. Thunderbird "
+"indexerar också alla dina meddelanden för att hjälpa dig söka ännu snabbare."
+" Dina sökresultat visas i en flik så att du enkelt kan växla fram och "
+"tillbaka mellan dina sökresultat och andra e-postmeddelanden."
 
 #: website/features/index.html:147
 msgid "Message Archive"
-msgstr ""
+msgstr "Meddelandearkiv"
 
 #: website/features/index.html:148
 msgid ""
@@ -317,15 +356,21 @@ msgid ""
 "your inbox without deleting it, archive it! Archiving helps you manage your "
 "inbox and put your email into the archive folder system."
 msgstr ""
+"Om du tror att du kommer att behöva ett meddelande i framtiden, men "
+"samtidigt vill få undan det ur din inkorg utan att radera det, arkivera det!"
+" Arkivering hjälper dig att hantera din inkorg och lägger din e-post i "
+"arkivmappsystemet."
 
 #: website/features/index.html:149
 msgid ""
 "Selecting the Archive button or hitting the ‘A’ key will archive your email."
 msgstr ""
+"Ett klick på knappen Arkivera eller ett tryck på \"A\"-tangenten arkiverar din"
+" e-post."
 
 #: website/features/index.html:155
 msgid "Activity Manager"
-msgstr ""
+msgstr "Aktivitetshanterare"
 
 #: website/features/index.html:156
 msgid ""
@@ -333,10 +378,14 @@ msgid ""
 "your email provider in one place. There’s no more guess work. You only have "
 "to look in one place to see everything that’s happening with your email."
 msgstr ""
+"Aktivitetshanteraren registrerar all växelverkan mellan Thunderbird och din "
+"e-postleverantör på ett och samma ställe. Du slipper alla dessa gissningar. "
+"Du behöver bara titta på ett enda ställe för att se allting som händer med "
+"din e-post."
 
 #: website/features/index.html:180
 msgid "Thunderbird Look & Feel"
-msgstr ""
+msgstr "Thunderbirds utseende"
 
 #: website/features/index.html:181
 msgid ""
@@ -345,34 +394,48 @@ msgid ""
 "latest movies, famous landmarks, and Japanese tattoos. You can also choose "
 "from several Themes that dress up all the different icons in Thunderbird."
 msgstr ""
+"Med Personor, ett slags lättviktsskal, kan du byta Thunderbirds utseende på "
+"ett ögonblick. Hundratals skal finns tillgängliga med motiv baserade på "
+"t.ex. de senaste filmerna, berömda landmärken och japanska tatueringar. Du "
+"kan även välja bland ett flertal teman som dessutom ändrar utseendet på alla"
+" Thunderbirds ikoner."
 
 #: website/features/index.html:184
 msgid "Smart Folders"
-msgstr ""
+msgstr "Smarta mappar"
 
 #: website/features/index.html:185
 msgid ""
 "Smart Folders help you manage multiple email accounts by combining special "
 "folders like your Inbox, Sent, or Archive folder. Instead of going to the "
-"Inbox for each of your mail accounts, you can see all of your incoming email "
-"in one Inbox folder."
+"Inbox for each of your mail accounts, you can see all of your incoming email"
+" in one Inbox folder."
 msgstr ""
+"Smarta mappar hjälper dig att hantera flera e-postkonton genom att kombinera"
+" särskilda mappar, t.ex. mapparna Inkorgen, Skickat eller Arkiverat. "
+"Istället för att gå till inkorgen för vart och ett av dina e-postkonton, kan"
+" du se all din inkommande e-post i en gemensam inkorg."
 
 #: website/features/index.html:190
 msgid "Add-ons Manager"
-msgstr ""
+msgstr "Tilläggshanterare"
 
 #: website/features/index.html:191
 msgid ""
 "Find and install add-ons directly in Thunderbird. You no longer need to "
-"visit the add-ons Web site - instead simply fire up the Add-ons Manager. Not "
-"sure which add-on is right for you? Ratings, recommendations, descriptions "
+"visit the add-ons Web site - instead simply fire up the Add-ons Manager. Not"
+" sure which add-on is right for you? Ratings, recommendations, descriptions "
 "and pictures of the add-ons in action help you make your selection."
 msgstr ""
+"Sök efter och installera tillägg direkt i Thunderbird. Du behöver inte "
+"längre gå till tilläggswebbplatsen via din webbläsare - öppna bara "
+"tilläggshanteraren. Är du osäker på vilka tillägg som passar just dig? "
+"Betyg, rekommendationer, beskrivningar och bilder på tillägg under "
+"användning hjälper dig att välja."
 
 #: website/features/index.html:208
 msgid "Robust Privacy"
-msgstr ""
+msgstr "Robust integritetsskydd"
 
 #: website/features/index.html:209
 msgid ""
@@ -380,10 +443,13 @@ msgid ""
 "ensure a user’s privacy, Thunderbird automatically blocks remote images in "
 "email messages."
 msgstr ""
+"Thunderbird erbjuder stöd för integritetsskydd och skydd mot fjärrbilder. "
+"För att säkerställa skyddet av användares integritet, blockerar Thunderbird "
+"automatiskt alla fjärrbilder i e-postmeddelanden."
 
 #: website/features/index.html:216
 msgid "Phishing Protection"
-msgstr ""
+msgstr "Skydd mot nätfiske"
 
 #: website/features/index.html:217
 msgid ""
@@ -391,36 +457,49 @@ msgid ""
 "handing over personal and confidential information by indicating when a "
 "message is a potential phishing attempt. As a second line of defense, "
 "Thunderbird warns you when you click on a link which appears to be taking "
-"you to a different Web site than the one indicated by the URL in the message."
+"you to a different Web site than the one indicated by the URL in the "
+"message."
 msgstr ""
+"Thunderbird skyddar dig mot e-postbedrägerier som försöker lura användare "
+"att lämna ifrån sig personlig och konfidentiell information genom att "
+"indikera om ett meddelande är ett potentiellt nätfiskeförsök. Som en andra "
+"försvarslinje varnar Thunderbird dig när du klickar på en länk som verkar ta"
+" dig till en annan webbplats än den som framgår av webbadressen i "
+"meddelandet."
 
 #: website/features/index.html:225
 msgid "Automated Update"
-msgstr ""
+msgstr "Automatiska uppdateringar"
 
 #: website/features/index.html:228
 msgid ""
 "Thunderbird’s update system checks to see if you’re running the latest "
 "version, and notifies you when a security update is available. These "
-"security updates are small (usually 200KB - 700KB), giving you only what you "
-"need and making the security update quick to download and install. The "
+"security updates are small (usually 200KB - 700KB), giving you only what you"
+" need and making the security update quick to download and install. The "
 "automated update system provides updates for Thunderbird on Windows, macOS, "
 "and Linux in over 40 different languages."
 msgstr ""
+"Thunderbirds uppdateringssystem kontrollerar om du kör den senaste versionen"
+" och meddelar dig när en säkerhetsuppdatering finns. Dessa "
+"säkerhetsuppdateringar är små (vanligtvis 200kB - 700kB), vilket ger dig det"
+" du behöver och gör säkerhetsuppdateringen snabb att ladda ner och "
+"installera. Det automatiserade uppdateringssystemet innehåller uppdateringar"
+" för Thunderbird på Windows, macOS och Linux på över 40 olika språk."
 
 #: website/features/index.html:230
 msgid ""
 "Thunderbird’s update system checks to see if you’re running the latest "
 "version, and notifies you when a security update is available. These "
-"security updates are small (usually 200KB - 700KB), giving you only what you "
-"need and making the security update quick to download and install. The "
+"security updates are small (usually 200KB - 700KB), giving you only what you"
+" need and making the security update quick to download and install. The "
 "automated update system provides updates for Thunderbird on Windows, OS X, "
 "and Linux in over 40 different languages."
 msgstr ""
 
 #: website/features/index.html:238
 msgid "Cutting Out the Junk"
-msgstr ""
+msgstr "Rensa bort allt skräp"
 
 #: website/features/index.html:239
 msgid ""
@@ -431,20 +510,34 @@ msgid ""
 "matters. Thunderbird can also use your mail provider’s spam filters to keep "
 "junk mail out of your inbox."
 msgstr ""
+"Thunderbirds populära skräppostverktyg har uppdaterats för att ligga steget "
+"före skräpposten. Varje meddelande som du tar emot passerar genom "
+"Thunderbirds områdesledande skräppostfilter. Varje gång du märker "
+"meddelanden som skräp \"tränar\" du Thunderbird och förbättrar dess "
+"filtrering, så att du kan lägga mer tid på att läsa de meddelanden som är "
+"viktiga. Thunderbird kan även använda din e-postleverantörs skräppostfilter "
+"för att hålla skräppost borta från din inkorg."
 
 #: website/features/index.html:242
 msgid "Open Source"
-msgstr ""
+msgstr "Öppen källkod"
 
 #: website/features/index.html:243
 msgid ""
 "At the heart of Thunderbird is an open source development process driven by "
 "thousands of passionate, experienced developers and security experts spread "
 "all over the world. Our openness and active community of experts helps to "
-"ensure our products are more secure and quickly updated, while also enabling "
-"us to take advantage of the best third party security scanning and "
+"ensure our products are more secure and quickly updated, while also enabling"
+" us to take advantage of the best third party security scanning and "
 "evaluation tools to further bolster overall security."
 msgstr ""
+"I hjärtat av Thunderbird finns en öppen källkod-baserad utvecklingsprocess, "
+"som drivs av tusentals passionerade, erfarna utvecklare och "
+"säkerhetsexperter spridda över hela världen. Vår öppenhet och aktiva "
+"webbcommunity av experter hjälper till att säkerställa att våra produkter "
+"blir säkrare och snabbt uppdaterade, samtidigt som det låter oss dra nytta "
+"av de bästa tredjepartsverktygen för säkerhetsgenomsökning och -utvärdering "
+"för att ytterligare förstärka den sammantagna säkerheten."
 
 #: website/thunderbird/all/index.html:10
 #, python-format
@@ -499,7 +592,7 @@ msgstr ""
 
 #: website/thunderbird/releases/index.html:19
 msgid "Release Notes"
-msgstr ""
+msgstr "Versionsfakta"
 
 #: website/thunderbird/releases/index.html:25
 msgid "Thunderbird Releases"

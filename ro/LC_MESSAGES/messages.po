@@ -11,17 +11,16 @@ msgstr ""
 "PO-Revision-Date: 2018-03-03 23:50-0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2;\n"
 "Generated-By: Babel 2.5.3\n"
-"Language: ro\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
-"20)) ? 1 : 2;\n"
 
 #: website/base-resp.html:24
 msgid "Menu"
-msgstr ""
+msgstr "Meniu"
 
 #: website/base-resp.html:26 website/index.html:7 website/index.html:14
 #: website/index.html:26 website/index.html:40 website/index.html:59
@@ -35,11 +34,11 @@ msgstr ""
 
 #: website/base-resp.html:35
 msgid "Features"
-msgstr ""
+msgstr "Funcționalități"
 
 #: website/base-resp.html:40
 msgid "Releases"
-msgstr ""
+msgstr "Lansări"
 
 #: website/base-resp.html:45
 msgid "Thunderbird for Organizations"
@@ -47,19 +46,19 @@ msgstr ""
 
 #: website/base-resp.html:52 website/base-resp.html:57
 msgid "Add-ons"
-msgstr ""
+msgstr "Suplimente"
 
 #: website/base-resp.html:62
 msgid "Themes"
-msgstr ""
+msgstr "Teme"
 
 #: website/base-resp.html:69
 msgid "Support"
-msgstr ""
+msgstr "Suport"
 
 #: website/base-resp.html:74 website/site-footer.html:17
 msgid "Donate"
-msgstr ""
+msgstr "Donează"
 
 #: website/download-button.html:7 website/download-button.html:48
 msgid "Download Thunderbird"
@@ -89,29 +88,31 @@ msgstr ""
 
 #: website/download-button.html:57
 msgid "Systems &amp; Languages"
-msgstr ""
+msgstr "Sisteme și limbi"
 
 #: website/download-button.html:59
 msgid "What’s New"
-msgstr ""
+msgstr "Ce este nou"
 
 #: website/download-button.html:61 website/site-footer.html:22
 msgid "Privacy"
-msgstr ""
+msgstr "Confidențialitate"
 
 #: website/index.html:8
 msgid "Software made to make email easier."
-msgstr ""
+msgstr "Program făcut să facă e-mailul mai ușor."
 
 #: website/index.html:9
 msgid ""
 "Thunderbird is a free email application that’s easy to set up and customize "
 "- and it’s loaded with great features!"
 msgstr ""
+"Thunderbird e o aplicație gratuită ușor de configurat și particularizat - și"
+" e plină de funcții fantastice!"
 
 #: website/index.html:30
 msgid "Free Download"
-msgstr ""
+msgstr "Descărcare gratuită"
 
 #: website/index.html:35
 msgid "Thunderbird screenshot"
@@ -123,11 +124,11 @@ msgstr ""
 
 #: website/lang_switcher.html:10
 msgid "Page language:"
-msgstr ""
+msgstr "Pagină în limba:"
 
 #: website/lang_switcher.html:12
 msgid "Other languages:"
-msgstr ""
+msgstr "Alte limbi:"
 
 #: website/lang_switcher.html:23
 msgid "Go"
@@ -140,46 +141,53 @@ msgid ""
 "              mozilla.org contributors. Content available under\n"
 "              a <a href=\"%(url)s\">Creative Commons license</a>."
 msgstr ""
+"Porțiuni din acest conținut sunt scrise între ©1998–%(current_year)s de "
+"contribuitori individuali mozilla.org. Conținut disponibil sub <a "
+"href=\"%(url)s\">licența Creative Commons</a>."
 
 #: website/site-footer.html:15
 msgid "About"
-msgstr ""
+msgstr "Despre"
 
 #: website/site-footer.html:16
 msgid "Contact Us"
-msgstr ""
+msgstr "Contactează-ne"
 
 #: website/site-footer.html:18
 msgid "Contribute to this site"
-msgstr ""
+msgstr "Contribuie la această pagină"
 
 #: website/site-footer.html:23
 msgid "Cookies"
-msgstr ""
+msgstr "Cookie-uri"
 
 #: website/site-footer.html:24
 msgid "Legal"
-msgstr ""
+msgstr "Mențiuni legale"
 
 #: website/site-footer.html:25
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "Raportează abuzul mărcilor înregistrate"
 
 #: website/channel/index.html:7
 msgid ""
 "Download Thunderbird Earlybird or Beta &amp; Help Determine the Next "
 "Thunderbird"
 msgstr ""
+"Descarcă Thunderbird Earlybird sau Beta și ajută-ne să construim viitorul "
+"Thunderbird"
 
 #: website/channel/index.html:8
 msgid ""
 "Download and test Thunderbird future releases. Experience the newest "
 "innovations with the Earlybird or Beta builds."
 msgstr ""
+"Descarcă și testează edițiile viitoare Thunderbird. Experimentează cu "
+"ultimele inovații cu ajutorul variantelor Earlybird și Beta."
 
 #: website/channel/index.html:18
 msgid "Welcome to the <strong>Future of Thunderbird</strong>"
-msgstr ""
+msgstr "Bun venit în <strong>Viitorul Thunderbird</strong>"
 
 #: website/channel/index.html:19
 msgid ""
@@ -187,78 +195,95 @@ msgid ""
 "newest features in the next version of Thunderbird! By giving us your "
 "feedback, you’ll help make email better for millions of your fellow users."
 msgstr ""
+"Descarcă Earlybird sau Thunderbird beta și fii unul dintre primii care "
+"încearcă cele mai noi funcții din versiunea următoare de Thunderbird! "
+"Oferindu-ne feedback vei face experiența e-mail mai bună pentru milioane de "
+"utilizatori."
 
 #: website/channel/index.html:30
 msgid "Experience cutting edge features with more stability"
-msgstr ""
+msgstr "Experimentează ultimele funcții dar cu mai multă stabilitate"
 
 #: website/channel/index.html:31
 msgid ""
 "Provide feedback to help refine and polish what will be in the final release"
 msgstr ""
+"Oferă feedback și ajută-ne să rafinăm și să șlefuim produsul în lansarea "
+"finală"
 
 #: website/features/index.html:7
 msgid "Thunderbird Features"
-msgstr ""
+msgstr "Funcționalități Thunderbird"
 
 #: website/features/index.html:13
 msgid "It’s all yours. It’s now easier to upgrade to Thunderbird."
 msgstr ""
+"Totul îți aparține. E acum mai ușor ca niciodată să actualizezi Thunderbird."
 
 #: website/features/index.html:31 website/features/index.html:40
 msgid "Easier to Get Started"
-msgstr ""
+msgstr "Ușor de pornit"
 
 #: website/features/index.html:32 website/features/index.html:91
 msgid "Tabs and Search"
-msgstr ""
+msgstr "File și căutare"
 
 #: website/features/index.html:33 website/features/index.html:164
 msgid "Customize Your Email Experience"
-msgstr ""
+msgstr "Particularizează experiența de e-mail"
 
 #: website/features/index.html:34 website/features/index.html:199
 msgid "Secure and Protect Your Email"
-msgstr ""
+msgstr "Securizează și protejează e-mailul"
 
 #: website/features/index.html:45
 msgid "Mail Account Setup Wizard"
-msgstr ""
+msgstr "Noua interfață asistent de configurare cont"
 
 #: website/features/index.html:46
 msgid ""
-"Prior to this feature you had to know your IMAP, SMTP, and SSL/TLS settings. "
-"Now all you need to provide is your name, email address, and password and "
-"the email account set up wizardry will check our database and find the email "
-"settings for you."
+"Prior to this feature you had to know your IMAP, SMTP, and SSL/TLS settings."
+" Now all you need to provide is your name, email address, and password and "
+"the email account set up wizardry will check our database and find the email"
+" settings for you."
 msgstr ""
+"Înainte trebuia să știi setările IMAP, SMTP și SSL/TLS. Acum trebuie doar să"
+" știi numele, adresa de e-mail și parola, iar interfața asistent va verifica"
+" baza de date și va găsi automat setările."
 
 #: website/features/index.html:64
 msgid "One-click Address Book"
-msgstr ""
+msgstr "Agendă de contacte cu un singur clic"
 
 #: website/features/index.html:65
 msgid ""
-"One-click Address Book is a quick and easy way to add people to your address "
-"book. Add people by simply clicking on the star icon in the message you "
-"receive. Two clicks and you can add more details like a photo, birthday, and "
-"other contact information."
+"One-click Address Book is a quick and easy way to add people to your address"
+" book. Add people by simply clicking on the star icon in the message you "
+"receive. Two clicks and you can add more details like a photo, birthday, and"
+" other contact information."
 msgstr ""
+"Agenda de contacte cu un singur clic e o metodă rapidă și ușoară de adăugat "
+"contacte în agendă. Adaugă oameni doar printr-un clic pe iconița stea în "
+"mesajul primit. Prin alte două clicuri poți adăuga alte detalii ca "
+"fotografia, data nașterii și alte informații de contact."
 
 #: website/features/index.html:71
 msgid "Attachment Reminder"
-msgstr ""
+msgstr "Verificator de atașamente lipsă"
 
 #: website/features/index.html:72
 msgid ""
 "The attachment reminder looks for the word attachment (and other words like "
-"file types) in the body of your message and reminds you to add an attachment "
-"before hitting send."
+"file types) in the body of your message and reminds you to add an attachment"
+" before hitting send."
 msgstr ""
+"Verificatorul de atașamente lipsă caută atașamente Word (sau alte tipuri de "
+"fișiere) în corpul mesajului și îți reamintește să adaugi un atașament "
+"înainte de a trimite mesajul."
 
 #: website/features/index.html:103
 msgid "Tabs"
-msgstr ""
+msgstr "File"
 
 #: website/features/index.html:104
 msgid ""
@@ -268,50 +293,70 @@ msgid ""
 "to an earlier email. Tabbed email lets you keep multiple emails open for "
 "easy reference."
 msgstr ""
+"Dacă-ți place navigarea cu file a lui Firefox, o să-ți placă navigarea cu "
+"file de e-mail. Filele de e-mail îți permit încărcarea mai multor e-mailuri "
+"în file separate ca să poți sări ușor între ele. Poate trebuie să răspunzi "
+"la un e-mail și trebuie să te uiți la un e-mail anterior. Filele de e-mail "
+"îți permit ținerea deschisă a mai multor e-mailuri pentru referire ușoară."
 
 #: website/features/index.html:105
 msgid ""
 "Double-clicking or hitting enter on a mail message will now open that "
-"message in a new tab window. Right-clicking on messages or folders will open "
-"them in a tab in the background."
+"message in a new tab window. Right-clicking on messages or folders will open"
+" them in a tab in the background."
 msgstr ""
+"Dublu-clicul sau apăsarea tastei „Enter” într-un mesaj e-mail va deschide "
+"acum o fereastră filă. Clicul dreapta pe mesaje sau directoare le va "
+"deschide într-o filă din fundal."
 
 #: website/features/index.html:106
 msgid ""
 "When quitting Thunderbird, visible tabs will be saved and will be restored "
-"when you open Thunderbird the next time. There is also a Tab menu on the Tab "
-"toolbar to help you switch between Tabs."
+"when you open Thunderbird the next time. There is also a Tab menu on the Tab"
+" toolbar to help you switch between Tabs."
 msgstr ""
+"Când ieși din Thunderbird, filele vizibile vor fi salvate și vor fi "
+"restaurate când deschizi Thunderbird din nou data viitoare. Mai este și un "
+"meniu File în bara de file care-ți permit să comuți între file."
 
 #: website/features/index.html:126
 msgid "Quick Filter Toolbar"
-msgstr ""
+msgstr "Bara de filtrare rapidă"
 
 #: website/features/index.html:127
 msgid ""
 "The Quick Filter Toolbar lets you filter your email faster. Start typing in "
 "words in the Quick Filter search box and the results are displayed "
-"instantly. Or you can filter your email by New Messages, Tags, and people in "
-"your Address Book. You can also \"Pin\" or save a Filter and use it across "
+"instantly. Or you can filter your email by New Messages, Tags, and people in"
+" your Address Book. You can also \"Pin\" or save a Filter and use it across "
 "multiple folders."
 msgstr ""
+"Bara de filtrare rapidă îți permite filtrarea mai rapidă a e-mailurilor. "
+"Începe să tastezi în căsuța de căutare și rezultatele sunt afișate instant. "
+"Sau poți filtra e-mailurile după mesaje noi, etichete și oameni din agendă. "
+"Poți și fixa sau salva un filtru pentru a-l folosi în direcotare multiple."
 
 #: website/features/index.html:137
 msgid "Search"
-msgstr ""
+msgstr "Căutare"
 
 #: website/features/index.html:138
 msgid ""
-"The search interface in Thunderbird contains filtering and timeline tools to "
-"pinpoint the exact email you’re looking for. Thunderbird also indexes all of "
-"your emails to help you search even faster. Your search results are "
+"The search interface in Thunderbird contains filtering and timeline tools to"
+" pinpoint the exact email you’re looking for. Thunderbird also indexes all "
+"of your emails to help you search even faster. Your search results are "
 "displayed in a tab so you can easily switch back and forth to your search "
 "results and other email."
 msgstr ""
+"Interfața de căutare din Thunderbird conține unelte de filtrare și "
+"cronologice care pot localiza exact e-mailul căutat. Thunderbird de asemenea"
+" indexează toate e-mailurile și te ajută să cauți chiar mai rapid. "
+"Rezultatele de căutare sunt afișate într-o filă, așa că poți comuta rapid "
+"înainte și înapoi între rezultatele de cautare și alte e-mailuri."
 
 #: website/features/index.html:147
 msgid "Message Archive"
-msgstr ""
+msgstr "Arhiva de mesaje"
 
 #: website/features/index.html:148
 msgid ""
@@ -319,15 +364,21 @@ msgid ""
 "your inbox without deleting it, archive it! Archiving helps you manage your "
 "inbox and put your email into the archive folder system."
 msgstr ""
+"În cazul în care crezi că ai să ai nevoie de un e-mail în viitor, dar nu-l "
+"vrei în „Mesaje primite” și nici nu vrei să-l ștergi, arhivează-l! Arhivarea"
+" te ajută în gesiunea mesajelor primite și pune e-mailul în dosarul "
+"„Arhive”."
 
 #: website/features/index.html:149
 msgid ""
 "Selecting the Archive button or hitting the ‘A’ key will archive your email."
 msgstr ""
+"Selectarea butonului „Arhivează” sau apăsarea tastei „A” va arhiva e-mailul "
+"tău."
 
 #: website/features/index.html:155
 msgid "Activity Manager"
-msgstr ""
+msgstr "Gestionar de activitate"
 
 #: website/features/index.html:156
 msgid ""
@@ -335,10 +386,14 @@ msgid ""
 "your email provider in one place. There’s no more guess work. You only have "
 "to look in one place to see everything that’s happening with your email."
 msgstr ""
+"Gestionarul de activitate înregistrează toate interacțiunile dintre "
+"Thunderbird și furnizorul tău de e-mail, toate într-un singur loc. Nu mai "
+"trebuie să ghicești. Trebuie să te uiți într-un singur loc pentru a vedea ce"
+" se întâmplă cu e-mailul tău."
 
 #: website/features/index.html:180
 msgid "Thunderbird Look & Feel"
-msgstr ""
+msgstr "Aspect Thunderbird"
 
 #: website/features/index.html:181
 msgid ""
@@ -347,34 +402,48 @@ msgid ""
 "latest movies, famous landmarks, and Japanese tattoos. You can also choose "
 "from several Themes that dress up all the different icons in Thunderbird."
 msgstr ""
+"Cu Personas, skinurile ușoare îți permit să schimbi aspectul Thunderbird "
+"într-o clipă. Sunt disponibile sute de skinuri, de la ultimele filme, "
+"monumente, clădiri faimoase și tatuaje japoneze. Poți alege între mai multe "
+"teme care dichisesc aspectul tuturor iconițelor din Thunderbird."
 
 #: website/features/index.html:184
 msgid "Smart Folders"
-msgstr ""
+msgstr "Directoare inteligente"
 
 #: website/features/index.html:185
 msgid ""
 "Smart Folders help you manage multiple email accounts by combining special "
 "folders like your Inbox, Sent, or Archive folder. Instead of going to the "
-"Inbox for each of your mail accounts, you can see all of your incoming email "
-"in one Inbox folder."
+"Inbox for each of your mail accounts, you can see all of your incoming email"
+" in one Inbox folder."
 msgstr ""
+"Directoarele inteligente îți permit gestionare mai multor conturi de e-mail "
+"prin combinarea directoarelor speciale ca „Mesaje primite”, „Mesaje trimise”"
+" sau „Arhiva”. În loc să mergi la „Mesaje primite” pentru fiecare cont de "
+"e-mail, acum le poți vedea pe toate într-un singur dosar de „Mesaje "
+"primite”."
 
 #: website/features/index.html:190
 msgid "Add-ons Manager"
-msgstr ""
+msgstr "Manager de suplimente"
 
 #: website/features/index.html:191
 msgid ""
 "Find and install add-ons directly in Thunderbird. You no longer need to "
-"visit the add-ons Web site - instead simply fire up the Add-ons Manager. Not "
-"sure which add-on is right for you? Ratings, recommendations, descriptions "
+"visit the add-ons Web site - instead simply fire up the Add-ons Manager. Not"
+" sure which add-on is right for you? Ratings, recommendations, descriptions "
 "and pictures of the add-ons in action help you make your selection."
 msgstr ""
+"Găsește și instalează suplimente direct din Thunderbird. Nu mai trebuie să "
+"vizitezi site-ul de suplimente - pur și simplu pornește Managerul de "
+"suplimente. Nu ești sigur dacă e un supliment potrivit pentru tine? "
+"Punctajele, recomandările, descrierile și imaginile suplimentelor în "
+"asistența de acțiune te ajută să faci o selecție."
 
 #: website/features/index.html:208
 msgid "Robust Privacy"
-msgstr ""
+msgstr "Confidențialitate robustă"
 
 #: website/features/index.html:209
 msgid ""
@@ -382,10 +451,14 @@ msgid ""
 "ensure a user’s privacy, Thunderbird automatically blocks remote images in "
 "email messages."
 msgstr ""
+"Thunderbird oferă suport pentru confidențialitatea utilizatorilor și pentru "
+"protecție față de imaginile de la distanță. Pentru a asigura "
+"confidențialitatea utilizatorului, Thunderbird blochează automat încărcarea "
+"imaginilor din mesajele e-mail."
 
 #: website/features/index.html:216
 msgid "Phishing Protection"
-msgstr ""
+msgstr "Protecție anti-phishing"
 
 #: website/features/index.html:217
 msgid ""
@@ -393,36 +466,49 @@ msgid ""
 "handing over personal and confidential information by indicating when a "
 "message is a potential phishing attempt. As a second line of defense, "
 "Thunderbird warns you when you click on a link which appears to be taking "
-"you to a different Web site than the one indicated by the URL in the message."
+"you to a different Web site than the one indicated by the URL in the "
+"message."
 msgstr ""
+"Thunderbird te protejează de escrocherii săvârșite prin e-mail, care "
+"încearcă în mod înșelător să convingă utilizatorii să-și dezvăluie date "
+"personale și confidențiale, printr-un indicator atașat la mesajele care sunt"
+" potențiale tentative de phishing. Ca a doua linie de apărare, Thunderbird "
+"te avertizează când dai clic pe un link ce pare că te duce la un alt site "
+"față de cel indicat de URL-ul din mesaj."
 
 #: website/features/index.html:225
 msgid "Automated Update"
-msgstr ""
+msgstr "Actualizare automată"
 
 #: website/features/index.html:228
 msgid ""
 "Thunderbird’s update system checks to see if you’re running the latest "
 "version, and notifies you when a security update is available. These "
-"security updates are small (usually 200KB - 700KB), giving you only what you "
-"need and making the security update quick to download and install. The "
+"security updates are small (usually 200KB - 700KB), giving you only what you"
+" need and making the security update quick to download and install. The "
 "automated update system provides updates for Thunderbird on Windows, macOS, "
 "and Linux in over 40 different languages."
 msgstr ""
+"Sistemul de actualizare Thunderbird verifică dacă rulezi ultima versiune și "
+"te anunță când a apărut o actualizare de securitate. Aceste actualizări sunt"
+" de mici dimensiuni (de regulă 200KB - 700KB), oferindu-ți doar ce ai nevoie"
+" printr-o actualizare rapid de descărcat și instalat. Sistemul de "
+"actualizare automat oferă actualizări pentru Thunderbird pe Windows, macOS "
+"și Linux în peste 40 de limbi diferite."
 
 #: website/features/index.html:230
 msgid ""
 "Thunderbird’s update system checks to see if you’re running the latest "
 "version, and notifies you when a security update is available. These "
-"security updates are small (usually 200KB - 700KB), giving you only what you "
-"need and making the security update quick to download and install. The "
+"security updates are small (usually 200KB - 700KB), giving you only what you"
+" need and making the security update quick to download and install. The "
 "automated update system provides updates for Thunderbird on Windows, OS X, "
 "and Linux in over 40 different languages."
 msgstr ""
 
 #: website/features/index.html:238
 msgid "Cutting Out the Junk"
-msgstr ""
+msgstr "Eliminarea mesajelor nesolicitate"
 
 #: website/features/index.html:239
 msgid ""
@@ -433,20 +519,32 @@ msgid ""
 "matters. Thunderbird can also use your mail provider’s spam filters to keep "
 "junk mail out of your inbox."
 msgstr ""
+"Uneltele pentru filtrarea mesajelor nesolicitate au fost actualizate pentru "
+"a fi cu un pas înaintea spam-ului. Fiecare e-mail primit trece prin "
+"tehnologia avansată de filtrare pentru mesaje nesolicitate. Thunderbird "
+"poate folosi și filtrele furnizorului de e-mail pentru a ține mesajele "
+"nesolicitate în afara dosarului „Mesaje primite”."
 
 #: website/features/index.html:242
 msgid "Open Source"
-msgstr ""
+msgstr "Cu sursă deschisă"
 
 #: website/features/index.html:243
 msgid ""
 "At the heart of Thunderbird is an open source development process driven by "
 "thousands of passionate, experienced developers and security experts spread "
 "all over the world. Our openness and active community of experts helps to "
-"ensure our products are more secure and quickly updated, while also enabling "
-"us to take advantage of the best third party security scanning and "
+"ensure our products are more secure and quickly updated, while also enabling"
+" us to take advantage of the best third party security scanning and "
 "evaluation tools to further bolster overall security."
 msgstr ""
+"Punctul focal al Thunderbird este alcătuit dintr-un proces de dezvoltare cu "
+"sursă deschisă antrenat de o comunitate alcătuită din mii de dezvoltatori și"
+" experți de securitate pasionați și răspândiți pe tot mapamondul. "
+"Deschiderea noastră și comunitatea activă de experți sunt garanția că "
+"produsele noastre sunt mai sigure și actualizate mai rapid, în același timp "
+"în care îți permit să profiți de cele mai bune unelte de scanare și evaluare"
+" realizate de terți, totul pentru a crește securitatea per total."
 
 #: website/thunderbird/all/index.html:10
 #, python-format
@@ -501,7 +599,7 @@ msgstr ""
 
 #: website/thunderbird/releases/index.html:19
 msgid "Release Notes"
-msgstr ""
+msgstr "Note privind lansarea"
 
 #: website/thunderbird/releases/index.html:25
 msgid "Thunderbird Releases"

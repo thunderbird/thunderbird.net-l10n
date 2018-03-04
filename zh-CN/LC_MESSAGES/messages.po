@@ -11,15 +11,15 @@ msgstr ""
 "PO-Revision-Date: 2018-03-03 23:50-0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: zh-CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.5.3\n"
-"Language: zh-CN\n"
 
 #: website/base-resp.html:24
 msgid "Menu"
-msgstr ""
+msgstr "菜单"
 
 #: website/base-resp.html:26 website/index.html:7 website/index.html:14
 #: website/index.html:26 website/index.html:40 website/index.html:59
@@ -33,11 +33,11 @@ msgstr ""
 
 #: website/base-resp.html:35
 msgid "Features"
-msgstr ""
+msgstr "功能"
 
 #: website/base-resp.html:40
 msgid "Releases"
-msgstr ""
+msgstr "发布"
 
 #: website/base-resp.html:45
 msgid "Thunderbird for Organizations"
@@ -45,19 +45,19 @@ msgstr ""
 
 #: website/base-resp.html:52 website/base-resp.html:57
 msgid "Add-ons"
-msgstr ""
+msgstr "附加组件"
 
 #: website/base-resp.html:62
 msgid "Themes"
-msgstr ""
+msgstr "主题"
 
 #: website/base-resp.html:69
 msgid "Support"
-msgstr ""
+msgstr "支持"
 
 #: website/base-resp.html:74 website/site-footer.html:17
 msgid "Donate"
-msgstr ""
+msgstr "捐赠"
 
 #: website/download-button.html:7 website/download-button.html:48
 msgid "Download Thunderbird"
@@ -87,29 +87,29 @@ msgstr ""
 
 #: website/download-button.html:57
 msgid "Systems &amp; Languages"
-msgstr ""
+msgstr "系统和语言"
 
 #: website/download-button.html:59
 msgid "What’s New"
-msgstr ""
+msgstr "更新说明"
 
 #: website/download-button.html:61 website/site-footer.html:22
 msgid "Privacy"
-msgstr ""
+msgstr "隐私"
 
 #: website/index.html:8
 msgid "Software made to make email easier."
-msgstr ""
+msgstr "收发邮件更简单。"
 
 #: website/index.html:9
 msgid ""
 "Thunderbird is a free email application that’s easy to set up and customize "
 "- and it’s loaded with great features!"
-msgstr ""
+msgstr "Thunderbird 是一款免费的电子邮件应用程序，配置简单，定制自由—还附有强大功能！"
 
 #: website/index.html:30
 msgid "Free Download"
-msgstr ""
+msgstr "免费下载"
 
 #: website/index.html:35
 msgid "Thunderbird screenshot"
@@ -121,11 +121,11 @@ msgstr ""
 
 #: website/lang_switcher.html:10
 msgid "Page language:"
-msgstr ""
+msgstr "页面语言："
 
 #: website/lang_switcher.html:12
 msgid "Other languages:"
-msgstr ""
+msgstr "其他语言"
 
 #: website/lang_switcher.html:23
 msgid "Go"
@@ -138,18 +138,20 @@ msgid ""
 "              mozilla.org contributors. Content available under\n"
 "              a <a href=\"%(url)s\">Creative Commons license</a>."
 msgstr ""
+"上述内容中的某些部分系 mozilla.org 志愿者个人版权所有（©1998–%(current_year)s）。内容可按<a "
+"href=\"%(url)s\">知识共享许可协议</a>使用。"
 
 #: website/site-footer.html:15
 msgid "About"
-msgstr ""
+msgstr "关于"
 
 #: website/site-footer.html:16
 msgid "Contact Us"
-msgstr ""
+msgstr "联系我们"
 
 #: website/site-footer.html:18
 msgid "Contribute to this site"
-msgstr ""
+msgstr "助力此网站"
 
 #: website/site-footer.html:23
 msgid "Cookies"
@@ -157,11 +159,11 @@ msgstr ""
 
 #: website/site-footer.html:24
 msgid "Legal"
-msgstr ""
+msgstr "法律"
 
 #: website/site-footer.html:25
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "报告滥用商标"
 
 #: website/channel/index.html:7
 msgid ""
@@ -197,66 +199,69 @@ msgstr ""
 
 #: website/features/index.html:7
 msgid "Thunderbird Features"
-msgstr ""
+msgstr "Thunderbird 功能"
 
 #: website/features/index.html:13
 msgid "It’s all yours. It’s now easier to upgrade to Thunderbird."
-msgstr ""
+msgstr "这些都是你的了。升级到 Thunderbird，使用更轻松。"
 
 #: website/features/index.html:31 website/features/index.html:40
 msgid "Easier to Get Started"
-msgstr ""
+msgstr "轻松入门"
 
 #: website/features/index.html:32 website/features/index.html:91
 msgid "Tabs and Search"
-msgstr ""
+msgstr "标签页和搜索"
 
 #: website/features/index.html:33 website/features/index.html:164
 msgid "Customize Your Email Experience"
-msgstr ""
+msgstr "定制您的电子邮件体验"
 
 #: website/features/index.html:34 website/features/index.html:199
 msgid "Secure and Protect Your Email"
-msgstr ""
+msgstr "安全并保护您的电子邮件"
 
 #: website/features/index.html:45
 msgid "Mail Account Setup Wizard"
-msgstr ""
+msgstr "邮件账户设置向导"
 
 #: website/features/index.html:46
 msgid ""
-"Prior to this feature you had to know your IMAP, SMTP, and SSL/TLS settings. "
-"Now all you need to provide is your name, email address, and password and "
-"the email account set up wizardry will check our database and find the email "
-"settings for you."
+"Prior to this feature you had to know your IMAP, SMTP, and SSL/TLS settings."
+" Now all you need to provide is your name, email address, and password and "
+"the email account set up wizardry will check our database and find the email"
+" settings for you."
 msgstr ""
+"在使用之前，您应该知道您的 IMAP、SMTP 和 SSL/TLS "
+"设置。然后您需要提供您的名称、电子邮件地址以及密码，然后电子邮件账户向导将检查我们的数据库，找出适合您的相关设置。"
 
 #: website/features/index.html:64
 msgid "One-click Address Book"
-msgstr ""
+msgstr "快捷通讯录"
 
 #: website/features/index.html:65
 msgid ""
-"One-click Address Book is a quick and easy way to add people to your address "
-"book. Add people by simply clicking on the star icon in the message you "
-"receive. Two clicks and you can add more details like a photo, birthday, and "
-"other contact information."
+"One-click Address Book is a quick and easy way to add people to your address"
+" book. Add people by simply clicking on the star icon in the message you "
+"receive. Two clicks and you can add more details like a photo, birthday, and"
+" other contact information."
 msgstr ""
+"快捷通讯录提供了快捷且简便的方式添加人员信息到您的通讯录。点击您已收到消息的星型图标即可轻松添加人员。双击后您可以添加更多信息，像是照片、生日，以及其他联系信息。"
 
 #: website/features/index.html:71
 msgid "Attachment Reminder"
-msgstr ""
+msgstr "附件提醒"
 
 #: website/features/index.html:72
 msgid ""
 "The attachment reminder looks for the word attachment (and other words like "
-"file types) in the body of your message and reminds you to add an attachment "
-"before hitting send."
-msgstr ""
+"file types) in the body of your message and reminds you to add an attachment"
+" before hitting send."
+msgstr "附件提醒器会找出您的正文中与附件相关的词语（包括像是与文件类型等内容相关的其他词语），并在您点击发送前提醒您添加附件。"
 
 #: website/features/index.html:103
 msgid "Tabs"
-msgstr ""
+msgstr "标签页"
 
 #: website/features/index.html:104
 msgid ""
@@ -266,50 +271,57 @@ msgid ""
 "to an earlier email. Tabbed email lets you keep multiple emails open for "
 "easy reference."
 msgstr ""
+"如果您喜欢 Firefox "
+"的标签式浏览，您一定也会喜欢标签式邮件。标签式电子邮件让您可以在多个标签页中分别加载电子邮件，便于您在它们之间快速跳转。比如您在回复一封电子邮件时，也许需要先查阅一封较早的电子邮件。标签式电子邮件，让您可以同时打开多个电子邮件，便于参考。"
 
 #: website/features/index.html:105
 msgid ""
 "Double-clicking or hitting enter on a mail message will now open that "
-"message in a new tab window. Right-clicking on messages or folders will open "
-"them in a tab in the background."
-msgstr ""
+"message in a new tab window. Right-clicking on messages or folders will open"
+" them in a tab in the background."
+msgstr "对一封邮件消息双击或者按回车后，消息就会在新的标签页窗口中打开。右击消息或者文件夹，可以在后台打开标签页。"
 
 #: website/features/index.html:106
 msgid ""
 "When quitting Thunderbird, visible tabs will be saved and will be restored "
-"when you open Thunderbird the next time. There is also a Tab menu on the Tab "
-"toolbar to help you switch between Tabs."
+"when you open Thunderbird the next time. There is also a Tab menu on the Tab"
+" toolbar to help you switch between Tabs."
 msgstr ""
+"在退出 Thunderbird 时，可见的标签页将被保存，并且将在您下次打开 Thunderbird "
+"时恢复。标签工具栏上还有一个“标签页”菜单，可以助您在标签页之间切换。"
 
 #: website/features/index.html:126
 msgid "Quick Filter Toolbar"
-msgstr ""
+msgstr "快速过滤栏"
 
 #: website/features/index.html:127
 msgid ""
 "The Quick Filter Toolbar lets you filter your email faster. Start typing in "
 "words in the Quick Filter search box and the results are displayed "
-"instantly. Or you can filter your email by New Messages, Tags, and people in "
-"your Address Book. You can also \"Pin\" or save a Filter and use it across "
+"instantly. Or you can filter your email by New Messages, Tags, and people in"
+" your Address Book. You can also \"Pin\" or save a Filter and use it across "
 "multiple folders."
 msgstr ""
+"快速过滤栏，可以让您快速的过滤您的电子邮件。在快速过滤栏中输入一些字词，结果就会即刻出现。您也可以用新消息、标签，以及您的通讯录中的人员来过滤您的电子邮件。您还可以“固定”，或者保存过滤器并跨多个文件夹使用它。"
 
 #: website/features/index.html:137
 msgid "Search"
-msgstr ""
+msgstr "搜索"
 
 #: website/features/index.html:138
 msgid ""
-"The search interface in Thunderbird contains filtering and timeline tools to "
-"pinpoint the exact email you’re looking for. Thunderbird also indexes all of "
-"your emails to help you search even faster. Your search results are "
+"The search interface in Thunderbird contains filtering and timeline tools to"
+" pinpoint the exact email you’re looking for. Thunderbird also indexes all "
+"of your emails to help you search even faster. Your search results are "
 "displayed in a tab so you can easily switch back and forth to your search "
 "results and other email."
 msgstr ""
+"Thunderbird 中的搜索界面包含过滤和时间线工具，供您精确查找想找到的邮件。Thunderbird "
+"还会索引您的所有电子邮件，便于您非常快速的搜索。您的搜索结果会显示在一个新的标签页中，所以您可以轻松的在搜索结果与其他邮件的界面之间切换。"
 
 #: website/features/index.html:147
 msgid "Message Archive"
-msgstr ""
+msgstr "消息归档"
 
 #: website/features/index.html:148
 msgid ""
@@ -317,15 +329,16 @@ msgid ""
 "your inbox without deleting it, archive it! Archiving helps you manage your "
 "inbox and put your email into the archive folder system."
 msgstr ""
+"如果您认为暂时不再需要某封邮件，想让它离开您的收件箱，但是还不想删除它，那么归档它吧！归档有助于您管理您的收件箱中的消息，把您的电子邮件都归档到“归档”文件夹。"
 
 #: website/features/index.html:149
 msgid ""
 "Selecting the Archive button or hitting the ‘A’ key will archive your email."
-msgstr ""
+msgstr "选择“归档”按钮，或者按“A”键，即可归档您的电子邮件。"
 
 #: website/features/index.html:155
 msgid "Activity Manager"
-msgstr ""
+msgstr "活动管理器"
 
 #: website/features/index.html:156
 msgid ""
@@ -333,10 +346,12 @@ msgid ""
 "your email provider in one place. There’s no more guess work. You only have "
 "to look in one place to see everything that’s happening with your email."
 msgstr ""
+"活动管理器在同一处记录了 Thunderbird "
+"与您的邮件提供商之间的所有互动。没有更多猜疑。你只需在这个地方看看，就能了解您与电子邮件发生的所有事情了。"
 
 #: website/features/index.html:180
 msgid "Thunderbird Look & Feel"
-msgstr ""
+msgstr "Thunderbird 观感"
 
 #: website/features/index.html:181
 msgid ""
@@ -345,45 +360,50 @@ msgid ""
 "latest movies, famous landmarks, and Japanese tattoos. You can also choose "
 "from several Themes that dress up all the different icons in Thunderbird."
 msgstr ""
+"使用 Personas，轻量级的“皮肤”可以让您轻松的在瞬间改变 Thunderbird "
+"的观感。无论是最新的电影、著名的地标，还是日本纹身等等东西，一切尽在无尽的皮肤之中您也可以选择几个“主题”，弄出不同图标的 Thunderbird。"
 
 #: website/features/index.html:184
 msgid "Smart Folders"
-msgstr ""
+msgstr "智能文件夹"
 
 #: website/features/index.html:185
 msgid ""
 "Smart Folders help you manage multiple email accounts by combining special "
 "folders like your Inbox, Sent, or Archive folder. Instead of going to the "
-"Inbox for each of your mail accounts, you can see all of your incoming email "
-"in one Inbox folder."
+"Inbox for each of your mail accounts, you can see all of your incoming email"
+" in one Inbox folder."
 msgstr ""
+"智能文件夹帮助您管理多个电子邮件账户，通过独立的特殊文件夹（就像是你的收件箱、发件箱和归档文件夹一样）。不必去每个邮件账户的收件箱，您可以在一个“收件箱”文件夹中看到您收到的所有邮件。"
 
 #: website/features/index.html:190
 msgid "Add-ons Manager"
-msgstr ""
+msgstr "附加组件管理器"
 
 #: website/features/index.html:191
 msgid ""
 "Find and install add-ons directly in Thunderbird. You no longer need to "
-"visit the add-ons Web site - instead simply fire up the Add-ons Manager. Not "
-"sure which add-on is right for you? Ratings, recommendations, descriptions "
+"visit the add-ons Web site - instead simply fire up the Add-ons Manager. Not"
+" sure which add-on is right for you? Ratings, recommendations, descriptions "
 "and pictures of the add-ons in action help you make your selection."
 msgstr ""
+"直接在 Thunderbird 中查找和安装附加组件。您不再必须访问附加组件网站 - "
+"只需轻松的通过附加组件管理器来查找和安装。不知道哪款附加组件适合您？评分、推荐、描述和附加组件的图片，这些都有助于您做出选择。"
 
 #: website/features/index.html:208
 msgid "Robust Privacy"
-msgstr ""
+msgstr "强大的隐私保护"
 
 #: website/features/index.html:209
 msgid ""
 "Thunderbird offers support for user privacy and remote image protection. To "
 "ensure a user’s privacy, Thunderbird automatically blocks remote images in "
 "email messages."
-msgstr ""
+msgstr "Thunderbird 提供了用户隐私和远程图片保护的支持。为了确保用户的隐私，Thunderbird 会自动阻止邮件中的远程图像。"
 
 #: website/features/index.html:216
 msgid "Phishing Protection"
-msgstr ""
+msgstr "网络钓鱼防护"
 
 #: website/features/index.html:217
 msgid ""
@@ -391,36 +411,41 @@ msgid ""
 "handing over personal and confidential information by indicating when a "
 "message is a potential phishing attempt. As a second line of defense, "
 "Thunderbird warns you when you click on a link which appears to be taking "
-"you to a different Web site than the one indicated by the URL in the message."
+"you to a different Web site than the one indicated by the URL in the "
+"message."
 msgstr ""
+"Thunderbird 将保护您免受潜在的网络钓鱼邮件的影响。作为第二环，Thunderbird 会在当您点击与邮件中所展示的地址迥异的网址时提醒您。"
 
 #: website/features/index.html:225
 msgid "Automated Update"
-msgstr ""
+msgstr "自动更新"
 
 #: website/features/index.html:228
 msgid ""
 "Thunderbird’s update system checks to see if you’re running the latest "
 "version, and notifies you when a security update is available. These "
-"security updates are small (usually 200KB - 700KB), giving you only what you "
-"need and making the security update quick to download and install. The "
+"security updates are small (usually 200KB - 700KB), giving you only what you"
+" need and making the security update quick to download and install. The "
 "automated update system provides updates for Thunderbird on Windows, macOS, "
 "and Linux in over 40 different languages."
 msgstr ""
+"Thunderbird 更新检查系统会了解您是否在运行最新版本，并在有安全更新可用时通知您。这些安全更新通常较小（一般 200KB - "
+"700KB），将仅在您需要时，为您带来快速、便捷的安全更新下载与安装。自动更新系统提供了 Thunderbird 在 Windows、macOS 以及 "
+"Linux 上的超过 40 种语言的更新。"
 
 #: website/features/index.html:230
 msgid ""
 "Thunderbird’s update system checks to see if you’re running the latest "
 "version, and notifies you when a security update is available. These "
-"security updates are small (usually 200KB - 700KB), giving you only what you "
-"need and making the security update quick to download and install. The "
+"security updates are small (usually 200KB - 700KB), giving you only what you"
+" need and making the security update quick to download and install. The "
 "automated update system provides updates for Thunderbird on Windows, OS X, "
 "and Linux in over 40 different languages."
 msgstr ""
 
 #: website/features/index.html:238
 msgid "Cutting Out the Junk"
-msgstr ""
+msgstr "排除垃圾邮件"
 
 #: website/features/index.html:239
 msgid ""
@@ -431,20 +456,26 @@ msgid ""
 "matters. Thunderbird can also use your mail provider’s spam filters to keep "
 "junk mail out of your inbox."
 msgstr ""
+"Thunderbird 的垃圾邮件检查工具已经更新，以应对日渐强势的垃圾邮件。您收到的每封邮件都会经过 Thunderbird "
+"先进的垃圾邮件过滤器。每次标记为垃圾邮件时，Thunderbird "
+"会“学习”，提高它的过滤效果，以便您可以花更多阅读时间在重要邮件上。Thunderbird "
+"也可以使用您的邮件服务提供商提供的垃圾邮件过滤器，以保证您的收件箱免受垃圾邮件的干扰。"
 
 #: website/features/index.html:242
 msgid "Open Source"
-msgstr ""
+msgstr "开源"
 
 #: website/features/index.html:243
 msgid ""
 "At the heart of Thunderbird is an open source development process driven by "
 "thousands of passionate, experienced developers and security experts spread "
 "all over the world. Our openness and active community of experts helps to "
-"ensure our products are more secure and quickly updated, while also enabling "
-"us to take advantage of the best third party security scanning and "
+"ensure our products are more secure and quickly updated, while also enabling"
+" us to take advantage of the best third party security scanning and "
 "evaluation tools to further bolster overall security."
 msgstr ""
+"Thunderbird "
+"的核心是成千上万的热情驱动的开源开发流程，经验丰富的开发人员和安全专家遍布世界各地。我们的开放性和活跃的专家社区有助于确保我们的产品更加安全、快速更新，同时也使我们能够利用最好的第三方安全扫描和评估工具，以进一步增强整体安全性。"
 
 #: website/thunderbird/all/index.html:10
 #, python-format
@@ -499,7 +530,7 @@ msgstr ""
 
 #: website/thunderbird/releases/index.html:19
 msgid "Release Notes"
-msgstr ""
+msgstr "发行说明"
 
 #: website/thunderbird/releases/index.html:25
 msgid "Thunderbird Releases"

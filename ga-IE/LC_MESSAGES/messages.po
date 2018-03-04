@@ -11,15 +11,15 @@ msgstr ""
 "PO-Revision-Date: 2018-03-03 23:50-0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: ga-IE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.5.3\n"
-"Language: ga-IE\n"
 
 #: website/base-resp.html:24
 msgid "Menu"
-msgstr ""
+msgstr "Roghchlár"
 
 #: website/base-resp.html:26 website/index.html:7 website/index.html:14
 #: website/index.html:26 website/index.html:40 website/index.html:59
@@ -33,11 +33,11 @@ msgstr ""
 
 #: website/base-resp.html:35
 msgid "Features"
-msgstr ""
+msgstr "Gnéithe"
 
 #: website/base-resp.html:40
 msgid "Releases"
-msgstr ""
+msgstr "Leaganacha"
 
 #: website/base-resp.html:45
 msgid "Thunderbird for Organizations"
@@ -45,19 +45,19 @@ msgstr ""
 
 #: website/base-resp.html:52 website/base-resp.html:57
 msgid "Add-ons"
-msgstr ""
+msgstr "Breiseáin"
 
 #: website/base-resp.html:62
 msgid "Themes"
-msgstr ""
+msgstr "Téamaí"
 
 #: website/base-resp.html:69
 msgid "Support"
-msgstr ""
+msgstr "Tacaíocht"
 
 #: website/base-resp.html:74 website/site-footer.html:17
 msgid "Donate"
-msgstr ""
+msgstr "Bronn"
 
 #: website/download-button.html:7 website/download-button.html:48
 msgid "Download Thunderbird"
@@ -87,29 +87,31 @@ msgstr ""
 
 #: website/download-button.html:57
 msgid "Systems &amp; Languages"
-msgstr ""
+msgstr "Córais &amp; Teangacha"
 
 #: website/download-button.html:59
 msgid "What’s New"
-msgstr ""
+msgstr "Gnéithe Nua"
 
 #: website/download-button.html:61 website/site-footer.html:22
 msgid "Privacy"
-msgstr ""
+msgstr "Príobháideachas"
 
 #: website/index.html:8
 msgid "Software made to make email easier."
-msgstr ""
+msgstr "Bogearra a smachtaíonn do bhosca ríomhphoist."
 
 #: website/index.html:9
 msgid ""
 "Thunderbird is a free email application that’s easy to set up and customize "
 "- and it’s loaded with great features!"
 msgstr ""
+"Is clár ríomhphoist saor in aisce é Thunderbird. Is furasta é a shocrú agus "
+"a chur in oiriúint duit féin - agus tá sé plúchta le gnéithe iontacha!"
 
 #: website/index.html:30
 msgid "Free Download"
-msgstr ""
+msgstr "Íoslódáil Saor in Aisce"
 
 #: website/index.html:35
 msgid "Thunderbird screenshot"
@@ -121,11 +123,11 @@ msgstr ""
 
 #: website/lang_switcher.html:10
 msgid "Page language:"
-msgstr ""
+msgstr "Teanga an leathanaigh:"
 
 #: website/lang_switcher.html:12
 msgid "Other languages:"
-msgstr ""
+msgstr "Teangacha eile:"
 
 #: website/lang_switcher.html:23
 msgid "Go"
@@ -138,30 +140,32 @@ msgid ""
 "              mozilla.org contributors. Content available under\n"
 "              a <a href=\"%(url)s\">Creative Commons license</a>."
 msgstr ""
+"Cóipcheart ©1998–%(current_year)s Rannpháirtithe Mhozilla. Tá an t-ábhar seo"
+" ar fáil de réir téarmaí <a href=\"%(url)s\">Cheadúnas Creative Commons</a>."
 
 #: website/site-footer.html:15
 msgid "About"
-msgstr ""
+msgstr "Eolas"
 
 #: website/site-footer.html:16
 msgid "Contact Us"
-msgstr ""
+msgstr "Teagmháil"
 
 #: website/site-footer.html:18
 msgid "Contribute to this site"
-msgstr ""
+msgstr "Cuir leis an suíomh seo"
 
 #: website/site-footer.html:23
 msgid "Cookies"
-msgstr ""
+msgstr "Fianáin"
 
 #: website/site-footer.html:24
 msgid "Legal"
-msgstr ""
+msgstr "Cúrsaí Dlí"
 
 #: website/site-footer.html:25
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "Déan Tuairisc ar Dhrochúsáid Trádmharcanna"
 
 #: website/channel/index.html:7
 msgid ""
@@ -225,10 +229,10 @@ msgstr ""
 
 #: website/features/index.html:46
 msgid ""
-"Prior to this feature you had to know your IMAP, SMTP, and SSL/TLS settings. "
-"Now all you need to provide is your name, email address, and password and "
-"the email account set up wizardry will check our database and find the email "
-"settings for you."
+"Prior to this feature you had to know your IMAP, SMTP, and SSL/TLS settings."
+" Now all you need to provide is your name, email address, and password and "
+"the email account set up wizardry will check our database and find the email"
+" settings for you."
 msgstr ""
 
 #: website/features/index.html:64
@@ -237,10 +241,10 @@ msgstr ""
 
 #: website/features/index.html:65
 msgid ""
-"One-click Address Book is a quick and easy way to add people to your address "
-"book. Add people by simply clicking on the star icon in the message you "
-"receive. Two clicks and you can add more details like a photo, birthday, and "
-"other contact information."
+"One-click Address Book is a quick and easy way to add people to your address"
+" book. Add people by simply clicking on the star icon in the message you "
+"receive. Two clicks and you can add more details like a photo, birthday, and"
+" other contact information."
 msgstr ""
 
 #: website/features/index.html:71
@@ -250,13 +254,13 @@ msgstr ""
 #: website/features/index.html:72
 msgid ""
 "The attachment reminder looks for the word attachment (and other words like "
-"file types) in the body of your message and reminds you to add an attachment "
-"before hitting send."
+"file types) in the body of your message and reminds you to add an attachment"
+" before hitting send."
 msgstr ""
 
 #: website/features/index.html:103
 msgid "Tabs"
-msgstr ""
+msgstr "Cluaisíní"
 
 #: website/features/index.html:104
 msgid ""
@@ -270,15 +274,15 @@ msgstr ""
 #: website/features/index.html:105
 msgid ""
 "Double-clicking or hitting enter on a mail message will now open that "
-"message in a new tab window. Right-clicking on messages or folders will open "
-"them in a tab in the background."
+"message in a new tab window. Right-clicking on messages or folders will open"
+" them in a tab in the background."
 msgstr ""
 
 #: website/features/index.html:106
 msgid ""
 "When quitting Thunderbird, visible tabs will be saved and will be restored "
-"when you open Thunderbird the next time. There is also a Tab menu on the Tab "
-"toolbar to help you switch between Tabs."
+"when you open Thunderbird the next time. There is also a Tab menu on the Tab"
+" toolbar to help you switch between Tabs."
 msgstr ""
 
 #: website/features/index.html:126
@@ -289,27 +293,27 @@ msgstr ""
 msgid ""
 "The Quick Filter Toolbar lets you filter your email faster. Start typing in "
 "words in the Quick Filter search box and the results are displayed "
-"instantly. Or you can filter your email by New Messages, Tags, and people in "
-"your Address Book. You can also \"Pin\" or save a Filter and use it across "
+"instantly. Or you can filter your email by New Messages, Tags, and people in"
+" your Address Book. You can also \"Pin\" or save a Filter and use it across "
 "multiple folders."
 msgstr ""
 
 #: website/features/index.html:137
 msgid "Search"
-msgstr ""
+msgstr "Cuardaigh"
 
 #: website/features/index.html:138
 msgid ""
-"The search interface in Thunderbird contains filtering and timeline tools to "
-"pinpoint the exact email you’re looking for. Thunderbird also indexes all of "
-"your emails to help you search even faster. Your search results are "
+"The search interface in Thunderbird contains filtering and timeline tools to"
+" pinpoint the exact email you’re looking for. Thunderbird also indexes all "
+"of your emails to help you search even faster. Your search results are "
 "displayed in a tab so you can easily switch back and forth to your search "
 "results and other email."
 msgstr ""
 
 #: website/features/index.html:147
 msgid "Message Archive"
-msgstr ""
+msgstr "Cartlann Teachtaireachtaí"
 
 #: website/features/index.html:148
 msgid ""
@@ -317,11 +321,17 @@ msgid ""
 "your inbox without deleting it, archive it! Archiving helps you manage your "
 "inbox and put your email into the archive folder system."
 msgstr ""
+"Má cheapann tú go mbeidh ríomhphost uait amach anseo ach murar mhaith leat é"
+" a fhágaint sa Bhosca Isteach, cuir leis an gcartlann é! Cuidíonn an "
+"chartlann leat do chuid ríomhphost a stóráil agus do Bhosca Isteach a "
+"bhainistiú."
 
 #: website/features/index.html:149
 msgid ""
 "Selecting the Archive button or hitting the ‘A’ key will archive your email."
 msgstr ""
+"Cuirfear do ríomhphost leis an gcartlann ach an cnaipe Cartlann a chliceáil,"
+" nó an eochair aicearra \"A\" a bhrú."
 
 #: website/features/index.html:155
 msgid "Activity Manager"
@@ -354,9 +364,14 @@ msgstr ""
 msgid ""
 "Smart Folders help you manage multiple email accounts by combining special "
 "folders like your Inbox, Sent, or Archive folder. Instead of going to the "
-"Inbox for each of your mail accounts, you can see all of your incoming email "
-"in one Inbox folder."
+"Inbox for each of your mail accounts, you can see all of your incoming email"
+" in one Inbox folder."
 msgstr ""
+"Cuidíonn Fillteáin Chliste leat cuntais iomadúla ríomhphoist a bhainistiú "
+"trí fhillteáin speisialta a chur le chéile; cur i gcás, Bosca Isteach, "
+"Seolta, agus Cartlann. Seachas dul chuig Bosca Isteach gach aon chuntas "
+"ceann ar cheann, féadann tú gach ríomhphost atá ag teacht isteach a "
+"fheiscint in aon fhillteán Bosca Isteach amháin."
 
 #: website/features/index.html:190
 msgid "Add-ons Manager"
@@ -365,8 +380,8 @@ msgstr ""
 #: website/features/index.html:191
 msgid ""
 "Find and install add-ons directly in Thunderbird. You no longer need to "
-"visit the add-ons Web site - instead simply fire up the Add-ons Manager. Not "
-"sure which add-on is right for you? Ratings, recommendations, descriptions "
+"visit the add-ons Web site - instead simply fire up the Add-ons Manager. Not"
+" sure which add-on is right for you? Ratings, recommendations, descriptions "
 "and pictures of the add-ons in action help you make your selection."
 msgstr ""
 
@@ -391,7 +406,8 @@ msgid ""
 "handing over personal and confidential information by indicating when a "
 "message is a potential phishing attempt. As a second line of defense, "
 "Thunderbird warns you when you click on a link which appears to be taking "
-"you to a different Web site than the one indicated by the URL in the message."
+"you to a different Web site than the one indicated by the URL in the "
+"message."
 msgstr ""
 
 #: website/features/index.html:225
@@ -402,8 +418,8 @@ msgstr ""
 msgid ""
 "Thunderbird’s update system checks to see if you’re running the latest "
 "version, and notifies you when a security update is available. These "
-"security updates are small (usually 200KB - 700KB), giving you only what you "
-"need and making the security update quick to download and install. The "
+"security updates are small (usually 200KB - 700KB), giving you only what you"
+" need and making the security update quick to download and install. The "
 "automated update system provides updates for Thunderbird on Windows, macOS, "
 "and Linux in over 40 different languages."
 msgstr ""
@@ -412,8 +428,8 @@ msgstr ""
 msgid ""
 "Thunderbird’s update system checks to see if you’re running the latest "
 "version, and notifies you when a security update is available. These "
-"security updates are small (usually 200KB - 700KB), giving you only what you "
-"need and making the security update quick to download and install. The "
+"security updates are small (usually 200KB - 700KB), giving you only what you"
+" need and making the security update quick to download and install. The "
 "automated update system provides updates for Thunderbird on Windows, OS X, "
 "and Linux in over 40 different languages."
 msgstr ""
@@ -441,8 +457,8 @@ msgid ""
 "At the heart of Thunderbird is an open source development process driven by "
 "thousands of passionate, experienced developers and security experts spread "
 "all over the world. Our openness and active community of experts helps to "
-"ensure our products are more secure and quickly updated, while also enabling "
-"us to take advantage of the best third party security scanning and "
+"ensure our products are more secure and quickly updated, while also enabling"
+" us to take advantage of the best third party security scanning and "
 "evaluation tools to further bolster overall security."
 msgstr ""
 
@@ -499,7 +515,7 @@ msgstr ""
 
 #: website/thunderbird/releases/index.html:19
 msgid "Release Notes"
-msgstr ""
+msgstr "Nótaí Eisiúna"
 
 #: website/thunderbird/releases/index.html:25
 msgid "Thunderbird Releases"

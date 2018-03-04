@@ -11,15 +11,15 @@ msgstr ""
 "PO-Revision-Date: 2018-03-03 23:50-0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: rm\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.5.3\n"
-"Language: rm\n"
 
 #: website/base-resp.html:24
 msgid "Menu"
-msgstr ""
+msgstr "Navigaziun"
 
 #: website/base-resp.html:26 website/index.html:7 website/index.html:14
 #: website/index.html:26 website/index.html:40 website/index.html:59
@@ -33,11 +33,11 @@ msgstr ""
 
 #: website/base-resp.html:35
 msgid "Features"
-msgstr ""
+msgstr "Funcziuns"
 
 #: website/base-resp.html:40
 msgid "Releases"
-msgstr ""
+msgstr "Versiuns"
 
 #: website/base-resp.html:45
 msgid "Thunderbird for Organizations"
@@ -45,11 +45,11 @@ msgstr ""
 
 #: website/base-resp.html:52 website/base-resp.html:57
 msgid "Add-ons"
-msgstr ""
+msgstr "Supplements"
 
 #: website/base-resp.html:62
 msgid "Themes"
-msgstr ""
+msgstr "Designs"
 
 #: website/base-resp.html:69
 msgid "Support"
@@ -57,7 +57,7 @@ msgstr ""
 
 #: website/base-resp.html:74 website/site-footer.html:17
 msgid "Donate"
-msgstr ""
+msgstr "Fa ina donaziun"
 
 #: website/download-button.html:7 website/download-button.html:48
 msgid "Download Thunderbird"
@@ -87,29 +87,31 @@ msgstr ""
 
 #: website/download-button.html:57
 msgid "Systems &amp; Languages"
-msgstr ""
+msgstr "Sistems &amp; linguas"
 
 #: website/download-button.html:59
 msgid "What’s New"
-msgstr ""
+msgstr "Novaziuns"
 
 #: website/download-button.html:61 website/site-footer.html:22
 msgid "Privacy"
-msgstr ""
+msgstr "Sfera privata"
 
 #: website/index.html:8
 msgid "Software made to make email easier."
-msgstr ""
+msgstr "Il program che simplifitgescha la posta electronica."
 
 #: website/index.html:9
 msgid ""
 "Thunderbird is a free email application that’s easy to set up and customize "
 "- and it’s loaded with great features!"
 msgstr ""
+"Thunderbird è ina applicaziun dad e-mails gratuita ch’ins po persunalisar a "
+"moda simpla - ed ella è plain funcziuns grondiusas!"
 
 #: website/index.html:30
 msgid "Free Download"
-msgstr ""
+msgstr "Telechargiada gratuita"
 
 #: website/index.html:35
 msgid "Thunderbird screenshot"
@@ -121,11 +123,11 @@ msgstr ""
 
 #: website/lang_switcher.html:10
 msgid "Page language:"
-msgstr ""
+msgstr "Lingua da la pagina:"
 
 #: website/lang_switcher.html:12
 msgid "Other languages:"
-msgstr ""
+msgstr "Autras linguas:"
 
 #: website/lang_switcher.html:23
 msgid "Go"
@@ -138,18 +140,21 @@ msgid ""
 "              mozilla.org contributors. Content available under\n"
 "              a <a href=\"%(url)s\">Creative Commons license</a>."
 msgstr ""
+"Parts dal cuntegn èn ©1998–%(current_year)s da divers contribuents a "
+"mozilla.org. Il cuntegn stat a disposiziun tenor la <a "
+"href=\"%(url)s\">licenza da Creative Commons</a>."
 
 #: website/site-footer.html:15
 msgid "About"
-msgstr ""
+msgstr "Davart"
 
 #: website/site-footer.html:16
 msgid "Contact Us"
-msgstr ""
+msgstr "Ans contactescha"
 
 #: website/site-footer.html:18
 msgid "Contribute to this site"
-msgstr ""
+msgstr "Contribuir a questa website"
 
 #: website/site-footer.html:23
 msgid "Cookies"
@@ -161,7 +166,7 @@ msgstr ""
 
 #: website/site-footer.html:25
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "Rapportar abus da la marca"
 
 #: website/channel/index.html:7
 msgid ""
@@ -197,62 +202,74 @@ msgstr ""
 
 #: website/features/index.html:7
 msgid "Thunderbird Features"
-msgstr ""
+msgstr "Funcziuns da Thunderbird"
 
 #: website/features/index.html:13
 msgid "It’s all yours. It’s now easier to upgrade to Thunderbird."
-msgstr ""
+msgstr "Tut è da tai: Thunderbird è anc pli spert, pli flexibel e pli segir."
 
 #: website/features/index.html:31 website/features/index.html:40
 msgid "Easier to Get Started"
-msgstr ""
+msgstr "Pli simpel da cumenzar"
 
 #: website/features/index.html:32 website/features/index.html:91
 msgid "Tabs and Search"
-msgstr ""
+msgstr "Tabs e tschertgar"
 
 #: website/features/index.html:33 website/features/index.html:164
 msgid "Customize Your Email Experience"
-msgstr ""
+msgstr "Persunalisescha il program"
 
 #: website/features/index.html:34 website/features/index.html:199
 msgid "Secure and Protect Your Email"
-msgstr ""
+msgstr "Segirezza per tes e-mails"
 
 #: website/features/index.html:45
 msgid "Mail Account Setup Wizard"
-msgstr ""
+msgstr "Assistent per contos d’e-mail"
 
 #: website/features/index.html:46
 msgid ""
-"Prior to this feature you had to know your IMAP, SMTP, and SSL/TLS settings. "
-"Now all you need to provide is your name, email address, and password and "
-"the email account set up wizardry will check our database and find the email "
-"settings for you."
+"Prior to this feature you had to know your IMAP, SMTP, and SSL/TLS settings."
+" Now all you need to provide is your name, email address, and password and "
+"the email account set up wizardry will check our database and find the email"
+" settings for you."
 msgstr ""
+"Pli baud has ti adina stuì savair las configuraziuns da EMAP; SMTP e SSL/TLS"
+" da tes server d’e-mails. Ussa stos ti be pli inditgar tes num, tia adressa "
+"d’e-mail e tes pled-clav ed immediat po l’assistent d’installaziun da contos"
+" d’e-mails chargiar las indicaziuns ord nossa banca da datas."
 
 #: website/features/index.html:64
 msgid "One-click Address Book"
-msgstr ""
+msgstr "Cudeschet d’adressas en in clic"
 
 #: website/features/index.html:65
 msgid ""
-"One-click Address Book is a quick and easy way to add people to your address "
-"book. Add people by simply clicking on the star icon in the message you "
-"receive. Two clicks and you can add more details like a photo, birthday, and "
-"other contact information."
+"One-click Address Book is a quick and easy way to add people to your address"
+" book. Add people by simply clicking on the star icon in the message you "
+"receive. Two clicks and you can add more details like a photo, birthday, and"
+" other contact information."
 msgstr ""
+"Cun il cudeschet d’adressas en in clic pos ti agiuntar a moda fitg simpla "
+"persunas a tes cudeschet d’adressas. Clicca simplamain sin l’icona da staila"
+" en il messadi che ti retschaivas. Cun dus clics pos ti agiuntar ulteriuras "
+"infurmaziuns sco ina fotografia, l’anniversari ed autras infurmaziuns da "
+"contact."
 
 #: website/features/index.html:71
 msgid "Attachment Reminder"
-msgstr ""
+msgstr "Promemoria per agiuntas"
 
 #: website/features/index.html:72
 msgid ""
 "The attachment reminder looks for the word attachment (and other words like "
-"file types) in the body of your message and reminds you to add an attachment "
-"before hitting send."
+"file types) in the body of your message and reminds you to add an attachment"
+" before hitting send."
 msgstr ""
+"La promemoria per agiuntas tschertga il pled agiunta (e pleds sumegliants "
+"sco tips da datoteca) en il text dal messadi e ta fa endament dad agiuntar "
+"ina datoteca avant che trametter l’e-mail."
 
 #: website/features/index.html:103
 msgid "Tabs"
@@ -266,50 +283,71 @@ msgid ""
 "to an earlier email. Tabbed email lets you keep multiple emails open for "
 "easy reference."
 msgstr ""
+"Sche ti lavuras gugent cun tabs en Firefox has ti segiramain era gugent tabs"
+" en tes program d’e-mails. Cun tabs pos ti chargiar e-mails en differents "
+"tabs e midar senza problems tranter quels. T’imaginescha che ti respundas ad"
+" in e-mail e stos mintgatant leger suenter passaschas. Cun tabs pos ti avair"
+" avert differents e-mails ed has adina la survista."
 
 #: website/features/index.html:105
 msgid ""
 "Double-clicking or hitting enter on a mail message will now open that "
-"message in a new tab window. Right-clicking on messages or folders will open "
-"them in a tab in the background."
+"message in a new tab window. Right-clicking on messages or folders will open"
+" them in a tab in the background."
 msgstr ""
+"Cliccar duas giadas u smatgar enter sin in e-mail avra il messadi en in nov "
+"tab. Cun in clic cun la tasta dretga da la mieur sin messadis u ordinaturs "
+"pos ti als avrir en il fund davos."
 
 #: website/features/index.html:106
 msgid ""
 "When quitting Thunderbird, visible tabs will be saved and will be restored "
-"when you open Thunderbird the next time. There is also a Tab menu on the Tab "
-"toolbar to help you switch between Tabs."
+"when you open Thunderbird the next time. There is also a Tab menu on the Tab"
+" toolbar to help you switch between Tabs."
 msgstr ""
+"Sche ti serras Thunderbird vegnan tabs averts memorisads e restaurads sche "
+"ti avras la proxima giada Thunderbird. Sin la trav d’utensils exista era in "
+"menu da tabs per navigar entras ils tabs averts."
 
 #: website/features/index.html:126
 msgid "Quick Filter Toolbar"
-msgstr ""
+msgstr "Trav per filtrar svelt"
 
 #: website/features/index.html:127
 msgid ""
 "The Quick Filter Toolbar lets you filter your email faster. Start typing in "
 "words in the Quick Filter search box and the results are displayed "
-"instantly. Or you can filter your email by New Messages, Tags, and people in "
-"your Address Book. You can also \"Pin\" or save a Filter and use it across "
+"instantly. Or you can filter your email by New Messages, Tags, and people in"
+" your Address Book. You can also \"Pin\" or save a Filter and use it across "
 "multiple folders."
 msgstr ""
+"La trav per filtrar svelt ta lascha zavrar anc pli spert tes e-mails. Sche "
+"ti tippas en il champ da tschertgar vegnan ils resultats mussads "
+"directamain. Ti pos era filtrar tes e-mails tenor novs messadis, tags u "
+"persunas en tes cudeschet d’adressas. Ti pos era ’fixar’ u memorisar in "
+"filter e l’utilisar en differents ordinaturs."
 
 #: website/features/index.html:137
 msgid "Search"
-msgstr ""
+msgstr "Tschertgar"
 
 #: website/features/index.html:138
 msgid ""
-"The search interface in Thunderbird contains filtering and timeline tools to "
-"pinpoint the exact email you’re looking for. Thunderbird also indexes all of "
-"your emails to help you search even faster. Your search results are "
+"The search interface in Thunderbird contains filtering and timeline tools to"
+" pinpoint the exact email you’re looking for. Thunderbird also indexes all "
+"of your emails to help you search even faster. Your search results are "
 "displayed in a tab so you can easily switch back and forth to your search "
 "results and other email."
 msgstr ""
+"La surfatscha da tschertgar da Thunderbird cuntegna utensils da filtrar e "
+"zavrar per limitar ils e-mails chattads exact sin quels che ti tschertgas. "
+"Thunderbird fa in index da tut tes e-mails per che ti pos tschertgar anc pli"
+" spert. Ils resultats da la tschertga vegnan averts en in tab per che ti pos"
+" adina midar tranter ils resultats ed ils e-mails che ti avras."
 
 #: website/features/index.html:147
 msgid "Message Archive"
-msgstr ""
+msgstr "Archiv da messadis"
 
 #: website/features/index.html:148
 msgid ""
@@ -317,15 +355,21 @@ msgid ""
 "your inbox without deleting it, archive it! Archiving helps you manage your "
 "inbox and put your email into the archive folder system."
 msgstr ""
+"Sche ti pensas che ti dovras forsa anc in messadi, vuls dentant betg ch’el "
+"resta en tia posta entrada al pos ti archivar. Archivar ta gida dad "
+"administrar tia posta entrada e da spustar tes e-mails en in sistem "
+"d’ordinaturs."
 
 #: website/features/index.html:149
 msgid ""
 "Selecting the Archive button or hitting the ‘A’ key will archive your email."
 msgstr ""
+"Cun smatgar il buttun ’Archivar’ u la tasta ’A’ sin tia tastatura pos ti "
+"archivar tes e-mails."
 
 #: website/features/index.html:155
 msgid "Activity Manager"
-msgstr ""
+msgstr "Activitads"
 
 #: website/features/index.html:156
 msgid ""
@@ -333,10 +377,14 @@ msgid ""
 "your email provider in one place. There’s no more guess work. You only have "
 "to look in one place to see everything that’s happening with your email."
 msgstr ""
+"La fanestra d’activitads registrescha tut las interacziuns tranter "
+"Thunderbird e tes provider d’e-mails. Ti stos mai pli engiavinar tge che "
+"capita. Ti stos be avrir la fanestrina e vesas tut tge che capita cun tes "
+"e-mails."
 
 #: website/features/index.html:180
 msgid "Thunderbird Look & Feel"
-msgstr ""
+msgstr "Apparientscha da Firefox"
 
 #: website/features/index.html:181
 msgid ""
@@ -345,34 +393,49 @@ msgid ""
 "latest movies, famous landmarks, and Japanese tattoos. You can also choose "
 "from several Themes that dress up all the different icons in Thunderbird."
 msgstr ""
+"Personas, designs simpels, ta lubeschan da midar l’apparientscha visuala da "
+"Thunderbird cun be in clic. Tschients da Personas stattan a disposiziun: "
+"davent dals films pli novs sur attracziuns da la natira enfin a tattos "
+"giapunais chattas tut. Ti pos era tscherner da differents designs cumplets "
+"che midan era p.ex. las iconas da Thunderbird."
 
 #: website/features/index.html:184
 msgid "Smart Folders"
-msgstr ""
+msgstr "Ordinaturs gruppads"
 
 #: website/features/index.html:185
 msgid ""
 "Smart Folders help you manage multiple email accounts by combining special "
 "folders like your Inbox, Sent, or Archive folder. Instead of going to the "
-"Inbox for each of your mail accounts, you can see all of your incoming email "
-"in one Inbox folder."
+"Inbox for each of your mail accounts, you can see all of your incoming email"
+" in one Inbox folder."
 msgstr ""
+"Cun la funcziun dals ’Ordinaturs gruppads’ pos ti administrar differents "
+"contos d’email entras cumbinar ordinaturs spezials sco per exempel la posta "
+"entrada, ils e-mails tramess u ils ordinaturs dad archiv. Empè da stuair "
+"visitar tut ils ordinaturs da posta entrada da tut tes contos pos ti vesair "
+"tut ils e-mails novs en in ordinatur da posta entrada."
 
 #: website/features/index.html:190
 msgid "Add-ons Manager"
-msgstr ""
+msgstr "Administraziun da supplements"
 
 #: website/features/index.html:191
 msgid ""
 "Find and install add-ons directly in Thunderbird. You no longer need to "
-"visit the add-ons Web site - instead simply fire up the Add-ons Manager. Not "
-"sure which add-on is right for you? Ratings, recommendations, descriptions "
+"visit the add-ons Web site - instead simply fire up the Add-ons Manager. Not"
+" sure which add-on is right for you? Ratings, recommendations, descriptions "
 "and pictures of the add-ons in action help you make your selection."
 msgstr ""
+"Chatta ed installescha supplements directamain en Thunderbird. Ti na stos "
+"betg pli visitar la pagina da supplements per installar tals - avra "
+"simplamain l’administraziun da supplements. Na sas betg sch’in supplement è "
+"insatge per tai? Valitaziuns, recumandaziuns, descripziuns e maletgs dals "
+"supplements ta gidan da prender ina decisiun."
 
 #: website/features/index.html:208
 msgid "Robust Privacy"
-msgstr ""
+msgstr "Sfera privata"
 
 #: website/features/index.html:209
 msgid ""
@@ -380,10 +443,12 @@ msgid ""
 "ensure a user’s privacy, Thunderbird automatically blocks remote images in "
 "email messages."
 msgstr ""
+"Thunderbird protegia tia sfera privata. Perquai vegnan maletgs che vegnan "
+"chargiads da funtaunas externas bloccads en tes messadis."
 
 #: website/features/index.html:216
 msgid "Phishing Protection"
-msgstr ""
+msgstr "Protecziun encunter phishing"
 
 #: website/features/index.html:217
 msgid ""
@@ -391,36 +456,48 @@ msgid ""
 "handing over personal and confidential information by indicating when a "
 "message is a potential phishing attempt. As a second line of defense, "
 "Thunderbird warns you when you click on a link which appears to be taking "
-"you to a different Web site than the one indicated by the URL in the message."
+"you to a different Web site than the one indicated by the URL in the "
+"message."
 msgstr ""
+"Thunderbird ta protegia dad e-mails che emprovan da retschaiver tias datas "
+"persunalas. Sche Thunderbird chatta in tal messadi vegn mussà in avis che "
+"quel saja probabel ina emprova da phishing. Plinavant t’avisescha "
+"Thunderbird era sche ti cliccas sin in link che maina ad in auter lieu che "
+"inditgà en il messadi."
 
 #: website/features/index.html:225
 msgid "Automated Update"
-msgstr ""
+msgstr "Actualisaziun automatica"
 
 #: website/features/index.html:228
 msgid ""
 "Thunderbird’s update system checks to see if you’re running the latest "
 "version, and notifies you when a security update is available. These "
-"security updates are small (usually 200KB - 700KB), giving you only what you "
-"need and making the security update quick to download and install. The "
+"security updates are small (usually 200KB - 700KB), giving you only what you"
+" need and making the security update quick to download and install. The "
 "automated update system provides updates for Thunderbird on Windows, macOS, "
 "and Linux in over 40 different languages."
 msgstr ""
+"Il sistem d’actualisaziun da Thunderbird tschertga automaticamain novas "
+"versiuns e t’infurmescha sch’ina actualisaziun stat a disposiziun. Questas "
+"actualisaziuns da segirezza èn pitschnas (per ordinari 200KB - 700 KB "
+"grondas) e ta dattan dapli segirezza cun be in clic sin ’Installar’. Il "
+"sistem d’actualisaziun porscha actualisaziuns automaticas per ils sistems "
+"operativs Windows, macOS e Linux, e quai en passa 40 differentas linguas."
 
 #: website/features/index.html:230
 msgid ""
 "Thunderbird’s update system checks to see if you’re running the latest "
 "version, and notifies you when a security update is available. These "
-"security updates are small (usually 200KB - 700KB), giving you only what you "
-"need and making the security update quick to download and install. The "
+"security updates are small (usually 200KB - 700KB), giving you only what you"
+" need and making the security update quick to download and install. The "
 "automated update system provides updates for Thunderbird on Windows, OS X, "
 "and Linux in over 40 different languages."
 msgstr ""
 
 #: website/features/index.html:238
 msgid "Cutting Out the Junk"
-msgstr ""
+msgstr "Eliminar e-mails nungiavischads"
 
 #: website/features/index.html:239
 msgid ""
@@ -431,6 +508,14 @@ msgid ""
 "matters. Thunderbird can also use your mail provider’s spam filters to keep "
 "junk mail out of your inbox."
 msgstr ""
+"Ils utensils da Thunderbird per eliminar e-mails nungiavischads, uschenumnà "
+"SPAM, èn vegnids actualisads per ch’els pon era identifitgar ils pli novs "
+"e-mails nungiavischads. Mintga e-mails che ti retschaivas vegn analisà dal "
+"filter da spam da Thunderbird. Mintga giada sche ti marcheschas in e-mail "
+"sco nungiavischà emprenda Thunderbird e meglierescha il filter. Uschia has "
+"ti dapli temps da leger ils e-mails impurtants. Thunderbird po era utilisar "
+"il filter da spam da tes provider per spaventar e-mails nungiavischads da "
+"tia posta entrada."
 
 #: website/features/index.html:242
 msgid "Open Source"
@@ -441,10 +526,14 @@ msgid ""
 "At the heart of Thunderbird is an open source development process driven by "
 "thousands of passionate, experienced developers and security experts spread "
 "all over the world. Our openness and active community of experts helps to "
-"ensure our products are more secure and quickly updated, while also enabling "
-"us to take advantage of the best third party security scanning and "
+"ensure our products are more secure and quickly updated, while also enabling"
+" us to take advantage of the best third party security scanning and "
 "evaluation tools to further bolster overall security."
 msgstr ""
+"Thunderbird è il resultat dad in project dad «open source» che vegn sustegni"
+" da millis sviluppaders ed experts da segirezza passiunads e versads da tut "
+"il mund. Nossa avertadad ed il team activ dad experts gida da garantir che "
+"noss products èn pli segirs e vegnan actualisads regularmain."
 
 #: website/thunderbird/all/index.html:10
 #, python-format
@@ -499,7 +588,7 @@ msgstr ""
 
 #: website/thunderbird/releases/index.html:19
 msgid "Release Notes"
-msgstr ""
+msgstr "Notizias da publicaziun"
 
 #: website/thunderbird/releases/index.html:25
 msgid "Thunderbird Releases"
