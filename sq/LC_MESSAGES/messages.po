@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-03 23:50-0800\n"
-"PO-Revision-Date: 2018-03-13 10:47+0000\n"
+"PO-Revision-Date: 2018-03-13 11:08+0000\n"
 "Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
 "Language-Team: none\n"
 "Language: sq\n"
@@ -67,20 +67,20 @@ msgstr "Shkarkoni Thunderbird-in"
 #: website/download-button.html:28
 #, python-format
 msgid "Your system doesn't meet the <a href=\"%(url)s\">requirements</a> to run Thunderbird."
-msgstr ""
+msgstr "Sistemi juaj s’i plotëson <a href=\"%(url)s\">domosdoshmëritë</a> për xhirimin e Thunderbird-it."
 
 #: website/download-button.html:31
 #, python-format
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
-msgstr ""
+msgstr "Ju lutemi, ndiqni <a href=\"%(url)s\">këto udhëzime</a> për të instaluar Thunderbird-in."
 
 #: website/download-button.html:44
 msgid "Thunderbird Beta"
-msgstr ""
+msgstr "Thunderbird Beta"
 
 #: website/download-button.html:46
 msgid "<span>Thunderbird</span> Earlybird"
-msgstr ""
+msgstr "<span>Thunderbird</span> Earlybird"
 
 #: website/download-button.html:57
 msgid "Systems &amp; Languages"
@@ -108,11 +108,11 @@ msgstr "Shkarkim Falas"
 
 #: website/index.html:35
 msgid "Thunderbird screenshot"
-msgstr ""
+msgstr "Foto ekrani nga Thunderbird-i"
 
 #: website/index.html:45 website/index.html:65
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: website/lang_switcher.html:10
 msgid "Page language:"
@@ -124,7 +124,7 @@ msgstr "Gjuhë të tjera:"
 
 #: website/lang_switcher.html:23
 msgid "Go"
-msgstr ""
+msgstr "Shko"
 
 #: website/site-footer.html:6
 #, python-format
@@ -148,7 +148,7 @@ msgstr "Kontribuoni te ky sajt"
 
 #: website/site-footer.html:23
 msgid "Cookies"
-msgstr ""
+msgstr "Cookies"
 
 #: website/site-footer.html:24
 msgid "Legal"
@@ -397,6 +397,9 @@ msgid ""
 " you only what you need and making the security update quick to download and install. The automated update system provides updates for Thunderbird on Windows, OS X, and Linux in over 40 different "
 "languages."
 msgstr ""
+"Sistemi i përditësimit të Thunderbird-it kontrollon për të parë nëse xhironi versionin më të ri, dhe ju njofton kur ka gati një përditësim sigurie. Këto përditësime sigurie janë të vockla (zakonisht"
+" 200KB - 700KB), dhe ju japin vetëm sa ju duhet, duke e bërë përditësimin e sigurisë të shpejtë për ta shkarkuar dhe instaluar. Sistemi i automatizuar i përditësimit furnizon përditësime për "
+"Thunderbird-in në Windows, OS X, dhe Linux, në më shumë se 40 gjuhë të ndryshme."
 
 #: website/features/index.html:238
 msgid "Cutting Out the Junk"
@@ -429,43 +432,44 @@ msgstr ""
 #: website/thunderbird/all/index.html:10
 #, python-format
 msgid "Download %s in your language"
-msgstr ""
+msgstr "Shkarkojeni %s në gjuhën tuaj"
 
 #: website/thunderbird/all/index.html:15 website/thunderbird/beta/all/index.html:15
 msgid "Be one of the first to try the newest features in Thunderbird. By giving us your feedback, you’ll help us to refine the features that will be included in the final version."
 msgstr ""
+"Jini ndër të parët që provojnë veçoritë më të reja të Thunderbird-it. Duke na dhënë përshtypjet tuaja, Do të na ndihmoni t’i përmirësojmë veçoritë që do të përfshihen në versionin përfundimtar."
 
 #: website/thunderbird/all/index.html:17 website/thunderbird/beta/all/index.html:17
 msgid "Get the award-winning email application from Mozilla. Import your existing mail and enjoy our new features like tabbed email and advanced search."
-msgstr ""
+msgstr "Merrni aplikacionin Mozilla për email, fitues çmimesh. Importoni postën tuaj ekzistuese dhe shijoni veçori të reja tonat, të tilla si email me skeda dhe kërkim të thelluar."
 
 #: website/thunderbird/all/index.html:34 website/thunderbird/beta/all/index.html:34
 msgid "Check the system requirements"
-msgstr ""
+msgstr "Kontrolloni domosdoshmëri sistemi"
 
 #: website/thunderbird/all/index.html:35 website/thunderbird/beta/all/index.html:35
 msgid "Release notes"
-msgstr ""
+msgstr "Shënime versioni"
 
 #: website/thunderbird/all/index.html:43 website/thunderbird/beta/all/index.html:43
 msgid "Fully localized versions"
-msgstr ""
+msgstr "Versione të përkthyer plotësisht"
 
 #: website/thunderbird/beta/all/index.html:10
 msgid "Download Beta in your language"
-msgstr ""
+msgstr "Shkarkoni paketën Beta në gjuhën tuaj"
 
 #: website/thunderbird/releases/index.html:7
 msgid "Mozilla Thunderbird Release Notes"
-msgstr ""
+msgstr "Shënime Versioni për Mozilla Thunderbird"
 
 #: website/thunderbird/releases/index.html:8
 msgid "Release notes for each version of Thunderbird."
-msgstr ""
+msgstr "Shënime versioni për çdo hedhje në qarkullim të Thunderbird-it."
 
 #: website/thunderbird/releases/index.html:17
 msgid "Home"
-msgstr ""
+msgstr "Kreu"
 
 #: website/thunderbird/releases/index.html:19
 msgid "Release Notes"
@@ -473,8 +477,8 @@ msgstr "Shënime Versioni"
 
 #: website/thunderbird/releases/index.html:25
 msgid "Thunderbird Releases"
-msgstr ""
+msgstr "Hedhje në Qarkullim të Thunderbird-it"
 
 #: website/thunderbird/releases/index.html:26
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
-msgstr ""
+msgstr "Shënimet e versionit për Thunderbird-in janë specifike për çdo version të aplikacionit. Që të shihni shënimet e versionit për një, përzgjidhni versionin tuaj prej listës më poshtë."
