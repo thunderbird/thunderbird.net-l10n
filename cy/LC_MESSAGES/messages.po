@@ -2,36 +2,35 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-03 23:50-0800\n"
-"PO-Revision-Date: 2018-03-03 23:50-0800\n"
-"Last-Translator: Automatically generated\n"
-"Language: cy\n"
+"PO-Revision-Date: 2018-03-13 15:51+0000\n"
+"Last-Translator: Rhoslyn Prys <rprys@yahoo.com>\n"
 "Language-Team: none\n"
-"Plural-Forms: nplurals=5; plural=(n==1 ? 1 : n==2 ? 2 : n==3 ? 3 : n==6 ?"
-" 4 : 0)\n"
+"Language: cy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3;\n"
 "Generated-By: Babel 2.5.3\n"
+"X-Generator: Pontoon\n"
 
 #: website/base-resp.html:24
 msgid "Menu"
 msgstr "Dewislen"
 
-#: website/base-resp.html:26 website/index.html:7 website/index.html:14
-#: website/index.html:26 website/index.html:40 website/index.html:59
-#: website/site-footer.html:31 website/thunderbird/releases/index.html:18
+#: website/base-resp.html:26 website/index.html:7 website/index.html:14 website/index.html:26 website/index.html:40 website/index.html:59 website/site-footer.html:31
+#: website/thunderbird/releases/index.html:18
 msgid "Thunderbird"
-msgstr ""
+msgstr "Thunderbird"
 
 #: website/base-resp.html:30
 msgid "Beta"
-msgstr ""
+msgstr "Beta"
 
 #: website/base-resp.html:35
 msgid "Features"
@@ -43,7 +42,7 @@ msgstr "Rhyddhau"
 
 #: website/base-resp.html:45
 msgid "Thunderbird for Organizations"
-msgstr ""
+msgstr "Thunderbird ar gyfer Cyrff"
 
 #: website/base-resp.html:52 website/base-resp.html:57
 msgid "Add-ons"
@@ -63,29 +62,25 @@ msgstr "Cyfrannu"
 
 #: website/download-button.html:7 website/download-button.html:48
 msgid "Download Thunderbird"
-msgstr ""
+msgstr "Llwytho Thunderbird i Lawr"
 
 #: website/download-button.html:28
 #, python-format
-msgid ""
-"Your system doesn't meet the <a href=\"%(url)s\">requirements</a> to run "
-"Thunderbird."
-msgstr ""
+msgid "Your system doesn't meet the <a href=\"%(url)s\">requirements</a> to run Thunderbird."
+msgstr "Nid yw eich system yn cyrraedd y <a href=\"%(url)s\">gofynion</a> ar gyfer rhedeg Thunderbird."
 
 #: website/download-button.html:31
 #, python-format
-msgid ""
-"Please follow <a href=\"%(url)s\">these instructions</a> to install "
-"Thunderbird."
-msgstr ""
+msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
+msgstr "Dilynwch y <a href=\"%(url)s\">cyfarwyddiadau hyn</a> er mwyn gosod Thunderbird."
 
 #: website/download-button.html:44
 msgid "Thunderbird Beta"
-msgstr ""
+msgstr "Thunderbird Beta"
 
 #: website/download-button.html:46
 msgid "<span>Thunderbird</span> Earlybird"
-msgstr ""
+msgstr "<span>Thunderbird</span> Earlybird"
 
 #: website/download-button.html:57
 msgid "Systems &amp; Languages"
@@ -104,12 +99,8 @@ msgid "Software made to make email easier."
 msgstr "Meddalwedd i wneud e-bost yn haws."
 
 #: website/index.html:9
-msgid ""
-"Thunderbird is a free email application that’s easy to set up and "
-"customize - and it’s loaded with great features!"
-msgstr ""
-"Mae Thunderbird yn rhaglen e-bost am ddim, sy'n hawdd ei osod a'i addasu "
-"- ac mae'n llawn o nodweddion gwych!"
+msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
+msgstr "Mae Thunderbird yn rhaglen e-bost am ddim, sy'n hawdd ei osod a'i addasu - ac mae'n llawn o nodweddion gwych!"
 
 #: website/index.html:30
 msgid "Free Download"
@@ -117,11 +108,11 @@ msgstr "Llwytho i Lawr am ddim"
 
 #: website/index.html:35
 msgid "Thunderbird screenshot"
-msgstr ""
+msgstr "Llun sgrinThunderbird"
 
 #: website/index.html:45 website/index.html:65
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: website/lang_switcher.html:10
 msgid "Page language:"
@@ -133,7 +124,7 @@ msgstr "Ieithoedd eraill:"
 
 #: website/lang_switcher.html:23
 msgid "Go"
-msgstr ""
+msgstr "Mynd"
 
 #: website/site-footer.html:6
 #, python-format
@@ -141,10 +132,7 @@ msgid ""
 "Portions of this content are ©1998–%(current_year)s by individual\n"
 "              mozilla.org contributors. Content available under\n"
 "              a <a href=\"%(url)s\">Creative Commons license</a>."
-msgstr ""
-"Mae darnau o'r cynnwys yn ©1998–%(current_year)s gan gyfranwyr unigol "
-"mozilla.org. Mae'r cynnwys ar gael o dan <a href=\"%(url)s\">drwydded "
-"Creative Commons</a>."
+msgstr "Mae darnau o'r cynnwys yn ©1998–%(current_year)s gan gyfranwyr unigol mozilla.org. Mae'r cynnwys ar gael o dan <a href=\"%(url)s\">drwydded Creative Commons</a>."
 
 #: website/site-footer.html:15
 msgid "About"
@@ -171,20 +159,12 @@ msgid "Report Trademark Abuse"
 msgstr "Adrodd am Gamddefnyddio Nod Masnach"
 
 #: website/channel/index.html:7
-msgid ""
-"Download Thunderbird Earlybird or Beta &amp; Help Determine the Next "
-"Thunderbird"
-msgstr ""
-"Llwythwch i lawr Thunderbird Earlybird neu Beta Er Mwyn Rhoi Cyfeiriad "
-"i'r Thunderbird Nesaf"
+msgid "Download Thunderbird Earlybird or Beta &amp; Help Determine the Next Thunderbird"
+msgstr "Llwythwch i lawr Thunderbird Earlybird neu Beta Er Mwyn Rhoi Cyfeiriad i'r Thunderbird Nesaf"
 
 #: website/channel/index.html:8
-msgid ""
-"Download and test Thunderbird future releases. Experience the newest "
-"innovations with the Earlybird or Beta builds."
-msgstr ""
-"Llwythwch i lawr a phrofi fersiynau'r dyfodol o Thunderbird. Profwch yr "
-"arloesedd diweddaraf gydag Earlybird neu'r Beta."
+msgid "Download and test Thunderbird future releases. Experience the newest innovations with the Earlybird or Beta builds."
+msgstr "Llwythwch i lawr a phrofi fersiynau'r dyfodol o Thunderbird. Profwch yr arloesedd diweddaraf gydag Earlybird neu'r Beta."
 
 #: website/channel/index.html:18
 msgid "Welcome to the <strong>Future of Thunderbird</strong>"
@@ -192,27 +172,19 @@ msgstr "Croeso i <strong>Ddyfodol Thunderbird</strong>"
 
 #: website/channel/index.html:19
 msgid ""
-"Download Earlybird or Thunderbird Beta and be one of the first to try the"
-" newest features in the next version of Thunderbird! By giving us your "
-"feedback, you’ll help make email better for millions of your fellow "
-"users."
+"Download Earlybird or Thunderbird Beta and be one of the first to try the newest features in the next version of Thunderbird! By giving us your feedback, you’ll help make email better for millions "
+"of your fellow users."
 msgstr ""
-"Llwythwch Earlybird neu Thunderbird Beta i lawr a bod yn un o'r rhai "
-"cynharaf i ddefnyddio nodweddion y fersiwn nesaf o Thunderbird! Drwy "
-"rannu eich adborth, gallwch gyfrannu tuag at wneud e-bost yn well ar "
-"gyfer miliynau o'ch cyd-ddefnyddwyr."
+"Llwythwch Earlybird neu Thunderbird Beta i lawr a bod yn un o'r rhai cynharaf i ddefnyddio nodweddion y fersiwn nesaf o Thunderbird! Drwy rannu eich adborth, gallwch gyfrannu tuag at wneud e-bost yn"
+" well ar gyfer miliynau o'ch cyd-ddefnyddwyr."
 
 #: website/channel/index.html:30
 msgid "Experience cutting edge features with more stability"
 msgstr "Profwch nodweddion blaengar, mwy sefydlog"
 
 #: website/channel/index.html:31
-msgid ""
-"Provide feedback to help refine and polish what will be in the final "
-"release"
-msgstr ""
-"Darparwch adborth er mwyn mireinio a gwella'r hyn ddaw i'r fersiwn "
-"terfynol"
+msgid "Provide feedback to help refine and polish what will be in the final release"
+msgstr "Darparwch adborth er mwyn mireinio a gwella'r hyn ddaw i'r fersiwn terfynol"
 
 #: website/features/index.html:7
 msgid "Thunderbird Features"
@@ -244,15 +216,11 @@ msgstr "Dewin Gosod Cyfrif E-bost"
 
 #: website/features/index.html:46
 msgid ""
-"Prior to this feature you had to know your IMAP, SMTP, and SSL/TLS "
-"settings. Now all you need to provide is your name, email address, and "
-"password and the email account set up wizardry will check our database "
-"and find the email settings for you."
+"Prior to this feature you had to know your IMAP, SMTP, and SSL/TLS settings. Now all you need to provide is your name, email address, and password and the email account set up wizardry will check "
+"our database and find the email settings for you."
 msgstr ""
-"Yn y gorffennol roedd yn rhaid i chi wybod eich gosodiadau IMAP, SMTP, a "
-"SSL/TLS. Nawr dim ond darparu eich enw, cyfeiriad e-bost a chyfrinair a "
-"bydd dewiniaeth gosod yr e-bost yn gwirio ein cronfa ddata a chanfod y "
-"gosodiadau e-bost ar eich cyfer."
+"Yn y gorffennol roedd yn rhaid i chi wybod eich gosodiadau IMAP, SMTP, a SSL/TLS. Nawr dim ond darparu eich enw, cyfeiriad e-bost a chyfrinair a bydd dewiniaeth gosod yr e-bost yn gwirio ein cronfa "
+"ddata a chanfod y gosodiadau e-bost ar eich cyfer."
 
 #: website/features/index.html:64
 msgid "One-click Address Book"
@@ -260,29 +228,19 @@ msgstr "Llyfr Cyfeiriadau Un Clic"
 
 #: website/features/index.html:65
 msgid ""
-"One-click Address Book is a quick and easy way to add people to your "
-"address book. Add people by simply clicking on the star icon in the "
-"message you receive. Two clicks and you can add more details like a "
-"photo, birthday, and other contact information."
+"One-click Address Book is a quick and easy way to add people to your address book. Add people by simply clicking on the star icon in the message you receive. Two clicks and you can add more details "
+"like a photo, birthday, and other contact information."
 msgstr ""
-"Mae'r Llyfr Cyfeiriadau Un Clic yn ffordd hawdd a chyflym i ychwanegu "
-"pobl i'ch llyfr cyfeiriadau. Ychwanegwch bobl drwy glicio ar yr eicon "
-"seren yn y neges rydych wedi ei derbyn. Dau glic a gallwch ychwanegu "
-"rhagor o fanylion fel llun, pen-blwydd a manylion cyswllt eraill."
+"Mae'r Llyfr Cyfeiriadau Un Clic yn ffordd hawdd a chyflym i ychwanegu pobl i'ch llyfr cyfeiriadau. Ychwanegwch bobl drwy glicio ar yr eicon seren yn y neges rydych wedi ei derbyn. Dau glic a gallwch"
+" ychwanegu rhagor o fanylion fel llun, pen-blwydd a manylion cyswllt eraill."
 
 #: website/features/index.html:71
 msgid "Attachment Reminder"
 msgstr "Atgoffa am Atodiad"
 
 #: website/features/index.html:72
-msgid ""
-"The attachment reminder looks for the word attachment (and other words "
-"like file types) in the body of your message and reminds you to add an "
-"attachment before hitting send."
-msgstr ""
-"Mae'r atgoffwr atodiad yn chwilio am y gair atodiad (a geiriau eraill "
-"tebyg yn Gymraeg a Saesneg) yng nghorff eich neges ac yn eich atgoffa i "
-"ychwanegu'r atodiad cyn clicio Anfon."
+msgid "The attachment reminder looks for the word attachment (and other words like file types) in the body of your message and reminds you to add an attachment before hitting send."
+msgstr "Mae'r atgoffwr atodiad yn chwilio am y gair atodiad (a geiriau eraill tebyg yn Gymraeg a Saesneg) yng nghorff eich neges ac yn eich atgoffa i ychwanegu'r atodiad cyn clicio Anfon."
 
 #: website/features/index.html:103
 msgid "Tabs"
@@ -290,38 +248,21 @@ msgstr "Tabiau"
 
 #: website/features/index.html:104
 msgid ""
-"If you like Firefox’s tabbed browsing, you’re going to love tabbed email."
-" Tabbed email lets you load emails in separate tabs so you can quickly "
-"jump between them. Perhaps you’re responding to an email and need to "
-"refer back to an earlier email. Tabbed email lets you keep multiple "
-"emails open for easy reference."
+"If you like Firefox’s tabbed browsing, you’re going to love tabbed email. Tabbed email lets you load emails in separate tabs so you can quickly jump between them. Perhaps you’re responding to an "
+"email and need to refer back to an earlier email. Tabbed email lets you keep multiple emails open for easy reference."
 msgstr ""
-"Os ydych yn hoffi pori gyda thabiau yn Firefox, byddwch wrth eich bodd "
-"gyda thabiau e-byst. Mae tabiau e-byst yn caniatáu i chi lwytho e-byst "
-"mewn tabiau gwahanol fel bod modd i chi neidio'n sydyn rhyngddyn nhw. "
-"Efallai eich bod yn ymateb i e-bost ac mae angen edrych ar e-bost arall. "
-"Mae tabiau e-byst yn caniatáu i chi gadw e-byst lluosog ar agor er mwyn "
-"eu gweld i gyd yn hawdd."
+"Os ydych yn hoffi pori gyda thabiau yn Firefox, byddwch wrth eich bodd gyda thabiau e-byst. Mae tabiau e-byst yn caniatáu i chi lwytho e-byst mewn tabiau gwahanol fel bod modd i chi neidio'n sydyn "
+"rhyngddyn nhw. Efallai eich bod yn ymateb i e-bost ac mae angen edrych ar e-bost arall. Mae tabiau e-byst yn caniatáu i chi gadw e-byst lluosog ar agor er mwyn eu gweld i gyd yn hawdd."
 
 #: website/features/index.html:105
-msgid ""
-"Double-clicking or hitting enter on a mail message will now open that "
-"message in a new tab window. Right-clicking on messages or folders will "
-"open them in a tab in the background."
-msgstr ""
-"Bydd clic dwbl neu bwyso enter ar neges e-bost nawr yn agor neges mewn "
-"ffenestr tab newydd. Bydd clic de ar neges neu ffolder yn eu hagor mewn "
-"tab yn y cefndir."
+msgid "Double-clicking or hitting enter on a mail message will now open that message in a new tab window. Right-clicking on messages or folders will open them in a tab in the background."
+msgstr "Bydd clic dwbl neu bwyso enter ar neges e-bost nawr yn agor neges mewn ffenestr tab newydd. Bydd clic de ar neges neu ffolder yn eu hagor mewn tab yn y cefndir."
 
 #: website/features/index.html:106
-msgid ""
-"When quitting Thunderbird, visible tabs will be saved and will be "
-"restored when you open Thunderbird the next time. There is also a Tab "
-"menu on the Tab toolbar to help you switch between Tabs."
+msgid "When quitting Thunderbird, visible tabs will be saved and will be restored when you open Thunderbird the next time. There is also a Tab menu on the Tab toolbar to help you switch between Tabs."
 msgstr ""
-"Wrth i chi adael Thunderbird, bydd tabiau gweladwy yn cael eu cadw a'u "
-"hadfer pan fyddwch yn agor Thunderbird y tro nesaf. Mae hefyd dewislen "
-"Tabiau ar y bar offer Tabiau i'ch cynorthwyo i symud rhwng eich Tabiau."
+"Wrth i chi adael Thunderbird, bydd tabiau gweladwy yn cael eu cadw a'u hadfer pan fyddwch yn agor Thunderbird y tro nesaf. Mae hefyd dewislen Tabiau ar y bar offer Tabiau i'ch cynorthwyo i symud "
+"rhwng eich Tabiau."
 
 #: website/features/index.html:126
 msgid "Quick Filter Toolbar"
@@ -329,17 +270,11 @@ msgstr "Bar Offer Hidlo Cyflym"
 
 #: website/features/index.html:127
 msgid ""
-"The Quick Filter Toolbar lets you filter your email faster. Start typing "
-"in words in the Quick Filter search box and the results are displayed "
-"instantly. Or you can filter your email by New Messages, Tags, and people"
-" in your Address Book. You can also \"Pin\" or save a Filter and use it "
-"across multiple folders."
+"The Quick Filter Toolbar lets you filter your email faster. Start typing in words in the Quick Filter search box and the results are displayed instantly. Or you can filter your email by New "
+"Messages, Tags, and people in your Address Book. You can also \"Pin\" or save a Filter and use it across multiple folders."
 msgstr ""
-"Mae'r Bar Offer Hidlo Cyflym yn caniatáu i chi hidlo eich e-byst yn gynt."
-" Cychwynnwch deipio gair yn y blwch chwilio Hidlo Cyflym a bydd y "
-"canlyniadau i'w gweld yn syth. Neu gallwch hidlo eich e-byst yn ôl "
-"Negesuon Newydd, Tagiau a phobl yn eich Llyfr Cyfeiriadau. Gallwch hefyd "
-"\"Binio\" neu gadw Hidl a'i ddefnyddio ar draws ffolderi lluosog."
+"Mae'r Bar Offer Hidlo Cyflym yn caniatáu i chi hidlo eich e-byst yn gynt. Cychwynnwch deipio gair yn y blwch chwilio Hidlo Cyflym a bydd y canlyniadau i'w gweld yn syth. Neu gallwch hidlo eich "
+"e-byst yn ôl Negesuon Newydd, Tagiau a phobl yn eich Llyfr Cyfeiriadau. Gallwch hefyd \"Binio\" neu gadw Hidl a'i ddefnyddio ar draws ffolderi lluosog."
 
 #: website/features/index.html:137
 msgid "Search"
@@ -347,17 +282,11 @@ msgstr "Chwilio"
 
 #: website/features/index.html:138
 msgid ""
-"The search interface in Thunderbird contains filtering and timeline tools"
-" to pinpoint the exact email you’re looking for. Thunderbird also indexes"
-" all of your emails to help you search even faster. Your search results "
-"are displayed in a tab so you can easily switch back and forth to your "
-"search results and other email."
+"The search interface in Thunderbird contains filtering and timeline tools to pinpoint the exact email you’re looking for. Thunderbird also indexes all of your emails to help you search even faster. "
+"Your search results are displayed in a tab so you can easily switch back and forth to your search results and other email."
 msgstr ""
-"Mae'r rhyngwyneb chwilio Thunderbird yn cynnwys offer hidlo a llinell "
-"amser i adnabod yr union e-bost rydych yn chwilio amdano. Mae Thunderbird"
-" hefyd yn mynegeio eich holl e-byst i'ch cynorthwyo i chwilio'n gynt. "
-"Bydd eich canlyniadau chwilio'n cael eu dangos mewn tab fel bod modd i "
-"chi symud nôl a blaen i'ch canlyniadau chwilio ac e-byst eraill."
+"Mae'r rhyngwyneb chwilio Thunderbird yn cynnwys offer hidlo a llinell amser i adnabod yr union e-bost rydych yn chwilio amdano. Mae Thunderbird hefyd yn mynegeio eich holl e-byst i'ch cynorthwyo i "
+"chwilio'n gynt. Bydd eich canlyniadau chwilio'n cael eu dangos mewn tab fel bod modd i chi symud nôl a blaen i'ch canlyniadau chwilio ac e-byst eraill."
 
 #: website/features/index.html:147
 msgid "Message Archive"
@@ -365,19 +294,14 @@ msgstr "Archif Negeseuon"
 
 #: website/features/index.html:148
 msgid ""
-"If you think you’re going to need an email in the future but want it out "
-"of your inbox without deleting it, archive it! Archiving helps you manage"
-" your inbox and put your email into the archive folder system."
+"If you think you’re going to need an email in the future but want it out of your inbox without deleting it, archive it! Archiving helps you manage your inbox and put your email into the archive "
+"folder system."
 msgstr ""
-"Os ydych yn meddwl y bydd angen rhyw e-bost yn y dyfodol ond eich bod "
-"eisiau ei gadw ar wahân heb ei ddileu, mae modd ei archifo!. Mae "
-"archifo’n helpu i chi reoli eich blwch derbyn gan roi eich e-byst i "
-"system ffolder archif."
+"Os ydych yn meddwl y bydd angen rhyw e-bost yn y dyfodol ond eich bod eisiau ei gadw ar wahân heb ei ddileu, mae modd ei archifo!. Mae archifo’n helpu i chi reoli eich blwch derbyn gan roi eich "
+"e-byst i system ffolder archif."
 
 #: website/features/index.html:149
-msgid ""
-"Selecting the Archive button or hitting the ‘A’ key will archive your "
-"email."
+msgid "Selecting the Archive button or hitting the ‘A’ key will archive your email."
 msgstr "Bydd dewis y botwm Archifo neu bwyso'r fysell ‘A’ yn archifo eich e-byst."
 
 #: website/features/index.html:155
@@ -386,15 +310,11 @@ msgstr "Rheolwr Gweithgaredd"
 
 #: website/features/index.html:156
 msgid ""
-"The Activity Manager records all the interactions between Thunderbird and"
-" your email provider in one place. There’s no more guess work. You only "
-"have to look in one place to see everything that’s happening with your "
-"email."
+"The Activity Manager records all the interactions between Thunderbird and your email provider in one place. There’s no more guess work. You only have to look in one place to see everything that’s "
+"happening with your email."
 msgstr ""
-"Mae'r Rheolwr Gweithgaredd yn cofnodi holl ryngweithiadau rhwng "
-"Thunderbird â'ch darparwr e-byst mewn un man. Dim dyfalu pellach. Dim ond"
-" angen edrych mewn un man sydd, i weld popeth sydd wedi digwydd i'ch "
-"e-byst."
+"Mae'r Rheolwr Gweithgaredd yn cofnodi holl ryngweithiadau rhwng Thunderbird â'ch darparwr e-byst mewn un man. Dim dyfalu pellach. Dim ond angen edrych mewn un man sydd, i weld popeth sydd wedi "
+"digwydd i'ch e-byst."
 
 #: website/features/index.html:180
 msgid "Thunderbird Look & Feel"
@@ -402,16 +322,11 @@ msgstr "Golwg a Theimlad Thunderbird"
 
 #: website/features/index.html:181
 msgid ""
-"With Personas, lightweight \"skins\" allow you to change the look and "
-"feel of Thunderbird in an instant. Hundreds of skins are available from "
-"the latest movies, famous landmarks, and Japanese tattoos. You can also "
-"choose from several Themes that dress up all the different icons in "
-"Thunderbird."
+"With Personas, lightweight \"skins\" allow you to change the look and feel of Thunderbird in an instant. Hundreds of skins are available from the latest movies, famous landmarks, and Japanese "
+"tattoos. You can also choose from several Themes that dress up all the different icons in Thunderbird."
 msgstr ""
-"Gyda Personas, mae \"crwyn\" ysgafn yn caniatáu i chi newid golwg a "
-"theimlad Thunderbird mewn chwinciad. Mae cannoedd o grwyn ar gael o'r "
-"ffilmiau diweddaraf, tirnodau enwog a thatŵau Japanëeg. Gallwch hefyd "
-"ddewis o amryw Themâu i roi gwedd wahanol i eiconau amrywiol Thunderbird."
+"Gyda Personas, mae \"crwyn\" ysgafn yn caniatáu i chi newid golwg a theimlad Thunderbird mewn chwinciad. Mae cannoedd o grwyn ar gael o'r ffilmiau diweddaraf, tirnodau enwog a thatŵau Japanëeg. "
+"Gallwch hefyd ddewis o amryw Themâu i roi gwedd wahanol i eiconau amrywiol Thunderbird."
 
 #: website/features/index.html:184
 msgid "Smart Folders"
@@ -419,15 +334,11 @@ msgstr "Ffolderi Clyfar"
 
 #: website/features/index.html:185
 msgid ""
-"Smart Folders help you manage multiple email accounts by combining "
-"special folders like your Inbox, Sent, or Archive folder. Instead of "
-"going to the Inbox for each of your mail accounts, you can see all of "
-"your incoming email in one Inbox folder."
+"Smart Folders help you manage multiple email accounts by combining special folders like your Inbox, Sent, or Archive folder. Instead of going to the Inbox for each of your mail accounts, you can see"
+" all of your incoming email in one Inbox folder."
 msgstr ""
-"Mae Ffolderi Clyfar yn caniatáu i chi drefnu cyfrifon e-byst lluosog drwy"
-" gyfuno ffolderi arbennig fel eich Blwch Derbyn, Anfon neu ffolder "
-"Archif. Yn lle mynd i Flwch Derbyn pob un o'ch cyfrifon e-bost, gallwch "
-"weld eich holl e-byst mewn un ffolder Derbyn."
+"Mae Ffolderi Clyfar yn caniatáu i chi drefnu cyfrifon e-byst lluosog drwy gyfuno ffolderi arbennig fel eich Blwch Derbyn, Anfon neu ffolder Archif. Yn lle mynd i Flwch Derbyn pob un o'ch cyfrifon "
+"e-bost, gallwch weld eich holl e-byst mewn un ffolder Derbyn."
 
 #: website/features/index.html:190
 msgid "Add-ons Manager"
@@ -435,31 +346,21 @@ msgstr "Rheolwr Ychwanegion"
 
 #: website/features/index.html:191
 msgid ""
-"Find and install add-ons directly in Thunderbird. You no longer need to "
-"visit the add-ons Web site - instead simply fire up the Add-ons Manager. "
-"Not sure which add-on is right for you? Ratings, recommendations, "
-"descriptions and pictures of the add-ons in action help you make your "
-"selection."
+"Find and install add-ons directly in Thunderbird. You no longer need to visit the add-ons Web site - instead simply fire up the Add-ons Manager. Not sure which add-on is right for you? Ratings, "
+"recommendations, descriptions and pictures of the add-ons in action help you make your selection."
 msgstr ""
-"Gallwch ganfod a gosod ychwanegion o fewn Thunderbird. Does dim angen "
-"ymweld â gwefan ychwanegion, dim ond cychwyn y Rheolwr Ychwanegion. Ddim "
-"yn siŵr pa ychwanegyn sydd orau i chi? Mae lluniau, disgrifiadau ac "
-"argymellion o'r ychwanegion yn eich helpu i ddewis."
+"Gallwch ganfod a gosod ychwanegion o fewn Thunderbird. Does dim angen ymweld â gwefan ychwanegion, dim ond cychwyn y Rheolwr Ychwanegion. Ddim yn siŵr pa ychwanegyn sydd orau i chi? Mae lluniau, "
+"disgrifiadau ac argymellion o'r ychwanegion yn eich helpu i ddewis."
 
 #: website/features/index.html:208
 msgid "Robust Privacy"
 msgstr "Preifatrwydd Cadarn"
 
 #: website/features/index.html:209
-msgid ""
-"Thunderbird offers support for user privacy and remote image protection. "
-"To ensure a user’s privacy, Thunderbird automatically blocks remote "
-"images in email messages."
+msgid "Thunderbird offers support for user privacy and remote image protection. To ensure a user’s privacy, Thunderbird automatically blocks remote images in email messages."
 msgstr ""
-"Mae Thunderbird yn cynnig cefnogaeth i breifatrwydd defnyddwyr a "
-"diogelwch delweddau pell. I sicrhau preifatrwydd y defnyddiwr, mae "
-"Thunderbird yn rhwystro delweddau pell o fewn negeseuon e-byst rhag agor "
-"yn awtomatig."
+"Mae Thunderbird yn cynnig cefnogaeth i breifatrwydd defnyddwyr a diogelwch delweddau pell. I sicrhau preifatrwydd y defnyddiwr, mae Thunderbird yn rhwystro delweddau pell o fewn negeseuon e-byst "
+"rhag agor yn awtomatig."
 
 #: website/features/index.html:216
 msgid "Phishing Protection"
@@ -467,18 +368,11 @@ msgstr "Diogelwch rhag Twyll"
 
 #: website/features/index.html:217
 msgid ""
-"Thunderbird protects you from email scams which try to trick users into "
-"handing over personal and confidential information by indicating when a "
-"message is a potential phishing attempt. As a second line of defense, "
-"Thunderbird warns you when you click on a link which appears to be taking"
-" you to a different Web site than the one indicated by the URL in the "
-"message."
+"Thunderbird protects you from email scams which try to trick users into handing over personal and confidential information by indicating when a message is a potential phishing attempt. As a second "
+"line of defense, Thunderbird warns you when you click on a link which appears to be taking you to a different Web site than the one indicated by the URL in the message."
 msgstr ""
-"Mae Thunderbird yn eich diogelu rhag ymgais i'ch twyllo a datgelu "
-"manylion personol a chyfrinachol drwy awgrymu pan fo neges yn ymgais "
-"tebygol i'ch twyllo. Fel ail gam, mae Thunderbird yn eich rhybuddio pan "
-"fyddwch yn clicio ar ddolen y mae'n ymddangos ei fod yn eich cymryd i "
-"wefan gwahanol i'r un sydd yn URL yn y neges."
+"Mae Thunderbird yn eich diogelu rhag ymgais i'ch twyllo a datgelu manylion personol a chyfrinachol drwy awgrymu pan fo neges yn ymgais tebygol i'ch twyllo. Fel ail gam, mae Thunderbird yn eich "
+"rhybuddio pan fyddwch yn clicio ar ddolen y mae'n ymddangos ei fod yn eich cymryd i wefan gwahanol i'r un sydd yn URL yn y neges."
 
 #: website/features/index.html:225
 msgid "Automated Update"
@@ -486,30 +380,23 @@ msgstr "Diweddaru Awtomatig"
 
 #: website/features/index.html:228
 msgid ""
-"Thunderbird’s update system checks to see if you’re running the latest "
-"version, and notifies you when a security update is available. These "
-"security updates are small (usually 200KB - 700KB), giving you only what "
-"you need and making the security update quick to download and install. "
-"The automated update system provides updates for Thunderbird on Windows, "
-"macOS, and Linux in over 40 different languages."
+"Thunderbird’s update system checks to see if you’re running the latest version, and notifies you when a security update is available. These security updates are small (usually 200KB - 700KB), giving"
+" you only what you need and making the security update quick to download and install. The automated update system provides updates for Thunderbird on Windows, macOS, and Linux in over 40 different "
+"languages."
 msgstr ""
-"Mae system diweddaru Thunderbird yn gwirio i weld os ydych yn rhedeg y "
-"fersiwn diweddaraf ac yn eich hysbysu pan mae diweddariad diogelwch ar "
-"gael. Mae'r diweddariadau diogelwch hyn yn fach iawn (200KB - 700KB, fel "
-"arfer), gan gynnig dim ond beth sydd ei angen a gwneud y diweddariad yn "
-"sydyn i'w lwytho i lawr a'i osod. Mae'r system diweddaru awtomatig yn "
-"darparu diweddariadau i Thunderbird ar Windows, Mac a Linux mewn dros 40 "
-"o ieithoedd."
+"Mae system diweddaru Thunderbird yn gwirio i weld os ydych yn rhedeg y fersiwn diweddaraf ac yn eich hysbysu pan mae diweddariad diogelwch ar gael. Mae'r diweddariadau diogelwch hyn yn fach iawn "
+"(200KB - 700KB, fel arfer), gan gynnig dim ond beth sydd ei angen a gwneud y diweddariad yn sydyn i'w lwytho i lawr a'i osod. Mae'r system diweddaru awtomatig yn darparu diweddariadau i Thunderbird "
+"ar Windows, Mac a Linux mewn dros 40 o ieithoedd."
 
 #: website/features/index.html:230
 msgid ""
-"Thunderbird’s update system checks to see if you’re running the latest "
-"version, and notifies you when a security update is available. These "
-"security updates are small (usually 200KB - 700KB), giving you only what "
-"you need and making the security update quick to download and install. "
-"The automated update system provides updates for Thunderbird on Windows, "
-"OS X, and Linux in over 40 different languages."
+"Thunderbird’s update system checks to see if you’re running the latest version, and notifies you when a security update is available. These security updates are small (usually 200KB - 700KB), giving"
+" you only what you need and making the security update quick to download and install. The automated update system provides updates for Thunderbird on Windows, OS X, and Linux in over 40 different "
+"languages."
 msgstr ""
+"Mae system diweddaru Thunderbird yn gwirio i weld â ydych yn rhedeg y fersiwn diweddaraf, ac yn eich hysbysu pan fydd diweddariad diogelwch ar gael. Mae'r diweddariadau diogelwch hyn yn rhai bach "
+"(fel arfer 200KB - 700KB), gan rhoi i chi dim ond yr hyn sydd ei angen ac yn gwneud y diweddariad diogelwch yn un cyflym a hawdd i'w osod. Mae'r system diweddaru awtomatig yn darparu Thunderbird ar "
+"Windows OS X a Linux mewn dros 40 iaith gwahanol."
 
 #: website/features/index.html:238
 msgid "Cutting Out the Junk"
@@ -517,20 +404,13 @@ msgstr "Chwalu'r Sbam"
 
 #: website/features/index.html:239
 msgid ""
-"Thunderbird’s popular junk mail tools have been updated to stay ahead of "
-"spam. Each email you receive passes through Thunderbird’s leading-edge "
-"junk mail filters. Each time you mark messages as spam, Thunderbird "
-"\"learns\" and improves its filtering so you can spend more time reading "
-"the mail that matters. Thunderbird can also use your mail provider’s spam"
-" filters to keep junk mail out of your inbox."
+"Thunderbird’s popular junk mail tools have been updated to stay ahead of spam. Each email you receive passes through Thunderbird’s leading-edge junk mail filters. Each time you mark messages as "
+"spam, Thunderbird \"learns\" and improves its filtering so you can spend more time reading the mail that matters. Thunderbird can also use your mail provider’s spam filters to keep junk mail out of "
+"your inbox."
 msgstr ""
-"Mae offer e-bost sbam poblogaidd Thunderbird wedi ei ddiweddaru i'w cadw "
-"ar y blaen. Bydd pob e-bost rydych yn eu derbyn yn mynd drwy hidlau "
-"e-bost sbam amgen Thunderbird. Bob tro rydych yn nodi neges fel sbam mae "
-"Thunderbird yn \"dysgu\" hynny ac yn gwella ei hidlo fel eich bod yn "
-"treulio mwy o amser yn darllen eich e-byst pwysig. Gall Thunderbird hefyd"
-" ddefnyddio hidlau sbam eich darparwr e-bost i gadw sbam o'ch blwch "
-"derbyn."
+"Mae offer e-bost sbam poblogaidd Thunderbird wedi ei ddiweddaru i'w cadw ar y blaen. Bydd pob e-bost rydych yn eu derbyn yn mynd drwy hidlau e-bost sbam amgen Thunderbird. Bob tro rydych yn nodi "
+"neges fel sbam mae Thunderbird yn \"dysgu\" hynny ac yn gwella ei hidlo fel eich bod yn treulio mwy o amser yn darllen eich e-byst pwysig. Gall Thunderbird hefyd ddefnyddio hidlau sbam eich darparwr"
+" e-bost i gadw sbam o'ch blwch derbyn."
 
 #: website/features/index.html:242
 msgid "Open Source"
@@ -538,63 +418,48 @@ msgstr "Cod Agored"
 
 #: website/features/index.html:243
 msgid ""
-"At the heart of Thunderbird is an open source development process driven "
-"by thousands of passionate, experienced developers and security experts "
-"spread all over the world. Our openness and active community of experts "
-"helps to ensure our products are more secure and quickly updated, while "
-"also enabling us to take advantage of the best third party security "
-"scanning and evaluation tools to further bolster overall security."
+"At the heart of Thunderbird is an open source development process driven by thousands of passionate, experienced developers and security experts spread all over the world. Our openness and active "
+"community of experts helps to ensure our products are more secure and quickly updated, while also enabling us to take advantage of the best third party security scanning and evaluation tools to "
+"further bolster overall security."
 msgstr ""
-"Yn sail i Thunderbird mae proses ddatblygu sy'n cael ei yrru gan filoedd "
-"o ddatblygwyr ac arbenigwyr diogelwch brwdfrydig a phrofiadol, o ar draws"
-" y byd i gyd. Mae ein natur agored a'n cymuned o arbenigwyr yn ein "
-"cynorthwyo i ddarparu cynnyrch sy'n fwy diogel ac yn cael ei ddiweddaru'n"
-" sydyn, wrth ganiatáu i ni gymryd mantais o sganio diogelwch trydydd "
-"parti ac offer arfarnu i gynyddu diogelwch ymhellach."
+"Yn sail i Thunderbird mae proses ddatblygu sy'n cael ei yrru gan filoedd o ddatblygwyr ac arbenigwyr diogelwch brwdfrydig a phrofiadol, o ar draws y byd i gyd. Mae ein natur agored a'n cymuned o "
+"arbenigwyr yn ein cynorthwyo i ddarparu cynnyrch sy'n fwy diogel ac yn cael ei ddiweddaru'n sydyn, wrth ganiatáu i ni gymryd mantais o sganio diogelwch trydydd parti ac offer arfarnu i gynyddu "
+"diogelwch ymhellach."
 
 #: website/thunderbird/all/index.html:10
 #, python-format
 msgid "Download %s in your language"
-msgstr ""
+msgstr "Llwythwch %s i lawr yn eich iaith"
 
-#: website/thunderbird/all/index.html:15
-#: website/thunderbird/beta/all/index.html:15
-msgid ""
-"Be one of the first to try the newest features in Thunderbird. By giving "
-"us your feedback, you’ll help us to refine the features that will be "
-"included in the final version."
+#: website/thunderbird/all/index.html:15 website/thunderbird/beta/all/index.html:15
+msgid "Be one of the first to try the newest features in Thunderbird. By giving us your feedback, you’ll help us to refine the features that will be included in the final version."
 msgstr ""
+"Byddwch yn un o'r rhai cyntaf i brofi'r nodweddion diweddaraf yn Thunderbird. Drwy rannu eich adborth gyda ni byddwch yn ein helpu i fireinio'r nodweddion fydd yn cael eu cynnwys yn y fersiwn "
+"terfynol."
 
-#: website/thunderbird/all/index.html:17
-#: website/thunderbird/beta/all/index.html:17
-msgid ""
-"Get the award-winning email application from Mozilla. Import your "
-"existing mail and enjoy our new features like tabbed email and advanced "
-"search."
-msgstr ""
+#: website/thunderbird/all/index.html:17 website/thunderbird/beta/all/index.html:17
+msgid "Get the award-winning email application from Mozilla. Import your existing mail and enjoy our new features like tabbed email and advanced search."
+msgstr "Defnyddiwch y rhaglen e-bost sydd wedi ennill gwobrau, gan Mozilla. Mewnforiwch eich e-byst presennol a mwynhewch nodweddion newydd fel e-bost gyda thabiau a chwilio uwch."
 
-#: website/thunderbird/all/index.html:34
-#: website/thunderbird/beta/all/index.html:34
+#: website/thunderbird/all/index.html:34 website/thunderbird/beta/all/index.html:34
 msgid "Check the system requirements"
-msgstr ""
+msgstr "Gwiriwch gofynion y system"
 
-#: website/thunderbird/all/index.html:35
-#: website/thunderbird/beta/all/index.html:35
+#: website/thunderbird/all/index.html:35 website/thunderbird/beta/all/index.html:35
 msgid "Release notes"
-msgstr ""
+msgstr "Nodiadau ryddhau"
 
-#: website/thunderbird/all/index.html:43
-#: website/thunderbird/beta/all/index.html:43
+#: website/thunderbird/all/index.html:43 website/thunderbird/beta/all/index.html:43
 msgid "Fully localized versions"
-msgstr ""
+msgstr "Fersiynau wedi eu lleoleiddio'n llawn"
 
 #: website/thunderbird/beta/all/index.html:10
 msgid "Download Beta in your language"
-msgstr ""
+msgstr "Llwytho i lawr y Beta yn eich iaith chi"
 
 #: website/thunderbird/releases/index.html:7
 msgid "Mozilla Thunderbird Release Notes"
-msgstr ""
+msgstr "Nodiadau Ryddhau Mozilla Thunderbird"
 
 #: website/thunderbird/releases/index.html:8
 msgid "Release notes for each version of Thunderbird."
@@ -613,9 +478,5 @@ msgid "Thunderbird Releases"
 msgstr ""
 
 #: website/thunderbird/releases/index.html:26
-msgid ""
-"Thunderbird release notes are specific to each version of the "
-"application. Select your version from the list below to see the release "
-"notes for it."
+msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr ""
-
