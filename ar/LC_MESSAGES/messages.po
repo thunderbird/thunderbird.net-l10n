@@ -15,17 +15,16 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
-"&& n%100<=10 ? 3 : n%100>=0 && n%100<=2 ? 4 : 5)\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=0 && n%100<=2 ? 4 : 5)\n"
 "Generated-By: Babel 2.5.3\n"
 
 #: start-page/release/index.html:8
 msgid "Welcome to <span>Thunderbird</span>"
-msgstr ""
+msgstr "أهلًا بك في <span>ثندربرد</span>"
 
 #: start-page/release/index.html:17
 msgid "Why we need donations"
-msgstr ""
+msgstr "لماذا نحتاج إلى التبرّعات"
 
 #: start-page/release/index.html:19
 msgid ""
@@ -33,58 +32,74 @@ msgid ""
 "by Mozilla. Fortunately there is an active community keeping it running and "
 "developing it further. But to survive long term, the project needs funding."
 msgstr ""
+"ربما تكون قد علمت بأن موزيلا لم تعد ترعى التحسينات على ثندربيرد بعد الآن، "
+"لكن لحسن الحظ فالمجتمع النشط يعمل على تطويره باستمرار وتحسينه للأفضل. ولكن "
+"لا يمكن للمشروع أن يبقى طويلا ما لم يُموّل."
 
 #: start-page/release/index.html:22
 msgid ""
-"Thunderbird is currently transitioning to an independent organization. Being "
-"independent, we can shape our own fate, but there is significant "
+"Thunderbird is currently transitioning to an independent organization. Being"
+" independent, we can shape our own fate, but there is significant "
 "infrastructure that must be maintained to deliver the application to our "
 "tens of millions of users. For Thunderbird to survive and continue to "
 "evolve, we need your support and ask for your donation today. All the money "
 "donated will go directly to funding Thunderbird development and "
 "infrastructure."
 msgstr ""
+"ينتقل ثندِربِرد حاليا إلى منظمة مستقلة. كوننا مستقلين يمكننا تشكيل مصيرنا، و"
+" لكن هناك بنية تحتية كبيرة يجب الحفاظ عليها لتقديم التطبيق لعشرات الملايين "
+"من المستخدمين. ليبقى ثندِربِرد على قيد الحياة و يواصل التطور، نحتاج إلى "
+"دعمكم و طلب التبرع منكم اليوم. جميع الأموال المتبرع بها تذهب مباشرة إلى "
+"تمويل التنمية ثندِربِرد و البنية التحتية."
 
 #: start-page/release/index.html:28
 msgid "Donate to Thunderbird"
-msgstr ""
+msgstr "تبرّع إلى ثندربيرد"
 
 #: start-page/release/index.html:30
 msgid ""
-"Thunderbird is the leading open source, cross-platform email and calendaring "
-"client, free for business and personal use. We want it to stay secure and "
+"Thunderbird is the leading open source, cross-platform email and calendaring"
+" client, free for business and personal use. We want it to stay secure and "
 "become even better."
 msgstr ""
+"ثندربيرد هو عميل البريد و التقاويم مفتوح المصدر متعدد المنصات، و المجاني "
+"للاستخدام التجاري و الشخصي. نريد أي يبقى آمنا و أفضل."
 
 #: start-page/release/index.html:34
 msgid "If you like Thunderbird, please consider a donation!"
-msgstr ""
+msgstr "إن كنت محبًّا لثندربيرد، فنرجو منك التبرّع له!"
 
 #: start-page/release/index.html:36
 msgid ""
 "By donating, you will help us to continue delivering an ad-free top-notch "
 "email client."
 msgstr ""
+"بتبرّعك هذا يمكننا المتابعة بتطوير عميل بريد إلكتروني مميّز ويخلو من "
+"الإعلانات."
 
 #: start-page/release/index.html:37
 msgid "Make a donation"
-msgstr ""
+msgstr "تبرّع"
 
 #: start-page/release/index.html:43
 msgid "Other ways to contribute to Thunderbird"
-msgstr ""
+msgstr "طرق أخرى للمساهمة في ثندربرد"
 
 #: start-page/release/index.html:45
 msgid ""
-"Now is a great time for you to get involved: writing code, testing, support, "
-"localization and more. Join a global community! Share your skills and pick "
+"Now is a great time for you to get involved: writing code, testing, support,"
+" localization and more. Join a global community! Share your skills and pick "
 "up a few new ones along the way. Volunteer as much as you like. Or as "
 "little. It’s totally up to you."
 msgstr ""
+"هذا أفضل وقت لك لتنضم إلى المشروع: حسّن ثندربيرد بالمساهمة في برمجته "
+"واختباره ودعم مستخدميه وترجمته وغيرها. انضم إلى مجتمع عالمي ملتفّ حوله. "
+"شارِك مهاراتك واكتسب غيرها وأنت تساهم. ساهِم بالقدر الذي تريد، حتى لو كان "
+"بالقليل، فالأمر عائد إليك في النهاية."
 
 #: start-page/release/index.html:46 start-page/release/index.html:58
 msgid "Learn more"
-msgstr ""
+msgstr "اطّلع على المزيد"
 
 #: start-page/release/index.html:53
 #, fuzzy
@@ -95,27 +110,32 @@ msgstr "ساهم في هذا الموقع"
 #, python-format
 msgid ""
 "To ensure that Thunderbird continues to improve, as it has for the last ten "
-"years, active contributors <a href=\"%s\">recently organized</a> to focus on "
-"the future."
+"years, active contributors <a href=\"%s\">recently organized</a> to focus on"
+" the future."
 msgstr ""
+"لضمان استمرار تحسين ثندربرد  مثلما كان عليه الحال خلال السّنوات العشرة "
+"الماضية, قام المُساهمون النّشطون <a href=\"%s\">مُؤخّرًا بالتّجمّع </a> "
+"للتّفكير في مُستقبله."
 
 #: start-page/release/index.html:55
 #, python-format
 msgid ""
-"Now is a great time for you to <a href=\"%s\" class=\"iconic\">get involved</"
-"a>."
-msgstr ""
+"Now is a great time for you to <a href=\"%s\" class=\"iconic\">get "
+"involved</a>."
+msgstr "الآن هو أفضل وقت لك  <a href=\"%s\" class=\"iconic\">للمُساهمة</a>."
 
 #: start-page/release/index.html:56
 msgid ""
 "Please help us assist users of Thunderbird, and improve the Thunderbird "
 "product and eco-system."
 msgstr ""
+"نحتاج إليك لمُساعدة مُستخدمي ثندربرد، ولتحسين مُنتج ثندربرد والبيئة المُحيطة"
+" به."
 
 #: start-page/release/index.html:57
 #, python-format
 msgid "We look forward to <a href=\"%s\">hearing from you</a>."
-msgstr ""
+msgstr "نتطلّع قدمًا <a href=\"%s\">لسماع ما تريد قوله لنا</a>."
 
 #: start-page/release/index.html:64
 #, fuzzy
@@ -125,16 +145,20 @@ msgstr "الدعم"
 #: start-page/release/index.html:67
 #, python-format
 msgid ""
-"Most Thunderbird support questions are answered in the <a href=\"%s"
-"\">Knowledge Base</a>."
+"Most Thunderbird support questions are answered in the <a "
+"href=\"%s\">Knowledge Base</a>."
 msgstr ""
+"تتم الإجابة على أغلب الأسئلة المُتعلّقة بثندربرد على <a href=\"%s\">قاعدة "
+"المعرفة</a>."
 
 #: start-page/release/index.html:68
 #, python-format
 msgid ""
-"If you can’t find an answer, <a href=\"%s\">ask your question in our support "
-"forum</a>."
+"If you can’t find an answer, <a href=\"%s\">ask your question in our support"
+" forum</a>."
 msgstr ""
+"إذا لم تجد إجابة لتساؤلك،  <a href=\"%s\">فاطرح سؤالك على مُنتدى الدّعم "
+"الفنّي</a>."
 
 #: start-page/release/index.html:68 start-page/release/index.html:72
 msgid "https://support.mozilla.org/questions/new/thunderbird"
@@ -143,16 +167,20 @@ msgstr ""
 #: start-page/release/index.html:71
 #, python-format
 msgid ""
-"Most Thunderbird support questions are answered on the <a href=\"%s"
-"\">Knowledge Base</a>."
+"Most Thunderbird support questions are answered on the <a "
+"href=\"%s\">Knowledge Base</a>."
 msgstr ""
+"تتم الإجابة على أغلب الأسئلة المُتعلّقة بثندربرد على <a href=\"%s\">قاعدة "
+"المعرفة</a>."
 
 #: start-page/release/index.html:72
 #, python-format
 msgid ""
-"If you can’t find an answer, <a href=\"%s\">ask your question on our support "
-"forum</a>."
+"If you can’t find an answer, <a href=\"%s\">ask your question on our support"
+" forum</a>."
 msgstr ""
+"إذا لم تجد إجابة لتساؤلك،  <a href=\"%s\">فاطرح سؤالك على مُنتدى الدّعم "
+"الفنّي</a>."
 
 #: start-page/release/index.html:79 website/base-resp.html:35
 msgid "Features"
@@ -160,7 +188,7 @@ msgstr "الميزات"
 
 #: start-page/release/index.html:80
 msgid "Visit our blog"
-msgstr ""
+msgstr "زر مُدوّنتنا"
 
 #: start-page/release/index.html:81 website/base-resp.html:81
 #: website/site-footer.html:17
@@ -174,7 +202,7 @@ msgstr "ساهم في هذا الموقع"
 
 #: start-page/release/index.html:83
 msgid "Tips"
-msgstr ""
+msgstr "أفكار وحيل"
 
 #: start-page/release/index.html:84 website/base-resp.html:59
 #: website/base-resp.html:64
@@ -183,7 +211,7 @@ msgstr "الإضافات"
 
 #: start-page/release/index.html:85
 msgid "Get help"
-msgstr ""
+msgstr "احصل على مُساعدة"
 
 #: website/base-resp.html:24
 msgid "Menu"
@@ -389,14 +417,14 @@ msgstr "مرشد إعداد حساب بريدك الإلكتروني"
 
 #: website/features/index.html:46
 msgid ""
-"Prior to this feature you had to know your IMAP, SMTP, and SSL/TLS settings. "
-"Now all you need to provide is your name, email address, and password and "
-"the email account set up wizardry will check our database and find the email "
-"settings for you."
+"Prior to this feature you had to know your IMAP, SMTP, and SSL/TLS settings."
+" Now all you need to provide is your name, email address, and password and "
+"the email account set up wizardry will check our database and find the email"
+" settings for you."
 msgstr ""
 "الآن كل ما تحتاجه هو  توفير اسمك وعنوان بريدك الإلكتروني وكلمة العبور وهكذا "
-"سيتأكَّد مرشد إعداد حساب البريد الإكتروني من قاعدة البيانات الخاصة بنا، ويقوم "
-"بالعثور على إعدادات بريدك الإلكتروني."
+"سيتأكَّد مرشد إعداد حساب البريد الإكتروني من قاعدة البيانات الخاصة بنا، "
+"ويقوم بالعثور على إعدادات بريدك الإلكتروني."
 
 #: website/features/index.html:64
 msgid "One-click Address Book"
@@ -404,10 +432,10 @@ msgstr "دفتر العناوين بنقرة واحدة"
 
 #: website/features/index.html:65
 msgid ""
-"One-click Address Book is a quick and easy way to add people to your address "
-"book. Add people by simply clicking on the star icon in the message you "
-"receive. Two clicks and you can add more details like a photo, birthday, and "
-"other contact information."
+"One-click Address Book is a quick and easy way to add people to your address"
+" book. Add people by simply clicking on the star icon in the message you "
+"receive. Two clicks and you can add more details like a photo, birthday, and"
+" other contact information."
 msgstr ""
 "دفتر العناوين بنقرة واحدة طريقة سريعة وسهلة لإضافة أشخاص إلى دفتر العناوين "
 "الخاص بك."
@@ -419,8 +447,8 @@ msgstr "التذكير بالمرفقات"
 #: website/features/index.html:72
 msgid ""
 "The attachment reminder looks for the word attachment (and other words like "
-"file types) in the body of your message and reminds you to add an attachment "
-"before hitting send."
+"file types) in the body of your message and reminds you to add an attachment"
+" before hitting send."
 msgstr ""
 "التذكير بالمرفقات يبحث عن كلمة «مُرفق» (أو كلمات أخرى مثل أنواع الملفات) في "
 "نص الرسالة ويذكِّـرُك بإضافة مرفق قبل الإرسال."
@@ -438,30 +466,30 @@ msgid ""
 "easy reference."
 msgstr ""
 "إذا كنت تحب الألسنة في فيرفكس، فإنك ستحب الألسنة مع البريد الإلكتروني. هذه "
-"الألسنة تتيح لك الفرصة لتحميل رسائل البريد الإلكتروني في علامات تبويب منفصلة "
-"بحيث يمكنك بسرعة الانتقال بينهما. في حالة كان ردا على رسالة بريد إلكتروني "
+"الألسنة تتيح لك الفرصة لتحميل رسائل البريد الإلكتروني في علامات تبويب منفصلة"
+" بحيث يمكنك بسرعة الانتقال بينهما. في حالة كان ردا على رسالة بريد إلكتروني "
 "وتحتاج إلى الرجوع إلى رسالة سابقة هذا التبويب يمكنك من الاحتفاظ برسائل "
 "إلكترونية متعددة مفتوحة للرجوع إليها بسهولة"
 
 #: website/features/index.html:105
 msgid ""
 "Double-clicking or hitting enter on a mail message will now open that "
-"message in a new tab window. Right-clicking on messages or folders will open "
-"them in a tab in the background."
+"message in a new tab window. Right-clicking on messages or folders will open"
+" them in a tab in the background."
 msgstr ""
-"إذا نقرت مرتين أو ضغطت زر الإدخال على رسالة البريد فسَيُمكنك فتح تلك الرسالة "
-"في لسان جديد. أما النقر بالزر الأيمن على الرسائل أو المجلدات فيقوم بفتحها في "
-"لسان في الخلفية"
+"إذا نقرت مرتين أو ضغطت زر الإدخال على رسالة البريد فسَيُمكنك فتح تلك الرسالة"
+" في لسان جديد. أما النقر بالزر الأيمن على الرسائل أو المجلدات فيقوم بفتحها "
+"في لسان في الخلفية"
 
 #: website/features/index.html:106
 msgid ""
 "When quitting Thunderbird, visible tabs will be saved and will be restored "
-"when you open Thunderbird the next time. There is also a Tab menu on the Tab "
-"toolbar to help you switch between Tabs."
+"when you open Thunderbird the next time. There is also a Tab menu on the Tab"
+" toolbar to help you switch between Tabs."
 msgstr ""
-"عند مغادرة ثندربرد، ستُحفظ الألسنة المرئية ثم تُسترجع عند فتح ثندربرد في المرة "
-"القادمة. هناك أيضا قائمة للألسنة في شريط أدوات الألسنة لمساعدتك على التنقل "
-"بينها."
+"عند مغادرة ثندربرد، ستُحفظ الألسنة المرئية ثم تُسترجع عند فتح ثندربرد في "
+"المرة القادمة. هناك أيضا قائمة للألسنة في شريط أدوات الألسنة لمساعدتك على "
+"التنقل بينها."
 
 #: website/features/index.html:126
 msgid "Quick Filter Toolbar"
@@ -471,14 +499,14 @@ msgstr "مرشح شريط الأدوات السريع"
 msgid ""
 "The Quick Filter Toolbar lets you filter your email faster. Start typing in "
 "words in the Quick Filter search box and the results are displayed "
-"instantly. Or you can filter your email by New Messages, Tags, and people in "
-"your Address Book. You can also \"Pin\" or save a Filter and use it across "
+"instantly. Or you can filter your email by New Messages, Tags, and people in"
+" your Address Book. You can also \"Pin\" or save a Filter and use it across "
 "multiple folders."
 msgstr ""
 "مرشح شريط الأدوات السريع يمكنك من ترشيح البريد الإلكتروني الخاص بك بشكل "
 "أسرع. ابدأ بكتابة الكلمات في خانة البحث الخاصة بالترشيح السريع ويتم عرض "
-"النتائج على الفور. أو يمكنك تصفية البريد الإلكتروني الخاص بك عن طريق الرسائل "
-"الجديدة، الكلمات، والأشخاص الموجودة في دفتر العناوين الخاص بك. يمكنك أيضا  "
+"النتائج على الفور. أو يمكنك تصفية البريد الإلكتروني الخاص بك عن طريق الرسائل"
+" الجديدة، الكلمات، والأشخاص الموجودة في دفتر العناوين الخاص بك. يمكنك أيضا  "
 "حفظ  تصفية معينة واستخدامها عبر عدة مجلدات."
 
 #: website/features/index.html:137
@@ -487,16 +515,16 @@ msgstr "البحث"
 
 #: website/features/index.html:138
 msgid ""
-"The search interface in Thunderbird contains filtering and timeline tools to "
-"pinpoint the exact email you’re looking for. Thunderbird also indexes all of "
-"your emails to help you search even faster. Your search results are "
+"The search interface in Thunderbird contains filtering and timeline tools to"
+" pinpoint the exact email you’re looking for. Thunderbird also indexes all "
+"of your emails to help you search even faster. Your search results are "
 "displayed in a tab so you can easily switch back and forth to your search "
 "results and other email."
 msgstr ""
 "واجهة البحث في ثندربرد تحتوي على أدوات ترشيح وتحديد جدول زمني للعثور على "
 "البريد الإلكتروني المعين الذي تبحث عنه. ثندربرد يقوم أيضا بإضافة فهارس إلى "
-"جميع رسائل البريد الإلكتروني لمساعدتك في البحث بسرعة أكبر. تُعرض نتائج البحث "
-"في لسان منفصل بحيث يمكنك الانتقال بسهولة بينه و بين لسان البريد الإلكتروني "
+"جميع رسائل البريد الإلكتروني لمساعدتك في البحث بسرعة أكبر. تُعرض نتائج البحث"
+" في لسان منفصل بحيث يمكنك الانتقال بسهولة بينه و بين لسان البريد الإلكتروني "
 "الآخر"
 
 #: website/features/index.html:147
@@ -555,8 +583,8 @@ msgstr "المجلدات الذكية"
 msgid ""
 "Smart Folders help you manage multiple email accounts by combining special "
 "folders like your Inbox, Sent, or Archive folder. Instead of going to the "
-"Inbox for each of your mail accounts, you can see all of your incoming email "
-"in one Inbox folder."
+"Inbox for each of your mail accounts, you can see all of your incoming email"
+" in one Inbox folder."
 msgstr ""
 "المجلدات الذكية تساعدك على إدارة حسابات البريد الالكتروني المتعددة من خلال "
 "الجمع بين المجلدات الخاصة مثل صندوق الوارد أو مجلد الأرشيف. بدلا من أن تذهب "
@@ -570,12 +598,12 @@ msgstr "مدير الإضافات"
 #: website/features/index.html:191
 msgid ""
 "Find and install add-ons directly in Thunderbird. You no longer need to "
-"visit the add-ons Web site - instead simply fire up the Add-ons Manager. Not "
-"sure which add-on is right for you? Ratings, recommendations, descriptions "
+"visit the add-ons Web site - instead simply fire up the Add-ons Manager. Not"
+" sure which add-on is right for you? Ratings, recommendations, descriptions "
 "and pictures of the add-ons in action help you make your selection."
 msgstr ""
-"ابحث عن الإضافات وثَبتها مباشرة في ثندربرد. لم تعد تحتاج إلى زيارة موقع الوب "
-"الخاص بالإضافات. ما عليك سوى فتح مدير الإضافات. لست متأكدًا من الإضافة "
+"ابحث عن الإضافات وثَبتها مباشرة في ثندربرد. لم تعد تحتاج إلى زيارة موقع الوب"
+" الخاص بالإضافات. ما عليك سوى فتح مدير الإضافات. لست متأكدًا من الإضافة "
 "المناسبة لك؟ ستجد تقييمات وتوصيات وأوصافًا وصورًا خاصة بالإضافات تساعدك على "
 "الاختيار."
 
@@ -602,12 +630,13 @@ msgid ""
 "handing over personal and confidential information by indicating when a "
 "message is a potential phishing attempt. As a second line of defense, "
 "Thunderbird warns you when you click on a link which appears to be taking "
-"you to a different Web site than the one indicated by the URL in the message."
+"you to a different Web site than the one indicated by the URL in the "
+"message."
 msgstr ""
-"ثندربرد يقوم بحمايتك من عمليات الاحتيال عبر البريد الإلكتروني الهادفة لتسليم "
-"المعلومات الشخصية والسرية الخاصة بكم وذلك بالتنبيه والإشارة إلى الرسالة عند "
-"محاولة الاحتيال المحتملة. كما يقوم  ثندربرد بتحذيرك عند النقر على رابط يهدف "
-"إلى أخذك إلى موقع واب مختلف عن الذي أشار إليها في عنوان الرسالة."
+"ثندربرد يقوم بحمايتك من عمليات الاحتيال عبر البريد الإلكتروني الهادفة لتسليم"
+" المعلومات الشخصية والسرية الخاصة بكم وذلك بالتنبيه والإشارة إلى الرسالة عند"
+" محاولة الاحتيال المحتملة. كما يقوم  ثندربرد بتحذيرك عند النقر على رابط يهدف"
+" إلى أخذك إلى موقع واب مختلف عن الذي أشار إليها في عنوان الرسالة."
 
 #: website/features/index.html:225
 msgid "Automated Update"
@@ -617,23 +646,23 @@ msgstr "التحديث الآلي"
 msgid ""
 "Thunderbird’s update system checks to see if you’re running the latest "
 "version, and notifies you when a security update is available. These "
-"security updates are small (usually 200KB - 700KB), giving you only what you "
-"need and making the security update quick to download and install. The "
+"security updates are small (usually 200KB - 700KB), giving you only what you"
+" need and making the security update quick to download and install. The "
 "automated update system provides updates for Thunderbird on Windows, macOS, "
 "and Linux in over 40 different languages."
 msgstr ""
-"نظام تحديث ثندربرد يتأكد من أنك تستخدم النسخة الأخيرة منه، ويقوم بإشعارك عند "
-"توفر تحديث أمني. هذه التحديثات الأمنية صغيرة الحجم (عادة 200KB - 700KB)، "
-"تعطيك ما تريد وتجعل التحديث الأمني سريع التحميل والتثبيت. نظام التحديث الآلي "
-"يوفر تحديثات لثندربرد على نظام ويندوز، ماك أو آس، ولينكس بأكثر من 40 لغة "
+"نظام تحديث ثندربرد يتأكد من أنك تستخدم النسخة الأخيرة منه، ويقوم بإشعارك عند"
+" توفر تحديث أمني. هذه التحديثات الأمنية صغيرة الحجم (عادة 200KB - 700KB)، "
+"تعطيك ما تريد وتجعل التحديث الأمني سريع التحميل والتثبيت. نظام التحديث الآلي"
+" يوفر تحديثات لثندربرد على نظام ويندوز، ماك أو آس، ولينكس بأكثر من 40 لغة "
 "مختلفة."
 
 #: website/features/index.html:230
 msgid ""
 "Thunderbird’s update system checks to see if you’re running the latest "
 "version, and notifies you when a security update is available. These "
-"security updates are small (usually 200KB - 700KB), giving you only what you "
-"need and making the security update quick to download and install. The "
+"security updates are small (usually 200KB - 700KB), giving you only what you"
+" need and making the security update quick to download and install. The "
 "automated update system provides updates for Thunderbird on Windows, OS X, "
 "and Linux in over 40 different languages."
 msgstr ""
@@ -653,8 +682,8 @@ msgid ""
 msgstr ""
 "حُدّثت أداة ثندربرد الخاصة بإيقاف البريد غير المرغوب لتكون أكثر فعالية. كل "
 "البريد الإلكتروني الذي يتلقاه يمر عبر مرشحات ثندربرد الفعالة الخاصة بالبريد "
-"غير المرغوب فيه. يقوم ثندربرد بتحسين مرشحاته حسب البريد الذي ميّزه بصفة بريد "
-"غير مرغوب فيه. ويمكن أيضا استخدام مزود البريد الخاصة بمرشحات البريد غير "
+"غير المرغوب فيه. يقوم ثندربرد بتحسين مرشحاته حسب البريد الذي ميّزه بصفة بريد"
+" غير مرغوب فيه. ويمكن أيضا استخدام مزود البريد الخاصة بمرشحات البريد غير "
 "المرغوب فيه للحفاظ على هذا البريد خارج صندوق الوارد"
 
 #: website/features/index.html:242
@@ -666,8 +695,8 @@ msgid ""
 "At the heart of Thunderbird is an open source development process driven by "
 "thousands of passionate, experienced developers and security experts spread "
 "all over the world. Our openness and active community of experts helps to "
-"ensure our products are more secure and quickly updated, while also enabling "
-"us to take advantage of the best third party security scanning and "
+"ensure our products are more secure and quickly updated, while also enabling"
+" us to take advantage of the best third party security scanning and "
 "evaluation tools to further bolster overall security."
 msgstr ""
 "ثندربرد مشروع مفتوح المصدر يقوده آلاف من المتطوعين المتحمسين، ذوي الخبرة "
