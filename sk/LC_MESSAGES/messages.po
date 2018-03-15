@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-13 19:10-0700\n"
-"PO-Revision-Date: 2018-03-15 20:51+0000\n"
+"PO-Revision-Date: 2018-03-15 21:10+0000\n"
 "Last-Translator: Juraj Cigáň <kusavica@gmail.com>\n"
 "Language-Team: none\n"
 "Language: sk\n"
@@ -179,7 +179,7 @@ msgstr "Vydania"
 
 #: website/base-resp.html:46
 msgid "Calendar Add-on"
-msgstr ""
+msgstr "Kalendár vo forme doplnku"
 
 #: website/base-resp.html:52
 msgid "Thunderbird for Organizations"
@@ -195,25 +195,25 @@ msgstr "Podpora"
 
 #: website/download-button.html:7 website/download-button.html:48
 msgid "Download Thunderbird"
-msgstr ""
+msgstr "Prevziať Thunderbird"
 
 #: website/download-button.html:28
 #, python-format
 msgid "Your system doesn't meet the <a href=\"%(url)s\">requirements</a> to run Thunderbird."
-msgstr ""
+msgstr "Váš systém nespĺňa <a href=\"%(url)s\">požiadavky</a> na spustenie aplikácie Thunderbird."
 
 #: website/download-button.html:31
 #, python-format
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
-msgstr ""
+msgstr "Pri inštalácií Thunderbirdu postupujte, prosím, podľa <a href=\"%(url)s\">týchto inštrukcií</a>."
 
 #: website/download-button.html:44
 msgid "Thunderbird Beta"
-msgstr ""
+msgstr "Thunderbird Beta"
 
 #: website/download-button.html:46
 msgid "<span>Thunderbird</span> Earlybird"
-msgstr ""
+msgstr "<span>Thunderbird</span> Earlybird"
 
 #: website/download-button.html:57
 msgid "Systems &amp; Languages"
@@ -241,11 +241,11 @@ msgstr "Prevziať zadarmo"
 
 #: website/index.html:35
 msgid "Thunderbird screenshot"
-msgstr ""
+msgstr "Snímka obrazovky Thunderbirdu"
 
 #: website/index.html:45 website/index.html:65
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: website/lang_switcher.html:10
 msgid "Page language:"
@@ -257,7 +257,7 @@ msgstr "Iné jazyky:"
 
 #: website/lang_switcher.html:23
 msgid "Go"
-msgstr ""
+msgstr "Prejsť"
 
 #: website/site-footer.html:6
 #, python-format
@@ -265,7 +265,10 @@ msgid ""
 "Portions of this content are ©1998–%(current_year)s by individual\n"
 "              mozilla.org contributors. Content available under\n"
 "              a <a href=\"%(url)s\">Creative Commons license</a>."
-msgstr "Časť tohto obsahu bola v rokoch ©1998–%(current_year)s vytvorená individuálnymi prispievateľmi mozilla.org. Obsah je dostupný pod licenciou <a href=\"%(url)s\">Creative Commons</a>."
+msgstr ""
+"Časť tohto obsahu bola v rokoch ©1998 – %(current_year)s vytvorená\n"
+"              individuálnymi prispievateľmi mozilla.org. Obsah je dostupný\n"
+"              v rámci licencie <a href=\"%(url)s\">Creative Commons</a>."
 
 #: website/site-footer.html:15
 msgid "About"
@@ -281,7 +284,7 @@ msgstr "Zapojte sa do vývoja tejto stránky"
 
 #: website/site-footer.html:23
 msgid "Cookies"
-msgstr ""
+msgstr "Cookies"
 
 #: website/site-footer.html:24
 msgid "Legal"
@@ -449,7 +452,7 @@ msgid ""
 "The Activity Manager records all the interactions between Thunderbird and your email provider in one place. There’s no more guess work. You only have to look in one place to see everything that’s "
 "happening with your email."
 msgstr ""
-"Správca činností na jednom miesto zaznamenáva všetky interakcie medzi Thunderbirdom a poskytovateľom vašej e-mailovej schránky. Už viac nemusíte hádať, čo sa deje. Jednoducho sa pozriete do tohto "
+"Správca činností na jednom mieste zaznamenáva všetky interakcie medzi Thunderbirdom a poskytovateľom vašej e-mailovej schránky. Už viac nemusíte hádať, čo sa deje. Jednoducho sa pozriete do tohto "
 "okna a vidíte všetko, čo sa deje s vašou poštou."
 
 #: website/features/index.html:180
@@ -461,8 +464,8 @@ msgid ""
 "With Personas, lightweight \"skins\" allow you to change the look and feel of Thunderbird in an instant. Hundreds of skins are available from the latest movies, famous landmarks, and Japanese "
 "tattoos. You can also choose from several Themes that dress up all the different icons in Thunderbird."
 msgstr ""
-"Pomocou Personas, odľahčených tém vzhľadu, si môžete zmeniť vzhľad Thunderbirdu v priebehu sekundy. Dostupné sú stovky tém z najnovších filmov, známych scenérií a japonských tetovaní. Môžete si "
-"takisto zvoliť témy, ktoré kompletne zmenia vzhľad Thunderbirdu a to vrátane ikon tlačidiel."
+"Pomocou Personas, odľahčených tém vzhľadu, si môžete zmeniť vzhľad Thunderbirdu v priebehu sekundy. Dostupné sú stovky tém z najnovších filmov, známych scenérií či japonských tetovaní. Môžete si "
+"takisto zvoliť témy, ktoré kompletne zmenia vzhľad ikon v Thunderbirde."
 
 #: website/features/index.html:184
 msgid "Smart Folders"
@@ -485,7 +488,7 @@ msgid ""
 "Find and install add-ons directly in Thunderbird. You no longer need to visit the add-ons Web site - instead simply fire up the Add-ons Manager. Not sure which add-on is right for you? Ratings, "
 "recommendations, descriptions and pictures of the add-ons in action help you make your selection."
 msgstr ""
-"Vyhľadávajte a inštalujte doplnky priamo z Thunderbirdu. Už viac nemusíte navštevovať webovú stránku, jednoducho otvorte Správcu doplnkov. Neviete, ktorý doplnok je pre vás ten naj? Hodnotenia, "
+"Vyhľadávajte a inštalujte doplnky priamo z Thunderbirdu. Už viac nemusíte navštevovať webovú stránku, jednoducho otvorte Správcu doplnkov. Neviete, ktorý doplnok je pre vás vhodný? Hodnotenia, "
 "odporúčania, popisy a obrázky doplnkov v akcii vám pomôžu si vybrať."
 
 #: website/features/index.html:208
