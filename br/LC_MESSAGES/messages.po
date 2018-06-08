@@ -2,21 +2,22 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-21 12:33-0700\n"
-"PO-Revision-Date: 2018-03-03 23:50-0800\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2018-06-08 07:09+0000\n"
+"Last-Translator: Pierre Wani Alan Morvan <allannkorh@yahoo.fr>\n"
 "Language-Team: none\n"
 "Language: br\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=(n==1 ? 0 : n%10==1 && n%100!=11 && n%100!=71 && n%100!=91 ? 1 : n%10==2 && n%100!=12 && n%100!=72 && n%100!=92 ? 2 : (n%10==3 || n%10==4 || n%10==9) && n%100!=13 && n%100!=14 && n%100!=19 && n%100!=73 && n%100!=74 && n%100!=79 && n%100!=93 && n%100!=94 && n%100!=99 ? 3 : n%1000000==0 ? 4 : 5)\n"
+"Plural-Forms: nplurals=5; plural=(n % 10 == 1 && n % 100 != 11 && n % 100 != 71 && n % 100 != 91) ? 0 : ((n % 10 == 2 && n % 100 != 12 && n % 100 != 72 && n % 100 != 92) ? 1 : ((((n % 10 == 3 || n % 10 == 4) || n % 10 == 9) && (n % 100 < 10 || n % 100 > 19) && (n % 100 < 70 || n % 100 > 79) && (n % 100 < 90 || n % 100 > 99)) ? 2 : ((n != 0 && n % 1000000 == 0) ? 3 : 4)));\n"
 "Generated-By: Babel 2.5.3\n"
+"X-Generator: Pontoon\n"
 
 #: start-page/release/index.html:8
 msgid "Welcome to <span>Thunderbird</span>"
@@ -121,7 +122,7 @@ msgstr "Ma n'hallit ket kavout ho respont e c'hallit <a href=\"%s\">sevel ho kou
 
 #: start-page/release/index.html:68 start-page/release/index.html:72
 msgid "https://support.mozilla.org/questions/new/thunderbird"
-msgstr ""
+msgstr "https://support.mozilla.org/questions/new/thunderbird"
 
 #: start-page/release/index.html:71
 #, python-format
@@ -168,11 +169,11 @@ msgstr "Lañser"
 #: website/base-resp.html:26 website/index.html:7 website/index.html:14 website/index.html:26 website/index.html:40 website/index.html:59 website/site-footer.html:31
 #: website/thunderbird/releases/index.html:18
 msgid "Thunderbird"
-msgstr ""
+msgstr "Thunderbird"
 
 #: website/base-resp.html:30
 msgid "Beta"
-msgstr ""
+msgstr "Beta"
 
 #: website/base-resp.html:40
 msgid "Releases"
@@ -180,11 +181,11 @@ msgstr "Ermaeziadennoù"
 
 #: website/base-resp.html:46
 msgid "Calendar Add-on"
-msgstr ""
+msgstr "Lugant Deiziataer"
 
 #: website/base-resp.html:52
 msgid "Thunderbird for Organizations"
-msgstr ""
+msgstr "Thunderbird evit Aozadurioù"
 
 #: website/base-resp.html:69
 msgid "Themes"
@@ -196,25 +197,25 @@ msgstr "Skorañ"
 
 #: website/download-button.html:7 website/download-button.html:48
 msgid "Download Thunderbird"
-msgstr ""
+msgstr "Pellgargañ Thunderbird"
 
 #: website/download-button.html:28
 #, python-format
 msgid "Your system doesn't meet the <a href=\"%(url)s\">requirements</a> to run Thunderbird."
-msgstr ""
+msgstr "<a href=\"%(url)s\">Elfennoù azgoulennet</a> evit erounit Thunderbird a ra diouer d'ho reizhiad."
 
 #: website/download-button.html:31
 #, python-format
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
-msgstr ""
+msgstr "Heulit ar <a href=\"%(url)s\">sturadurioù-mañ</a> evit staliañ Thunderbird mar plij."
 
 #: website/download-button.html:44
 msgid "Thunderbird Beta"
-msgstr ""
+msgstr "Thunderbird Beta"
 
 #: website/download-button.html:46
 msgid "<span>Thunderbird</span> Earlybird"
-msgstr ""
+msgstr "<span>Thunderbird</span> Earlybird"
 
 #: website/download-button.html:57
 msgid "Systems &amp; Languages"
@@ -242,11 +243,11 @@ msgstr "Pellgargadur digoust"
 
 #: website/index.html:35
 msgid "Thunderbird screenshot"
-msgstr ""
+msgstr "Tapadennoù-skramm Thunderbird"
 
 #: website/index.html:45 website/index.html:65
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: website/lang_switcher.html:10
 msgid "Page language:"
@@ -258,7 +259,7 @@ msgstr "Yezhoù all :"
 
 #: website/lang_switcher.html:23
 msgid "Go"
-msgstr ""
+msgstr "Mont"
 
 #: website/site-footer.html:6
 #, python-format
@@ -294,7 +295,7 @@ msgstr "Kas un danevell a-zivout dreistarver ur merk marilhet"
 
 #: website/channel/index.html:7
 msgid "Download Thunderbird Beta &amp; Try the Next Thunderbird"
-msgstr ""
+msgstr "Pellgargañ ar stumm beta eus Thunderbird &amp; Esaeit ar Thunderbird da zont"
 
 #: website/channel/index.html:8
 msgid "Download and test Thunderbird Beta and experience features and fixes early!"
@@ -302,7 +303,7 @@ msgstr ""
 
 #: website/channel/index.html:18
 msgid "Welcome to the <strong>Future of Thunderbird</strong>"
-msgstr ""
+msgstr "Degemer mat war <strong>Dazont Thunderbird</strong>"
 
 #: website/channel/index.html:19
 msgid ""
@@ -376,7 +377,7 @@ msgstr "Kounadur ar pezhioù stag a glask ar ger \"pezhioù stag\" (ha gerioù a
 
 #: website/features/index.html:103
 msgid "Tabs"
-msgstr ""
+msgstr "Ivinelloù"
 
 #: website/features/index.html:104
 msgid ""
@@ -557,7 +558,7 @@ msgstr ""
 
 #: website/thunderbird/all/index.html:10
 msgid "Download Thunderbird in your language"
-msgstr ""
+msgstr "Pellgargit Thunderbird en ho yezh"
 
 #: website/thunderbird/all/index.html:15 website/thunderbird/beta/all/index.html:15
 msgid "Be one of the first to try the newest features in Thunderbird. By giving us your feedback, you’ll help us to refine the features that will be included in the final version."
@@ -573,27 +574,27 @@ msgstr ""
 
 #: website/thunderbird/all/index.html:35 website/thunderbird/beta/all/index.html:35
 msgid "Release notes"
-msgstr ""
+msgstr "Notennoù handelv"
 
 #: website/thunderbird/all/index.html:43 website/thunderbird/beta/all/index.html:43
 msgid "Fully localized versions"
-msgstr ""
+msgstr "Stummoù lec'helaet penn kil ha troad"
 
 #: website/thunderbird/beta/all/index.html:10
 msgid "Download Beta in your language"
-msgstr ""
+msgstr "Pellgargit ar Beta en ho yezh"
 
 #: website/thunderbird/releases/index.html:7
 msgid "Mozilla Thunderbird Release Notes"
-msgstr ""
+msgstr "Notennoù stumm Mozilla Thunderbird"
 
 #: website/thunderbird/releases/index.html:8
 msgid "Release notes for each version of Thunderbird."
-msgstr ""
+msgstr "Notennoù stumm evit an holl stummoù eus Thunderbird."
 
 #: website/thunderbird/releases/index.html:17
 msgid "Home"
-msgstr ""
+msgstr "Degemer"
 
 #: website/thunderbird/releases/index.html:19
 msgid "Release Notes"
@@ -601,7 +602,7 @@ msgstr "Notenn a-zivout an handelv"
 
 #: website/thunderbird/releases/index.html:25
 msgid "Thunderbird Releases"
-msgstr ""
+msgstr "Stummoù Thunderbird"
 
 #: website/thunderbird/releases/index.html:26
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
