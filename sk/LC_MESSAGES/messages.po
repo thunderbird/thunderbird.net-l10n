@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-01 19:41-0700\n"
-"PO-Revision-Date: 2018-04-21 20:26+0000\n"
+"PO-Revision-Date: 2018-08-02 18:42+0000\n"
 "Last-Translator: Juraj Cigáň <kusavica@gmail.com>\n"
 "Language-Team: none\n"
 "Language: sk\n"
@@ -28,43 +28,39 @@ msgid "Why we need donations"
 msgstr "Prečo potrebujeme príspevky"
 
 #: start-page/release/index.html:18
-#, fuzzy
 msgid "Thunderbird is no longer funded by Mozilla. Fortunately there is an active community keeping it running and developing it further. But to survive long term, the project needs funding."
 msgstr ""
-"Možno viete, že vývoj Thunderbirdu už nefinancuje Mozilla. Našťastie ale existuje aktívna komunita, ktorá na jeho vývoji stále pracuje. Aby však mohol tento projekt pokračovať dlhodobo, potrebuje "
-"finančné prostriedky."
+"Vývoj Thunderbirdu už nefinancuje Mozilla. Našťastie ale existuje aktívna komunita, ktorá na jeho vývoji stále pracuje. Aby však mohol tento projekt pokračovať dlhodobo, potrebuje finančné "
+"prostriedky."
 
 #: start-page/release/index.html:21
-#, fuzzy
 msgid ""
 "Thunderbird's funding goes toward the significant infrastructure and staff that must be maintained to deliver the application to our tens of millions of users. For Thunderbird to survive and "
 "continue to evolve, we need your support and ask for your donation today. All the money donated will go directly to funding Thunderbird development and infrastructure."
 msgstr ""
-"Thunderbird sa v súčasnosti presúva pod nezávislú organizáciu. Nezávislosť znamená, že budeme rozhodovať o našom vlastnom osude. Aby sme však mohli naďalej distribuovať Thunderbird desiatkam "
-"miliónov používateľov, musíme udržiavať nezanedbateľnú infraštruktúru. Na to, aby Thunderbird prežil a naďalej sa rozvíjal, potrebujeme vašu podporu a pomoc. Preto vás dnes prosíme o príspevok. "
-"Všetky darované peniaze pôjdu priamo na financovanie vývoja a infraštruktúry Thunderbirdu."
 
 #: start-page/release/index.html:27
-#, fuzzy, python-format
+#, python-format
 msgid "<a href=\"%(donate)s\">Donate to Thunderbird</a>"
-msgstr "Prispejte Thunderbirdu"
+msgstr "<a href=\"%(donate)s\">Prispejte Thunderbirdu</a>"
 
 #: start-page/release/index.html:28
-#, fuzzy
 msgid ""
 "Thunderbird is the leading open source, cross-platform and calendaring client, free for business and personal use. We want it to stay secure and become even better. A donation will allow us to hire "
 "developers, pay for infrastructure, and continue to improve."
-msgstr "Thunderbird je dôležitý open source a multiplatformový e-mailový klient, ktorý je zdarma pre osobné použitie i pre firmy. Chceme, aby ostal bezpečný a neustále sa zlepšoval."
+msgstr ""
+"Thunderbird je dôležitý open source a multiplatformový e-mailový klient, ktorý je zdarma pre osobné použitie i pre firmy. Chceme, aby ostal bezpečný a neustále sa zlepšoval. Príspevok nám umožní "
+"najať vývojárov, zaplatiť za infraštruktúru a pomôže nám rozvíjať sa."
 
 #: start-page/release/index.html:29
 #, python-format
 msgid "<strong>Thunderbird is funded by donations!</strong> The best way for you to ensure Thunderbird remains available is to <a class=\"more\" href=\"%(donate)s\">make a donation.</a>"
-msgstr ""
+msgstr "<strong>Thunderbird je financovaný príspevkami!</strong> Najlepším spôsobom, ako sa uistiť, že Thunderbird ostane dostupný aj naďalej je <a class=\"more\" href=\"%(donate)s\">prispenie.</a>"
 
 #: start-page/release/index.html:32
 #, python-format
 msgid "<a href=\"%(contribute)s\">Get Involved</a>"
-msgstr ""
+msgstr "<a href=\"%(contribute)s\">Zapojte sa</a>"
 
 #: start-page/release/index.html:33
 #, python-format
@@ -72,11 +68,13 @@ msgid ""
 "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users. Become part of a team that supports Thunderbird users, and makes "
 "Thunderbird awesome. <a class=\"more\" href=\"%(contribute)s\">Join us</a>"
 msgstr ""
+"Thunderbird je open source projekt, čo znamená, že ktokoľvek môže prispieť svojimi nápadmi, dizajnmi, kódom a časom. Staňte sa súčasťou tímu, ktorý podporuje používateľov Thunderbirdu. <a "
+"class=\"more\" href=\"%(contribute)s\">Pridajte sa k nám</a>"
 
 #: start-page/release/index.html:38
 #, python-format
 msgid "<a href=\"%(support)s\">Get Support</a>"
-msgstr ""
+msgstr "<a href=\"%(support)s\">Získajte pomoc</a>"
 
 #: start-page/release/index.html:39
 #, python-format
@@ -86,7 +84,7 @@ msgstr ""
 #: start-page/release/index.html:42
 #, python-format
 msgid "<a href=\"%(bug)s\">Report a Bug</a>"
-msgstr ""
+msgstr "<a href=\"%(bug)s\">Nahláste chybu</a>"
 
 #: start-page/release/index.html:43
 #, python-format
@@ -138,7 +136,7 @@ msgstr "Podpora"
 
 #: website/base-resp.html:82
 msgid "Get Involved"
-msgstr ""
+msgstr "Zapojte sa"
 
 #: website/base-resp.html:88 website/site-footer.html:17
 msgid "Donate"
