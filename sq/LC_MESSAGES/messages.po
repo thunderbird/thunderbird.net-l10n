@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-04-21 12:33-0700\n"
+"POT-Creation-Date: 2018-08-01 19:41-0700\n"
 "PO-Revision-Date: 2018-05-08 11:13+0000\n"
 "Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
 "Language-Team: none\n"
@@ -23,146 +23,79 @@ msgstr ""
 msgid "Welcome to <span>Thunderbird</span>"
 msgstr "Mirë se vini te <span>Thunderbird-i</span>"
 
-#: start-page/release/index.html:17
+#: start-page/release/index.html:16
 msgid "Why we need donations"
 msgstr "Pse kemi nevojë për dhurime"
 
-#: start-page/release/index.html:19
-msgid ""
-"You might already know that Thunderbird improvements are no longer paid for by Mozilla. Fortunately there is an active community keeping it running and developing it further. But to survive long "
-"term, the project needs funding."
+#: start-page/release/index.html:18
+#, fuzzy
+msgid "Thunderbird is no longer funded by Mozilla. Fortunately there is an active community keeping it running and developing it further. But to survive long term, the project needs funding."
 msgstr ""
 "Mund ta dini tashmë që Mozilla nuk paguan më për përmirësime të Thunderbird-it. Për fat të mirë, ka një bashkësi aktive që e mban gjallë dhe e zhvillon atë më tej. Por që të mbijetojë në "
 "perspektivë, projekti ka nevojë për fonde."
 
-#: start-page/release/index.html:22
+#: start-page/release/index.html:21
+#, fuzzy
 msgid ""
-"Thunderbird is currently transitioning to an independent organization. Being independent, we can shape our own fate, but there is significant infrastructure that must be maintained to deliver the "
-"application to our tens of millions of users. For Thunderbird to survive and continue to evolve, we need your support and ask for your donation today. All the money donated will go directly to "
-"funding Thunderbird development and infrastructure."
+"Thunderbird's funding goes toward the significant infrastructure and staff that must be maintained to deliver the application to our tens of millions of users. For Thunderbird to survive and "
+"continue to evolve, we need your support and ask for your donation today. All the money donated will go directly to funding Thunderbird development and infrastructure."
 msgstr ""
 "Thunderbird-i është duke kaluar nën një organizëm të pavarur. Duke qenë të pavarur, mund ta marrim fatin tonë në duar, por që t’u jepet aplikacioni dhjetëra milionë përdoruesve tanë, duhet "
 "mirëmbajtur një infrastrukturë jo e vogël. Që Thunderbird-i të mbijetojë dhe të vazhdojë të evoluojë, na duhet përkrahja juaj, ndaj edhe kërkojmë sot dhurime. Krejt paratë e dhuruara do të shkojnë "
 "drejt e në financimin e e zhvillimit të Thunderbird-it dhe infrastrukturës."
 
-#: start-page/release/index.html:28
-msgid "Donate to Thunderbird"
+#: start-page/release/index.html:27
+#, fuzzy, python-format
+msgid "<a href=\"%(donate)s\">Donate to Thunderbird</a>"
 msgstr "Dhuroni për Thunderbird-in"
 
-#: start-page/release/index.html:30
-msgid "Thunderbird is the leading open source, cross-platform email and calendaring client, free for business and personal use. We want it to stay secure and become even better."
+#: start-page/release/index.html:28
+#, fuzzy
+msgid ""
+"Thunderbird is the leading open source, cross-platform and calendaring client, free for business and personal use. We want it to stay secure and become even better. A donation will allow us to hire "
+"developers, pay for infrastructure, and continue to improve."
 msgstr ""
 "Thunderbird-i është klienti udhëheqës për email dhe kalendar, me burim të hapur,ndërplatformësh, i lirë për përdorim personal apo nga biznesi. Dëshirojmë të mbetet i sigurt dhe të bëhet edhe më i "
 "mirë."
 
-#: start-page/release/index.html:34
-msgid "If you like Thunderbird, please consider a donation!"
-msgstr "Nëse e pëlqeni Thunderbird-in, ju lutemi, shihni mundësinë e një dhurimi!"
+#: start-page/release/index.html:29
+#, python-format
+msgid "<strong>Thunderbird is funded by donations!</strong> The best way for you to ensure Thunderbird remains available is to <a class=\"more\" href=\"%(donate)s\">make a donation.</a>"
+msgstr ""
 
-#: start-page/release/index.html:36
-msgid "By donating, you will help us to continue delivering an ad-free top-notch email client."
-msgstr "Përmes dhurimit, do të na ndihmoni të vazhdojmë ofrimin e një klienti email të shkëlqyer dhe pa reklama."
+#: start-page/release/index.html:32
+#, python-format
+msgid "<a href=\"%(contribute)s\">Get Involved</a>"
+msgstr ""
 
-#: start-page/release/index.html:37
-msgid "Make a donation"
-msgstr "Bëni një dhurim"
+#: start-page/release/index.html:33
+#, python-format
+msgid ""
+"Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users. Become part of a team that supports Thunderbird users, and makes "
+"Thunderbird awesome. <a class=\"more\" href=\"%(contribute)s\">Join us</a>"
+msgstr ""
+
+#: start-page/release/index.html:38
+#, python-format
+msgid "<a href=\"%(support)s\">Get Support</a>"
+msgstr ""
+
+#: start-page/release/index.html:39
+#, python-format
+msgid "Need help with something in Thunderbird. We have a <a href=\"%(support)s\">support page</a> where you ask questions and read knowledge base articles to learn how to use Thunderbird."
+msgstr ""
+
+#: start-page/release/index.html:42
+#, python-format
+msgid "<a href=\"%(bug)s\">Report a Bug</a>"
+msgstr ""
 
 #: start-page/release/index.html:43
-msgid "Other ways to contribute to Thunderbird"
-msgstr "Rrugë të tjera për të kontribuar te Thunderbird-i"
-
-#: start-page/release/index.html:45
+#, python-format
 msgid ""
-"Now is a great time for you to get involved: writing code, testing, support, localization and more. Join a global community! Share your skills and pick up a few new ones along the way. Volunteer as "
-"much as you like. Or as little. It’s totally up to you."
+"Think you've found a problem with Thunderbird? <a href=\"%(bug)s\">Create a bug report</a> so that we can make sure it gets solved. Helping us identify and fix bugs makes for a better Thunderbird "
+"for all."
 msgstr ""
-"Tani është çast i shkëlqyer të përfshiheni: me shkrim kodi, testime, asistencë, përkthime, etj. Bëhuni pjesë e një bashkësie mbarëbotërore! Ndani me të tjerët aftësitë tuaja dhe bëhuni të zotë edhe "
-"në ca të tjera të reja, në rrugë e sipër. Aktivizohuni aq sa doni. Shumë ose pak. E keni vetë në dorë sa."
-
-#: start-page/release/index.html:46 start-page/release/index.html:58
-msgid "Learn more"
-msgstr "Mësoni Më Tepër"
-
-#: start-page/release/index.html:53
-msgid "Contribute to Thunderbird"
-msgstr "Jepni ndihmesë te Thunderbird-i"
-
-#: start-page/release/index.html:54
-#, python-format
-msgid "To ensure that Thunderbird continues to improve, as it has for the last ten years, active contributors <a href=\"%s\">recently organized</a> to focus on the future."
-msgstr ""
-"Për të bërë të mundur që Thunderbird-i të vazhdojë të përmirësohet, siç ka bërë në dhjetë vjetët e fundit, kontribuesit aktivë <a href=\"%s\">u organizuan tani së fundi</a> për t’u përqendruar te e "
-"ardhmja."
-
-#: start-page/release/index.html:55
-#, python-format
-msgid "Now is a great time for you to <a href=\"%s\" class=\"iconic\">get involved</a>."
-msgstr "Tani është kohë e përshtatshme <a href=\"%s\" class=\"iconic\">të përfshiheni</a>."
-
-#: start-page/release/index.html:56
-msgid "Please help us assist users of Thunderbird, and improve the Thunderbird product and eco-system."
-msgstr "Ju lutemi, ndihmonani t’u japim një dorë përdoruesve të Thunderbird-it, dhe të përmirësojmë Thunderbird-in, si produkt më vete, dhe ekosistemin e tij."
-
-#: start-page/release/index.html:57
-#, python-format
-msgid "We look forward to <a href=\"%s\">hearing from you</a>."
-msgstr "Presim të <a href=\"%s\">lidhemi me ju</a>."
-
-#: start-page/release/index.html:64
-msgid "Need Support?"
-msgstr "Ju duhet Asistencë?"
-
-#: start-page/release/index.html:67
-#, python-format
-msgid "Most Thunderbird support questions are answered in the <a href=\"%s\">Knowledge Base</a>."
-msgstr "Shumica e pyetjeve lidhur me asistencë Thunderbird-i kanë marrë përgjigje te <a href=\"%s\">Baza e Dijes</a>."
-
-#: start-page/release/index.html:68
-#, python-format
-msgid "If you can’t find an answer, <a href=\"%s\">ask your question in our support forum</a>."
-msgstr "Nëse nuk gjeni përgjigje, <a href=\"%s\">shtrojeni pyetjen te forumi ynë i asistencës</a>."
-
-#: start-page/release/index.html:68 start-page/release/index.html:72
-msgid "https://support.mozilla.org/questions/new/thunderbird"
-msgstr "https://support.mozilla.org/questions/new/thunderbird"
-
-#: start-page/release/index.html:71
-#, python-format
-msgid "Most Thunderbird support questions are answered on the <a href=\"%s\">Knowledge Base</a>."
-msgstr "Shumica e pyetjeve lidhur me asistencë Thunderbird-i kanë marrë përgjigje te <a href=\"%s\">Baza e Dijes</a>."
-
-#: start-page/release/index.html:72
-#, python-format
-msgid "If you can’t find an answer, <a href=\"%s\">ask your question on our support forum</a>."
-msgstr "Nëse nuk gjeni përgjigje, <a href=\"%s\">shtrojeni pyetjen te forumi ynë i asistencës</a>."
-
-#: start-page/release/index.html:79 website/base-resp.html:35
-msgid "Features"
-msgstr "Veçori"
-
-#: start-page/release/index.html:80
-msgid "Visit our blog"
-msgstr "Vizitoni blogun tonë"
-
-#: start-page/release/index.html:81 website/base-resp.html:81 website/site-footer.html:17
-msgid "Donate"
-msgstr "Dhuroni"
-
-#: start-page/release/index.html:82
-msgid "Contribute"
-msgstr "Jepni Ndihmesë"
-
-#: start-page/release/index.html:83
-msgid "Tips"
-msgstr "Ndihmëza"
-
-#: start-page/release/index.html:84 website/base-resp.html:59 website/base-resp.html:64
-msgid "Add-ons"
-msgstr "Shtesa"
-
-#: start-page/release/index.html:85
-msgid "Get help"
-msgstr "Merrni ndihmë"
 
 #: website/base-resp.html:24
 msgid "Menu"
@@ -177,6 +110,10 @@ msgstr "Thunderbird"
 msgid "Beta"
 msgstr "Beta"
 
+#: website/base-resp.html:35
+msgid "Features"
+msgstr "Veçori"
+
 #: website/base-resp.html:40
 msgid "Releases"
 msgstr "Hedhje Në Qarkullim"
@@ -189,6 +126,10 @@ msgstr "Shtesë Kalendar"
 msgid "Thunderbird for Organizations"
 msgstr "Thunderbird për Organizma"
 
+#: website/base-resp.html:59 website/base-resp.html:64
+msgid "Add-ons"
+msgstr "Shtesa"
+
 #: website/base-resp.html:69
 msgid "Themes"
 msgstr "Tema"
@@ -196,6 +137,14 @@ msgstr "Tema"
 #: website/base-resp.html:76
 msgid "Support"
 msgstr "Asistencë"
+
+#: website/base-resp.html:82
+msgid "Get Involved"
+msgstr ""
+
+#: website/base-resp.html:88 website/site-footer.html:17
+msgid "Donate"
+msgstr "Dhuroni"
 
 #: website/download-button.html:7 website/download-button.html:48
 msgid "Download Thunderbird"
@@ -618,3 +567,72 @@ msgstr "Hedhje në Qarkullim të Thunderbird-it"
 #: website/thunderbird/releases/index.html:26
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Shënimet e versionit për Thunderbird-in janë specifike për çdo version të aplikacionit. Që të shihni shënimet e versionit për një, përzgjidhni versionin tuaj prej listës më poshtë."
+
+#~ msgid "If you like Thunderbird, please consider a donation!"
+#~ msgstr "Nëse e pëlqeni Thunderbird-in, ju lutemi, shihni mundësinë e një dhurimi!"
+
+#~ msgid "By donating, you will help us to continue delivering an ad-free top-notch email client."
+#~ msgstr "Përmes dhurimit, do të na ndihmoni të vazhdojmë ofrimin e një klienti email të shkëlqyer dhe pa reklama."
+
+#~ msgid "Make a donation"
+#~ msgstr "Bëni një dhurim"
+
+#~ msgid "Other ways to contribute to Thunderbird"
+#~ msgstr "Rrugë të tjera për të kontribuar te Thunderbird-i"
+
+#~ msgid ""
+#~ "Now is a great time for you to get involved: writing code, testing, support, localization and more. Join a global community! Share your skills and pick up a few new ones along the way. Volunteer as "
+#~ "much as you like. Or as little. It’s totally up to you."
+#~ msgstr ""
+#~ "Tani është çast i shkëlqyer të përfshiheni: me shkrim kodi, testime, asistencë, përkthime, etj. Bëhuni pjesë e një bashkësie mbarëbotërore! Ndani me të tjerët aftësitë tuaja dhe bëhuni të zotë edhe "
+#~ "në ca të tjera të reja, në rrugë e sipër. Aktivizohuni aq sa doni. Shumë ose pak. E keni vetë në dorë sa."
+
+#~ msgid "Learn more"
+#~ msgstr "Mësoni Më Tepër"
+
+#~ msgid "Contribute to Thunderbird"
+#~ msgstr "Jepni ndihmesë te Thunderbird-i"
+
+#~ msgid "To ensure that Thunderbird continues to improve, as it has for the last ten years, active contributors <a href=\"%s\">recently organized</a> to focus on the future."
+#~ msgstr ""
+#~ "Për të bërë të mundur që Thunderbird-i të vazhdojë të përmirësohet, siç ka bërë në dhjetë vjetët e fundit, kontribuesit aktivë <a href=\"%s\">u organizuan tani së fundi</a> për t’u përqendruar te e "
+#~ "ardhmja."
+
+#~ msgid "Now is a great time for you to <a href=\"%s\" class=\"iconic\">get involved</a>."
+#~ msgstr "Tani është kohë e përshtatshme <a href=\"%s\" class=\"iconic\">të përfshiheni</a>."
+
+#~ msgid "Please help us assist users of Thunderbird, and improve the Thunderbird product and eco-system."
+#~ msgstr "Ju lutemi, ndihmonani t’u japim një dorë përdoruesve të Thunderbird-it, dhe të përmirësojmë Thunderbird-in, si produkt më vete, dhe ekosistemin e tij."
+
+#~ msgid "We look forward to <a href=\"%s\">hearing from you</a>."
+#~ msgstr "Presim të <a href=\"%s\">lidhemi me ju</a>."
+
+#~ msgid "Need Support?"
+#~ msgstr "Ju duhet Asistencë?"
+
+#~ msgid "Most Thunderbird support questions are answered in the <a href=\"%s\">Knowledge Base</a>."
+#~ msgstr "Shumica e pyetjeve lidhur me asistencë Thunderbird-i kanë marrë përgjigje te <a href=\"%s\">Baza e Dijes</a>."
+
+#~ msgid "If you can’t find an answer, <a href=\"%s\">ask your question in our support forum</a>."
+#~ msgstr "Nëse nuk gjeni përgjigje, <a href=\"%s\">shtrojeni pyetjen te forumi ynë i asistencës</a>."
+
+#~ msgid "https://support.mozilla.org/questions/new/thunderbird"
+#~ msgstr "https://support.mozilla.org/questions/new/thunderbird"
+
+#~ msgid "Most Thunderbird support questions are answered on the <a href=\"%s\">Knowledge Base</a>."
+#~ msgstr "Shumica e pyetjeve lidhur me asistencë Thunderbird-i kanë marrë përgjigje te <a href=\"%s\">Baza e Dijes</a>."
+
+#~ msgid "If you can’t find an answer, <a href=\"%s\">ask your question on our support forum</a>."
+#~ msgstr "Nëse nuk gjeni përgjigje, <a href=\"%s\">shtrojeni pyetjen te forumi ynë i asistencës</a>."
+
+#~ msgid "Visit our blog"
+#~ msgstr "Vizitoni blogun tonë"
+
+#~ msgid "Contribute"
+#~ msgstr "Jepni Ndihmesë"
+
+#~ msgid "Tips"
+#~ msgstr "Ndihmëza"
+
+#~ msgid "Get help"
+#~ msgstr "Merrni ndihmë"

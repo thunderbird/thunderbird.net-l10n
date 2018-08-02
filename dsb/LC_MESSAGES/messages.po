@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-04-21 12:33-0700\n"
+"POT-Creation-Date: 2018-08-01 19:41-0700\n"
 "PO-Revision-Date: 2018-04-22 17:04+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language-Team: none\n"
@@ -23,142 +23,77 @@ msgstr ""
 msgid "Welcome to <span>Thunderbird</span>"
 msgstr "Witajśo k <span>Thunderbird</span>"
 
-#: start-page/release/index.html:17
+#: start-page/release/index.html:16
 msgid "Why we need donations"
 msgstr "Cogoždla dary trjebamy"
 
-#: start-page/release/index.html:19
-msgid ""
-"You might already know that Thunderbird improvements are no longer paid for by Mozilla. Fortunately there is an active community keeping it running and developing it further. But to survive long "
-"term, the project needs funding."
+#: start-page/release/index.html:18
+#, fuzzy
+msgid "Thunderbird is no longer funded by Mozilla. Fortunately there is an active community keeping it running and developing it further. But to survive long term, the project needs funding."
 msgstr ""
 "Wěsćo snaź južo, až pólěpšenja Thunderbird njepłaśe se wěcej wót Mozilla. Chwaliśboga dajo aktiwne zgromaźeństwo, kótarež jen dalej wuwija. Ale, aby na dłujku dobu pśežywił, trjeba projekt dary."
 
-#: start-page/release/index.html:22
+#: start-page/release/index.html:21
+#, fuzzy
 msgid ""
-"Thunderbird is currently transitioning to an independent organization. Being independent, we can shape our own fate, but there is significant infrastructure that must be maintained to deliver the "
-"application to our tens of millions of users. For Thunderbird to survive and continue to evolve, we need your support and ask for your donation today. All the money donated will go directly to "
-"funding Thunderbird development and infrastructure."
+"Thunderbird's funding goes toward the significant infrastructure and staff that must be maintained to deliver the application to our tens of millions of users. For Thunderbird to survive and "
+"continue to evolve, we need your support and ask for your donation today. All the money donated will go directly to funding Thunderbird development and infrastructure."
 msgstr ""
 "Thunderbird pśechada tuchylu k njewótwisnej organizaciji. W njewótwisnosći móžemy naš pśisud same twóriś, ale dajo wjelika infrastruktura, kótaraž musy se wuźaržowaś, aby my mógli program našym "
 "źaseśćtysacym wužywarjam librowali. Aby Thunderbird pśežywił a dalej wuwijał, trjebamy wašu pódpěru a pšosymy was źinsa wó waš dar. Pósćone pjenjeze du direktnje do spěchowanja wuwijanja a "
 "infrastruktury Thunderbird."
 
-#: start-page/release/index.html:28
-msgid "Donate to Thunderbird"
+#: start-page/release/index.html:27
+#, fuzzy, python-format
+msgid "<a href=\"%(donate)s\">Donate to Thunderbird</a>"
 msgstr "Za Thunderbird pósćiś"
 
-#: start-page/release/index.html:30
-msgid "Thunderbird is the leading open source, cross-platform email and calendaring client, free for business and personal use. We want it to stay secure and become even better."
+#: start-page/release/index.html:28
+#, fuzzy
+msgid ""
+"Thunderbird is the leading open source, cross-platform and calendaring client, free for business and personal use. We want it to stay secure and become even better. A donation will allow us to hire "
+"developers, pay for infrastructure, and continue to improve."
 msgstr ""
 "Thunderbird jo wjeducy program wótwórjonego žrědła za e-mail a zastojanje terminow na někotarych platformach a jo dermotny za komercielne a priwatne wužywanje. Comy jen wěsty źaržaś a samo pólěpšyś."
 
-#: start-page/release/index.html:34
-msgid "If you like Thunderbird, please consider a donation!"
-msgstr "Jolic se wam Thunderbird spódoba, pósććo pšosy, za njen!"
+#: start-page/release/index.html:29
+#, python-format
+msgid "<strong>Thunderbird is funded by donations!</strong> The best way for you to ensure Thunderbird remains available is to <a class=\"more\" href=\"%(donate)s\">make a donation.</a>"
+msgstr ""
 
-#: start-page/release/index.html:36
-msgid "By donating, you will help us to continue delivering an ad-free top-notch email client."
-msgstr "Pśez dary pomagaśo nam, bźezwabjeński wuběrny e-mailowy program dalej k dispoziciji stajiś."
+#: start-page/release/index.html:32
+#, python-format
+msgid "<a href=\"%(contribute)s\">Get Involved</a>"
+msgstr ""
 
-#: start-page/release/index.html:37
-msgid "Make a donation"
-msgstr "Pósććo"
+#: start-page/release/index.html:33
+#, python-format
+msgid ""
+"Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users. Become part of a team that supports Thunderbird users, and makes "
+"Thunderbird awesome. <a class=\"more\" href=\"%(contribute)s\">Join us</a>"
+msgstr ""
+
+#: start-page/release/index.html:38
+#, python-format
+msgid "<a href=\"%(support)s\">Get Support</a>"
+msgstr ""
+
+#: start-page/release/index.html:39
+#, python-format
+msgid "Need help with something in Thunderbird. We have a <a href=\"%(support)s\">support page</a> where you ask questions and read knowledge base articles to learn how to use Thunderbird."
+msgstr ""
+
+#: start-page/release/index.html:42
+#, python-format
+msgid "<a href=\"%(bug)s\">Report a Bug</a>"
+msgstr ""
 
 #: start-page/release/index.html:43
-msgid "Other ways to contribute to Thunderbird"
-msgstr "Druge móžnosći, aby wy k Thunderbird pśinosował"
-
-#: start-page/release/index.html:45
+#, python-format
 msgid ""
-"Now is a great time for you to get involved: writing code, testing, support, localization and more. Join a global community! Share your skills and pick up a few new ones along the way. Volunteer as "
-"much as you like. Or as little. It’s totally up to you."
+"Think you've found a problem with Thunderbird? <a href=\"%(bug)s\">Create a bug report</a> so that we can make sure it gets solved. Helping us identify and fix bugs makes for a better Thunderbird "
+"for all."
 msgstr ""
-"Jo něnto dobry cas za was, aby wy sobu cynił: móžośo programowy kod pisaś, testowaś, nastawki pomocy pisaś, pśełožowaś a wěcej. Pśizamkniśo se globalnemu zgromaźeństwoju! Dajśo swóje nazgónjenja a "
-"znajobnosći dalej a zběrajśo nowe na toś tej droze. Pomagajśo ako doborowólnik sobu, tak wjele ako cośo. Abo tak mało. To lažy dopołnje na was."
-
-#: start-page/release/index.html:46 start-page/release/index.html:58
-msgid "Learn more"
-msgstr "Dalšne informacije"
-
-#: start-page/release/index.html:53
-msgid "Contribute to Thunderbird"
-msgstr "K Thunderbird pśinosowaś"
-
-#: start-page/release/index.html:54
-#, python-format
-msgid "To ensure that Thunderbird continues to improve, as it has for the last ten years, active contributors <a href=\"%s\">recently organized</a> to focus on the future."
-msgstr "Aby zawěsćił, až Thunderbird pólěpšujo se dalej, ako w zachadnych źaseś lětach, su se aktiwne sobustatkujuce <a href=\"%s\">njedawno zjadnośili</a>, aby se bližej na pśichod woglědali."
-
-#: start-page/release/index.html:55
-#, python-format
-msgid "Now is a great time for you to <a href=\"%s\" class=\"iconic\">get involved</a>."
-msgstr "Něnto jo nejlěpšy cas za was, aby <a href=\"%s\" class=\"iconic\">sobu cynił</a>."
-
-#: start-page/release/index.html:56
-msgid "Please help us assist users of Thunderbird, and improve the Thunderbird product and eco-system."
-msgstr "Pšosym pomagajśo nam, wužywarjow Thunderbird pódpěraś a produkt Thunderbird a ekosystem pólěpšaś."
-
-#: start-page/release/index.html:57
-#, python-format
-msgid "We look forward to <a href=\"%s\">hearing from you</a>."
-msgstr "Naźejamy se, <a href=\"%s\">wót was słyšaś</a>."
-
-#: start-page/release/index.html:64
-msgid "Need Support?"
-msgstr "Trjebaśo pomoc?"
-
-#: start-page/release/index.html:67
-#, python-format
-msgid "Most Thunderbird support questions are answered in the <a href=\"%s\">Knowledge Base</a>."
-msgstr "Nejwěcej pšašanjow pomocy Thunderbird wótegranja se w <a href=\"%s\">datowej bance wědy</a>."
-
-#: start-page/release/index.html:68
-#, python-format
-msgid "If you can’t find an answer, <a href=\"%s\">ask your question in our support forum</a>."
-msgstr "Jolic njamóžośo wótegrono namakaś, <a href=\"%s\">pšašajśo se w našom forumje pomocy</a>."
-
-#: start-page/release/index.html:68 start-page/release/index.html:72
-msgid "https://support.mozilla.org/questions/new/thunderbird"
-msgstr "https://support.mozilla.org/questions/new/thunderbird"
-
-#: start-page/release/index.html:71
-#, python-format
-msgid "Most Thunderbird support questions are answered on the <a href=\"%s\">Knowledge Base</a>."
-msgstr "Nejwěcej pšašanjow pomocy Thunderbird wótegranja se w <a href=\"%s\">datowej bance wědy</a>."
-
-#: start-page/release/index.html:72
-#, python-format
-msgid "If you can’t find an answer, <a href=\"%s\">ask your question on our support forum</a>."
-msgstr "Jolic njamóžośo wótegrono namakaś, <a href=\"%s\">pšašajśo se w našom forumje pomocy</a>."
-
-#: start-page/release/index.html:79 website/base-resp.html:35
-msgid "Features"
-msgstr "Funkcije"
-
-#: start-page/release/index.html:80
-msgid "Visit our blog"
-msgstr "Woglědajśo se naš blog"
-
-#: start-page/release/index.html:81 website/base-resp.html:81 website/site-footer.html:17
-msgid "Donate"
-msgstr "Pósćiś"
-
-#: start-page/release/index.html:82
-msgid "Contribute"
-msgstr "Pśinosowaś"
-
-#: start-page/release/index.html:83
-msgid "Tips"
-msgstr "Pokaze"
-
-#: start-page/release/index.html:84 website/base-resp.html:59 website/base-resp.html:64
-msgid "Add-ons"
-msgstr "Dodanki"
-
-#: start-page/release/index.html:85
-msgid "Get help"
-msgstr "Pomoc se wobstaraś"
 
 #: website/base-resp.html:24
 msgid "Menu"
@@ -173,6 +108,10 @@ msgstr "Thunderbird"
 msgid "Beta"
 msgstr "Beta"
 
+#: website/base-resp.html:35
+msgid "Features"
+msgstr "Funkcije"
+
 #: website/base-resp.html:40
 msgid "Releases"
 msgstr "Pśipušćenja"
@@ -185,6 +124,10 @@ msgstr "Kalendrowy dodank"
 msgid "Thunderbird for Organizations"
 msgstr "Thunderbird za organizacije"
 
+#: website/base-resp.html:59 website/base-resp.html:64
+msgid "Add-ons"
+msgstr "Dodanki"
+
 #: website/base-resp.html:69
 msgid "Themes"
 msgstr "Drastwy"
@@ -192,6 +135,14 @@ msgstr "Drastwy"
 #: website/base-resp.html:76
 msgid "Support"
 msgstr "Pódpěra"
+
+#: website/base-resp.html:82
+msgid "Get Involved"
+msgstr ""
+
+#: website/base-resp.html:88 website/site-footer.html:17
+msgid "Donate"
+msgstr "Pósćiś"
 
 #: website/download-button.html:7 website/download-button.html:48
 msgid "Download Thunderbird"
@@ -612,3 +563,70 @@ msgstr "Wersije Thunderbird"
 #: website/thunderbird/releases/index.html:26
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Wersijowe informacije Thunderbird pśecej wěstu wersiju nałoženja nastupaju. Wubjeŕśo swóju wersiju ze slědujuceje lisćiny, aby se jeje wersijowe informacije woglědał."
+
+#~ msgid "If you like Thunderbird, please consider a donation!"
+#~ msgstr "Jolic se wam Thunderbird spódoba, pósććo pšosy, za njen!"
+
+#~ msgid "By donating, you will help us to continue delivering an ad-free top-notch email client."
+#~ msgstr "Pśez dary pomagaśo nam, bźezwabjeński wuběrny e-mailowy program dalej k dispoziciji stajiś."
+
+#~ msgid "Make a donation"
+#~ msgstr "Pósććo"
+
+#~ msgid "Other ways to contribute to Thunderbird"
+#~ msgstr "Druge móžnosći, aby wy k Thunderbird pśinosował"
+
+#~ msgid ""
+#~ "Now is a great time for you to get involved: writing code, testing, support, localization and more. Join a global community! Share your skills and pick up a few new ones along the way. Volunteer as "
+#~ "much as you like. Or as little. It’s totally up to you."
+#~ msgstr ""
+#~ "Jo něnto dobry cas za was, aby wy sobu cynił: móžośo programowy kod pisaś, testowaś, nastawki pomocy pisaś, pśełožowaś a wěcej. Pśizamkniśo se globalnemu zgromaźeństwoju! Dajśo swóje nazgónjenja a "
+#~ "znajobnosći dalej a zběrajśo nowe na toś tej droze. Pomagajśo ako doborowólnik sobu, tak wjele ako cośo. Abo tak mało. To lažy dopołnje na was."
+
+#~ msgid "Learn more"
+#~ msgstr "Dalšne informacije"
+
+#~ msgid "Contribute to Thunderbird"
+#~ msgstr "K Thunderbird pśinosowaś"
+
+#~ msgid "To ensure that Thunderbird continues to improve, as it has for the last ten years, active contributors <a href=\"%s\">recently organized</a> to focus on the future."
+#~ msgstr "Aby zawěsćił, až Thunderbird pólěpšujo se dalej, ako w zachadnych źaseś lětach, su se aktiwne sobustatkujuce <a href=\"%s\">njedawno zjadnośili</a>, aby se bližej na pśichod woglědali."
+
+#~ msgid "Now is a great time for you to <a href=\"%s\" class=\"iconic\">get involved</a>."
+#~ msgstr "Něnto jo nejlěpšy cas za was, aby <a href=\"%s\" class=\"iconic\">sobu cynił</a>."
+
+#~ msgid "Please help us assist users of Thunderbird, and improve the Thunderbird product and eco-system."
+#~ msgstr "Pšosym pomagajśo nam, wužywarjow Thunderbird pódpěraś a produkt Thunderbird a ekosystem pólěpšaś."
+
+#~ msgid "We look forward to <a href=\"%s\">hearing from you</a>."
+#~ msgstr "Naźejamy se, <a href=\"%s\">wót was słyšaś</a>."
+
+#~ msgid "Need Support?"
+#~ msgstr "Trjebaśo pomoc?"
+
+#~ msgid "Most Thunderbird support questions are answered in the <a href=\"%s\">Knowledge Base</a>."
+#~ msgstr "Nejwěcej pšašanjow pomocy Thunderbird wótegranja se w <a href=\"%s\">datowej bance wědy</a>."
+
+#~ msgid "If you can’t find an answer, <a href=\"%s\">ask your question in our support forum</a>."
+#~ msgstr "Jolic njamóžośo wótegrono namakaś, <a href=\"%s\">pšašajśo se w našom forumje pomocy</a>."
+
+#~ msgid "https://support.mozilla.org/questions/new/thunderbird"
+#~ msgstr "https://support.mozilla.org/questions/new/thunderbird"
+
+#~ msgid "Most Thunderbird support questions are answered on the <a href=\"%s\">Knowledge Base</a>."
+#~ msgstr "Nejwěcej pšašanjow pomocy Thunderbird wótegranja se w <a href=\"%s\">datowej bance wědy</a>."
+
+#~ msgid "If you can’t find an answer, <a href=\"%s\">ask your question on our support forum</a>."
+#~ msgstr "Jolic njamóžośo wótegrono namakaś, <a href=\"%s\">pšašajśo se w našom forumje pomocy</a>."
+
+#~ msgid "Visit our blog"
+#~ msgstr "Woglědajśo se naš blog"
+
+#~ msgid "Contribute"
+#~ msgstr "Pśinosowaś"
+
+#~ msgid "Tips"
+#~ msgstr "Pokaze"
+
+#~ msgid "Get help"
+#~ msgstr "Pomoc se wobstaraś"
