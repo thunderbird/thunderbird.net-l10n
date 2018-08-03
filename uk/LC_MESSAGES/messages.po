@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-01 19:41-0700\n"
-"PO-Revision-Date: 2018-08-03 06:09+0000\n"
+"PO-Revision-Date: 2018-08-03 06:54+0000\n"
 "Last-Translator: Artem Polivanchuk <artem@mozilla.org.ua>\n"
 "Language-Team: none\n"
 "Language: uk\n"
@@ -58,11 +58,13 @@ msgstr ""
 #, python-format
 msgid "<strong>Thunderbird is funded by donations!</strong> The best way for you to ensure Thunderbird remains available is to <a class=\"more\" href=\"%(donate)s\">make a donation.</a>"
 msgstr ""
+"<strong>Thunderbird фінансується з добровільних внесків!</strong> Найкращим способом переконатися в тому, що Thunderbird залишається доступним є <a class=\"more\" href=\"%(donate)s\">допомога "
+"грошовим внеском.</a>"
 
 #: start-page/release/index.html:32
 #, python-format
 msgid "<a href=\"%(contribute)s\">Get Involved</a>"
-msgstr ""
+msgstr "<a href=\"%(contribute)s\">Долучитися</a>"
 
 #: start-page/release/index.html:33
 #, python-format
@@ -70,21 +72,23 @@ msgid ""
 "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users. Become part of a team that supports Thunderbird users, and makes "
 "Thunderbird awesome. <a class=\"more\" href=\"%(contribute)s\">Join us</a>"
 msgstr ""
+"Thunderbird є відкритим проектом, а це означає, що будь-хто може допомагати, пропонуючи ідеї, покращення дизайну, вдосконалення коду, та допомагаючи іншим користувачам вирішувати проблеми. Станьте "
+"частиною команди підтримки користувачів Thunderbird і людей, що роблять його таким, як він є. <a class=\"more\" href=\"%(contribute)s\">Приєднуйтесь до нас</a>"
 
 #: start-page/release/index.html:38
 #, python-format
 msgid "<a href=\"%(support)s\">Get Support</a>"
-msgstr ""
+msgstr "<a href=\"%(support)s\">Отримати підтримку</a>"
 
 #: start-page/release/index.html:39
 #, python-format
 msgid "Need help with something in Thunderbird. We have a <a href=\"%(support)s\">support page</a> where you ask questions and read knowledge base articles to learn how to use Thunderbird."
-msgstr ""
+msgstr "Необхідна допомога стосовно роботи Thunderbird? У нас є <a href=\"%(support)s\">сторінка підтримки</a>, де ви можете задати питання, або ознайомитися зі статтями бази знань Thunderbird."
 
 #: start-page/release/index.html:42
 #, python-format
 msgid "<a href=\"%(bug)s\">Report a Bug</a>"
-msgstr ""
+msgstr "<a href=\"%(bug)s\">Повідомити про помилку</a>"
 
 #: start-page/release/index.html:43
 #, python-format
@@ -92,6 +96,8 @@ msgid ""
 "Think you've found a problem with Thunderbird? <a href=\"%(bug)s\">Create a bug report</a> so that we can make sure it gets solved. Helping us identify and fix bugs makes for a better Thunderbird "
 "for all."
 msgstr ""
+"Вважаєте, що знайшли проблему в Thunderbird? <a href=\"%(bug)s\">Створіть звіт про помилку</a>, щоб повідомити розробників для подальшого виправлення. Допомагаючи виявляти й виправляти помилки, ви "
+"робите Thunderbird кращим для всіх."
 
 #: website/base-resp.html:24
 msgid "Menu"
@@ -136,7 +142,7 @@ msgstr "Підтримка"
 
 #: website/base-resp.html:82
 msgid "Get Involved"
-msgstr ""
+msgstr "Долучитися"
 
 #: website/base-resp.html:88 website/site-footer.html:17
 msgid "Donate"
