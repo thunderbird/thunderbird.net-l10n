@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-03 00:16-0700\n"
-"PO-Revision-Date: 2018-08-02 16:36+0000\n"
+"PO-Revision-Date: 2018-08-03 15:17+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: none\n"
 "Language: pl\n"
@@ -32,7 +32,6 @@ msgid "Thunderbird is no longer funded by Mozilla. Fortunately there is an activ
 msgstr "Thunderbird nie jest już finansowany przez Mozillę. Na szczęście istnieje aktywna społeczność nadal go rozwijająca. Mimo to aby przetrwać w dłuższym okresie, projekt potrzebuje pieniędzy."
 
 #: start-page/release/index.html:21
-#, fuzzy
 msgid ""
 "Thunderbird’s funding goes toward the significant infrastructure and staff that must be maintained to deliver the application to our tens of millions of users. For Thunderbird to survive and "
 "continue to evolve, we need your support and ask for your donation today. All the money donated will go directly to funding Thunderbird development and infrastructure."
@@ -54,11 +53,13 @@ msgstr ""
 "umożliwi nam zatrudnienie programistów, opłacenie infrastruktury i kontynuowanie ulepszania programu."
 
 #: start-page/release/index.html:29
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "<strong>Thunderbird is funded by users like you! If you like Thunderbird, please consider making a donation.</strong> The best way for you to ensure Thunderbird remains available is to <a "
 "class=\"more\" href=\"%(donate)s\">make a donation.</a>"
-msgstr "<strong>Thunderbird jest finansowany przez datki!</strong> Najlepszym sposobem na zapewnienie, aby Thunderbird był zawsze dostępny jest <a class=\"more\" href=\"%(donate)s\">przekazanie datku</a>."
+msgstr ""
+"<strong>Thunderbird jest finansowany przez użytkowników takich jak Ty!</strong> Jeśli lubisz Thunderbirda, to prosimy rozważyć jego wsparcie. Najlepszym sposobem na zapewnienie, aby Thunderbird był "
+"zawsze dostępny jest <a class=\"more\" href=\"%(donate)s\">przekazanie datku</a>."
 
 #: start-page/release/index.html:32
 #, python-format
@@ -80,7 +81,7 @@ msgid "<a href=\"%(support)s\">Get Support</a>"
 msgstr "<a href=\"%(support)s\">Uzyskaj pomoc</a>"
 
 #: start-page/release/index.html:39
-#, fuzzy, python-format
+#, python-format
 msgid "Need help with something in Thunderbird? We have a <a href=\"%(support)s\">support page</a> where you can ask questions and read knowledge base articles to learn how to use Thunderbird."
 msgstr ""
 "Potrzebujesz pomocy z czymś w Thunderbirdzie? Na naszej <a href=\"%(support)s\">stronie wsparcia</a> można zadawać pytania i przeczytać artykuły bazy wiedzy, aby dowiedzieć się, jak używać "
@@ -92,7 +93,7 @@ msgid "<a href=\"%(bug)s\">Report a Bug</a>"
 msgstr "<a href=\"%(bug)s\">Zgłoś błąd</a>"
 
 #: start-page/release/index.html:43
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "Think you’ve found a problem with Thunderbird? <a href=\"%(bug)s\">Create a bug report</a> so that we can make sure it gets solved. Helping us identify and fix bugs makes for a better Thunderbird "
 "for all."
