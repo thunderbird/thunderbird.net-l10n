@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-03 00:16-0700\n"
-"PO-Revision-Date: 2018-04-22 00:34+0000\n"
+"PO-Revision-Date: 2018-08-05 02:50+0000\n"
 "Last-Translator: Kohei Yoshino <kohei.yoshino@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ja\n"
@@ -28,9 +28,8 @@ msgid "Why we need donations"
 msgstr "私たちが寄付を必要とする理由"
 
 #: start-page/release/index.html:18
-#, fuzzy
 msgid "Thunderbird is no longer funded by Mozilla. Fortunately there is an active community keeping it running and developing it further. But to survive long term, the project needs funding."
-msgstr "すでにご存知かもしれませんが、Thunderbird の改良は Mozilla による投資対象ではなくなりました。幸い、製品の維持とさらなる開発を支えている活発なコミュニティがありますが、長期的な存続のため、プロジェクトは資金を必要としています。"
+msgstr "Thunderbird は以前のように Mozilla から資金を得ていません。幸い、製品の維持とさらなる開発を支えている活発なコミュニティがありますが、長期的な存続のため、プロジェクトは資金を必要としています。"
 
 #: start-page/release/index.html:21
 #, fuzzy
@@ -42,9 +41,9 @@ msgstr ""
 "が存続し進化を続けられるよう、私たちはあなたの支援を必要としており、この場で寄付をお願いしたいと思います。皆さんからいただいた寄付金はすべて直接 Thunderbird の開発とインフラストラクチャに充てられます。"
 
 #: start-page/release/index.html:27
-#, fuzzy, python-format
+#, python-format
 msgid "<a href=\"%(donate)s\">Donate to Thunderbird</a>"
-msgstr "Thunderbird へ寄付"
+msgstr "<a href=\"%(donate)s\">Thunderbird へ寄付</a>"
 
 #: start-page/release/index.html:28
 #, fuzzy
@@ -58,12 +57,12 @@ msgstr "Thunderbird は、オープンソースでクロスプラットフォー
 msgid ""
 "<strong>Thunderbird is funded by users like you! If you like Thunderbird, please consider making a donation.</strong> The best way for you to ensure Thunderbird remains available is to <a "
 "class=\"more\" href=\"%(donate)s\">make a donation.</a>"
-msgstr ""
+msgstr "<strong>Thunderbird はあなたのようなユーザーに支えられています！ Thunderbird を気に入っているなら、ぜひ寄付を検討してください。</strong> Thunderbird を存続可能にするためあなたができる最善の方法は <a class=\"more\" href=\"%(donate)s\">寄付をすることです</a>。"
 
 #: start-page/release/index.html:32
 #, python-format
 msgid "<a href=\"%(contribute)s\">Get Involved</a>"
-msgstr ""
+msgstr "<a href=\"%(contribute)s\">協力する</a>"
 
 #: start-page/release/index.html:33
 #, python-format
@@ -75,7 +74,7 @@ msgstr ""
 #: start-page/release/index.html:38
 #, python-format
 msgid "<a href=\"%(support)s\">Get Support</a>"
-msgstr ""
+msgstr "<a href=\"%(support)s\">サポートを受ける</a>"
 
 #: start-page/release/index.html:39
 #, python-format
@@ -85,7 +84,7 @@ msgstr ""
 #: start-page/release/index.html:42
 #, python-format
 msgid "<a href=\"%(bug)s\">Report a Bug</a>"
-msgstr ""
+msgstr "<a href=\"%(bug)s\">バグを報告する</a>"
 
 #: start-page/release/index.html:43
 #, python-format
@@ -137,7 +136,7 @@ msgstr "サポート"
 
 #: website/base-resp.html:82
 msgid "Get Involved"
-msgstr ""
+msgstr "協力する"
 
 #: website/base-resp.html:88 website/site-footer.html:17
 msgid "Donate"
