@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-03 00:16-0700\n"
-"PO-Revision-Date: 2018-04-26 12:51+0000\n"
+"PO-Revision-Date: 2018-08-08 08:43+0000\n"
 "Last-Translator: Sara Todaro <sara.todaro@mozillaitalia.org>\n"
 "Language-Team: none\n"
 "Language: it\n"
@@ -46,9 +46,9 @@ msgstr ""
 "sviluppo di Thunderbird."
 
 #: start-page/release/index.html:27
-#, fuzzy, python-format
+#, python-format
 msgid "<a href=\"%(donate)s\">Donate to Thunderbird</a>"
-msgstr "Fai una donazione a favore di Thunderbird"
+msgstr "<a href=\"%(donate)s\">Fai una donazione a favore di Thunderbird</a>"
 
 #: start-page/release/index.html:28
 #, fuzzy
@@ -65,11 +65,13 @@ msgid ""
 "<strong>Thunderbird is funded by users like you! If you like Thunderbird, please consider making a donation.</strong> The best way for you to ensure Thunderbird remains available is to <a "
 "class=\"more\" href=\"%(donate)s\">make a donation.</a>"
 msgstr ""
+"<strong>Thunderbird è finanziato da utenti come te! Se apprezzi Thunderbird, considera l’idea di fare una donazione.</strong> <a class=\"more\" href=\"%(donate)s\">Le donazioni</a> sono il modo più "
+"efficace per sostenere il futuro Thunderbird."
 
 #: start-page/release/index.html:32
 #, python-format
 msgid "<a href=\"%(contribute)s\">Get Involved</a>"
-msgstr ""
+msgstr "<a href=\"%(contribute)s\">Collabora con noi</a>"
 
 #: start-page/release/index.html:33
 #, python-format
@@ -87,11 +89,13 @@ msgstr ""
 #, python-format
 msgid "Need help with something in Thunderbird? We have a <a href=\"%(support)s\">support page</a> where you can ask questions and read knowledge base articles to learn how to use Thunderbird."
 msgstr ""
+"Ti serve aiuto per qualche problema relativo a Thunderbird? Visita questa <a href=\"%(support)s\">pagina di supporto</a> dove potrai porre le tue domande e consultare articoli e guide per imparare a"
+" usare al meglio Thunderbird."
 
 #: start-page/release/index.html:42
 #, python-format
 msgid "<a href=\"%(bug)s\">Report a Bug</a>"
-msgstr ""
+msgstr "<a href=\"%(bug)s\">Segnala un bug</a>"
 
 #: start-page/release/index.html:43
 #, python-format
@@ -143,7 +147,7 @@ msgstr "Supporto"
 
 #: website/base-resp.html:82
 msgid "Get Involved"
-msgstr ""
+msgstr "Collabora con noi"
 
 #: website/base-resp.html:88 website/site-footer.html:17
 msgid "Donate"
