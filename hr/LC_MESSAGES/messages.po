@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-03 00:16-0700\n"
-"PO-Revision-Date: 2018-08-09 07:51+0000\n"
+"PO-Revision-Date: 2018-08-09 08:09+0000\n"
 "Last-Translator: Mikeyy <mihovil@miho.im>\n"
 "Language-Team: none\n"
 "Language: hr\n"
@@ -28,33 +28,31 @@ msgid "Why we need donations"
 msgstr "Zašto su nam potrebne donacije"
 
 #: start-page/release/index.html:18
-#, fuzzy
 msgid "Thunderbird is no longer funded by Mozilla. Fortunately there is an active community keeping it running and developing it further. But to survive long term, the project needs funding."
 msgstr ""
 "Možda već znate da poboljšanja u Thunderbirdu više nisu financirana od strane Mozille. Na sreću, postoji aktivna zajednica koja održava Thunderbird i dalje ga razvija. Ali kako bi dugoročno opstao, "
 "projektu je potrebno financiranje."
 
 #: start-page/release/index.html:21
-#, fuzzy
 msgid ""
 "Thunderbird’s funding goes toward the significant infrastructure and staff that must be maintained to deliver the application to our tens of millions of users. For Thunderbird to survive and "
 "continue to evolve, we need your support and ask for your donation today. All the money donated will go directly to funding Thunderbird development and infrastructure."
 msgstr ""
-"Thunderbird je trenutno u procesu prijelaza u nezavisnu organizaciju. Neovisni možemo samostalno oblikovati svoju sudbinu, ali postoji značajna infrastruktura koja se mora održavati kako bismo "
-"dostavili program desecima miliona korisnika. Kako bi Thunderbird opstao i nastavio napredovati, trebamo vašu podršku i donacije već danas. Sav donirani novac će ići direktno u financiranje razvoja "
-"Thunderbirda i potrebnu infrastrukturu."
+"Thunderbird financiranje se koristi za održavanje značajne infrastrukture i osoblja kako bismo dostavili program desecima milijuna korisnika. Kako bi Thunderbird opstao i nastavio napredovati, "
+"trebamo vašu podršku i donacije već danas. Sav donirani novac će ići direktno u financiranje razvoja Thunderbirda i potrebne infrastrukture."
 
 #: start-page/release/index.html:27
-#, fuzzy, python-format
+#, python-format
 msgid "<a href=\"%(donate)s\">Donate to Thunderbird</a>"
-msgstr "Donirajte Thunderbirdu"
+msgstr "<a href=\"%(donate)s\">Donirajte Thunderbirdu</a>"
 
 #: start-page/release/index.html:28
-#, fuzzy
 msgid ""
 "Thunderbird is the leading open source, cross-platform and calendaring client, free for business and personal use. We want it to stay secure and become even better. A donation will allow us to hire "
 "developers, pay for infrastructure, and continue to improve."
-msgstr "Thunderbird je vodeći program za e-poštu i kalendare, otvorenog koda, dostupan na više platformi, besplatan za poslovno i privatno korištenje. Želimo da ostane siguran i postane još bolji."
+msgstr ""
+"Thunderbird je vodeći program za e-poštu i kalendare, otvorenog koda, dostupan na više platformi, besplatan za poslovno i privatno korištenje. Želimo da ostane siguran i postane još bolji. Donacija "
+"će nam omogućiti da zaposlimo programere, platimo za infrastrukturu i nastavimo poboljšavati Thunderbird."
 
 #: start-page/release/index.html:29
 #, python-format
@@ -194,11 +192,11 @@ msgstr "Besplatno preuzimanje"
 
 #: website/index.html:35
 msgid "Thunderbird screenshot"
-msgstr ""
+msgstr "Thunderbird snimka ekrana"
 
 #: website/index.html:45 website/index.html:65
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: website/lang_switcher.html:10
 msgid "Page language:"
@@ -210,7 +208,7 @@ msgstr "Drugi jezici:"
 
 #: website/lang_switcher.html:23
 msgid "Go"
-msgstr ""
+msgstr "Kreni"
 
 #: website/site-footer.html:6
 #, python-format
@@ -247,29 +245,31 @@ msgstr "Prijavite zloporabu zaštitnog znaka"
 
 #: website/channel/index.html:7
 msgid "Download Thunderbird Beta &amp; Try the Next Thunderbird"
-msgstr ""
+msgstr "Preuzmi Thunderbird Beta &amp; Probajte sljedeći Thunderbird"
 
 #: website/channel/index.html:8
 msgid "Download and test Thunderbird Beta and experience features and fixes early!"
-msgstr ""
+msgstr "Preuzmite i testirajte Thunderbird Beta i iskusite nove mogućnosti i popravke grešaka ranije!"
 
 #: website/channel/index.html:18
 msgid "Welcome to the <strong>Future of Thunderbird</strong>"
-msgstr ""
+msgstr "Dobro došli u <strong>budućnost Thunderbirda</strong>"
 
 #: website/channel/index.html:19
 msgid ""
 "Download Thunderbird Beta and be one of the first to try the newest features in the next version of Thunderbird! By giving us your feedback, you’ll help make email better for millions of your fellow"
 " users."
 msgstr ""
+"Preuzmite Thunderbird Beta i budite jedni od prvih koji će ispobati najnovije mogućnosti sljedeće Thunderbird inačice! Šaljući vaš osvrt pomoći ćete nam učiniti e-poštu boljom za milijune drugih "
+"korisnika."
 
 #: website/channel/index.html:30
 msgid "Experience cutting edge features with more stability"
-msgstr ""
+msgstr "Iskusite najnovije mogućnosti s više stabilnosti"
 
 #: website/channel/index.html:31
 msgid "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Provide feedback</a> to help refine and polish what will be in the final release"
-msgstr ""
+msgstr "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Pošaljite vaš osvrt</a> kako biste nam pomogli poboljšati mogućnosti koje će biti u konačnoj inačici"
 
 #: website/features/index.html:7
 msgid "Thunderbird Features"
@@ -469,8 +469,8 @@ msgid ""
 " you only what you need and making the security update quick to download and install. The automated update system provides updates for Thunderbird on Windows, macOS, and Linux in over 40 different "
 "languages."
 msgstr ""
-"Thunderbirdov sustav ažuriranja provjerava da li koristite najnoviju inačici, i obaviještava vas kada su dostupna sigurnosna ažuriranja. Ova sigurnosna ažuriranja su obično mala (obično 200KB - "
-"700KB), pružaju vam samo ono što trebate i omogućuju brzo preuzimanje i instaliranje. Automatski sustav ažuriranja je dostupan za Thunderbird na Windowsima, macOS i Linuxu i na 40 različitih jezika."
+"Thunderbirdov sustav ažuriranja provjerava koristite li najnoviju inačicu, i obaviještava vas kada su dostupna sigurnosna ažuriranja. Ova sigurnosna ažuriranja su obično mala (oko 200KB - 700KB), "
+"pružaju vam samo ono što trebate i omogućuju brzo preuzimanje i instaliranje. Automatski sustav ažuriranja je dostupan za Thunderbird na Windowsima, macOS i Linuxu i na 40 različitih jezika."
 
 #: website/features/index.html:230
 msgid ""
@@ -478,6 +478,8 @@ msgid ""
 " you only what you need and making the security update quick to download and install. The automated update system provides updates for Thunderbird on Windows, OS X, and Linux in over 40 different "
 "languages."
 msgstr ""
+"Thunderbirdov sustav ažuriranja provjerava koristite li najnoviju inačicu, i obaviještava vas kada su dostupna sigurnosna ažuriranja. Ova sigurnosna ažuriranja su obično mala (oko 200KB - 700KB), "
+"pružaju vam samo ono što trebate i omogućuju brzo preuzimanje i instaliranje. Automatski sustav ažuriranja je dostupan za Thunderbird na Windowsima, OS X i Linuxu i na 40 različitih jezika."
 
 #: website/features/index.html:238
 msgid "Cutting Out the Junk"
@@ -509,43 +511,43 @@ msgstr ""
 
 #: website/thunderbird/all/index.html:10
 msgid "Download Thunderbird in your language"
-msgstr ""
+msgstr "Preuzmite Thunderbird na vašem jeziku"
 
 #: website/thunderbird/all/index.html:15 website/thunderbird/beta/all/index.html:15
 msgid "Be one of the first to try the newest features in Thunderbird. By giving us your feedback, you’ll help us to refine the features that will be included in the final version."
-msgstr ""
+msgstr "Budite jedni od prvih koji će isprobati nove mogućnosti u Thunderbirdu. Šaljući nam vaš osvrt, pomoći ćete nam poboljšati mogućnosti koje će biti u konačnoj inačici."
 
 #: website/thunderbird/all/index.html:17 website/thunderbird/beta/all/index.html:17
 msgid "Get the award-winning email application from Mozilla. Import your existing mail and enjoy our new features like tabbed email and advanced search."
-msgstr ""
+msgstr "Preuzmite jednu od najboljih aplikacije e-pošte od Mozille. Uvezite vaš postojeći e-mail račun i uživajte u novim mogućnostima kao što je e-pošta u karticama i napredno pretraživanje."
 
 #: website/thunderbird/all/index.html:34 website/thunderbird/beta/all/index.html:34
 msgid "Check the system requirements"
-msgstr ""
+msgstr "Provjeri zahtjeve sustava"
 
 #: website/thunderbird/all/index.html:35 website/thunderbird/beta/all/index.html:35
 msgid "Release notes"
-msgstr ""
+msgstr "Bilješke izdanja"
 
 #: website/thunderbird/all/index.html:43 website/thunderbird/beta/all/index.html:43
 msgid "Fully localized versions"
-msgstr ""
+msgstr "Potpuno prevedene inačice"
 
 #: website/thunderbird/beta/all/index.html:10
 msgid "Download Beta in your language"
-msgstr ""
+msgstr "Preuzmite Betu na vašem jeziku"
 
 #: website/thunderbird/releases/index.html:7
 msgid "Mozilla Thunderbird Release Notes"
-msgstr ""
+msgstr "Bilješke izdanja za Mozilla Thunderbird"
 
 #: website/thunderbird/releases/index.html:8
 msgid "Release notes for each version of Thunderbird."
-msgstr ""
+msgstr "Bilješke izdanja za svaku Thunderbird inačicu."
 
 #: website/thunderbird/releases/index.html:17
 msgid "Home"
-msgstr ""
+msgstr "Početna stranica"
 
 #: website/thunderbird/releases/index.html:19
 msgid "Release Notes"
@@ -553,11 +555,11 @@ msgstr "Bilješke izdanja"
 
 #: website/thunderbird/releases/index.html:25
 msgid "Thunderbird Releases"
-msgstr ""
+msgstr "Thunderbird izdanja"
 
 #: website/thunderbird/releases/index.html:26
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
-msgstr ""
+msgstr "Bilješke izdanja su specifične za svaku Thunderbird inačicu. Odaberite svoju inačicu iz popisa kako biste vidjeli bilješke izdanja za nju."
 
 #~ msgid "If you like Thunderbird, please consider a donation!"
 #~ msgstr "Ukoliko vam se sviđa Thunderbird, razmislite o donaciji!"
