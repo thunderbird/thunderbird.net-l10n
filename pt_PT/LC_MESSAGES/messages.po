@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-03 00:16-0700\n"
-"PO-Revision-Date: 2018-08-11 23:12+0000\n"
+"PO-Revision-Date: 2018-08-11 23:19+0000\n"
 "Last-Translator: Cláudio Esperança <cesperanc@gmail.com>\n"
 "Language-Team: none\n"
 "Language: pt_PT\n"
@@ -60,11 +60,13 @@ msgid ""
 "<strong>Thunderbird is funded by users like you! If you like Thunderbird, please consider making a donation.</strong> The best way for you to ensure Thunderbird remains available is to <a "
 "class=\"more\" href=\"%(donate)s\">make a donation.</a>"
 msgstr ""
+"<strong>O Thunderbird é financiado por utilizadores como você! Se gosta do Thunderbird, considere fazer um donativo.</strong> A melhor forma para si de garantir que o Thunderbird se mantém "
+"disponível é <a class=\"more\" href=\"%(donate)s\">fazendo um donativo.</a>"
 
 #: start-page/release/index.html:32
 #, python-format
 msgid "<a href=\"%(contribute)s\">Get Involved</a>"
-msgstr ""
+msgstr "<a href=\"%(contribute)s\">Participe</a>"
 
 #: start-page/release/index.html:33
 #, python-format
@@ -72,21 +74,25 @@ msgid ""
 "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users. Become part of a team that supports Thunderbird users, and makes "
 "Thunderbird awesome. <a class=\"more\" href=\"%(contribute)s\">Join us</a>"
 msgstr ""
+"O Thunderbird é um projeto de código aberto, o que significa que qualquer pessoa pode contribuir com ideias, designs, código e tempo para ajudar outros utilizadores. Faça parte de uma equipa que "
+"apoia os utilizadores do Thunderbird e que tornam o Thunderbird fantástico. <a class=\"more\" href=\"%(contribute)s\">Junte-se a nós</a>"
 
 #: start-page/release/index.html:38
 #, python-format
 msgid "<a href=\"%(support)s\">Get Support</a>"
-msgstr ""
+msgstr "<a href=\"%(support)s\">Obter apoio</a>"
 
 #: start-page/release/index.html:39
 #, python-format
 msgid "Need help with something in Thunderbird? We have a <a href=\"%(support)s\">support page</a> where you can ask questions and read knowledge base articles to learn how to use Thunderbird."
 msgstr ""
+"Precisa de ajuda em alguma coisa com o Thunderbird? Nós temos uma <a href=\"%(support)s\">página de apoio</a> onde pode colocar questões e ler artigos de apoio para saber como utilizar o "
+"Thunderbird."
 
 #: start-page/release/index.html:42
 #, python-format
 msgid "<a href=\"%(bug)s\">Report a Bug</a>"
-msgstr ""
+msgstr "<a href=\"%(bug)s\">Reportar um problema</a>"
 
 #: start-page/release/index.html:43
 #, python-format
@@ -94,6 +100,8 @@ msgid ""
 "Think you’ve found a problem with Thunderbird? <a href=\"%(bug)s\">Create a bug report</a> so that we can make sure it gets solved. Helping us identify and fix bugs makes for a better Thunderbird "
 "for all."
 msgstr ""
+"Acha que encontrou um problema com o Thunderbird? <a href=\"%(bug)s\">Crie um relatório de falha</a> para que possamos garantir que é resolvido. Ajude-nos a identificar e a corrigir erros para "
+"tornar o Thunderbird melhor para todos."
 
 #: website/base-resp.html:24
 msgid "Menu"
@@ -138,7 +146,7 @@ msgstr "Apoio"
 
 #: website/base-resp.html:82
 msgid "Get Involved"
-msgstr ""
+msgstr "Participe"
 
 #: website/base-resp.html:88 website/site-footer.html:17
 msgid "Donate"
