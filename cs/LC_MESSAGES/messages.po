@@ -2,14 +2,14 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-03 00:16-0700\n"
-"PO-Revision-Date: 2018-04-22 12:45+0000\n"
-"Last-Translator: Michal Stanke <mstanke@mozilla.cz>\n"
+"PO-Revision-Date: 2018-08-12 13:22+0000\n"
+"Last-Translator: Filip Hruška <fhr@fhrnet.eu>\n"
 "Language-Team: none\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -28,33 +28,31 @@ msgid "Why we need donations"
 msgstr "Proč potřebujeme příspěvky"
 
 #: start-page/release/index.html:18
-#, fuzzy
 msgid "Thunderbird is no longer funded by Mozilla. Fortunately there is an active community keeping it running and developing it further. But to survive long term, the project needs funding."
 msgstr ""
-"Možná víte, že Mozilla nadále vývoj Thunderbirdu finančně nezaštiťuje. Naštěstí je okolo Thunderbirdu aktivní komunita, která na jeho vývoji stále pracuje. Ale i přesto bude Thunderbird pro "
-"dlouhodobé přežití nějaké prostředky potřebovat."
+"Vývoj Thunderbird není nadále přímo zajišťován Mozillou. Naštěstí je okolo Thunderbirdu aktivní komunita, která na jeho vývoji pořád pracuje. I tak bude Thunderbird pro dlouhodobé přežití nějaké "
+"prostředky potřebovat."
 
 #: start-page/release/index.html:21
-#, fuzzy
 msgid ""
 "Thunderbird’s funding goes toward the significant infrastructure and staff that must be maintained to deliver the application to our tens of millions of users. For Thunderbird to survive and "
 "continue to evolve, we need your support and ask for your donation today. All the money donated will go directly to funding Thunderbird development and infrastructure."
 msgstr ""
-"Thunderbird je nyní ve fázi přesunu pod nezávislou organizaci. Chceme-li na něm pracovat opravdu nezávisle, potřebujeme nezanedbatelnou infrastrukturu, která nám umožní distribuci desítkám milionů "
-"uživatelů. Pro přežití Thunderbirdu a jeho další vývoj potřebujeme vaši podporu a pomoc. Proto vás dnes prosíme o příspěvek. Všechny darované peníze půjdou přímo na financování vývoje a "
-"infrastruktury Thunderbirdu."
+"Náklady Thunderbirdu jsou nezanedbatelné hlavně v oblasti infrastruktury, která nám umožňuje distribuci desítkám milionů uživatelů. Pro přežití Thunderbirdu a jeho další vývoj potřebujeme vaši "
+"podporu a pomoc. Proto vás dnes prosíme o příspěvek. Všechny darované peníze půjdou přímo na financování vývoje a infrastruktury Thunderbirdu."
 
 #: start-page/release/index.html:27
-#, fuzzy, python-format
+#, python-format
 msgid "<a href=\"%(donate)s\">Donate to Thunderbird</a>"
-msgstr "Přispějte Thunderbirdu"
+msgstr "<a href=\"%(donate)s\">Přispějte Thunderbirdu</a>"
 
 #: start-page/release/index.html:28
-#, fuzzy
 msgid ""
 "Thunderbird is the leading open source, cross-platform and calendaring client, free for business and personal use. We want it to stay secure and become even better. A donation will allow us to hire "
 "developers, pay for infrastructure, and continue to improve."
-msgstr "Thunderbird je hlavní otevřený a multiplatformní e-mailový klient, který je zdarma pro osobní použití i pro firmy. Chceme, aby zůstal i nadále bezpečný a stále se zlepšoval."
+msgstr ""
+"Thunderbird je hlavní otevřený a multiplatformní e-mailový klient, který je zdarma pro osobní použití i pro firmy. Chceme, aby zůstal i nadále bezpečný a stále se zlepšoval. I díky vašim příspěvkům "
+"máme na platy vývojářů, údržbu infrastruktury a další vylepšování."
 
 #: start-page/release/index.html:29
 #, python-format
@@ -66,7 +64,7 @@ msgstr ""
 #: start-page/release/index.html:32
 #, python-format
 msgid "<a href=\"%(contribute)s\">Get Involved</a>"
-msgstr ""
+msgstr "<a href=\"%(contribute)s\">Zapojit se</a>"
 
 #: start-page/release/index.html:33
 #, python-format
@@ -78,7 +76,7 @@ msgstr ""
 #: start-page/release/index.html:38
 #, python-format
 msgid "<a href=\"%(support)s\">Get Support</a>"
-msgstr ""
+msgstr "<a href=\"%(support)s\">Získat podporu</a>"
 
 #: start-page/release/index.html:39
 #, python-format
@@ -88,7 +86,7 @@ msgstr ""
 #: start-page/release/index.html:42
 #, python-format
 msgid "<a href=\"%(bug)s\">Report a Bug</a>"
-msgstr ""
+msgstr "<a href=\"%(bug)s\">Nahlásit chybu</a>"
 
 #: start-page/release/index.html:43
 #, python-format
@@ -140,7 +138,7 @@ msgstr "Podpora"
 
 #: website/base-resp.html:82
 msgid "Get Involved"
-msgstr ""
+msgstr "Zapojte se"
 
 #: website/base-resp.html:88 website/site-footer.html:17
 msgid "Donate"
