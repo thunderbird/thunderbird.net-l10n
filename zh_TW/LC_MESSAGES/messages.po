@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-08-03 00:16-0700\n"
+"POT-Creation-Date: 2018-08-16 16:47-0700\n"
 "PO-Revision-Date: 2018-08-03 07:43+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language-Team: none\n"
@@ -93,8 +93,8 @@ msgstr "覺得找到某個 Thunderbird 的問題嗎？<a href=\"%(bug)s\">請回
 msgid "Menu"
 msgstr "選單"
 
-#: website/base-resp.html:26 website/index.html:7 website/index.html:14 website/index.html:26 website/index.html:40 website/index.html:59 website/site-footer.html:31
-#: website/thunderbird/releases/index.html:18
+#: website/base-resp.html:26 website/download/index.html:7 website/download/index.html:14 website/download/index.html:26 website/download/index.html:36 website/download/index.html:55
+#: website/index.html:7 website/index.html:14 website/index.html:26 website/index.html:40 website/index.html:59 website/site-footer.html:31 website/thunderbird/releases/index.html:18
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
@@ -138,7 +138,7 @@ msgstr "參與我們"
 msgid "Donate"
 msgstr "捐款支持"
 
-#: website/download-button.html:7 website/download-button.html:48
+#: website/download-button.html:7 website/download-button.html:51 website/download/index.html:8
 msgid "Download Thunderbird"
 msgstr "下載 Thunderbird"
 
@@ -152,23 +152,23 @@ msgstr "您的系統不符合執行 Thunderbird 的<a href=\"%(url)s\">最低需
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
 msgstr "請依照<a href=\"%(url)s\">下列步驟</a>安裝 Thunderbird。"
 
-#: website/download-button.html:44
+#: website/download-button.html:47
 msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
-#: website/download-button.html:46
+#: website/download-button.html:49
 msgid "<span>Thunderbird</span> Earlybird"
 msgstr "<span>Thunderbird</span> Earlybird"
 
-#: website/download-button.html:57
+#: website/download-button.html:60
 msgid "Systems &amp; Languages"
 msgstr "其他系統與語言"
 
-#: website/download-button.html:59
+#: website/download-button.html:62
 msgid "What’s New"
 msgstr "新鮮事"
 
-#: website/download-button.html:61 website/site-footer.html:22
+#: website/download-button.html:64 website/site-footer.html:22
 msgid "Privacy"
 msgstr "隱私權"
 
@@ -180,7 +180,7 @@ msgstr "讓收發電子郵件變得更簡單的軟體。"
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
 msgstr "Thunderbird 是可以讓您簡單設定與自訂的一套免費電子郵件軟體 - 裡面有超多超棒的功能！"
 
-#: website/index.html:30
+#: website/download/index.html:29 website/index.html:30
 msgid "Free Download"
 msgstr "免費下載"
 
@@ -188,7 +188,7 @@ msgstr "免費下載"
 msgid "Thunderbird screenshot"
 msgstr "Thunderbird 畫面擷圖"
 
-#: website/index.html:45 website/index.html:65
+#: website/download/index.html:41 website/download/index.html:61 website/index.html:45 website/index.html:65
 msgid "Mozilla"
 msgstr "Mozilla"
 
@@ -261,6 +261,10 @@ msgstr "在更穩定的環境中體驗最新功能"
 #: website/channel/index.html:31
 msgid "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Provide feedback</a> to help refine and polish what will be in the final release"
 msgstr "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">提供意見回饋</a>，幫助我們對最終發行版本中的功能做更細微的修改與調整"
+
+#: website/download/index.html:9
+msgid "Your download should begin automatically. Didn’t work? Try the button below!"
+msgstr ""
 
 #: website/features/index.html:7
 msgid "Thunderbird Features"

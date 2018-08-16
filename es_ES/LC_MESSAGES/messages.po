@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-08-03 00:16-0700\n"
+"POT-Creation-Date: 2018-08-16 16:47-0700\n"
 "PO-Revision-Date: 2018-04-22 16:31+0000\n"
 "Last-Translator: avelper <avelper@mozilla-hispano.org>\n"
 "Language-Team: none\n"
@@ -102,8 +102,8 @@ msgstr ""
 msgid "Menu"
 msgstr "Menú"
 
-#: website/base-resp.html:26 website/index.html:7 website/index.html:14 website/index.html:26 website/index.html:40 website/index.html:59 website/site-footer.html:31
-#: website/thunderbird/releases/index.html:18
+#: website/base-resp.html:26 website/download/index.html:7 website/download/index.html:14 website/download/index.html:26 website/download/index.html:36 website/download/index.html:55
+#: website/index.html:7 website/index.html:14 website/index.html:26 website/index.html:40 website/index.html:59 website/site-footer.html:31 website/thunderbird/releases/index.html:18
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
@@ -147,7 +147,7 @@ msgstr ""
 msgid "Donate"
 msgstr "Donar"
 
-#: website/download-button.html:7 website/download-button.html:48
+#: website/download-button.html:7 website/download-button.html:51 website/download/index.html:8
 msgid "Download Thunderbird"
 msgstr "Descargar Thunderbird"
 
@@ -161,23 +161,23 @@ msgstr "Tu sistema no cumple con los <a href=\"%(url)s\">requisitos</a> necesari
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
 msgstr "Para instalar Thunderbird, <a href=\"%(url)s\">sigue estas instrucciones</a>."
 
-#: website/download-button.html:44
+#: website/download-button.html:47
 msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
-#: website/download-button.html:46
+#: website/download-button.html:49
 msgid "<span>Thunderbird</span> Earlybird"
 msgstr "<span>Thunderbird</span> Earlybird"
 
-#: website/download-button.html:57
+#: website/download-button.html:60
 msgid "Systems &amp; Languages"
 msgstr "Sistemas e idiomas"
 
-#: website/download-button.html:59
+#: website/download-button.html:62
 msgid "What’s New"
 msgstr "Novedades"
 
-#: website/download-button.html:61 website/site-footer.html:22
+#: website/download-button.html:64 website/site-footer.html:22
 msgid "Privacy"
 msgstr "Privacidad"
 
@@ -189,7 +189,7 @@ msgstr "Software diseñado para hacer el correo más fácil."
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
 msgstr "Thunderbird es una aplicación de correo gratuita fácil de configurar y personalizar, ¡y con muchas características geniales!"
 
-#: website/index.html:30
+#: website/download/index.html:29 website/index.html:30
 msgid "Free Download"
 msgstr "Descarga gratuita"
 
@@ -197,7 +197,7 @@ msgstr "Descarga gratuita"
 msgid "Thunderbird screenshot"
 msgstr "Captura de pantalla de Thunderbird"
 
-#: website/index.html:45 website/index.html:65
+#: website/download/index.html:41 website/download/index.html:61 website/index.html:45 website/index.html:65
 msgid "Mozilla"
 msgstr "Mozilla"
 
@@ -273,6 +273,10 @@ msgstr "Experimenta funciones a la vanguardia y con mayor estabilidad"
 #: website/channel/index.html:31
 msgid "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Provide feedback</a> to help refine and polish what will be in the final release"
 msgstr "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Envíanos sugerencias</a> que nos ayuden a refinar y pulir la versión final"
+
+#: website/download/index.html:9
+msgid "Your download should begin automatically. Didn’t work? Try the button below!"
+msgstr ""
 
 #: website/features/index.html:7
 msgid "Thunderbird Features"

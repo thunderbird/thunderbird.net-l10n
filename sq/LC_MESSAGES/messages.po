@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-08-03 00:16-0700\n"
+"POT-Creation-Date: 2018-08-16 16:47-0700\n"
 "PO-Revision-Date: 2018-05-08 11:13+0000\n"
 "Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
 "Language-Team: none\n"
@@ -103,8 +103,8 @@ msgstr ""
 msgid "Menu"
 msgstr "Menu"
 
-#: website/base-resp.html:26 website/index.html:7 website/index.html:14 website/index.html:26 website/index.html:40 website/index.html:59 website/site-footer.html:31
-#: website/thunderbird/releases/index.html:18
+#: website/base-resp.html:26 website/download/index.html:7 website/download/index.html:14 website/download/index.html:26 website/download/index.html:36 website/download/index.html:55
+#: website/index.html:7 website/index.html:14 website/index.html:26 website/index.html:40 website/index.html:59 website/site-footer.html:31 website/thunderbird/releases/index.html:18
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
@@ -148,7 +148,7 @@ msgstr ""
 msgid "Donate"
 msgstr "Dhuroni"
 
-#: website/download-button.html:7 website/download-button.html:48
+#: website/download-button.html:7 website/download-button.html:51 website/download/index.html:8
 msgid "Download Thunderbird"
 msgstr "Shkarkoni Thunderbird-in"
 
@@ -162,23 +162,23 @@ msgstr "Sistemi juaj s’i plotëson <a href=\"%(url)s\">domosdoshmëritë</a> p
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
 msgstr "Ju lutemi, ndiqni <a href=\"%(url)s\">këto udhëzime</a> për të instaluar Thunderbird-in."
 
-#: website/download-button.html:44
+#: website/download-button.html:47
 msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
-#: website/download-button.html:46
+#: website/download-button.html:49
 msgid "<span>Thunderbird</span> Earlybird"
 msgstr "<span>Thunderbird</span> Earlybird"
 
-#: website/download-button.html:57
+#: website/download-button.html:60
 msgid "Systems &amp; Languages"
 msgstr "Sisteme &amp; Gjuhë"
 
-#: website/download-button.html:59
+#: website/download-button.html:62
 msgid "What’s New"
 msgstr "Ç’ka të Re"
 
-#: website/download-button.html:61 website/site-footer.html:22
+#: website/download-button.html:64 website/site-footer.html:22
 msgid "Privacy"
 msgstr "Privatësi"
 
@@ -190,7 +190,7 @@ msgstr "Software i krijuar për ta bërë email-in më të lehtë."
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
 msgstr "Thunderbird-i është një aplikacion i lirë për email-e, që është e lehtë ta rregullosh dhe ta personalizosh - dhe vjen me veçori të fuqishme gati!"
 
-#: website/index.html:30
+#: website/download/index.html:29 website/index.html:30
 msgid "Free Download"
 msgstr "Shkarkim Falas"
 
@@ -198,7 +198,7 @@ msgstr "Shkarkim Falas"
 msgid "Thunderbird screenshot"
 msgstr "Foto ekrani nga Thunderbird-i"
 
-#: website/index.html:45 website/index.html:65
+#: website/download/index.html:41 website/download/index.html:61 website/index.html:45 website/index.html:65
 msgid "Mozilla"
 msgstr "Mozilla"
 
@@ -273,6 +273,10 @@ msgstr "Provoni, me më tepër qëndrueshmëri, veçori të fjalës së fundit"
 #: website/channel/index.html:31
 msgid "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Provide feedback</a> to help refine and polish what will be in the final release"
 msgstr "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Jepni përshtypjet</a> që të ndihmoni të rafinohen dhe lustrohen ato gjëra që do të jenë pjesë e hedhjes përfundimtare në qarkullim"
+
+#: website/download/index.html:9
+msgid "Your download should begin automatically. Didn’t work? Try the button below!"
+msgstr ""
 
 #: website/features/index.html:7
 msgid "Thunderbird Features"

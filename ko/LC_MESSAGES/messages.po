@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-08-03 00:16-0700\n"
+"POT-Creation-Date: 2018-08-16 16:47-0700\n"
 "PO-Revision-Date: 2018-05-15 17:13+0000\n"
 "Last-Translator: Jinkyu Yi <jincreator@jincreator.net>\n"
 "Language-Team: none\n"
@@ -98,8 +98,8 @@ msgstr ""
 msgid "Menu"
 msgstr "메뉴"
 
-#: website/base-resp.html:26 website/index.html:7 website/index.html:14 website/index.html:26 website/index.html:40 website/index.html:59 website/site-footer.html:31
-#: website/thunderbird/releases/index.html:18
+#: website/base-resp.html:26 website/download/index.html:7 website/download/index.html:14 website/download/index.html:26 website/download/index.html:36 website/download/index.html:55
+#: website/index.html:7 website/index.html:14 website/index.html:26 website/index.html:40 website/index.html:59 website/site-footer.html:31 website/thunderbird/releases/index.html:18
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
@@ -143,7 +143,7 @@ msgstr ""
 msgid "Donate"
 msgstr "기부하기"
 
-#: website/download-button.html:7 website/download-button.html:48
+#: website/download-button.html:7 website/download-button.html:51 website/download/index.html:8
 msgid "Download Thunderbird"
 msgstr "Thunderbird 다운로드"
 
@@ -157,23 +157,23 @@ msgstr ""
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
 msgstr ""
 
-#: website/download-button.html:44
+#: website/download-button.html:47
 msgid "Thunderbird Beta"
 msgstr "Thunderbird 베타"
 
-#: website/download-button.html:46
+#: website/download-button.html:49
 msgid "<span>Thunderbird</span> Earlybird"
 msgstr "<span>Thunderbird</span> 얼리버드"
 
-#: website/download-button.html:57
+#: website/download-button.html:60
 msgid "Systems &amp; Languages"
 msgstr "시스템 &amp; 언어선택"
 
-#: website/download-button.html:59
+#: website/download-button.html:62
 msgid "What’s New"
 msgstr "새로운 기능"
 
-#: website/download-button.html:61 website/site-footer.html:22
+#: website/download-button.html:64 website/site-footer.html:22
 msgid "Privacy"
 msgstr "개인 정보 정책"
 
@@ -185,7 +185,7 @@ msgstr "메일을 더 쉽게 사용하세요"
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
 msgstr "Thunderbird는 메일을 더 쉽게 사용할 수 있는 무료 프로그램입니다. 더 많은 기능을 만나보세요!"
 
-#: website/index.html:30
+#: website/download/index.html:29 website/index.html:30
 msgid "Free Download"
 msgstr "무료 다운로드"
 
@@ -193,7 +193,7 @@ msgstr "무료 다운로드"
 msgid "Thunderbird screenshot"
 msgstr ""
 
-#: website/index.html:45 website/index.html:65
+#: website/download/index.html:41 website/download/index.html:61 website/index.html:45 website/index.html:65
 msgid "Mozilla"
 msgstr "Mozilla"
 
@@ -270,6 +270,10 @@ msgstr "최신 기능을 더 안정된 상태에서 체험 할 수 있습니다.
 #, fuzzy
 msgid "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Provide feedback</a> to help refine and polish what will be in the final release"
 msgstr "정식 공개를 위한 프로그램 안정성을 높히기 위한 피드백을 제공해 주세요."
+
+#: website/download/index.html:9
+msgid "Your download should begin automatically. Didn’t work? Try the button below!"
+msgstr ""
 
 #: website/features/index.html:7
 msgid "Thunderbird Features"

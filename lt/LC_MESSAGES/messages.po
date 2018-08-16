@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-08-03 00:16-0700\n"
+"POT-Creation-Date: 2018-08-16 16:47-0700\n"
 "PO-Revision-Date: 2018-07-04 17:17+0000\n"
 "Last-Translator: Rimas Kudelis <rimas@mozilla.lt>\n"
 "Language-Team: none\n"
@@ -103,8 +103,8 @@ msgstr ""
 msgid "Menu"
 msgstr "Meniu"
 
-#: website/base-resp.html:26 website/index.html:7 website/index.html:14 website/index.html:26 website/index.html:40 website/index.html:59 website/site-footer.html:31
-#: website/thunderbird/releases/index.html:18
+#: website/base-resp.html:26 website/download/index.html:7 website/download/index.html:14 website/download/index.html:26 website/download/index.html:36 website/download/index.html:55
+#: website/index.html:7 website/index.html:14 website/index.html:26 website/index.html:40 website/index.html:59 website/site-footer.html:31 website/thunderbird/releases/index.html:18
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
@@ -148,7 +148,7 @@ msgstr ""
 msgid "Donate"
 msgstr "Paaukokite"
 
-#: website/download-button.html:7 website/download-button.html:48
+#: website/download-button.html:7 website/download-button.html:51 website/download/index.html:8
 msgid "Download Thunderbird"
 msgstr "Parsisiųsti „Thunderbird“"
 
@@ -162,23 +162,23 @@ msgstr "Jūsų naudojama sistema netenkina minimalių <a href=\"%(url)s\">„Thu
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
 msgstr "Kad įdiegtumėte „Thunderbird“, vadovaukitės <a href=\"%(url)s\">šiomis instrukcijomis</a>."
 
-#: website/download-button.html:44
+#: website/download-button.html:47
 msgid "Thunderbird Beta"
 msgstr "Thunderbird beta"
 
-#: website/download-button.html:46
+#: website/download-button.html:49
 msgid "<span>Thunderbird</span> Earlybird"
 msgstr "<span>Thunderbird</span> Earlybird"
 
-#: website/download-button.html:57
+#: website/download-button.html:60
 msgid "Systems &amp; Languages"
 msgstr "Operacinės sistemos ir kalbos"
 
-#: website/download-button.html:59
+#: website/download-button.html:62
 msgid "What’s New"
 msgstr "Naujovės"
 
-#: website/download-button.html:61 website/site-footer.html:22
+#: website/download-button.html:64 website/site-footer.html:22
 msgid "Privacy"
 msgstr "Privatumas"
 
@@ -190,7 +190,7 @@ msgstr "Programa, palengvinsianti darbą su el. paštu."
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
 msgstr "„Thunderbird“ – tai ypač paprastai paruošiama darbui ir individualizuojama laisvoji elektroninio pašto programa, pasižyminti puikiomis savybėmis."
 
-#: website/index.html:30
+#: website/download/index.html:29 website/index.html:30
 msgid "Free Download"
 msgstr "Parsisiųskite"
 
@@ -198,7 +198,7 @@ msgstr "Parsisiųskite"
 msgid "Thunderbird screenshot"
 msgstr "„Thunderbird“ ekrano nuotrauka"
 
-#: website/index.html:45 website/index.html:65
+#: website/download/index.html:41 website/download/index.html:61 website/index.html:45 website/index.html:65
 msgid "Mozilla"
 msgstr "Mozilla"
 
@@ -273,6 +273,10 @@ msgstr "Išbandykite naujoves, neprarasdami programos stabilumo"
 #: website/channel/index.html:31
 msgid "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Provide feedback</a> to help refine and polish what will be in the final release"
 msgstr "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Teikite atsiliepimus</a> ir padėkite nušlifuoti tai, kas pateks į galutinę laidą"
+
+#: website/download/index.html:9
+msgid "Your download should begin automatically. Didn’t work? Try the button below!"
+msgstr ""
 
 #: website/features/index.html:7
 msgid "Thunderbird Features"
