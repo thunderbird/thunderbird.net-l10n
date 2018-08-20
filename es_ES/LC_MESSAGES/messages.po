@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-16 16:47-0700\n"
-"PO-Revision-Date: 2018-08-06 00:07+0000\n"
-"Last-Translator: Jordi Cuevas <jordicuevas@gmail.com>\n"
+"PO-Revision-Date: 2018-08-20 21:40+0000\n"
+"Last-Translator: RickieES <rpmdisguise-nave@yahoo.es>\n"
 "Language-Team: none\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
@@ -34,27 +34,26 @@ msgstr ""
 "necesita financiación."
 
 #: start-page/release/index.html:21
-#, fuzzy
 msgid ""
 "Thunderbird’s funding goes toward the significant infrastructure and staff that must be maintained to deliver the application to our tens of millions of users. For Thunderbird to survive and "
 "continue to evolve, we need your support and ask for your donation today. All the money donated will go directly to funding Thunderbird development and infrastructure."
 msgstr ""
-"Thunderbird está en proceso de transición a una organización independiente. De esta forma, podemos elegir nuestro destino, pero tenemos que mantener una cierta infraestructura para que la aplicación"
-" llegue a decenas de millones de usuarios. Para que Thunderbird sobreviva y siga evolucionando, necesitamos tu ayuda y te pedimos que hagas una donación. Todo el dinero recibido se utilizará para "
-"financiar el desarrollo y la infraestructura de Thunderbird."
+"Las aportaciones a Thunderbird se destinan a la significativa infraestructura y personal que son necesarios para distribuir la aplicación a nuestras decenas de millones de usuarios. Para que "
+"Thunderbird sobreviva y continúe evolucionando, necesitamos su ayuda y le solicitamos su donación. Todo el dinero donado irá destinado directamente a financiar el desarrollo y la infraestructura de "
+"Thunderbird."
 
 #: start-page/release/index.html:27
-#, fuzzy, python-format
+#, python-format
 msgid "<a href=\"%(donate)s\">Donate to Thunderbird</a>"
-msgstr "Dona a Thunderbird"
+msgstr "<a href=\"%(donate)s\">Dona a Thunderbird</a>"
 
 #: start-page/release/index.html:28
-#, fuzzy
 msgid ""
 "Thunderbird is the leading open source, cross-platform and calendaring client, free for business and personal use. We want it to stay secure and become even better. A donation will allow us to hire "
 "developers, pay for infrastructure, and continue to improve."
 msgstr ""
-"Thunderbird es el cliente líder de correo multiplataforma, calendarios y código abierto, gratuito tanto para uso corporativo como personal. Queremos que siga siendo seguro y que vaya mejorando."
+"Thunderbird es el cliente de correo, calendarios de código abierto y multiplataforma líder, gratuito tanto para uso corporativo como personal. Queremos que siga siendo seguro y que vaya mejorando. "
+"Una donación nos permitirá contratar desarrolladores, pagar la infraestructura y continuar mejorando."
 
 #: start-page/release/index.html:29
 #, python-format
@@ -62,11 +61,13 @@ msgid ""
 "<strong>Thunderbird is funded by users like you! If you like Thunderbird, please consider making a donation.</strong> The best way for you to ensure Thunderbird remains available is to <a "
 "class=\"more\" href=\"%(donate)s\">make a donation.</a>"
 msgstr ""
+"<strong>¡Thunderbird está financiado por usuarios como tú! Si te gusta Thunderbird, por favor, considera hacer una donación.</strong> La mejor manera de asegurar que Thunderbird permanezca "
+"disponible es <a class=\"more\" href=\"%(donate)s\">haciendo una donación.</a>"
 
 #: start-page/release/index.html:32
 #, python-format
 msgid "<a href=\"%(contribute)s\">Get Involved</a>"
-msgstr ""
+msgstr "<a href=\"%(contribute)s\">Participa</a>"
 
 #: start-page/release/index.html:33
 #, python-format
@@ -74,21 +75,24 @@ msgid ""
 "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users. Become part of a team that supports Thunderbird users, and makes "
 "Thunderbird awesome. <a class=\"more\" href=\"%(contribute)s\">Join us</a>"
 msgstr ""
+"Thunderbird es un proyecto de código abierto, lo que significa que cualquiera puede aportar ideas, diseños, código y tiempo ayudando a otros usuarios. Forma parte de un equipo que ayuda a los "
+"usuarios de Thunderbird y hace que sea increíble. <a class=\"more\" href=\"%(contribute)s\">Únete a nosotros </a>"
 
 #: start-page/release/index.html:38
 #, python-format
 msgid "<a href=\"%(support)s\">Get Support</a>"
-msgstr ""
+msgstr "<a href=\"%(support)s\">Obtener asistencia</a>"
 
 #: start-page/release/index.html:39
 #, python-format
 msgid "Need help with something in Thunderbird? We have a <a href=\"%(support)s\">support page</a> where you can ask questions and read knowledge base articles to learn how to use Thunderbird."
 msgstr ""
+"¿Necesitas ayuda con Thunderbird? Tenemos una <a href=\"%(support)s\">página de ayuda</a> donde puedes hacer preguntas y leer artículos de la base de conocimiento para aprender a usar Thunderbird."
 
 #: start-page/release/index.html:42
 #, python-format
 msgid "<a href=\"%(bug)s\">Report a Bug</a>"
-msgstr ""
+msgstr "<a href=\"%(bug)s\">Informa de un error </a>"
 
 #: start-page/release/index.html:43
 #, python-format
@@ -96,6 +100,8 @@ msgid ""
 "Think you’ve found a problem with Thunderbird? <a href=\"%(bug)s\">Create a bug report</a> so that we can make sure it gets solved. Helping us identify and fix bugs makes for a better Thunderbird "
 "for all."
 msgstr ""
+"¿Crees que has encontrado un problema con Thunderbird? <a href=\"%(bug)s\">Crea un informe de fallo</a> para que podamos asegurarnos de que se solucione. Ayudarnos a identificar y corregir errores "
+"hace que Thunderbird sea mejor para todos."
 
 #: website/base-resp.html:24
 msgid "Menu"
@@ -140,7 +146,7 @@ msgstr "Ayuda"
 
 #: website/base-resp.html:82
 msgid "Get Involved"
-msgstr ""
+msgstr "Participa"
 
 #: website/base-resp.html:88 website/site-footer.html:17
 msgid "Donate"
@@ -275,7 +281,7 @@ msgstr "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Envíanos s
 
 #: website/download/index.html:9
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
-msgstr ""
+msgstr "Tu descarga debería comenzar automáticamente. ¿No funciona? ¡Prueba el botón de debajo!"
 
 #: website/features/index.html:7
 msgid "Thunderbird Features"
