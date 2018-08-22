@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-20 21:57-0700\n"
-"PO-Revision-Date: 2018-08-22 02:52+0000\n"
+"PO-Revision-Date: 2018-08-22 03:11+0000\n"
 "Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
 "Language-Team: none\n"
 "Language: id\n"
@@ -28,11 +28,10 @@ msgid "Why we need donations"
 msgstr "Alasan kami butuh donasi"
 
 #: start-page/release/index.html:18
-#, fuzzy
 msgid "Thunderbird is no longer funded by Mozilla. Fortunately there is an active community keeping it running and developing it further. But to survive long term, the project needs funding."
 msgstr ""
-"Anda mungkin sudah tahu bahwa peningkatan Thunderbrid tidak lagi dibiayai oleh/untuk Mozilla. Untungnya ada komunitas yang aktif menjaganya tetap berjalan dan mengembangkannya lebih jauh. Tetapi "
-"untuk bertahan dalam jangka panjang, proyek membutuhkan pendanaan."
+"Thunderbrid tidak lagi didanai oleh Mozilla. Untungnya ada komunitas yang aktif menjaganya tetap berjalan dan mengembangkannya lebih jauh. Namun, proyek ini butuh pendanaan untuk bertahan dalam "
+"jangka panjang."
 
 #: start-page/release/index.html:21
 #, fuzzy
@@ -45,18 +44,17 @@ msgstr ""
 "secara langsung membiayai pengembangan dan infrastruktur Thunderbird."
 
 #: start-page/release/index.html:27
-#, fuzzy, python-format
+#, python-format
 msgid "<a href=\"%(donate)s\">Donate to Thunderbird</a>"
-msgstr "Berdonasi ke Thunderbird"
+msgstr "<a href=\"%(donate)s\">Sampaikan donasi ke Thunderbird</a>"
 
 #: start-page/release/index.html:28
-#, fuzzy
 msgid ""
 "Thunderbird is the leading open source, cross-platform email and calendaring client, free for business and personal use. We want it to stay secure and become even better. A donation will allow us to"
 " hire developers, pay for infrastructure, and continue to improve."
 msgstr ""
-"Thunderbird adalah aplikasi klien surel dan kalender lintas platform, sumber terbuka terdepan, gratis untuk penggunaan pribadi dan bisnis. Kami ingin aplikasi ini tetap aman dan menjadi semakin "
-"baik."
+"Thunderbird adalah aplikasi klien surel dan kalender lintas platform sumber terbuka terkemuka yang gratis untuk penggunaan pribadi dan bisnis. Kami ingin aplikasi ini tetap aman dan menjadi semakin "
+"baik. Donasi akan memungkinkan kami mempekerjakan pengembang, membayar prasarana, dan melakukan perbaikan terus-menerus."
 
 #: start-page/release/index.html:29
 #, python-format
@@ -284,7 +282,7 @@ msgstr "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Berikan mas
 
 #: website/download/index.html:9
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
-msgstr ""
+msgstr "Unduhan Anda seharusnya berjalan otomatis. Tidak berfungsi? Coba tombol di bawah ini!"
 
 #: website/features/index.html:7
 msgid "Thunderbird Features"
