@@ -2,14 +2,14 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-20 21:57-0700\n"
-"PO-Revision-Date: 2018-05-26 17:22+0000\n"
-"Last-Translator: Cristian Silaghi <cristian.silaghi@mozilla.ro>\n"
+"PO-Revision-Date: 2018-08-31 14:42+0000\n"
+"Last-Translator: Andrei Costescu <costescuandrei@gmx.com>\n"
 "Language-Team: none\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
@@ -28,34 +28,32 @@ msgid "Why we need donations"
 msgstr "De ce avem nevoie de donații"
 
 #: start-page/release/index.html:18
-#, fuzzy
 msgid "Thunderbird is no longer funded by Mozilla. Fortunately there is an active community keeping it running and developing it further. But to survive long term, the project needs funding."
 msgstr ""
-"S-ar putea să stiți că îmbunătățirile aduse produsului Thunderbird nu mai sunt plătite de Mozilla. Din fericire există o comunitate activă ce îl ține în picioare și continuă să îl dezvolte. Dar, "
-"pentru o supraviețuire de lungă durată, proiectul are nevoie de finanțare."
+"Thunderbird nu mai este sprijinit financiar de Mozilla. Din fericire există o comunitate ce menține proiectul și îl dezvoltă mai departe. Dar pentru a supraviețui pe termen lung proiectul are nevoie"
+" de finanțare."
 
 #: start-page/release/index.html:21
-#, fuzzy
 msgid ""
 "Thunderbird’s funding goes toward the significant infrastructure and staff that must be maintained to deliver the application to our tens of millions of users. For Thunderbird to survive and "
 "continue to evolve, we need your support and ask for your donation today. All the money donated will go directly to funding Thunderbird development and infrastructure."
 msgstr ""
-"Thunderbird tranziționează în prezent la o organizație independentă. Fiind independenți, ne putem contura propria soartă, dar există o infrastructură semnificativă ce trebuie întreținută pentru a "
-"putea livra aplicația zecilor de milioane de utilizatori ai noștri. Pentru ca Thunderbird să supraviețuiască și să continue să evolueze, avem nevoie de susținerea voastră și vă cerem să donați "
-"astăzi. Toți banii donați vor merge direct la finanțarea infrastructurii și dezvoltării Thunderbird."
+"Fondurile proiectului Thunderbird sunt folosite la infrastructura semnificativă și la plata personalul ce trebuie păstrat pentru a oferi aplicația zecilor de milioane de utilizatori. Pentru ca "
+"Thunderbird să supraviețuiască avem nevoie de sprijinul tău și solicităm o donație de la tine astăzi. Toți banii donați vor merge direct către finanțarea dezvoltării Thunderbird și a "
+"infrastructurii."
 
 #: start-page/release/index.html:27
-#, fuzzy, python-format
+#, python-format
 msgid "<a href=\"%(donate)s\">Donate to Thunderbird</a>"
-msgstr "Donați pentru Thunderbird"
+msgstr "<a href=\"%(donate)s\">Donați pentru Thunderbird</a>"
 
 #: start-page/release/index.html:28
-#, fuzzy
 msgid ""
 "Thunderbird is the leading open source, cross-platform email and calendaring client, free for business and personal use. We want it to stay secure and become even better. A donation will allow us to"
 " hire developers, pay for infrastructure, and continue to improve."
 msgstr ""
-"Thunderbird este clientul principal de mail și calendar cu sursă deschisă și disponibil pe diferite platforme, liber pentru afaceri sau uz personal. Vrem să îl păstrăm sigur și să îl îmbunătățim."
+"Thunderbird e liderul clienților de email și calendar cu sursă deschisă („open source”), multi-platformă, și este gratuit atât pentru firme cât și pentru uz personal. Vrem ca el să rămână sigur și "
+"să devină și mai bun. O donație ne va permite să angajăm programatori, să plătim infrastructura și să continuăm îmbunătățirile."
 
 #: start-page/release/index.html:29
 #, python-format
@@ -63,11 +61,13 @@ msgid ""
 "<strong>Thunderbird is funded by users like you! If you like Thunderbird, please consider making a donation.</strong> The best way for you to ensure Thunderbird remains available is to <a "
 "class=\"more\" href=\"%(donate)s\">make a donation.</a>"
 msgstr ""
+"<strong>Thunderbird este finanțat de utilizatori ca tine! Dacă îți place Thunderbird, ia în considerare să faci o donație.</strong> Cea mai bună cale de a ne asigura că Thunderbird rămâne disponibil"
+" este <a class=\"more\" href=\"%(donate)s\">a face o donație.</a>"
 
 #: start-page/release/index.html:32
 #, python-format
 msgid "<a href=\"%(contribute)s\">Get Involved</a>"
-msgstr ""
+msgstr "<a href=\"%(contribute)s\">Implică-te</a>"
 
 #: start-page/release/index.html:33
 #, python-format
@@ -75,21 +75,25 @@ msgid ""
 "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users. Become part of a team that supports Thunderbird users, and makes "
 "Thunderbird awesome. <a class=\"more\" href=\"%(contribute)s\">Join us</a>"
 msgstr ""
+"Thunderbird este un proiect cu sursă deschisă („open source”), ceea ce înseamnă că oricine poate veni cu idei, concepte, cod și poate investi timp ajutându-i pe ceilalți utilizatori. Alătură-te "
+"echipei care susține utilizatorii Thunderbird și face ca Thunderbird să fie extraordinar. <a class=\"more\" href=\"%(contribute)s\">Înscrie-te în echipa noastră</a>"
 
 #: start-page/release/index.html:38
 #, python-format
 msgid "<a href=\"%(support)s\">Get Support</a>"
-msgstr ""
+msgstr "<a href=\"%(support)s\">Caută sprijin</a>"
 
 #: start-page/release/index.html:39
 #, python-format
 msgid "Need help with something in Thunderbird? We have a <a href=\"%(support)s\">support page</a> where you can ask questions and read knowledge base articles to learn how to use Thunderbird."
 msgstr ""
+"Ai nevoie de ajutor la folosirea Thunderbird? Avem o <a href=\"%(support)s\">pagină de sprijin</a> unde poți pune întrebări și citi articolele din baza de cunoștințe pentru a învăța cum se folosește"
+" Thunderbird."
 
 #: start-page/release/index.html:42
 #, python-format
 msgid "<a href=\"%(bug)s\">Report a Bug</a>"
-msgstr ""
+msgstr "<a href=\"%(bug)s\">Raportează o problemă</a>"
 
 #: start-page/release/index.html:43
 #, python-format
@@ -97,6 +101,8 @@ msgid ""
 "Think you’ve found a problem with Thunderbird? <a href=\"%(bug)s\">Create a bug report</a> so that we can make sure it gets solved. Helping us identify and fix bugs makes for a better Thunderbird "
 "for all."
 msgstr ""
+"Crezi că ai găsit o problemă la Thunderbird? <a href=\"%(bug)s\">Raportează problema</a> astfel încât să ne putem asigura că va fi rezolvată. Ajutorul oferit pentru identificarea problemelor ce vor "
+"fi apoi rezolvate îmbunătățește Thunderbird pentru toată lumea."
 
 #: website/base-resp.html:24
 msgid "Menu"
@@ -141,7 +147,7 @@ msgstr "Suport"
 
 #: website/base-resp.html:82
 msgid "Get Involved"
-msgstr ""
+msgstr "Implică-te"
 
 #: website/base-resp.html:88 website/site-footer.html:17
 msgid "Donate"
@@ -275,7 +281,7 @@ msgstr "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Oferă feed
 
 #: website/download/index.html:9
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
-msgstr ""
+msgstr "Descărcarea ar trebui să înceapă automat. Nu a funcționat? Încearcă butonul de mai jos!"
 
 #: website/features/index.html:7
 msgid "Thunderbird Features"
