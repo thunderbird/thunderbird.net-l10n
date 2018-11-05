@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-20 21:57-0700\n"
-"PO-Revision-Date: 2018-11-03 22:35+0000\n"
+"PO-Revision-Date: 2018-11-05 12:19+0000\n"
 "Last-Translator: Michael “Akerbeltz” Bauer <fios@akerbeltz.org>\n"
 "Language-Team: none\n"
 "Language: gd\n"
@@ -61,11 +61,13 @@ msgid ""
 "<strong>Thunderbird is funded by users like you! If you like Thunderbird, please consider making a donation.</strong> The best way for you to ensure Thunderbird remains available is to <a "
 "class=\"more\" href=\"%(donate)s\">make a donation.</a>"
 msgstr ""
+"<strong>Tha Thunderbird ’ga mhaoineachadh le daoine mar thu fhèin! Ma tha Thunderbird a’ còrdadh riut, nach cum thu taic rinn?</strong> Ma bheir thu <a class=\"more\" "
+"href=\"%(donate)s\">tabhartas</a> dhuinn, sin an dòigh as fhearr airson dèanamh cinnteach gum fanaidh Thunderbird beò."
 
 #: start-page/release/index.html:32
 #, python-format
 msgid "<a href=\"%(contribute)s\">Get Involved</a>"
-msgstr ""
+msgstr "<a href=\"%(contribute)s\">Gabh pàirt</a>"
 
 #: start-page/release/index.html:33
 #, python-format
@@ -77,7 +79,7 @@ msgstr ""
 #: start-page/release/index.html:38
 #, python-format
 msgid "<a href=\"%(support)s\">Get Support</a>"
-msgstr ""
+msgstr "<a href=\"%(support)s\">Faigh taic</a>"
 
 #: start-page/release/index.html:39
 #, python-format
@@ -87,7 +89,7 @@ msgstr ""
 #: start-page/release/index.html:42
 #, python-format
 msgid "<a href=\"%(bug)s\">Report a Bug</a>"
-msgstr ""
+msgstr "<a href=\"%(bug)s\">Dèan aithris air buga</a>"
 
 #: start-page/release/index.html:43
 #, python-format
@@ -119,11 +121,11 @@ msgstr "Sgaoilidhean"
 
 #: website/base-resp.html:46
 msgid "Calendar Add-on"
-msgstr ""
+msgstr "Tuilleadan a’ mhìosachain"
 
 #: website/base-resp.html:52
 msgid "Thunderbird for Organizations"
-msgstr ""
+msgstr "Thunderbird do bhuidhnean"
 
 #: website/base-resp.html:59 website/base-resp.html:64
 msgid "Add-ons"
@@ -139,7 +141,7 @@ msgstr "Taic"
 
 #: website/base-resp.html:82
 msgid "Get Involved"
-msgstr ""
+msgstr "Gabh pàirt"
 
 #: website/base-resp.html:88 website/site-footer.html:17
 msgid "Donate"
@@ -147,25 +149,25 @@ msgstr "Thoir tabhartas"
 
 #: website/download-button.html:7 website/download-button.html:51 website/download/index.html:8
 msgid "Download Thunderbird"
-msgstr ""
+msgstr "Luchdaich a-nuas Thunderbird"
 
 #: website/download-button.html:28
 #, python-format
 msgid "Your system doesn't meet the <a href=\"%(url)s\">requirements</a> to run Thunderbird."
-msgstr ""
+msgstr "Chan eil <a href=\"%(url)s\">comasan</a> gu leòr aig an t-siostam agad 's chan urrainn dha Thunderbird a ruith."
 
 #: website/download-button.html:31
 #, python-format
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
-msgstr ""
+msgstr "Lean ris <a href=\"%(url)s\">an stiùireadh seo</a> gus Thunderbird a stàladh."
 
 #: website/download-button.html:47
 msgid "Thunderbird Beta"
-msgstr ""
+msgstr "Thunderbird Beta"
 
 #: website/download-button.html:49
 msgid "<span>Thunderbird</span> Earlybird"
-msgstr ""
+msgstr "<span>Thunderbird</span> Earlybird"
 
 #: website/download-button.html:60
 msgid "Systems &amp; Languages"
@@ -193,11 +195,11 @@ msgstr "Luchdadh a-nuas an-asgaidh"
 
 #: website/index.html:35
 msgid "Thunderbird screenshot"
-msgstr ""
+msgstr "Glacadh-sgrìn Thunderbird"
 
 #: website/download/index.html:41 website/download/index.html:61 website/index.html:45 website/index.html:65
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: website/lang_switcher.html:10
 msgid "Page language:"
@@ -209,7 +211,7 @@ msgstr "Cànain eile:"
 
 #: website/lang_switcher.html:23
 msgid "Go"
-msgstr ""
+msgstr "Siuthad"
 
 #: website/site-footer.html:6
 #, python-format
