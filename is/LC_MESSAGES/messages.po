@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-20 21:57-0700\n"
-"PO-Revision-Date: 2018-09-26 19:11+0000\n"
-"Last-Translator: jerdmann24 <jerdmann24@hotmail.com>\n"
+"PO-Revision-Date: 2018-11-09 21:10+0000\n"
+"Last-Translator: Kristján Geir Mathiesen <k@kasma.is>\n"
 "Language-Team: none\n"
 "Language: is\n"
 "MIME-Version: 1.0\n"
@@ -64,11 +64,13 @@ msgid ""
 "<strong>Thunderbird is funded by users like you! If you like Thunderbird, please consider making a donation.</strong> The best way for you to ensure Thunderbird remains available is to <a "
 "class=\"more\" href=\"%(donate)s\">make a donation.</a>"
 msgstr ""
+"<strong>Thunderbird er styrkt af notendum eins og þér! Ef þér líkar við Thunderbird skaltu íhuga að leggja þitt af mörkunum.</strong> Besta leiðin fyrir þig til að tryggja að Thunderbird sé í boði "
+"er að <a class=\"more\" href=\"%(donate)s\">styrkja með framlagi.</a>"
 
 #: start-page/release/index.html:32
 #, python-format
 msgid "<a href=\"%(contribute)s\">Get Involved</a>"
-msgstr ""
+msgstr "<a href=\"%(contribute)s\">Taka þátt</a>"
 
 #: start-page/release/index.html:33
 #, python-format
@@ -76,11 +78,13 @@ msgid ""
 "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users. Become part of a team that supports Thunderbird users, and makes "
 "Thunderbird awesome. <a class=\"more\" href=\"%(contribute)s\">Join us</a>"
 msgstr ""
+"Thunderbird er opið verkefni, sem þýðir að allir geta lagt fram hugmyndir, hönnun, kóða og tíma sem hjálpar öðrum notendum. Vertu hluti af hópi sem styður Thunderbird notendur og gerir Thunderbird "
+"frábæran. <a class=\"more\" href=\"%(contribute)s\">Gakktu til liðs við okkur</a>"
 
 #: start-page/release/index.html:38
 #, python-format
 msgid "<a href=\"%(support)s\">Get Support</a>"
-msgstr ""
+msgstr "<a href=\"%(support)s\">Fáðu aðstoð</a>"
 
 #: start-page/release/index.html:39
 #, python-format
@@ -90,7 +94,7 @@ msgstr ""
 #: start-page/release/index.html:42
 #, python-format
 msgid "<a href=\"%(bug)s\">Report a Bug</a>"
-msgstr ""
+msgstr "<a href=\"%(bug)s\">Tilkynna villu</a>"
 
 #: start-page/release/index.html:43
 #, python-format
@@ -106,11 +110,11 @@ msgstr "Valmynd"
 #: website/base-resp.html:26 website/download/index.html:7 website/download/index.html:14 website/download/index.html:26 website/download/index.html:36 website/download/index.html:55
 #: website/index.html:7 website/index.html:14 website/index.html:26 website/index.html:40 website/index.html:59 website/site-footer.html:31 website/thunderbird/releases/index.html:18
 msgid "Thunderbird"
-msgstr ""
+msgstr "Thunderbird"
 
 #: website/base-resp.html:30
 msgid "Beta"
-msgstr ""
+msgstr "Prófunarútgáfa"
 
 #: website/base-resp.html:35
 msgid "Features"
@@ -122,11 +126,11 @@ msgstr "Útgáfur"
 
 #: website/base-resp.html:46
 msgid "Calendar Add-on"
-msgstr ""
+msgstr "Dagatals viðbót"
 
 #: website/base-resp.html:52
 msgid "Thunderbird for Organizations"
-msgstr ""
+msgstr "Thunderbird fyrir samtök"
 
 #: website/base-resp.html:59 website/base-resp.html:64
 msgid "Add-ons"
@@ -142,7 +146,7 @@ msgstr "Aðstoð"
 
 #: website/base-resp.html:82
 msgid "Get Involved"
-msgstr ""
+msgstr "Taka þátt"
 
 #: website/base-resp.html:88 website/site-footer.html:17
 msgid "Donate"
@@ -150,7 +154,7 @@ msgstr "Gefa pening"
 
 #: website/download-button.html:7 website/download-button.html:51 website/download/index.html:8
 msgid "Download Thunderbird"
-msgstr ""
+msgstr "Hlaða niður Thunderbird"
 
 #: website/download-button.html:28
 #, python-format
@@ -160,15 +164,15 @@ msgstr ""
 #: website/download-button.html:31
 #, python-format
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
-msgstr ""
+msgstr "Fylgdu <a href=\"%(url)s\">þessum leiðbeiningum</a> til að setja upp Thunderbird."
 
 #: website/download-button.html:47
 msgid "Thunderbird Beta"
-msgstr ""
+msgstr "Thunderbird prófunarútgáfa"
 
 #: website/download-button.html:49
 msgid "<span>Thunderbird</span> Earlybird"
-msgstr ""
+msgstr "<span>Thunderbird</span> Earlybird"
 
 #: website/download-button.html:60
 msgid "Systems &amp; Languages"
@@ -196,11 +200,11 @@ msgstr "Ókeypis niðurhal"
 
 #: website/index.html:35
 msgid "Thunderbird screenshot"
-msgstr ""
+msgstr "Thunderbird skjámynd"
 
 #: website/download/index.html:41 website/download/index.html:61 website/index.html:45 website/index.html:65
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: website/lang_switcher.html:10
 msgid "Page language:"
@@ -212,7 +216,7 @@ msgstr "Önnur tungumál:"
 
 #: website/lang_switcher.html:23
 msgid "Go"
-msgstr ""
+msgstr "Áfram"
 
 #: website/site-footer.html:6
 #, python-format
@@ -513,7 +517,7 @@ msgstr ""
 
 #: website/thunderbird/all/index.html:10
 msgid "Download Thunderbird in your language"
-msgstr ""
+msgstr "Hlaða niður Thunderbird á þínu tungumáli"
 
 #: website/thunderbird/all/index.html:15 website/thunderbird/beta/all/index.html:15
 msgid "Be one of the first to try the newest features in Thunderbird. By giving us your feedback, you’ll help us to refine the features that will be included in the final version."
@@ -525,7 +529,7 @@ msgstr ""
 
 #: website/thunderbird/all/index.html:34 website/thunderbird/beta/all/index.html:34
 msgid "Check the system requirements"
-msgstr ""
+msgstr "Athugaðu kröfur kerfisins"
 
 #: website/thunderbird/all/index.html:35 website/thunderbird/beta/all/index.html:35
 msgid "Release notes"
@@ -533,23 +537,23 @@ msgstr "Útgáfuupplýsingar"
 
 #: website/thunderbird/all/index.html:43 website/thunderbird/beta/all/index.html:43
 msgid "Fully localized versions"
-msgstr ""
+msgstr "Staðbundnar útgáfur"
 
 #: website/thunderbird/beta/all/index.html:10
 msgid "Download Beta in your language"
-msgstr ""
+msgstr "Hlaða niður prófunarútgáfu á þínu tungumáli"
 
 #: website/thunderbird/releases/index.html:7
 msgid "Mozilla Thunderbird Release Notes"
-msgstr ""
+msgstr "Mozilla Thunderbird útgáfuupplýsingar"
 
 #: website/thunderbird/releases/index.html:8
 msgid "Release notes for each version of Thunderbird."
-msgstr ""
+msgstr "Útgáfuupplýsingar um hverja útgáfu Thunderbird."
 
 #: website/thunderbird/releases/index.html:17
 msgid "Home"
-msgstr ""
+msgstr "Heim"
 
 #: website/thunderbird/releases/index.html:19
 msgid "Release Notes"
@@ -557,7 +561,7 @@ msgstr "Útgáfuupplýsingar"
 
 #: website/thunderbird/releases/index.html:25
 msgid "Thunderbird Releases"
-msgstr ""
+msgstr "Thunderbird útgáfur"
 
 #: website/thunderbird/releases/index.html:26
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
