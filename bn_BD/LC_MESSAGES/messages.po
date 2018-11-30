@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-20 21:57-0700\n"
-"PO-Revision-Date: 2018-11-05 23:07+0000\n"
+"PO-Revision-Date: 2018-11-30 19:09+0000\n"
 "Last-Translator: S M Sarwar Nobin <smsarwar1996@gmail.com>\n"
 "Language-Team: none\n"
 "Language: bn_BD\n"
@@ -38,15 +38,17 @@ msgid ""
 msgstr ""
 
 #: start-page/release/index.html:27
-#, fuzzy, python-format
+#, python-format
 msgid "<a href=\"%(donate)s\">Donate to Thunderbird</a>"
-msgstr "Thunderbird এ অনুদান দিন"
+msgstr "<a href=\"%(donate)s\"> Thunderbird এ অনুদান দিন</a>"
 
 #: start-page/release/index.html:28
 msgid ""
 "Thunderbird is the leading open source, cross-platform email and calendaring client, free for business and personal use. We want it to stay secure and become even better. A donation will allow us to"
 " hire developers, pay for infrastructure, and continue to improve."
 msgstr ""
+"Thunderbird হলো বিশিষ্ট ওপেন সোর্স, ক্রস-প্ল্যাটফর্ম ইমেইল এবং ক্যালেন্ডারিং ক্লায়েন্ট, বিনামূল্যে ব্যবসা এবং ব্যক্তিগত ব্যবহারের জন্য। আমরা এটিকে নিরাপদ রাখতে এবং আরও ভাল হতে চাই । আপনার দান "
+"আমাদের ডেভেলপারদের মজুরি দিতে, অবকাঠামো জন্য অর্থ প্রদান, এবং উন্নতি অবিরত করতে পারবেন।"
 
 #: start-page/release/index.html:29
 #, python-format
@@ -54,11 +56,13 @@ msgid ""
 "<strong>Thunderbird is funded by users like you! If you like Thunderbird, please consider making a donation.</strong> The best way for you to ensure Thunderbird remains available is to <a "
 "class=\"more\" href=\"%(donate)s\">make a donation.</a>"
 msgstr ""
+"<strong> Thunderbird আপনার মত ব্যবহারকারীদের দ্বারা অর্থায়িত করা হয় ! আপনি যদি Thunderbird পছন্দ করেন, অনুগ্রহ করে দান করার বিষয়ে বিবেচনা করুন। </strong> Thunderbird এর অস্তিত্ব থাকা নিশ্চিত করার "
+"জন্য আপনার সেরা উপায় হল <a class=\"more\" href=\"%(donate)s\"> দান করা । </a>"
 
 #: start-page/release/index.html:32
 #, python-format
 msgid "<a href=\"%(contribute)s\">Get Involved</a>"
-msgstr ""
+msgstr "<a href=\"%(contribute)s\">জড়িত হন</a>"
 
 #: start-page/release/index.html:33
 #, python-format
@@ -186,7 +190,7 @@ msgstr "বিনামূল্যে ডাউনলোড"
 
 #: website/index.html:35
 msgid "Thunderbird screenshot"
-msgstr ""
+msgstr "Thunderbird স্ক্রিনশট"
 
 #: website/download/index.html:41 website/download/index.html:61 website/index.html:45 website/index.html:65
 msgid "Mozilla"
