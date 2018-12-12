@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-12-10 21:51-0800\n"
+"POT-Creation-Date: 2018-12-12 10:06-0800\n"
 "PO-Revision-Date: 2018-08-21 05:11+0000\n"
 "Last-Translator: Alexander Slovesnik <unghost@mozilla-russia.org>\n"
 "Language-Team: none\n"
@@ -111,7 +111,8 @@ msgid "There’s nothing here!"
 msgstr ""
 
 #: website/404.html:9
-msgid "The page you are looking for doesn’t exist. If you think this is a bug, you can <a href=\"https://github.com/thundernest/thunderbird-website\">report an issue here</a>."
+#, python-format
+msgid "The page you are looking for doesn’t exist. If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
 msgstr ""
 
 #: website/404.html:32

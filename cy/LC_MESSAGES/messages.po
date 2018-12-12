@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-12-10 21:51-0800\n"
+"POT-Creation-Date: 2018-12-12 10:06-0800\n"
 "PO-Revision-Date: 2018-12-11 15:40+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language-Team: none\n"
@@ -113,7 +113,8 @@ msgid "There’s nothing here!"
 msgstr "Does dim byd yma!"
 
 #: website/404.html:9
-msgid "The page you are looking for doesn’t exist. If you think this is a bug, you can <a href=\"https://github.com/thundernest/thunderbird-website\">report an issue here</a>."
+#, fuzzy, python-format
+msgid "The page you are looking for doesn’t exist. If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
 msgstr "Nid yw'r dudalen rydych chi'n chwilio amdani yn bodoli. Os ydych chi'n meddwl mai gwall yw hyn, gallwch chi <a href=\"https://github.com/thundernest/thunderbird-website\">adrodd ar y mater</a>."
 
 #: website/404.html:32
