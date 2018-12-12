@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-12-12 10:06-0800\n"
-"PO-Revision-Date: 2018-12-11 14:29+0000\n"
+"PO-Revision-Date: 2018-12-12 22:28+0000\n"
 "Last-Translator: Gabriela <gmontagu@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es_AR\n"
@@ -112,9 +112,9 @@ msgid "There’s nothing here!"
 msgstr "¡No hay nada aquí!"
 
 #: website/404.html:9
-#, fuzzy, python-format
+#, python-format
 msgid "The page you are looking for doesn’t exist. If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
-msgstr "La página que estás buscando no existe. Si creés que esto es un error, aquí podés informar el problema <a href=\"https://github.com/thundernest/thunderbird-website\"> </a>."
+msgstr "La página que estás buscando no existe. Si creé que esto es un error, podés <a href=\"%(bug_report_url)s\"> informar sobre un problema aquí </a>."
 
 #: website/404.html:32
 msgid "Empty nest"
