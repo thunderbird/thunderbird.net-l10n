@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-12-12 10:06-0800\n"
-"PO-Revision-Date: 2018-12-13 09:36+0000\n"
+"PO-Revision-Date: 2018-12-14 09:22+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language-Team: none\n"
 "Language: cy\n"
@@ -113,9 +113,9 @@ msgid "There’s nothing here!"
 msgstr "Does dim byd yma!"
 
 #: website/404.html:9
-#, fuzzy, python-format
+#, python-format
 msgid "The page you are looking for doesn’t exist. If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
-msgstr "Nid yw'r dudalen rydych chi'n chwilio amdani yn bodoli. Os ydych chi'n meddwl mai gwall yw hyn, gallwch chi <a href=\"https://github.com/thundernest/thunderbird-website\">adrodd ar y mater</a>."
+msgstr "Nid yw'r dudalen rydych chi'n chwilio amdani yn bodoli. Os ydych chi'n meddwl mai gwall yw hyn, gallwch chi <a href=\"%(bug_report_url)s\">adrodd ar y mater</a>."
 
 #: website/404.html:32
 msgid "Empty nest"
