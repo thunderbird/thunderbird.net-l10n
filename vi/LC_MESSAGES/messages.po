@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-12-12 10:06-0800\n"
-"PO-Revision-Date: 2018-12-14 07:30+0000\n"
+"PO-Revision-Date: 2018-12-14 07:52+0000\n"
 "Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
 "Language-Team: none\n"
 "Language: vi\n"
@@ -72,16 +72,20 @@ msgid ""
 "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users. Become part of a team that supports Thunderbird users, and makes "
 "Thunderbird awesome. <a class=\"more\" href=\"%(contribute)s\">Join us</a>"
 msgstr ""
+"Thunderbird là một dự án nguồn mở, có nghĩa là bất kỳ ai cũng có thể đóng góp ý tưởng, thiết kế, mã và thời gian giúp đỡ người dùng đồng nghiệp. Trở thành một phần của nhóm hỗ trợ người dùng "
+"Thunderbird và khiến Thunderbird trở nên tuyệt vời. <a class=\"more\" href=\"%(contribute)s\">Tham gia với chúng tôi</a>"
 
 #: start-page/release/index.html:38
 #, python-format
 msgid "<a href=\"%(support)s\">Get Support</a>"
-msgstr ""
+msgstr "<a href=\"%(support)s\">Nhận hỗ trợ</a>"
 
 #: start-page/release/index.html:39
 #, python-format
 msgid "Need help with something in Thunderbird? We have a <a href=\"%(support)s\">support page</a> where you can ask questions and read knowledge base articles to learn how to use Thunderbird."
 msgstr ""
+"Cần giúp đỡ với một cái gì đó trong Thunderbird? Chúng tôi có <a href=\"%(support)s\">trang hỗ trợ</a> nơi bạn có thể đặt câu hỏi và đọc các bài viết cơ sở kiến thức để tìm hiểu cách sử dụng "
+"Thunderbird."
 
 #: start-page/release/index.html:42
 #, python-format
@@ -94,6 +98,8 @@ msgid ""
 "Think you’ve found a problem with Thunderbird? <a href=\"%(bug)s\">Create a bug report</a> so that we can make sure it gets solved. Helping us identify and fix bugs makes for a better Thunderbird "
 "for all."
 msgstr ""
+"Bạn nghĩ rằng bạn đã tìm thấy một vấn đề với Thunderbird? <a href=\"%(bug)s\">Tạo báo cáo lỗi</a> để chúng tôi có thể đảm bảo rằng nó được giải quyết. Giúp chúng tôi xác định và sửa lỗi giúp cho "
+"Thunderbird tốt hơn cho tất cả."
 
 #: website/404.html:7 website/404.html:14 website/404.html:26 website/base-resp.html:26 website/download/index.html:7 website/download/index.html:14 website/download/index.html:26
 #: website/download/index.html:36 website/download/index.html:55 website/index.html:7 website/index.html:14 website/index.html:26 website/index.html:40 website/index.html:59
@@ -103,12 +109,12 @@ msgstr "Thunderbird"
 
 #: website/404.html:8
 msgid "There’s nothing here!"
-msgstr ""
+msgstr "Không có gì ở đây!"
 
 #: website/404.html:9
 #, python-format
 msgid "The page you are looking for doesn’t exist. If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
-msgstr ""
+msgstr "Trang bạn đang tìm kiếm không tồn tại. Nếu bạn nghĩ rằng đây là một lỗi, bạn có thể <a href=\"%(bug_report_url)s\">báo cáo sự cố tại đây</a>."
 
 #: website/404.html:32
 msgid "Empty nest"
@@ -152,7 +158,7 @@ msgstr "Hỗ trợ"
 
 #: website/base-resp.html:82
 msgid "Get Involved"
-msgstr ""
+msgstr "Tham gia"
 
 #: website/base-resp.html:88 website/site-footer.html:17
 msgid "Donate"
@@ -178,7 +184,7 @@ msgstr "Thunderbird Beta"
 
 #: website/download-button.html:49
 msgid "<span>Thunderbird</span> Earlybird"
-msgstr ""
+msgstr "<span>Thunderbird</span> Earlybird"
 
 #: website/download-button.html:60
 msgid "Systems &amp; Languages"
@@ -186,7 +192,7 @@ msgstr "Hệ thống &amp; Ngôn ngữ"
 
 #: website/download-button.html:62
 msgid "What’s New"
-msgstr "Thông tin về phiên bản"
+msgstr "Có gì mới"
 
 #: website/download-button.html:64 website/site-footer.html:22
 msgid "Privacy"
@@ -206,7 +212,7 @@ msgstr "Tải về miễn phí"
 
 #: website/index.html:35
 msgid "Thunderbird screenshot"
-msgstr ""
+msgstr "Ảnh chụp màn hình Thunderbird"
 
 #: website/download/index.html:41 website/download/index.html:61 website/index.html:45 website/index.html:65
 msgid "Mozilla"
@@ -222,7 +228,7 @@ msgstr "Ngôn ngữ khác:"
 
 #: website/lang_switcher.html:23
 msgid "Go"
-msgstr ""
+msgstr "Đi đến"
 
 #: website/site-footer.html:6
 #, python-format
@@ -247,7 +253,7 @@ msgstr "Đóng góp cho trang web này"
 
 #: website/site-footer.html:23
 msgid "Cookies"
-msgstr ""
+msgstr "Cookie"
 
 #: website/site-footer.html:24
 msgid "Legal"
@@ -521,15 +527,17 @@ msgstr ""
 
 #: website/thunderbird/all/index.html:10
 msgid "Download Thunderbird in your language"
-msgstr ""
+msgstr "Tải xuống Thunderbird bằng ngôn ngữ của bạn"
 
 #: website/thunderbird/all/index.html:15 website/thunderbird/beta/all/index.html:15
 msgid "Be one of the first to try the newest features in Thunderbird. By giving us your feedback, you’ll help us to refine the features that will be included in the final version."
 msgstr ""
+"Hãy là một trong những người đầu tiên dùng thử các tính năng mới nhất trong Thunderbird. Bằng cách cung cấp cho chúng tôi thông tin phản hồi của bạn, bạn sẽ giúp chúng tôi tinh chỉnh các tính năng "
+"sẽ có trong phiên bản chính thức."
 
 #: website/thunderbird/all/index.html:17 website/thunderbird/beta/all/index.html:17
 msgid "Get the award-winning email application from Mozilla. Import your existing mail and enjoy our new features like tabbed email and advanced search."
-msgstr ""
+msgstr "Nhận ứng dụng email đã giành giải thưởng từ Mozilla. Nhập thư hiện có của bạn và tận hưởng các tính năng mới của chúng tôi như email được gắn thẻ và tìm kiếm nâng cao."
 
 #: website/thunderbird/all/index.html:34 website/thunderbird/beta/all/index.html:34
 msgid "Check the system requirements"
@@ -541,35 +549,35 @@ msgstr "Ghi chú phát hành"
 
 #: website/thunderbird/all/index.html:43 website/thunderbird/beta/all/index.html:43
 msgid "Fully localized versions"
-msgstr ""
+msgstr "Phiên bản đã bản địa hóa đầy đủ"
 
 #: website/thunderbird/beta/all/index.html:10
 msgid "Download Beta in your language"
-msgstr ""
+msgstr "Tải xuống bản Beta bằng ngôn ngữ của bạn"
 
 #: website/thunderbird/releases/index.html:7
 msgid "Mozilla Thunderbird Release Notes"
-msgstr ""
+msgstr "Ghi chú phát hành Mozilla Thunderbird"
 
 #: website/thunderbird/releases/index.html:8
 msgid "Release notes for each version of Thunderbird."
-msgstr ""
+msgstr "Ghi chú phát hành cho từng phiên bản Thunderbird."
 
 #: website/thunderbird/releases/index.html:17
 msgid "Home"
-msgstr ""
+msgstr "Trang chủ"
 
 #: website/thunderbird/releases/index.html:19
 msgid "Release Notes"
-msgstr "Ghi chú của bản phát hành"
+msgstr "Ghi chú phát hành"
 
 #: website/thunderbird/releases/index.html:25
 msgid "Thunderbird Releases"
-msgstr ""
+msgstr "Thunderbird chính thức"
 
 #: website/thunderbird/releases/index.html:26
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
-msgstr ""
+msgstr "Ghi chú phát hành Thunderbird dành riêng cho từng phiên bản của ứng dụng. Chọn phiên bản của bạn từ danh sách dưới đây để xem ghi chú phát hành cho nó."
 
 #~ msgid "If you like Thunderbird, please consider a donation!"
 #~ msgstr "Nếu bạn thích Thunderbird, làm ơn cân nhắc việc quyên góp!"
