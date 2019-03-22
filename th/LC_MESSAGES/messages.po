@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-12-12 10:06-0800\n"
-"PO-Revision-Date: 2019-03-22 08:50+0000\n"
+"PO-Revision-Date: 2019-03-22 09:02+0000\n"
 "Last-Translator: aefgh39622 <aefgh39622@gmail.com>\n"
 "Language-Team: none\n"
 "Language: th\n"
@@ -29,13 +29,15 @@ msgstr "ทำไมเราต้องการการบริจาค"
 
 #: start-page/release/index.html:18
 msgid "Thunderbird is no longer funded by Mozilla. Fortunately there is an active community keeping it running and developing it further. But to survive long term, the project needs funding."
-msgstr ""
+msgstr "Thunderbird ไม่ได้รับการสนับสนุนจาก Mozilla อีกต่อไป แต่โชคดีที่มีชุมชนที่มีความเคลื่อนไหวคอยให้บริการและพัฒนาต่อไป แต่เพื่อความอยู่รอดในระยะยาว โครงการนี้ต้องการเงินทุน"
 
 #: start-page/release/index.html:21
 msgid ""
 "Thunderbird’s funding goes toward the significant infrastructure and staff that must be maintained to deliver the application to our tens of millions of users. For Thunderbird to survive and "
 "continue to evolve, we need your support and ask for your donation today. All the money donated will go directly to funding Thunderbird development and infrastructure."
 msgstr ""
+"เงินทุนของ Thunderbird นำไปสู่โครงสร้างพื้นฐานที่สำคัญและพนักงานที่ต้องได้รับการบำรุงรักษาเพื่อส่งมอบแอปพลิเคชันให้กับผู้ใช้นับล้าน เพื่อให้ Thunderbird อยู่รอดและพัฒนาต่อไป "
+"เราต้องการการสนับสนุนจากคุณและขอเงินบริจาคของคุณวันนี้ เงินบริจาคทั้งหมดจะนำไปสนับสนุนการพัฒนาและโครงสร้างพื้นฐานของ Thunderbird โดยตรง"
 
 #: start-page/release/index.html:27
 #, python-format
@@ -47,6 +49,8 @@ msgid ""
 "Thunderbird is the leading open source, cross-platform email and calendaring client, free for business and personal use. We want it to stay secure and become even better. A donation will allow us to"
 " hire developers, pay for infrastructure, and continue to improve."
 msgstr ""
+"Thunderbird เป็นไคลเอนต์อีเมลและปฏิทินโอเพนซอร์สข้ามแพลตฟอร์มชั้นนำซึ่งฟรีสำหรับธุรกิจและใช้ส่วนตัว เราต้องการให้โครงการนี้อยู่รอดได้อย่างปลอดภัยและดียิ่งขึ้น การบริจาคจะช่วยให้เราสามารถจ้างนักพัฒนา"
+" จ่ายค่าโครงสร้างพื้นฐาน และปรับปรุงต่อไป"
 
 #: start-page/release/index.html:29
 #, python-format
@@ -54,6 +58,8 @@ msgid ""
 "<strong>Thunderbird is funded by users like you! If you like Thunderbird, please consider making a donation.</strong> The best way for you to ensure Thunderbird remains available is to <a "
 "class=\"more\" href=\"%(donate)s\">make a donation.</a>"
 msgstr ""
+"<strong>Thunderbird ได้รับเงินสนับสนุนจากผู้ใช้เช่นคุณ! หากคุณชอบ Thunderbird โปรดลองทำการบริจาค</strong> วิธีที่ดีที่สุดสำหรับคุณเพื่อให้แน่ใจว่า Thunderbird ยังคงมีอยู่คือ<a class=\"more\" "
+"href=\"%(donate)s\">ทำการบริจาค</a>"
 
 #: start-page/release/index.html:32
 #, python-format
@@ -66,6 +72,8 @@ msgid ""
 "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users. Become part of a team that supports Thunderbird users, and makes "
 "Thunderbird awesome. <a class=\"more\" href=\"%(contribute)s\">Join us</a>"
 msgstr ""
+"Thunderbird เป็นโครงการโอเพนซอร์ส ซึ่งหมายความว่าทุกคนสามารถมีส่วนร่วมในความคิด การออกแบบ โค้ด และเวลาช่วยเหลือเพื่อนผู้ใช้ได้ มาเป็นส่วนหนึ่งของทีมที่สนับสนุนผู้ใช้ Thunderbird และทำให้ Thunderbird"
+" น่าประทับใจ <a class=\"more\" href=\"%(contribute)s\">เข้าร่วมกับเราเลย</a>"
 
 #: start-page/release/index.html:38
 #, python-format
@@ -76,6 +84,8 @@ msgstr "<a href=\"%(support)s\">รับการสนับสนุน</a>"
 #, python-format
 msgid "Need help with something in Thunderbird? We have a <a href=\"%(support)s\">support page</a> where you can ask questions and read knowledge base articles to learn how to use Thunderbird."
 msgstr ""
+"ต้องการความช่วยเหลือบางอย่างเกี่ยวกับ Thunderbird หรือไม่? เรามี<a href=\"%(support)s\">หน้าฝ่ายสนับสนุน</a>ซึ่งเป็นสถานที่ที่คุณสามารถามคำถามและอ่านบทความฐานความรู้เพื่อเรียนรู้วิธีการใช้งาน "
+"Thunderbird ได้"
 
 #: start-page/release/index.html:42
 #, python-format
@@ -87,7 +97,7 @@ msgstr "<a href=\"%(bug)s\">รายงานข้อบกพร่อง</a>
 msgid ""
 "Think you’ve found a problem with Thunderbird? <a href=\"%(bug)s\">Create a bug report</a> so that we can make sure it gets solved. Helping us identify and fix bugs makes for a better Thunderbird "
 "for all."
-msgstr ""
+msgstr "คิดว่าคุณพบปัญหากับ Thunderbird หรือไม่? <a href=\"%(bug)s\">รายงานข้อบกพร่อง</a>เพื่อให้เรามั่นใจได้ว่าจะได้รับการแก้ไข การช่วยเราระบุและแก้ไขข้อบกพร่องทำให้ Thunderbird ดีขึ้นสำหรับทุกคน"
 
 #: website/404.html:7 website/404.html:14 website/404.html:26 website/base-resp.html:26 website/download/index.html:7 website/download/index.html:14 website/download/index.html:26
 #: website/download/index.html:36 website/download/index.html:55 website/index.html:7 website/index.html:14 website/index.html:26 website/index.html:40 website/index.html:59
