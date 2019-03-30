@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-12-12 10:06-0800\n"
+"POT-Creation-Date: 2019-03-29 22:20-0700\n"
 "PO-Revision-Date: 2018-12-16 15:13+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language-Team: none\n"
@@ -103,7 +103,7 @@ msgstr ""
 "Νομίζετε ότι εντοπίσατε πρόβλημα στο Thunderbird; <a href=\"%(bug)s\">Δημιουργήστε μια αναφορά σφάλματος</a> για να εξασφαλίσουμε ότι θα λυθεί. Η βοήθειά σας στην αναγνώριση και επίλυση σφαλμάτων "
 "κάνει το Thunderbird καλύτερο για όλους."
 
-#: website/404.html:7 website/404.html:14 website/404.html:26 website/base-resp.html:26 website/download/index.html:7 website/download/index.html:14 website/download/index.html:26
+#: website/404.html:7 website/404.html:14 website/404.html:26 website/base-resp.html:30 website/download/index.html:7 website/download/index.html:14 website/download/index.html:26
 #: website/download/index.html:36 website/download/index.html:55 website/index.html:7 website/index.html:14 website/index.html:26 website/index.html:40 website/index.html:59
 #: website/site-footer.html:31 website/thunderbird/releases/index.html:18
 msgid "Thunderbird"
@@ -122,47 +122,51 @@ msgstr "Η σελίδα που ψάχνετε δεν υπάρχει. Αν πισ
 msgid "Empty nest"
 msgstr "Άδεια φωλιά"
 
-#: website/base-resp.html:24
+#: website/base-resp.html:28
 msgid "Menu"
 msgstr "Μενού"
 
-#: website/base-resp.html:30
+#: website/base-resp.html:34
 msgid "Beta"
 msgstr "Beta"
 
-#: website/base-resp.html:35
+#: website/base-resp.html:39
 msgid "Features"
 msgstr "Χαρακτηριστικά"
 
-#: website/base-resp.html:40
+#: website/base-resp.html:44
 msgid "Releases"
 msgstr "Εκδόσεις"
 
-#: website/base-resp.html:46
+#: website/base-resp.html:50
 msgid "Calendar Add-on"
 msgstr "Πρόσθετο ημερολογίου"
 
-#: website/base-resp.html:52
+#: website/base-resp.html:56
 msgid "Thunderbird for Organizations"
 msgstr "Thunderbird για οργανισμούς"
 
-#: website/base-resp.html:59 website/base-resp.html:64
+#: website/base-resp.html:63 website/base-resp.html:68
 msgid "Add-ons"
 msgstr "Πρόσθετα"
 
-#: website/base-resp.html:69
+#: website/base-resp.html:73
 msgid "Themes"
 msgstr "Θέματα"
 
-#: website/base-resp.html:76
+#: website/base-resp.html:80
 msgid "Support"
 msgstr "Υποστήριξη"
 
-#: website/base-resp.html:82
+#: website/base-resp.html:86
 msgid "Get Involved"
 msgstr "Συνεισφορά"
 
-#: website/base-resp.html:88 website/site-footer.html:17
+#: website/base-resp.html:93
+msgid "Blog"
+msgstr ""
+
+#: website/base-resp.html:99 website/site-footer.html:17
 msgid "Donate"
 msgstr "Δωρεές"
 
@@ -200,7 +204,7 @@ msgstr "Τι νέο υπάρχει"
 msgid "Privacy"
 msgstr "Απόρρητο"
 
-#: website/index.html:8
+#: website/about/index.html:38 website/index.html:8
 msgid "Software made to make email easier."
 msgstr "Λογισμικό για πιο εύκολο ηλεκτρονικό ταχυδρομείο."
 
@@ -263,6 +267,78 @@ msgstr "Νομικά"
 #: website/site-footer.html:25
 msgid "Report Trademark Abuse"
 msgstr "Αναφορά παραβίασης εμπορικών σημάτων"
+
+#: website/about/index.html:7
+#, fuzzy
+msgid "About Us"
+msgstr "Σχετικά"
+
+#: website/about/index.html:10
+#, fuzzy
+msgid "About the Thunderbird Project."
+msgstr "Συνεισφέρετε στο Thunderbird"
+
+#: website/about/index.html:27 website/about/index.html:35
+#, fuzzy
+msgid "What is Thunderbird?"
+msgstr "Thunderbird"
+
+#: website/about/index.html:28 website/about/index.html:51
+msgid "Who We Are"
+msgstr ""
+
+#: website/about/index.html:29 website/about/index.html:72
+#, fuzzy
+msgid "Thunderbird and Mozilla Foundation"
+msgstr "Thunderbird για οργανισμούς"
+
+#: website/about/index.html:44
+msgid ""
+"Thunderbird is a free and open source email, newsfeed, chat, and calendaring client, that’s easy to set up and customize. One of the core principles of Thunderbird is the use and promotion of open "
+"standards - this focus is a rejection of our world of closed platforms and services that can’t communicate with each other. We want our users to have freedom and choice in how they communicate."
+msgstr ""
+
+#: website/about/index.html:54
+msgid "We are a community making communication free and open."
+msgstr ""
+
+#: website/about/index.html:60
+msgid "Our Community"
+msgstr ""
+
+#: website/about/index.html:61
+#, python-format
+msgid ""
+"There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
+"to learn how you can participate on the Thunderbird team. We also have paid staff working full-time on Thunderbird, <a href=\"%(donate)s\">funded by donations</a> from our users. If you’re curious "
+"about who is working on Thunderbird, check out the <a href=\"%(core_team)s\">list of our core contributors</a>."
+msgstr ""
+
+#: website/about/index.html:64
+#, fuzzy
+msgid "Thunderbird Council"
+msgstr "Thunderbird"
+
+#: website/about/index.html:65
+#, python-format
+msgid ""
+"The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
+"href=\"%(council)s\">on the Thunderbird wiki</a>."
+msgstr ""
+
+#: website/about/index.html:75
+#, python-format
+msgid "Thunderbird lives at the nonprofit <a href=\"%(foundation)s\">Mozilla Foundation</a>."
+msgstr ""
+
+#: website/about/index.html:81
+#, python-format
+msgid ""
+"Thunderbird is an independent project with its legal and financial home at <a href=\"%(foundation)s\">the Mozilla Foundation</a>. The Mozilla Foundation believes the Internet is a global public "
+"resource that must remain open and accessible to all. It is focused on advocacy issues and keeping the Internet healthy, but is also the sole shareholder in the maker of Firefox, the Mozilla "
+"Corporation. Mozilla exerts no governance over the project, which instead falls to the Thunderbird Council, elected by the Thunderbird project’s community. The Mozilla Foundation became "
+"Thunderbird’s home after an <a href=\"%(home_blog_post)s\">exploration of legal homes in 2017</a.>."
+msgstr ""
 
 #: website/channel/index.html:7
 msgid "Download Thunderbird Beta &amp; Try the Next Thunderbird"
@@ -621,9 +697,6 @@ msgstr "Οι σημειώσεις έκδοσης του Thunderbird είναι �
 
 #~ msgid "Learn more"
 #~ msgstr "Μάθετε περισσότερα"
-
-#~ msgid "Contribute to Thunderbird"
-#~ msgstr "Συνεισφέρετε στο Thunderbird"
 
 #~ msgid "To ensure that Thunderbird continues to improve, as it has for the last ten years, active contributors <a href=\"%s\">recently organized</a> to focus on the future."
 #~ msgstr "Για να βεβαιωθούμε ότι ο Thunderbird συνεχίζει να βελτιώνεται, όπως κάνει τα τελευταία 10 χρόνια, ενεργοί εθελοντές <a href=\"%s\">αποφάσισαν πρόσφατα</a> να εστιάσουν στο μέλλον."
