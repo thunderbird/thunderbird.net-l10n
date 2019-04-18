@@ -2,14 +2,14 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-04-08 11:42-0700\n"
-"PO-Revision-Date: 2018-05-15 17:13+0000\n"
-"Last-Translator: Jinkyu Yi <jincreator@jincreator.net>\n"
+"PO-Revision-Date: 2019-04-18 01:56+0000\n"
+"Last-Translator: Hyeonseok Shin <hyeonseok@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -28,71 +28,66 @@ msgid "Why we need donations"
 msgstr "기부를 필요로 하는 이유"
 
 #: start-page/release/index.html:18
-#, fuzzy
 msgid "Thunderbird is no longer funded by Mozilla. Fortunately there is an active community keeping it running and developing it further. But to survive long term, the project needs funding."
-msgstr "이미 알고 계실지 모르지만, Thunderbird 프로젝트를 위한 Mozilla 지원이 중단되었습니다. 다행히, 제품의 유지 및 추가 개발을 지원하는 활발한 커뮤니티가 있지만, 장기적인 생존을 위한 프로젝트 자금을 필요로 하고 있습니다."
+msgstr "Thunderbird는 더이상 Mozilla의 후원을 받지 않습니다. 다행히 앞으로 제품의 유지보수 및 개발을 진행할 활성화된 커뮤니티가 있습니다. 그러나 장기적인 생존을 위해서, 프로젝트 펀딩이 필요합니다."
 
 #: start-page/release/index.html:21
-#, fuzzy
 msgid ""
 "Thunderbird’s funding goes toward the significant infrastructure and staff that must be maintained to deliver the application to our tens of millions of users. For Thunderbird to survive and "
 "continue to evolve, we need your support and ask for your donation today. All the money donated will go directly to funding Thunderbird development and infrastructure."
-msgstr ""
-"Thunderbird는 현재 독립 조직으로 전환 중입니다. 독립적으로 자신의 앞길을 결정하고, 메일 응용 프로그램과 서비스를 수백만 명의 사용자에게 제공할 경우 상당한 규모의 인프라를 유지하고 나가야합니다. Thunderbird가 존속하고 진화를 계속할 수 있도록 여러분의 도움을 필요로하고 있으며, 기부를 부탁드립니다. 여러분으로부터 받은 기부금은 모두"
-" Thunderbird의 개발 및 인프라에 충당됩니다."
+msgstr "Thunderbird의 펀딩은 수천만명의 사용자에게 애플리케이션을 제공하기 위한 중요 인프라와 직원을 대상으로 합니다. Thunderbird가 생존하고 계속 발전하기 위해서는, 여러분의 지원이 필요하며 이에 기부를 부탁드리는 바입니다. 기부된 금액은 전액 Thunderbird의 개발과 인프라 구축에 사용됩니다."
 
 #: start-page/release/index.html:27
-#, fuzzy, python-format
+#, python-format
 msgid "<a href=\"%(donate)s\">Donate to Thunderbird</a>"
-msgstr "Thunderbird에 기부하기"
+msgstr "<a href=\"%(donate)s\">Thunderbird에 기부하기</a>"
 
 #: start-page/release/index.html:28
-#, fuzzy
 msgid ""
 "Thunderbird is the leading open source, cross-platform email and calendaring client, free for business and personal use. We want it to stay secure and become even better. A donation will allow us to"
 " hire developers, pay for infrastructure, and continue to improve."
-msgstr "Thunderbird는 오픈 소스 크로스 플랫폼으로 회사에서나 개인이 무료로 이용할 수있는 인기 높은 메일, 캘린더 클라이언트입니다. 저희는 보안을 지키면서 더욱 개선할 계획을 가지고 있습니다."
+msgstr "Thunderbird는 오픈 소스 크로스 플랫폼으로 회사에서나 개인이 무료로 이용할 수있는 인기 높은 메일, 캘린더 클라이언트입니다. 저희는 보안을 지키면서 더욱 개선해 나가고자 합니다. 기부는 개발자 채용, 인프라 구축 및 개선 작업을 진행할 수 있게 해줍니다."
 
 #: start-page/release/index.html:29
 #, python-format
 msgid ""
 "<strong>Thunderbird is funded by users like you! If you like Thunderbird, please consider making a donation.</strong> The best way for you to ensure Thunderbird remains available is to <a "
 "class=\"more\" href=\"%(donate)s\">make a donation.</a>"
-msgstr ""
+msgstr "<strong>Thunderbird는 여러분과 같은 사용자에 의해서 자금을 지원받습니다. Thunderbird를 좋아하신다면, 기부를 고려해주십시오.</strong>Thunderbird를 계속 사용할 수 있도록 하는 가장 좋은 방법은 <a class=\"more\" href=\"%(donate)s\">기부하는 것입니다.</a>"
 
 #: start-page/release/index.html:32
 #, python-format
 msgid "<a href=\"%(contribute)s\">Get Involved</a>"
-msgstr ""
+msgstr "<a href=\"%(contribute)s\">참여하기</a>"
 
 #: start-page/release/index.html:33
 #, python-format
 msgid ""
 "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users. Become part of a team that supports Thunderbird users, and makes "
 "Thunderbird awesome. <a class=\"more\" href=\"%(contribute)s\">Join us</a>"
-msgstr ""
+msgstr "Thunderbird는 누구나 아이디어, 디자인, 코드, 그리고 시간을 들여 다른 사용자를 돕는데 참여할 수 있는 오픈소스 프로젝트입니다. 팀의 일원이 되어 Thunderbird 사용자를 지원하고, Thunderbird를 더 멋지게 만들 수 있습니다. <a class=\"more\" href=\"%(contribute)s\">함께하세요</a>"
 
 #: start-page/release/index.html:38
 #, python-format
 msgid "<a href=\"%(support)s\">Get Support</a>"
-msgstr ""
+msgstr "<a href=\"%(support)s\">지원받기</a>"
 
 #: start-page/release/index.html:39
 #, python-format
 msgid "Need help with something in Thunderbird? We have a <a href=\"%(support)s\">support page</a> where you can ask questions and read knowledge base articles to learn how to use Thunderbird."
-msgstr ""
+msgstr "Thunderbird에 지원이 필요하신가요? <a href=\"%(support)s\">지원 페이지</a>에서 Thunderbird를 사용하는 법에 대한 내용이 담긴 도움말 문서를 읽을 수 있고, 질문하실 수도 있습니다."
 
 #: start-page/release/index.html:42
 #, python-format
 msgid "<a href=\"%(bug)s\">Report a Bug</a>"
-msgstr ""
+msgstr "<a href=\"%(bug)s\">버그 제보</a>"
 
 #: start-page/release/index.html:43
 #, python-format
 msgid ""
 "Think you’ve found a problem with Thunderbird? <a href=\"%(bug)s\">Create a bug report</a> so that we can make sure it gets solved. Helping us identify and fix bugs makes for a better Thunderbird "
 "for all."
-msgstr ""
+msgstr "Thunderbird의 문제를 찾은 것 같다는 생각이 드시나요? <a href=\"%(bug)s\">버그 리포트를 작성</a>하여 저희가 해결할 수 있도록 도와주세요. 버그를 확인하고 고쳐서 모두를 위해 더 나은 Thunderbird를 만들 수 있습니다."
 
 #: website/404.html:7 website/404.html:14 website/404.html:26 website/base-resp.html:30 website/download/index.html:7 website/download/index.html:14 website/download/index.html:26
 #: website/download/index.html:36 website/download/index.html:55 website/index.html:7 website/index.html:14 website/index.html:26 website/index.html:40 website/index.html:59
@@ -102,16 +97,16 @@ msgstr "Thunderbird"
 
 #: website/404.html:8
 msgid "There’s nothing here!"
-msgstr ""
+msgstr "아무것도 없어요!"
 
 #: website/404.html:9
 #, python-format
 msgid "The page you are looking for doesn’t exist. If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
-msgstr ""
+msgstr "찾고 계신 페이지가 존재하지 않습니다. 이것이 버그라고 생각되면 <a href=\"%(bug_report_url)s\">여기서 문제를 보고하실 수 있습니다</a>."
 
 #: website/404.html:32
 msgid "Empty nest"
-msgstr ""
+msgstr "빈 둥지"
 
 #: website/base-resp.html:28
 msgid "Menu"
@@ -131,11 +126,11 @@ msgstr "출시 현황"
 
 #: website/base-resp.html:50
 msgid "Calendar Add-on"
-msgstr ""
+msgstr "캘린더 부가기능"
 
 #: website/base-resp.html:56
 msgid "Thunderbird for Organizations"
-msgstr ""
+msgstr "기업용 Thunderbird"
 
 #: website/base-resp.html:63 website/base-resp.html:68
 msgid "Add-ons"
@@ -151,11 +146,11 @@ msgstr "도움말"
 
 #: website/base-resp.html:86
 msgid "Get Involved"
-msgstr ""
+msgstr "참여하기"
 
 #: website/base-resp.html:93
 msgid "Blog"
-msgstr ""
+msgstr "블로그"
 
 #: website/base-resp.html:99 website/site-footer.html:17
 msgid "Donate"
@@ -168,12 +163,12 @@ msgstr "Thunderbird 다운로드"
 #: website/download-button.html:28
 #, python-format
 msgid "Your system doesn't meet the <a href=\"%(url)s\">requirements</a> to run Thunderbird."
-msgstr ""
+msgstr "Thunderbird 설치에 필요한 시스템 <a href=\"%(url)s\">요구 사항</a>을 충족하지 못했습니다."
 
 #: website/download-button.html:31
 #, python-format
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
-msgstr ""
+msgstr "Thunderbird <a href=\"%(url)s\">설치 가이드</a>를 참고하세요."
 
 #: website/download-button.html:47
 msgid "Thunderbird Beta"
@@ -209,7 +204,7 @@ msgstr "무료 다운로드"
 
 #: website/index.html:35
 msgid "Thunderbird screenshot"
-msgstr ""
+msgstr "Thunderbird 스크린샷"
 
 #: website/download/index.html:41 website/download/index.html:61 website/index.html:45 website/index.html:65
 msgid "Mozilla"
@@ -225,7 +220,7 @@ msgstr "언어별:"
 
 #: website/lang_switcher.html:23
 msgid "Go"
-msgstr ""
+msgstr "이동"
 
 #: website/site-footer.html:6
 #, python-format
@@ -280,7 +275,7 @@ msgstr ""
 
 #: website/about/index.html:29 website/about/index.html:72
 msgid "Thunderbird and Mozilla Foundation"
-msgstr ""
+msgstr "Thunderbird와 Mozilla 재단"
 
 #: website/about/index.html:44
 msgid ""
