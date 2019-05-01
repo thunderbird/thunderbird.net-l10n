@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-04-08 11:42-0700\n"
-"PO-Revision-Date: 2019-05-01 05:16+0000\n"
+"PO-Revision-Date: 2019-05-01 12:07+0000\n"
 "Last-Translator: robbp <robbpaun@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ro\n"
@@ -61,8 +61,8 @@ msgid ""
 "<strong>Thunderbird is funded by users like you! If you like Thunderbird, please consider making a donation.</strong> The best way for you to ensure Thunderbird remains available is to <a "
 "class=\"more\" href=\"%(donate)s\">make a donation.</a>"
 msgstr ""
-"<strong>Thunderbird este finanțat de utilizatori ca tine! Dacă îți place Thunderbird, ia în considerare să faci o donație.</strong> Cea mai bună cale de a ne asigura că Thunderbird rămâne disponibil"
-" este <a class=\"more\" href=\"%(donate)s\">a face o donație.</a>"
+"<strong>Thunderbird este finanțat de utilizatori ca tine! Dacă îți place Thunderbird, ia în considerare să faci o donație.</strong> Cea mai bună cale de a te asigura că Thunderbird rămâne disponibil"
+" este dacă <a class=\"more\" href=\"%(donate)s\">faci o donație.</a>"
 
 #: start-page/release/index.html:32
 #, python-format
@@ -165,7 +165,7 @@ msgstr "Implică-te"
 
 #: website/base-resp.html:93
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: website/base-resp.html:99 website/site-footer.html:17
 msgid "Donate"
@@ -283,7 +283,7 @@ msgstr "Ce este Thunderbird?"
 
 #: website/about/index.html:28 website/about/index.html:51
 msgid "Who We Are"
-msgstr ""
+msgstr "Cine suntem"
 
 #: website/about/index.html:29 website/about/index.html:72
 msgid "Thunderbird and Mozilla Foundation"
@@ -294,14 +294,17 @@ msgid ""
 "Thunderbird is a free and open source email, newsfeed, chat, and calendaring client, that’s easy to set up and customize. One of the core principles of Thunderbird is the use and promotion of open "
 "standards - this focus is a rejection of our world of closed platforms and services that can’t communicate with each other. We want our users to have freedom and choice in how they communicate."
 msgstr ""
+"Thunderbird este un client gratuit și cu sursă deschisă de e-mail, flux de știri, chat și calendar, care este ușor de configurat și personalizat. Unul dintre principiile de bază în Thunderbird "
+"constă în utilizarea și promovarea standardelor deschise - această focalizare reprezintă o respingere a lumii actuale de platforme și servicii închise care nu pot comunica unele cu altele. Vrem ca "
+"utilizatorii noștri să aibă libertatea și alegerea modului în care comunică."
 
 #: website/about/index.html:54
 msgid "We are a community making communication free and open."
-msgstr ""
+msgstr "Suntem o comunitate care face comunicațiile libere și deschise."
 
 #: website/about/index.html:60
 msgid "Our Community"
-msgstr ""
+msgstr "Comunitatea noastră"
 
 #: website/about/index.html:61
 #, python-format
@@ -310,6 +313,10 @@ msgid ""
 "to learn how you can participate on the Thunderbird team. We also have paid staff working full-time on Thunderbird, <a href=\"%(donate)s\">funded by donations</a> from our users. If you’re curious "
 "about who is working on Thunderbird, check out the <a href=\"%(core_team)s\">list of our core contributors</a>."
 msgstr ""
+"Există o echipă de voluntari pasionați implicați în dezvoltarea Thunderbird și care oferă asistență utilizatorilor care le primesc implicarea. Intră pe pagina noastră de <a "
+"href=\"%(volunteer)s\">implicare</a> pentru a afla cum poți participa în echipa Thunderbird. Avem la dispoziție și personal salariat cu normă întreagă de lucru care lucrează la Thunderbird, <a "
+"href=\"%(donate)s\">finanțat prin donații</a> de la utilizatorii noștri. Dacă ești curios/curioasă să vezi cine lucrează la Thunderbird, intră pe <a href=\"%(core_team)s\">lista de colaboratori "
+"principali</a>."
 
 #: website/about/index.html:64
 msgid "Thunderbird Council"
@@ -321,11 +328,13 @@ msgid ""
 "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
 "href=\"%(council)s\">on the Thunderbird wiki</a>."
 msgstr ""
+"Proiectul Thunderbird este guvernat de șapte consilieri, aleși de colaboratorii activi din comunitatea Thunderbird. Poți vedea membrii curenți ai Consiliului Thunderbird ales <a "
+"href=\"%(council)s\">pe pagina de wiki Thunderbird</a>."
 
 #: website/about/index.html:75
 #, python-format
 msgid "Thunderbird lives at the nonprofit <a href=\"%(foundation)s\">Mozilla Foundation</a>."
-msgstr ""
+msgstr "Thunderbird este găzduită de <a href=\"%(foundation)s\">Fundația non-profit Mozilla</a>."
 
 #: website/about/index.html:81
 #, python-format
@@ -335,6 +344,10 @@ msgid ""
 "Corporation. Mozilla exerts no governance over the project, which instead falls to the Thunderbird Council, elected by the Thunderbird project’s community. The Mozilla Foundation became "
 "Thunderbird’s home after an <a href=\"%(home_blog_post)s\">exploration of legal homes in 2017</a>."
 msgstr ""
+"Thunderbird este un proiect independent, cu sediul legal și financiar la <a href=\"%(foundation)s\">Fundația Mozilla</a>. Fundația Mozilla consideră că Internetul este o resursă publică globală care"
+" trebuie să rămână deschisă și accesibilă tuturor. Se concentrează pe aspecte de sensibilizare a opiniei publice și păstrarea unui Internet sănătos, dar este și asociat unic al creatorului Firefox, "
+"Corporația Mozilla. Mozilla nu exercită nicio guvernanță asupra proiectului, care, în schimb, revine Consiliului Thunderbird, ales de comunitatea proiectului Thunderbird. Fundația Mozilla a devenit "
+"gazda Thunderbird după o <a href=\"%(home_blog_post)s\">explorare a sediilor legale în anul 2017</a>."
 
 #: website/channel/index.html:7
 msgid "Download Thunderbird Beta &amp; Try the Next Thunderbird"
@@ -460,7 +473,7 @@ msgstr ""
 
 #: website/features/index.html:137
 msgid "Search"
-msgstr "Căutare"
+msgstr "Caută"
 
 #: website/features/index.html:138
 msgid ""
