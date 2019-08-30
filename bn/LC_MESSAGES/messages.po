@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-04-08 11:42-0700\n"
-"PO-Revision-Date: 2018-12-01 04:32+0000\n"
+"PO-Revision-Date: 2019-08-30 06:18+0000\n"
 "Last-Translator: Belayet Hossain <bellayet@gmail.com>\n"
 "Language-Team: none\n"
 "Language: bn\n"
@@ -73,6 +73,8 @@ msgid ""
 "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users. Become part of a team that supports Thunderbird users, and makes "
 "Thunderbird awesome. <a class=\"more\" href=\"%(contribute)s\">Join us</a>"
 msgstr ""
+"Thunderbird একটি ওপেন সোর্স প্রকল্প, যার অর্থ হল কেউ সহকর্মী ব্যবহারকারীদের সহায়তা করার জন্য ধারনা, ডিজাইন, কোড এবং সময় দিয়ে অবদান রাখতে পারে।Thunderbird ব্যবহারকারীদের সমর্থন করে এমন একটি দলের "
+"অংশ হয়ে উঠুন এবং Thunderbird কে অসাধারণ করে তুলুন। <a class=\"more\" href=\"%(contribute)s\"> আমাদের সাথে যোগ দিন </a>"
 
 #: start-page/release/index.html:38
 #, python-format
@@ -83,6 +85,8 @@ msgstr "<a href=\"%(support)s\">সহায়তা নিন</a>"
 #, python-format
 msgid "Need help with something in Thunderbird? We have a <a href=\"%(support)s\">support page</a> where you can ask questions and read knowledge base articles to learn how to use Thunderbird."
 msgstr ""
+"Thunderbird এর কিছু নিয়ে সাহায্যের প্রয়োজন? আমাদের একটি <a href=\"%(support)s\"> সহায়তা পৃষ্ঠা </a> আছে যেখানে আপনি প্রশ্ন জিজ্ঞাসা করতে পারেন এবং থান্ডারবার্ড ব্যবহার করতে শিখতে জ্ঞান ভিত্তিক "
+"নিবন্ধগুলি পড়তে পারেন।"
 
 #: start-page/release/index.html:42
 #, python-format
@@ -170,12 +174,12 @@ msgstr "Thunderbird ডাউনলোড করুন"
 #: website/download-button.html:28
 #, python-format
 msgid "Your system doesn't meet the <a href=\"%(url)s\">requirements</a> to run Thunderbird."
-msgstr ""
+msgstr "Thunderbird চালানোর জন্য আপনার সিস্টেমটি <a href=\"%(url)s\"> প্রয়োজনীয়তা </a> পূরণ করে না।"
 
 #: website/download-button.html:31
 #, python-format
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
-msgstr ""
+msgstr "অনুগ্রহ করে Thunderbird ইন্সটল করতে <a href=\"%(url)s\">এই নির্দেশনাগুলো</a> অনুসরণ করুন।"
 
 #: website/download-button.html:47
 msgid "Thunderbird Beta"
@@ -262,28 +266,24 @@ msgid "Report Trademark Abuse"
 msgstr "ট্রেডমার্ক জালিয়াতির প্রতিবেদন"
 
 #: website/about/index.html:7
-#, fuzzy
 msgid "About Us"
 msgstr "পরিচিতি"
 
 #: website/about/index.html:10
-#, fuzzy
 msgid "About the Thunderbird Project."
-msgstr "Thunderbird এ কন্ট্রিবিউট করুন"
+msgstr "Thunderbird প্রকল্প পরিচিতি"
 
 #: website/about/index.html:27 website/about/index.html:35
-#, fuzzy
 msgid "What is Thunderbird?"
-msgstr "Thunderbird"
+msgstr "Thunderbird কি?"
 
 #: website/about/index.html:28 website/about/index.html:51
 msgid "Who We Are"
 msgstr ""
 
 #: website/about/index.html:29 website/about/index.html:72
-#, fuzzy
 msgid "Thunderbird and Mozilla Foundation"
-msgstr "সংগঠনের জন্য Thunderbird"
+msgstr "Thunderbird ও Mozilla Foundation"
 
 #: website/about/index.html:44
 msgid ""
@@ -308,9 +308,8 @@ msgid ""
 msgstr ""
 
 #: website/about/index.html:64
-#, fuzzy
 msgid "Thunderbird Council"
-msgstr "Thunderbird"
+msgstr "Thunderbird কাউন্সিল"
 
 #: website/about/index.html:65
 #, python-format
@@ -335,33 +334,35 @@ msgstr ""
 
 #: website/channel/index.html:7
 msgid "Download Thunderbird Beta &amp; Try the Next Thunderbird"
-msgstr ""
+msgstr "Thunderbird বিটা ডাউনলোড করুন & amp; পরবর্তী Thunderbird টি ব্যবহার করে দেখুন"
 
 #: website/channel/index.html:8
 msgid "Download and test Thunderbird Beta and experience features and fixes early!"
-msgstr ""
+msgstr "Thunderbird বিটা ডাউনলোড এবং পরখ করুন এবং জলদি উপভোগ করুন বৈশিষ্ট্যগুলি ও সংশোধনগুলি!"
 
 #: website/channel/index.html:18
 msgid "Welcome to the <strong>Future of Thunderbird</strong>"
-msgstr ""
+msgstr "<strong>Thunderbird এর ভবিষ্যৎ </strong> এ স্বাগতম"
 
 #: website/channel/index.html:19
 msgid ""
 "Download Thunderbird Beta and be one of the first to try the newest features in the next version of Thunderbird! By giving us your feedback, you’ll help make email better for millions of your fellow"
 " users."
 msgstr ""
+"Thunderbird বিটা ডাউনলোড করুন এবং Thunderbird এর পরবর্তী সংস্করণে নতুন বৈশিষ্ট্যগুলি ব্যবহার করে প্রথমদের মধ্যে একজন হোন! আপনার মতামত প্রদান করে, আপনি আপনার লক্ষ লক্ষ সহব্যবহারকারীদের সহায়তার জন্য "
+"ইমেলকে আরও ভাল করবেন।"
 
 #: website/channel/index.html:30
 msgid "Experience cutting edge features with more stability"
-msgstr ""
+msgstr "উপভোগ করুন উন্নত ও সর্বশেষ বৈশিষ্ঠ্যগুলো স্থায়িত্বের সাথে"
 
 #: website/channel/index.html:31
 msgid "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Provide feedback</a> to help refine and polish what will be in the final release"
-msgstr ""
+msgstr "চূড়ান্ত রিলিজে কী হবে তা পরিমার্জন করতে এবং পালিশ করার জন্য <a href=\"https://discourse.mozilla.org/c/thunderbird/beta\"> প্রতিক্রিয়া প্রদান করুন </a>"
 
 #: website/download/index.html:9
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
-msgstr ""
+msgstr "আপনার ডাউনলোড স্বয়ংক্রিয়ভাবে শুরু হওয়ার কথা। কাজ হয়নি? নীচের বোতামটি পরখ করুন!"
 
 #: website/features/index.html:7
 msgid "Thunderbird Features"
@@ -369,7 +370,7 @@ msgstr "Thunderbird এর ফিচার"
 
 #: website/features/index.html:13
 msgid "It’s all yours. It’s now easier to upgrade to Thunderbird."
-msgstr ""
+msgstr "সবটাই আপনার। Thunderbird এ আপগ্রেড করা এখন আরও সহজ।"
 
 #: website/features/index.html:31 website/features/index.html:40
 msgid "Easier to Get Started"
@@ -408,14 +409,16 @@ msgid ""
 "One-click Address Book is a quick and easy way to add people to your address book. Add people by simply clicking on the star icon in the message you receive. Two clicks and you can add more details "
 "like a photo, birthday, and other contact information."
 msgstr ""
+"এক-ক্লিকে ঠিকানা বইটি আপনার ঠিকানা বইতে লোকেদের যুক্ত করার একটি দ্রুত এবং সহজ উপায়। আপনার প্রাপ্ত বার্তাটিতে কেবল তারকা আইকনে ক্লিক করে লোকেদের যুক্ত করুন। দুই ক্লিক এবং আপনি একটি ফটো, জন্মদিন, এবং"
+" অন্যান্য যোগাযোগের তথ্য মত আরো বিশদ তথ্য যুক্ত করতে পারেন।"
 
 #: website/features/index.html:71
 msgid "Attachment Reminder"
-msgstr ""
+msgstr "সংযুক্তি স্মরণচিহ্ন"
 
 #: website/features/index.html:72
 msgid "The attachment reminder looks for the word attachment (and other words like file types) in the body of your message and reminds you to add an attachment before hitting send."
-msgstr ""
+msgstr "সংযুক্তি অনুস্মারকটি আপনার বার্তাটির মূলদেহের মধ্যে শব্দ সংযুক্তি (এবং অন্যান্য শব্দ যেমন ফাইলের ধরন) সন্ধান করে এবং পাঠানোর আগে আপনাকে সংযুক্তি যোগ করার জন্য মনে করিয়ে দেয়।"
 
 #: website/features/index.html:103
 msgid "Tabs"
@@ -426,14 +429,18 @@ msgid ""
 "If you like Firefox’s tabbed browsing, you’re going to love tabbed email. Tabbed email lets you load emails in separate tabs so you can quickly jump between them. Perhaps you’re responding to an "
 "email and need to refer back to an earlier email. Tabbed email lets you keep multiple emails open for easy reference."
 msgstr ""
+"আপনি যদি ফায়ারফক্সের ট্যাবড ব্রাউজিং পছন্দ করেন, তবে ট্যাবেড ইমেলটি আপনার খুবই পছন্দ হবে। ট্যাবেড ইমেল আপনাকে পৃথক ট্যাবে ইমেল লোড করতে দেয় যাতে আপনি দ্রুত তাদের মধ্যে যাওয়া আসা করতে পারেন। সম্ভবত"
+" আপনি একটি ইমেলের উত্তর দিচ্ছেন এবং আপনার একটি পূর্ববর্তী ইমেইল ফিরে পড়া প্রয়োজন। ট্যাবেড ইমেল আপনাকে সহজ সম্পর্কস্থাপনের জন্য একাধিক ইমেল খোলা রাখতে দেয়।"
 
 #: website/features/index.html:105
 msgid "Double-clicking or hitting enter on a mail message will now open that message in a new tab window. Right-clicking on messages or folders will open them in a tab in the background."
-msgstr ""
+msgstr "একটি মেইল ​​বার্তায় ডাবল-ক্লিকে বা হিটিং এ একটি নতুন ট্যাব উইন্ডোতে সেই বার্তাটি খুলবে। বার্তা বা ফোল্ডারগুলিতে রাইট ক্লিক করলে তাদের পেছনে একটি ট্যাবে খোলা হবে।"
 
 #: website/features/index.html:106
 msgid "When quitting Thunderbird, visible tabs will be saved and will be restored when you open Thunderbird the next time. There is also a Tab menu on the Tab toolbar to help you switch between Tabs."
 msgstr ""
+"Thunderbird ছেড়ে যাওয়ার সময়, দৃশ্যমান ট্যাবগুলি সংরক্ষণ করা হবে এবং আপনি পরবর্তী সময় Thunderbird টি খুললে তা পুনরুদ্ধার করা হবে। ট্যাবগুলির মধ্যে পরিবর্তিত হতে আপনাকে সহায়তা করার জন্য ট্যাব "
+"টুলবারে একটি ট্যাব মেনু রয়েছে।"
 
 #: website/features/index.html:126
 msgid "Quick Filter Toolbar"
@@ -489,13 +496,15 @@ msgstr ""
 
 #: website/features/index.html:180
 msgid "Thunderbird Look & Feel"
-msgstr ""
+msgstr "Thunderbird দৃশ্য ও উপলব্ধ"
 
 #: website/features/index.html:181
 msgid ""
 "With Personas, lightweight \"skins\" allow you to change the look and feel of Thunderbird in an instant. Hundreds of skins are available from the latest movies, famous landmarks, and Japanese "
 "tattoos. You can also choose from several Themes that dress up all the different icons in Thunderbird."
 msgstr ""
+"পারসোনার সঙ্গে, লাইটওয়েট \"স্কিনস\" আপনাকে একটি তাৎক্ষণিক Thunderbird দৃশ্য এবং অনুভূতি পরিবর্তন করতে দেয়। শত-শত স্কিনস সর্বশেষ সিনেমা, বিখ্যাত ল্যান্ডমার্ক এবং জাপানিজ ট্যাটু সহজলভ্য রয়েছে। আপনি "
+"বেশকয়েকটি থিমও চয়ন করতে পারেন যা Thunderbird এর বিভিন্ন আইকনগুলি দিয়ে সাজানো।"
 
 #: website/features/index.html:184
 msgid "Smart Folders"
