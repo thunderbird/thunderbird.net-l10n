@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-08 11:42-0700\n"
+"POT-Creation-Date: 2019-11-28 15:08-0800\n"
 "PO-Revision-Date: 2019-08-27 14:01+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language-Team: none\n"
@@ -89,9 +89,8 @@ msgid ""
 "for all."
 msgstr "覺得找到某個 Thunderbird 的問題嗎？<a href=\"%(bug)s\">請回報 Bug</a>，讓我們可以確保問題能被修正。請幫助我們找出並修正 Bug，讓大家都能有一套更好的 Thunderbird。"
 
-#: website/404.html:7 website/404.html:14 website/404.html:26 website/base-resp.html:30 website/download/index.html:7 website/download/index.html:14 website/download/index.html:26
-#: website/download/index.html:36 website/download/index.html:55 website/index.html:7 website/index.html:14 website/index.html:26 website/index.html:40 website/index.html:59
-#: website/site-footer.html:31 website/thunderbird/releases/index.html:18
+#: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:137
+#: website/index.html:156 website/site-footer.html:4 website/site-footer.html:45
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
@@ -100,113 +99,201 @@ msgid "There’s nothing here!"
 msgstr "這裡什麼都沒有！"
 
 #: website/404.html:9
-#, python-format
-msgid "The page you are looking for doesn’t exist. If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
+#, fuzzy, python-format
+msgid "The page you are looking for doesn’t exist.<br/>If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
 msgstr "您想要開啟的頁面並不存在。若您覺得這是一個錯誤，請到<a href=\"%(bug_report_url)s\">回報問題</a>。"
 
-#: website/404.html:32
+#: website/404.html:23
 msgid "Empty nest"
 msgstr "空巢一個"
 
-#: website/base-resp.html:28
-msgid "Menu"
-msgstr "選單"
+#: website/base-resp.html:20 website/site-footer.html:5
+#, fuzzy
+msgid "Thunderbird Vector Wordmark"
+msgstr "Thunderbird Beta"
 
-#: website/base-resp.html:34
-msgid "Beta"
-msgstr "Beta"
-
-#: website/base-resp.html:39
-msgid "Features"
-msgstr "功能"
-
-#: website/base-resp.html:44
-msgid "Releases"
-msgstr "發行版本"
-
-#: website/base-resp.html:50
-msgid "Calendar Add-on"
-msgstr "行事曆附加元件"
-
-#: website/base-resp.html:56
-msgid "Thunderbird for Organizations"
-msgstr "供企業或組織使用的 Thunderbird"
-
-#: website/base-resp.html:63 website/base-resp.html:68
-msgid "Add-ons"
-msgstr "附加元件"
-
-#: website/base-resp.html:73
-msgid "Themes"
-msgstr "佈景主題"
-
-#: website/base-resp.html:80
-msgid "Support"
-msgstr "支援"
-
-#: website/base-resp.html:86
-msgid "Get Involved"
-msgstr "參與我們"
-
-#: website/base-resp.html:93
-msgid "Blog"
-msgstr "部落格"
-
-#: website/base-resp.html:99 website/site-footer.html:17
+#: website/base-resp.html:29 website/base-resp.html:53 website/donate-mailing-list.html:12
 msgid "Donate"
 msgstr "捐款支持"
 
-#: website/download-button.html:7 website/download-button.html:51 website/download/index.html:8
+#: website/base-resp.html:34
+msgid "Features"
+msgstr "功能"
+
+#: website/base-resp.html:37
+msgid "Add-ons"
+msgstr "附加元件"
+
+#: website/base-resp.html:40 website/site-footer.html:15 website/site-prefooter.html:9 website/site-prefooter.html:12
+msgid "Get Involved"
+msgstr "參與我們"
+
+#: website/base-resp.html:43 website/site-footer.html:18
+#, fuzzy
+msgid "Get Help"
+msgstr "取得幫助"
+
+#: website/about/index.html:7 website/base-resp.html:46 website/site-footer.html:24
+msgid "About Us"
+msgstr "關於我們"
+
+#: website/base-resp.html:49 website/site-footer.html:21
+msgid "Blog"
+msgstr "部落格"
+
+#: website/donate-mailing-list.html:7
+msgid "Thunderbird is funded by users like you"
+msgstr ""
+
+#: website/donate-mailing-list.html:9
+msgid "Thunderbird is both free and freedom respecting, but we’re also completely funded by donations! Help us sustain the project and continue to improve."
+msgstr ""
+
+#: website/donate-mailing-list.html:17
+msgid "Join our Newsletter"
+msgstr ""
+
+#: website/donate-mailing-list.html:19
+msgid "Keep up with the latest and greatest updates on news, features, events, and previews, and get a sneak peek on the upcoming releases."
+msgstr ""
+
+#: website/donate-mailing-list.html:26
+msgid "Your Email"
+msgstr ""
+
+#: website/donate-mailing-list.html:28
+msgid "Sign me up!"
+msgstr ""
+
+#: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9
 msgid "Download Thunderbird"
 msgstr "下載 Thunderbird"
 
-#: website/download-button.html:28
+#: website/download-button.html:35
 #, python-format
 msgid "Your system doesn't meet the <a href=\"%(url)s\">requirements</a> to run Thunderbird."
 msgstr "您的系統不符合執行 Thunderbird 的<a href=\"%(url)s\">最低需求</a>。"
 
-#: website/download-button.html:31
+#: website/download-button.html:38
 #, python-format
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
 msgstr "請依照<a href=\"%(url)s\">下列步驟</a>安裝 Thunderbird。"
 
-#: website/download-button.html:47
+#: website/download-button.html:53 website/site-prefooter.html:47
 msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
-#: website/download-button.html:49
-msgid "<span>Thunderbird</span> Earlybird"
-msgstr "<span>Thunderbird</span> Earlybird"
+#: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
+#, fuzzy
+msgid "Thunderbird Nightly"
+msgstr "Thunderbird Beta"
 
-#: website/download-button.html:60
+#: website/download-button.html:66
 msgid "Systems &amp; Languages"
 msgstr "其他系統與語言"
 
-#: website/download-button.html:62
+#: website/download-button.html:67
 msgid "What’s New"
 msgstr "新鮮事"
 
-#: website/download-button.html:64 website/site-footer.html:22
+#: website/download-button.html:69 website/site-footer.html:57
 msgid "Privacy"
 msgstr "隱私權"
 
-#: website/about/index.html:38 website/index.html:8
-msgid "Software made to make email easier."
-msgstr "讓收發電子郵件變得更簡單。"
-
 #: website/index.html:9
+msgid "Make Email Easier."
+msgstr ""
+
+#: website/index.html:10
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
 msgstr "Thunderbird 是可以讓您簡單設定與自訂的一套免費電子郵件軟體 - 裡面有超多超棒的功能！"
 
-#: website/download/index.html:29 website/index.html:30
+#: website/about/index.html:32 website/download/index.html:19 website/index.html:17
 msgid "Free Download"
 msgstr "免費下載"
 
-#: website/index.html:35
+#: website/download/index.html:23 website/index.html:21
 msgid "Thunderbird screenshot"
 msgstr "Thunderbird 畫面擷圖"
 
-#: website/download/index.html:41 website/download/index.html:61 website/index.html:45 website/index.html:65
+#: website/index.html:29
+msgid "Tailored for all your needs"
+msgstr ""
+
+#: website/index.html:32
+msgid "Thunderbird makes email better for you, bringing together speed, privacy and the latest technologies. Focus on what matters and forget about complexity."
+msgstr ""
+
+#: website/index.html:34
+msgid "Explore all Features"
+msgstr ""
+
+#: website/index.html:41
+msgid "Secure &amp; Private"
+msgstr ""
+
+#: website/index.html:44
+msgid "Multiple features, such as built-in Do Not Track and remote content blocking, work together to ensure your safety and privacy, so you can have peace of mind."
+msgstr ""
+
+#: website/index.html:46
+msgid "Know your rights"
+msgstr ""
+
+#: website/index.html:53
+msgid "Highly Customizable"
+msgstr ""
+
+#: website/index.html:56
+msgid "With Add-ons(Extensions & Themes) and many more features you can change the look and feel of Thunderbird in an instant."
+msgstr ""
+
+#: website/index.html:58
+msgid "Make it personal"
+msgstr ""
+
+#: website/index.html:66
+msgid "Stay in the loop"
+msgstr ""
+
+#: website/index.html:68
+msgid "Keep yourself up to date with recent announcements and releases by following the official Thunderbird Blog!"
+msgstr ""
+
+#: website/index.html:92
+msgid "Read the Blog"
+msgstr ""
+
+#: website/about/index.html:37 website/index.html:103
+msgid "Lightning Calendar screenshot"
+msgstr ""
+
+#: website/index.html:110
+msgid "Lightning Calendar"
+msgstr ""
+
+#: website/index.html:112
+msgid "Organize your life — it’s about time!"
+msgstr ""
+
+#: website/index.html:117
+msgid "Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird email."
+msgstr ""
+
+#: website/index.html:120
+msgid "Manage multiple calendars, create your daily to do list, invite friends to events, and subscribe to public calendars."
+msgstr ""
+
+#: website/index.html:123
+#, fuzzy
+msgid "Explore Features"
+msgstr "功能"
+
+#: website/index.html:126
+msgid "Explore More Add-ons"
+msgstr ""
+
+#: website/download/index.html:35 website/download/index.html:55 website/index.html:142 website/index.html:162
 msgid "Mozilla"
 msgstr "Mozilla"
 
@@ -218,77 +305,124 @@ msgstr "頁面語言:"
 msgid "Other languages:"
 msgstr "其他語言："
 
-#: website/lang_switcher.html:23
+#: website/lang_switcher.html:30
 msgid "Go"
 msgstr "衝！"
 
-#: website/site-footer.html:6
-#, python-format
-msgid ""
-"Portions of this content are ©1998–%(current_year)s by individual\n"
-"              mozilla.org contributors. Content available under\n"
-"              a <a href=\"%(url)s\">Creative Commons license</a>."
-msgstr "本頁的部分內容著作權為 ©1998–%(current_year)s 由個別 mozilla.org 貢獻者所有，使用<a href=\"%(url)s\">創用 CC 授權條款</a>授權大眾使用。"
+#: website/site-footer.html:12
+#, fuzzy
+msgid "For Organizations"
+msgstr "供企業或組織使用的 Thunderbird"
 
-#: website/site-footer.html:15
-msgid "About"
-msgstr "關於"
-
-#: website/site-footer.html:16
+#: website/site-footer.html:27
 msgid "Contact Us"
 msgstr "聯絡我們"
 
-#: website/site-footer.html:18
-msgid "Contribute to this site"
-msgstr "貢獻至此網站"
-
-#: website/site-footer.html:23
+#: website/site-footer.html:60
 msgid "Cookies"
 msgstr "Cookie"
 
-#: website/site-footer.html:24
+#: website/site-footer.html:64
 msgid "Legal"
 msgstr "法律資訊"
 
-#: website/site-footer.html:25
+#: website/site-footer.html:68
 msgid "Report Trademark Abuse"
 msgstr "回報商標濫用"
 
-#: website/about/index.html:7
-msgid "About Us"
-msgstr "關於我們"
+#: website/site-footer.html:73
+#, fuzzy, python-format
+msgid ""
+"Portions of this content are ©1998–%(current_year)s by individual\n"
+"      mozilla.org contributors. Content available under\n"
+"      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
+msgstr "本頁的部分內容著作權為 ©1998–%(current_year)s 由個別 mozilla.org 貢獻者所有，使用<a href=\"%(url)s\">創用 CC 授權條款</a>授權大眾使用。"
 
-#: website/about/index.html:10
-msgid "About the Thunderbird Project."
-msgstr "關於 Thunderbird Project。"
+#: website/site-footer.html:81
+msgid "Contribute to this site"
+msgstr "貢獻至此網站"
 
-#: website/about/index.html:27 website/about/index.html:35
+#: website/site-prefooter.html:14
+#, fuzzy
+msgid "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users."
+msgstr "Thunderbird 是一套開放原始碼專案，代表任何人都可以貢獻點子、設計、程式碼或時間來幫助其他使用者。也可以成為使用者支援團隊的一員，讓 Thunderbird 變得更棒。<a class=\"more\" href=\"%(contribute)s\">加入我們</a>"
+
+#: website/site-prefooter.html:17
+msgid "Join Us"
+msgstr ""
+
+#: website/site-prefooter.html:20
+#, fuzzy
+msgid "Make a Donation"
+msgstr "捐款"
+
+#: website/site-prefooter.html:22
+#, fuzzy
+msgid "Get Support"
+msgstr "支援"
+
+#: website/site-prefooter.html:24
+msgid "Report a Bug"
+msgstr ""
+
+#: website/site-prefooter.html:50
+#, fuzzy
+msgid "The Future of Thunderbird"
+msgstr "Thunderbird 是什麼？"
+
+#: website/site-prefooter.html:52
+#, fuzzy
+msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
+msgstr "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">提供意見回饋</a>，幫助我們對最終發行版本中的功能做更細微的修改與調整"
+
+#: website/site-prefooter.html:55
+#, fuzzy
+msgid "Download Beta"
+msgstr "免費下載"
+
+#: website/site-prefooter.html:67
+msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Nightly channel."
+msgstr ""
+
+#: website/site-prefooter.html:71
+msgid "WARNING!"
+msgstr ""
+
+#: website/site-prefooter.html:73
+msgid "Nightly is an unstable testing and development platform, make sure you back up important data regularly!"
+msgstr ""
+
+#: website/site-prefooter.html:76
+msgid "Download Nightly"
+msgstr ""
+
+#: website/about/index.html:22
 msgid "What is Thunderbird?"
 msgstr "Thunderbird 是什麼？"
 
-#: website/about/index.html:28 website/about/index.html:51
-msgid "Who We Are"
-msgstr "我們是誰"
+#: website/about/index.html:24
+msgid "Software made to make email easier."
+msgstr "讓收發電子郵件變得更簡單。"
 
-#: website/about/index.html:29 website/about/index.html:72
-msgid "Thunderbird and Mozilla Foundation"
-msgstr "Thunderbird 與 Mozilla Foundation"
-
-#: website/about/index.html:44
+#: website/about/index.html:29
 msgid ""
 "Thunderbird is a free and open source email, newsfeed, chat, and calendaring client, that’s easy to set up and customize. One of the core principles of Thunderbird is the use and promotion of open "
 "standards - this focus is a rejection of our world of closed platforms and services that can’t communicate with each other. We want our users to have freedom and choice in how they communicate."
 msgstr "Thunderbird 是一套自由且開放原始碼的電子郵件、新聞群組、聊天、行事曆軟體，很簡單就能設定與自訂。Thunderbird 的其中一項核心理念就是要善用並推廣開放標準 - 尤其是不希望採用封閉平台，或是不能讓彼此之間自由溝通的服務。我們希望使用者們能擁有溝通與選擇的自由。"
 
-#: website/about/index.html:54
+#: website/about/index.html:46
+msgid "Who We Are"
+msgstr "我們是誰"
+
+#: website/about/index.html:48
 msgid "We are a community making communication free and open."
 msgstr "我們是一個致力於讓溝通變得自由與開放的社群組織。"
 
-#: website/about/index.html:60
+#: website/about/index.html:61
 msgid "Our Community"
 msgstr "我們的社群"
 
-#: website/about/index.html:61
+#: website/about/index.html:63
 #, python-format
 msgid ""
 "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
@@ -298,23 +432,27 @@ msgstr ""
 "有一群熱心的志工參與 Thunderbird 的開發並協助使用者使用，若您願意參與也不勝感激。歡迎到<a href=\"%(volunteer)s\">參與我們</a>頁面瞭解可以協助 Thunderbird 團隊的哪些工作。我們也<a href=\"%(donate)s\">接受來自使用者的捐款</a>，編制受薪員工全職參與 Thunderbird 專案。若您好奇有哪些人在 "
 "Thunderbird 團隊工作，歡迎到<a href=\"%(core_team)s\">核心貢獻者清單頁面</a>了解更多資訊。"
 
-#: website/about/index.html:64
+#: website/about/index.html:68
 msgid "Thunderbird Council"
 msgstr "Thunderbird Council"
 
-#: website/about/index.html:65
+#: website/about/index.html:70
 #, python-format
 msgid ""
 "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
 "href=\"%(council)s\">on the Thunderbird wiki</a>."
 msgstr "Thunderbird 專案是由七位從 Thunderbird 的活躍貢獻者互相選出的委員所帶領治理的。您可以到 <a href=\"%(council)s\">Thunderbird wiki</a> 了解目前的 Thunderbird Council 成員有哪些人。"
 
-#: website/about/index.html:75
+#: website/about/index.html:82
+msgid "Thunderbird and Mozilla Foundation"
+msgstr "Thunderbird 與 Mozilla Foundation"
+
+#: website/about/index.html:84
 #, python-format
 msgid "Thunderbird lives at the nonprofit <a href=\"%(foundation)s\">Mozilla Foundation</a>."
 msgstr "Thunderbird 是非營利組織 <a href=\"%(foundation)s\">Mozilla Foundation</a> 旗下的一部分。"
 
-#: website/about/index.html:81
+#: website/about/index.html:89
 #, python-format
 msgid ""
 "Thunderbird is an independent project with its legal and financial home at <a href=\"%(foundation)s\">the Mozilla Foundation</a>. The Mozilla Foundation believes the Internet is a global public "
@@ -325,33 +463,7 @@ msgstr ""
 "Thunderbird 是一個獨立的軟體專案，僅有法務與財務奠基於 <a href=\"%(foundation)s\">Mozilla Foundation</a> 當中。Mozilla Foundation 相信，網際網路是全球的公共資源，必須保持開放，讓任何人都能隨意使用。它著重於提出倡議，並確保網路環境生態的健康；同時也是 Firefox 的開發者 Mozilla "
 "Corporation 的唯一股東。本專案並不由 Mozilla 進行任何管理，而是由 Thunderbird 專案社群成員所互相推選而出的 Thunderbird Council 進行管理。本專案<a href=\"%(home_blog_post)s\">在 2017 年，探索法律上的組織模式</a>後，Mozilla Foundation 成為 Thunderbird 實際的家。"
 
-#: website/channel/index.html:7
-msgid "Download Thunderbird Beta &amp; Try the Next Thunderbird"
-msgstr "下載 Thunderbird Beta，搶先測試下一版的 Thunderbird"
-
-#: website/channel/index.html:8
-msgid "Download and test Thunderbird Beta and experience features and fixes early!"
-msgstr "下載並測試 Thunderbird Beta，搶先體驗全新功能！"
-
-#: website/channel/index.html:18
-msgid "Welcome to the <strong>Future of Thunderbird</strong>"
-msgstr "歡迎使用 <strong>Thunderbird 未來發行版本</strong>"
-
-#: website/channel/index.html:19
-msgid ""
-"Download Thunderbird Beta and be one of the first to try the newest features in the next version of Thunderbird! By giving us your feedback, you’ll help make email better for millions of your fellow"
-" users."
-msgstr "下載 Thunderbird Beta，搶先體驗下一版 Thunderbird 當中的最新功能！透過提供意見，您將能夠幫助其他數以百萬的使用者有一個更好的郵件收發體驗。"
-
-#: website/channel/index.html:30
-msgid "Experience cutting edge features with more stability"
-msgstr "在更穩定的環境中體驗最新功能"
-
-#: website/channel/index.html:31
-msgid "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Provide feedback</a> to help refine and polish what will be in the final release"
-msgstr "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">提供意見回饋</a>，幫助我們對最終發行版本中的功能做更細微的修改與調整"
-
-#: website/download/index.html:9
+#: website/download/index.html:10
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
 msgstr "將自動開始下載。沒有開始嗎？請點擊下面的按鈕！"
 
@@ -363,260 +475,401 @@ msgstr "Thunderbird 功能總覽"
 msgid "It’s all yours. It’s now easier to upgrade to Thunderbird."
 msgstr "以您為本。現在更簡單就能升級到 Thunderbird。"
 
-#: website/features/index.html:31 website/features/index.html:40
+#: website/features/index.html:27 website/features/index.html:45
 msgid "Easier to Get Started"
 msgstr "更簡單就能上手"
 
-#: website/features/index.html:32 website/features/index.html:91
+#: website/features/index.html:30 website/features/index.html:100
 msgid "Tabs and Search"
 msgstr "分頁與搜尋"
 
-#: website/features/index.html:33 website/features/index.html:164
+#: website/features/index.html:33 website/features/index.html:160
 msgid "Customize Your Email Experience"
 msgstr "自訂您的電子郵件體驗"
 
-#: website/features/index.html:34 website/features/index.html:199
+#: website/features/index.html:36 website/features/index.html:220
 msgid "Secure and Protect Your Email"
 msgstr "安全性與保護您的電子郵件"
 
-#: website/features/index.html:45
+#: website/features/index.html:54
 msgid "Mail Account Setup Wizard"
 msgstr "郵件帳號設定精靈"
 
-#: website/features/index.html:46
+#: website/features/index.html:56
 msgid ""
 "Prior to this feature you had to know your IMAP, SMTP, and SSL/TLS settings. Now all you need to provide is your name, email address, and password and the email account set up wizardry will check "
 "our database and find the email settings for you."
 msgstr "以往您需要您郵件帳號的 IMAP、SMTP，以及 SSL/TLS 設定值。您現在只需要輸入姓名、電子郵件地址，以及密碼。設定精靈將會自動從我們的資料庫當中幫您尋找設定值。"
 
-#: website/features/index.html:64
+#: website/features/index.html:65
 msgid "One-click Address Book"
 msgstr "快捷通訊錄"
 
-#: website/features/index.html:65
+#: website/features/index.html:67
 msgid ""
 "One-click Address Book is a quick and easy way to add people to your address book. Add people by simply clicking on the star icon in the message you receive. Two clicks and you can add more details "
 "like a photo, birthday, and other contact information."
 msgstr "快捷通訊錄是個讓您可以快速將聯絡人加到通訊錄當中的方式。只要點一下您所收到的訊息前面的星星圖示就能將其加入您的通訊錄中，點第二下就能新增聯絡人的照片、生日，或其他詳細資料。"
 
-#: website/features/index.html:71
+#: website/features/index.html:76
 msgid "Attachment Reminder"
 msgstr "附件提示"
 
-#: website/features/index.html:72
+#: website/features/index.html:78
 msgid "The attachment reminder looks for the word attachment (and other words like file types) in the body of your message and reminds you to add an attachment before hitting send."
 msgstr "當您在信件內文當中提到附件或其他關鍵字卻沒有新增附件時，附件提示功能會提醒您記得要加上附件再寄出。"
 
-#: website/features/index.html:103
-msgid "Tabs"
-msgstr "分頁標籤"
+#: website/features/index.html:86
+msgid "Multiple-channel chat"
+msgstr ""
 
-#: website/features/index.html:104
+#: website/features/index.html:88
+msgid ""
+"Enjoy real-time conversation with your contacts, right from your favorite messaging application, with multiple supported networks. Thunderbird makes it easy to search through both past conversations"
+" and received emails."
+msgstr ""
+
+#: website/features/index.html:109
+msgid "Tabbed Email"
+msgstr ""
+
+#: website/features/index.html:111
 msgid ""
 "If you like Firefox’s tabbed browsing, you’re going to love tabbed email. Tabbed email lets you load emails in separate tabs so you can quickly jump between them. Perhaps you’re responding to an "
 "email and need to refer back to an earlier email. Tabbed email lets you keep multiple emails open for easy reference."
 msgstr "若您喜歡 Firefox 的分頁瀏覽功能，那您也一定會喜歡使用分頁閱讀郵件。分頁郵件讓您可以在不同的分頁當中載入電子郵件，這樣您就可以快速地切換。也許您正在回覆某封信，剛好需要參考稍早的另一封郵件，分頁郵件功能就可以讓您保持多封郵件的開啟，以便掌握書信往返的來龍去脈。"
 
-#: website/features/index.html:105
-msgid "Double-clicking or hitting enter on a mail message will now open that message in a new tab window. Right-clicking on messages or folders will open them in a tab in the background."
-msgstr "在郵件上連點兩下或按下 Enter 就可以開啟新的郵件分頁。在郵件或資料夾上按右鍵選擇以新分頁開啟，則會在背景開啟新分頁。"
-
-#: website/features/index.html:106
+#: website/features/index.html:114
 msgid "When quitting Thunderbird, visible tabs will be saved and will be restored when you open Thunderbird the next time. There is also a Tab menu on the Tab toolbar to help you switch between Tabs."
 msgstr "離開 Thunderbird 時，開啟的分頁標籤將會被儲存，並在您下次執行 Thunderbird 時還原。在分頁工具列當中也有分頁選單，幫助您在分頁標籤之間切換。"
 
-#: website/features/index.html:126
+#: website/features/index.html:127
 msgid "Quick Filter Toolbar"
 msgstr "快速過濾列"
 
-#: website/features/index.html:127
+#: website/features/index.html:129
 msgid ""
 "The Quick Filter Toolbar lets you filter your email faster. Start typing in words in the Quick Filter search box and the results are displayed instantly. Or you can filter your email by New "
 "Messages, Tags, and people in your Address Book. You can also \"Pin\" or save a Filter and use it across multiple folders."
 msgstr "快速過濾列讓您可以更快過濾出您的信件。在快速過濾搜尋框當中輸入文字就會立即顯示搜尋結果。您也可以依據新訊息、分頁標籤，或是您通訊錄裡面的人員等條件進行過濾。您也可以點選圖釘圖示儲存過濾條件，將其使用於任何資料夾。"
 
-#: website/features/index.html:137
-msgid "Search"
+#: website/features/index.html:138
+#, fuzzy
+msgid "Search Tools"
 msgstr "搜尋"
 
-#: website/features/index.html:138
+#: website/features/index.html:140
+#, fuzzy
 msgid ""
-"The search interface in Thunderbird contains filtering and timeline tools to pinpoint the exact email you’re looking for. Thunderbird also indexes all of your emails to help you search even faster. "
-"Your search results are displayed in a tab so you can easily switch back and forth to your search results and other email."
+"The search interface in Thunderbird contains filtering and timeline tools to pinpoint the exact email you’re looking for. Thunderbird also indexes all of your emails and chat conversations to help "
+"you search even faster. Your search results are displayed in a tab so you can easily switch back and forth to your search results and other email."
 msgstr "Thunderbird 的搜尋介面包含了篩選與時間軸工具，讓您可以正確地找到您要的那封郵件。Thunderbird 也會幫您所有的電子郵件製作索引，讓您可以搜尋得更快。您的搜尋結果會顯示於獨立的分頁當中，如此一來您就可以簡單地切換您的搜尋結果以及其他電子郵件。"
 
-#: website/features/index.html:147
+#: website/features/index.html:149
 msgid "Message Archive"
 msgstr "備存郵件"
 
-#: website/features/index.html:148
+#: website/features/index.html:151
 msgid ""
 "If you think you’re going to need an email in the future but want it out of your inbox without deleting it, archive it! Archiving helps you manage your inbox and put your email into the archive "
 "folder system."
 msgstr "如果想保存郵件供日後閱讀，又不希望郵件出現在收件匣中，您可以將其備存。備存功能讓您更有效率的管理收件匣。"
 
-#: website/features/index.html:149
-msgid "Selecting the Archive button or hitting the ‘A’ key will archive your email."
-msgstr "按下備存按鈕或是「A」鍵就能備存您的電子郵件。"
+#: website/features/index.html:169
+msgid "Large Files Management"
+msgstr ""
 
-#: website/features/index.html:155
-msgid "Activity Manager"
-msgstr "活動管理員"
+#: website/features/index.html:171
+msgid "Share large files with Thunderbird Filelink!"
+msgstr ""
 
-#: website/features/index.html:156
+#: website/features/index.html:175
 msgid ""
-"The Activity Manager records all the interactions between Thunderbird and your email provider in one place. There’s no more guess work. You only have to look in one place to see everything that’s "
-"happening with your email."
-msgstr "活動管理員會集中記錄 Thunderbird 與您的郵件服務提供者之間所有的互動，方便您檢視之前做過哪些操作。"
+"You can now speed up the transfer of large documents by uploading them to an online storage provider and sharing the link instead of sending the file directly as a message attachment. Improve the "
+"speed of sending email and avoid message rejection if the recipient’s server disallows large files. As an added bonus, you’ll also save space in your sent folder and the recipient’s inbox."
+msgstr ""
 
-#: website/features/index.html:180
+#: website/features/index.html:188
 msgid "Thunderbird Look & Feel"
 msgstr "Thunderbird 外觀"
 
-#: website/features/index.html:181
+#: website/features/index.html:190
 msgid ""
-"With Personas, lightweight \"skins\" allow you to change the look and feel of Thunderbird in an instant. Hundreds of skins are available from the latest movies, famous landmarks, and Japanese "
-"tattoos. You can also choose from several Themes that dress up all the different icons in Thunderbird."
-msgstr "透過輕量級的個性面板 Personas，您可以隨時改變 Thunderbird 的外觀，包含最新電影、著名地標、甚至是和風彩繪等主題。你也可以選擇使用各類的佈景主題，完全改變 Thunderbird 的圖示與外觀。"
+"Themes allow you to change the look of Thunderbird in an instant. Working on getting to inbox zero at night? Turn on the dark theme to make managing your email easier on the eyes. Thunderbird ships "
+"with both light and dark themes, and more are available as add-ons."
+msgstr ""
 
-#: website/features/index.html:184
+#: website/features/index.html:199
 msgid "Smart Folders"
 msgstr "智慧資料夾"
 
-#: website/features/index.html:185
+#: website/features/index.html:201
 msgid ""
 "Smart Folders help you manage multiple email accounts by combining special folders like your Inbox, Sent, or Archive folder. Instead of going to the Inbox for each of your mail accounts, you can see"
 " all of your incoming email in one Inbox folder."
 msgstr "您可以在智慧資料夾的收件匣中，一次閱讀所有帳號的新進郵件。智慧資料夾整合了多個帳號的資料，讓您透過同一組收件匣、寄件備份、或備存資料夾，管理多個電子郵件帳號。"
 
-#: website/features/index.html:190
+#: website/features/index.html:210
 msgid "Add-ons Manager"
 msgstr "附加元件管理員"
 
-#: website/features/index.html:191
+#: website/features/index.html:212
 msgid ""
 "Find and install add-ons directly in Thunderbird. You no longer need to visit the add-ons Web site - instead simply fire up the Add-ons Manager. Not sure which add-on is right for you? Ratings, "
 "recommendations, descriptions and pictures of the add-ons in action help you make your selection."
 msgstr "您無須另外瀏覽附加元件網站，只要開啟 Thunderbird 附加元件管理員，就可直接搜尋並安裝需要的附加元件。完整的說明、圖片、評分、與推薦，能幫助您找到需要的附加元件。"
 
-#: website/features/index.html:208
+#: website/features/index.html:230
 msgid "Robust Privacy"
 msgstr "強化隱私"
 
-#: website/features/index.html:209
+#: website/features/index.html:232
 msgid "Thunderbird offers support for user privacy and remote image protection. To ensure a user’s privacy, Thunderbird automatically blocks remote images in email messages."
 msgstr "Thunderbird 會自動阻擋郵件中的遠端圖片，以強化使用者的隱私保護。"
 
-#: website/features/index.html:216
+#: website/features/index.html:241
 msgid "Phishing Protection"
 msgstr "釣魚保護"
 
-#: website/features/index.html:217
+#: website/features/index.html:243
 msgid ""
 "Thunderbird protects you from email scams which try to trick users into handing over personal and confidential information by indicating when a message is a potential phishing attempt. As a second "
 "line of defense, Thunderbird warns you when you click on a link which appears to be taking you to a different Web site than the one indicated by the URL in the message."
 msgstr "詐騙郵件（或稱為釣魚郵件）常偽裝成您熟悉的網站，以騙取個人資訊。Thunderbird 在偵測到這類郵件時會發出通知，讓您免於詐騙郵件的威脅。Thunderbird 還有第二道對抗詐騙郵件的手段，當您點下的連結跟郵件中顯示的網站不同時，Thunderbird 也會發出警告。"
 
-#: website/features/index.html:225
+#: website/features/index.html:252
 msgid "Automated Update"
 msgstr "自動更新"
 
-#: website/features/index.html:228
+#: website/features/index.html:254
 msgid ""
 "Thunderbird’s update system checks to see if you’re running the latest version, and notifies you when a security update is available. These security updates are small (usually 200KB - 700KB), giving"
 " you only what you need and making the security update quick to download and install. The automated update system provides updates for Thunderbird on Windows, macOS, and Linux in over 40 different "
 "languages."
 msgstr "Thunderbird 的自動更新系統會檢查您是否已經更新到最新版本，也會通知您有新的安全更新。安全更新檔案很小（通常介於 200KB 至 700KB 間），只會包含必要的部份，以確保能在最短的時間內安裝完成。Thunderbird 的自動更新功能可以在 Windows、macOS 與 Linux 上執行，並且支援 40 種以上的語言版本。"
 
-#: website/features/index.html:230
-msgid ""
-"Thunderbird’s update system checks to see if you’re running the latest version, and notifies you when a security update is available. These security updates are small (usually 200KB - 700KB), giving"
-" you only what you need and making the security update quick to download and install. The automated update system provides updates for Thunderbird on Windows, OS X, and Linux in over 40 different "
-"languages."
-msgstr "Thunderbird 的更新系統會檢查您是否執行的是最新版本，並在有安全性更新推出時通知您。安全性更新通常比較小（約為 200KB - 700KB），讓您可以快速下載安裝。此自動更新系統會為 Windows、OS X 及 Linux 平台上，超過 40 種語言版本的 Thunderbird 提供服務。"
-
-#: website/features/index.html:238
+#: website/features/index.html:261
 msgid "Cutting Out the Junk"
 msgstr "排除垃圾信"
 
-#: website/features/index.html:239
+#: website/features/index.html:263
 msgid ""
 "Thunderbird’s popular junk mail tools have been updated to stay ahead of spam. Each email you receive passes through Thunderbird’s leading-edge junk mail filters. Each time you mark messages as "
 "spam, Thunderbird \"learns\" and improves its filtering so you can spend more time reading the mail that matters. Thunderbird can also use your mail provider’s spam filters to keep junk mail out of "
 "your inbox."
 msgstr "為了反制垃圾郵件，Thunderbird 強化了垃圾信工具。Thunderbird 先進的垃圾信過濾器會檢查您所收到的每封信件。而在您將信件標示為垃圾信時，Thunderbird 也會跟著「學習」，改進自身的垃圾信過濾機制，讓您寶貴的時間不會耗費在無意義的雜務上。Thunderbird 也能夠使用您的郵件服務提供者的過濾機制，確保垃圾郵件不會進入您的收件匣。"
 
-#: website/features/index.html:242
+#: website/features/index.html:268
 msgid "Open Source"
 msgstr "開放原始碼"
 
-#: website/features/index.html:243
+#: website/features/index.html:270
 msgid ""
 "At the heart of Thunderbird is an open source development process driven by thousands of passionate, experienced developers and security experts spread all over the world. Our openness and active "
 "community of experts helps to ensure our products are more secure and quickly updated, while also enabling us to take advantage of the best third party security scanning and evaluation tools to "
 "further bolster overall security."
 msgstr "Thunderbird 的前進動力來自於開放原始碼的研發流程：由成千上萬分散於世界各地，擁有熱情與經驗的程式開發者與安全專家共同參與。我們的社群開放而活躍，由專家協助打造更安全的產品、更快的進行程式更新，我們同時也能受惠於第三方的安全檢測工具，進一步強化整體安全性。"
 
+#: website/thunderbird/68.0/whatsnew/index.html:7
+#, fuzzy
+msgid "New in Thunderbird 68"
+msgstr "Thunderbird"
+
+#: website/thunderbird/68.0/whatsnew/index.html:13
+#, python-format
+msgid ""
+"This article describes some of the major changes visible to users in Thunderbird version 68.0. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird 68 release "
+"notes</a>."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:25
+msgid "Better Dark Theme"
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:28
+msgid "The dark theme available in Thunderbird has been enhanced with a dark message thread pane as well as many other small improvements."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:38
+msgid "Filelink Improved"
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:41
+msgid ""
+"Filelink attachments that have already been uploaded can now be linked to again instead of having to re-upload them. Also, an account is no longer required to use the default Filelink provider - "
+"<strong>WeTransfer</strong>."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:44
+#, python-format
+msgid "Other Filelink providers like Box and Dropbox are not included by default, but can be added by grabbing the <a href=\"%(dropbox)s\">Dropbox</a> and <a href=\"%(box)s\">Box</a> add-ons."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:52
+msgid "Options/Preferences in a Tab"
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:55
+msgid ""
+"Thunderbirdʼs Options/Preferences have been converted from a dialog window to its own dedicated tab. The new Preferences tab provides more space which allows for better organized content and is more"
+" consistent with the look and feel of the rest of Thunderbird."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:58
+msgid "The new Preferences tab also makes it easier to multi-task without the problem of losing track of where your preferences are when switching between windows."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:67
+#, fuzzy
+msgid "Other Notable Changes"
+msgstr "其他語言："
+
+#: website/thunderbird/68.0/whatsnew/index.html:70
+msgid ""
+"There are many other smaller changes that make Thunderbird 68 feel polished and powerful including: a new App Menu UI, an updated To/CC/BCC selector in compose, improved attachment management, full "
+"color support across the app, filters can now be set to run periodically, and feed articles now show external attachments as links."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:73
+#, python-format
+msgid "There are many other updates in this release, you can see a list of all of them in the <a href=\"%(release)s\">Thunderbird 68 release notes</a>."
+msgstr ""
+
 #: website/thunderbird/all/index.html:10
 msgid "Download Thunderbird in your language"
 msgstr "下載您的語言的 Thunderbird"
 
-#: website/thunderbird/all/index.html:15 website/thunderbird/beta/all/index.html:15
+#: website/thunderbird/all/index.html:14 website/thunderbird/beta/all/index.html:14
 msgid "Be one of the first to try the newest features in Thunderbird. By giving us your feedback, you’ll help us to refine the features that will be included in the final version."
 msgstr "搶先體驗 Thunderbird 的最新功能，並提供意見回饋給我們，就可以幫助我們改善最終版本中要加入的功能。"
 
-#: website/thunderbird/all/index.html:17 website/thunderbird/beta/all/index.html:17
+#: website/thunderbird/all/index.html:16 website/thunderbird/beta/all/index.html:16
 msgid "Get the award-winning email application from Mozilla. Import your existing mail and enjoy our new features like tabbed email and advanced search."
 msgstr "下載來自 Mozilla 獲獎無數的電子郵件軟體，匯入現有郵件後即可馬上享用郵件分頁、進階搜尋等全新功能。"
 
-#: website/thunderbird/all/index.html:34 website/thunderbird/beta/all/index.html:34
+#: website/thunderbird/all/index.html:35 website/thunderbird/beta/all/index.html:35
 msgid "Check the system requirements"
 msgstr "檢查系統需求"
 
-#: website/thunderbird/all/index.html:35 website/thunderbird/beta/all/index.html:35
+#: website/thunderbird/all/index.html:38 website/thunderbird/beta/all/index.html:38
 msgid "Release notes"
 msgstr "發行公告"
 
-#: website/thunderbird/all/index.html:43 website/thunderbird/beta/all/index.html:43
+#: website/thunderbird/all/index.html:41
+#, fuzzy
+msgid "All Releases"
+msgstr "發行版本"
+
+#: website/thunderbird/all/index.html:55
 msgid "Fully localized versions"
 msgstr "完全在地化版本"
+
+#: website/thunderbird/all/index.html:57 website/thunderbird/beta/all/index.html:53
+msgid "Choose your Language and Operating System"
+msgstr ""
 
 #: website/thunderbird/beta/all/index.html:10
 msgid "Download Beta in your language"
 msgstr "下載您的語言的 Beta 版"
 
-#: website/thunderbird/releases/index.html:7
-msgid "Mozilla Thunderbird Release Notes"
-msgstr "Mozilla Thunderbird 發行公告"
+#: website/thunderbird/beta/all/index.html:51
+#, fuzzy
+msgid "Fully localized beta versions"
+msgstr "完全在地化版本"
 
-#: website/thunderbird/releases/index.html:8
+#: website/thunderbird/releases/index.html:7
+#, fuzzy
+msgid "Thunderbird Release Notes"
+msgstr "Thunderbird 發行版本"
+
+#: website/thunderbird/releases/index.html:8 website/thunderbird/releases/index.html:23
 msgid "Release notes for each version of Thunderbird."
 msgstr "每個版本的 Thunderbird 的發行公告。"
 
-#: website/thunderbird/releases/index.html:17
-msgid "Home"
-msgstr "首頁"
-
-#: website/thunderbird/releases/index.html:19
-msgid "Release Notes"
-msgstr "發行公告"
-
-#: website/thunderbird/releases/index.html:25
-msgid "Thunderbird Releases"
-msgstr "Thunderbird 發行版本"
-
-#: website/thunderbird/releases/index.html:26
+#: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Thunderbird 每個版本都會有發行公告。請從下列清單中選擇您的版本，閱讀該版本的發行公告。"
+
+#~ msgid "Menu"
+#~ msgstr "選單"
+
+#~ msgid "Beta"
+#~ msgstr "Beta"
+
+#~ msgid "Calendar Add-on"
+#~ msgstr "行事曆附加元件"
+
+#~ msgid "Themes"
+#~ msgstr "佈景主題"
+
+#~ msgid "<span>Thunderbird</span> Earlybird"
+#~ msgstr "<span>Thunderbird</span> Earlybird"
+
+#~ msgid "About"
+#~ msgstr "關於"
+
+#~ msgid "About the Thunderbird Project."
+#~ msgstr "關於 Thunderbird Project。"
+
+#~ msgid "Download Thunderbird Beta &amp; Try the Next Thunderbird"
+#~ msgstr "下載 Thunderbird Beta，搶先測試下一版的 Thunderbird"
+
+#~ msgid "Download and test Thunderbird Beta and experience features and fixes early!"
+#~ msgstr "下載並測試 Thunderbird Beta，搶先體驗全新功能！"
+
+#~ msgid "Welcome to the <strong>Future of Thunderbird</strong>"
+#~ msgstr "歡迎使用 <strong>Thunderbird 未來發行版本</strong>"
+
+#~ msgid ""
+#~ "Download Thunderbird Beta and be one of the first to try the newest features in the next version of Thunderbird! By giving us your feedback, you’ll help make email better for millions of your fellow"
+#~ " users."
+#~ msgstr "下載 Thunderbird Beta，搶先體驗下一版 Thunderbird 當中的最新功能！透過提供意見，您將能夠幫助其他數以百萬的使用者有一個更好的郵件收發體驗。"
+
+#~ msgid "Experience cutting edge features with more stability"
+#~ msgstr "在更穩定的環境中體驗最新功能"
+
+#~ msgid "Tabs"
+#~ msgstr "分頁標籤"
+
+#~ msgid "Double-clicking or hitting enter on a mail message will now open that message in a new tab window. Right-clicking on messages or folders will open them in a tab in the background."
+#~ msgstr "在郵件上連點兩下或按下 Enter 就可以開啟新的郵件分頁。在郵件或資料夾上按右鍵選擇以新分頁開啟，則會在背景開啟新分頁。"
+
+#~ msgid "Selecting the Archive button or hitting the ‘A’ key will archive your email."
+#~ msgstr "按下備存按鈕或是「A」鍵就能備存您的電子郵件。"
+
+#~ msgid "Activity Manager"
+#~ msgstr "活動管理員"
+
+#~ msgid ""
+#~ "The Activity Manager records all the interactions between Thunderbird and your email provider in one place. There’s no more guess work. You only have to look in one place to see everything that’s "
+#~ "happening with your email."
+#~ msgstr "活動管理員會集中記錄 Thunderbird 與您的郵件服務提供者之間所有的互動，方便您檢視之前做過哪些操作。"
+
+#~ msgid ""
+#~ "With Personas, lightweight \"skins\" allow you to change the look and feel of Thunderbird in an instant. Hundreds of skins are available from the latest movies, famous landmarks, and Japanese "
+#~ "tattoos. You can also choose from several Themes that dress up all the different icons in Thunderbird."
+#~ msgstr "透過輕量級的個性面板 Personas，您可以隨時改變 Thunderbird 的外觀，包含最新電影、著名地標、甚至是和風彩繪等主題。你也可以選擇使用各類的佈景主題，完全改變 Thunderbird 的圖示與外觀。"
+
+#~ msgid ""
+#~ "Thunderbird’s update system checks to see if you’re running the latest version, and notifies you when a security update is available. These security updates are small (usually 200KB - 700KB), giving"
+#~ " you only what you need and making the security update quick to download and install. The automated update system provides updates for Thunderbird on Windows, OS X, and Linux in over 40 different "
+#~ "languages."
+#~ msgstr "Thunderbird 的更新系統會檢查您是否執行的是最新版本，並在有安全性更新推出時通知您。安全性更新通常比較小（約為 200KB - 700KB），讓您可以快速下載安裝。此自動更新系統會為 Windows、OS X 及 Linux 平台上，超過 40 種語言版本的 Thunderbird 提供服務。"
+
+#~ msgid "Mozilla Thunderbird Release Notes"
+#~ msgstr "Mozilla Thunderbird 發行公告"
+
+#~ msgid "Home"
+#~ msgstr "首頁"
+
+#~ msgid "Release Notes"
+#~ msgstr "發行公告"
 
 #~ msgid "If you like Thunderbird, please consider a donation!"
 #~ msgstr "若您喜歡 Thunderbird，請考慮捐款！"
 
 #~ msgid "By donating, you will help us to continue delivering an ad-free top-notch email client."
 #~ msgstr "透過捐款，您將可幫助我們繼續開發最頂尖，又沒有廣告的郵件軟體。"
-
-#~ msgid "Make a donation"
-#~ msgstr "捐款"
 
 #~ msgid "Other ways to contribute to Thunderbird"
 #~ msgstr "貢獻到 Thunderbird 的其他方式"
@@ -667,6 +920,3 @@ msgstr "Thunderbird 每個版本都會有發行公告。請從下列清單中選
 
 #~ msgid "Tips"
 #~ msgstr "秘訣"
-
-#~ msgid "Get help"
-#~ msgstr "取得幫助"

@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-08 11:42-0700\n"
+"POT-Creation-Date: 2019-11-28 15:08-0800\n"
 "PO-Revision-Date: 2019-05-24 01:50+0000\n"
 "Last-Translator: Hyeonseok Shin <hyeonseok@gmail.com>\n"
 "Language-Team: none\n"
@@ -89,9 +89,8 @@ msgid ""
 "for all."
 msgstr "Thunderbird의 문제를 찾은 것 같다는 생각이 드시나요? <a href=\"%(bug)s\">버그 리포트를 작성</a>하여 저희가 해결할 수 있도록 도와주세요. 버그를 확인하고 고쳐서 모두를 위해 더 나은 Thunderbird를 만들 수 있습니다."
 
-#: website/404.html:7 website/404.html:14 website/404.html:26 website/base-resp.html:30 website/download/index.html:7 website/download/index.html:14 website/download/index.html:26
-#: website/download/index.html:36 website/download/index.html:55 website/index.html:7 website/index.html:14 website/index.html:26 website/index.html:40 website/index.html:59
-#: website/site-footer.html:31 website/thunderbird/releases/index.html:18
+#: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:137
+#: website/index.html:156 website/site-footer.html:4 website/site-footer.html:45
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
@@ -100,113 +99,201 @@ msgid "There’s nothing here!"
 msgstr "아무것도 없어요!"
 
 #: website/404.html:9
-#, python-format
-msgid "The page you are looking for doesn’t exist. If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
+#, fuzzy, python-format
+msgid "The page you are looking for doesn’t exist.<br/>If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
 msgstr "찾고 계신 페이지가 존재하지 않습니다. 이것이 버그라고 생각되면 <a href=\"%(bug_report_url)s\">여기서 문제를 보고하실 수 있습니다</a>."
 
-#: website/404.html:32
+#: website/404.html:23
 msgid "Empty nest"
 msgstr "빈 둥지"
 
-#: website/base-resp.html:28
-msgid "Menu"
-msgstr "메뉴"
+#: website/base-resp.html:20 website/site-footer.html:5
+#, fuzzy
+msgid "Thunderbird Vector Wordmark"
+msgstr "Thunderbird 베타"
 
-#: website/base-resp.html:34
-msgid "Beta"
-msgstr "베타"
-
-#: website/base-resp.html:39
-msgid "Features"
-msgstr "주요 기능"
-
-#: website/base-resp.html:44
-msgid "Releases"
-msgstr "출시 현황"
-
-#: website/base-resp.html:50
-msgid "Calendar Add-on"
-msgstr "캘린더 부가기능"
-
-#: website/base-resp.html:56
-msgid "Thunderbird for Organizations"
-msgstr "기업용 Thunderbird"
-
-#: website/base-resp.html:63 website/base-resp.html:68
-msgid "Add-ons"
-msgstr "부가 기능"
-
-#: website/base-resp.html:73
-msgid "Themes"
-msgstr "테마"
-
-#: website/base-resp.html:80
-msgid "Support"
-msgstr "도움말"
-
-#: website/base-resp.html:86
-msgid "Get Involved"
-msgstr "참여하기"
-
-#: website/base-resp.html:93
-msgid "Blog"
-msgstr "블로그"
-
-#: website/base-resp.html:99 website/site-footer.html:17
+#: website/base-resp.html:29 website/base-resp.html:53 website/donate-mailing-list.html:12
 msgid "Donate"
 msgstr "기부하기"
 
-#: website/download-button.html:7 website/download-button.html:51 website/download/index.html:8
+#: website/base-resp.html:34
+msgid "Features"
+msgstr "주요 기능"
+
+#: website/base-resp.html:37
+msgid "Add-ons"
+msgstr "부가 기능"
+
+#: website/base-resp.html:40 website/site-footer.html:15 website/site-prefooter.html:9 website/site-prefooter.html:12
+msgid "Get Involved"
+msgstr "참여하기"
+
+#: website/base-resp.html:43 website/site-footer.html:18
+#, fuzzy
+msgid "Get Help"
+msgstr "도움말"
+
+#: website/about/index.html:7 website/base-resp.html:46 website/site-footer.html:24
+msgid "About Us"
+msgstr "소개"
+
+#: website/base-resp.html:49 website/site-footer.html:21
+msgid "Blog"
+msgstr "블로그"
+
+#: website/donate-mailing-list.html:7
+msgid "Thunderbird is funded by users like you"
+msgstr ""
+
+#: website/donate-mailing-list.html:9
+msgid "Thunderbird is both free and freedom respecting, but we’re also completely funded by donations! Help us sustain the project and continue to improve."
+msgstr ""
+
+#: website/donate-mailing-list.html:17
+msgid "Join our Newsletter"
+msgstr ""
+
+#: website/donate-mailing-list.html:19
+msgid "Keep up with the latest and greatest updates on news, features, events, and previews, and get a sneak peek on the upcoming releases."
+msgstr ""
+
+#: website/donate-mailing-list.html:26
+msgid "Your Email"
+msgstr ""
+
+#: website/donate-mailing-list.html:28
+msgid "Sign me up!"
+msgstr ""
+
+#: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9
 msgid "Download Thunderbird"
 msgstr "Thunderbird 다운로드"
 
-#: website/download-button.html:28
+#: website/download-button.html:35
 #, python-format
 msgid "Your system doesn't meet the <a href=\"%(url)s\">requirements</a> to run Thunderbird."
 msgstr "Thunderbird 설치에 필요한 시스템 <a href=\"%(url)s\">요구 사항</a>을 충족하지 못했습니다."
 
-#: website/download-button.html:31
+#: website/download-button.html:38
 #, python-format
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
 msgstr "Thunderbird <a href=\"%(url)s\">설치 가이드</a>를 참고하세요."
 
-#: website/download-button.html:47
+#: website/download-button.html:53 website/site-prefooter.html:47
 msgid "Thunderbird Beta"
 msgstr "Thunderbird 베타"
 
-#: website/download-button.html:49
-msgid "<span>Thunderbird</span> Earlybird"
-msgstr "<span>Thunderbird</span> 얼리버드"
+#: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
+#, fuzzy
+msgid "Thunderbird Nightly"
+msgstr "Thunderbird 베타"
 
-#: website/download-button.html:60
+#: website/download-button.html:66
 msgid "Systems &amp; Languages"
 msgstr "시스템 &amp; 언어선택"
 
-#: website/download-button.html:62
+#: website/download-button.html:67
 msgid "What’s New"
 msgstr "새로운 기능"
 
-#: website/download-button.html:64 website/site-footer.html:22
+#: website/download-button.html:69 website/site-footer.html:57
 msgid "Privacy"
 msgstr "개인 정보 정책"
 
-#: website/about/index.html:38 website/index.html:8
-msgid "Software made to make email easier."
-msgstr "메일을 더 쉽게 사용하세요"
-
 #: website/index.html:9
+msgid "Make Email Easier."
+msgstr ""
+
+#: website/index.html:10
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
 msgstr "Thunderbird는 메일을 더 쉽게 사용할 수 있는 무료 프로그램입니다. 더 많은 기능을 만나보세요!"
 
-#: website/download/index.html:29 website/index.html:30
+#: website/about/index.html:32 website/download/index.html:19 website/index.html:17
 msgid "Free Download"
 msgstr "무료 다운로드"
 
-#: website/index.html:35
+#: website/download/index.html:23 website/index.html:21
 msgid "Thunderbird screenshot"
 msgstr "Thunderbird 스크린샷"
 
-#: website/download/index.html:41 website/download/index.html:61 website/index.html:45 website/index.html:65
+#: website/index.html:29
+msgid "Tailored for all your needs"
+msgstr ""
+
+#: website/index.html:32
+msgid "Thunderbird makes email better for you, bringing together speed, privacy and the latest technologies. Focus on what matters and forget about complexity."
+msgstr ""
+
+#: website/index.html:34
+msgid "Explore all Features"
+msgstr ""
+
+#: website/index.html:41
+msgid "Secure &amp; Private"
+msgstr ""
+
+#: website/index.html:44
+msgid "Multiple features, such as built-in Do Not Track and remote content blocking, work together to ensure your safety and privacy, so you can have peace of mind."
+msgstr ""
+
+#: website/index.html:46
+msgid "Know your rights"
+msgstr ""
+
+#: website/index.html:53
+msgid "Highly Customizable"
+msgstr ""
+
+#: website/index.html:56
+msgid "With Add-ons(Extensions & Themes) and many more features you can change the look and feel of Thunderbird in an instant."
+msgstr ""
+
+#: website/index.html:58
+msgid "Make it personal"
+msgstr ""
+
+#: website/index.html:66
+msgid "Stay in the loop"
+msgstr ""
+
+#: website/index.html:68
+msgid "Keep yourself up to date with recent announcements and releases by following the official Thunderbird Blog!"
+msgstr ""
+
+#: website/index.html:92
+msgid "Read the Blog"
+msgstr ""
+
+#: website/about/index.html:37 website/index.html:103
+msgid "Lightning Calendar screenshot"
+msgstr ""
+
+#: website/index.html:110
+msgid "Lightning Calendar"
+msgstr ""
+
+#: website/index.html:112
+msgid "Organize your life — it’s about time!"
+msgstr ""
+
+#: website/index.html:117
+msgid "Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird email."
+msgstr ""
+
+#: website/index.html:120
+msgid "Manage multiple calendars, create your daily to do list, invite friends to events, and subscribe to public calendars."
+msgstr ""
+
+#: website/index.html:123
+#, fuzzy
+msgid "Explore Features"
+msgstr "주요 기능"
+
+#: website/index.html:126
+msgid "Explore More Add-ons"
+msgstr ""
+
+#: website/download/index.html:35 website/download/index.html:55 website/index.html:142 website/index.html:162
 msgid "Mozilla"
 msgstr "Mozilla"
 
@@ -218,63 +305,106 @@ msgstr "페이지 언어:"
 msgid "Other languages:"
 msgstr "언어별:"
 
-#: website/lang_switcher.html:23
+#: website/lang_switcher.html:30
 msgid "Go"
 msgstr "이동"
 
-#: website/site-footer.html:6
-#, python-format
-msgid ""
-"Portions of this content are ©1998–%(current_year)s by individual\n"
-"              mozilla.org contributors. Content available under\n"
-"              a <a href=\"%(url)s\">Creative Commons license</a>."
-msgstr "©1998–%(current_year)s. 콘텐츠의 일부는 개별 mozilla.org 공헌자에게 저작권이 있습니다. 콘텐츠는 <a href=\"%(url)s\">Creative Commons license</a>에 의해 사용할 수 있습니다."
+#: website/site-footer.html:12
+#, fuzzy
+msgid "For Organizations"
+msgstr "기업용 Thunderbird"
 
-#: website/site-footer.html:15
-msgid "About"
-msgstr "소개"
-
-#: website/site-footer.html:16
+#: website/site-footer.html:27
 msgid "Contact Us"
 msgstr "연락처"
 
-#: website/site-footer.html:18
-msgid "Contribute to this site"
-msgstr "사이트에 기여하기"
-
-#: website/site-footer.html:23
+#: website/site-footer.html:60
 msgid "Cookies"
 msgstr "쿠키"
 
-#: website/site-footer.html:24
+#: website/site-footer.html:64
 msgid "Legal"
 msgstr "법률"
 
-#: website/site-footer.html:25
+#: website/site-footer.html:68
 msgid "Report Trademark Abuse"
 msgstr "상표권 침해 신고 (영문)"
 
-#: website/about/index.html:7
-msgid "About Us"
-msgstr "소개"
+#: website/site-footer.html:73
+#, fuzzy, python-format
+msgid ""
+"Portions of this content are ©1998–%(current_year)s by individual\n"
+"      mozilla.org contributors. Content available under\n"
+"      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
+msgstr "©1998–%(current_year)s. 콘텐츠의 일부는 개별 mozilla.org 공헌자에게 저작권이 있습니다. 콘텐츠는 <a href=\"%(url)s\">Creative Commons license</a>에 의해 사용할 수 있습니다."
 
-#: website/about/index.html:10
-msgid "About the Thunderbird Project."
-msgstr "Thunderbird 프로젝트 정보입니다."
+#: website/site-footer.html:81
+msgid "Contribute to this site"
+msgstr "사이트에 기여하기"
 
-#: website/about/index.html:27 website/about/index.html:35
+#: website/site-prefooter.html:14
+#, fuzzy
+msgid "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users."
+msgstr "Thunderbird는 누구나 아이디어, 디자인, 코드, 그리고 시간을 들여 다른 사용자를 돕는데 참여할 수 있는 오픈소스 프로젝트입니다. 팀의 일원이 되어 Thunderbird 사용자를 지원하고, Thunderbird를 더 멋지게 만들 수 있습니다. <a class=\"more\" href=\"%(contribute)s\">함께하세요</a>"
+
+#: website/site-prefooter.html:17
+msgid "Join Us"
+msgstr ""
+
+#: website/site-prefooter.html:20
+#, fuzzy
+msgid "Make a Donation"
+msgstr "지금 기부하기"
+
+#: website/site-prefooter.html:22
+#, fuzzy
+msgid "Get Support"
+msgstr "도움말"
+
+#: website/site-prefooter.html:24
+msgid "Report a Bug"
+msgstr ""
+
+#: website/site-prefooter.html:50
+#, fuzzy
+msgid "The Future of Thunderbird"
+msgstr "Thunderbird가 무엇인가요?"
+
+#: website/site-prefooter.html:52
+#, fuzzy
+msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
+msgstr "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">사용자 의견을 전달하여</a> 최종 출시 버전을 다듬는데 도움을 주세요."
+
+#: website/site-prefooter.html:55
+#, fuzzy
+msgid "Download Beta"
+msgstr "무료 다운로드"
+
+#: website/site-prefooter.html:67
+msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Nightly channel."
+msgstr ""
+
+#: website/site-prefooter.html:71
+msgid "WARNING!"
+msgstr ""
+
+#: website/site-prefooter.html:73
+msgid "Nightly is an unstable testing and development platform, make sure you back up important data regularly!"
+msgstr ""
+
+#: website/site-prefooter.html:76
+msgid "Download Nightly"
+msgstr ""
+
+#: website/about/index.html:22
 msgid "What is Thunderbird?"
 msgstr "Thunderbird가 무엇인가요?"
 
-#: website/about/index.html:28 website/about/index.html:51
-msgid "Who We Are"
-msgstr "만드는 사람들"
+#: website/about/index.html:24
+msgid "Software made to make email easier."
+msgstr "메일을 더 쉽게 사용하세요"
 
-#: website/about/index.html:29 website/about/index.html:72
-msgid "Thunderbird and Mozilla Foundation"
-msgstr "Thunderbird와 Mozilla 재단"
-
-#: website/about/index.html:44
+#: website/about/index.html:29
 msgid ""
 "Thunderbird is a free and open source email, newsfeed, chat, and calendaring client, that’s easy to set up and customize. One of the core principles of Thunderbird is the use and promotion of open "
 "standards - this focus is a rejection of our world of closed platforms and services that can’t communicate with each other. We want our users to have freedom and choice in how they communicate."
@@ -282,15 +412,19 @@ msgstr ""
 "Thunderbird는 쉽게 설정하고 개인화할 수 있는 무료 오픈소스 이메일, 뉴스피드, 채팅, 캘린더 클라이언트입니다. Thunderbird의 핵심 원리 중 하나는 공개 표준을 사용, 촉진하는 것으로 폐쇄적인 플랫폼과 서비스로 인해 서로 간 소통이 불가능한 세상을 만들지 않겠다는 목표를 가지고 있습니다. 우리는 사용자가 커뮤니케이션 방식을 결정하는 데"
 " 자유와 선택권이 있기를 바랍니다."
 
-#: website/about/index.html:54
+#: website/about/index.html:46
+msgid "Who We Are"
+msgstr "만드는 사람들"
+
+#: website/about/index.html:48
 msgid "We are a community making communication free and open."
 msgstr "우리는 자유롭고 열린 의사소통을 만들어가는 커뮤니티입니다."
 
-#: website/about/index.html:60
+#: website/about/index.html:61
 msgid "Our Community"
 msgstr "커뮤니티"
 
-#: website/about/index.html:61
+#: website/about/index.html:63
 #, python-format
 msgid ""
 "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
@@ -300,23 +434,27 @@ msgstr ""
 "Thunderbird를 개발하고 사용자를 도우며 참여를 희망하는 사람을 환영하는 열정적인 자원봉사 팀이 있습니다. <a href=\"%(volunteer)s\">참여하기 페이지</a>에 방문하여 Thunderbird 팀에 어떻게 참여할 수 있는지 확인하세요. 우리는 사용자가 <a href=\"%(donate)s\">지원한 자금</a>으로 "
 "Thunderbird를 개발하는 정규직 개발자도 채용하였습니다. Thunderbird를 누가 개발하는지 궁금하시다면, <a href=\"%(core_team)s\">핵심 기여자 명단</a>을 확인하세요."
 
-#: website/about/index.html:64
+#: website/about/index.html:68
 msgid "Thunderbird Council"
 msgstr "Thunderbird 이사회"
 
-#: website/about/index.html:65
+#: website/about/index.html:70
 #, python-format
 msgid ""
 "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
 "href=\"%(council)s\">on the Thunderbird wiki</a>."
 msgstr "Thunderbird 프로젝트는 Thunderbird 커뮤니티의 중요 기여자가 선출한 7명의 위원이 운영합니다. <a href=\"%(council)s\">Thunderbird 위키</a>에서 현재 선출된 Thunderbird 위원을 확인할 수 있습니다."
 
-#: website/about/index.html:75
+#: website/about/index.html:82
+msgid "Thunderbird and Mozilla Foundation"
+msgstr "Thunderbird와 Mozilla 재단"
+
+#: website/about/index.html:84
 #, python-format
 msgid "Thunderbird lives at the nonprofit <a href=\"%(foundation)s\">Mozilla Foundation</a>."
 msgstr "Thunderbird는 비영리 <a href=\"%(foundation)s\">Mozilla 재단</a>에서 살아갑니다."
 
-#: website/about/index.html:81
+#: website/about/index.html:89
 #, python-format
 msgid ""
 "Thunderbird is an independent project with its legal and financial home at <a href=\"%(foundation)s\">the Mozilla Foundation</a>. The Mozilla Foundation believes the Internet is a global public "
@@ -328,33 +466,7 @@ msgstr ""
 "Mozilla Corporation의 단일 주주이기도 합니다. Mozilla는 Thunderbird 프로젝트 커뮤니티에 의해서 선출된 Thunderbird의회에 어떠한 지배력도 행사하지 않습니다. Mozilla 재단은 <a href=\"%(home_blog_post)s\">exploration of legal homes in 2017년 법적인 "
 "과정</a>을 거쳐서 Thunderbird의 집이 되었습니다."
 
-#: website/channel/index.html:7
-msgid "Download Thunderbird Beta &amp; Try the Next Thunderbird"
-msgstr "Thunderbird 베타를 다운로드하여 다음 버전을 사용해 보세요"
-
-#: website/channel/index.html:8
-msgid "Download and test Thunderbird Beta and experience features and fixes early!"
-msgstr "Thunderbird 베타를 다운로드하여 테스트해보고 새로운 기능을 미리 경험해 보세요!"
-
-#: website/channel/index.html:18
-msgid "Welcome to the <strong>Future of Thunderbird</strong>"
-msgstr "<strong>Thunderbird의 미래</strong>에 오신 것을 환영합니다!"
-
-#: website/channel/index.html:19
-msgid ""
-"Download Thunderbird Beta and be one of the first to try the newest features in the next version of Thunderbird! By giving us your feedback, you’ll help make email better for millions of your fellow"
-" users."
-msgstr "Thunderbird 베타를 다운로드하여 Thunderbird의 차기 버전에 제공될 최신 기능을 미리 사용해 보세요. 피드백을 제공하여 많은 사용자의 이메일 경험 개선에 협력 해주세요."
-
-#: website/channel/index.html:30
-msgid "Experience cutting edge features with more stability"
-msgstr "최신 기능을 더 안정된 상태에서 체험 할 수 있습니다."
-
-#: website/channel/index.html:31
-msgid "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Provide feedback</a> to help refine and polish what will be in the final release"
-msgstr "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">사용자 의견을 전달하여</a> 최종 출시 버전을 다듬는데 도움을 주세요."
-
-#: website/download/index.html:9
+#: website/download/index.html:10
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
 msgstr "다운로드가 자동으로 시작됩니다. 작동하지 않나요? 하단 버튼을 눌러주세요!"
 
@@ -366,165 +478,173 @@ msgstr "Thunderbird 기능 개요"
 msgid "It’s all yours. It’s now easier to upgrade to Thunderbird."
 msgstr "여러분의 필요에 맞춘 메일 프로그램 Thunderbird가 업그레이드가 더 쉬워졌습니다."
 
-#: website/features/index.html:31 website/features/index.html:40
+#: website/features/index.html:27 website/features/index.html:45
 msgid "Easier to Get Started"
 msgstr "바로 사용 하기"
 
-#: website/features/index.html:32 website/features/index.html:91
+#: website/features/index.html:30 website/features/index.html:100
 msgid "Tabs and Search"
 msgstr "탭 및 검색 기능"
 
-#: website/features/index.html:33 website/features/index.html:164
+#: website/features/index.html:33 website/features/index.html:160
 msgid "Customize Your Email Experience"
 msgstr "맞춤형 이메일 경험"
 
-#: website/features/index.html:34 website/features/index.html:199
+#: website/features/index.html:36 website/features/index.html:220
 msgid "Secure and Protect Your Email"
 msgstr "강력해진 이메일 보안"
 
-#: website/features/index.html:45
+#: website/features/index.html:54
 msgid "Mail Account Setup Wizard"
 msgstr "계정 설정 마법사"
 
-#: website/features/index.html:46
+#: website/features/index.html:56
 msgid ""
 "Prior to this feature you had to know your IMAP, SMTP, and SSL/TLS settings. Now all you need to provide is your name, email address, and password and the email account set up wizardry will check "
 "our database and find the email settings for you."
 msgstr "지금까지 메일 계정을 만들 때 서버의 자세한 구성 정보를 모두 입력해야했습니다. 새로운 Thunderbird는 이름과 이메일 주소, 암호만 입력하면 Mozilla의 공급자 데이터베이스에서 자동으로 서버 설정 정보를 검색합니다."
 
-#: website/features/index.html:64
+#: website/features/index.html:65
 msgid "One-click Address Book"
 msgstr "원클릭 주소록"
 
-#: website/features/index.html:65
+#: website/features/index.html:67
 msgid ""
 "One-click Address Book is a quick and easy way to add people to your address book. Add people by simply clicking on the star icon in the message you receive. Two clicks and you can add more details "
 "like a photo, birthday, and other contact information."
 msgstr "보내는 사람의 이메일 주소를 신속하면서도 쉽게 주소록에 등록 할 수 있게되었습니다. 받은 메시지에 ☆ 표 아이콘을 클릭하면 새로운 연락처를 추가 할 수 있습니다. 사진, 생일, 기타 연락처 정보를 편집하려면이 아이콘을 다시 클릭합니다."
 
-#: website/features/index.html:71
+#: website/features/index.html:76
 msgid "Attachment Reminder"
 msgstr "첨부 알리미"
 
-#: website/features/index.html:72
+#: website/features/index.html:78
 msgid "The attachment reminder looks for the word attachment (and other words like file types) in the body of your message and reminds you to add an attachment before hitting send."
 msgstr "메시지를 작성할 때 본문에 \"첨부\"등의 단어가 입력 될 때 알림 표시 줄을 표시하여 전송하기 전에 필요한 파일을 첨부 할 것을 알려 드립니다."
 
-#: website/features/index.html:103
-msgid "Tabs"
-msgstr "탭"
+#: website/features/index.html:86
+msgid "Multiple-channel chat"
+msgstr ""
 
-#: website/features/index.html:104
+#: website/features/index.html:88
+msgid ""
+"Enjoy real-time conversation with your contacts, right from your favorite messaging application, with multiple supported networks. Thunderbird makes it easy to search through both past conversations"
+" and received emails."
+msgstr ""
+
+#: website/features/index.html:109
+msgid "Tabbed Email"
+msgstr ""
+
+#: website/features/index.html:111
 msgid ""
 "If you like Firefox’s tabbed browsing, you’re going to love tabbed email. Tabbed email lets you load emails in separate tabs so you can quickly jump between them. Perhaps you’re responding to an "
 "email and need to refer back to an earlier email. Tabbed email lets you keep multiple emails open for easy reference."
 msgstr "Thunderbird는 Firefox 탭 브라우징처럼 여러 메시지를 개별 탭에 열고 빠르게 전환하여 볼 수 있습니다. 예를 들어, 메시지에 답장을 쓰고있는 도중에 이전에 읽은 메시지에 다시 내용을 확인하고자 할 때,이 탭 기능을 사용하면 여러 메시지를 한 번에 동일한 창에서 열린 상태로 둘 수 있기 때문에 쉽게 볼 수 있습니다."
 
-#: website/features/index.html:105
-msgid "Double-clicking or hitting enter on a mail message will now open that message in a new tab window. Right-clicking on messages or folders will open them in a tab in the background."
-msgstr "메시지를 두 번 클릭하거나 Enter 키를 누르면 해당 메시지가 다른 탭에서 열립니다. 메시지나 폴더를 마우스 오른쪽 단추로 백그라운드 탭으로 열 수 있습니다."
-
-#: website/features/index.html:106
+#: website/features/index.html:114
 msgid "When quitting Thunderbird, visible tabs will be saved and will be restored when you open Thunderbird the next time. There is also a Tab menu on the Tab toolbar to help you switch between Tabs."
 msgstr "Thunderbird를 종료 할 때 열려있는 탭 상태가 기억되어, 다음 번 시작 시 복원됩니다. 탭 표시 줄의 오른쪽 끝에 열린 탭의 제목을 볼 수있는 드롭 다운 목록도 많은 탭을 열 때 쉽게 전환 할 수 있습니다."
 
-#: website/features/index.html:126
+#: website/features/index.html:127
 msgid "Quick Filter Toolbar"
 msgstr "빠른 필터 도구 모음"
 
-#: website/features/index.html:127
+#: website/features/index.html:129
 msgid ""
 "The Quick Filter Toolbar lets you filter your email faster. Start typing in words in the Quick Filter search box and the results are displayed instantly. Or you can filter your email by New "
 "Messages, Tags, and people in your Address Book. You can also \"Pin\" or save a Filter and use it across multiple folders."
 msgstr "빠른 필터 도구 모음은 폴더의 메시지를 빠르게 필터링 할 수 있는 기능입니다. 임의의 검색어를 입력하기 시작하면 즉시 결과가 표시됩니다. 읽지 않은 메시지 태그 발신자가 주소록에 등록되어 있는지 등 조건에서도 추출 할 수 있습니다. 또한 \"핀\"아이콘을 클릭하면 폴더보기를 전환해도 검색을 유지할 수 있습니다."
 
-#: website/features/index.html:137
-msgid "Search"
+#: website/features/index.html:138
+#, fuzzy
+msgid "Search Tools"
 msgstr "검색"
 
-#: website/features/index.html:138
+#: website/features/index.html:140
+#, fuzzy
 msgid ""
-"The search interface in Thunderbird contains filtering and timeline tools to pinpoint the exact email you’re looking for. Thunderbird also indexes all of your emails to help you search even faster. "
-"Your search results are displayed in a tab so you can easily switch back and forth to your search results and other email."
+"The search interface in Thunderbird contains filtering and timeline tools to pinpoint the exact email you’re looking for. Thunderbird also indexes all of your emails and chat conversations to help "
+"you search even faster. Your search results are displayed in a tab so you can easily switch back and forth to your search results and other email."
 msgstr "Thunderbird의 검색 화면에 검색 도구와 타임 라인 도구가 포함되어 있어 원하는 메시지를 빠르고 정확하게 찾아 낼 수 있습니다. 모든 메시지는 데이터베이스에 등록되어 있기 때문에 빠른 검색이 가능합니다. 검색 결과는 다른 탭으로 표시되므로 다른 메시지도 쉽게 오갈 수 있습니다."
 
-#: website/features/index.html:147
+#: website/features/index.html:149
 msgid "Message Archive"
 msgstr "메시지 아카이브"
 
-#: website/features/index.html:148
+#: website/features/index.html:151
 msgid ""
 "If you think you’re going to need an email in the future but want it out of your inbox without deleting it, archive it! Archiving helps you manage your inbox and put your email into the archive "
 "folder system."
 msgstr "나중에 필요하게 될 것 같은 메시지를 제거하지 않고 받은 편지함에서 지우고 싶은 경우, 아카이브 기능을 활용하면 됩니다. 새 아카이브 폴더에 메시지를 이동하고, 받은 편지함을 정리할 수 있습니다."
 
-#: website/features/index.html:149
-msgid "Selecting the Archive button or hitting the ‘A’ key will archive your email."
-msgstr "아카이브 버튼 또는 'A'를 누르면 선택된 메시지가 보관됩니다."
+#: website/features/index.html:169
+msgid "Large Files Management"
+msgstr ""
 
-#: website/features/index.html:155
-msgid "Activity Manager"
-msgstr "이벤트 로그 관리"
+#: website/features/index.html:171
+msgid "Share large files with Thunderbird Filelink!"
+msgstr ""
 
-#: website/features/index.html:156
+#: website/features/index.html:175
 msgid ""
-"The Activity Manager records all the interactions between Thunderbird and your email provider in one place. There’s no more guess work. You only have to look in one place to see everything that’s "
-"happening with your email."
-msgstr "\"이벤트 로그 관리\"창에는 송수신 등의 기록이 모두 기록됩니다. 언제 메시지를 다운로드했는지 등을 추측 할 필요가 더 이상 없습니다. 하나의 화면에서 자신의 계정 상태를 파악할 수 있습니다."
+"You can now speed up the transfer of large documents by uploading them to an online storage provider and sharing the link instead of sending the file directly as a message attachment. Improve the "
+"speed of sending email and avoid message rejection if the recipient’s server disallows large files. As an added bonus, you’ll also save space in your sent folder and the recipient’s inbox."
+msgstr ""
 
-#: website/features/index.html:180
+#: website/features/index.html:188
 msgid "Thunderbird Look & Feel"
 msgstr "디자인 선택"
 
-#: website/features/index.html:181
+#: website/features/index.html:190
 msgid ""
-"With Personas, lightweight \"skins\" allow you to change the look and feel of Thunderbird in an instant. Hundreds of skins are available from the latest movies, famous landmarks, and Japanese "
-"tattoos. You can also choose from several Themes that dress up all the different icons in Thunderbird."
-msgstr "Personas에서 마음에 드는 테마를 선택 적용하면 Thunderbird의 디자인을 즉시 전환 할 수 있습니다. 영화, 패션, 풍경, 스포츠 등 수십만의 디자인 중에서 선택할 수 있습니다. 아이콘 등 세부 사항까지 디자인을 변경할 수있는 테마도 있습니다."
+"Themes allow you to change the look of Thunderbird in an instant. Working on getting to inbox zero at night? Turn on the dark theme to make managing your email easier on the eyes. Thunderbird ships "
+"with both light and dark themes, and more are available as add-ons."
+msgstr ""
 
-#: website/features/index.html:184
+#: website/features/index.html:199
 msgid "Smart Folders"
 msgstr "스마트 폴더"
 
-#: website/features/index.html:185
+#: website/features/index.html:201
 msgid ""
 "Smart Folders help you manage multiple email accounts by combining special folders like your Inbox, Sent, or Archive folder. Instead of going to the Inbox for each of your mail accounts, you can see"
 " all of your incoming email in one Inbox folder."
 msgstr "스마트 폴더 모드에서는 별도의 사서함이 함께 표시되어 여러 개의 이메일 계정을 효율적으로 관리 할 수 있습니다. 예를 들어, 받은 편지함을 선택하면 각 계정을 개별적으로 열지 않고 모든 계정의 새 메시지를 표시 할 수 있습니다."
 
-#: website/features/index.html:190
+#: website/features/index.html:210
 msgid "Add-ons Manager"
 msgstr "부가 기능 관리자"
 
-#: website/features/index.html:191
+#: website/features/index.html:212
 msgid ""
 "Find and install add-ons directly in Thunderbird. You no longer need to visit the add-ons Web site - instead simply fire up the Add-ons Manager. Not sure which add-on is right for you? Ratings, "
 "recommendations, descriptions and pictures of the add-ons in action help you make your selection."
 msgstr "부가 기능 관리자를 열기 만하면 Thunderbird에서 직접 확장 기능을 검색하고 설치할 수있게되었습니다.  부가 기능 웹  사이트를 방문 할 필요가 더 이상 없습니다. 어떤 기능을 사용하면 좋을지 모르겠다 때도 사용자의 평가, 추천, 설명, 사진 등을보고 선택할 수 있습니다."
 
-#: website/features/index.html:208
+#: website/features/index.html:230
 msgid "Robust Privacy"
 msgstr "강력한 개인 정보 보호"
 
-#: website/features/index.html:209
+#: website/features/index.html:232
 msgid "Thunderbird offers support for user privacy and remote image protection. To ensure a user’s privacy, Thunderbird automatically blocks remote images in email messages."
 msgstr "Thunderbird는 HTML 메시지에 포함 된 원격 이미지로드를 차단하고 사용자의 개인 정보를 보호합니다."
 
-#: website/features/index.html:216
+#: website/features/index.html:241
 msgid "Phishing Protection"
 msgstr "피싱 경고 기능"
 
-#: website/features/index.html:217
+#: website/features/index.html:243
 msgid ""
 "Thunderbird protects you from email scams which try to trick users into handing over personal and confidential information by indicating when a message is a potential phishing attempt. As a second "
 "line of defense, Thunderbird warns you when you click on a link which appears to be taking you to a different Web site than the one indicated by the URL in the message."
 msgstr "Thunderbird는 수신 된 메시지에 개인 정보 나 기밀 정보를 속여 취하려는 피싱의 위험성이 의심되는 경우 경고를 표시합니다. 또한 추가 대책으로 메시지에 표시되는 URL과 실제로 열리는 웹 사이트가 다른 의심스러운 링크가 클릭 된 경우에도 브라우저에서 해당 사이트가 열리기 전에 경고를 표시합니다."
 
-#: website/features/index.html:225
+#: website/features/index.html:252
 msgid "Automated Update"
 msgstr "자동 업데이트"
 
-#: website/features/index.html:228
+#: website/features/index.html:254
 msgid ""
 "Thunderbird’s update system checks to see if you’re running the latest version, and notifies you when a security update is available. These security updates are small (usually 200KB - 700KB), giving"
 " you only what you need and making the security update quick to download and install. The automated update system provides updates for Thunderbird on Windows, macOS, and Linux in over 40 different "
@@ -533,20 +653,11 @@ msgstr ""
 "Thunderbird 업데이트 시스템은 사용자가 최신 버전을 실행하고 있는지 확인하고 보안 업데이트가 제공 될 때 알려줍니다. 보안 업데이트는 작지만 (일반적으로 200KB - 700KB) 필요한 항목 만 제공하고 보안 업데이트를 다운로드하여 설치하는 작업을 신속하게 수행합니다. 자동 업데이트 시스템은 40  이상의 언어로 Windows, macOS 및"
 " Linux에서 Thunderbird에 대한 업데이트를 제공합니다."
 
-#: website/features/index.html:230
-msgid ""
-"Thunderbird’s update system checks to see if you’re running the latest version, and notifies you when a security update is available. These security updates are small (usually 200KB - 700KB), giving"
-" you only what you need and making the security update quick to download and install. The automated update system provides updates for Thunderbird on Windows, OS X, and Linux in over 40 different "
-"languages."
-msgstr ""
-"Thunderbird 업데이트 시스템은 사용자가 최신 버전을 실행하고 있는지 확인하고 보안 업데이트가 있으면 알려줍니다. 보안 업데이트는 작지만 (일반적으로 200KB - 700KB) 필요한 항목만 제공하고 보안 업데이트를 다운로드하여 설치하는 작업을 신속하게 수행합니다. 자동 업데이트 시스템은 40개 이상의 언어로 Windows, macOS 및 "
-"Linux에서 Thunderbird에 대한 업데이트를 제공합니다."
-
-#: website/features/index.html:238
+#: website/features/index.html:261
 msgid "Cutting Out the Junk"
 msgstr "학습형 스팸 필터"
 
-#: website/features/index.html:239
+#: website/features/index.html:263
 msgid ""
 "Thunderbird’s popular junk mail tools have been updated to stay ahead of spam. Each email you receive passes through Thunderbird’s leading-edge junk mail filters. Each time you mark messages as "
 "spam, Thunderbird \"learns\" and improves its filtering so you can spend more time reading the mail that matters. Thunderbird can also use your mail provider’s spam filters to keep junk mail out of "
@@ -555,11 +666,11 @@ msgstr ""
 "이전부터 호평을 받고있는 스팸 방지 기능은 다양한 스팸 수법에 대응할 수 있도록 만들어져 있습니다. 모든 새 메시지는 학습형 스팸 필터로 해석됩니다. 사용자가 스팸 메일의 판정을 할 때마다, 그 내용이 축적되어 자동 판별의 정확도가 향상하기 때문에 더 많은 시간을 중요한 메시지 교환에 할애할 수 있습니다. 공급자와 사내 메일 서버의 스팸 필터를 "
 "병용하면받은 편지함에서 스팸 메일이 격감하는 것입니다."
 
-#: website/features/index.html:242
+#: website/features/index.html:268
 msgid "Open Source"
 msgstr "오픈 소스 개발 프로세스"
 
-#: website/features/index.html:243
+#: website/features/index.html:270
 msgid ""
 "At the heart of Thunderbird is an open source development process driven by thousands of passionate, experienced developers and security experts spread all over the world. Our openness and active "
 "community of experts helps to ensure our products are more secure and quickly updated, while also enabling us to take advantage of the best third party security scanning and evaluation tools to "
@@ -568,66 +679,208 @@ msgstr ""
 "Thunderbird는 풍부한 경험이 개발자와 보안 전문가가 전세계에서 다수 참가하는 오픈 소스 개발 프로세스에 의해서 유지되고 있습니다. 투명한 환경 속에서 많은 전문가로부터 적극적인 협력을받는 것으로 보다 안전한 제품을 제공 할 수 있고, 만일 문제가보고 된 경우도 신속하게 수정 된 버전을 배포 할 수있는 체제를 갖추고 있습니다. 또한 동시에 뛰어난"
 " 타사의 보안 검증 · 평가 도구를 활용하여 전체적인 보안 수준을 향상시키고 있습니다."
 
+#: website/thunderbird/68.0/whatsnew/index.html:7
+#, fuzzy
+msgid "New in Thunderbird 68"
+msgstr "Thunderbird"
+
+#: website/thunderbird/68.0/whatsnew/index.html:13
+#, python-format
+msgid ""
+"This article describes some of the major changes visible to users in Thunderbird version 68.0. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird 68 release "
+"notes</a>."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:25
+msgid "Better Dark Theme"
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:28
+msgid "The dark theme available in Thunderbird has been enhanced with a dark message thread pane as well as many other small improvements."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:38
+msgid "Filelink Improved"
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:41
+msgid ""
+"Filelink attachments that have already been uploaded can now be linked to again instead of having to re-upload them. Also, an account is no longer required to use the default Filelink provider - "
+"<strong>WeTransfer</strong>."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:44
+#, python-format
+msgid "Other Filelink providers like Box and Dropbox are not included by default, but can be added by grabbing the <a href=\"%(dropbox)s\">Dropbox</a> and <a href=\"%(box)s\">Box</a> add-ons."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:52
+msgid "Options/Preferences in a Tab"
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:55
+msgid ""
+"Thunderbirdʼs Options/Preferences have been converted from a dialog window to its own dedicated tab. The new Preferences tab provides more space which allows for better organized content and is more"
+" consistent with the look and feel of the rest of Thunderbird."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:58
+msgid "The new Preferences tab also makes it easier to multi-task without the problem of losing track of where your preferences are when switching between windows."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:67
+#, fuzzy
+msgid "Other Notable Changes"
+msgstr "언어별:"
+
+#: website/thunderbird/68.0/whatsnew/index.html:70
+msgid ""
+"There are many other smaller changes that make Thunderbird 68 feel polished and powerful including: a new App Menu UI, an updated To/CC/BCC selector in compose, improved attachment management, full "
+"color support across the app, filters can now be set to run periodically, and feed articles now show external attachments as links."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:73
+#, python-format
+msgid "There are many other updates in this release, you can see a list of all of them in the <a href=\"%(release)s\">Thunderbird 68 release notes</a>."
+msgstr ""
+
 #: website/thunderbird/all/index.html:10
 msgid "Download Thunderbird in your language"
 msgstr "사용하는 언어로 Thunderbird 다운로드"
 
-#: website/thunderbird/all/index.html:15 website/thunderbird/beta/all/index.html:15
+#: website/thunderbird/all/index.html:14 website/thunderbird/beta/all/index.html:14
 msgid "Be one of the first to try the newest features in Thunderbird. By giving us your feedback, you’ll help us to refine the features that will be included in the final version."
 msgstr "Thunderbird의 최신 기능을 가장 먼저 사용해 보세요. 보내주신 의견은 최종 버전에 포함될 기능을 개선하는 데 도움이 됩니다."
 
-#: website/thunderbird/all/index.html:17 website/thunderbird/beta/all/index.html:17
+#: website/thunderbird/all/index.html:16 website/thunderbird/beta/all/index.html:16
 msgid "Get the award-winning email application from Mozilla. Import your existing mail and enjoy our new features like tabbed email and advanced search."
 msgstr "수상 경력에 빛나는 Mozilla의 이메일 애플리케이션을 설치하세요. 기존 이메일을 가져와 탭으로 관리하는 이메일이나 고급 검색과 같은 새로운 기능을 즐기시길 바랍니다."
 
-#: website/thunderbird/all/index.html:34 website/thunderbird/beta/all/index.html:34
+#: website/thunderbird/all/index.html:35 website/thunderbird/beta/all/index.html:35
 msgid "Check the system requirements"
 msgstr "시스템 요구사항 확인"
 
-#: website/thunderbird/all/index.html:35 website/thunderbird/beta/all/index.html:35
+#: website/thunderbird/all/index.html:38 website/thunderbird/beta/all/index.html:38
 msgid "Release notes"
 msgstr "출시 안내"
 
-#: website/thunderbird/all/index.html:43 website/thunderbird/beta/all/index.html:43
+#: website/thunderbird/all/index.html:41
+#, fuzzy
+msgid "All Releases"
+msgstr "출시 현황"
+
+#: website/thunderbird/all/index.html:55
 msgid "Fully localized versions"
 msgstr "언어별 정식 버전"
+
+#: website/thunderbird/all/index.html:57 website/thunderbird/beta/all/index.html:53
+msgid "Choose your Language and Operating System"
+msgstr ""
 
 #: website/thunderbird/beta/all/index.html:10
 msgid "Download Beta in your language"
 msgstr "사용중인 언어로 베타 다운로드"
 
-#: website/thunderbird/releases/index.html:7
-msgid "Mozilla Thunderbird Release Notes"
-msgstr "Mozilla Thunderbird 출시 기록"
+#: website/thunderbird/beta/all/index.html:51
+#, fuzzy
+msgid "Fully localized beta versions"
+msgstr "언어별 정식 버전"
 
-#: website/thunderbird/releases/index.html:8
+#: website/thunderbird/releases/index.html:7
+#, fuzzy
+msgid "Thunderbird Release Notes"
+msgstr "Thunderbird 출시 기록"
+
+#: website/thunderbird/releases/index.html:8 website/thunderbird/releases/index.html:23
 msgid "Release notes for each version of Thunderbird."
 msgstr "각 버전의 Thunderbird 출시 기록"
 
-#: website/thunderbird/releases/index.html:17
-msgid "Home"
-msgstr "홈"
-
-#: website/thunderbird/releases/index.html:19
-msgid "Release Notes"
-msgstr "출시 안내"
-
-#: website/thunderbird/releases/index.html:25
-msgid "Thunderbird Releases"
-msgstr "Thunderbird 출시 기록"
-
-#: website/thunderbird/releases/index.html:26
+#: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Thunderbird 출시 기록은 특정 버전의 애플리케이션에만 해당됩니다. 사용하고 계신 버전을 목록에서 찾아 출시 기록을 확인하세요."
+
+#~ msgid "Menu"
+#~ msgstr "메뉴"
+
+#~ msgid "Beta"
+#~ msgstr "베타"
+
+#~ msgid "Calendar Add-on"
+#~ msgstr "캘린더 부가기능"
+
+#~ msgid "Themes"
+#~ msgstr "테마"
+
+#~ msgid "<span>Thunderbird</span> Earlybird"
+#~ msgstr "<span>Thunderbird</span> 얼리버드"
+
+#~ msgid "About"
+#~ msgstr "소개"
+
+#~ msgid "About the Thunderbird Project."
+#~ msgstr "Thunderbird 프로젝트 정보입니다."
+
+#~ msgid "Download Thunderbird Beta &amp; Try the Next Thunderbird"
+#~ msgstr "Thunderbird 베타를 다운로드하여 다음 버전을 사용해 보세요"
+
+#~ msgid "Download and test Thunderbird Beta and experience features and fixes early!"
+#~ msgstr "Thunderbird 베타를 다운로드하여 테스트해보고 새로운 기능을 미리 경험해 보세요!"
+
+#~ msgid "Welcome to the <strong>Future of Thunderbird</strong>"
+#~ msgstr "<strong>Thunderbird의 미래</strong>에 오신 것을 환영합니다!"
+
+#~ msgid ""
+#~ "Download Thunderbird Beta and be one of the first to try the newest features in the next version of Thunderbird! By giving us your feedback, you’ll help make email better for millions of your fellow"
+#~ " users."
+#~ msgstr "Thunderbird 베타를 다운로드하여 Thunderbird의 차기 버전에 제공될 최신 기능을 미리 사용해 보세요. 피드백을 제공하여 많은 사용자의 이메일 경험 개선에 협력 해주세요."
+
+#~ msgid "Experience cutting edge features with more stability"
+#~ msgstr "최신 기능을 더 안정된 상태에서 체험 할 수 있습니다."
+
+#~ msgid "Tabs"
+#~ msgstr "탭"
+
+#~ msgid "Double-clicking or hitting enter on a mail message will now open that message in a new tab window. Right-clicking on messages or folders will open them in a tab in the background."
+#~ msgstr "메시지를 두 번 클릭하거나 Enter 키를 누르면 해당 메시지가 다른 탭에서 열립니다. 메시지나 폴더를 마우스 오른쪽 단추로 백그라운드 탭으로 열 수 있습니다."
+
+#~ msgid "Selecting the Archive button or hitting the ‘A’ key will archive your email."
+#~ msgstr "아카이브 버튼 또는 'A'를 누르면 선택된 메시지가 보관됩니다."
+
+#~ msgid "Activity Manager"
+#~ msgstr "이벤트 로그 관리"
+
+#~ msgid ""
+#~ "The Activity Manager records all the interactions between Thunderbird and your email provider in one place. There’s no more guess work. You only have to look in one place to see everything that’s "
+#~ "happening with your email."
+#~ msgstr "\"이벤트 로그 관리\"창에는 송수신 등의 기록이 모두 기록됩니다. 언제 메시지를 다운로드했는지 등을 추측 할 필요가 더 이상 없습니다. 하나의 화면에서 자신의 계정 상태를 파악할 수 있습니다."
+
+#~ msgid ""
+#~ "With Personas, lightweight \"skins\" allow you to change the look and feel of Thunderbird in an instant. Hundreds of skins are available from the latest movies, famous landmarks, and Japanese "
+#~ "tattoos. You can also choose from several Themes that dress up all the different icons in Thunderbird."
+#~ msgstr "Personas에서 마음에 드는 테마를 선택 적용하면 Thunderbird의 디자인을 즉시 전환 할 수 있습니다. 영화, 패션, 풍경, 스포츠 등 수십만의 디자인 중에서 선택할 수 있습니다. 아이콘 등 세부 사항까지 디자인을 변경할 수있는 테마도 있습니다."
+
+#~ msgid ""
+#~ "Thunderbird’s update system checks to see if you’re running the latest version, and notifies you when a security update is available. These security updates are small (usually 200KB - 700KB), giving"
+#~ " you only what you need and making the security update quick to download and install. The automated update system provides updates for Thunderbird on Windows, OS X, and Linux in over 40 different "
+#~ "languages."
+#~ msgstr ""
+#~ "Thunderbird 업데이트 시스템은 사용자가 최신 버전을 실행하고 있는지 확인하고 보안 업데이트가 있으면 알려줍니다. 보안 업데이트는 작지만 (일반적으로 200KB - 700KB) 필요한 항목만 제공하고 보안 업데이트를 다운로드하여 설치하는 작업을 신속하게 수행합니다. 자동 업데이트 시스템은 40개 이상의 언어로 Windows, macOS 및 "
+#~ "Linux에서 Thunderbird에 대한 업데이트를 제공합니다."
+
+#~ msgid "Mozilla Thunderbird Release Notes"
+#~ msgstr "Mozilla Thunderbird 출시 기록"
+
+#~ msgid "Home"
+#~ msgstr "홈"
+
+#~ msgid "Release Notes"
+#~ msgstr "출시 안내"
 
 #~ msgid "If you like Thunderbird, please consider a donation!"
 #~ msgstr "Thunderbird를 좋아한다면, 꼭 기부를 고려하십시오!"
 
 #~ msgid "By donating, you will help us to continue delivering an ad-free top-notch email client."
 #~ msgstr "기부를 해주시면, 광고가 없는 이메일 프로그램을 제공 받으실 수 있습니다."
-
-#~ msgid "Make a donation"
-#~ msgstr "지금 기부하기"
 
 #~ msgid "Other ways to contribute to Thunderbird"
 #~ msgstr "Thunderbird에 공헌하는 다른 방법"
@@ -678,6 +931,3 @@ msgstr "Thunderbird 출시 기록은 특정 버전의 애플리케이션에만 �
 
 #~ msgid "Tips"
 #~ msgstr "주요 사용법"
-
-#~ msgid "Get help"
-#~ msgstr "도움말"

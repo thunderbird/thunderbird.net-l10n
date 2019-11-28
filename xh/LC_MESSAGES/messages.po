@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-08 11:42-0700\n"
+"POT-Creation-Date: 2019-11-28 15:08-0800\n"
 "PO-Revision-Date: 2018-03-03 23:50-0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -87,9 +87,8 @@ msgid ""
 "for all."
 msgstr ""
 
-#: website/404.html:7 website/404.html:14 website/404.html:26 website/base-resp.html:30 website/download/index.html:7 website/download/index.html:14 website/download/index.html:26
-#: website/download/index.html:36 website/download/index.html:55 website/index.html:7 website/index.html:14 website/index.html:26 website/index.html:40 website/index.html:59
-#: website/site-footer.html:31 website/thunderbird/releases/index.html:18
+#: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:137
+#: website/index.html:156 website/site-footer.html:4 website/site-footer.html:45
 msgid "Thunderbird"
 msgstr ""
 
@@ -99,112 +98,198 @@ msgstr ""
 
 #: website/404.html:9
 #, python-format
-msgid "The page you are looking for doesn’t exist. If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
+msgid "The page you are looking for doesn’t exist.<br/>If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
 msgstr ""
 
-#: website/404.html:32
+#: website/404.html:23
 msgid "Empty nest"
 msgstr ""
 
-#: website/base-resp.html:28
-msgid "Menu"
-msgstr "Imenyu"
-
-#: website/base-resp.html:34
-msgid "Beta"
+#: website/base-resp.html:20 website/site-footer.html:5
+msgid "Thunderbird Vector Wordmark"
 msgstr ""
 
-#: website/base-resp.html:39
-msgid "Features"
-msgstr "Iinkalo"
-
-#: website/base-resp.html:44
-msgid "Releases"
-msgstr "Okushicilelweyo"
-
-#: website/base-resp.html:50
-msgid "Calendar Add-on"
-msgstr ""
-
-#: website/base-resp.html:56
-msgid "Thunderbird for Organizations"
-msgstr ""
-
-#: website/base-resp.html:63 website/base-resp.html:68
-msgid "Add-ons"
-msgstr "Izongezelelo"
-
-#: website/base-resp.html:73
-msgid "Themes"
-msgstr "Imixholo"
-
-#: website/base-resp.html:80
-msgid "Support"
-msgstr "Inkxaso"
-
-#: website/base-resp.html:86
-msgid "Get Involved"
-msgstr ""
-
-#: website/base-resp.html:93
-msgid "Blog"
-msgstr ""
-
-#: website/base-resp.html:99 website/site-footer.html:17
+#: website/base-resp.html:29 website/base-resp.html:53 website/donate-mailing-list.html:12
 msgid "Donate"
 msgstr "Nikela"
 
-#: website/download-button.html:7 website/download-button.html:51 website/download/index.html:8
+#: website/base-resp.html:34
+msgid "Features"
+msgstr "Iinkalo"
+
+#: website/base-resp.html:37
+msgid "Add-ons"
+msgstr "Izongezelelo"
+
+#: website/base-resp.html:40 website/site-footer.html:15 website/site-prefooter.html:9 website/site-prefooter.html:12
+msgid "Get Involved"
+msgstr ""
+
+#: website/base-resp.html:43 website/site-footer.html:18
+msgid "Get Help"
+msgstr ""
+
+#: website/about/index.html:7 website/base-resp.html:46 website/site-footer.html:24
+#, fuzzy
+msgid "About Us"
+msgstr "Malunga"
+
+#: website/base-resp.html:49 website/site-footer.html:21
+msgid "Blog"
+msgstr ""
+
+#: website/donate-mailing-list.html:7
+msgid "Thunderbird is funded by users like you"
+msgstr ""
+
+#: website/donate-mailing-list.html:9
+msgid "Thunderbird is both free and freedom respecting, but we’re also completely funded by donations! Help us sustain the project and continue to improve."
+msgstr ""
+
+#: website/donate-mailing-list.html:17
+msgid "Join our Newsletter"
+msgstr ""
+
+#: website/donate-mailing-list.html:19
+msgid "Keep up with the latest and greatest updates on news, features, events, and previews, and get a sneak peek on the upcoming releases."
+msgstr ""
+
+#: website/donate-mailing-list.html:26
+msgid "Your Email"
+msgstr ""
+
+#: website/donate-mailing-list.html:28
+msgid "Sign me up!"
+msgstr ""
+
+#: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9
 msgid "Download Thunderbird"
 msgstr ""
 
-#: website/download-button.html:28
+#: website/download-button.html:35
 #, python-format
 msgid "Your system doesn't meet the <a href=\"%(url)s\">requirements</a> to run Thunderbird."
 msgstr ""
 
-#: website/download-button.html:31
+#: website/download-button.html:38
 #, python-format
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
 msgstr ""
 
-#: website/download-button.html:47
+#: website/download-button.html:53 website/site-prefooter.html:47
 msgid "Thunderbird Beta"
 msgstr ""
 
-#: website/download-button.html:49
-msgid "<span>Thunderbird</span> Earlybird"
+#: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
+msgid "Thunderbird Nightly"
 msgstr ""
 
-#: website/download-button.html:60
+#: website/download-button.html:66
 msgid "Systems &amp; Languages"
 msgstr "Iinkqubo &amp; Iilwimi"
 
-#: website/download-button.html:62
+#: website/download-button.html:67
 msgid "What’s New"
 msgstr "Yintoni Entsha"
 
-#: website/download-button.html:64 website/site-footer.html:22
+#: website/download-button.html:69 website/site-footer.html:57
 msgid "Privacy"
 msgstr "Okwabucala"
 
-#: website/about/index.html:38 website/index.html:8
-msgid "Software made to make email easier."
+#: website/index.html:9
+msgid "Make Email Easier."
 msgstr ""
 
-#: website/index.html:9
+#: website/index.html:10
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
 msgstr ""
 
-#: website/download/index.html:29 website/index.html:30
+#: website/about/index.html:32 website/download/index.html:19 website/index.html:17
 msgid "Free Download"
 msgstr "Khuphela Simahla"
 
-#: website/index.html:35
+#: website/download/index.html:23 website/index.html:21
 msgid "Thunderbird screenshot"
 msgstr ""
 
-#: website/download/index.html:41 website/download/index.html:61 website/index.html:45 website/index.html:65
+#: website/index.html:29
+msgid "Tailored for all your needs"
+msgstr ""
+
+#: website/index.html:32
+msgid "Thunderbird makes email better for you, bringing together speed, privacy and the latest technologies. Focus on what matters and forget about complexity."
+msgstr ""
+
+#: website/index.html:34
+msgid "Explore all Features"
+msgstr ""
+
+#: website/index.html:41
+msgid "Secure &amp; Private"
+msgstr ""
+
+#: website/index.html:44
+msgid "Multiple features, such as built-in Do Not Track and remote content blocking, work together to ensure your safety and privacy, so you can have peace of mind."
+msgstr ""
+
+#: website/index.html:46
+msgid "Know your rights"
+msgstr ""
+
+#: website/index.html:53
+msgid "Highly Customizable"
+msgstr ""
+
+#: website/index.html:56
+msgid "With Add-ons(Extensions & Themes) and many more features you can change the look and feel of Thunderbird in an instant."
+msgstr ""
+
+#: website/index.html:58
+msgid "Make it personal"
+msgstr ""
+
+#: website/index.html:66
+msgid "Stay in the loop"
+msgstr ""
+
+#: website/index.html:68
+msgid "Keep yourself up to date with recent announcements and releases by following the official Thunderbird Blog!"
+msgstr ""
+
+#: website/index.html:92
+msgid "Read the Blog"
+msgstr ""
+
+#: website/about/index.html:37 website/index.html:103
+msgid "Lightning Calendar screenshot"
+msgstr ""
+
+#: website/index.html:110
+msgid "Lightning Calendar"
+msgstr ""
+
+#: website/index.html:112
+msgid "Organize your life — it’s about time!"
+msgstr ""
+
+#: website/index.html:117
+msgid "Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird email."
+msgstr ""
+
+#: website/index.html:120
+msgid "Manage multiple calendars, create your daily to do list, invite friends to events, and subscribe to public calendars."
+msgstr ""
+
+#: website/index.html:123
+#, fuzzy
+msgid "Explore Features"
+msgstr "Iinkalo"
+
+#: website/index.html:126
+msgid "Explore More Add-ons"
+msgstr ""
+
+#: website/download/index.html:35 website/download/index.html:55 website/index.html:142 website/index.html:162
 msgid "Mozilla"
 msgstr ""
 
@@ -216,78 +301,119 @@ msgstr "Ulwimi lwephepha"
 msgid "Other languages:"
 msgstr "Ezinye iilwimi:"
 
-#: website/lang_switcher.html:23
+#: website/lang_switcher.html:30
 msgid "Go"
 msgstr ""
 
-#: website/site-footer.html:6
-#, python-format
-msgid ""
-"Portions of this content are ©1998–%(current_year)s by individual\n"
-"              mozilla.org contributors. Content available under\n"
-"              a <a href=\"%(url)s\">Creative Commons license</a>."
-msgstr "Iinxalenye zesi siqulatho zi- ©1998–%(current_year)s ziyilwe ngabanikeli be-mozilla.org. Umba ofumanekayo phantsi <a href=\"%(url)s\">kwelayisenisi ye-Creative Commons</a>."
+#: website/site-footer.html:12
+msgid "For Organizations"
+msgstr ""
 
-#: website/site-footer.html:15
-msgid "About"
-msgstr "Malunga"
-
-#: website/site-footer.html:16
+#: website/site-footer.html:27
 msgid "Contact Us"
 msgstr "Qhagamshelana nathi"
 
-#: website/site-footer.html:18
-msgid "Contribute to this site"
-msgstr "Nikela kweli sayithi"
-
-#: website/site-footer.html:23
+#: website/site-footer.html:60
 msgid "Cookies"
 msgstr "Iikhukhi"
 
-#: website/site-footer.html:24
+#: website/site-footer.html:64
 msgid "Legal"
 msgstr "Okusemthethweni"
 
-#: website/site-footer.html:25
+#: website/site-footer.html:68
 msgid "Report Trademark Abuse"
 msgstr "Xela ukuXhatshazwa koPhawu loRhwebo"
 
-#: website/about/index.html:7
-#, fuzzy
-msgid "About Us"
-msgstr "Malunga"
+#: website/site-footer.html:73
+#, fuzzy, python-format
+msgid ""
+"Portions of this content are ©1998–%(current_year)s by individual\n"
+"      mozilla.org contributors. Content available under\n"
+"      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
+msgstr "Iinxalenye zesi siqulatho zi- ©1998–%(current_year)s ziyilwe ngabanikeli be-mozilla.org. Umba ofumanekayo phantsi <a href=\"%(url)s\">kwelayisenisi ye-Creative Commons</a>."
 
-#: website/about/index.html:10
-msgid "About the Thunderbird Project."
+#: website/site-footer.html:81
+msgid "Contribute to this site"
+msgstr "Nikela kweli sayithi"
+
+#: website/site-prefooter.html:14
+msgid "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users."
 msgstr ""
 
-#: website/about/index.html:27 website/about/index.html:35
+#: website/site-prefooter.html:17
+msgid "Join Us"
+msgstr ""
+
+#: website/site-prefooter.html:20
+msgid "Make a Donation"
+msgstr ""
+
+#: website/site-prefooter.html:22
+#, fuzzy
+msgid "Get Support"
+msgstr "Inkxaso"
+
+#: website/site-prefooter.html:24
+msgid "Report a Bug"
+msgstr ""
+
+#: website/site-prefooter.html:50
+msgid "The Future of Thunderbird"
+msgstr ""
+
+#: website/site-prefooter.html:52
+msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
+msgstr ""
+
+#: website/site-prefooter.html:55
+#, fuzzy
+msgid "Download Beta"
+msgstr "Khuphela Simahla"
+
+#: website/site-prefooter.html:67
+msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Nightly channel."
+msgstr ""
+
+#: website/site-prefooter.html:71
+msgid "WARNING!"
+msgstr ""
+
+#: website/site-prefooter.html:73
+msgid "Nightly is an unstable testing and development platform, make sure you back up important data regularly!"
+msgstr ""
+
+#: website/site-prefooter.html:76
+msgid "Download Nightly"
+msgstr ""
+
+#: website/about/index.html:22
 msgid "What is Thunderbird?"
 msgstr ""
 
-#: website/about/index.html:28 website/about/index.html:51
-msgid "Who We Are"
+#: website/about/index.html:24
+msgid "Software made to make email easier."
 msgstr ""
 
-#: website/about/index.html:29 website/about/index.html:72
-msgid "Thunderbird and Mozilla Foundation"
-msgstr ""
-
-#: website/about/index.html:44
+#: website/about/index.html:29
 msgid ""
 "Thunderbird is a free and open source email, newsfeed, chat, and calendaring client, that’s easy to set up and customize. One of the core principles of Thunderbird is the use and promotion of open "
 "standards - this focus is a rejection of our world of closed platforms and services that can’t communicate with each other. We want our users to have freedom and choice in how they communicate."
 msgstr ""
 
-#: website/about/index.html:54
+#: website/about/index.html:46
+msgid "Who We Are"
+msgstr ""
+
+#: website/about/index.html:48
 msgid "We are a community making communication free and open."
 msgstr ""
 
-#: website/about/index.html:60
+#: website/about/index.html:61
 msgid "Our Community"
 msgstr ""
 
-#: website/about/index.html:61
+#: website/about/index.html:63
 #, python-format
 msgid ""
 "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
@@ -295,23 +421,27 @@ msgid ""
 "about who is working on Thunderbird, check out the <a href=\"%(core_team)s\">list of our core contributors</a>."
 msgstr ""
 
-#: website/about/index.html:64
+#: website/about/index.html:68
 msgid "Thunderbird Council"
 msgstr ""
 
-#: website/about/index.html:65
+#: website/about/index.html:70
 #, python-format
 msgid ""
 "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
 "href=\"%(council)s\">on the Thunderbird wiki</a>."
 msgstr ""
 
-#: website/about/index.html:75
+#: website/about/index.html:82
+msgid "Thunderbird and Mozilla Foundation"
+msgstr ""
+
+#: website/about/index.html:84
 #, python-format
 msgid "Thunderbird lives at the nonprofit <a href=\"%(foundation)s\">Mozilla Foundation</a>."
 msgstr ""
 
-#: website/about/index.html:81
+#: website/about/index.html:89
 #, python-format
 msgid ""
 "Thunderbird is an independent project with its legal and financial home at <a href=\"%(foundation)s\">the Mozilla Foundation</a>. The Mozilla Foundation believes the Internet is a global public "
@@ -320,33 +450,7 @@ msgid ""
 "Thunderbird’s home after an <a href=\"%(home_blog_post)s\">exploration of legal homes in 2017</a>."
 msgstr ""
 
-#: website/channel/index.html:7
-msgid "Download Thunderbird Beta &amp; Try the Next Thunderbird"
-msgstr ""
-
-#: website/channel/index.html:8
-msgid "Download and test Thunderbird Beta and experience features and fixes early!"
-msgstr ""
-
-#: website/channel/index.html:18
-msgid "Welcome to the <strong>Future of Thunderbird</strong>"
-msgstr ""
-
-#: website/channel/index.html:19
-msgid ""
-"Download Thunderbird Beta and be one of the first to try the newest features in the next version of Thunderbird! By giving us your feedback, you’ll help make email better for millions of your fellow"
-" users."
-msgstr ""
-
-#: website/channel/index.html:30
-msgid "Experience cutting edge features with more stability"
-msgstr ""
-
-#: website/channel/index.html:31
-msgid "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Provide feedback</a> to help refine and polish what will be in the final release"
-msgstr ""
-
-#: website/download/index.html:9
+#: website/download/index.html:10
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
 msgstr ""
 
@@ -358,251 +462,325 @@ msgstr ""
 msgid "It’s all yours. It’s now easier to upgrade to Thunderbird."
 msgstr ""
 
-#: website/features/index.html:31 website/features/index.html:40
+#: website/features/index.html:27 website/features/index.html:45
 msgid "Easier to Get Started"
 msgstr ""
 
-#: website/features/index.html:32 website/features/index.html:91
+#: website/features/index.html:30 website/features/index.html:100
 msgid "Tabs and Search"
 msgstr ""
 
-#: website/features/index.html:33 website/features/index.html:164
+#: website/features/index.html:33 website/features/index.html:160
 msgid "Customize Your Email Experience"
 msgstr ""
 
-#: website/features/index.html:34 website/features/index.html:199
+#: website/features/index.html:36 website/features/index.html:220
 msgid "Secure and Protect Your Email"
 msgstr ""
 
-#: website/features/index.html:45
+#: website/features/index.html:54
 msgid "Mail Account Setup Wizard"
 msgstr ""
 
-#: website/features/index.html:46
+#: website/features/index.html:56
 msgid ""
 "Prior to this feature you had to know your IMAP, SMTP, and SSL/TLS settings. Now all you need to provide is your name, email address, and password and the email account set up wizardry will check "
 "our database and find the email settings for you."
 msgstr ""
 
-#: website/features/index.html:64
+#: website/features/index.html:65
 msgid "One-click Address Book"
 msgstr ""
 
-#: website/features/index.html:65
+#: website/features/index.html:67
 msgid ""
 "One-click Address Book is a quick and easy way to add people to your address book. Add people by simply clicking on the star icon in the message you receive. Two clicks and you can add more details "
 "like a photo, birthday, and other contact information."
 msgstr ""
 
-#: website/features/index.html:71
+#: website/features/index.html:76
 msgid "Attachment Reminder"
 msgstr ""
 
-#: website/features/index.html:72
+#: website/features/index.html:78
 msgid "The attachment reminder looks for the word attachment (and other words like file types) in the body of your message and reminds you to add an attachment before hitting send."
 msgstr ""
 
-#: website/features/index.html:103
-msgid "Tabs"
+#: website/features/index.html:86
+msgid "Multiple-channel chat"
 msgstr ""
 
-#: website/features/index.html:104
+#: website/features/index.html:88
+msgid ""
+"Enjoy real-time conversation with your contacts, right from your favorite messaging application, with multiple supported networks. Thunderbird makes it easy to search through both past conversations"
+" and received emails."
+msgstr ""
+
+#: website/features/index.html:109
+msgid "Tabbed Email"
+msgstr ""
+
+#: website/features/index.html:111
 msgid ""
 "If you like Firefox’s tabbed browsing, you’re going to love tabbed email. Tabbed email lets you load emails in separate tabs so you can quickly jump between them. Perhaps you’re responding to an "
 "email and need to refer back to an earlier email. Tabbed email lets you keep multiple emails open for easy reference."
 msgstr ""
 
-#: website/features/index.html:105
-msgid "Double-clicking or hitting enter on a mail message will now open that message in a new tab window. Right-clicking on messages or folders will open them in a tab in the background."
-msgstr ""
-
-#: website/features/index.html:106
+#: website/features/index.html:114
 msgid "When quitting Thunderbird, visible tabs will be saved and will be restored when you open Thunderbird the next time. There is also a Tab menu on the Tab toolbar to help you switch between Tabs."
 msgstr ""
 
-#: website/features/index.html:126
+#: website/features/index.html:127
 msgid "Quick Filter Toolbar"
 msgstr ""
 
-#: website/features/index.html:127
+#: website/features/index.html:129
 msgid ""
 "The Quick Filter Toolbar lets you filter your email faster. Start typing in words in the Quick Filter search box and the results are displayed instantly. Or you can filter your email by New "
 "Messages, Tags, and people in your Address Book. You can also \"Pin\" or save a Filter and use it across multiple folders."
 msgstr ""
 
-#: website/features/index.html:137
-msgid "Search"
-msgstr ""
-
 #: website/features/index.html:138
-msgid ""
-"The search interface in Thunderbird contains filtering and timeline tools to pinpoint the exact email you’re looking for. Thunderbird also indexes all of your emails to help you search even faster. "
-"Your search results are displayed in a tab so you can easily switch back and forth to your search results and other email."
+msgid "Search Tools"
 msgstr ""
 
-#: website/features/index.html:147
+#: website/features/index.html:140
+msgid ""
+"The search interface in Thunderbird contains filtering and timeline tools to pinpoint the exact email you’re looking for. Thunderbird also indexes all of your emails and chat conversations to help "
+"you search even faster. Your search results are displayed in a tab so you can easily switch back and forth to your search results and other email."
+msgstr ""
+
+#: website/features/index.html:149
 msgid "Message Archive"
 msgstr ""
 
-#: website/features/index.html:148
+#: website/features/index.html:151
 msgid ""
 "If you think you’re going to need an email in the future but want it out of your inbox without deleting it, archive it! Archiving helps you manage your inbox and put your email into the archive "
 "folder system."
 msgstr ""
 
-#: website/features/index.html:149
-msgid "Selecting the Archive button or hitting the ‘A’ key will archive your email."
+#: website/features/index.html:169
+msgid "Large Files Management"
 msgstr ""
 
-#: website/features/index.html:155
-msgid "Activity Manager"
+#: website/features/index.html:171
+msgid "Share large files with Thunderbird Filelink!"
 msgstr ""
 
-#: website/features/index.html:156
+#: website/features/index.html:175
 msgid ""
-"The Activity Manager records all the interactions between Thunderbird and your email provider in one place. There’s no more guess work. You only have to look in one place to see everything that’s "
-"happening with your email."
+"You can now speed up the transfer of large documents by uploading them to an online storage provider and sharing the link instead of sending the file directly as a message attachment. Improve the "
+"speed of sending email and avoid message rejection if the recipient’s server disallows large files. As an added bonus, you’ll also save space in your sent folder and the recipient’s inbox."
 msgstr ""
 
-#: website/features/index.html:180
+#: website/features/index.html:188
 msgid "Thunderbird Look & Feel"
 msgstr ""
 
-#: website/features/index.html:181
+#: website/features/index.html:190
 msgid ""
-"With Personas, lightweight \"skins\" allow you to change the look and feel of Thunderbird in an instant. Hundreds of skins are available from the latest movies, famous landmarks, and Japanese "
-"tattoos. You can also choose from several Themes that dress up all the different icons in Thunderbird."
+"Themes allow you to change the look of Thunderbird in an instant. Working on getting to inbox zero at night? Turn on the dark theme to make managing your email easier on the eyes. Thunderbird ships "
+"with both light and dark themes, and more are available as add-ons."
 msgstr ""
 
-#: website/features/index.html:184
+#: website/features/index.html:199
 msgid "Smart Folders"
 msgstr ""
 
-#: website/features/index.html:185
+#: website/features/index.html:201
 msgid ""
 "Smart Folders help you manage multiple email accounts by combining special folders like your Inbox, Sent, or Archive folder. Instead of going to the Inbox for each of your mail accounts, you can see"
 " all of your incoming email in one Inbox folder."
 msgstr ""
 
-#: website/features/index.html:190
+#: website/features/index.html:210
 msgid "Add-ons Manager"
 msgstr ""
 
-#: website/features/index.html:191
+#: website/features/index.html:212
 msgid ""
 "Find and install add-ons directly in Thunderbird. You no longer need to visit the add-ons Web site - instead simply fire up the Add-ons Manager. Not sure which add-on is right for you? Ratings, "
 "recommendations, descriptions and pictures of the add-ons in action help you make your selection."
 msgstr ""
 
-#: website/features/index.html:208
+#: website/features/index.html:230
 msgid "Robust Privacy"
 msgstr ""
 
-#: website/features/index.html:209
+#: website/features/index.html:232
 msgid "Thunderbird offers support for user privacy and remote image protection. To ensure a user’s privacy, Thunderbird automatically blocks remote images in email messages."
 msgstr ""
 
-#: website/features/index.html:216
+#: website/features/index.html:241
 msgid "Phishing Protection"
 msgstr ""
 
-#: website/features/index.html:217
+#: website/features/index.html:243
 msgid ""
 "Thunderbird protects you from email scams which try to trick users into handing over personal and confidential information by indicating when a message is a potential phishing attempt. As a second "
 "line of defense, Thunderbird warns you when you click on a link which appears to be taking you to a different Web site than the one indicated by the URL in the message."
 msgstr ""
 
-#: website/features/index.html:225
+#: website/features/index.html:252
 msgid "Automated Update"
 msgstr ""
 
-#: website/features/index.html:228
+#: website/features/index.html:254
 msgid ""
 "Thunderbird’s update system checks to see if you’re running the latest version, and notifies you when a security update is available. These security updates are small (usually 200KB - 700KB), giving"
 " you only what you need and making the security update quick to download and install. The automated update system provides updates for Thunderbird on Windows, macOS, and Linux in over 40 different "
 "languages."
 msgstr ""
 
-#: website/features/index.html:230
-msgid ""
-"Thunderbird’s update system checks to see if you’re running the latest version, and notifies you when a security update is available. These security updates are small (usually 200KB - 700KB), giving"
-" you only what you need and making the security update quick to download and install. The automated update system provides updates for Thunderbird on Windows, OS X, and Linux in over 40 different "
-"languages."
-msgstr ""
-
-#: website/features/index.html:238
+#: website/features/index.html:261
 msgid "Cutting Out the Junk"
 msgstr ""
 
-#: website/features/index.html:239
+#: website/features/index.html:263
 msgid ""
 "Thunderbird’s popular junk mail tools have been updated to stay ahead of spam. Each email you receive passes through Thunderbird’s leading-edge junk mail filters. Each time you mark messages as "
 "spam, Thunderbird \"learns\" and improves its filtering so you can spend more time reading the mail that matters. Thunderbird can also use your mail provider’s spam filters to keep junk mail out of "
 "your inbox."
 msgstr ""
 
-#: website/features/index.html:242
+#: website/features/index.html:268
 msgid "Open Source"
 msgstr ""
 
-#: website/features/index.html:243
+#: website/features/index.html:270
 msgid ""
 "At the heart of Thunderbird is an open source development process driven by thousands of passionate, experienced developers and security experts spread all over the world. Our openness and active "
 "community of experts helps to ensure our products are more secure and quickly updated, while also enabling us to take advantage of the best third party security scanning and evaluation tools to "
 "further bolster overall security."
 msgstr ""
 
+#: website/thunderbird/68.0/whatsnew/index.html:7
+msgid "New in Thunderbird 68"
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:13
+#, python-format
+msgid ""
+"This article describes some of the major changes visible to users in Thunderbird version 68.0. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird 68 release "
+"notes</a>."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:25
+msgid "Better Dark Theme"
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:28
+msgid "The dark theme available in Thunderbird has been enhanced with a dark message thread pane as well as many other small improvements."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:38
+msgid "Filelink Improved"
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:41
+msgid ""
+"Filelink attachments that have already been uploaded can now be linked to again instead of having to re-upload them. Also, an account is no longer required to use the default Filelink provider - "
+"<strong>WeTransfer</strong>."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:44
+#, python-format
+msgid "Other Filelink providers like Box and Dropbox are not included by default, but can be added by grabbing the <a href=\"%(dropbox)s\">Dropbox</a> and <a href=\"%(box)s\">Box</a> add-ons."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:52
+msgid "Options/Preferences in a Tab"
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:55
+msgid ""
+"Thunderbirdʼs Options/Preferences have been converted from a dialog window to its own dedicated tab. The new Preferences tab provides more space which allows for better organized content and is more"
+" consistent with the look and feel of the rest of Thunderbird."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:58
+msgid "The new Preferences tab also makes it easier to multi-task without the problem of losing track of where your preferences are when switching between windows."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:67
+#, fuzzy
+msgid "Other Notable Changes"
+msgstr "Ezinye iilwimi:"
+
+#: website/thunderbird/68.0/whatsnew/index.html:70
+msgid ""
+"There are many other smaller changes that make Thunderbird 68 feel polished and powerful including: a new App Menu UI, an updated To/CC/BCC selector in compose, improved attachment management, full "
+"color support across the app, filters can now be set to run periodically, and feed articles now show external attachments as links."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:73
+#, python-format
+msgid "There are many other updates in this release, you can see a list of all of them in the <a href=\"%(release)s\">Thunderbird 68 release notes</a>."
+msgstr ""
+
 #: website/thunderbird/all/index.html:10
 msgid "Download Thunderbird in your language"
 msgstr ""
 
-#: website/thunderbird/all/index.html:15 website/thunderbird/beta/all/index.html:15
+#: website/thunderbird/all/index.html:14 website/thunderbird/beta/all/index.html:14
 msgid "Be one of the first to try the newest features in Thunderbird. By giving us your feedback, you’ll help us to refine the features that will be included in the final version."
 msgstr ""
 
-#: website/thunderbird/all/index.html:17 website/thunderbird/beta/all/index.html:17
+#: website/thunderbird/all/index.html:16 website/thunderbird/beta/all/index.html:16
 msgid "Get the award-winning email application from Mozilla. Import your existing mail and enjoy our new features like tabbed email and advanced search."
 msgstr ""
 
-#: website/thunderbird/all/index.html:34 website/thunderbird/beta/all/index.html:34
+#: website/thunderbird/all/index.html:35 website/thunderbird/beta/all/index.html:35
 msgid "Check the system requirements"
 msgstr ""
 
-#: website/thunderbird/all/index.html:35 website/thunderbird/beta/all/index.html:35
+#: website/thunderbird/all/index.html:38 website/thunderbird/beta/all/index.html:38
 msgid "Release notes"
 msgstr ""
 
-#: website/thunderbird/all/index.html:43 website/thunderbird/beta/all/index.html:43
+#: website/thunderbird/all/index.html:41
+#, fuzzy
+msgid "All Releases"
+msgstr "Okushicilelweyo"
+
+#: website/thunderbird/all/index.html:55
 msgid "Fully localized versions"
+msgstr ""
+
+#: website/thunderbird/all/index.html:57 website/thunderbird/beta/all/index.html:53
+msgid "Choose your Language and Operating System"
 msgstr ""
 
 #: website/thunderbird/beta/all/index.html:10
 msgid "Download Beta in your language"
 msgstr ""
 
-#: website/thunderbird/releases/index.html:7
-msgid "Mozilla Thunderbird Release Notes"
+#: website/thunderbird/beta/all/index.html:51
+msgid "Fully localized beta versions"
 msgstr ""
 
-#: website/thunderbird/releases/index.html:8
+#: website/thunderbird/releases/index.html:7
+#, fuzzy
+msgid "Thunderbird Release Notes"
+msgstr "Amanqaku oshicilelo"
+
+#: website/thunderbird/releases/index.html:8 website/thunderbird/releases/index.html:23
 msgid "Release notes for each version of Thunderbird."
 msgstr ""
 
-#: website/thunderbird/releases/index.html:17
-msgid "Home"
-msgstr ""
-
-#: website/thunderbird/releases/index.html:19
-msgid "Release Notes"
-msgstr "Amanqaku oshicilelo"
-
-#: website/thunderbird/releases/index.html:25
-msgid "Thunderbird Releases"
-msgstr ""
-
-#: website/thunderbird/releases/index.html:26
+#: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr ""
+
+#~ msgid "Menu"
+#~ msgstr "Imenyu"
+
+#~ msgid "Themes"
+#~ msgstr "Imixholo"
+
+#~ msgid "About"
+#~ msgstr "Malunga"
 
 #~ msgid "Learn more"
 #~ msgstr "Funda okuninzi"

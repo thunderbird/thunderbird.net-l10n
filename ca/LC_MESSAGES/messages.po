@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-08 11:42-0700\n"
+"POT-Creation-Date: 2019-11-28 15:08-0800\n"
 "PO-Revision-Date: 2019-08-15 18:23+0000\n"
 "Last-Translator: Jordi Serratosa <jordis@softcatala.cat>\n"
 "Language-Team: none\n"
@@ -102,9 +102,8 @@ msgstr ""
 "Heu trobat un problema amb el Thunderbird? <a href=\"%(bug)s\">Creeu un informe d'error</a> per assegurar-vos que es resolgui. Ajudeu-nos a identificar i a resoldre errors per fer que el Thunderbird"
 " sigui millor per a tothom."
 
-#: website/404.html:7 website/404.html:14 website/404.html:26 website/base-resp.html:30 website/download/index.html:7 website/download/index.html:14 website/download/index.html:26
-#: website/download/index.html:36 website/download/index.html:55 website/index.html:7 website/index.html:14 website/index.html:26 website/index.html:40 website/index.html:59
-#: website/site-footer.html:31 website/thunderbird/releases/index.html:18
+#: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:137
+#: website/index.html:156 website/site-footer.html:4 website/site-footer.html:45
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
@@ -113,113 +112,201 @@ msgid "There’s nothing here!"
 msgstr "Aquí no hi ha res!"
 
 #: website/404.html:9
-#, python-format
-msgid "The page you are looking for doesn’t exist. If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
+#, fuzzy, python-format
+msgid "The page you are looking for doesn’t exist.<br/>If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
 msgstr "La pàgina que cerqueu no existeix. Si creieu que això és un error, podeu <a href=\"%(bug_report_url)s\">informar sobre l'error aquí</a>."
 
-#: website/404.html:32
+#: website/404.html:23
 msgid "Empty nest"
 msgstr "Niu buit"
 
-#: website/base-resp.html:28
-msgid "Menu"
-msgstr "Menú"
+#: website/base-resp.html:20 website/site-footer.html:5
+#, fuzzy
+msgid "Thunderbird Vector Wordmark"
+msgstr "Thunderbird Beta"
 
-#: website/base-resp.html:34
-msgid "Beta"
-msgstr "Beta"
-
-#: website/base-resp.html:39
-msgid "Features"
-msgstr "Característiques"
-
-#: website/base-resp.html:44
-msgid "Releases"
-msgstr "Versions"
-
-#: website/base-resp.html:50
-msgid "Calendar Add-on"
-msgstr "Complement de calendari"
-
-#: website/base-resp.html:56
-msgid "Thunderbird for Organizations"
-msgstr "Thunderbird per a organitzacions"
-
-#: website/base-resp.html:63 website/base-resp.html:68
-msgid "Add-ons"
-msgstr "Complements"
-
-#: website/base-resp.html:73
-msgid "Themes"
-msgstr "Temes"
-
-#: website/base-resp.html:80
-msgid "Support"
-msgstr "Ajuda"
-
-#: website/base-resp.html:86
-msgid "Get Involved"
-msgstr "Col·laboreu-hi"
-
-#: website/base-resp.html:93
-msgid "Blog"
-msgstr "Blog"
-
-#: website/base-resp.html:99 website/site-footer.html:17
+#: website/base-resp.html:29 website/base-resp.html:53 website/donate-mailing-list.html:12
 msgid "Donate"
 msgstr "Feu una donació"
 
-#: website/download-button.html:7 website/download-button.html:51 website/download/index.html:8
+#: website/base-resp.html:34
+msgid "Features"
+msgstr "Característiques"
+
+#: website/base-resp.html:37
+msgid "Add-ons"
+msgstr "Complements"
+
+#: website/base-resp.html:40 website/site-footer.html:15 website/site-prefooter.html:9 website/site-prefooter.html:12
+msgid "Get Involved"
+msgstr "Col·laboreu-hi"
+
+#: website/base-resp.html:43 website/site-footer.html:18
+#, fuzzy
+msgid "Get Help"
+msgstr "Obteniu ajuda"
+
+#: website/about/index.html:7 website/base-resp.html:46 website/site-footer.html:24
+msgid "About Us"
+msgstr "Qui som"
+
+#: website/base-resp.html:49 website/site-footer.html:21
+msgid "Blog"
+msgstr "Blog"
+
+#: website/donate-mailing-list.html:7
+msgid "Thunderbird is funded by users like you"
+msgstr ""
+
+#: website/donate-mailing-list.html:9
+msgid "Thunderbird is both free and freedom respecting, but we’re also completely funded by donations! Help us sustain the project and continue to improve."
+msgstr ""
+
+#: website/donate-mailing-list.html:17
+msgid "Join our Newsletter"
+msgstr ""
+
+#: website/donate-mailing-list.html:19
+msgid "Keep up with the latest and greatest updates on news, features, events, and previews, and get a sneak peek on the upcoming releases."
+msgstr ""
+
+#: website/donate-mailing-list.html:26
+msgid "Your Email"
+msgstr ""
+
+#: website/donate-mailing-list.html:28
+msgid "Sign me up!"
+msgstr ""
+
+#: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9
 msgid "Download Thunderbird"
 msgstr "Baixa el Thunderbird"
 
-#: website/download-button.html:28
+#: website/download-button.html:35
 #, python-format
 msgid "Your system doesn't meet the <a href=\"%(url)s\">requirements</a> to run Thunderbird."
 msgstr "El vostre sistema no compleix els <a href=\"%(url)s\">requisits</a> per executar el Thunderbird."
 
-#: website/download-button.html:31
+#: website/download-button.html:38
 #, python-format
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
 msgstr "Seguiu <a href=\"%(url)s\">aquestes instruccions</a> per instal·lar el Thunderbird."
 
-#: website/download-button.html:47
+#: website/download-button.html:53 website/site-prefooter.html:47
 msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
-#: website/download-button.html:49
-msgid "<span>Thunderbird</span> Earlybird"
-msgstr "<span>Thunderbird</span> Earlybird"
+#: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
+#, fuzzy
+msgid "Thunderbird Nightly"
+msgstr "Thunderbird Beta"
 
-#: website/download-button.html:60
+#: website/download-button.html:66
 msgid "Systems &amp; Languages"
 msgstr "Sistemes i llengües"
 
-#: website/download-button.html:62
+#: website/download-button.html:67
 msgid "What’s New"
 msgstr "Novetats"
 
-#: website/download-button.html:64 website/site-footer.html:22
+#: website/download-button.html:69 website/site-footer.html:57
 msgid "Privacy"
 msgstr "Privadesa"
 
-#: website/about/index.html:38 website/index.html:8
-msgid "Software made to make email easier."
-msgstr "Programari per fer fàcil el correu electrònic."
-
 #: website/index.html:9
+msgid "Make Email Easier."
+msgstr ""
+
+#: website/index.html:10
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
 msgstr "El Thunderbird és una aplicació gratuïta de correu electrònic fàcil de configurar i de personalitzar i carregada de funcions genials!"
 
-#: website/download/index.html:29 website/index.html:30
+#: website/about/index.html:32 website/download/index.html:19 website/index.html:17
 msgid "Free Download"
 msgstr "Baixada gratuïta"
 
-#: website/index.html:35
+#: website/download/index.html:23 website/index.html:21
 msgid "Thunderbird screenshot"
 msgstr "Captura de pantalla del Thunderbird"
 
-#: website/download/index.html:41 website/download/index.html:61 website/index.html:45 website/index.html:65
+#: website/index.html:29
+msgid "Tailored for all your needs"
+msgstr ""
+
+#: website/index.html:32
+msgid "Thunderbird makes email better for you, bringing together speed, privacy and the latest technologies. Focus on what matters and forget about complexity."
+msgstr ""
+
+#: website/index.html:34
+msgid "Explore all Features"
+msgstr ""
+
+#: website/index.html:41
+msgid "Secure &amp; Private"
+msgstr ""
+
+#: website/index.html:44
+msgid "Multiple features, such as built-in Do Not Track and remote content blocking, work together to ensure your safety and privacy, so you can have peace of mind."
+msgstr ""
+
+#: website/index.html:46
+msgid "Know your rights"
+msgstr ""
+
+#: website/index.html:53
+msgid "Highly Customizable"
+msgstr ""
+
+#: website/index.html:56
+msgid "With Add-ons(Extensions & Themes) and many more features you can change the look and feel of Thunderbird in an instant."
+msgstr ""
+
+#: website/index.html:58
+msgid "Make it personal"
+msgstr ""
+
+#: website/index.html:66
+msgid "Stay in the loop"
+msgstr ""
+
+#: website/index.html:68
+msgid "Keep yourself up to date with recent announcements and releases by following the official Thunderbird Blog!"
+msgstr ""
+
+#: website/index.html:92
+msgid "Read the Blog"
+msgstr ""
+
+#: website/about/index.html:37 website/index.html:103
+msgid "Lightning Calendar screenshot"
+msgstr ""
+
+#: website/index.html:110
+msgid "Lightning Calendar"
+msgstr ""
+
+#: website/index.html:112
+msgid "Organize your life — it’s about time!"
+msgstr ""
+
+#: website/index.html:117
+msgid "Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird email."
+msgstr ""
+
+#: website/index.html:120
+msgid "Manage multiple calendars, create your daily to do list, invite friends to events, and subscribe to public calendars."
+msgstr ""
+
+#: website/index.html:123
+#, fuzzy
+msgid "Explore Features"
+msgstr "Característiques"
+
+#: website/index.html:126
+msgid "Explore More Add-ons"
+msgstr ""
+
+#: website/download/index.html:35 website/download/index.html:55 website/index.html:142 website/index.html:162
 msgid "Mozilla"
 msgstr "Mozilla"
 
@@ -231,63 +318,108 @@ msgstr "Llengua de la pàgina:"
 msgid "Other languages:"
 msgstr "Altres llengües:"
 
-#: website/lang_switcher.html:23
+#: website/lang_switcher.html:30
 msgid "Go"
 msgstr "Vés"
 
-#: website/site-footer.html:6
-#, python-format
-msgid ""
-"Portions of this content are ©1998–%(current_year)s by individual\n"
-"              mozilla.org contributors. Content available under\n"
-"              a <a href=\"%(url)s\">Creative Commons license</a>."
-msgstr "Parts d'aquest contingut són ©1998–%(current_year)s de col·laboradors de mozilla.org. El contingut està subjecte a la <a href=\"%(url)s\">llicència Creative Commons</a>."
+#: website/site-footer.html:12
+#, fuzzy
+msgid "For Organizations"
+msgstr "Thunderbird per a organitzacions"
 
-#: website/site-footer.html:15
-msgid "About"
-msgstr "Quant a"
-
-#: website/site-footer.html:16
+#: website/site-footer.html:27
 msgid "Contact Us"
 msgstr "Contacteu-nos"
 
-#: website/site-footer.html:18
-msgid "Contribute to this site"
-msgstr "Col·laboreu amb aquesta pàgina"
-
-#: website/site-footer.html:23
+#: website/site-footer.html:60
 msgid "Cookies"
 msgstr "Galetes"
 
-#: website/site-footer.html:24
+#: website/site-footer.html:64
 msgid "Legal"
 msgstr "Avisos legals"
 
-#: website/site-footer.html:25
+#: website/site-footer.html:68
 msgid "Report Trademark Abuse"
 msgstr "Informeu d'un abús de la marca"
 
-#: website/about/index.html:7
-msgid "About Us"
-msgstr "Qui som"
+#: website/site-footer.html:73
+#, fuzzy, python-format
+msgid ""
+"Portions of this content are ©1998–%(current_year)s by individual\n"
+"      mozilla.org contributors. Content available under\n"
+"      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
+msgstr "Parts d'aquest contingut són ©1998–%(current_year)s de col·laboradors de mozilla.org. El contingut està subjecte a la <a href=\"%(url)s\">llicència Creative Commons</a>."
 
-#: website/about/index.html:10
-msgid "About the Thunderbird Project."
-msgstr "Quant al projecte Thunderbird."
+#: website/site-footer.html:81
+msgid "Contribute to this site"
+msgstr "Col·laboreu amb aquesta pàgina"
 
-#: website/about/index.html:27 website/about/index.html:35
+#: website/site-prefooter.html:14
+#, fuzzy
+msgid "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users."
+msgstr ""
+"El Thunderbird és un projecte de programari lliure, que vol dir que qualsevol pot contribuir-hi amb idees, dissenys, codi i temps lliure per ajudar altres usuaris. Formeu part de l'equip que ajuda "
+"els usuaris i que fa avançar el Thunderbird. <a class=\"more\" href=\"%(contribute)s\">Uniu-vos-hi</a>"
+
+#: website/site-prefooter.html:17
+msgid "Join Us"
+msgstr ""
+
+#: website/site-prefooter.html:20
+#, fuzzy
+msgid "Make a Donation"
+msgstr "Feu una donació"
+
+#: website/site-prefooter.html:22
+#, fuzzy
+msgid "Get Support"
+msgstr "Ajuda"
+
+#: website/site-prefooter.html:24
+msgid "Report a Bug"
+msgstr ""
+
+#: website/site-prefooter.html:50
+#, fuzzy
+msgid "The Future of Thunderbird"
+msgstr "Què és el Thunderbird?"
+
+#: website/site-prefooter.html:52
+#, fuzzy
+msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
+msgstr "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Envieu comentaris</a> per ajudar a perfeccionar la versió final"
+
+#: website/site-prefooter.html:55
+#, fuzzy
+msgid "Download Beta"
+msgstr "Baixada gratuïta"
+
+#: website/site-prefooter.html:67
+msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Nightly channel."
+msgstr ""
+
+#: website/site-prefooter.html:71
+msgid "WARNING!"
+msgstr ""
+
+#: website/site-prefooter.html:73
+msgid "Nightly is an unstable testing and development platform, make sure you back up important data regularly!"
+msgstr ""
+
+#: website/site-prefooter.html:76
+msgid "Download Nightly"
+msgstr ""
+
+#: website/about/index.html:22
 msgid "What is Thunderbird?"
 msgstr "Què és el Thunderbird?"
 
-#: website/about/index.html:28 website/about/index.html:51
-msgid "Who We Are"
-msgstr "Qui som"
+#: website/about/index.html:24
+msgid "Software made to make email easier."
+msgstr "Programari per fer fàcil el correu electrònic."
 
-#: website/about/index.html:29 website/about/index.html:72
-msgid "Thunderbird and Mozilla Foundation"
-msgstr "Thunderbird i la Fundació Mozilla"
-
-#: website/about/index.html:44
+#: website/about/index.html:29
 msgid ""
 "Thunderbird is a free and open source email, newsfeed, chat, and calendaring client, that’s easy to set up and customize. One of the core principles of Thunderbird is the use and promotion of open "
 "standards - this focus is a rejection of our world of closed platforms and services that can’t communicate with each other. We want our users to have freedom and choice in how they communicate."
@@ -296,15 +428,19 @@ msgstr ""
 "promoció dels estàndards oberts. Aquest enfocament és un rebuig al nostre món de plataformes i serveis tancats que no es poden comunicar entre ells. Volem que els nostres usuaris tinguin la "
 "llibertat i el dret a decidir pel que fa a la manera de comunicar-se."
 
-#: website/about/index.html:54
+#: website/about/index.html:46
+msgid "Who We Are"
+msgstr "Qui som"
+
+#: website/about/index.html:48
 msgid "We are a community making communication free and open."
 msgstr "Som una comunitat que fa que la comunicació sigui lliure i oberta."
 
-#: website/about/index.html:60
+#: website/about/index.html:61
 msgid "Our Community"
 msgstr "La nostra comunitat"
 
-#: website/about/index.html:61
+#: website/about/index.html:63
 #, python-format
 msgid ""
 "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
@@ -316,11 +452,11 @@ msgstr ""
 "href=\"%(donate)s\">finançat per donacions</a> dels nostres usuaris. Si teniu curiositat sobre qui treballa en el Thunderbird, vegeu la <a href=\"%(core_team)s\">llista dels nostres col·laboradors "
 "principals</a>."
 
-#: website/about/index.html:64
+#: website/about/index.html:68
 msgid "Thunderbird Council"
 msgstr "Consell del Thunderbird"
 
-#: website/about/index.html:65
+#: website/about/index.html:70
 #, python-format
 msgid ""
 "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
@@ -329,12 +465,16 @@ msgstr ""
 "El projecte Thunderbird està regit per set consellers, elegits pels col·laboradors actius de la comunitat Thunderbird. Podeu veure els membres actuals elegits del Consell del Thunderbird <a "
 "href=\"%(council)s\">al wiki del Thunderbird </a>."
 
-#: website/about/index.html:75
+#: website/about/index.html:82
+msgid "Thunderbird and Mozilla Foundation"
+msgstr "Thunderbird i la Fundació Mozilla"
+
+#: website/about/index.html:84
 #, python-format
 msgid "Thunderbird lives at the nonprofit <a href=\"%(foundation)s\">Mozilla Foundation</a>."
 msgstr "El Thunderbird és part de l'organització sense ànim de lucre <a href=\"%(foundation)s\">Fundació Mozilla</a>."
 
-#: website/about/index.html:81
+#: website/about/index.html:89
 #, python-format
 msgid ""
 "Thunderbird is an independent project with its legal and financial home at <a href=\"%(foundation)s\">the Mozilla Foundation</a>. The Mozilla Foundation believes the Internet is a global public "
@@ -347,35 +487,7 @@ msgstr ""
 " del Firefox. Mozilla no exerceix cap mena de governança sobre el projecte; aquesta funció recau sobre el Consell del Thunderbird, elegit per la comunitat del projecte Thunderbird. La Fundació "
 "Mozilla es va convertir en la seu del Thunderbird després d'una <a href=\"%(home_blog_post)s\">exploració de seus legals el 2017 </a>."
 
-#: website/channel/index.html:7
-msgid "Download Thunderbird Beta &amp; Try the Next Thunderbird"
-msgstr "Baixeu el Thunderbird Beta i proveu la propera versió del Thunderbird"
-
-#: website/channel/index.html:8
-msgid "Download and test Thunderbird Beta and experience features and fixes early!"
-msgstr "Baixeu i proveu el Thunderbird Beta i sigueu dels primers a experimentar les funcions noves!"
-
-#: website/channel/index.html:18
-msgid "Welcome to the <strong>Future of Thunderbird</strong>"
-msgstr "Us donem la benvinguda al <strong>futur del Thunderbird</strong>"
-
-#: website/channel/index.html:19
-msgid ""
-"Download Thunderbird Beta and be one of the first to try the newest features in the next version of Thunderbird! By giving us your feedback, you’ll help make email better for millions of your fellow"
-" users."
-msgstr ""
-"Baixeu el Thunderbird Beta i sigueu dels primers a provar les funcions noves de la propera versió del Thunderbird! Envieu-nos comentaris per ajudar a millorar el correu electrònic per a milions "
-"d'usuaris."
-
-#: website/channel/index.html:30
-msgid "Experience cutting edge features with more stability"
-msgstr "Experimenteu les funcions més innovadores amb més estabilitat"
-
-#: website/channel/index.html:31
-msgid "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Provide feedback</a> to help refine and polish what will be in the final release"
-msgstr "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Envieu comentaris</a> per ajudar a perfeccionar la versió final"
-
-#: website/download/index.html:9
+#: website/download/index.html:10
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
 msgstr "La baixada s'iniciarà automàticament. No funciona? Feu clic al botó següent per tornar-ho a provar."
 
@@ -387,27 +499,27 @@ msgstr "Característiques del Thunderbird"
 msgid "It’s all yours. It’s now easier to upgrade to Thunderbird."
 msgstr "És tot vostre. Ara és més fàcil actualitzar-vos al Thunderbird."
 
-#: website/features/index.html:31 website/features/index.html:40
+#: website/features/index.html:27 website/features/index.html:45
 msgid "Easier to Get Started"
 msgstr "Més fàcil de fer els primers passos"
 
-#: website/features/index.html:32 website/features/index.html:91
+#: website/features/index.html:30 website/features/index.html:100
 msgid "Tabs and Search"
 msgstr "Pestanyes i cerca"
 
-#: website/features/index.html:33 website/features/index.html:164
+#: website/features/index.html:33 website/features/index.html:160
 msgid "Customize Your Email Experience"
 msgstr "Personalitzeu l’experiència amb el correu"
 
-#: website/features/index.html:34 website/features/index.html:199
+#: website/features/index.html:36 website/features/index.html:220
 msgid "Secure and Protect Your Email"
 msgstr "Protegiu i feu segur el vostre correu"
 
-#: website/features/index.html:45
+#: website/features/index.html:54
 msgid "Mail Account Setup Wizard"
 msgstr "Auxiliar de configuració del compte de correu"
 
-#: website/features/index.html:46
+#: website/features/index.html:56
 msgid ""
 "Prior to this feature you had to know your IMAP, SMTP, and SSL/TLS settings. Now all you need to provide is your name, email address, and password and the email account set up wizardry will check "
 "our database and find the email settings for you."
@@ -415,11 +527,11 @@ msgstr ""
 "Abans d’utilitzar aquesta funció havíeu de conèixer els vostres paràmetres per IMAP, SMTP, i SSL/TLS. Ara només cal que doneu el vostre nom, adreça electrònica i contrasenya i l’auxiliar de "
 "configuració del compte de correu consultarà la nostra base de dades per trobar els paràmetres que s’ajusten al vostre correu."
 
-#: website/features/index.html:64
+#: website/features/index.html:65
 msgid "One-click Address Book"
 msgstr "Llibreta d'adreces en un clic"
 
-#: website/features/index.html:65
+#: website/features/index.html:67
 msgid ""
 "One-click Address Book is a quick and easy way to add people to your address book. Add people by simply clicking on the star icon in the message you receive. Two clicks and you can add more details "
 "like a photo, birthday, and other contact information."
@@ -427,21 +539,31 @@ msgstr ""
 "La llibreta d'adreces en un clic és una manera ràpida i fàcil d’afegir gent a la vostra llibreta d'adreces. Feu simplement un clic a la icona d’estrella del missatge que rebeu. Dos clics per afegir "
 "més detalls com una foto, l’aniversari i altres dades del contacte."
 
-#: website/features/index.html:71
+#: website/features/index.html:76
 msgid "Attachment Reminder"
 msgstr "Recordatori d'adjunció"
 
-#: website/features/index.html:72
+#: website/features/index.html:78
 msgid "The attachment reminder looks for the word attachment (and other words like file types) in the body of your message and reminds you to add an attachment before hitting send."
 msgstr ""
 "El recordatori d'adjunció cerca la paraula «adjunt» (o altres paraules, com tipus de fitxers) en el cos del vostre missatge i us recorda que heu d’adjuntar un fitxer abans de fer clic al botó "
 "d'enviar."
 
-#: website/features/index.html:103
-msgid "Tabs"
-msgstr "Pestanyes"
+#: website/features/index.html:86
+msgid "Multiple-channel chat"
+msgstr ""
 
-#: website/features/index.html:104
+#: website/features/index.html:88
+msgid ""
+"Enjoy real-time conversation with your contacts, right from your favorite messaging application, with multiple supported networks. Thunderbird makes it easy to search through both past conversations"
+" and received emails."
+msgstr ""
+
+#: website/features/index.html:109
+msgid "Tabbed Email"
+msgstr ""
+
+#: website/features/index.html:111
 msgid ""
 "If you like Firefox’s tabbed browsing, you’re going to love tabbed email. Tabbed email lets you load emails in separate tabs so you can quickly jump between them. Perhaps you’re responding to an "
 "email and need to refer back to an earlier email. Tabbed email lets you keep multiple emails open for easy reference."
@@ -449,21 +571,17 @@ msgstr ""
 "Si us agrada la navegació en pestanyes del Firefox, us encantarà el correu en pestanyes. Us permet carregar correus en pestanyes separades de manera que pugueu saltar ràpidament entre elles. Potser "
 "esteu responent un correu i necessiteu mencionar un missatge més antic. El correu amb pestanyes us permet tenir diversos missatges oberts per consultar-los fàcilment."
 
-#: website/features/index.html:105
-msgid "Double-clicking or hitting enter on a mail message will now open that message in a new tab window. Right-clicking on messages or folders will open them in a tab in the background."
-msgstr "Fer doble clic o prémer intro en un missatge farà que s’obri en una nova pestanya. Fer clic dret en missatges o carpetes les obrirà en una pestanya en segon pla."
-
-#: website/features/index.html:106
+#: website/features/index.html:114
 msgid "When quitting Thunderbird, visible tabs will be saved and will be restored when you open Thunderbird the next time. There is also a Tab menu on the Tab toolbar to help you switch between Tabs."
 msgstr ""
 "Quan sortiu del Thunderbird, les pestanyes visibles es desaran i es restauraran quan torneu a obrir el Thunderbird. En la barra d’eines de les pestanyes també hi ha un menú «Pestanyes» per ajudar-"
 "vos a canviar entre pestanyes."
 
-#: website/features/index.html:126
+#: website/features/index.html:127
 msgid "Quick Filter Toolbar"
 msgstr "Barra de filtre ràpid"
 
-#: website/features/index.html:127
+#: website/features/index.html:129
 msgid ""
 "The Quick Filter Toolbar lets you filter your email faster. Start typing in words in the Quick Filter search box and the results are displayed instantly. Or you can filter your email by New "
 "Messages, Tags, and people in your Address Book. You can also \"Pin\" or save a Filter and use it across multiple folders."
@@ -471,23 +589,25 @@ msgstr ""
 "La barra de filtre ràpid us permet filtrar els vostres correus en menys temps. Comenceu a escriure a la casella de cerca del filtre ràpid i els resultats es mostraran a l’instant. També podeu "
 "filtrar els vostres correus segons si són missatges nous, segons les etiquetes i segons les persones de la vostra agenda. També podeu clavar o desar un filtre i utilitzar-lo en diverses carpetes."
 
-#: website/features/index.html:137
-msgid "Search"
+#: website/features/index.html:138
+#, fuzzy
+msgid "Search Tools"
 msgstr "Cerca"
 
-#: website/features/index.html:138
+#: website/features/index.html:140
+#, fuzzy
 msgid ""
-"The search interface in Thunderbird contains filtering and timeline tools to pinpoint the exact email you’re looking for. Thunderbird also indexes all of your emails to help you search even faster. "
-"Your search results are displayed in a tab so you can easily switch back and forth to your search results and other email."
+"The search interface in Thunderbird contains filtering and timeline tools to pinpoint the exact email you’re looking for. Thunderbird also indexes all of your emails and chat conversations to help "
+"you search even faster. Your search results are displayed in a tab so you can easily switch back and forth to your search results and other email."
 msgstr ""
 "La interfície de cerca en el Thunderbird conté filtres i eines de temps per trobar exactament el correu que esteu cercant. El Thunderbird també indexa tots els vostres correus per ajudar-vos a "
 "cercar-los encara més ràpidament. Els resultats de la cerca es mostren en una pestanya perquè pugueu anar canviant entre els resultats i altres correus."
 
-#: website/features/index.html:147
+#: website/features/index.html:149
 msgid "Message Archive"
 msgstr "Arxiu de missatges"
 
-#: website/features/index.html:148
+#: website/features/index.html:151
 msgid ""
 "If you think you’re going to need an email in the future but want it out of your inbox without deleting it, archive it! Archiving helps you manage your inbox and put your email into the archive "
 "folder system."
@@ -495,39 +615,35 @@ msgstr ""
 "Si penseu que necessitareu un correu en el futur però no voleu ni eliminar-lo ni tenir-lo a la safata d’entrada, arxiveu-lo! L’arxivador us permet gestionar la safata d’entrada i posar els correus "
 "en el sistema de carpetes de l’arxiu."
 
-#: website/features/index.html:149
-msgid "Selecting the Archive button or hitting the ‘A’ key will archive your email."
-msgstr "Seleccionar el botó d’arxivar o prémer la tecla «A» arxivarà el correu."
-
-#: website/features/index.html:155
-msgid "Activity Manager"
-msgstr "Gestor d'activitat"
-
-#: website/features/index.html:156
-msgid ""
-"The Activity Manager records all the interactions between Thunderbird and your email provider in one place. There’s no more guess work. You only have to look in one place to see everything that’s "
-"happening with your email."
+#: website/features/index.html:169
+msgid "Large Files Management"
 msgstr ""
-"El gestor d’activitat enregistra totes les interaccions entre el Thunderbird i el vostre proveïdor de correu en un sol lloc. No cal resoldre més endevinalles. Només cal que mireu a un sol lloc per "
-"saber tot el que passa al vostre correu."
 
-#: website/features/index.html:180
+#: website/features/index.html:171
+msgid "Share large files with Thunderbird Filelink!"
+msgstr ""
+
+#: website/features/index.html:175
+msgid ""
+"You can now speed up the transfer of large documents by uploading them to an online storage provider and sharing the link instead of sending the file directly as a message attachment. Improve the "
+"speed of sending email and avoid message rejection if the recipient’s server disallows large files. As an added bonus, you’ll also save space in your sent folder and the recipient’s inbox."
+msgstr ""
+
+#: website/features/index.html:188
 msgid "Thunderbird Look & Feel"
 msgstr "Aspecte i comportament del Thunderbird"
 
-#: website/features/index.html:181
+#: website/features/index.html:190
 msgid ""
-"With Personas, lightweight \"skins\" allow you to change the look and feel of Thunderbird in an instant. Hundreds of skins are available from the latest movies, famous landmarks, and Japanese "
-"tattoos. You can also choose from several Themes that dress up all the different icons in Thunderbird."
+"Themes allow you to change the look of Thunderbird in an instant. Working on getting to inbox zero at night? Turn on the dark theme to make managing your email easier on the eyes. Thunderbird ships "
+"with both light and dark themes, and more are available as add-ons."
 msgstr ""
-"Amb el Personas, aparences lleugeres us permeten canviar l’aparença i el comportament del Thunderbird en un instant. Hi ha disponibles centenars d’aparences de les darreres pel·lícules, paisatges "
-"famosos i tatuatges japonesos. També podeu triar algun dels temes que vesteixen totes les icones en el Thunderbird."
 
-#: website/features/index.html:184
+#: website/features/index.html:199
 msgid "Smart Folders"
 msgstr "Carpetes intel·ligents"
 
-#: website/features/index.html:185
+#: website/features/index.html:201
 msgid ""
 "Smart Folders help you manage multiple email accounts by combining special folders like your Inbox, Sent, or Archive folder. Instead of going to the Inbox for each of your mail accounts, you can see"
 " all of your incoming email in one Inbox folder."
@@ -535,11 +651,11 @@ msgstr ""
 "Les carpetes intel·ligents us permeten gestionar diversos comptes de correu amb la combinació de carpetes especials com la safata d’entrada, els missatges enviats o la carpeta de l’arxiu. En lloc "
 "d’anar a la safata d’entrada per cada un dels comptes de correu, podeu veure tots els correus que entren en una sola carpeta de safata d’entrada."
 
-#: website/features/index.html:190
+#: website/features/index.html:210
 msgid "Add-ons Manager"
 msgstr "Gestor de complements"
 
-#: website/features/index.html:191
+#: website/features/index.html:212
 msgid ""
 "Find and install add-ons directly in Thunderbird. You no longer need to visit the add-ons Web site - instead simply fire up the Add-ons Manager. Not sure which add-on is right for you? Ratings, "
 "recommendations, descriptions and pictures of the add-ons in action help you make your selection."
@@ -547,21 +663,21 @@ msgstr ""
 "Trobeu i instal·leu complements directament en el Thunderbird. Ja no cal que visiteu el lloc web de complements. En lloc d’això simplement obriu el gestor de complements. No esteu segur de quin "
 "complement necessiteu? Valoracions, recomanacions, descripcions i imatges dels complements en acció us ajudaran a fer la selecció."
 
-#: website/features/index.html:208
+#: website/features/index.html:230
 msgid "Robust Privacy"
 msgstr "Privadesa robusta"
 
-#: website/features/index.html:209
+#: website/features/index.html:232
 msgid "Thunderbird offers support for user privacy and remote image protection. To ensure a user’s privacy, Thunderbird automatically blocks remote images in email messages."
 msgstr ""
 "El Thunderbird ofereix suport per a la privadesa de l’usuari i protecció contra imatges remotes. Per assegurar la privadesa de l’usuari, el Thunderbird automàticament bloca imatges remotes en els "
 "missatges de correu."
 
-#: website/features/index.html:216
+#: website/features/index.html:241
 msgid "Phishing Protection"
 msgstr "Protecció contra la pesca electrònica (phishing)"
 
-#: website/features/index.html:217
+#: website/features/index.html:243
 msgid ""
 "Thunderbird protects you from email scams which try to trick users into handing over personal and confidential information by indicating when a message is a potential phishing attempt. As a second "
 "line of defense, Thunderbird warns you when you click on a link which appears to be taking you to a different Web site than the one indicated by the URL in the message."
@@ -569,11 +685,11 @@ msgstr ""
 "El Thunderbird us protegeix d’estafes per correu que intenten enganyar els usuaris perquè donin informació personal i confidencial en dir-los que el missatge és un intent potencial de pesca. Com a "
 "segona línia de defensa, el Thunderbird us avisa quan feu clic en un enllaç que sembla portar-vos a un lloc web diferent del que indica l'URL del missatge."
 
-#: website/features/index.html:225
+#: website/features/index.html:252
 msgid "Automated Update"
 msgstr "Actualització automàtica"
 
-#: website/features/index.html:228
+#: website/features/index.html:254
 msgid ""
 "Thunderbird’s update system checks to see if you’re running the latest version, and notifies you when a security update is available. These security updates are small (usually 200KB - 700KB), giving"
 " you only what you need and making the security update quick to download and install. The automated update system provides updates for Thunderbird on Windows, macOS, and Linux in over 40 different "
@@ -583,20 +699,11 @@ msgstr ""
 "petites (normalment 200KB - 700KB), us donen només el que necessiteu i fan l'actualització de seguretat ràpida de baixar i instal·lar. El sistema automàtic d’actualitzacions n’ofereix pel "
 "Thunderbird en el Windows, el macOS i el Linux en més de 40 llengües."
 
-#: website/features/index.html:230
-msgid ""
-"Thunderbird’s update system checks to see if you’re running the latest version, and notifies you when a security update is available. These security updates are small (usually 200KB - 700KB), giving"
-" you only what you need and making the security update quick to download and install. The automated update system provides updates for Thunderbird on Windows, OS X, and Linux in over 40 different "
-"languages."
-msgstr ""
-"El sistema d'actualització del Thunderbird comprova si esteu utilitzant l'última versió i us avisa quan hi ha alguna actualització de seguretat. Aquestes actualitzacions de seguretat són petites "
-"(normalment de 200 a 700 KB) i ràpides de baixar i d'instal·lar. El sistema d'actualització automàtic ofereix actualitzacions del Thunderbird per al Windows, OS X i Linux en més de 40 llengües."
-
-#: website/features/index.html:238
+#: website/features/index.html:261
 msgid "Cutting Out the Junk"
 msgstr "Retalleu la brossa"
 
-#: website/features/index.html:239
+#: website/features/index.html:263
 msgid ""
 "Thunderbird’s popular junk mail tools have been updated to stay ahead of spam. Each email you receive passes through Thunderbird’s leading-edge junk mail filters. Each time you mark messages as "
 "spam, Thunderbird \"learns\" and improves its filtering so you can spend more time reading the mail that matters. Thunderbird can also use your mail provider’s spam filters to keep junk mail out of "
@@ -606,11 +713,11 @@ msgstr ""
 "Thunderbird. Cada vegada que marqueu missatges com correu brossa, el Thunderbird «aprèn» i millora els seus filtres perquè pugueu passar més temps llegint els correus que importen. El Thunderbird "
 "també pot utilitzar els filtres de correu brossa del vostre proveïdor de correu per destriar-los de la safata d’entrada."
 
-#: website/features/index.html:242
+#: website/features/index.html:268
 msgid "Open Source"
 msgstr "Codi obert"
 
-#: website/features/index.html:243
+#: website/features/index.html:270
 msgid ""
 "At the heart of Thunderbird is an open source development process driven by thousands of passionate, experienced developers and security experts spread all over the world. Our openness and active "
 "community of experts helps to ensure our products are more secure and quickly updated, while also enabling us to take advantage of the best third party security scanning and evaluation tools to "
@@ -620,66 +727,214 @@ msgstr ""
 "obertura i comunitat activa d’experts ajuda a assegurar que els nostres productes són més segurs i actualitzats ràpidament, a la vegada que ens permeten aprofitar els millors escàners de seguretat i"
 " eines d’avaluació de tercers per reforçar la seguretat total."
 
+#: website/thunderbird/68.0/whatsnew/index.html:7
+#, fuzzy
+msgid "New in Thunderbird 68"
+msgstr "Thunderbird"
+
+#: website/thunderbird/68.0/whatsnew/index.html:13
+#, python-format
+msgid ""
+"This article describes some of the major changes visible to users in Thunderbird version 68.0. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird 68 release "
+"notes</a>."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:25
+msgid "Better Dark Theme"
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:28
+msgid "The dark theme available in Thunderbird has been enhanced with a dark message thread pane as well as many other small improvements."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:38
+msgid "Filelink Improved"
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:41
+msgid ""
+"Filelink attachments that have already been uploaded can now be linked to again instead of having to re-upload them. Also, an account is no longer required to use the default Filelink provider - "
+"<strong>WeTransfer</strong>."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:44
+#, python-format
+msgid "Other Filelink providers like Box and Dropbox are not included by default, but can be added by grabbing the <a href=\"%(dropbox)s\">Dropbox</a> and <a href=\"%(box)s\">Box</a> add-ons."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:52
+msgid "Options/Preferences in a Tab"
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:55
+msgid ""
+"Thunderbirdʼs Options/Preferences have been converted from a dialog window to its own dedicated tab. The new Preferences tab provides more space which allows for better organized content and is more"
+" consistent with the look and feel of the rest of Thunderbird."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:58
+msgid "The new Preferences tab also makes it easier to multi-task without the problem of losing track of where your preferences are when switching between windows."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:67
+#, fuzzy
+msgid "Other Notable Changes"
+msgstr "Altres llengües:"
+
+#: website/thunderbird/68.0/whatsnew/index.html:70
+msgid ""
+"There are many other smaller changes that make Thunderbird 68 feel polished and powerful including: a new App Menu UI, an updated To/CC/BCC selector in compose, improved attachment management, full "
+"color support across the app, filters can now be set to run periodically, and feed articles now show external attachments as links."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:73
+#, python-format
+msgid "There are many other updates in this release, you can see a list of all of them in the <a href=\"%(release)s\">Thunderbird 68 release notes</a>."
+msgstr ""
+
 #: website/thunderbird/all/index.html:10
 msgid "Download Thunderbird in your language"
 msgstr "Baixeu el Thunderbird en la vostra llengua"
 
-#: website/thunderbird/all/index.html:15 website/thunderbird/beta/all/index.html:15
+#: website/thunderbird/all/index.html:14 website/thunderbird/beta/all/index.html:14
 msgid "Be one of the first to try the newest features in Thunderbird. By giving us your feedback, you’ll help us to refine the features that will be included in the final version."
 msgstr "Sigueu dels primers a provar les funcions noves del Thunderbird. Envieu-nos els vostres comentaris per ajudar-nos a perfeccionar les funcions inclourà la versió final."
 
-#: website/thunderbird/all/index.html:17 website/thunderbird/beta/all/index.html:17
+#: website/thunderbird/all/index.html:16 website/thunderbird/beta/all/index.html:16
 msgid "Get the award-winning email application from Mozilla. Import your existing mail and enjoy our new features like tabbed email and advanced search."
 msgstr "Baixeu l'aplicació de correu electrònic guardonada de Mozilla. Importeu els vostres missatges existents i gaudiu de les funcions noves, com el correu en pestanyes i la cerca avançada."
 
-#: website/thunderbird/all/index.html:34 website/thunderbird/beta/all/index.html:34
+#: website/thunderbird/all/index.html:35 website/thunderbird/beta/all/index.html:35
 msgid "Check the system requirements"
 msgstr "Comproveu els requisits del sistema"
 
-#: website/thunderbird/all/index.html:35 website/thunderbird/beta/all/index.html:35
+#: website/thunderbird/all/index.html:38 website/thunderbird/beta/all/index.html:38
 msgid "Release notes"
 msgstr "Notes de la versió"
 
-#: website/thunderbird/all/index.html:43 website/thunderbird/beta/all/index.html:43
+#: website/thunderbird/all/index.html:41
+#, fuzzy
+msgid "All Releases"
+msgstr "Versions"
+
+#: website/thunderbird/all/index.html:55
 msgid "Fully localized versions"
 msgstr "Versions traduïdes completament"
+
+#: website/thunderbird/all/index.html:57 website/thunderbird/beta/all/index.html:53
+msgid "Choose your Language and Operating System"
+msgstr ""
 
 #: website/thunderbird/beta/all/index.html:10
 msgid "Download Beta in your language"
 msgstr "Baixeu la versió Beta en la vostra llengua"
 
-#: website/thunderbird/releases/index.html:7
-msgid "Mozilla Thunderbird Release Notes"
-msgstr "Notes de la versió del Mozilla Thunderbird"
+#: website/thunderbird/beta/all/index.html:51
+#, fuzzy
+msgid "Fully localized beta versions"
+msgstr "Versions traduïdes completament"
 
-#: website/thunderbird/releases/index.html:8
+#: website/thunderbird/releases/index.html:7
+#, fuzzy
+msgid "Thunderbird Release Notes"
+msgstr "Versions del Thunderbird"
+
+#: website/thunderbird/releases/index.html:8 website/thunderbird/releases/index.html:23
 msgid "Release notes for each version of Thunderbird."
 msgstr "Notes de cada versió del Thunderbird."
 
-#: website/thunderbird/releases/index.html:17
-msgid "Home"
-msgstr "Inici"
-
-#: website/thunderbird/releases/index.html:19
-msgid "Release Notes"
-msgstr "Notes de la versió"
-
-#: website/thunderbird/releases/index.html:25
-msgid "Thunderbird Releases"
-msgstr "Versions del Thunderbird"
-
-#: website/thunderbird/releases/index.html:26
+#: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Les notes de la versió del Thunderbird són específiques de cada versió de l'aplicació. Trieu la versió que voleu en la llista següent per veure'n les notes de la versió."
+
+#~ msgid "Menu"
+#~ msgstr "Menú"
+
+#~ msgid "Beta"
+#~ msgstr "Beta"
+
+#~ msgid "Calendar Add-on"
+#~ msgstr "Complement de calendari"
+
+#~ msgid "Themes"
+#~ msgstr "Temes"
+
+#~ msgid "<span>Thunderbird</span> Earlybird"
+#~ msgstr "<span>Thunderbird</span> Earlybird"
+
+#~ msgid "About"
+#~ msgstr "Quant a"
+
+#~ msgid "About the Thunderbird Project."
+#~ msgstr "Quant al projecte Thunderbird."
+
+#~ msgid "Download Thunderbird Beta &amp; Try the Next Thunderbird"
+#~ msgstr "Baixeu el Thunderbird Beta i proveu la propera versió del Thunderbird"
+
+#~ msgid "Download and test Thunderbird Beta and experience features and fixes early!"
+#~ msgstr "Baixeu i proveu el Thunderbird Beta i sigueu dels primers a experimentar les funcions noves!"
+
+#~ msgid "Welcome to the <strong>Future of Thunderbird</strong>"
+#~ msgstr "Us donem la benvinguda al <strong>futur del Thunderbird</strong>"
+
+#~ msgid ""
+#~ "Download Thunderbird Beta and be one of the first to try the newest features in the next version of Thunderbird! By giving us your feedback, you’ll help make email better for millions of your fellow"
+#~ " users."
+#~ msgstr ""
+#~ "Baixeu el Thunderbird Beta i sigueu dels primers a provar les funcions noves de la propera versió del Thunderbird! Envieu-nos comentaris per ajudar a millorar el correu electrònic per a milions "
+#~ "d'usuaris."
+
+#~ msgid "Experience cutting edge features with more stability"
+#~ msgstr "Experimenteu les funcions més innovadores amb més estabilitat"
+
+#~ msgid "Tabs"
+#~ msgstr "Pestanyes"
+
+#~ msgid "Double-clicking or hitting enter on a mail message will now open that message in a new tab window. Right-clicking on messages or folders will open them in a tab in the background."
+#~ msgstr "Fer doble clic o prémer intro en un missatge farà que s’obri en una nova pestanya. Fer clic dret en missatges o carpetes les obrirà en una pestanya en segon pla."
+
+#~ msgid "Selecting the Archive button or hitting the ‘A’ key will archive your email."
+#~ msgstr "Seleccionar el botó d’arxivar o prémer la tecla «A» arxivarà el correu."
+
+#~ msgid "Activity Manager"
+#~ msgstr "Gestor d'activitat"
+
+#~ msgid ""
+#~ "The Activity Manager records all the interactions between Thunderbird and your email provider in one place. There’s no more guess work. You only have to look in one place to see everything that’s "
+#~ "happening with your email."
+#~ msgstr ""
+#~ "El gestor d’activitat enregistra totes les interaccions entre el Thunderbird i el vostre proveïdor de correu en un sol lloc. No cal resoldre més endevinalles. Només cal que mireu a un sol lloc per "
+#~ "saber tot el que passa al vostre correu."
+
+#~ msgid ""
+#~ "With Personas, lightweight \"skins\" allow you to change the look and feel of Thunderbird in an instant. Hundreds of skins are available from the latest movies, famous landmarks, and Japanese "
+#~ "tattoos. You can also choose from several Themes that dress up all the different icons in Thunderbird."
+#~ msgstr ""
+#~ "Amb el Personas, aparences lleugeres us permeten canviar l’aparença i el comportament del Thunderbird en un instant. Hi ha disponibles centenars d’aparences de les darreres pel·lícules, paisatges "
+#~ "famosos i tatuatges japonesos. També podeu triar algun dels temes que vesteixen totes les icones en el Thunderbird."
+
+#~ msgid ""
+#~ "Thunderbird’s update system checks to see if you’re running the latest version, and notifies you when a security update is available. These security updates are small (usually 200KB - 700KB), giving"
+#~ " you only what you need and making the security update quick to download and install. The automated update system provides updates for Thunderbird on Windows, OS X, and Linux in over 40 different "
+#~ "languages."
+#~ msgstr ""
+#~ "El sistema d'actualització del Thunderbird comprova si esteu utilitzant l'última versió i us avisa quan hi ha alguna actualització de seguretat. Aquestes actualitzacions de seguretat són petites "
+#~ "(normalment de 200 a 700 KB) i ràpides de baixar i d'instal·lar. El sistema d'actualització automàtic ofereix actualitzacions del Thunderbird per al Windows, OS X i Linux en més de 40 llengües."
+
+#~ msgid "Mozilla Thunderbird Release Notes"
+#~ msgstr "Notes de la versió del Mozilla Thunderbird"
+
+#~ msgid "Home"
+#~ msgstr "Inici"
+
+#~ msgid "Release Notes"
+#~ msgstr "Notes de la versió"
 
 #~ msgid "If you like Thunderbird, please consider a donation!"
 #~ msgstr "Si us agrada el Thunderbird, considereu fer una donació!"
 
 #~ msgid "By donating, you will help us to continue delivering an ad-free top-notch email client."
 #~ msgstr "En fer una donació, contribuireu perquè el Thunderbird continuï essent un client de correu de primera i lliure de publicitat"
-
-#~ msgid "Make a donation"
-#~ msgstr "Feu una donació"
 
 #~ msgid "Other ways to contribute to Thunderbird"
 #~ msgstr "Altres formes de contribuir amb el Thunderbird"
@@ -732,6 +987,3 @@ msgstr "Les notes de la versió del Thunderbird són específiques de cada versi
 
 #~ msgid "Tips"
 #~ msgstr "Consells"
-
-#~ msgid "Get help"
-#~ msgstr "Obteniu ajuda"

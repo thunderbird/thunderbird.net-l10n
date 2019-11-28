@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-08 11:42-0700\n"
+"POT-Creation-Date: 2019-11-28 15:08-0800\n"
 "PO-Revision-Date: 2019-04-29 07:10+0000\n"
 "Last-Translator: Balázs Meskó <meskobalazs@gmail.com>\n"
 "Language-Team: none\n"
@@ -103,9 +103,8 @@ msgstr ""
 "Úgy gondolja, hogy problémát talált a Thunderbirdben? <a href=\"%(bug)s\">Készítsen egy hibajelentést</a>, hogy meg tudjuk oldani. A hibák felfedezése és javítása segít egy mindenki számára jobb "
 "Thunderbird készítésében."
 
-#: website/404.html:7 website/404.html:14 website/404.html:26 website/base-resp.html:30 website/download/index.html:7 website/download/index.html:14 website/download/index.html:26
-#: website/download/index.html:36 website/download/index.html:55 website/index.html:7 website/index.html:14 website/index.html:26 website/index.html:40 website/index.html:59
-#: website/site-footer.html:31 website/thunderbird/releases/index.html:18
+#: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:137
+#: website/index.html:156 website/site-footer.html:4 website/site-footer.html:45
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
@@ -114,113 +113,201 @@ msgid "There’s nothing here!"
 msgstr "Nincs itt semmi!"
 
 #: website/404.html:9
-#, python-format
-msgid "The page you are looking for doesn’t exist. If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
+#, fuzzy, python-format
+msgid "The page you are looking for doesn’t exist.<br/>If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
 msgstr "A keresett oldal nem létezik. Ha úgy gondolja, hogy ez egy hiba, akkor <a href=\"%(bug_report_url)s\">itt jelentheti a problémát</a>."
 
-#: website/404.html:32
+#: website/404.html:23
 msgid "Empty nest"
 msgstr "Üres fészek"
 
-#: website/base-resp.html:28
-msgid "Menu"
-msgstr "Menü"
+#: website/base-resp.html:20 website/site-footer.html:5
+#, fuzzy
+msgid "Thunderbird Vector Wordmark"
+msgstr "Thunderbird Beta"
 
-#: website/base-resp.html:34
-msgid "Beta"
-msgstr "Beta"
-
-#: website/base-resp.html:39
-msgid "Features"
-msgstr "Funkciók"
-
-#: website/base-resp.html:44
-msgid "Releases"
-msgstr "Kiadások"
-
-#: website/base-resp.html:50
-msgid "Calendar Add-on"
-msgstr "Naptár kiegészítő"
-
-#: website/base-resp.html:56
-msgid "Thunderbird for Organizations"
-msgstr "Thunderbird szervezeteknek"
-
-#: website/base-resp.html:63 website/base-resp.html:68
-msgid "Add-ons"
-msgstr "Kiegészítők"
-
-#: website/base-resp.html:73
-msgid "Themes"
-msgstr "Témák"
-
-#: website/base-resp.html:80
-msgid "Support"
-msgstr "Támogatás"
-
-#: website/base-resp.html:86
-msgid "Get Involved"
-msgstr "Csatlakozás"
-
-#: website/base-resp.html:93
-msgid "Blog"
-msgstr "Blog"
-
-#: website/base-resp.html:99 website/site-footer.html:17
+#: website/base-resp.html:29 website/base-resp.html:53 website/donate-mailing-list.html:12
 msgid "Donate"
 msgstr "Hozzájárulás"
 
-#: website/download-button.html:7 website/download-button.html:51 website/download/index.html:8
+#: website/base-resp.html:34
+msgid "Features"
+msgstr "Funkciók"
+
+#: website/base-resp.html:37
+msgid "Add-ons"
+msgstr "Kiegészítők"
+
+#: website/base-resp.html:40 website/site-footer.html:15 website/site-prefooter.html:9 website/site-prefooter.html:12
+msgid "Get Involved"
+msgstr "Csatlakozás"
+
+#: website/base-resp.html:43 website/site-footer.html:18
+#, fuzzy
+msgid "Get Help"
+msgstr "Segítség"
+
+#: website/about/index.html:7 website/base-resp.html:46 website/site-footer.html:24
+msgid "About Us"
+msgstr "Rólunk"
+
+#: website/base-resp.html:49 website/site-footer.html:21
+msgid "Blog"
+msgstr "Blog"
+
+#: website/donate-mailing-list.html:7
+msgid "Thunderbird is funded by users like you"
+msgstr ""
+
+#: website/donate-mailing-list.html:9
+msgid "Thunderbird is both free and freedom respecting, but we’re also completely funded by donations! Help us sustain the project and continue to improve."
+msgstr ""
+
+#: website/donate-mailing-list.html:17
+msgid "Join our Newsletter"
+msgstr ""
+
+#: website/donate-mailing-list.html:19
+msgid "Keep up with the latest and greatest updates on news, features, events, and previews, and get a sneak peek on the upcoming releases."
+msgstr ""
+
+#: website/donate-mailing-list.html:26
+msgid "Your Email"
+msgstr ""
+
+#: website/donate-mailing-list.html:28
+msgid "Sign me up!"
+msgstr ""
+
+#: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9
 msgid "Download Thunderbird"
 msgstr "Thunderbird letöltése"
 
-#: website/download-button.html:28
+#: website/download-button.html:35
 #, python-format
 msgid "Your system doesn't meet the <a href=\"%(url)s\">requirements</a> to run Thunderbird."
 msgstr "Az Ön által használt rendszer nem teljesíti a Thunderbird futtatásához szükséges <a href=\"%(url)s\">követelményeket</a>."
 
-#: website/download-button.html:31
+#: website/download-button.html:38
 #, python-format
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
 msgstr "A Thunderbird telepítéséhez kövesse <a href=\"%(url)s\">ezeket az utasításokat</a>."
 
-#: website/download-button.html:47
+#: website/download-button.html:53 website/site-prefooter.html:47
 msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
-#: website/download-button.html:49
-msgid "<span>Thunderbird</span> Earlybird"
-msgstr "<span>Thunderbird</span> Earlybird"
+#: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
+#, fuzzy
+msgid "Thunderbird Nightly"
+msgstr "Thunderbird Beta"
 
-#: website/download-button.html:60
+#: website/download-button.html:66
 msgid "Systems &amp; Languages"
 msgstr "Nyelvek és operációs rendszerek"
 
-#: website/download-button.html:62
+#: website/download-button.html:67
 msgid "What’s New"
 msgstr "Újdonságok"
 
-#: website/download-button.html:64 website/site-footer.html:22
+#: website/download-button.html:69 website/site-footer.html:57
 msgid "Privacy"
 msgstr "Adatvédelem"
 
-#: website/about/index.html:38 website/index.html:8
-msgid "Software made to make email easier."
-msgstr "A program, amely egyszerűvé teszi a levelezést."
-
 #: website/index.html:9
+msgid "Make Email Easier."
+msgstr ""
+
+#: website/index.html:10
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
 msgstr "A Thunderbird egyszerűen telepíthető és testreszabható, ingyenes levelezőprogram - amely tele van nagyszerű funkciókkal!"
 
-#: website/download/index.html:29 website/index.html:30
+#: website/about/index.html:32 website/download/index.html:19 website/index.html:17
 msgid "Free Download"
 msgstr "Ingyenes letöltés"
 
-#: website/index.html:35
+#: website/download/index.html:23 website/index.html:21
 msgid "Thunderbird screenshot"
 msgstr "Thunderbird képernyőkép"
 
-#: website/download/index.html:41 website/download/index.html:61 website/index.html:45 website/index.html:65
+#: website/index.html:29
+msgid "Tailored for all your needs"
+msgstr ""
+
+#: website/index.html:32
+msgid "Thunderbird makes email better for you, bringing together speed, privacy and the latest technologies. Focus on what matters and forget about complexity."
+msgstr ""
+
+#: website/index.html:34
+msgid "Explore all Features"
+msgstr ""
+
+#: website/index.html:41
+msgid "Secure &amp; Private"
+msgstr ""
+
+#: website/index.html:44
+msgid "Multiple features, such as built-in Do Not Track and remote content blocking, work together to ensure your safety and privacy, so you can have peace of mind."
+msgstr ""
+
+#: website/index.html:46
+msgid "Know your rights"
+msgstr ""
+
+#: website/index.html:53
+msgid "Highly Customizable"
+msgstr ""
+
+#: website/index.html:56
+msgid "With Add-ons(Extensions & Themes) and many more features you can change the look and feel of Thunderbird in an instant."
+msgstr ""
+
+#: website/index.html:58
+msgid "Make it personal"
+msgstr ""
+
+#: website/index.html:66
+msgid "Stay in the loop"
+msgstr ""
+
+#: website/index.html:68
+msgid "Keep yourself up to date with recent announcements and releases by following the official Thunderbird Blog!"
+msgstr ""
+
+#: website/index.html:92
+msgid "Read the Blog"
+msgstr ""
+
+#: website/about/index.html:37 website/index.html:103
+msgid "Lightning Calendar screenshot"
+msgstr ""
+
+#: website/index.html:110
+msgid "Lightning Calendar"
+msgstr ""
+
+#: website/index.html:112
+msgid "Organize your life — it’s about time!"
+msgstr ""
+
+#: website/index.html:117
+msgid "Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird email."
+msgstr ""
+
+#: website/index.html:120
+msgid "Manage multiple calendars, create your daily to do list, invite friends to events, and subscribe to public calendars."
+msgstr ""
+
+#: website/index.html:123
+#, fuzzy
+msgid "Explore Features"
+msgstr "Funkciók"
+
+#: website/index.html:126
+msgid "Explore More Add-ons"
+msgstr ""
+
+#: website/download/index.html:35 website/download/index.html:55 website/index.html:142 website/index.html:162
 msgid "Mozilla"
 msgstr "Mozilla"
 
@@ -232,63 +319,108 @@ msgstr "Oldal nyelve:"
 msgid "Other languages:"
 msgstr "Más nyelvek:"
 
-#: website/lang_switcher.html:23
+#: website/lang_switcher.html:30
 msgid "Go"
 msgstr "Ugrás"
 
-#: website/site-footer.html:6
-#, python-format
-msgid ""
-"Portions of this content are ©1998–%(current_year)s by individual\n"
-"              mozilla.org contributors. Content available under\n"
-"              a <a href=\"%(url)s\">Creative Commons license</a>."
-msgstr "A tartalom egy részét ©1998–%(current_year)s mozilla.org közreműködők készítették. A tartalom <a href=\"%(url)s\">Creative Commons licenc</a> alatt érhető el."
+#: website/site-footer.html:12
+#, fuzzy
+msgid "For Organizations"
+msgstr "Thunderbird szervezeteknek"
 
-#: website/site-footer.html:15
-msgid "About"
-msgstr "Bemutatkozás"
-
-#: website/site-footer.html:16
+#: website/site-footer.html:27
 msgid "Contact Us"
 msgstr "Kapcsolat"
 
-#: website/site-footer.html:18
-msgid "Contribute to this site"
-msgstr "Legyen közreműködő"
-
-#: website/site-footer.html:23
+#: website/site-footer.html:60
 msgid "Cookies"
 msgstr "Sütik"
 
-#: website/site-footer.html:24
+#: website/site-footer.html:64
 msgid "Legal"
 msgstr "Jogi információk"
 
-#: website/site-footer.html:25
+#: website/site-footer.html:68
 msgid "Report Trademark Abuse"
 msgstr "Védjeggyel való visszaélés jelentése"
 
-#: website/about/index.html:7
-msgid "About Us"
-msgstr "Rólunk"
+#: website/site-footer.html:73
+#, fuzzy, python-format
+msgid ""
+"Portions of this content are ©1998–%(current_year)s by individual\n"
+"      mozilla.org contributors. Content available under\n"
+"      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
+msgstr "A tartalom egy részét ©1998–%(current_year)s mozilla.org közreműködők készítették. A tartalom <a href=\"%(url)s\">Creative Commons licenc</a> alatt érhető el."
 
-#: website/about/index.html:10
-msgid "About the Thunderbird Project."
-msgstr "A Thunderbird projektről."
+#: website/site-footer.html:81
+msgid "Contribute to this site"
+msgstr "Legyen közreműködő"
 
-#: website/about/index.html:27 website/about/index.html:35
+#: website/site-prefooter.html:14
+#, fuzzy
+msgid "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users."
+msgstr ""
+"A Thunderbird egy nyílt forráskódú projekt, amely azt jelenti, hogy bárki közreműködhet ötletekkel, dizájnokkal, kóddal, és idővel, amit a felhasználók segítésére fordít. Legyen része a csapatnak, "
+"amely a Thunderbird felhasználóit támogatja, és királlyá teszi a Thunderbirdöt. <a class=\"more\" href=\"%(contribute)s\">Csatlakozzon</a>"
+
+#: website/site-prefooter.html:17
+msgid "Join Us"
+msgstr ""
+
+#: website/site-prefooter.html:20
+#, fuzzy
+msgid "Make a Donation"
+msgstr "Adományozás"
+
+#: website/site-prefooter.html:22
+#, fuzzy
+msgid "Get Support"
+msgstr "Támogatás"
+
+#: website/site-prefooter.html:24
+msgid "Report a Bug"
+msgstr ""
+
+#: website/site-prefooter.html:50
+#, fuzzy
+msgid "The Future of Thunderbird"
+msgstr "Mi a Thunderbird?"
+
+#: website/site-prefooter.html:52
+#, fuzzy
+msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
+msgstr "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Adjon visszajelzést</a>, és segítsen a végleges kiadásba kerülő dolgok finomításában és csiszolásában"
+
+#: website/site-prefooter.html:55
+#, fuzzy
+msgid "Download Beta"
+msgstr "Ingyenes letöltés"
+
+#: website/site-prefooter.html:67
+msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Nightly channel."
+msgstr ""
+
+#: website/site-prefooter.html:71
+msgid "WARNING!"
+msgstr ""
+
+#: website/site-prefooter.html:73
+msgid "Nightly is an unstable testing and development platform, make sure you back up important data regularly!"
+msgstr ""
+
+#: website/site-prefooter.html:76
+msgid "Download Nightly"
+msgstr ""
+
+#: website/about/index.html:22
 msgid "What is Thunderbird?"
 msgstr "Mi a Thunderbird?"
 
-#: website/about/index.html:28 website/about/index.html:51
-msgid "Who We Are"
-msgstr "Kik vagyunk"
+#: website/about/index.html:24
+msgid "Software made to make email easier."
+msgstr "A program, amely egyszerűvé teszi a levelezést."
 
-#: website/about/index.html:29 website/about/index.html:72
-msgid "Thunderbird and Mozilla Foundation"
-msgstr "A Thunderbird és a Mozilla Alapítvány"
-
-#: website/about/index.html:44
+#: website/about/index.html:29
 msgid ""
 "Thunderbird is a free and open source email, newsfeed, chat, and calendaring client, that’s easy to set up and customize. One of the core principles of Thunderbird is the use and promotion of open "
 "standards - this focus is a rejection of our world of closed platforms and services that can’t communicate with each other. We want our users to have freedom and choice in how they communicate."
@@ -297,15 +429,19 @@ msgstr ""
 "használata és népszerűsítése – ez a fókusz azon zárt platformok és szolgáltatások elutasítása, melyek nem tudnak egymással kommunikálni. Azt akarjuk, hogy a felhasználók szabadságot és választást "
 "kapjanak abban, ahogyan kommunikálnak."
 
-#: website/about/index.html:54
+#: website/about/index.html:46
+msgid "Who We Are"
+msgstr "Kik vagyunk"
+
+#: website/about/index.html:48
 msgid "We are a community making communication free and open."
 msgstr "Egy olyan közösség vagyunk, amely szabaddá és nyitottá teszi kommunikációt."
 
-#: website/about/index.html:60
+#: website/about/index.html:61
 msgid "Our Community"
 msgstr "A közösségünk"
 
-#: website/about/index.html:61
+#: website/about/index.html:63
 #, python-format
 msgid ""
 "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
@@ -316,11 +452,11 @@ msgstr ""
 "href=\"%(volunteer)s\">Csatlakozás oldalunkat</a>, hogy megtudja, hogyan vehet részt a Thunderbird csapat munkájában. Van egy teljes munkaidős csapatunk is, akik a Thunderbirdön dolgoznak, őket <a "
 "href=\"%(donate)s\">a felhasználók adományaiból finanszírozzuk</a>. Ha kíváncsi arra, hogy ki dolgozik a Thunderbirdön, nézze meg a <a href=\"%(core_team)s\">fő közreműködőink listáját </a>."
 
-#: website/about/index.html:64
+#: website/about/index.html:68
 msgid "Thunderbird Council"
 msgstr "Thunderbird Tanács"
 
-#: website/about/index.html:65
+#: website/about/index.html:70
 #, python-format
 msgid ""
 "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
@@ -329,12 +465,16 @@ msgstr ""
 "A Thunderbird projektet hét tanácsos irányítja, akiket a Thunderbird közösség aktív szereplői választanak. A Thunderbird Tanács jelenlegi tagjai <a href=\"%(council)s\">a Thunderbird wikiben "
 "láthatóak</a>."
 
-#: website/about/index.html:75
+#: website/about/index.html:82
+msgid "Thunderbird and Mozilla Foundation"
+msgstr "A Thunderbird és a Mozilla Alapítvány"
+
+#: website/about/index.html:84
 #, python-format
 msgid "Thunderbird lives at the nonprofit <a href=\"%(foundation)s\">Mozilla Foundation</a>."
 msgstr "A Thunderbird otthona a nonprofit <a href=\"%(foundation)s\">Mozilla Alapítvány</a>."
 
-#: website/about/index.html:81
+#: website/about/index.html:89
 #, python-format
 msgid ""
 "Thunderbird is an independent project with its legal and financial home at <a href=\"%(foundation)s\">the Mozilla Foundation</a>. The Mozilla Foundation believes the Internet is a global public "
@@ -347,33 +487,7 @@ msgstr ""
 "Corporationnek az egyedüli részvényese. A Mozilla semmilyen irányítást nem gyakorol a projektre, az irányítás a Thunderbird tanácsé, akiket a Thunderbird projekt közössége választ. A Mozilla "
 "Alapítványra, mint a Thunderbird otthonára a <a href=\"%(home_blog_post)s\">2017-es keresés</a> eredményeképpen esett a választás."
 
-#: website/channel/index.html:7
-msgid "Download Thunderbird Beta &amp; Try the Next Thunderbird"
-msgstr "Töltse le a Thunderbird Betát, és próbálja ki a következő Thunderbirdöt"
-
-#: website/channel/index.html:8
-msgid "Download and test Thunderbird Beta and experience features and fixes early!"
-msgstr "Töltse le és próbálja ki a Thunderbird Betát, és ismerje meg korán az új funkciókat és javításokat."
-
-#: website/channel/index.html:18
-msgid "Welcome to the <strong>Future of Thunderbird</strong>"
-msgstr "Üdvözöljük a <strong>Thunderbird jövőjében</strong>"
-
-#: website/channel/index.html:19
-msgid ""
-"Download Thunderbird Beta and be one of the first to try the newest features in the next version of Thunderbird! By giving us your feedback, you’ll help make email better for millions of your fellow"
-" users."
-msgstr "Töltse le a Thunderbird Betát és legyen az elsők közt, akik kipróbálják a Thunderbird következő verziójának legújabb fejlesztéseit! Visszajelzéseivel e-mailezők millióinak segíthet."
-
-#: website/channel/index.html:30
-msgid "Experience cutting edge features with more stability"
-msgstr "Tapasztalja meg a legfrissebb funkciókat, nagyobb stabilitás mellett"
-
-#: website/channel/index.html:31
-msgid "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Provide feedback</a> to help refine and polish what will be in the final release"
-msgstr "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Adjon visszajelzést</a>, és segítsen a végleges kiadásba kerülő dolgok finomításában és csiszolásában"
-
-#: website/download/index.html:9
+#: website/download/index.html:10
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
 msgstr "A letöltés automatikusan elindul. Nem működött? Próbálja ki a lenti gombot."
 
@@ -385,27 +499,27 @@ msgstr "Thunderbird funkciók"
 msgid "It’s all yours. It’s now easier to upgrade to Thunderbird."
 msgstr "Ez mind az Öné. Most még könnyebb Thunderbirdre váltani."
 
-#: website/features/index.html:31 website/features/index.html:40
+#: website/features/index.html:27 website/features/index.html:45
 msgid "Easier to Get Started"
 msgstr "Könnyebb használatba venni"
 
-#: website/features/index.html:32 website/features/index.html:91
+#: website/features/index.html:30 website/features/index.html:100
 msgid "Tabs and Search"
 msgstr "Lapok és keresés"
 
-#: website/features/index.html:33 website/features/index.html:164
+#: website/features/index.html:33 website/features/index.html:160
 msgid "Customize Your Email Experience"
 msgstr "Testre szabható levelezés"
 
-#: website/features/index.html:34 website/features/index.html:199
+#: website/features/index.html:36 website/features/index.html:220
 msgid "Secure and Protect Your Email"
 msgstr "Biztonságos, és megvédi leveleit"
 
-#: website/features/index.html:45
+#: website/features/index.html:54
 msgid "Mail Account Setup Wizard"
 msgstr "Postafiók-beállító varázsló"
 
-#: website/features/index.html:46
+#: website/features/index.html:56
 msgid ""
 "Prior to this feature you had to know your IMAP, SMTP, and SSL/TLS settings. Now all you need to provide is your name, email address, and password and the email account set up wizardry will check "
 "our database and find the email settings for you."
@@ -413,11 +527,11 @@ msgstr ""
 "Korábban ismerni kellett az IMAP, SMTP és SSL/TLS beállításokat. Most csupán a nevét, e-mail címét és jelszavát kell megadnia. Ezt követően az adatbázisunkban lévő adatok alapján a postafiók "
 "automatikusan beállításra kerül."
 
-#: website/features/index.html:64
+#: website/features/index.html:65
 msgid "One-click Address Book"
 msgstr "Egy kattintásos címjegyzék"
 
-#: website/features/index.html:65
+#: website/features/index.html:67
 msgid ""
 "One-click Address Book is a quick and easy way to add people to your address book. Add people by simply clicking on the star icon in the message you receive. Two clicks and you can add more details "
 "like a photo, birthday, and other contact information."
@@ -425,21 +539,31 @@ msgstr ""
 "Az egy kattintásos címjegyzék segítségével egyszerűen lehet embereket hozzáadni a címjegyzékhez az üzenetben szereplő csillagra kattintva. Dupla kattintással további részletek, fénykép, születésnap "
 "és egyéb fontos információk adhatók meg."
 
-#: website/features/index.html:71
+#: website/features/index.html:76
 msgid "Attachment Reminder"
 msgstr "Figyelmeztető a mellékletekre"
 
-#: website/features/index.html:72
+#: website/features/index.html:78
 msgid "The attachment reminder looks for the word attachment (and other words like file types) in the body of your message and reminds you to add an attachment before hitting send."
 msgstr ""
 "A mellékletekre történő figyelmeztetés során a Thunderbird olyan szavakat keres az elküldendő levélben, mint a „melléklet”, vagy más, fájltípusra utaló kifejezést, és a levél elküldése előtt "
 "figyelmeztet a melléklet csatolására."
 
-#: website/features/index.html:103
-msgid "Tabs"
-msgstr "Lapok"
+#: website/features/index.html:86
+msgid "Multiple-channel chat"
+msgstr ""
 
-#: website/features/index.html:104
+#: website/features/index.html:88
+msgid ""
+"Enjoy real-time conversation with your contacts, right from your favorite messaging application, with multiple supported networks. Thunderbird makes it easy to search through both past conversations"
+" and received emails."
+msgstr ""
+
+#: website/features/index.html:109
+msgid "Tabbed Email"
+msgstr ""
+
+#: website/features/index.html:111
 msgid ""
 "If you like Firefox’s tabbed browsing, you’re going to love tabbed email. Tabbed email lets you load emails in separate tabs so you can quickly jump between them. Perhaps you’re responding to an "
 "email and need to refer back to an earlier email. Tabbed email lets you keep multiple emails open for easy reference."
@@ -447,21 +571,16 @@ msgstr ""
 "Ha megkedvelte a Firefox lapkezelését, akkor szeretni fogja a lapkezelést a levelezőprogramban is. A lapkezelés lehetővé teszi, hogy különböző levelek különböző lapokra kerüljenek, így könnyen lehet"
 " váltani közöttük. Talán éppen válaszol egy levélre, amikor egy másik, korábbi levélre szeretne hivatkozni. A lapkezelés segítségével egyszerre több levelet tarthat nyitva."
 
-#: website/features/index.html:105
-msgid "Double-clicking or hitting enter on a mail message will now open that message in a new tab window. Right-clicking on messages or folders will open them in a tab in the background."
-msgstr ""
-"A dupla kattintás, vagy az Enter megnyomása egy üzeneten mostantól megnyitja azt az üzenetet egy új lapon. A jobb kattintás az üzeneteken vagy mappákon egy háttérbe kerülő lapon nyitja meg azokat."
-
-#: website/features/index.html:106
+#: website/features/index.html:114
 msgid "When quitting Thunderbird, visible tabs will be saved and will be restored when you open Thunderbird the next time. There is also a Tab menu on the Tab toolbar to help you switch between Tabs."
 msgstr ""
 "A Thunderbird bezárásakor a látható lapok elmentésre kerülnek, és visszaállnak a Thunderbird következő megnyitásakor. A Lap eszköztáron van egy Lap menü is, amely segít a lapok közti váltásban."
 
-#: website/features/index.html:126
+#: website/features/index.html:127
 msgid "Quick Filter Toolbar"
 msgstr "Gyorsszűrő sáv"
 
-#: website/features/index.html:127
+#: website/features/index.html:129
 msgid ""
 "The Quick Filter Toolbar lets you filter your email faster. Start typing in words in the Quick Filter search box and the results are displayed instantly. Or you can filter your email by New "
 "Messages, Tags, and people in your Address Book. You can also \"Pin\" or save a Filter and use it across multiple folders."
@@ -469,23 +588,25 @@ msgstr ""
 "A Gyorsszűrő sáv segítségével gyorsabban találhatja meg leveleit. Kezdje el beírni a keresett szót a Gyorsszűrő sávba, és a találatok azonnal megjelennek. Szűréseket állíthatók be az Új üzenetek "
 "között, szűrni lehet címkék szerint, továbbá a Címjegyzékben található emberek között. A szűrők „rögzíthetők” vagy elmenthetők, és több mappában is használhatók."
 
-#: website/features/index.html:137
-msgid "Search"
+#: website/features/index.html:138
+#, fuzzy
+msgid "Search Tools"
 msgstr "Keresés"
 
-#: website/features/index.html:138
+#: website/features/index.html:140
+#, fuzzy
 msgid ""
-"The search interface in Thunderbird contains filtering and timeline tools to pinpoint the exact email you’re looking for. Thunderbird also indexes all of your emails to help you search even faster. "
-"Your search results are displayed in a tab so you can easily switch back and forth to your search results and other email."
+"The search interface in Thunderbird contains filtering and timeline tools to pinpoint the exact email you’re looking for. Thunderbird also indexes all of your emails and chat conversations to help "
+"you search even faster. Your search results are displayed in a tab so you can easily switch back and forth to your search results and other email."
 msgstr ""
 "A Thunderbird keresési felülete szűrést és idősíkot tartalmaz, amelyek segítségével könnyedén meg lehet találni a keresett levelet. Emellett a Thunderbird indexet készít a levelekről, amely növeli a"
 " keresés sebességét. A keresés eredménye egy külön lapon jelenik meg, hogy gyorsabban és könnyedén lehessen váltani a keresési eredmény és a többi levél között."
 
-#: website/features/index.html:147
+#: website/features/index.html:149
 msgid "Message Archive"
 msgstr "Üzenetarchiválás"
 
-#: website/features/index.html:148
+#: website/features/index.html:151
 msgid ""
 "If you think you’re going to need an email in the future but want it out of your inbox without deleting it, archive it! Archiving helps you manage your inbox and put your email into the archive "
 "folder system."
@@ -493,37 +614,35 @@ msgstr ""
 "Amennyiben egy levélre szüksége lesz a jövőben, de nem szeretné a Bejövő üzenetek közt tartani, sem pedig letörölni, akkor azt érdemes archiválni. Az archiválás segítségével a leveleket Archívum "
 "mappába kerülnek."
 
-#: website/features/index.html:149
-msgid "Selecting the Archive button or hitting the ‘A’ key will archive your email."
-msgstr "Az Archiválás gomb vagy az „A” billentyű megnyomásával lehet a kiválasztott üzenetet archiválni."
+#: website/features/index.html:169
+msgid "Large Files Management"
+msgstr ""
 
-#: website/features/index.html:155
-msgid "Activity Manager"
-msgstr "Tevékenységkezelő"
+#: website/features/index.html:171
+msgid "Share large files with Thunderbird Filelink!"
+msgstr ""
 
-#: website/features/index.html:156
+#: website/features/index.html:175
 msgid ""
-"The Activity Manager records all the interactions between Thunderbird and your email provider in one place. There’s no more guess work. You only have to look in one place to see everything that’s "
-"happening with your email."
-msgstr "A Tevékenységkezelő rögzít minden, a Thunderbird és a levélszolgáltatója közötti műveletet. Nincs többé találgatás, egyetlen helyen meg lehet tekinteni, hogy mikor és mi történt a levelekkel."
+"You can now speed up the transfer of large documents by uploading them to an online storage provider and sharing the link instead of sending the file directly as a message attachment. Improve the "
+"speed of sending email and avoid message rejection if the recipient’s server disallows large files. As an added bonus, you’ll also save space in your sent folder and the recipient’s inbox."
+msgstr ""
 
-#: website/features/index.html:180
+#: website/features/index.html:188
 msgid "Thunderbird Look & Feel"
 msgstr "Thunderbird megjelenés"
 
-#: website/features/index.html:181
+#: website/features/index.html:190
 msgid ""
-"With Personas, lightweight \"skins\" allow you to change the look and feel of Thunderbird in an instant. Hundreds of skins are available from the latest movies, famous landmarks, and Japanese "
-"tattoos. You can also choose from several Themes that dress up all the different icons in Thunderbird."
+"Themes allow you to change the look of Thunderbird in an instant. Working on getting to inbox zero at night? Turn on the dark theme to make managing your email easier on the eyes. Thunderbird ships "
+"with both light and dark themes, and more are available as add-ons."
 msgstr ""
-"A personák segítségével egyszerűen és azonnal megváltoztatható a Thunderbird kinézete. Több száz persona érhető el, amelyek között találhatók filmekkel, híres tájakkal, vagy japán tetoválásokkal "
-"kapcsolatosak. Mindezek mellett olyan témák is választhatók, amelyek segítségével a Thunderbird ikonja változtathatók meg."
 
-#: website/features/index.html:184
+#: website/features/index.html:199
 msgid "Smart Folders"
 msgstr "Intelligens mappák"
 
-#: website/features/index.html:185
+#: website/features/index.html:201
 msgid ""
 "Smart Folders help you manage multiple email accounts by combining special folders like your Inbox, Sent, or Archive folder. Instead of going to the Inbox for each of your mail accounts, you can see"
 " all of your incoming email in one Inbox folder."
@@ -531,11 +650,11 @@ msgstr ""
 "Az Intelligens mappák segítségével több postafiókot lehet kezelni a Beérkezett üzenetek, Elküldött elemek vagy az Archivált mappák kombinálásával. Ahelyett, hogy minden postafiók Beérkezett "
 "üzeneteit külön-külön kellene ellenőrizni, a Thunderbird beállítható, hogy minden egyetlen helyen legyen."
 
-#: website/features/index.html:190
+#: website/features/index.html:210
 msgid "Add-ons Manager"
 msgstr "Kiegészítéskezelő"
 
-#: website/features/index.html:191
+#: website/features/index.html:212
 msgid ""
 "Find and install add-ons directly in Thunderbird. You no longer need to visit the add-ons Web site - instead simply fire up the Add-ons Manager. Not sure which add-on is right for you? Ratings, "
 "recommendations, descriptions and pictures of the add-ons in action help you make your selection."
@@ -543,21 +662,21 @@ msgstr ""
 "Keressen és telepítsen kiegészítőket közvetlenül a Thunderbirdből. Nem kell többet a kiegészítők weboldalára mennie, ehelyett egyszerűen csak indítsa el a Kiegészítéskezelőt. Nem biztos benne, hogy "
 "melyik kiegészítő a legmegfelelőbb? Az értékelések, ajánlások, leírások és képernyőképek segítenek a választásban."
 
-#: website/features/index.html:208
+#: website/features/index.html:230
 msgid "Robust Privacy"
 msgstr "Robusztus adatvédelem"
 
-#: website/features/index.html:209
+#: website/features/index.html:232
 msgid "Thunderbird offers support for user privacy and remote image protection. To ensure a user’s privacy, Thunderbird automatically blocks remote images in email messages."
 msgstr ""
 "Thunderbird segít a magánélet tiszteletben tartásában, és védelmet nyújt a távoli képek letöltése ellen. A felhasználó személyiségi jogainak védelme érdekében a Thunderbird automatikusan blokkolja "
 "az e-mail üzenetekben lévő távoli képek megjelenítését."
 
-#: website/features/index.html:216
+#: website/features/index.html:241
 msgid "Phishing Protection"
 msgstr "Adathalászat elleni védelem"
 
-#: website/features/index.html:217
+#: website/features/index.html:243
 msgid ""
 "Thunderbird protects you from email scams which try to trick users into handing over personal and confidential information by indicating when a message is a potential phishing attempt. As a second "
 "line of defense, Thunderbird warns you when you click on a link which appears to be taking you to a different Web site than the one indicated by the URL in the message."
@@ -565,11 +684,11 @@ msgstr ""
 "A Thunderbird védelmet nyújt az e-mail csalások ellen, amelyek megpróbálják rávenni a felhasználókat, hogy átadják személyes és bizalmas adataikat. Ezeket a gyanús leveleket a Thunderbird "
 "veszélyesnek jelöli meg. További védelemként a Thunderbird figyelmeztet, ha olyan hivatkozásra kattintana, amely a hivatkozástól eltérő weboldalra vinné az óvatlan felhasználót."
 
-#: website/features/index.html:225
+#: website/features/index.html:252
 msgid "Automated Update"
 msgstr "Automatikus frissítés"
 
-#: website/features/index.html:228
+#: website/features/index.html:254
 msgid ""
 "Thunderbird’s update system checks to see if you’re running the latest version, and notifies you when a security update is available. These security updates are small (usually 200KB - 700KB), giving"
 " you only what you need and making the security update quick to download and install. The automated update system provides updates for Thunderbird on Windows, macOS, and Linux in over 40 different "
@@ -579,21 +698,11 @@ msgstr ""
 " KB - 700 KB), csak az adott módosításokat tartalmazzák, így gyorsan letölthetők és telepíthetők. Az automatikus frissítőrendszer működik Windows, macOS és Linux operációs rendszereken, több mint 40"
 " nyelven."
 
-#: website/features/index.html:230
-msgid ""
-"Thunderbird’s update system checks to see if you’re running the latest version, and notifies you when a security update is available. These security updates are small (usually 200KB - 700KB), giving"
-" you only what you need and making the security update quick to download and install. The automated update system provides updates for Thunderbird on Windows, OS X, and Linux in over 40 different "
-"languages."
-msgstr ""
-"A Thunderbird frissítőrendszere ellenőrzi, hogy a legújabb verziót futtatja-e és értesít ha biztonsági frissítés érhető el. Ezek a biztonsági frissítések kis méretűek (általában 200 KB – 700 KB), "
-"csak a szükséges dolgokat tartalmazzák, és gyorssá teszik a biztonsági frissítések letöltését és telepítését. Az automatikus frissítési rendszer Windows, OS X és Linux rendszereken, több mint 40 "
-"nyelven biztosít frissítéseket a Thunderbirdhöz."
-
-#: website/features/index.html:238
+#: website/features/index.html:261
 msgid "Cutting Out the Junk"
 msgstr "Levélszemét kidobása"
 
-#: website/features/index.html:239
+#: website/features/index.html:263
 msgid ""
 "Thunderbird’s popular junk mail tools have been updated to stay ahead of spam. Each email you receive passes through Thunderbird’s leading-edge junk mail filters. Each time you mark messages as "
 "spam, Thunderbird \"learns\" and improves its filtering so you can spend more time reading the mail that matters. Thunderbird can also use your mail provider’s spam filters to keep junk mail out of "
@@ -603,11 +712,11 @@ msgstr ""
 "minden alkalommal, amikor egy levél kéretlen levélként kerül megjelölésre, a levélszemét-kezelő \"megtanulja\" és továbbfejleszti a szűrőt. Így több időt tölthet a valódi levelek olvasásával. "
 "Ugyanakkor a Thunderbird az e-mail szolgáltatója által biztosított levélszemét-kezelőt is képes használni, hogy távol tartsa a kéretlen leveleket."
 
-#: website/features/index.html:242
+#: website/features/index.html:268
 msgid "Open Source"
 msgstr "Nyílt forrás"
 
-#: website/features/index.html:243
+#: website/features/index.html:270
 msgid ""
 "At the heart of Thunderbird is an open source development process driven by thousands of passionate, experienced developers and security experts spread all over the world. Our openness and active "
 "community of experts helps to ensure our products are more secure and quickly updated, while also enabling us to take advantage of the best third party security scanning and evaluation tools to "
@@ -617,66 +726,212 @@ msgstr ""
 "nyitottság és az aktív szakértői közösség segít abban, hogy termékeink biztonságosabbak legyenek és gyorsabban frissülnek. Mindezek mellett lehetővé teszi számunkra, hogy kihasználjuk a legjobb "
 "biztonsági ellenőrzési folyamatokat, és értékelési eszközöket, amelyek tovább erősítik az általános biztonságot."
 
+#: website/thunderbird/68.0/whatsnew/index.html:7
+#, fuzzy
+msgid "New in Thunderbird 68"
+msgstr "Thunderbird"
+
+#: website/thunderbird/68.0/whatsnew/index.html:13
+#, python-format
+msgid ""
+"This article describes some of the major changes visible to users in Thunderbird version 68.0. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird 68 release "
+"notes</a>."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:25
+msgid "Better Dark Theme"
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:28
+msgid "The dark theme available in Thunderbird has been enhanced with a dark message thread pane as well as many other small improvements."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:38
+msgid "Filelink Improved"
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:41
+msgid ""
+"Filelink attachments that have already been uploaded can now be linked to again instead of having to re-upload them. Also, an account is no longer required to use the default Filelink provider - "
+"<strong>WeTransfer</strong>."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:44
+#, python-format
+msgid "Other Filelink providers like Box and Dropbox are not included by default, but can be added by grabbing the <a href=\"%(dropbox)s\">Dropbox</a> and <a href=\"%(box)s\">Box</a> add-ons."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:52
+msgid "Options/Preferences in a Tab"
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:55
+msgid ""
+"Thunderbirdʼs Options/Preferences have been converted from a dialog window to its own dedicated tab. The new Preferences tab provides more space which allows for better organized content and is more"
+" consistent with the look and feel of the rest of Thunderbird."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:58
+msgid "The new Preferences tab also makes it easier to multi-task without the problem of losing track of where your preferences are when switching between windows."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:67
+#, fuzzy
+msgid "Other Notable Changes"
+msgstr "Más nyelvek:"
+
+#: website/thunderbird/68.0/whatsnew/index.html:70
+msgid ""
+"There are many other smaller changes that make Thunderbird 68 feel polished and powerful including: a new App Menu UI, an updated To/CC/BCC selector in compose, improved attachment management, full "
+"color support across the app, filters can now be set to run periodically, and feed articles now show external attachments as links."
+msgstr ""
+
+#: website/thunderbird/68.0/whatsnew/index.html:73
+#, python-format
+msgid "There are many other updates in this release, you can see a list of all of them in the <a href=\"%(release)s\">Thunderbird 68 release notes</a>."
+msgstr ""
+
 #: website/thunderbird/all/index.html:10
 msgid "Download Thunderbird in your language"
 msgstr "Töltse le a Thunderbirdöt a saját nyelvén"
 
-#: website/thunderbird/all/index.html:15 website/thunderbird/beta/all/index.html:15
+#: website/thunderbird/all/index.html:14 website/thunderbird/beta/all/index.html:14
 msgid "Be one of the first to try the newest features in Thunderbird. By giving us your feedback, you’ll help us to refine the features that will be included in the final version."
 msgstr "Legyen az elsők közt, akik kipróbálhatják a Thunderbird legújabb funkcióit. Visszajelzésével segíthet a végső verzióba kerülő funkciók finomításában."
 
-#: website/thunderbird/all/index.html:17 website/thunderbird/beta/all/index.html:17
+#: website/thunderbird/all/index.html:16 website/thunderbird/beta/all/index.html:16
 msgid "Get the award-winning email application from Mozilla. Import your existing mail and enjoy our new features like tabbed email and advanced search."
 msgstr "Szerezze be a Mozilla díjnyertes e-mail alkalmazását. Importálja meglévő e-mailjeit, és élvezze az új funkciókat, mint a lapfüles e-mail és összetett keresés."
 
-#: website/thunderbird/all/index.html:34 website/thunderbird/beta/all/index.html:34
+#: website/thunderbird/all/index.html:35 website/thunderbird/beta/all/index.html:35
 msgid "Check the system requirements"
 msgstr "Ellenőrizze a rendszerkövetelményeket"
 
-#: website/thunderbird/all/index.html:35 website/thunderbird/beta/all/index.html:35
+#: website/thunderbird/all/index.html:38 website/thunderbird/beta/all/index.html:38
 msgid "Release notes"
 msgstr "Kiadási megjegyzések"
 
-#: website/thunderbird/all/index.html:43 website/thunderbird/beta/all/index.html:43
+#: website/thunderbird/all/index.html:41
+#, fuzzy
+msgid "All Releases"
+msgstr "Kiadások"
+
+#: website/thunderbird/all/index.html:55
 msgid "Fully localized versions"
 msgstr "Teljes mértékben honosított verziók"
+
+#: website/thunderbird/all/index.html:57 website/thunderbird/beta/all/index.html:53
+msgid "Choose your Language and Operating System"
+msgstr ""
 
 #: website/thunderbird/beta/all/index.html:10
 msgid "Download Beta in your language"
 msgstr "Töltse le a Beta verziót a saját nyelvén"
 
-#: website/thunderbird/releases/index.html:7
-msgid "Mozilla Thunderbird Release Notes"
-msgstr "Mozilla Thunderbird kiadási megjegyzések"
+#: website/thunderbird/beta/all/index.html:51
+#, fuzzy
+msgid "Fully localized beta versions"
+msgstr "Teljes mértékben honosított verziók"
 
-#: website/thunderbird/releases/index.html:8
+#: website/thunderbird/releases/index.html:7
+#, fuzzy
+msgid "Thunderbird Release Notes"
+msgstr "Thunderbird kiadások"
+
+#: website/thunderbird/releases/index.html:8 website/thunderbird/releases/index.html:23
 msgid "Release notes for each version of Thunderbird."
 msgstr "Kiadási megjegyzések a Thunderbird minden verziójához."
 
-#: website/thunderbird/releases/index.html:17
-msgid "Home"
-msgstr "Kezdőlap"
-
-#: website/thunderbird/releases/index.html:19
-msgid "Release Notes"
-msgstr "Kiadási megjegyzések"
-
-#: website/thunderbird/releases/index.html:25
-msgid "Thunderbird Releases"
-msgstr "Thunderbird kiadások"
-
-#: website/thunderbird/releases/index.html:26
+#: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "A Thunderbird kiadási megjegyzései minden verzióhoz egyediek. Válassza ki az Ön verzióját az alábbi listából, és nézze meg a kiadási megjegyzéseket."
+
+#~ msgid "Menu"
+#~ msgstr "Menü"
+
+#~ msgid "Beta"
+#~ msgstr "Beta"
+
+#~ msgid "Calendar Add-on"
+#~ msgstr "Naptár kiegészítő"
+
+#~ msgid "Themes"
+#~ msgstr "Témák"
+
+#~ msgid "<span>Thunderbird</span> Earlybird"
+#~ msgstr "<span>Thunderbird</span> Earlybird"
+
+#~ msgid "About"
+#~ msgstr "Bemutatkozás"
+
+#~ msgid "About the Thunderbird Project."
+#~ msgstr "A Thunderbird projektről."
+
+#~ msgid "Download Thunderbird Beta &amp; Try the Next Thunderbird"
+#~ msgstr "Töltse le a Thunderbird Betát, és próbálja ki a következő Thunderbirdöt"
+
+#~ msgid "Download and test Thunderbird Beta and experience features and fixes early!"
+#~ msgstr "Töltse le és próbálja ki a Thunderbird Betát, és ismerje meg korán az új funkciókat és javításokat."
+
+#~ msgid "Welcome to the <strong>Future of Thunderbird</strong>"
+#~ msgstr "Üdvözöljük a <strong>Thunderbird jövőjében</strong>"
+
+#~ msgid ""
+#~ "Download Thunderbird Beta and be one of the first to try the newest features in the next version of Thunderbird! By giving us your feedback, you’ll help make email better for millions of your fellow"
+#~ " users."
+#~ msgstr "Töltse le a Thunderbird Betát és legyen az elsők közt, akik kipróbálják a Thunderbird következő verziójának legújabb fejlesztéseit! Visszajelzéseivel e-mailezők millióinak segíthet."
+
+#~ msgid "Experience cutting edge features with more stability"
+#~ msgstr "Tapasztalja meg a legfrissebb funkciókat, nagyobb stabilitás mellett"
+
+#~ msgid "Tabs"
+#~ msgstr "Lapok"
+
+#~ msgid "Double-clicking or hitting enter on a mail message will now open that message in a new tab window. Right-clicking on messages or folders will open them in a tab in the background."
+#~ msgstr ""
+#~ "A dupla kattintás, vagy az Enter megnyomása egy üzeneten mostantól megnyitja azt az üzenetet egy új lapon. A jobb kattintás az üzeneteken vagy mappákon egy háttérbe kerülő lapon nyitja meg azokat."
+
+#~ msgid "Selecting the Archive button or hitting the ‘A’ key will archive your email."
+#~ msgstr "Az Archiválás gomb vagy az „A” billentyű megnyomásával lehet a kiválasztott üzenetet archiválni."
+
+#~ msgid "Activity Manager"
+#~ msgstr "Tevékenységkezelő"
+
+#~ msgid ""
+#~ "The Activity Manager records all the interactions between Thunderbird and your email provider in one place. There’s no more guess work. You only have to look in one place to see everything that’s "
+#~ "happening with your email."
+#~ msgstr "A Tevékenységkezelő rögzít minden, a Thunderbird és a levélszolgáltatója közötti műveletet. Nincs többé találgatás, egyetlen helyen meg lehet tekinteni, hogy mikor és mi történt a levelekkel."
+
+#~ msgid ""
+#~ "With Personas, lightweight \"skins\" allow you to change the look and feel of Thunderbird in an instant. Hundreds of skins are available from the latest movies, famous landmarks, and Japanese "
+#~ "tattoos. You can also choose from several Themes that dress up all the different icons in Thunderbird."
+#~ msgstr ""
+#~ "A personák segítségével egyszerűen és azonnal megváltoztatható a Thunderbird kinézete. Több száz persona érhető el, amelyek között találhatók filmekkel, híres tájakkal, vagy japán tetoválásokkal "
+#~ "kapcsolatosak. Mindezek mellett olyan témák is választhatók, amelyek segítségével a Thunderbird ikonja változtathatók meg."
+
+#~ msgid ""
+#~ "Thunderbird’s update system checks to see if you’re running the latest version, and notifies you when a security update is available. These security updates are small (usually 200KB - 700KB), giving"
+#~ " you only what you need and making the security update quick to download and install. The automated update system provides updates for Thunderbird on Windows, OS X, and Linux in over 40 different "
+#~ "languages."
+#~ msgstr ""
+#~ "A Thunderbird frissítőrendszere ellenőrzi, hogy a legújabb verziót futtatja-e és értesít ha biztonsági frissítés érhető el. Ezek a biztonsági frissítések kis méretűek (általában 200 KB – 700 KB), "
+#~ "csak a szükséges dolgokat tartalmazzák, és gyorssá teszik a biztonsági frissítések letöltését és telepítését. Az automatikus frissítési rendszer Windows, OS X és Linux rendszereken, több mint 40 "
+#~ "nyelven biztosít frissítéseket a Thunderbirdhöz."
+
+#~ msgid "Mozilla Thunderbird Release Notes"
+#~ msgstr "Mozilla Thunderbird kiadási megjegyzések"
+
+#~ msgid "Home"
+#~ msgstr "Kezdőlap"
+
+#~ msgid "Release Notes"
+#~ msgstr "Kiadási megjegyzések"
 
 #~ msgid "If you like Thunderbird, please consider a donation!"
 #~ msgstr "Ha szereti a Thunderbirdöt, akkor fontolja meg az adományozást!"
 
 #~ msgid "By donating, you will help us to continue delivering an ad-free top-notch email client."
 #~ msgstr "Az adományozással segít bennünket, hogy egy reklámoktól mentes, kiváló e-mail programot szállíthassunk."
-
-#~ msgid "Make a donation"
-#~ msgstr "Adományozás"
 
 #~ msgid "Other ways to contribute to Thunderbird"
 #~ msgstr "Más módok a Thunderbirdben közreműködéshez"
@@ -729,6 +984,3 @@ msgstr "A Thunderbird kiadási megjegyzései minden verzióhoz egyediek. Válass
 
 #~ msgid "Tips"
 #~ msgstr "Tippek"
-
-#~ msgid "Get help"
-#~ msgstr "Segítség"
