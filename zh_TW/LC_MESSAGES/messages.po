@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-28 15:08-0800\n"
-"PO-Revision-Date: 2019-08-27 14:01+0000\n"
+"PO-Revision-Date: 2019-11-29 02:51+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language-Team: none\n"
 "Language: zh_TW\n"
@@ -99,18 +99,17 @@ msgid "There’s nothing here!"
 msgstr "這裡什麼都沒有！"
 
 #: website/404.html:9
-#, fuzzy, python-format
+#, python-format
 msgid "The page you are looking for doesn’t exist.<br/>If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
-msgstr "您想要開啟的頁面並不存在。若您覺得這是一個錯誤，請到<a href=\"%(bug_report_url)s\">回報問題</a>。"
+msgstr "您想要開啟的頁面並不存在。<br/>若您覺得這是一個錯誤，請到<a href=\"%(bug_report_url)s\">回報問題</a>。"
 
 #: website/404.html:23
 msgid "Empty nest"
 msgstr "空巢一個"
 
 #: website/base-resp.html:20 website/site-footer.html:5
-#, fuzzy
 msgid "Thunderbird Vector Wordmark"
-msgstr "Thunderbird Beta"
+msgstr "Thunderbird 向量文字商標"
 
 #: website/base-resp.html:29 website/base-resp.html:53 website/donate-mailing-list.html:12
 msgid "Donate"
@@ -129,7 +128,6 @@ msgid "Get Involved"
 msgstr "參與我們"
 
 #: website/base-resp.html:43 website/site-footer.html:18
-#, fuzzy
 msgid "Get Help"
 msgstr "取得幫助"
 
@@ -184,9 +182,8 @@ msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
 #: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
-#, fuzzy
 msgid "Thunderbird Nightly"
-msgstr "Thunderbird Beta"
+msgstr "Thunderbird Nightly"
 
 #: website/download-button.html:66
 msgid "Systems &amp; Languages"
@@ -285,9 +282,8 @@ msgid "Manage multiple calendars, create your daily to do list, invite friends t
 msgstr ""
 
 #: website/index.html:123
-#, fuzzy
 msgid "Explore Features"
-msgstr "功能"
+msgstr "探索功能"
 
 #: website/index.html:126
 msgid "Explore More Add-ons"
@@ -310,9 +306,8 @@ msgid "Go"
 msgstr "衝！"
 
 #: website/site-footer.html:12
-#, fuzzy
 msgid "For Organizations"
-msgstr "供企業或組織使用的 Thunderbird"
+msgstr "企業或組織使用"
 
 #: website/site-footer.html:27
 msgid "Contact Us"
@@ -331,54 +326,48 @@ msgid "Report Trademark Abuse"
 msgstr "回報商標濫用"
 
 #: website/site-footer.html:73
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "Portions of this content are ©1998–%(current_year)s by individual\n"
 "      mozilla.org contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
-msgstr "本頁的部分內容著作權為 ©1998–%(current_year)s 由個別 mozilla.org 貢獻者所有，使用<a href=\"%(url)s\">創用 CC 授權條款</a>授權大眾使用。"
+msgstr "本頁的部分內容著作權為 ©1998–%(current_year)s 由個別 mozilla.org 貢獻者所有，使用<a href=\"%(url)s\" class=\"inline-link\">創用 CC 授權條款</a>授權大眾使用。"
 
 #: website/site-footer.html:81
 msgid "Contribute to this site"
 msgstr "貢獻至此網站"
 
 #: website/site-prefooter.html:14
-#, fuzzy
 msgid "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users."
-msgstr "Thunderbird 是一套開放原始碼專案，代表任何人都可以貢獻點子、設計、程式碼或時間來幫助其他使用者。也可以成為使用者支援團隊的一員，讓 Thunderbird 變得更棒。<a class=\"more\" href=\"%(contribute)s\">加入我們</a>"
+msgstr "Thunderbird 是一套開放原始碼專案，代表任何人都可以貢獻點子、設計、程式碼或時間來幫助其他使用者。"
 
 #: website/site-prefooter.html:17
 msgid "Join Us"
 msgstr ""
 
 #: website/site-prefooter.html:20
-#, fuzzy
 msgid "Make a Donation"
 msgstr "捐款"
 
 #: website/site-prefooter.html:22
-#, fuzzy
 msgid "Get Support"
-msgstr "支援"
+msgstr "獲得技術支援"
 
 #: website/site-prefooter.html:24
 msgid "Report a Bug"
 msgstr ""
 
 #: website/site-prefooter.html:50
-#, fuzzy
 msgid "The Future of Thunderbird"
-msgstr "Thunderbird 是什麼？"
+msgstr "Thunderbird 的未來"
 
 #: website/site-prefooter.html:52
-#, fuzzy
 msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
-msgstr "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">提供意見回饋</a>，幫助我們對最終發行版本中的功能做更細微的修改與調整"
+msgstr "體驗最新功能，並提供意見回饋以幫助我們變得更好，琢磨出最終發行版本。"
 
 #: website/site-prefooter.html:55
-#, fuzzy
 msgid "Download Beta"
-msgstr "免費下載"
+msgstr "下載 Beta 測試版"
 
 #: website/site-prefooter.html:67
 msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Nightly channel."
@@ -554,9 +543,8 @@ msgid ""
 msgstr "快速過濾列讓您可以更快過濾出您的信件。在快速過濾搜尋框當中輸入文字就會立即顯示搜尋結果。您也可以依據新訊息、分頁標籤，或是您通訊錄裡面的人員等條件進行過濾。您也可以點選圖釘圖示儲存過濾條件，將其使用於任何資料夾。"
 
 #: website/features/index.html:138
-#, fuzzy
 msgid "Search Tools"
-msgstr "搜尋"
+msgstr "搜尋工具"
 
 #: website/features/index.html:140
 #, fuzzy
@@ -671,9 +659,8 @@ msgid ""
 msgstr "Thunderbird 的前進動力來自於開放原始碼的研發流程：由成千上萬分散於世界各地，擁有熱情與經驗的程式開發者與安全專家共同參與。我們的社群開放而活躍，由專家協助打造更安全的產品、更快的進行程式更新，我們同時也能受惠於第三方的安全檢測工具，進一步強化整體安全性。"
 
 #: website/thunderbird/68.0/whatsnew/index.html:7
-#, fuzzy
 msgid "New in Thunderbird 68"
-msgstr "Thunderbird"
+msgstr "Thunderbird 68 版新鮮事"
 
 #: website/thunderbird/68.0/whatsnew/index.html:13
 #, python-format
@@ -720,9 +707,8 @@ msgid "The new Preferences tab also makes it easier to multi-task without the pr
 msgstr ""
 
 #: website/thunderbird/68.0/whatsnew/index.html:67
-#, fuzzy
 msgid "Other Notable Changes"
-msgstr "其他語言："
+msgstr "其他可見的變更"
 
 #: website/thunderbird/68.0/whatsnew/index.html:70
 msgid ""
@@ -756,9 +742,8 @@ msgid "Release notes"
 msgstr "發行公告"
 
 #: website/thunderbird/all/index.html:41
-#, fuzzy
 msgid "All Releases"
-msgstr "發行版本"
+msgstr "所有發行版本"
 
 #: website/thunderbird/all/index.html:55
 msgid "Fully localized versions"
