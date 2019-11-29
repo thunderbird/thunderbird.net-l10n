@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-28 19:50-0800\n"
-"PO-Revision-Date: 2019-11-29 08:09+0000\n"
+"PO-Revision-Date: 2019-11-29 08:13+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: none\n"
 "Language: fr\n"
@@ -114,9 +114,9 @@ msgid "There’s nothing here!"
 msgstr "Page introuvable"
 
 #: website/404.html:9
-#, fuzzy, python-format
+#, python-format
 msgid "The page you are looking for doesn’t exist.<br/>If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
-msgstr "La page que vous recherchez n’existe pas. Si vous pensez qu’il s’agit d’une erreur, vous pouvez <a href=\"%(bug_report_url)s\">signaler un problème via ce lien</a>."
+msgstr "La page que vous recherchez n’existe pas.<br/>Si vous pensez qu’il s’agit d’une erreur, vous pouvez <a href=\"%(bug_report_url)s\">signaler un problème via ce lien</a>."
 
 #: website/404.html:23
 msgid "Empty nest"
@@ -297,9 +297,8 @@ msgid "Manage multiple calendars, create your daily to do list, invite friends t
 msgstr ""
 
 #: website/index.html:123
-#, fuzzy
 msgid "Explore Features"
-msgstr "Fonctionnalités"
+msgstr ""
 
 #: website/index.html:126
 msgid "Explore More Add-ons"
