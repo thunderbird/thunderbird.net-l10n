@@ -2,14 +2,14 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-28 19:50-0800\n"
-"PO-Revision-Date: 2019-04-20 19:30+0000\n"
-"Last-Translator: Alexander Slovesnik <unghost@mozilla-russia.org>\n"
+"PO-Revision-Date: 2019-11-29 21:03+0000\n"
+"Last-Translator: Victor Bychek <a@bychek.ru>\n"
 "Language-Team: none\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -110,9 +110,9 @@ msgid "There’s nothing here!"
 msgstr "Здесь ничего нет!"
 
 #: website/404.html:9
-#, fuzzy, python-format
+#, python-format
 msgid "The page you are looking for doesn’t exist.<br/>If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
-msgstr "Страница, которую вы ищете, не существует. Если вы считаете, что это ошибка, вы можете <a href=\"%(bug_report_url)s\">сообщить о проблеме здесь</a>."
+msgstr "Страница, которую вы ищете, не существует.<br/>Если вы считаете, что это ошибка, вы можете <a href=\"%(bug_report_url)s\">сообщить о проблеме здесь</a>."
 
 #: website/404.html:23
 msgid "Empty nest"
@@ -140,7 +140,6 @@ msgid "Get Involved"
 msgstr "Принять участие"
 
 #: website/base-resp.html:43 website/site-footer.html:18
-#, fuzzy
 msgid "Get Help"
 msgstr "Получить помощь"
 
@@ -195,9 +194,8 @@ msgid "Thunderbird Beta"
 msgstr "Thunderbird Бета"
 
 #: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
-#, fuzzy
 msgid "Thunderbird Nightly"
-msgstr "Thunderbird Бета"
+msgstr "Thunderbird Nightly"
 
 #: website/download-button.html:66
 msgid "Systems &amp; Languages"
@@ -321,9 +319,8 @@ msgid "Go"
 msgstr "Перейти"
 
 #: website/site-footer.html:12
-#, fuzzy
 msgid "For Organizations"
-msgstr "Thunderbird для организаций"
+msgstr "Для организаций"
 
 #: website/site-footer.html:27
 msgid "Contact Us"
@@ -342,12 +339,15 @@ msgid "Report Trademark Abuse"
 msgstr "Сообщить о злоупотреблении торговой маркой"
 
 #: website/site-footer.html:73
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "Portions of this content are ©1998–%(current_year)s by individual\n"
 "      mozilla.org contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
-msgstr "Части этого содержимого созданы участниками проекта mozilla.org ©1998–%(current_year)s. Содержимое доступно на условиях <a href=\"%(url)s\">лицензии Creative Commons</a>."
+msgstr ""
+"Части этого содержимого созданы участниками\n"
+"      проекта mozilla.org ©1998–%(current_year)s. Содержимое доступно на\n"
+"      условиях <a href=\"%(url)s\" class=\"inline-link\">лицензии Creative Commons</a>."
 
 #: website/site-footer.html:81
 msgid "Contribute to this site"
@@ -365,23 +365,20 @@ msgid "Join Us"
 msgstr ""
 
 #: website/site-prefooter.html:20
-#, fuzzy
 msgid "Make a Donation"
 msgstr "Сделать пожертвование"
 
 #: website/site-prefooter.html:22
-#, fuzzy
 msgid "Get Support"
-msgstr "Поддержка"
+msgstr "Получить поддержку"
 
 #: website/site-prefooter.html:24
 msgid "Report a Bug"
-msgstr ""
+msgstr "Сообщить об ошибке"
 
 #: website/site-prefooter.html:50
-#, fuzzy
 msgid "The Future of Thunderbird"
-msgstr "Что такое Thunderbird?"
+msgstr "Будущее Thunderbird"
 
 #: website/site-prefooter.html:52
 #, fuzzy
@@ -407,7 +404,7 @@ msgstr ""
 
 #: website/site-prefooter.html:76
 msgid "Download Nightly"
-msgstr ""
+msgstr "Загрузить Nightly"
 
 #: website/about/index.html:22
 msgid "What is Thunderbird?"
