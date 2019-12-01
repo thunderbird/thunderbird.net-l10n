@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-28 19:50-0800\n"
-"PO-Revision-Date: 2019-12-01 12:49+0000\n"
+"PO-Revision-Date: 2019-12-01 12:58+0000\n"
 "Last-Translator: Selim Şumlu <selim@sum.lu>\n"
 "Language-Team: none\n"
 "Language: tr\n"
@@ -109,18 +109,17 @@ msgid "There’s nothing here!"
 msgstr "Burada hiçbir şey yok!"
 
 #: website/404.html:9
-#, fuzzy, python-format
+#, python-format
 msgid "The page you are looking for doesn’t exist.<br/>If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
-msgstr "Aradığınız sayfa mevcut değil. Bunun bir hata olduğunu düşünüyorsanız <a href=\"%(bug_report_url)s\">hata bildiriminde bulunabilirsiniz</a>."
+msgstr "Aradığınız sayfa mevcut değil.<br/>Bunun bir hata olduğunu düşünüyorsanız <a href=\"%(bug_report_url)s\">hata bildiriminde bulunabilirsiniz</a>."
 
 #: website/404.html:23
 msgid "Empty nest"
 msgstr "Bu yuva boş"
 
 #: website/base-resp.html:20 website/site-footer.html:5
-#, fuzzy
 msgid "Thunderbird Vector Wordmark"
-msgstr "Thunderbird Beta"
+msgstr "Thunderbird vektörel logo"
 
 #: website/base-resp.html:29 website/base-resp.html:53 website/donate-mailing-list.html:12
 msgid "Donate"
@@ -139,12 +138,10 @@ msgid "Get Involved"
 msgstr "Bize katılın"
 
 #: website/base-resp.html:43 website/site-footer.html:18
-#, fuzzy
 msgid "Get Help"
 msgstr "Yardım alın"
 
 #: website/about/index.html:7 website/base-resp.html:46 website/site-footer.html:24
-#, fuzzy
 msgid "About Us"
 msgstr "Hakkımızda"
 
@@ -195,9 +192,8 @@ msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
 #: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
-#, fuzzy
 msgid "Thunderbird Nightly"
-msgstr "Thunderbird Beta"
+msgstr "Thunderbird Nightly"
 
 #: website/download-button.html:66
 msgid "Systems &amp; Languages"
@@ -237,11 +233,11 @@ msgstr ""
 
 #: website/index.html:34
 msgid "Explore all Features"
-msgstr ""
+msgstr "Tüm özellikleri keşfedin"
 
 #: website/index.html:41
 msgid "Secure &amp; Private"
-msgstr ""
+msgstr "Güvenli ve amp; Gizli"
 
 #: website/index.html:44
 msgid "Multiple features, such as built-in Do Not Track and remote content blocking, work together to ensure your safety and privacy, so you can have peace of mind."
@@ -249,7 +245,7 @@ msgstr ""
 
 #: website/index.html:46
 msgid "Know your rights"
-msgstr ""
+msgstr "Haklarınızı bilin"
 
 #: website/index.html:53
 msgid "Highly Customizable"
@@ -261,7 +257,7 @@ msgstr ""
 
 #: website/index.html:58
 msgid "Make it personal"
-msgstr ""
+msgstr "Kişiselleştirin"
 
 #: website/index.html:66
 msgid "Stay in the loop"
@@ -273,15 +269,15 @@ msgstr ""
 
 #: website/index.html:92
 msgid "Read the Blog"
-msgstr ""
+msgstr "Blogu okuyun"
 
 #: website/about/index.html:37 website/index.html:103
 msgid "Lightning Calendar screenshot"
-msgstr ""
+msgstr "Lightning Takvim ekran görüntüsü"
 
 #: website/index.html:110
 msgid "Lightning Calendar"
-msgstr ""
+msgstr "Lightning Takvim"
 
 #: website/index.html:112
 msgid "Organize your life — it’s about time!"
@@ -296,9 +292,8 @@ msgid "Manage multiple calendars, create your daily to do list, invite friends t
 msgstr ""
 
 #: website/index.html:123
-#, fuzzy
 msgid "Explore Features"
-msgstr "Özellikler"
+msgstr "Özellikleri keşfedin"
 
 #: website/index.html:126
 msgid "Explore More Add-ons"
@@ -321,9 +316,8 @@ msgid "Go"
 msgstr "Git"
 
 #: website/site-footer.html:12
-#, fuzzy
 msgid "For Organizations"
-msgstr "Kurumlar için Thunderbird"
+msgstr "Kurumlar için"
 
 #: website/site-footer.html:27
 msgid "Contact Us"
@@ -342,56 +336,48 @@ msgid "Report Trademark Abuse"
 msgstr "Telif hakkı ihlali bildir"
 
 #: website/site-footer.html:73
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "Portions of this content are ©1998–%(current_year)s by individual\n"
 "      mozilla.org contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
-msgstr "Bu içeriğin bazı kısımları ©1998–%(current_year)s bireysel mozilla.org yazarları. İçerik, <a href=\"%(url)s\">Creative Commons lisansı</a> ile sunulmaktadır."
+msgstr "Bu içeriğin bazı kısımları ©1998–%(current_year)s bireysel mozilla.org gönüllüleri. İçerik, <a href=\"%(url)s\" class=\"inline-link\">Creative Commons lisansı</a> ile sunulmaktadır."
 
 #: website/site-footer.html:81
 msgid "Contribute to this site"
 msgstr "Bu siteye katkıda bulunun"
 
 #: website/site-prefooter.html:14
-#, fuzzy
 msgid "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users."
-msgstr ""
-"Thunderbird açık kaynaklı bir projedir; yani herkes, diğer kullanıcılara yardım etmek için fikir, tasarım, kod ve zaman katkısında bulunabilir. Siz de Thunderbird kullanıcılarını destekleyen ve "
-"Thunderbird'ü harika yapan ekibin bir parçası olabilirsiniz. <a class=\"more\" href=\"%(contribute)s\">Bize katılın</a>"
+msgstr "Thunderbird açık kaynaklı bir projedir; yani herkes diğer kullanıcılara yardım etmek için fikir, tasarım, kod ve zaman katkısında bulunabilir."
 
 #: website/site-prefooter.html:17
 msgid "Join Us"
 msgstr "Bize katılın"
 
 #: website/site-prefooter.html:20
-#, fuzzy
 msgid "Make a Donation"
 msgstr "Bağış yapın"
 
 #: website/site-prefooter.html:22
-#, fuzzy
 msgid "Get Support"
-msgstr "Destek"
+msgstr "Destek alın"
 
 #: website/site-prefooter.html:24
 msgid "Report a Bug"
-msgstr ""
+msgstr "Hata bildir"
 
 #: website/site-prefooter.html:50
-#, fuzzy
 msgid "The Future of Thunderbird"
-msgstr "Thunderbird Nedir?"
+msgstr "Thunderbird'ün geleceği"
 
 #: website/site-prefooter.html:52
-#, fuzzy
 msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
-msgstr "Final sürümde yer alacak özellikleri düzeltip güzelleştirmemiz için <a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">görüşlerinizi paylaşın</a>"
+msgstr "En yeni özellikleri deneyin. Final sürümde yer alacak özellikleri düzeltip güzelleştirmemiz için görüşlerinizi paylaşın."
 
 #: website/site-prefooter.html:55
-#, fuzzy
 msgid "Download Beta"
-msgstr "Ücretsiz indir"
+msgstr "Beta'yı indir"
 
 #: website/site-prefooter.html:67
 msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Nightly channel."
@@ -544,7 +530,7 @@ msgstr ""
 
 #: website/features/index.html:109
 msgid "Tabbed Email"
-msgstr ""
+msgstr "Sekmeli E-posta"
 
 #: website/features/index.html:111
 msgid ""
@@ -573,18 +559,16 @@ msgstr ""
 "ve Adres Defteri'nizdeki kişilere göre de süzebilirsiniz. Bir süzgeci \"sabitleyerek\" veya kaydederek farklı dizinlerde de kullanabilirsiniz."
 
 #: website/features/index.html:138
-#, fuzzy
 msgid "Search Tools"
-msgstr "Arama"
+msgstr "Arama Araçları"
 
 #: website/features/index.html:140
-#, fuzzy
 msgid ""
 "The search interface in Thunderbird contains filtering and timeline tools to pinpoint the exact email you’re looking for. Thunderbird also indexes all of your emails and chat conversations to help "
 "you search even faster. Your search results are displayed in a tab so you can easily switch back and forth to your search results and other email."
 msgstr ""
-"Tam olarak aradığınız e-postayı bulmanız için Thunderbird'deki arama arayüzünde süzme ve zaman çizgisi araçları bulunur. Thunderbird ayrıca tüm e-postalarınızı endeksleyerek çok daha hızlı bulmanızı"
-" sağlamaya yardımcı olur. Arama sonuçlarınız bir sekmede gösterilir, böylece siz de arama sonuçları ve diğer e-postalar arasında kolayca gidip gelebilirsiniz."
+"Tam olarak aradığınız e-postayı bulmanız için Thunderbird'deki arama arayüzünde süzme ve zaman çizgisi araçları bulunur. Thunderbird ayrıca tüm e-postalarınızı ve sohbetlerinizi indeksleyerek çok "
+"daha hızlı bulmanızı sağlamaya yardımcı olur. Arama sonuçlarınız bir sekmede gösterilir, böylece siz de arama sonuçları ve diğer e-postalar arasında kolayca gidip gelebilirsiniz."
 
 #: website/features/index.html:149
 msgid "Message Archive"
@@ -600,11 +584,11 @@ msgstr ""
 
 #: website/features/index.html:169
 msgid "Large Files Management"
-msgstr ""
+msgstr "Büyük Dosya Yönetimi"
 
 #: website/features/index.html:171
 msgid "Share large files with Thunderbird Filelink!"
-msgstr ""
+msgstr "Thunderbird Filelink ile büyük dosyaları paylaşın!"
 
 #: website/features/index.html:175
 msgid ""
@@ -709,9 +693,8 @@ msgstr ""
 "faydalanmamızın da önünü açar."
 
 #: website/thunderbird/68.0/whatsnew/index.html:7
-#, fuzzy
 msgid "New in Thunderbird 68"
-msgstr "Thunderbird"
+msgstr "Thunderbird 68'deki Yenilikler"
 
 #: website/thunderbird/68.0/whatsnew/index.html:13
 #, python-format
@@ -722,7 +705,7 @@ msgstr ""
 
 #: website/thunderbird/68.0/whatsnew/index.html:25
 msgid "Better Dark Theme"
-msgstr ""
+msgstr "Daha İyi Koyu Tema"
 
 #: website/thunderbird/68.0/whatsnew/index.html:28
 msgid "The dark theme available in Thunderbird has been enhanced with a dark message thread pane as well as many other small improvements."
@@ -730,7 +713,7 @@ msgstr ""
 
 #: website/thunderbird/68.0/whatsnew/index.html:38
 msgid "Filelink Improved"
-msgstr ""
+msgstr "Geliştirilmiş Filelink"
 
 #: website/thunderbird/68.0/whatsnew/index.html:41
 msgid ""
@@ -745,7 +728,7 @@ msgstr ""
 
 #: website/thunderbird/68.0/whatsnew/index.html:52
 msgid "Options/Preferences in a Tab"
-msgstr ""
+msgstr "Sekmeli Seçenekler/Tercihler"
 
 #: website/thunderbird/68.0/whatsnew/index.html:55
 msgid ""
@@ -758,9 +741,8 @@ msgid "The new Preferences tab also makes it easier to multi-task without the pr
 msgstr ""
 
 #: website/thunderbird/68.0/whatsnew/index.html:67
-#, fuzzy
 msgid "Other Notable Changes"
-msgstr "Diğer diller:"
+msgstr "Diğer Önemli Değişiklikler"
 
 #: website/thunderbird/68.0/whatsnew/index.html:70
 msgid ""
@@ -794,9 +776,8 @@ msgid "Release notes"
 msgstr "Sürüm notları"
 
 #: website/thunderbird/all/index.html:41
-#, fuzzy
 msgid "All Releases"
-msgstr "Sürümler"
+msgstr "Tüm sürümler"
 
 #: website/thunderbird/all/index.html:55
 msgid "Fully localized versions"
@@ -811,14 +792,12 @@ msgid "Download Beta in your language"
 msgstr "Kendi dilinizde Beta sürümü indirin"
 
 #: website/thunderbird/beta/all/index.html:51
-#, fuzzy
 msgid "Fully localized beta versions"
-msgstr "Tamamen yerelleştirilmiş sürümler"
+msgstr "Tamamen yerelleştirilmiş beta sürümleri"
 
 #: website/thunderbird/releases/index.html:7
-#, fuzzy
 msgid "Thunderbird Release Notes"
-msgstr "Thunderbird Sürümleri"
+msgstr "Thunderbird Sürüm Notları"
 
 #: website/thunderbird/releases/index.html:8 website/thunderbird/releases/index.html:23
 msgid "Release notes for each version of Thunderbird."
