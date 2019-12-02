@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-28 19:50-0800\n"
-"PO-Revision-Date: 2019-12-02 20:51+0000\n"
+"PO-Revision-Date: 2019-12-02 21:00+0000\n"
 "Last-Translator: G12r <georgianization@outlook.com>\n"
 "Language-Team: none\n"
 "Language: ka\n"
@@ -341,35 +341,34 @@ msgid "Report Trademark Abuse"
 msgstr "მოხსენება სავაჭრო ნიშნების დარღვევის შესახებ"
 
 #: website/site-footer.html:73
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "Portions of this content are ©1998–%(current_year)s by individual\n"
 "      mozilla.org contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
-msgstr "ამ მასალის ნაწილი შექმნილია mozilla.org პროექტის მონაწილეების მიერ ©1998–%(current_year)s. მასალა ვრცელდება <a href=\"%(url)s\">Creative-Commons-ლიცენზიით</a>."
+msgstr ""
+"ამ შიგთავსის ნაწილი შექმნილია mozilla.org პროექტის ცალკეული\n"
+"      მონაწილეების მიერ ©1998–%(current_year)s. მასალა ვრცელდება\n"
+"      <a href=\"%(url)s\" class=\"inline-link\">Creative Commons-ლიცენზიით</a>."
 
 #: website/site-footer.html:81
 msgid "Contribute to this site"
 msgstr "შეიტანეთ წვლილი ამ საიტში"
 
 #: website/site-prefooter.html:14
-#, fuzzy
 msgid "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users."
 msgstr ""
-"Thunderbird არის ღია წყაროს მქონე პროექტი, რაც გულისხმობს, რომ ნებისმიერს შეუძლია წვლილი შეიტანოს სიახლეების დანერგვით, იერსახის ან კოდის შემუშავებითა და სხვა მომხმარებლების დახმარებით. გახდით იმ "
-"გუნდის წევრი, რომელიც მხარს უჭერს Thunderbird-ის მომხმარებლებს და ხდის Thunderbird-ს კიდევ უფრო მშვენიერს. <a class=\"more\" href=\"%(contribute)s\">შემოგვიერთდით</a>"
+"Thunderbird არის ღია წყაროს მქონე პროექტი, რაც გულისხმობს, რომ ნებისმიერს შეუძლია წვლილი შეიტანოს სიახლეების დანერგვით, იერსახის ან კოდის შემუშავებითა და სხვა რიგითი მომხმარებლების დახმარებით."
 
 #: website/site-prefooter.html:17
 msgid "Join Us"
 msgstr "შემოგვიერთდით"
 
 #: website/site-prefooter.html:20
-#, fuzzy
 msgid "Make a Donation"
 msgstr "შემოწირულობის გაღება"
 
 #: website/site-prefooter.html:22
-#, fuzzy
 msgid "Get Support"
 msgstr "მხარდაჭერა"
 
@@ -378,19 +377,16 @@ msgid "Report a Bug"
 msgstr "მოგვახსენეთ ხარვეზი"
 
 #: website/site-prefooter.html:50
-#, fuzzy
 msgid "The Future of Thunderbird"
-msgstr "რა არის Thunderbird?"
+msgstr "Thunderbird-ის მომავალი"
 
 #: website/site-prefooter.html:52
-#, fuzzy
 msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
-msgstr "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">გამოგვეხმაურეთ</a> და დაგვეხმარეთ საბოლოო გამოშვების დახვეწასა და სრულყოფაში"
+msgstr "გამოცადეთ გაუსხლავი შესაძლებლობები. გამოგვეხმაურეთ და დაგვეხმარეთ საბოლოო გამოშვების დახვეწასა და სრულყოფაში."
 
 #: website/site-prefooter.html:55
-#, fuzzy
 msgid "Download Beta"
-msgstr "უფასო ჩამოტვირთვა"
+msgstr "ჩამოტვირთეთ Beta"
 
 #: website/site-prefooter.html:67
 msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Nightly channel."
@@ -584,18 +580,17 @@ msgstr ""
 "და წიგნაკში არსებული ხალხის მიხედვით. ამასთან, შეგიძლიათ „მიამაგროთ“ ან შეინახოთ ფილტრი და გამოიყენოთ სხვადასხვა საქაღალდეებისთვის."
 
 #: website/features/index.html:138
-#, fuzzy
 msgid "Search Tools"
-msgstr "ძიება"
+msgstr "ძიების ხელსაწყოები"
 
 #: website/features/index.html:140
-#, fuzzy
 msgid ""
 "The search interface in Thunderbird contains filtering and timeline tools to pinpoint the exact email you’re looking for. Thunderbird also indexes all of your emails and chat conversations to help "
 "you search even faster. Your search results are displayed in a tab so you can easily switch back and forth to your search results and other email."
 msgstr ""
 "ძიების საშუალებები Thunderbird-ში მოიცავს გაფილტვრისა და დროითი ზოლის ხელსაწყოებს, რომლის მეშვეობითაც ზუსტად შეგიძლიათ სასურველი წერილის მონახვა. ამასთან, Thunderbird მუდმივად აღრიცხავს თქვენს "
-"წერილებს, ძიების დროის კიდევ უფრო შესამცირებლად. მოძიებული შედეგები გამოჩნდება ცალკე ჩანართში, შესაბამისად მარტივად შეგეძლებათ გადახვიდეთ სხვა წერილებზე და შემდეგ ისევ დაუბრუნდეთ ძიების შედეგებს."
+"წერილებსა და მიმოწერის საუბრებს, ძიების დროის კიდევ უფრო შესამცირებლად. მოძიებული შედეგები გამოჩნდება ცალკე ჩანართში, შესაბამისად მარტივად შეგეძლებათ გადახვიდეთ სხვა წერილებზე და შემდეგ ისევ "
+"დაუბრუნდეთ ძიების შედეგებს."
 
 #: website/features/index.html:149
 msgid "Message Archive"
@@ -725,9 +720,8 @@ msgstr ""
 "უპირატესობებიც, დაცვის საერთო დონის ასამაღლებლად."
 
 #: website/thunderbird/68.0/whatsnew/index.html:7
-#, fuzzy
 msgid "New in Thunderbird 68"
-msgstr "Thunderbird"
+msgstr "რა სიახლეებითაა Thunderbird 68"
 
 #: website/thunderbird/68.0/whatsnew/index.html:13
 #, python-format
@@ -779,9 +773,8 @@ msgid "The new Preferences tab also makes it easier to multi-task without the pr
 msgstr "მახასიათებლების ახალი ჩანართი, ასევე აადვილებს რამდენიმე საქმის გაკეთებას და პარამეტრების ცვლილებისას, აღარაა საჭირო შედეგის სანახავად ფანჯრების ცვლა."
 
 #: website/thunderbird/68.0/whatsnew/index.html:67
-#, fuzzy
 msgid "Other Notable Changes"
-msgstr "სხვა ენები:"
+msgstr "სხვა აღსანიშნავი ცვლილებები"
 
 #: website/thunderbird/68.0/whatsnew/index.html:70
 msgid ""
@@ -818,9 +811,8 @@ msgid "Release notes"
 msgstr "გამოშვების მონაცემები"
 
 #: website/thunderbird/all/index.html:41
-#, fuzzy
 msgid "All Releases"
-msgstr "გამოშვებები"
+msgstr "ყველა გამოშვება"
 
 #: website/thunderbird/all/index.html:55
 msgid "Fully localized versions"
@@ -835,14 +827,12 @@ msgid "Download Beta in your language"
 msgstr "ჩამოტვირთეთ Beta ვერსია თქვენს ენაზე"
 
 #: website/thunderbird/beta/all/index.html:51
-#, fuzzy
 msgid "Fully localized beta versions"
-msgstr "სრულად ლოკალიზებული ვერსიები"
+msgstr "სრულად თარგმნილი ვერსიები"
 
 #: website/thunderbird/releases/index.html:7
-#, fuzzy
 msgid "Thunderbird Release Notes"
-msgstr "Thunderbird-ის გამოშვებები"
+msgstr "Thunderbird-ის გამოშვების შენიშვნები"
 
 #: website/thunderbird/releases/index.html:8 website/thunderbird/releases/index.html:23
 msgid "Release notes for each version of Thunderbird."
