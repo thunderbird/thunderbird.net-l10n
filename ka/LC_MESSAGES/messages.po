@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-28 19:50-0800\n"
-"PO-Revision-Date: 2019-12-02 20:28+0000\n"
+"PO-Revision-Date: 2019-12-02 20:51+0000\n"
 "Last-Translator: G12r <georgianization@outlook.com>\n"
 "Language-Team: none\n"
 "Language: ka\n"
@@ -114,18 +114,17 @@ msgid "There’s nothing here!"
 msgstr "აქ არაფერია!"
 
 #: website/404.html:9
-#, fuzzy, python-format
+#, python-format
 msgid "The page you are looking for doesn’t exist.<br/>If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
-msgstr "გვერდი, რომელსაც ეძებთ, არ არსებობს. თუ ფიქრობთ რომ ხარვეზს აქვს ადგილი, შეგიძლიათ <a href=\"%(bug_report_url)s\">მოგვახსენოთ აქ</a>."
+msgstr "გვერდი, რომელსაც ეძებთ, არ არსებობს.<br/>თუ ფიქრობთ რომ ხარვეზს აქვს ადგილი, შეგიძლიათ <a href=\"%(bug_report_url)s\">მოგვახსენოთ აქ</a>."
 
 #: website/404.html:23
 msgid "Empty nest"
 msgstr "ბუდე ცარიელია"
 
 #: website/base-resp.html:20 website/site-footer.html:5
-#, fuzzy
 msgid "Thunderbird Vector Wordmark"
-msgstr "Thunderbird Beta"
+msgstr "Thunderbird-ის ვექტორული ნიშანი"
 
 #: website/base-resp.html:29 website/base-resp.html:53 website/donate-mailing-list.html:12
 msgid "Donate"
@@ -144,7 +143,6 @@ msgid "Get Involved"
 msgstr "ჩაერთეთ"
 
 #: website/base-resp.html:43 website/site-footer.html:18
-#, fuzzy
 msgid "Get Help"
 msgstr "დახმარების მიღება"
 
@@ -199,9 +197,8 @@ msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
 #: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
-#, fuzzy
 msgid "Thunderbird Nightly"
-msgstr "Thunderbird Beta"
+msgstr "Thunderbird Nightly"
 
 #: website/download-button.html:66
 msgid "Systems &amp; Languages"
@@ -300,9 +297,8 @@ msgid "Manage multiple calendars, create your daily to do list, invite friends t
 msgstr "მართეთ სხვადასხვა კალენდრები, შექმენით ყოველდღიურად გასაკეთებელი საქმეების სია, მოიპატიჟეთ მეგობრები ღონისძიებებზე და გამოიწერეთ საჯარო კალენდრები."
 
 #: website/index.html:123
-#, fuzzy
 msgid "Explore Features"
-msgstr "შესაძლებლობები"
+msgstr "მოიძიეთ შესაძლებლობები"
 
 #: website/index.html:126
 msgid "Explore More Add-ons"
@@ -325,9 +321,8 @@ msgid "Go"
 msgstr "წინ"
 
 #: website/site-footer.html:12
-#, fuzzy
 msgid "For Organizations"
-msgstr "Thunderbird დაწესებულებებისთვის"
+msgstr "დაწესებულებებისთვის"
 
 #: website/site-footer.html:27
 msgid "Contact Us"
@@ -793,11 +788,14 @@ msgid ""
 "There are many other smaller changes that make Thunderbird 68 feel polished and powerful including: a new App Menu UI, an updated To/CC/BCC selector in compose, improved attachment management, full "
 "color support across the app, filters can now be set to run periodically, and feed articles now show external attachments as links."
 msgstr ""
+"კიდევ უამრავი სხვა მცირე ცვლილებაა დამატებული, რომლითაც Thunderbird 68 უფრო მეტად დახვეწილი და მძლავრია, მათ შორისაა: პროგრამის მენიუს ახალი იერსახე, მისამართის განახლებული მიმთითებელი, წერილის "
+"შედგენისას, დანართის გაუმჯობესებული მართვა, ფერების სრული მხარდაჭერა პროგრამაში, ფილტრების დაყენებისა და დროდადრო გაშვების საშუალება და სტატიების არხებში, გარეშე დანართების ბმულებად ჩვენების "
+"შესაძლებლობა."
 
 #: website/thunderbird/68.0/whatsnew/index.html:73
 #, python-format
 msgid "There are many other updates in this release, you can see a list of all of them in the <a href=\"%(release)s\">Thunderbird 68 release notes</a>."
-msgstr ""
+msgstr "კიდევ მრავალი სხვა განახლებაა ამ გამოშვებაში, მათი სრული სიისთვის იხილეთ <a href=\"%(release)s\">Thunderbird 68 გამოშვების შენიშვნები</a>."
 
 #: website/thunderbird/all/index.html:10
 msgid "Download Thunderbird in your language"
