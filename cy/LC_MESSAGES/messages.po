@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-28 19:50-0800\n"
-"PO-Revision-Date: 2019-12-02 12:10+0000\n"
+"PO-Revision-Date: 2019-12-02 12:32+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language-Team: none\n"
 "Language: cy\n"
@@ -112,18 +112,17 @@ msgid "There’s nothing here!"
 msgstr "Does dim byd yma!"
 
 #: website/404.html:9
-#, fuzzy, python-format
+#, python-format
 msgid "The page you are looking for doesn’t exist.<br/>If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
-msgstr "Nid yw'r dudalen rydych chi'n chwilio amdani yn bodoli. Os ydych chi'n meddwl mai gwall yw hyn, gallwch chi <a href=\"%(bug_report_url)s\">adrodd ar y mater</a>."
+msgstr "Nid yw'r dudalen rydych chi'n chwilio amdani yn bodoli.<br/>Os ydych chi'n meddwl mai gwall yw hyn, gallwch chi <a href=\"%(bug_report_url)s\">adrodd ar y mater</a>."
 
 #: website/404.html:23
 msgid "Empty nest"
 msgstr "Nyth wag"
 
 #: website/base-resp.html:20 website/site-footer.html:5
-#, fuzzy
 msgid "Thunderbird Vector Wordmark"
-msgstr "Thunderbird Beta"
+msgstr "Marc Gair Fector Thunderbird"
 
 #: website/base-resp.html:29 website/base-resp.html:53 website/donate-mailing-list.html:12
 msgid "Donate"
@@ -142,9 +141,8 @@ msgid "Get Involved"
 msgstr "Ymunwch"
 
 #: website/base-resp.html:43 website/site-footer.html:18
-#, fuzzy
 msgid "Get Help"
-msgstr "Derbyn cymorth"
+msgstr "Derbyn Cymorth"
 
 #: website/about/index.html:7 website/base-resp.html:46 website/site-footer.html:24
 msgid "About Us"
@@ -168,7 +166,7 @@ msgstr "Ymunwch â'n Cylchlythyr"
 
 #: website/donate-mailing-list.html:19
 msgid "Keep up with the latest and greatest updates on news, features, events, and previews, and get a sneak peek on the upcoming releases."
-msgstr "Cadwch yn gyfredol â'r diweddariadau diweddaraf a'n newyddion, nodweddion, digwyddiadau a rhagolwg, a chael cipolwg ar y datganiadau sydd ar ddod."
+msgstr "Cadwch yn gyfredol â'r diweddariadau diweddaraf a'n newyddion, nodweddion, digwyddiadau a rhagolwg, a chael cipolwg ar luniadau'r dyfodol."
 
 #: website/donate-mailing-list.html:26
 msgid "Your Email"
@@ -197,9 +195,8 @@ msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
 #: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
-#, fuzzy
 msgid "Thunderbird Nightly"
-msgstr "Thunderbird Beta"
+msgstr "Thunderbird Nightly"
 
 #: website/download-button.html:66
 msgid "Systems &amp; Languages"
@@ -235,11 +232,11 @@ msgstr "Yn addas ar gyfer eich holl anghenion"
 
 #: website/index.html:32
 msgid "Thunderbird makes email better for you, bringing together speed, privacy and the latest technologies. Focus on what matters and forget about complexity."
-msgstr "Mae Thunderbird yn gwneud e-bost yn well i chi, gan ddod â chyflymder, preifatrwydd a'r technolegau diweddaraf ynghyd. Canolbwyntiwch ar yr hyn sy'n bwysig ac anghofiwch am gymhlethdod."
+msgstr "Mae Thunderbird yn gwneud e-bost yn fwy hwylus, gan ddod â chyflymder, preifatrwydd a'r technolegau diweddaraf ynghyd. Canolbwyntiwch ar yr hyn sy'n bwysig ac anghofiwch am y cymhlethdodau."
 
 #: website/index.html:34
 msgid "Explore all Features"
-msgstr "Archwiliwch yr holl Nodweddion"
+msgstr "Edrychwch ar yr Holl Nodweddion"
 
 #: website/index.html:41
 msgid "Secure &amp; Private"
@@ -247,7 +244,7 @@ msgstr "Diogel a Phreifat"
 
 #: website/index.html:44
 msgid "Multiple features, such as built-in Do Not Track and remote content blocking, work together to ensure your safety and privacy, so you can have peace of mind."
-msgstr "Mae nodweddion lluosog, fel Peidiwch â Thracio cynwysedig a rhwystro cynnwys o bell, yn gweithio gyda'i gilydd i sicrhau eich diogelwch a'ch preifatrwydd, fel bod gennych dawelwch meddwl."
+msgstr "Mae yna nodweddion niferus, fel Dim Tracio a rhwystro cynnwys o bell, sy'n gweithio gyda'i gilydd i sicrhau eich diogelwch a'ch preifatrwydd, fel bod gennych dawelwch meddwl."
 
 #: website/index.html:46
 msgid "Know your rights"
@@ -259,7 +256,7 @@ msgstr "Hynod Gyfaddasadwy"
 
 #: website/index.html:56
 msgid "With Add-ons (Extensions & Themes) and many more features you can change the look and feel of Thunderbird in an instant."
-msgstr "Gydag Ychwanegion (Estyniadau a Themâu) a llawer mwy o nodweddion gallwch newid edrychiad a theimlad Thunderbird mewn amrantiad."
+msgstr "Gydag Ychwanegion (Estyniadau a Themâu) a llawer mwy o nodweddion gallwch newid golwg a theimlad Thunderbird mewn amrantiad."
 
 #: website/index.html:58
 msgid "Make it personal"
@@ -295,16 +292,15 @@ msgstr "Trefnwch eich amserlen a digwyddiadau pwysig bywyd mewn calendr sydd wed
 
 #: website/index.html:120
 msgid "Manage multiple calendars, create your daily to do list, invite friends to events, and subscribe to public calendars."
-msgstr "Rheolwch calendrau lluosog, creu eich rhestr ddyddiol i'w gwneud, gwahodd ffrindiau i ddigwyddiadau, a thanysgrifio i galendrau cyhoeddus."
+msgstr "Rheoli calendrau niferus, creu eich rhestr gweithredu dyddiol, gwahodd ffrindiau i ddigwyddiadau, a thanysgrifio i galendrau cyhoeddus."
 
 #: website/index.html:123
-#, fuzzy
 msgid "Explore Features"
-msgstr "Nodweddion"
+msgstr "Edrych ar y Nodweddion"
 
 #: website/index.html:126
 msgid "Explore More Add-ons"
-msgstr "Archwiliwch Ragor o Ychwanegion"
+msgstr "Edrych ar Rhagor o Ychwanegion"
 
 #: website/download/index.html:35 website/download/index.html:55 website/index.html:142 website/index.html:162
 msgid "Mozilla"
@@ -629,8 +625,8 @@ msgid ""
 "speed of sending email and avoid message rejection if the recipient’s server disallows large files. As an added bonus, you’ll also save space in your sent folder and the recipient’s inbox."
 msgstr ""
 "Nawr gallwch gyflymu'r broses o drosglwyddo dogfennau mawr trwy eu llwytho i fyny i ddarparwr storio ar-lein a rhannu'r ddolen yn lle anfon y ffeil yn uniongyrchol fel atodiad neges. Gallwch wella "
-"cyflymder anfon e-bost ac osgoi gwrthod neges os yw gweinydd y derbynnydd yn gwrthod ffeiliau mawr. Fel bonws ychwanegol, byddwch hefyd yn arbed lle yn eich ffolder a anfonwyd a blwch derbyn y "
-"derbynnydd."
+"cyflymder anfon e-bost ac osgoi cael neges wedi'i gwrthod os yw gweinydd y derbynnydd yn gwrthod ffeiliau mawr. Fel bonws ychwanegol, byddwch hefyd yn arbed lle yn eich ffolder a anfonwyd a blwch "
+"derbyn y derbynnydd."
 
 #: website/features/index.html:188
 msgid "Thunderbird Look & Feel"
@@ -641,8 +637,8 @@ msgid ""
 "Themes allow you to change the look of Thunderbird in an instant. Working on getting to inbox zero at night? Turn on the dark theme to make managing your email easier on the eyes. Thunderbird ships "
 "with both light and dark themes, and more are available as add-ons."
 msgstr ""
-"Mae themâu yn caniatáu i chi newid golwg Thunderbird mewn amrantiad. Gweithio ar gyrraedd blwch derbyn gwag erbyn y nos? Trowch y thema dywyll ymlaen i wneud rheoli eich e-bost yn haws ar y llygaid."
-" Mae Thunderbird yn dod gyda themâu golau a thywyll, ac mae mwy ar gael fel ychwanegion."
+"Mae themâu yn caniatáu i chi newid golwg Thunderbird mewn amrantiad. Gweithio ar gyrraedd blwch derbyn gwag erbyn nos? Trowch y thema dywyll ymlaen i wneud rheoli eich e-bost yn haws ar y llygaid. "
+"Mae Thunderbird yn dod gyda themâu golau a thywyll, ac mae mwy ar gael fel ychwanegion."
 
 #: website/features/index.html:199
 msgid "Smart Folders"
@@ -770,20 +766,24 @@ msgstr ""
 #, python-format
 msgid "Other Filelink providers like Box and Dropbox are not included by default, but can be added by grabbing the <a href=\"%(dropbox)s\">Dropbox</a> and <a href=\"%(box)s\">Box</a> add-ons."
 msgstr ""
+"Nid yw darparwyr Filelink eraill fel Box a Dropbox wedi'u cynnwys fel rhagosodiad, ond mae modd eu hychwanegu trwy ddefnyddio ychwanegion <a href=\"%(dropbox)s\">Dropbox</a> a <a "
+"href=\"%(box)s\">Box</a>."
 
 #: website/thunderbird/68.0/whatsnew/index.html:52
 msgid "Options/Preferences in a Tab"
-msgstr ""
+msgstr "Dewisiadau/Dewisiadau mewn Tab"
 
 #: website/thunderbird/68.0/whatsnew/index.html:55
 msgid ""
 "Thunderbirdʼs Options/Preferences have been converted from a dialog window to its own dedicated tab. The new Preferences tab provides more space which allows for better organized content and is more"
 " consistent with the look and feel of the rest of Thunderbird."
 msgstr ""
+"Troswyd Dewisiadau/Dewisiadau Thunderbird o ffenestr ddeialog i’w dab pwrpasol ei hun. Mae'r tab Dewisiadau newydd yn darparu mwy o le sy'n caniatáu cynnwys wedi'i drefnu'n well ac sy'n fwy cyson "
+"agolwg a theimlad gweddill Thunderbird."
 
 #: website/thunderbird/68.0/whatsnew/index.html:58
 msgid "The new Preferences tab also makes it easier to multi-task without the problem of losing track of where your preferences are when switching between windows."
-msgstr ""
+msgstr "Mae'r tab Dewisiadau newydd hefyd yn ei gwneud hi'n haws aml-dasgio heb y broblem o golli trywydd ble mae'ch dewisiadau wrth symud rhwng ffenestri."
 
 #: website/thunderbird/68.0/whatsnew/index.html:67
 #, fuzzy
@@ -795,11 +795,13 @@ msgid ""
 "There are many other smaller changes that make Thunderbird 68 feel polished and powerful including: a new App Menu UI, an updated To/CC/BCC selector in compose, improved attachment management, full "
 "color support across the app, filters can now be set to run periodically, and feed articles now show external attachments as links."
 msgstr ""
+"Mae yna lawer o newidiadau llai eraill sy'n gwneud i Thunderbird 68 deimlo'n sgleinio a phwerus gan gynnwys: Rhyngwyneb defnyddiwr Dewislen yr Ap newydd, dewisydd At/CC/BCC wedi'i ddiweddaru wrth "
+"gyfansoddi, gwell rheolaeth atodi, cefnogaeth lliw llawn ar draws yr ap, mae modd gosod hidlwyr i redeg o bryd i'w gilydd, ac mae erthyglau lif bellach yn dangos atodiadau allanol fel dolenni."
 
 #: website/thunderbird/68.0/whatsnew/index.html:73
 #, python-format
 msgid "There are many other updates in this release, you can see a list of all of them in the <a href=\"%(release)s\">Thunderbird 68 release notes</a>."
-msgstr ""
+msgstr "Mae yna lawer o ddiweddariadau eraill yn y lluniad hwn, gallwch weld rhestr ohonyn nhw i gyd yn y nodiadau rhyddhau <a href=\"%(release)s\">Thunderbird 68</a>."
 
 #: website/thunderbird/all/index.html:10
 msgid "Download Thunderbird in your language"
@@ -834,7 +836,7 @@ msgstr "Fersiynau wedi eu lleoleiddio'n llawn"
 
 #: website/thunderbird/all/index.html:57 website/thunderbird/beta/all/index.html:53
 msgid "Choose your Language and Operating System"
-msgstr ""
+msgstr "Dewiswch eich Iaith a System Weithredu"
 
 #: website/thunderbird/beta/all/index.html:10
 msgid "Download Beta in your language"
