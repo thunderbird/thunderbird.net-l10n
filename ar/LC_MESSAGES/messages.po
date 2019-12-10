@@ -2,21 +2,22 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-28 19:50-0800\n"
-"PO-Revision-Date: 2018-03-03 23:50-0800\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2019-12-10 17:36+0000\n"
+"Last-Translator: صفا الفليج <safa1996alfulaij@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=0 && n%100<=2 ? 4 : 5)\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5);\n"
 "Generated-By: Babel 2.5.3\n"
+"X-Generator: Pontoon\n"
 
 #: start-page/release/index.html:8
 msgid "Welcome to <span>Thunderbird</span>"
@@ -42,9 +43,9 @@ msgstr ""
 " يواصل التطور، نحتاج إلى دعمكم و طلب التبرع منكم اليوم. جميع الأموال المتبرع بها تذهب مباشرة إلى تمويل التنمية ثندِربِرد و البنية التحتية."
 
 #: start-page/release/index.html:27
-#, fuzzy, python-format
+#, python-format
 msgid "<a href=\"%(donate)s\">Donate to Thunderbird</a>"
-msgstr "تبرّع إلى ثندربيرد"
+msgstr "<a href=\"%(donate)s\">تبرّع إلى ثندربيرد</a>"
 
 #: start-page/release/index.html:28
 #, fuzzy
@@ -63,7 +64,7 @@ msgstr ""
 #: start-page/release/index.html:32
 #, python-format
 msgid "<a href=\"%(contribute)s\">Get Involved</a>"
-msgstr ""
+msgstr "<a href=\"%(contribute)s\">شارِك معنا</a>"
 
 #: start-page/release/index.html:33
 #, python-format
@@ -85,7 +86,7 @@ msgstr ""
 #: start-page/release/index.html:42
 #, python-format
 msgid "<a href=\"%(bug)s\">Report a Bug</a>"
-msgstr ""
+msgstr "<a href=\"%(bug)s\">أبلِغ عن علّة</a>"
 
 #: start-page/release/index.html:43
 #, python-format
@@ -97,11 +98,11 @@ msgstr ""
 #: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:137
 #: website/index.html:156 website/site-footer.html:4 website/site-footer.html:45
 msgid "Thunderbird"
-msgstr ""
+msgstr "ثنْدَربِرد"
 
 #: website/404.html:8
 msgid "There’s nothing here!"
-msgstr ""
+msgstr "ما من شيء ها هنا!"
 
 #: website/404.html:9
 #, python-format
@@ -131,7 +132,7 @@ msgstr "الإضافات"
 
 #: website/base-resp.html:40 website/site-footer.html:15 website/site-prefooter.html:9 website/site-prefooter.html:12
 msgid "Get Involved"
-msgstr ""
+msgstr "شارِك معنا"
 
 #: website/base-resp.html:43 website/site-footer.html:18
 #, fuzzy
@@ -173,21 +174,21 @@ msgstr ""
 
 #: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9
 msgid "Download Thunderbird"
-msgstr ""
+msgstr "نزّل ثنْدَربِرد"
 
 #: website/download-button.html:35
 #, python-format
 msgid "Your system doesn't meet the <a href=\"%(url)s\">requirements</a> to run Thunderbird."
-msgstr ""
+msgstr "لا يملك جهازك <a href=\"%(url)s\">المواصفات الدنيا</a> لتشغيل ثنْدَربِرد."
 
 #: website/download-button.html:38
 #, python-format
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
-msgstr ""
+msgstr "رجاءً اتّبع  <a href=\"%(url)s\">هذه التّعليمات</a> لتنصيب ثنْدَربِرد."
 
 #: website/download-button.html:53 website/site-prefooter.html:47
 msgid "Thunderbird Beta"
-msgstr ""
+msgstr "ثنْدَربِرد بيتا"
 
 #: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
 #, fuzzy
@@ -301,7 +302,7 @@ msgstr ""
 
 #: website/download/index.html:35 website/download/index.html:55 website/index.html:142 website/index.html:162
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: website/lang_switcher.html:10
 msgid "Page language:"
@@ -313,7 +314,7 @@ msgstr "لغات أخرى:"
 
 #: website/lang_switcher.html:30
 msgid "Go"
-msgstr ""
+msgstr "انتقل"
 
 #: website/site-footer.html:12
 msgid "For Organizations"
@@ -466,7 +467,7 @@ msgstr ""
 
 #: website/download/index.html:10
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
-msgstr ""
+msgstr "سيبدأ التنزيل تلقائيًا. لو لم ينفع ذلك جربّ الزر أسفله!"
 
 #: website/features/index.html:7
 msgid "Thunderbird Features"
@@ -758,7 +759,7 @@ msgstr ""
 
 #: website/thunderbird/all/index.html:10
 msgid "Download Thunderbird in your language"
-msgstr ""
+msgstr "نزّل ثنْدَربِرد بلغتك"
 
 #: website/thunderbird/all/index.html:14 website/thunderbird/beta/all/index.html:14
 msgid "Be one of the first to try the newest features in Thunderbird. By giving us your feedback, you’ll help us to refine the features that will be included in the final version."
@@ -774,7 +775,7 @@ msgstr ""
 
 #: website/thunderbird/all/index.html:38 website/thunderbird/beta/all/index.html:38
 msgid "Release notes"
-msgstr ""
+msgstr "ملاحظات الإصدارة"
 
 #: website/thunderbird/all/index.html:41
 #, fuzzy
@@ -783,7 +784,7 @@ msgstr "الإصدارات"
 
 #: website/thunderbird/all/index.html:55
 msgid "Fully localized versions"
-msgstr ""
+msgstr "الإصدارات المترجمة بالكامل"
 
 #: website/thunderbird/all/index.html:57 website/thunderbird/beta/all/index.html:53
 msgid "Choose your Language and Operating System"
@@ -791,7 +792,7 @@ msgstr ""
 
 #: website/thunderbird/beta/all/index.html:10
 msgid "Download Beta in your language"
-msgstr ""
+msgstr "نزّل بيتا بلغتك"
 
 #: website/thunderbird/beta/all/index.html:51
 msgid "Fully localized beta versions"
@@ -804,7 +805,7 @@ msgstr "ميزات ثندربرد"
 
 #: website/thunderbird/releases/index.html:8 website/thunderbird/releases/index.html:23
 msgid "Release notes for each version of Thunderbird."
-msgstr ""
+msgstr "ملاحظات إصدارة كل نُسخة من ثنْدَربِرد."
 
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
@@ -819,7 +820,6 @@ msgstr ""
 #~ msgid "About"
 #~ msgstr "تعرّف على موزيلا"
 
-#, fuzzy
 #~ msgid "About the Thunderbird Project."
 #~ msgstr "ساهم في ثندربرد"
 
