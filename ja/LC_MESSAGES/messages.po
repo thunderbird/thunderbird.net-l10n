@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-28 19:50-0800\n"
-"PO-Revision-Date: 2019-04-15 14:23+0000\n"
+"PO-Revision-Date: 2019-12-11 12:49+0000\n"
 "Last-Translator: marsf <chimantaea_mirabilis@yahoo.co.jp>\n"
 "Language-Team: none\n"
 "Language: ja\n"
@@ -100,18 +100,17 @@ msgid "There’s nothing here!"
 msgstr "ここには何もありません!"
 
 #: website/404.html:9
-#, fuzzy, python-format
+#, python-format
 msgid "The page you are looking for doesn’t exist.<br/>If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
-msgstr "お探しのページは存在しません。これがバグと思われる場合は、<a href=\"%(bug_report_url)s\">問題を報告してください</a>。"
+msgstr "お探しのページは存在しません。<br/>これがバグと思われる場合は、<a href=\"%(bug_report_url)s\">問題を報告してください</a>。"
 
 #: website/404.html:23
 msgid "Empty nest"
 msgstr "Empty nest"
 
 #: website/base-resp.html:20 website/site-footer.html:5
-#, fuzzy
 msgid "Thunderbird Vector Wordmark"
-msgstr "Thunderbird Beta"
+msgstr "Thunderbird Vector Wordmark"
 
 #: website/base-resp.html:29 website/base-resp.html:53 website/donate-mailing-list.html:12
 msgid "Donate"
@@ -130,7 +129,6 @@ msgid "Get Involved"
 msgstr "協力する"
 
 #: website/base-resp.html:43 website/site-footer.html:18
-#, fuzzy
 msgid "Get Help"
 msgstr "サポート"
 
@@ -185,9 +183,8 @@ msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
 #: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
-#, fuzzy
 msgid "Thunderbird Nightly"
-msgstr "Thunderbird Beta"
+msgstr "Thunderbird Nightly"
 
 #: website/download-button.html:66
 msgid "Systems &amp; Languages"
@@ -311,13 +308,12 @@ msgid "Go"
 msgstr "移動"
 
 #: website/site-footer.html:12
-#, fuzzy
 msgid "For Organizations"
-msgstr "法人向け Thunderbird"
+msgstr "法人向け"
 
 #: website/site-footer.html:27
 msgid "Contact Us"
-msgstr "連絡先"
+msgstr "お問い合わせ"
 
 #: website/site-footer.html:60
 msgid "Cookies"
@@ -332,39 +328,39 @@ msgid "Report Trademark Abuse"
 msgstr "商標の不正使用を報告"
 
 #: website/site-footer.html:73
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "Portions of this content are ©1998–%(current_year)s by individual\n"
 "      mozilla.org contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
-msgstr "コンテンツの一部は mozilla.org への個人的な貢献によるものです。(©1998–%(current_year)s). コンテンツは <a href=\"%(url)s\">Creative Commons license</a> に基づいた利用が可能です。"
+msgstr ""
+"Portions of this content are ©1998–%(current_year)s by individual\n"
+"      mozilla.org contributors. Content available under\n"
+"      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 
 #: website/site-footer.html:81
 msgid "Contribute to this site"
 msgstr "このサイトに貢献"
 
 #: website/site-prefooter.html:14
-#, fuzzy
 msgid "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users."
-msgstr "Thunderbird はオープンソースプロジェクトです。つまり誰でも、アイデア、デザイン、コード、あるいは他のユーザーを助ける時間を提供できます。Thunderbird ユーザーをサポートするチームの一員となって、Thunderbird を素晴らしい製品にしてください。<a class=\"more\" href=\"%(contribute)s\">参加する</a>"
+msgstr "Thunderbird はオープンソースプロジェクトです。つまり誰でも、アイデア、デザイン、コード、あるいは他のユーザーを助ける時間を提供できます。"
 
 #: website/site-prefooter.html:17
 msgid "Join Us"
-msgstr ""
+msgstr "参加しよう"
 
 #: website/site-prefooter.html:20
-#, fuzzy
 msgid "Make a Donation"
-msgstr "寄付を行う"
+msgstr "寄付"
 
 #: website/site-prefooter.html:22
-#, fuzzy
 msgid "Get Support"
 msgstr "サポート"
 
 #: website/site-prefooter.html:24
 msgid "Report a Bug"
-msgstr ""
+msgstr "バグを報告"
 
 #: website/site-prefooter.html:50
 #, fuzzy
@@ -377,9 +373,8 @@ msgid "Experience cutting edge features. Provide feedback to help refine and pol
 msgstr "一般公開に向けてさらに製品を洗練するため、<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">フィードバックを提供してください</a>"
 
 #: website/site-prefooter.html:55
-#, fuzzy
 msgid "Download Beta"
-msgstr "無料ダウンロード"
+msgstr "Beta 版をダウンロード"
 
 #: website/site-prefooter.html:67
 msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Nightly channel."
@@ -387,7 +382,7 @@ msgstr ""
 
 #: website/site-prefooter.html:71
 msgid "WARNING!"
-msgstr ""
+msgstr "警告！"
 
 #: website/site-prefooter.html:73
 msgid "Nightly is an unstable testing and development platform, make sure you back up important data regularly!"
