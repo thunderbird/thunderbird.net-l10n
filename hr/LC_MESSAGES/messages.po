@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-28 19:50-0800\n"
-"PO-Revision-Date: 2019-12-11 07:50+0000\n"
+"PO-Revision-Date: 2019-12-11 08:05+0000\n"
 "Last-Translator: Mikeyy <mihovil@miho.im>\n"
 "Language-Team: none\n"
 "Language: hr\n"
@@ -113,18 +113,17 @@ msgid "There’s nothing here!"
 msgstr "Ovdje nema ništa!"
 
 #: website/404.html:9
-#, fuzzy, python-format
+#, python-format
 msgid "The page you are looking for doesn’t exist.<br/>If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
-msgstr "Stranica koju ste tražili ne postoji. Ukoliko mislite da je ovo greška, možete <a href=\"%(bug_report_url)s\">prijaviti grešku ovdje</a>."
+msgstr "Stranica koju ste tražili ne postoji.<br/>Ukoliko mislite da je ovo greška, možete <a href=\"%(bug_report_url)s\">prijaviti grešku ovdje</a>."
 
 #: website/404.html:23
 msgid "Empty nest"
 msgstr "Prazno gnijezdo"
 
 #: website/base-resp.html:20 website/site-footer.html:5
-#, fuzzy
 msgid "Thunderbird Vector Wordmark"
-msgstr "Thunderbird Beta"
+msgstr "Thunderbird Vector Wordmark"
 
 #: website/base-resp.html:29 website/base-resp.html:53 website/donate-mailing-list.html:12
 msgid "Donate"
@@ -143,9 +142,8 @@ msgid "Get Involved"
 msgstr "Uključite se"
 
 #: website/base-resp.html:43 website/site-footer.html:18
-#, fuzzy
 msgid "Get Help"
-msgstr "Tražite pomoć"
+msgstr "Potražite pomoć"
 
 #: website/about/index.html:7 website/base-resp.html:46 website/site-footer.html:24
 msgid "About Us"
@@ -198,9 +196,8 @@ msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
 #: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
-#, fuzzy
 msgid "Thunderbird Nightly"
-msgstr "Thunderbird Beta"
+msgstr "Thunderbird Nightly"
 
 #: website/download-button.html:66
 msgid "Systems &amp; Languages"
@@ -299,9 +296,8 @@ msgid "Manage multiple calendars, create your daily to do list, invite friends t
 msgstr "Upravljajte višestrukim kalendarima, napravite svoje dnevne popise zadataka, pozovite prijatelje na događaje ili se pretplatite na javne kalendare."
 
 #: website/index.html:123
-#, fuzzy
 msgid "Explore Features"
-msgstr "Mogućnosti"
+msgstr "Istražite mogućnosti"
 
 #: website/index.html:126
 msgid "Explore More Add-ons"
@@ -324,9 +320,8 @@ msgid "Go"
 msgstr "Kreni"
 
 #: website/site-footer.html:12
-#, fuzzy
 msgid "For Organizations"
-msgstr "Thunderbird za organizacije"
+msgstr "Za organizacije"
 
 #: website/site-footer.html:27
 msgid "Contact Us"
@@ -345,36 +340,33 @@ msgid "Report Trademark Abuse"
 msgstr "Prijavite zloporabu zaštitnog znaka"
 
 #: website/site-footer.html:73
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "Portions of this content are ©1998–%(current_year)s by individual\n"
 "      mozilla.org contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
-"Prava nad dijelovima ovog sadržaja (©1998–%(current_year)s) zadržali su individualni doprinositelji mozilla.org projekta. Sadržaj je dostupan pod <a href=\"%(url)s\">Creative Commons licencom</a>."
+"Prava nad dijelovima ovog sadržaja ©1998–%(current_year)s zadržali su individualni doprinositelji\n"
+"      mozilla.org projekta. Sadržaj je dostupan pod\n"
+"      <a href=\"%(url)s\" class=\"inline-link\">Creative Commons licencom</a>."
 
 #: website/site-footer.html:81
 msgid "Contribute to this site"
 msgstr "Doprinesite ovoj stranici"
 
 #: website/site-prefooter.html:14
-#, fuzzy
 msgid "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users."
-msgstr ""
-"Thunderbird je projekt otvorenog koda, što znači da svatko može doprinjeti idejama, programiranjem i vremenom tako da pomogne kolegama korisnicima. Postanite dio tima koji podržava Thunderbird "
-"korisnike i učinite Thunderbird odličnim. <a class=\"more\" href=\"%(contribute)s\">Pridružite nam se</a>"
+msgstr "Thunderbird je projekt otvorenog koda, što znači da svatko može doprinijeti idejama, dizajnom, programiranjem i vremenom tako da pomogne kolegama korisnicima."
 
 #: website/site-prefooter.html:17
 msgid "Join Us"
 msgstr "Pridruži nam se"
 
 #: website/site-prefooter.html:20
-#, fuzzy
 msgid "Make a Donation"
 msgstr "Donirajte"
 
 #: website/site-prefooter.html:22
-#, fuzzy
 msgid "Get Support"
 msgstr "Podrška"
 
@@ -383,19 +375,16 @@ msgid "Report a Bug"
 msgstr "Prijavi grešku"
 
 #: website/site-prefooter.html:50
-#, fuzzy
 msgid "The Future of Thunderbird"
-msgstr "Što je Thunderbird?"
+msgstr "Budućnost Thunderbirda"
 
 #: website/site-prefooter.html:52
-#, fuzzy
 msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
-msgstr "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Pošalji povratne informacije</a> i pomozi nam poboljšati mogućnosti koje će se naći u konačnom izdanju"
+msgstr "Doživi vrhunske značajke. Pošalji povratne informacije i pomozi nam poboljšati mogućnosti koje će se naći u konačnom izdanju."
 
 #: website/site-prefooter.html:55
-#, fuzzy
 msgid "Download Beta"
-msgstr "Besplatno preuzimanje"
+msgstr "Preuzmi betu"
 
 #: website/site-prefooter.html:67
 msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Nightly channel."
@@ -591,18 +580,16 @@ msgstr ""
 "datumu, oznakama i kontaktima iz vašeg adresara. Filtre možete i \"zakačiti\", te ih koristiti unutar više mapa."
 
 #: website/features/index.html:138
-#, fuzzy
 msgid "Search Tools"
-msgstr "Pretraži"
+msgstr "Alati za pretraživanje"
 
 #: website/features/index.html:140
-#, fuzzy
 msgid ""
 "The search interface in Thunderbird contains filtering and timeline tools to pinpoint the exact email you’re looking for. Thunderbird also indexes all of your emails and chat conversations to help "
 "you search even faster. Your search results are displayed in a tab so you can easily switch back and forth to your search results and other email."
 msgstr ""
-"Sučelje pretraživanja sadrži alate za filtriranje i kronološko sortiranje kako biste pronašli upravo onu poruku koju tražite. Thunderbird također indeksira sve vaše poruke kako bi pretraživanje "
-"poruka učinio još bržim. Rezultati pretraživanja se prikazuju u zasebnoj kartici, stoga se možete jednostavnije prebacivati između rezultata pretraživanja i ostalih poruka."
+"Sučelje pretraživanja sadrži alate za filtriranje i kronološko sortiranje kako biste pronašli upravo onu poruku koju tražite. Thunderbird također indeksira sve vaše poruke i razgovore kako bi "
+"pretraživanje poruka učinio još bržim. Rezultati pretraživanja se prikazuju u zasebnoj kartici, stoga se možete jednostavnije prebacivati između rezultata pretraživanja i ostalih poruka."
 
 #: website/features/index.html:149
 msgid "Message Archive"
@@ -733,9 +720,8 @@ msgstr ""
 "dodatno ojačavanje cjelokupne sigurnosti."
 
 #: website/thunderbird/68.0/whatsnew/index.html:7
-#, fuzzy
 msgid "New in Thunderbird 68"
-msgstr "Thunderbird"
+msgstr "Novo u Thunderbirdu 68"
 
 #: website/thunderbird/68.0/whatsnew/index.html:13
 #, python-format
@@ -788,20 +774,21 @@ msgid "The new Preferences tab also makes it easier to multi-task without the pr
 msgstr "Nova kartica postavki također olakšava višestruke zadatke bez zaboravljanja su vaše postavke prilikom prebacivanja između prozora."
 
 #: website/thunderbird/68.0/whatsnew/index.html:67
-#, fuzzy
 msgid "Other Notable Changes"
-msgstr "Drugi jezici:"
+msgstr "Druge značajne promjene"
 
 #: website/thunderbird/68.0/whatsnew/index.html:70
 msgid ""
 "There are many other smaller changes that make Thunderbird 68 feel polished and powerful including: a new App Menu UI, an updated To/CC/BCC selector in compose, improved attachment management, full "
 "color support across the app, filters can now be set to run periodically, and feed articles now show external attachments as links."
 msgstr ""
+"Postoje mnoge druge male izmjene koje čine Thunderbird 68 boljim i moćnijim: novo sučelje izbornika aplikacije, nadograđeni Prima/CC/BCC odabir prilikom pisanja poruke, poboljšano upravljanje "
+"privicima, podrška punoj paleti boja diljem aplikacije, filteri se sada mogu narediti na povremeno pokretanje i članci preuzeti putem kanala sada prikazuju vanjske privitke kao poveznice."
 
 #: website/thunderbird/68.0/whatsnew/index.html:73
 #, python-format
 msgid "There are many other updates in this release, you can see a list of all of them in the <a href=\"%(release)s\">Thunderbird 68 release notes</a>."
-msgstr ""
+msgstr "Postoje mnoga druga ažuriranja u ovoj inačici, možete provjeriti popis svih u <a href=\"%(release)s\">Thunderbird 68 bilješkama izdanja</a>."
 
 #: website/thunderbird/all/index.html:10
 msgid "Download Thunderbird in your language"
@@ -824,9 +811,8 @@ msgid "Release notes"
 msgstr "Napomene o izdanju"
 
 #: website/thunderbird/all/index.html:41
-#, fuzzy
 msgid "All Releases"
-msgstr "Izdanja"
+msgstr "Sva izdanja"
 
 #: website/thunderbird/all/index.html:55
 msgid "Fully localized versions"
@@ -834,21 +820,19 @@ msgstr "Potpuno prevedene inačice"
 
 #: website/thunderbird/all/index.html:57 website/thunderbird/beta/all/index.html:53
 msgid "Choose your Language and Operating System"
-msgstr ""
+msgstr "Odaberite jezik i operativni sustav"
 
 #: website/thunderbird/beta/all/index.html:10
 msgid "Download Beta in your language"
 msgstr "Preuzmi Beta izdanje na hrvatskom jeziku"
 
 #: website/thunderbird/beta/all/index.html:51
-#, fuzzy
 msgid "Fully localized beta versions"
-msgstr "Potpuno prevedene inačice"
+msgstr "Potpuno prevedene beta inačice"
 
 #: website/thunderbird/releases/index.html:7
-#, fuzzy
 msgid "Thunderbird Release Notes"
-msgstr "Thunderbird izdanja"
+msgstr "Thunderbird bilješke izdanja"
 
 #: website/thunderbird/releases/index.html:8 website/thunderbird/releases/index.html:23
 msgid "Release notes for each version of Thunderbird."
