@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-28 19:50-0800\n"
-"PO-Revision-Date: 2019-12-13 07:59+0000\n"
+"PO-Revision-Date: 2019-12-13 08:31+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language-Team: none\n"
 "Language: zh_TW\n"
@@ -101,7 +101,7 @@ msgstr "這裡什麼都沒有！"
 #: website/404.html:9
 #, python-format
 msgid "The page you are looking for doesn’t exist.<br/>If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
-msgstr "您想要開啟的頁面並不存在。<br/>若您覺得這是一個錯誤，請到<a href=\"%(bug_report_url)s\">回報問題</a>。"
+msgstr "您想要開啟的頁面並不存在。<br/>若您覺得這個情況有誤，請<a href=\"%(bug_report_url)s\">回報問題</a>讓我們知道。"
 
 #: website/404.html:23
 msgid "Empty nest"
@@ -199,7 +199,7 @@ msgstr "隱私權"
 
 #: website/index.html:9
 msgid "Make Email Easier."
-msgstr "收發郵件更簡單。"
+msgstr "收發郵件更簡單"
 
 #: website/index.html:10
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
@@ -488,7 +488,7 @@ msgstr "郵件帳號設定精靈"
 msgid ""
 "Prior to this feature you had to know your IMAP, SMTP, and SSL/TLS settings. Now all you need to provide is your name, email address, and password and the email account set up wizardry will check "
 "our database and find the email settings for you."
-msgstr "以往您需要您郵件帳號的 IMAP、SMTP，以及 SSL/TLS 設定值。您現在只需要輸入姓名、電子郵件地址，以及密碼。設定精靈將會自動從我們的資料庫當中幫您尋找設定值。"
+msgstr "以往您需要輸入複雜的 IMAP、SMTP，以及 SSL/TLS 設定。現在只需要輸入姓名、電子郵件地址，以及密碼，設定精靈將自動從我們的資料庫當中幫您尋找設定值。"
 
 #: website/features/index.html:65
 msgid "One-click Address Book"
@@ -498,7 +498,7 @@ msgstr "快捷通訊錄"
 msgid ""
 "One-click Address Book is a quick and easy way to add people to your address book. Add people by simply clicking on the star icon in the message you receive. Two clicks and you can add more details "
 "like a photo, birthday, and other contact information."
-msgstr "快捷通訊錄是個讓您可以快速將聯絡人加到通訊錄當中的方式。只要點一下您所收到的訊息前面的星星圖示就能將其加入您的通訊錄中，點第二下就能新增聯絡人的照片、生日，或其他詳細資料。"
+msgstr "快捷通訊錄是個讓您可以快速將聯絡人加到通訊錄當中的方式。只要點一下訊息前面的星星圖示就能將其加入您的通訊錄中，點第二下就能新增聯絡人的照片、生日，或其他詳細資料。"
 
 #: website/features/index.html:76
 msgid "Attachment Reminder"
@@ -526,11 +526,11 @@ msgstr "電子郵件分頁"
 msgid ""
 "If you like Firefox’s tabbed browsing, you’re going to love tabbed email. Tabbed email lets you load emails in separate tabs so you can quickly jump between them. Perhaps you’re responding to an "
 "email and need to refer back to an earlier email. Tabbed email lets you keep multiple emails open for easy reference."
-msgstr "若您喜歡 Firefox 的分頁瀏覽功能，那您也一定會喜歡使用分頁閱讀郵件。分頁郵件讓您可以在不同的分頁當中載入電子郵件，這樣您就可以快速地切換。也許您正在回覆某封信，剛好需要參考稍早的另一封郵件，分頁郵件功能就可以讓您保持多封郵件的開啟，以便掌握書信往返的來龍去脈。"
+msgstr "若您喜歡 Firefox 的分頁瀏覽功能，那一定也會喜歡使用分頁閱讀郵件。分頁郵件讓您可以在不同的分頁當中載入電子郵件，這樣就可以快速切換。也許您正在回覆某封信，剛好需要參考稍早的另一封郵件，分頁郵件功能就可以保持開啟多封郵件，以便掌握來龍去脈。"
 
 #: website/features/index.html:114
 msgid "When quitting Thunderbird, visible tabs will be saved and will be restored when you open Thunderbird the next time. There is also a Tab menu on the Tab toolbar to help you switch between Tabs."
-msgstr "離開 Thunderbird 時，開啟的分頁標籤將會被儲存，並在您下次執行 Thunderbird 時還原。在分頁工具列當中也有分頁選單，幫助您在分頁標籤之間切換。"
+msgstr "離開 Thunderbird 時，將會儲存開啟的分頁標籤，並在下次開啟 Thunderbird 時還原。在分頁工具列當中也有分頁選單，幫助您在分頁標籤之間切換。"
 
 #: website/features/index.html:127
 msgid "Quick Filter Toolbar"
@@ -540,7 +540,7 @@ msgstr "快速過濾列"
 msgid ""
 "The Quick Filter Toolbar lets you filter your email faster. Start typing in words in the Quick Filter search box and the results are displayed instantly. Or you can filter your email by New "
 "Messages, Tags, and people in your Address Book. You can also \"Pin\" or save a Filter and use it across multiple folders."
-msgstr "快速過濾列讓您可以更快過濾出您的信件。在快速過濾搜尋框當中輸入文字就會立即顯示搜尋結果。您也可以依據新訊息、分頁標籤，或是您通訊錄裡面的人員等條件進行過濾。您也可以點選圖釘圖示儲存過濾條件，將其使用於任何資料夾。"
+msgstr "快速過濾列讓您可以更快過濾出您的信件。在快速過濾搜尋框當中輸入文字就會立即顯示搜尋結果。也可以依據新訊息、分頁標籤，或是通訊錄裡面的人員等條件進行過濾。您也可以點選圖釘圖示儲存過濾條件，將其使用於任何資料夾。"
 
 #: website/features/index.html:138
 msgid "Search Tools"
@@ -550,7 +550,7 @@ msgstr "搜尋工具"
 msgid ""
 "The search interface in Thunderbird contains filtering and timeline tools to pinpoint the exact email you’re looking for. Thunderbird also indexes all of your emails and chat conversations to help "
 "you search even faster. Your search results are displayed in a tab so you can easily switch back and forth to your search results and other email."
-msgstr "Thunderbird 的搜尋介面包含了篩選與時間軸工具，讓您可以正確地找到想要的那封郵件。Thunderbird 也會幫您所有的電子郵件與聊天對話製作索引，讓搜尋變得更快。搜尋結果會顯示於獨立的分頁當中，如此一來就可以簡單地切換搜尋結果以及其他電子郵件。"
+msgstr "Thunderbird 的搜尋介面包含了篩選與時間軸工具，讓您可以正確地找到想要的那封郵件。Thunderbird 也會幫所有的電子郵件與聊天對話製作索引，讓搜尋變得更快。搜尋結果會顯示於獨立的分頁當中，如此一來就可以簡單地切換搜尋結果以及其他電子郵件。"
 
 #: website/features/index.html:149
 msgid "Message Archive"
@@ -622,7 +622,7 @@ msgstr "釣魚保護"
 msgid ""
 "Thunderbird protects you from email scams which try to trick users into handing over personal and confidential information by indicating when a message is a potential phishing attempt. As a second "
 "line of defense, Thunderbird warns you when you click on a link which appears to be taking you to a different Web site than the one indicated by the URL in the message."
-msgstr "詐騙郵件（或稱為釣魚郵件）常偽裝成您熟悉的網站，以騙取個人資訊。Thunderbird 在偵測到這類郵件時會發出通知，讓您免於詐騙郵件的威脅。Thunderbird 還有第二道對抗詐騙郵件的手段，當您點下的連結跟郵件中顯示的網站不同時，Thunderbird 也會發出警告。"
+msgstr "詐騙郵件（或稱為釣魚郵件）常偽裝成您熟悉的網站，以騙取個人或機密資訊。Thunderbird 在偵測到這類郵件時會發出通知，讓您免於詐騙郵件的威脅。另外也有第二道對抗詐騙郵件的手段：您點下的連結跟郵件中顯示的網站不同時也會發出警告。"
 
 #: website/features/index.html:252
 msgid "Automated Update"
@@ -734,7 +734,7 @@ msgstr "下載來自 Mozilla 獲獎無數的電子郵件軟體，匯入郵件即
 
 #: website/thunderbird/all/index.html:35 website/thunderbird/beta/all/index.html:35
 msgid "Check the system requirements"
-msgstr "檢查系統需求"
+msgstr "確認系統需求"
 
 #: website/thunderbird/all/index.html:38 website/thunderbird/beta/all/index.html:38
 msgid "Release notes"
