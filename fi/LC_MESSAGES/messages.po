@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-28 19:50-0800\n"
-"PO-Revision-Date: 2019-11-28 23:52+0000\n"
+"PO-Revision-Date: 2019-12-14 17:38+0000\n"
 "Last-Translator: Jarmo <jarmo@juslin.me>\n"
 "Language-Team: none\n"
 "Language: fi\n"
@@ -81,7 +81,7 @@ msgstr ""
 #: start-page/release/index.html:38
 #, python-format
 msgid "<a href=\"%(support)s\">Get Support</a>"
-msgstr "<a href=\"%(support)s\">Tuki</a>"
+msgstr "<a href=\"%(support)s\">Etsi apua</a>"
 
 #: start-page/release/index.html:39
 #, python-format
@@ -112,9 +112,9 @@ msgid "There’s nothing here!"
 msgstr "Täällä ei ole mitään!"
 
 #: website/404.html:9
-#, fuzzy, python-format
+#, python-format
 msgid "The page you are looking for doesn’t exist.<br/>If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
-msgstr "Etsimääsi sivua ei ole olemassa. Jos tämä on mielestäsi virhe, voit <a href=\"%(bug_report_url)s\">ilmoittaa asiasta täällä</a>."
+msgstr "Etsimääsi sivua ei ole olemassa.<br/> Jos tämä on mielestäsi virhe, voit <a href=\"%(bug_report_url)s\">ilmoittaa asiasta täällä</a>."
 
 #: website/404.html:23
 msgid "Empty nest"
@@ -142,9 +142,8 @@ msgid "Get Involved"
 msgstr "Tule mukaan"
 
 #: website/base-resp.html:43 website/site-footer.html:18
-#, fuzzy
 msgid "Get Help"
-msgstr "Hae apua"
+msgstr "Etsi ohjeita"
 
 #: website/about/index.html:7 website/base-resp.html:46 website/site-footer.html:24
 msgid "About Us"
@@ -156,19 +155,19 @@ msgstr "Blogi"
 
 #: website/donate-mailing-list.html:7
 msgid "Thunderbird is funded by users like you"
-msgstr ""
+msgstr "Thunderbirdia rahoittavat kaltaisesi käyttäjät"
 
 #: website/donate-mailing-list.html:9
 msgid "Thunderbird is both free and freedom respecting, but we’re also completely funded by donations! Help us sustain the project and continue to improve."
-msgstr ""
+msgstr "Thunderbird on ilmainen ja vapautta kunnioittava, mutta meitä rahoitetaan täysin lahjoituksilla! Auta meitä ylläpitämään hanketta ja jatkamaan kehittämistä."
 
 #: website/donate-mailing-list.html:17
 msgid "Join our Newsletter"
-msgstr ""
+msgstr "Tilaa uutiskirjeemme"
 
 #: website/donate-mailing-list.html:19
 msgid "Keep up with the latest and greatest updates on news, features, events, and previews, and get a sneak peek on the upcoming releases."
-msgstr ""
+msgstr "Pysy ajan tasalla uusimpien ja parhaimpien uutisten, ominaisuuksien, tapahtumien ja esikatselujen päivityksistä ja tutustu tuleviin julkaisuihin."
 
 #: website/donate-mailing-list.html:26
 msgid "Your Email"
@@ -176,7 +175,7 @@ msgstr ""
 
 #: website/donate-mailing-list.html:28
 msgid "Sign me up!"
-msgstr ""
+msgstr "Ilmoittaudun mukaan!"
 
 #: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9
 msgid "Download Thunderbird"
@@ -197,7 +196,6 @@ msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
 #: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
-#, fuzzy
 msgid "Thunderbird Nightly"
 msgstr "Thunderbird Beta"
 
@@ -215,7 +213,7 @@ msgstr "Tietosuoja"
 
 #: website/index.html:9
 msgid "Make Email Easier."
-msgstr ""
+msgstr "Tee sähköpostista helpompaa."
 
 #: website/index.html:10
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
@@ -231,31 +229,31 @@ msgstr "Thunderbird näyttökaappaus"
 
 #: website/index.html:29
 msgid "Tailored for all your needs"
-msgstr ""
+msgstr "Räätälöity kaikkiin tarpeisiisi"
 
 #: website/index.html:32
 msgid "Thunderbird makes email better for you, bringing together speed, privacy and the latest technologies. Focus on what matters and forget about complexity."
-msgstr ""
+msgstr "Thunderbird tuo paremman sähköpostin. Se yhdistää nopeuden, yksityisyyden ja uusimman tekniikan. Keskity tärkeisiin asioihin ja unohda monimutkaisuus."
 
 #: website/index.html:34
 msgid "Explore all Features"
-msgstr ""
+msgstr "Tutustu kaikkiin ominaisuuksiin"
 
 #: website/index.html:41
 msgid "Secure &amp; Private"
-msgstr ""
+msgstr "Turvallinen ja yksityinen"
 
 #: website/index.html:44
 msgid "Multiple features, such as built-in Do Not Track and remote content blocking, work together to ensure your safety and privacy, so you can have peace of mind."
-msgstr ""
+msgstr "Useat ominaisuudet, kuten sisäänrakennettu Älä seuraa- toiminto ja etäsisällön estäminen, varmistavat mielenrauhasi takaamalla yhdessä turvallisuuden ja yksityisyyden."
 
 #: website/index.html:46
 msgid "Know your rights"
-msgstr ""
+msgstr "Tunne oikeutesi"
 
 #: website/index.html:53
 msgid "Highly Customizable"
-msgstr ""
+msgstr "Laajasti muokattavissa"
 
 #: website/index.html:56
 msgid "With Add-ons (Extensions & Themes) and many more features you can change the look and feel of Thunderbird in an instant."
@@ -263,11 +261,11 @@ msgstr ""
 
 #: website/index.html:58
 msgid "Make it personal"
-msgstr ""
+msgstr "Tee siitä henkilökohtainen"
 
 #: website/index.html:66
 msgid "Stay in the loop"
-msgstr ""
+msgstr "Pysy kärryillä"
 
 #: website/index.html:68
 msgid "Keep yourself up to date with recent announcements and releases by following the official Thunderbird Blog!"
@@ -275,27 +273,27 @@ msgstr "Pidä itsesi ajan tasalla viimeisimpien ilmoitusten ja julkaisujen avull
 
 #: website/index.html:92
 msgid "Read the Blog"
-msgstr ""
+msgstr "Tutustu blogiin"
 
 #: website/about/index.html:37 website/index.html:103
 msgid "Lightning Calendar screenshot"
-msgstr ""
+msgstr "Kuvakaappaus Lightning-kalenterista"
 
 #: website/index.html:110
 msgid "Lightning Calendar"
-msgstr ""
+msgstr "Lightning-kalenteri"
 
 #: website/index.html:112
 msgid "Organize your life — it’s about time!"
-msgstr ""
+msgstr "Järjestele elämäsi — on sen aika!"
 
 #: website/index.html:117
 msgid "Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird email."
-msgstr ""
+msgstr "Järjestele aikataulusi ja elämäsi tärkeät tapahtumat kalenterissa, joka on täysin integroitu Thunderbird-sähköpostiisi."
 
 #: website/index.html:120
 msgid "Manage multiple calendars, create your daily to do list, invite friends to events, and subscribe to public calendars."
-msgstr ""
+msgstr "Hallinnoi useita kalentereita, luo päivittäinen tehtäväluettelo, kutsu ystäviä tapahtumiin ja tilaa julkisia kalentereita."
 
 #: website/index.html:123
 #, fuzzy
@@ -304,7 +302,7 @@ msgstr "Ominaisuudet"
 
 #: website/index.html:126
 msgid "Explore More Add-ons"
-msgstr ""
+msgstr "Tutustu muihin lisäosiin"
 
 #: website/download/index.html:35 website/download/index.html:55 website/index.html:142 website/index.html:162
 msgid "Mozilla"
@@ -356,44 +354,36 @@ msgid "Contribute to this site"
 msgstr "Auta sivuston kanssa"
 
 #: website/site-prefooter.html:14
-#, fuzzy
 msgid "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users."
-msgstr ""
-"Thunderbird on avoimen lähdekoodin projekti, mikä tarkoittaa sitä, että kuka tahansa voi osallistua esittämällä ideoita, tekemällä muotoilua, luomalla koodia ja käyttämällä aikaa muiden käyttäjien "
-"opastamiseen. <a class=\"more\" href=\"%(contribute)s\">Liity mukaan</a> tiimiin, joka tukee Thunderbirdin käyttäjiä ja tekee siitä maailman parhaan vapaan sähköpostiohjelman."
+msgstr "Thunderbird on avoimen lähdekoodin projekti, mikä tarkoittaa sitä, että kuka tahansa voi esittää ideoita, malleja, lähdekoodia ja aikaa muiden käyttäjien auttamiseksi."
 
 #: website/site-prefooter.html:17
 msgid "Join Us"
-msgstr ""
+msgstr "Liity joukkoon"
 
 #: website/site-prefooter.html:20
-#, fuzzy
 msgid "Make a Donation"
-msgstr "Lahjoita"
+msgstr "Tee lahjoitus"
 
 #: website/site-prefooter.html:22
-#, fuzzy
 msgid "Get Support"
-msgstr "Tuki"
+msgstr "Etsi apua"
 
 #: website/site-prefooter.html:24
 msgid "Report a Bug"
-msgstr ""
+msgstr "Ilmoita virheestä"
 
 #: website/site-prefooter.html:50
-#, fuzzy
 msgid "The Future of Thunderbird"
-msgstr "Mikä Thunderbird on?"
+msgstr "Thunderbirdin tulevaisuus"
 
 #: website/site-prefooter.html:52
-#, fuzzy
 msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
-msgstr "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Lähetä palautetta</a> ja auta meitä tekemään seuraavasta julkaisuversiosta parempi"
+msgstr "Koe viimeisimmät ominaisuudet. Anna palautetta, jonka avulla voimme parantaa julkaistavan version ominaisuuksia."
 
 #: website/site-prefooter.html:55
-#, fuzzy
 msgid "Download Beta"
-msgstr "Lataa ilmaiseksi"
+msgstr "Lataa Beta-versio"
 
 #: website/site-prefooter.html:67
 msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Nightly channel."
@@ -558,7 +548,7 @@ msgstr ""
 
 #: website/features/index.html:109
 msgid "Tabbed Email"
-msgstr ""
+msgstr "Sähköpostin välilehdet"
 
 #: website/features/index.html:111
 msgid ""
@@ -587,9 +577,8 @@ msgstr ""
 "tietojen mukaan. Voit myös kiinnittää suodattimen eli tallentaa sen ja käyttää sitä useissa kansioissa."
 
 #: website/features/index.html:138
-#, fuzzy
 msgid "Search Tools"
-msgstr "Hae"
+msgstr "Hakutyökalut"
 
 #: website/features/index.html:140
 msgid ""
@@ -613,17 +602,20 @@ msgstr ""
 
 #: website/features/index.html:169
 msgid "Large Files Management"
-msgstr ""
+msgstr "Suurten tiedostojen hallinta"
 
 #: website/features/index.html:171
 msgid "Share large files with Thunderbird Filelink!"
-msgstr ""
+msgstr "Jaa suuria tiedostoja Thunderbird Filelinkilla!"
 
 #: website/features/index.html:175
 msgid ""
 "You can now speed up the transfer of large documents by uploading them to an online storage provider and sharing the link instead of sending the file directly as a message attachment. Improve the "
 "speed of sending email and avoid message rejection if the recipient’s server disallows large files. As an added bonus, you’ll also save space in your sent folder and the recipient’s inbox."
 msgstr ""
+"Voit nyt nopeuttaa suurten asiakirjojen siirtämistä lähettämällä ne verkkotallennuspalveluiden tarjoajalle ja jakamalla linkin sen sijaan, että lähettäisit tiedoston suoraan viestin liitteenä. "
+"Paranna sähköpostin lähetysnopeutta ja välttä viestien hylkääminen, jos vastaanottajan palvelin estää suurien tiedostojen siirtämisen. Lisäbonuksena säästät tilaa myös Lähetetyt-kansiossa ja "
+"vastaanottajan postilaatikossa."
 
 #: website/features/index.html:188
 msgid "Thunderbird Look & Feel"
@@ -634,6 +626,8 @@ msgid ""
 "Themes allow you to change the look of Thunderbird in an instant. Working on getting to inbox zero at night? Turn on the dark theme to make managing your email easier on the eyes. Thunderbird ships "
 "with both light and dark themes, and more are available as add-ons."
 msgstr ""
+"Teemojen avulla voit muuttaa Thunderbirdin ilmettä välittömästi. Haluatko tyhjentää postilaatikkosi yöllä? Ota käyttöön tumma teema ja auta silmiäsi hallinnoimaan sähköpostejasi. Thunderbird "
+"toimitetaan sekä tumman että vaalean teeman kanssa, ja muita teemoja on saatavana lisäosina."
 
 #: website/features/index.html:199
 msgid "Smart Folders"
