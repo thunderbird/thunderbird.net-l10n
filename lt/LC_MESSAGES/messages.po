@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-28 19:50-0800\n"
-"PO-Revision-Date: 2019-12-18 11:49+0000\n"
+"PO-Revision-Date: 2019-12-19 17:13+0000\n"
 "Last-Translator: Eugenijus <eugenijus.januskevicius@gmail.com>\n"
 "Language-Team: none\n"
 "Language: lt\n"
@@ -113,16 +113,15 @@ msgid "There’s nothing here!"
 msgstr "Čia nieko nėra!"
 
 #: website/404.html:9
-#, fuzzy, python-format
+#, python-format
 msgid "The page you are looking for doesn’t exist.<br/>If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
-msgstr "Tinklalapio, kurio ieškote, nėra. Jei manote, kad tai klaida, galite <a href=\"%(bug_report_url)s\">pranešti apie tai čia</a>."
+msgstr "Tinklalapio, kurio ieškote, nėra.<br/>Jei manote, kad tai klaida, apie tai <a href=\"%(bug_report_url)s\">galite pranešti čia</a>."
 
 #: website/404.html:23
 msgid "Empty nest"
 msgstr "Tuščias lizdas"
 
 #: website/base-resp.html:20 website/site-footer.html:5
-#, fuzzy
 msgid "Thunderbird Vector Wordmark"
 msgstr "Thunderbird beta"
 
@@ -143,7 +142,6 @@ msgid "Get Involved"
 msgstr "Įsitraukite"
 
 #: website/base-resp.html:43 website/site-footer.html:18
-#, fuzzy
 msgid "Get Help"
 msgstr "Žinynas ir pagalba"
 
@@ -198,9 +196,8 @@ msgid "Thunderbird Beta"
 msgstr "Thunderbird beta"
 
 #: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
-#, fuzzy
 msgid "Thunderbird Nightly"
-msgstr "Thunderbird beta"
+msgstr "„Thunderbird“ Beta"
 
 #: website/download-button.html:66
 msgid "Systems &amp; Languages"
@@ -268,7 +265,7 @@ msgstr "Prisitaikykite sau"
 
 #: website/index.html:66
 msgid "Stay in the loop"
-msgstr ""
+msgstr "Jauskite pulsą"
 
 #: website/index.html:68
 msgid "Keep yourself up to date with recent announcements and releases by following the official Thunderbird Blog!"
@@ -299,7 +296,6 @@ msgid "Manage multiple calendars, create your daily to do list, invite friends t
 msgstr "Tvarkykite kelis kalendorius, sukurkite savo dienos darbų sąrašą, kvieskite draugus į renginius ir užsiprenumeruokite viešuosius kalendorius."
 
 #: website/index.html:123
-#, fuzzy
 msgid "Explore Features"
 msgstr "Savybės"
 
@@ -324,7 +320,6 @@ msgid "Go"
 msgstr "Keisti"
 
 #: website/site-footer.html:12
-#, fuzzy
 msgid "For Organizations"
 msgstr "„Thunderbird“ organizacijoms"
 
@@ -345,46 +340,42 @@ msgid "Report Trademark Abuse"
 msgstr "Pranešti apie neleistiną prekės ženklo naudojimą"
 
 #: website/site-footer.html:73
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "Portions of this content are ©1998–%(current_year)s by individual\n"
 "      mozilla.org contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
-msgstr "©1998–%(current_year)s. Kai kurių šio turinio dalių autoriai yra atskiri mozilla.org bendradarbiai. Turinys pateikiamas <a href=\"%(url)s\">„Creative Commons“ licencijos</a> sąlygomis."
+msgstr ""
+"©1998–%(current_year)s. Kai kurių šio turinio dalių autoriai yra atskiri mozilla.org bendradarbiai.\n"
+"Turinys pateikiamas <a href=\"%(url)s\">„Creative Commons“ licencijos</a> sąlygomis."
 
 #: website/site-footer.html:81
 msgid "Contribute to this site"
 msgstr "Prisidėkite prie šios svetainės vystymo"
 
 #: website/site-prefooter.html:14
-#, fuzzy
 msgid "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users."
-msgstr ""
-"„Thunderbird“  – tai atvirojo kodo projektas, o tai reiškia, jog kiekvienas gali prisidėti savo idėjomis, maketais, programiniu kodu ar pagalba kitiems programos naudotojams. Tapkite „Thunderbird“ "
-"komandos dalimi ir prisidėkite prie šios programos klestėjimo. <a class=\"more\" href=\"%(contribute)s\">Prisijunkite prie mūsų</a>"
+msgstr "„Thunderbird“ yra atvirojo kodo projektas, o tai reiškia, jog kiekvienas gali prisidėti savo idėjomis, dizainu, programiniu kodu ar pagalba kitiems programos naudotojams."
 
 #: website/site-prefooter.html:17
 msgid "Join Us"
 msgstr "Prisijunkite prie mūsų"
 
 #: website/site-prefooter.html:20
-#, fuzzy
 msgid "Make a Donation"
 msgstr "Paaukokite"
 
 #: website/site-prefooter.html:22
-#, fuzzy
 msgid "Get Support"
-msgstr "Palaikymas"
+msgstr "Pagalba ir palaikymas"
 
 #: website/site-prefooter.html:24
 msgid "Report a Bug"
 msgstr "Praneškite apie klaidą"
 
 #: website/site-prefooter.html:50
-#, fuzzy
 msgid "The Future of Thunderbird"
-msgstr "Kas yra „Thunderbird“?"
+msgstr "„Thunderbird“ ateitis"
 
 #: website/site-prefooter.html:52
 #, fuzzy
@@ -392,9 +383,8 @@ msgid "Experience cutting edge features. Provide feedback to help refine and pol
 msgstr "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Teikite atsiliepimus</a> ir padėkite nušlifuoti tai, kas pateks į galutinę laidą"
 
 #: website/site-prefooter.html:55
-#, fuzzy
 msgid "Download Beta"
-msgstr "Parsisiųskite"
+msgstr "Parsisiųskite \"„Thunderbird“ Beta laidą "
 
 #: website/site-prefooter.html:67
 msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Nightly channel."
@@ -587,17 +577,15 @@ msgstr ""
 "galėsite atrinkti tik neskaitytus, turinčius gaires ar gautus iš adresų knygoje esančių adresatų laiškus. Filtrą galėsite ir užfiksuoti – pažymėti, kad jis būtų išlaikomas, pereinant į kitą aplanką."
 
 #: website/features/index.html:138
-#, fuzzy
 msgid "Search Tools"
 msgstr "Paieška"
 
 #: website/features/index.html:140
-#, fuzzy
 msgid ""
 "The search interface in Thunderbird contains filtering and timeline tools to pinpoint the exact email you’re looking for. Thunderbird also indexes all of your emails and chat conversations to help "
 "you search even faster. Your search results are displayed in a tab so you can easily switch back and forth to your search results and other email."
 msgstr ""
-"„Thunderbird“ paieškos sąsajoje rasite radinių filtravimo įrankius bei laiko juostą. Šios priemonės padės greičiau rasti ieškomus laiškus. Be to, „Thunderbird“ indeksuoja visus jūsų laiškus, tuo "
+"„Thunderbird“ paieškos sąsajoje rasite radinių filtravimo įrankius bei laiko juostą, kurie padės greičiau rasti ieškomus laiškus. Be to, „Thunderbird“ indeksuoja visus jūsų laiškus, tuo "
 "užtikrindama, jog paieška bus dar spartesnė. Visi paieškos rezultatai rodomi atskiroje kortelėje, todėl persijungti tarp radinių ir visų laiškų galite greitai ir patogiai."
 
 #: website/features/index.html:149
@@ -720,9 +708,8 @@ msgstr ""
 "patikros ir įvertinimo priemonėmis."
 
 #: website/thunderbird/68.0/whatsnew/index.html:7
-#, fuzzy
 msgid "New in Thunderbird 68"
-msgstr "Thunderbird"
+msgstr "Kas naujo „Thunderbird“"
 
 #: website/thunderbird/68.0/whatsnew/index.html:13
 #, python-format
@@ -769,9 +756,8 @@ msgid "The new Preferences tab also makes it easier to multi-task without the pr
 msgstr "Naujasis „Nuostatų“ skirtukas palengvina sudėtingesnių užduočių atlikimą, nes perjungiant langus nebereikia prisiminti kur yra jūsų nuostatos."
 
 #: website/thunderbird/68.0/whatsnew/index.html:67
-#, fuzzy
 msgid "Other Notable Changes"
-msgstr "Kitos kalbos:"
+msgstr "Kiti svarbūs pakeitimai"
 
 #: website/thunderbird/68.0/whatsnew/index.html:70
 msgid ""
@@ -805,9 +791,8 @@ msgid "Release notes"
 msgstr "Laidos apžvalga"
 
 #: website/thunderbird/all/index.html:41
-#, fuzzy
 msgid "All Releases"
-msgstr "Laidos"
+msgstr "Visos laidos"
 
 #: website/thunderbird/all/index.html:55
 msgid "Fully localized versions"
@@ -822,14 +807,12 @@ msgid "Download Beta in your language"
 msgstr "Parsisiųskite „Thunderbird beta“ programą, bendraujančią jūsų kalba"
 
 #: website/thunderbird/beta/all/index.html:51
-#, fuzzy
 msgid "Fully localized beta versions"
-msgstr "Visiškai lokalizuotos versijos"
+msgstr "Visiškai lokalizuotos „Thunderbird“ Beta laidos"
 
 #: website/thunderbird/releases/index.html:7
-#, fuzzy
 msgid "Thunderbird Release Notes"
-msgstr "„Thunderbird“ laidos"
+msgstr "„Thunderbird“ laidos apžvalga"
 
 #: website/thunderbird/releases/index.html:8 website/thunderbird/releases/index.html:23
 msgid "Release notes for each version of Thunderbird."
