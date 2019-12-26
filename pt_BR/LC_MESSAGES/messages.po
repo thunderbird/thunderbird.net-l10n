@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-28 19:50-0800\n"
-"PO-Revision-Date: 2019-12-26 14:27+0000\n"
+"PO-Revision-Date: 2019-12-26 21:29+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: none\n"
 "Language: pt_BR\n"
@@ -340,12 +340,14 @@ msgid "Report Trademark Abuse"
 msgstr "Denunciar abuso de marcas registradas"
 
 #: website/site-footer.html:73
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "Portions of this content are ©1998–%(current_year)s by individual\n"
 "      mozilla.org contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
-msgstr "Trechos deste conteúdo possuem direitos reservados (©1998–%(current_year)s) por colaboradores da mozilla.org. Conteúdo disponível sob a licença <a href=\"%(url)s\">Creative Commons</a>."
+msgstr ""
+"Trechos deste conteúdo possuem direitos reservados (©1998–%(current_year)s©1998–%(current_year)s) de colaboradores individuais da mozilla.org. Conteúdo disponível sob uma <a href=\"%(url)s\" class"
+"=\"inline-link\">licença Creative Commons</a>."
 
 #: website/site-footer.html:81
 msgid "Contribute to this site"
@@ -376,9 +378,8 @@ msgid "The Future of Thunderbird"
 msgstr "O futuro do Thunderbird"
 
 #: website/site-prefooter.html:52
-#, fuzzy
 msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
-msgstr "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Deixe a sua opinião</a> para ajudar a refinar e polir o que estará na versão final"
+msgstr "Experimente recursos de ponta. Deixe sua opinião para ajudar a refinar e polir o que estará na versão final."
 
 #: website/site-prefooter.html:55
 msgid "Download Beta"
