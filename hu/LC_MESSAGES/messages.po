@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-28 19:50-0800\n"
-"PO-Revision-Date: 2020-01-03 18:10+0000\n"
+"PO-Revision-Date: 2020-01-03 18:24+0000\n"
 "Last-Translator: Balázs Meskó <meskobalazs@gmail.com>\n"
 "Language-Team: none\n"
 "Language: hu\n"
@@ -743,11 +743,15 @@ msgid ""
 "Filelink attachments that have already been uploaded can now be linked to again instead of having to re-upload them. Also, an account is no longer required to use the default Filelink provider - "
 "<strong>WeTransfer</strong>."
 msgstr ""
+"A már feltöltött fájlhivatkozás mellékletek most már anélkül hivatkozhatók, hogy újra fel kellene töltenie őket. Ezen kívül most már nincs szükség fiókra az alapértelmezett fájlhivatkozás "
+"szolgáltató, a <strong>WeTransfer</strong> használatához."
 
 #: website/thunderbird/68.0/whatsnew/index.html:44
 #, python-format
 msgid "Other Filelink providers like Box and Dropbox are not included by default, but can be added by grabbing the <a href=\"%(dropbox)s\">Dropbox</a> and <a href=\"%(box)s\">Box</a> add-ons."
 msgstr ""
+"Más fájlhivatkozás szolgáltatók, mint a Box és a Dropbox, alapértelmezetten nem érhetők el, de hozzáadhatók a <a href=\"%(dropbox)s\">Dropbox</a> és a <a href=\"%(box)s\">Box</a> kiegészítők "
+"beszerzésével."
 
 #: website/thunderbird/68.0/whatsnew/index.html:52
 msgid "Options/Preferences in a Tab"
@@ -763,7 +767,7 @@ msgstr ""
 
 #: website/thunderbird/68.0/whatsnew/index.html:58
 msgid "The new Preferences tab also makes it easier to multi-task without the problem of losing track of where your preferences are when switching between windows."
-msgstr ""
+msgstr "Az új Beállítások lap megkönnyíti a többfeladatos munkát, mert nem veszíti el a beállításokat az ablakok közötti váltáskor."
 
 #: website/thunderbird/68.0/whatsnew/index.html:67
 msgid "Other Notable Changes"
