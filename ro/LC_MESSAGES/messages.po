@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-28 19:50-0800\n"
-"PO-Revision-Date: 2020-01-08 05:57+0000\n"
+"PO-Revision-Date: 2020-01-08 07:26+0000\n"
 "Last-Translator: robbp <robbpaun@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ro\n"
@@ -114,18 +114,17 @@ msgid "There’s nothing here!"
 msgstr "Nu este nimic aici!"
 
 #: website/404.html:9
-#, fuzzy, python-format
+#, python-format
 msgid "The page you are looking for doesn’t exist.<br/>If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
-msgstr "Pagina pe care o cauți nu există. Dacă crezi că este o defecțiune, poți <a href=\"%(bug_report_url)s\">raporta o problemă aici</a>."
+msgstr "Pagina pe care o cauți nu există. <br/>Dacă crezi că este o defecțiune, poți <a href=\"%(bug_report_url)s\"><a href=\"%(bug_report_url)s\">raporta o problemă aici</a>."
 
 #: website/404.html:23
 msgid "Empty nest"
 msgstr "Imbricare goală"
 
 #: website/base-resp.html:20 website/site-footer.html:5
-#, fuzzy
 msgid "Thunderbird Vector Wordmark"
-msgstr "Thunderbird Beta"
+msgstr "Thunderbird Vector Wordmark"
 
 #: website/base-resp.html:29 website/base-resp.html:53 website/donate-mailing-list.html:12
 msgid "Donate"
@@ -144,7 +143,6 @@ msgid "Get Involved"
 msgstr "Implică-te"
 
 #: website/base-resp.html:43 website/site-footer.html:18
-#, fuzzy
 msgid "Get Help"
 msgstr "Obține ajutor"
 
@@ -158,11 +156,11 @@ msgstr "Blog"
 
 #: website/donate-mailing-list.html:7
 msgid "Thunderbird is funded by users like you"
-msgstr ""
+msgstr "Thunderbird este finanțat de utilizatori ca tine"
 
 #: website/donate-mailing-list.html:9
 msgid "Thunderbird is both free and freedom respecting, but we’re also completely funded by donations! Help us sustain the project and continue to improve."
-msgstr ""
+msgstr "Thunderbird este gratuit și respectă libertățile, dar suntem finanțați complet din donații! Ajută-ne să susținem proiectul și să îmbunătățim în continuare."
 
 #: website/donate-mailing-list.html:17
 msgid "Join our Newsletter"
@@ -170,15 +168,15 @@ msgstr "Abonează-te la buletinul nostru de știri"
 
 #: website/donate-mailing-list.html:19
 msgid "Keep up with the latest and greatest updates on news, features, events, and previews, and get a sneak peek on the upcoming releases."
-msgstr ""
+msgstr "Fii la curent cu cele mai recente și mai grozave noutăți despre știri, funcționalități, evenimente și previzualizări și poți trage cu ochiul la versiunile în pregătire."
 
 #: website/donate-mailing-list.html:26
 msgid "Your Email"
-msgstr ""
+msgstr "Adresa ta de e-mail"
 
 #: website/donate-mailing-list.html:28
 msgid "Sign me up!"
-msgstr ""
+msgstr "Înscrie-mă!"
 
 #: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9
 msgid "Download Thunderbird"
@@ -199,9 +197,8 @@ msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
 #: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
-#, fuzzy
 msgid "Thunderbird Nightly"
-msgstr "Thunderbird Beta"
+msgstr "Thunderbird Nightly"
 
 #: website/download-button.html:66
 msgid "Systems &amp; Languages"
@@ -217,7 +214,7 @@ msgstr "Confidențialitate"
 
 #: website/index.html:9
 msgid "Make Email Easier."
-msgstr ""
+msgstr "Fă mai ușoară utilizarea e-mailului."
 
 #: website/index.html:10
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
@@ -233,19 +230,19 @@ msgstr "Captură de ecran Thunderbird"
 
 #: website/index.html:29
 msgid "Tailored for all your needs"
-msgstr ""
+msgstr "Personalizat pentru toate nevoile tale"
 
 #: website/index.html:32
 msgid "Thunderbird makes email better for you, bringing together speed, privacy and the latest technologies. Focus on what matters and forget about complexity."
-msgstr ""
+msgstr "Thunderbird face mai bună poșta electronică, aducând laolaltă viteza, confidențialitatea și cele mai noi tehnologii. Concentrează-te pe ce contează și uită de complexitate."
 
 #: website/index.html:34
 msgid "Explore all Features"
-msgstr ""
+msgstr "Explorează toate funcționalitățile"
 
 #: website/index.html:41
 msgid "Secure &amp; Private"
-msgstr ""
+msgstr "Securizat &amp; Privat"
 
 #: website/index.html:44
 msgid "Multiple features, such as built-in Do Not Track and remote content blocking, work together to ensure your safety and privacy, so you can have peace of mind."
@@ -300,9 +297,8 @@ msgid "Manage multiple calendars, create your daily to do list, invite friends t
 msgstr ""
 
 #: website/index.html:123
-#, fuzzy
 msgid "Explore Features"
-msgstr "Funcționalități"
+msgstr "Explorează funcționalitățile"
 
 #: website/index.html:126
 msgid "Explore More Add-ons"
@@ -325,9 +321,8 @@ msgid "Go"
 msgstr "Începe"
 
 #: website/site-footer.html:12
-#, fuzzy
 msgid "For Organizations"
-msgstr "Thunderbird pentru organizații"
+msgstr "Pentru organizații"
 
 #: website/site-footer.html:27
 msgid "Contact Us"
@@ -361,44 +356,36 @@ msgid "Contribute to this site"
 msgstr "Contribuie la această pagină"
 
 #: website/site-prefooter.html:14
-#, fuzzy
 msgid "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users."
-msgstr ""
-"Thunderbird este un proiect cu sursă deschisă („open source”), ceea ce înseamnă că oricine poate veni cu idei, concepte, cod și poate investi timp ajutându-i pe ceilalți utilizatori. Alătură-te "
-"echipei care susține utilizatorii Thunderbird și face ca Thunderbird să fie extraordinar. <a class=\"more\" href=\"%(contribute)s\">Înscrie-te în echipa noastră</a>"
+msgstr "Thunderbird este un proiect cu sursă deschisă, ceea ce înseamnă că oricine poate contribui cu idei, concepte, cod și timp investit ajutând ceilalți utilizatori."
 
 #: website/site-prefooter.html:17
 msgid "Join Us"
 msgstr ""
 
 #: website/site-prefooter.html:20
-#, fuzzy
 msgid "Make a Donation"
-msgstr "Faceți o donație"
+msgstr "Fă o donație"
 
 #: website/site-prefooter.html:22
-#, fuzzy
 msgid "Get Support"
-msgstr "Suport"
+msgstr "Obține asistență"
 
 #: website/site-prefooter.html:24
 msgid "Report a Bug"
 msgstr ""
 
 #: website/site-prefooter.html:50
-#, fuzzy
 msgid "The Future of Thunderbird"
-msgstr "Ce este Thunderbird?"
+msgstr "Viitorul Thunderbird"
 
 #: website/site-prefooter.html:52
-#, fuzzy
 msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
-msgstr "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Oferă feedback</a> pentru a ajuta la rafinarea și șlefuirea conținutului lansării finale"
+msgstr "Experimentează funcționalități de ultimă oră. Oferă-ne feedback pentru a ajuta la cizelarea și îmbunătățirea versiunii finale."
 
 #: website/site-prefooter.html:55
-#, fuzzy
 msgid "Download Beta"
-msgstr "Descărcare gratuită"
+msgstr "Descărcare versiune beta"
 
 #: website/site-prefooter.html:67
 msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Nightly channel."
@@ -593,18 +580,16 @@ msgstr ""
 "etichete și oameni din agendă. Poți și fixa sau salva un filtru pentru a-l folosi în direcotare multiple."
 
 #: website/features/index.html:138
-#, fuzzy
 msgid "Search Tools"
-msgstr "Caută"
+msgstr "Unelte de căutare"
 
 #: website/features/index.html:140
-#, fuzzy
 msgid ""
 "The search interface in Thunderbird contains filtering and timeline tools to pinpoint the exact email you’re looking for. Thunderbird also indexes all of your emails and chat conversations to help "
 "you search even faster. Your search results are displayed in a tab so you can easily switch back and forth to your search results and other email."
 msgstr ""
-"Interfața de căutare din Thunderbird conține unelte de filtrare și cronologice care pot localiza exact e-mailul căutat. Thunderbird de asemenea indexează toate e-mailurile și te ajută să cauți chiar"
-" mai rapid. Rezultatele de căutare sunt afișate într-o filă, așa că poți comuta rapid înainte și înapoi între rezultatele de cautare și alte e-mailuri."
+"Interfața de căutare din Thunderbird conține unelte de filtrare și cronologie care pot localiza exact mesajul căutat. În plus, Thunderbird indexează toate mesajele și conversațiile pe chat și te "
+"ajută să faci căutări și mai rapide. Rezultatele căutărilor sunt afișate într-o filă, așa că poți comuta rapid între rezultatele căutărilor și alte mesaje."
 
 #: website/features/index.html:149
 msgid "Message Archive"
@@ -731,9 +716,8 @@ msgstr ""
 " cele mai bune unelte de scanare și evaluare realizate de terți, totul pentru a crește securitatea per total."
 
 #: website/thunderbird/68.0/whatsnew/index.html:7
-#, fuzzy
 msgid "New in Thunderbird 68"
-msgstr "Thunderbird"
+msgstr "Nou în Thunderbird 68"
 
 #: website/thunderbird/68.0/whatsnew/index.html:13
 #, python-format
@@ -780,9 +764,8 @@ msgid "The new Preferences tab also makes it easier to multi-task without the pr
 msgstr ""
 
 #: website/thunderbird/68.0/whatsnew/index.html:67
-#, fuzzy
 msgid "Other Notable Changes"
-msgstr "Alte limbi:"
+msgstr "Alte modificări notabile"
 
 #: website/thunderbird/68.0/whatsnew/index.html:70
 msgid ""
@@ -816,9 +799,8 @@ msgid "Release notes"
 msgstr "Note privind versiunea"
 
 #: website/thunderbird/all/index.html:41
-#, fuzzy
 msgid "All Releases"
-msgstr "Lansări"
+msgstr "Toate versiunile"
 
 #: website/thunderbird/all/index.html:55
 msgid "Fully localized versions"
@@ -833,14 +815,12 @@ msgid "Download Beta in your language"
 msgstr "Descarcă Beta în limba ta"
 
 #: website/thunderbird/beta/all/index.html:51
-#, fuzzy
 msgid "Fully localized beta versions"
-msgstr "Versiuni complet localizate"
+msgstr "Versiuni beta complet localizate"
 
 #: website/thunderbird/releases/index.html:7
-#, fuzzy
 msgid "Thunderbird Release Notes"
-msgstr "Lansările Thunderbird"
+msgstr "Note de lansare Thunderbird"
 
 #: website/thunderbird/releases/index.html:8 website/thunderbird/releases/index.html:23
 msgid "Release notes for each version of Thunderbird."
