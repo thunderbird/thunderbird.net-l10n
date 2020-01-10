@@ -2,21 +2,22 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-28 19:50-0800\n"
-"PO-Revision-Date: 2018-03-03 23:50-0800\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2020-01-10 19:44+0000\n"
+"Last-Translator: Hrant <hrant.mozilla@gmail.com>\n"
 "Language-Team: none\n"
 "Language: hy_AM\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.5.3\n"
+"X-Generator: Pontoon\n"
 
 #: start-page/release/index.html:8
 msgid "Welcome to <span>Thunderbird</span>"
@@ -61,11 +62,13 @@ msgid ""
 "<strong>Thunderbird is funded by users like you! If you like Thunderbird, please consider making a donation.</strong> The best way for you to ensure Thunderbird remains available is to <a "
 "class=\"more\" href=\"%(donate)s\">make a donation.</a>"
 msgstr ""
+"<strong>Thunderbird֊ը ֆինանսավորվում է ձեզ պես օգտվողների կողմից։</strong> Եթե ցանկանում եք համոզված լինել, որ Thunderbird֊ը կմնա մատչելի՝ <a class=\"more\" href=\"%(donate)s\">նվիրատվություն "
+"արեք։</a>"
 
 #: start-page/release/index.html:32
 #, python-format
 msgid "<a href=\"%(contribute)s\">Get Involved</a>"
-msgstr ""
+msgstr "<a href=\"%(contribute)s\">Մասնակցեք</a>"
 
 #: start-page/release/index.html:33
 #, python-format
@@ -73,21 +76,25 @@ msgid ""
 "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users. Become part of a team that supports Thunderbird users, and makes "
 "Thunderbird awesome. <a class=\"more\" href=\"%(contribute)s\">Join us</a>"
 msgstr ""
+"Thunderbird֊ը բաց կոդով նախագիծ է, ինչը նշանակում է, որ յուրաքանչյուրը կարող է նպաստել գաղափարներին, ձևավորմանը, կոդին և ժամանակին՝ օգնելով ընկերակից օգտվողներին։Դարձեք մի թիմ, որը աջակցում է "
+"Thunderbird օգտվողներին և Thunderbird֊ը հիասքանչ է դարձնում։<a class=\"more\" href=\"%(contribute)s\"> միացեք մեզ</a>"
 
 #: start-page/release/index.html:38
 #, python-format
 msgid "<a href=\"%(support)s\">Get Support</a>"
-msgstr ""
+msgstr "<a href=\"%(support)s\"> Ստացեք աջակցություն</a>"
 
 #: start-page/release/index.html:39
 #, python-format
 msgid "Need help with something in Thunderbird? We have a <a href=\"%(support)s\">support page</a> where you can ask questions and read knowledge base articles to learn how to use Thunderbird."
 msgstr ""
+"Ձեզ անհրաժեշտ է ինչ որ բան Thunderbird֊ում։Մենք ունենք <a href=\"%(support)s\"> աջակցության էջը </a>, որտեղ կարող եք հարցեր տալ և կարդալ գիտելիքների բազային հոդվածներ՝ Thunderbird֊ի օգտագործման "
+"համար։"
 
 #: start-page/release/index.html:42
 #, python-format
 msgid "<a href=\"%(bug)s\">Report a Bug</a>"
-msgstr ""
+msgstr "<a href=\"%(bug)s\"> Հաղորդել սխալի մասին</a>"
 
 #: start-page/release/index.html:43
 #, python-format
@@ -99,11 +106,11 @@ msgstr ""
 #: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:137
 #: website/index.html:156 website/site-footer.html:4 website/site-footer.html:45
 msgid "Thunderbird"
-msgstr ""
+msgstr "Thunderbird"
 
 #: website/404.html:8
 msgid "There’s nothing here!"
-msgstr ""
+msgstr "Այստեղ ոչինչ չկա։"
 
 #: website/404.html:9
 #, python-format
@@ -112,7 +119,7 @@ msgstr ""
 
 #: website/404.html:23
 msgid "Empty nest"
-msgstr ""
+msgstr "Դատարկ բույն"
 
 #: website/base-resp.html:20 website/site-footer.html:5
 #, fuzzy
@@ -133,7 +140,7 @@ msgstr "Հավելումներ"
 
 #: website/base-resp.html:40 website/site-footer.html:15 website/site-prefooter.html:9 website/site-prefooter.html:12
 msgid "Get Involved"
-msgstr ""
+msgstr "Միացե՛ք"
 
 #: website/base-resp.html:43 website/site-footer.html:18
 #, fuzzy
@@ -147,7 +154,7 @@ msgstr "Մեր Մասին"
 
 #: website/base-resp.html:49 website/site-footer.html:21
 msgid "Blog"
-msgstr ""
+msgstr "Օրագիր"
 
 #: website/donate-mailing-list.html:7
 msgid "Thunderbird is funded by users like you"
@@ -175,21 +182,21 @@ msgstr ""
 
 #: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9
 msgid "Download Thunderbird"
-msgstr ""
+msgstr "Ներբեռնել Thunderbird֊ը"
 
 #: website/download-button.html:35
 #, python-format
 msgid "Your system doesn't meet the <a href=\"%(url)s\">requirements</a> to run Thunderbird."
-msgstr ""
+msgstr "Thunderbird֊ը գործարկելու համար ձեր համակարգը չի բավարարում <a href=\"%(url)s\"> պահանջները </a>։"
 
 #: website/download-button.html:38
 #, python-format
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
-msgstr ""
+msgstr "Thunderbird տեղադրելու համար հետևեք <a href=\"%(url)s\"> այս հրահանգներին </a>։"
 
 #: website/download-button.html:53 website/site-prefooter.html:47
 msgid "Thunderbird Beta"
-msgstr ""
+msgstr "Thunderbird բետա"
 
 #: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
 #, fuzzy
@@ -222,7 +229,7 @@ msgstr "Ազատ բեռնումներ"
 
 #: website/download/index.html:23 website/index.html:21
 msgid "Thunderbird screenshot"
-msgstr ""
+msgstr "Thunderbird էկրանի հանույթ"
 
 #: website/index.html:29
 msgid "Tailored for all your needs"
@@ -303,7 +310,7 @@ msgstr ""
 
 #: website/download/index.html:35 website/download/index.html:55 website/index.html:142 website/index.html:162
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: website/lang_switcher.html:10
 msgid "Page language:"
@@ -315,7 +322,7 @@ msgstr "Այլ լեզուներ."
 
 #: website/lang_switcher.html:30
 msgid "Go"
-msgstr ""
+msgstr "Գնալ"
 
 #: website/site-footer.html:12
 msgid "For Organizations"
@@ -415,18 +422,21 @@ msgid ""
 "Thunderbird is a free and open source email, newsfeed, chat, and calendaring client, that’s easy to set up and customize. One of the core principles of Thunderbird is the use and promotion of open "
 "standards - this focus is a rejection of our world of closed platforms and services that can’t communicate with each other. We want our users to have freedom and choice in how they communicate."
 msgstr ""
+"Thunderbird֊ը անվճար և բաց կոդով էլփոստի, նորությունների թարմացման,զրույցի և օրացույցավորվող հաճախորդ է, դա հեշտ է կարգավորել և հարմարեցնել։ Thunderbird֊ի հիմնական սկզբունքներից մեկը բաց "
+"ստանդարտների օգտագործումն ու խթանումն է․Այս ուշադրության կենտրոնում մերժված է փակ հենաձևերի և ծառայութոյւնների աշխարհը, որոնք չեն կարող միմյանց հետ շփվել։ Մենք ցանկանում ենք, որ մեր օգտագործողնեը "
+"ունենան ազատություն և ընտրություն, թե ինչպես են նրանք շփվում։"
 
 #: website/about/index.html:46
 msgid "Who We Are"
-msgstr ""
+msgstr "Ով ենք մենք "
 
 #: website/about/index.html:48
 msgid "We are a community making communication free and open."
-msgstr ""
+msgstr "Մենք համայնք ենք, որն ազատ և բաց է հաղորդակցությանը։"
 
 #: website/about/index.html:61
 msgid "Our Community"
-msgstr ""
+msgstr "Մեր համայնքը"
 
 #: website/about/index.html:63
 #, python-format
@@ -435,6 +445,9 @@ msgid ""
 "to learn how you can participate on the Thunderbird team. We also have paid staff working full-time on Thunderbird, <a href=\"%(donate)s\">funded by donations</a> from our users. If you’re curious "
 "about who is working on Thunderbird, check out the <a href=\"%(core_team)s\">list of our core contributors</a>."
 msgstr ""
+"Գոյություն ունի կամավորների խրոխտ մի խումբ, որը ներգրավված է Thunderbird֊ի մշակման գործում և աջակցում է իր օգտագործողներին, ովքեր ողջունում են ձեր ներգրավվածությունը։Ստացեք մեր <a "
+"href=\"%(volunteer)s\"> ներառված էջը</a>՝ իմանալու համար,թե ինչպես կարող եք մասնկացել Thunderbird֊ի թիմում։Մենք նաև վճարել ենք Thunderbird֊ում՝ <a href=\"%(donate)s\"> վճարովի աշխատավարձի վճարմամբ "
+"աշխատող անձնակազմին, որը ֆինանսավորվել է մեր օգտվողների կողմից։Եթե հետաքրքրվում եք, թե ով է աշխատում Thunderbird֊ում, ստուգեք <a href=\"%(core_team)s\"> մեր հիմնական ներդրողների ցուցակը </a>․"
 
 #: website/about/index.html:68
 #, fuzzy
@@ -447,10 +460,12 @@ msgid ""
 "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
 "href=\"%(council)s\">on the Thunderbird wiki</a>."
 msgstr ""
+"Thunderbird նախագիծը ղեկավարվում է յոթ ավագանու կողմից, որոնք փնտրվում են Thunderbird համայնքի ակտիվ ներդրողների կողմից։ Thunderbird խորհրդի ներկայիս ընտրված անդամները կարող են տեսնել <a "
+"href=\"%(council)s\"> Thunderbird վիքիում </a>․ "
 
 #: website/about/index.html:82
 msgid "Thunderbird and Mozilla Foundation"
-msgstr ""
+msgstr "Thunderbird և Mozilla հիմնադրում"
 
 #: website/about/index.html:84
 #, python-format
@@ -783,7 +798,7 @@ msgstr ""
 
 #: website/thunderbird/all/index.html:38 website/thunderbird/beta/all/index.html:38
 msgid "Release notes"
-msgstr ""
+msgstr "Թողարկման նշումներ"
 
 #: website/thunderbird/all/index.html:41
 #, fuzzy
@@ -792,7 +807,7 @@ msgstr "Թողարկումներ"
 
 #: website/thunderbird/all/index.html:55
 msgid "Fully localized versions"
-msgstr ""
+msgstr "Լրիվ տեղայնացված տարբերակներ"
 
 #: website/thunderbird/all/index.html:57 website/thunderbird/beta/all/index.html:53
 msgid "Choose your Language and Operating System"
@@ -800,7 +815,7 @@ msgstr ""
 
 #: website/thunderbird/beta/all/index.html:10
 msgid "Download Beta in your language"
-msgstr ""
+msgstr "Ներբեռնեք բետա ձեր լեզվով"
 
 #: website/thunderbird/beta/all/index.html:51
 msgid "Fully localized beta versions"
@@ -813,7 +828,7 @@ msgstr "Thunderbird-յուրահատկությունները"
 
 #: website/thunderbird/releases/index.html:8 website/thunderbird/releases/index.html:23
 msgid "Release notes for each version of Thunderbird."
-msgstr ""
+msgstr "Թողարկեք գրառումներ Thunderbird֊ի յուրաքանչյուր տարբերակի համար։"
 
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
@@ -828,7 +843,6 @@ msgstr ""
 #~ msgid "About"
 #~ msgstr "Մեր Մասին"
 
-#, fuzzy
 #~ msgid "About the Thunderbird Project."
 #~ msgstr "Աջակցել Thunderbird-ին"
 
