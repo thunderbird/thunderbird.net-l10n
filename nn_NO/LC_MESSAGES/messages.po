@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-28 19:50-0800\n"
-"PO-Revision-Date: 2020-01-15 11:11+0000\n"
+"PO-Revision-Date: 2020-01-15 11:28+0000\n"
 "Last-Translator: Björn I. <bjorni.svindseth@yahoo.com>\n"
 "Language-Team: none\n"
 "Language: nn_NO\n"
@@ -343,6 +343,9 @@ msgid ""
 "      mozilla.org contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
+"Delar av dette innhaldet er ©1998–%(current_year)s individuelle\n"
+"      mozilla.org-bidragsytarar. Innhaldet er tilgjengeleg under\n"
+"      ein <a href=\"%(url)s\" class=\"inline-link\">Creative Commons-lisens</a>."
 
 #: website/site-footer.html:81
 msgid "Contribute to this site"
@@ -444,6 +447,8 @@ msgid ""
 "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
 "href=\"%(council)s\">on the Thunderbird wiki</a>."
 msgstr ""
+"Thunderbird-projektet vert handtert av sju medlemmar, som er valt av dei aktive bidragsytarane til Thunderbird-fellesskapet. Du kan finne ei liste over medlemmane <a href=\"%(council)s\">på "
+"Thunderbird-wikien</a>."
 
 #: website/about/index.html:82
 msgid "Thunderbird and Mozilla Foundation"
@@ -536,6 +541,8 @@ msgid ""
 "Enjoy real-time conversation with your contacts, right from your favorite messaging application, with multiple supported networks. Thunderbird makes it easy to search through both past conversations"
 " and received emails."
 msgstr ""
+"Nyt sanntidssamtale med kontaktane dine, direkte frå favorittmeldingsprogrammet ditt, med fleire støtta nettverk. Thunderbird gjer det enkelt å søkje gjennom både tidlegare samtalar og mottekne "
+"e-postmeldingar."
 
 #: website/features/index.html:109
 msgid "Tabbed Email"
@@ -711,6 +718,8 @@ msgid ""
 "This article describes some of the major changes visible to users in Thunderbird version 68.0. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird 68 release "
 "notes</a>."
 msgstr ""
+"Denne artikkelen skildrar nokre av dei viktigaste endringane som er synlege for brukarar i Thunderbird versjon 68.0. Fullstendige detaljar om alle endringane finn du i <a "
+"href=\"%(release)s\">versjonsnotatet til Thunderbird 68</a>."
 
 #: website/thunderbird/68.0/whatsnew/index.html:25
 msgid "Better Dark Theme"
@@ -729,11 +738,13 @@ msgid ""
 "Filelink attachments that have already been uploaded can now be linked to again instead of having to re-upload them. Also, an account is no longer required to use the default Filelink provider - "
 "<strong>WeTransfer</strong>."
 msgstr ""
+"Filelink-vedlegg som allereie er lasta opp, kan nå koplast til igjen i staden for å måtte laste dei opp på nytt. Ein konto er heller ikkje lenger nødvendig for å bruke standardleverandøren av "
+"Filelink - <strong>WeTransfer</strong>."
 
 #: website/thunderbird/68.0/whatsnew/index.html:44
 #, python-format
 msgid "Other Filelink providers like Box and Dropbox are not included by default, but can be added by grabbing the <a href=\"%(dropbox)s\">Dropbox</a> and <a href=\"%(box)s\">Box</a> add-ons."
-msgstr ""
+msgstr "Andre Filelink-leverandørar som Box og Dropbox er ikkje inkludert som standard, men kan leggjast til ved å installere tillegga <a href=\"%(dropbox)s\">Dropbox</a> og <a href=\"%(box)s\">Box</a>."
 
 #: website/thunderbird/68.0/whatsnew/index.html:52
 msgid "Options/Preferences in a Tab"
@@ -747,7 +758,7 @@ msgstr ""
 
 #: website/thunderbird/68.0/whatsnew/index.html:58
 msgid "The new Preferences tab also makes it easier to multi-task without the problem of losing track of where your preferences are when switching between windows."
-msgstr ""
+msgstr "Den nye fana Innstillingar gjer det òg enklare å gjere fleire oppgåver samtidig utan å miste oversikta over kvar innstillingane dine er når du vekslar mellom vindauge."
 
 #: website/thunderbird/68.0/whatsnew/index.html:67
 msgid "Other Notable Changes"
