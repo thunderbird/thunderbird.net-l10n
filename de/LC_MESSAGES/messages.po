@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-28 19:50-0800\n"
-"PO-Revision-Date: 2019-11-29 09:24+0000\n"
+"PO-Revision-Date: 2020-01-21 16:00+0000\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language-Team: none\n"
 "Language: de\n"
@@ -30,17 +30,17 @@ msgstr "Warum wir Spenden benötigen"
 #: start-page/release/index.html:18
 msgid "Thunderbird is no longer funded by Mozilla. Fortunately there is an active community keeping it running and developing it further. But to survive long term, the project needs funding."
 msgstr ""
-"Thunderbird wird nicht mehr von Mozilla finanziert. Zum Glück gibt es eine aktive Gemeinschaft, die ihn am Laufen hält und weiterentwickelt. Zum langfristigen Überleben braucht das Projekt aber "
-"Geld."
+"Sie wissen vielleicht schon, dass Thunderbird-Verbesserungen nicht mehr von Mozilla bezahlt werden. Zum Glück gibt es eine aktive Gemeinschaft, die ihn am Laufen hält und weiterentwickelt. Zum "
+"langfristigen Überleben braucht das Projekt aber Geld."
 
 #: start-page/release/index.html:21
 msgid ""
 "Thunderbird’s funding goes toward the significant infrastructure and staff that must be maintained to deliver the application to our tens of millions of users. For Thunderbird to survive and "
 "continue to evolve, we need your support and ask for your donation today. All the money donated will go directly to funding Thunderbird development and infrastructure."
 msgstr ""
-"Die Finanzierung von Thunderbird dient der wichtigen Infrastruktur und dem Personal, das unterhalten werden muss, um die Anwendung an unsere Zig-Millionen Nutzer zu verteilen. Damit Thunderbird "
-"überleben und sich weiterentwickeln kann, benötigen wir Ihre Unterstützung und bitten heute um Ihre Spende. Das Geld geht direkt in die Finanzierung der Entwicklung und Infrastruktur von "
-"Thunderbird."
+"Diese finanziellen Mittel werden vor allem für die erforderliche umfangreiche Infrastruktur und die IT-Mitarbeiter benötigt, die dafür sorgen, dass die Software an unsere viele Millionen Nutzer "
+"verteilt werden kann. Durch Ihre Spende ermöglichen Sie, dass Thunderbird eine Zukunft hat und weiterentwickelt werden kann. Die Spenden gehen direkt in die Finanzierung von Infrastruktur und "
+"Weiterentwicklung."
 
 #: start-page/release/index.html:27
 #, python-format
@@ -52,8 +52,8 @@ msgid ""
 "Thunderbird is the leading open source, cross-platform email and calendaring client, free for business and personal use. We want it to stay secure and become even better. A donation will allow us to"
 " hire developers, pay for infrastructure, and continue to improve."
 msgstr ""
-"Thunderbird ist das wichtigste quelloffene, plattformübergreifende E-Mail- und Kalenderprogramm, das für geschäftliche und private Nutzung kostenlos ist. Wir möchten, dass er weiter sicher ist und "
-"noch besser wird. Mit einer Spende können wir Entwickler anstellen, für Infrastruktur bezahlen und noch besser werden."
+"Thunderbird ist das bedeutendste quelloffene und plattformübergreifende E-Mail- und Kalenderprogramm, und es ist für private und geschäftliche Nutzer kostenlos. Wir arbeiten laufend an der "
+"Verbesserung und Weiterentwicklung der Software. Spenden ermöglichen uns, Entwickler einzustellen, unsere Infrastruktur zu finanzieren und eine Weiterentwicklung voranzutreiben."
 
 #: start-page/release/index.html:29
 #, python-format
@@ -61,8 +61,8 @@ msgid ""
 "<strong>Thunderbird is funded by users like you! If you like Thunderbird, please consider making a donation.</strong> The best way for you to ensure Thunderbird remains available is to <a "
 "class=\"more\" href=\"%(donate)s\">make a donation.</a>"
 msgstr ""
-"<strong>Thunderbird wird durch Spenden von Nutzern wie Ihnen finanziert! Wenn Sie Thunderbird mögen, können Sie uns mit einer Spende unterstützen.</strong> Wenn Sie dafür sorgen möchten, dass "
-"Thunderbird weiter existiert, <a class=\"more\" href=\"%(donate)s\">spenden Sie am besten</a>."
+"<strong>Thunderbird wird durch Spenden von Nutzern wie Ihnen finanziert! Wenn Sie Thunderbird mögen, können Sie uns mit einer Spende unterstützen.</strong> Wenn Sie dafür sorgen möchten, dass es "
+"Thunderbird auch in Zukunft noch gibt, <a class=\"more\" href=\"%(donate)s\">spenden Sie bitte!</a>"
 
 #: start-page/release/index.html:32
 #, python-format
@@ -75,8 +75,8 @@ msgid ""
 "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users. Become part of a team that supports Thunderbird users, and makes "
 "Thunderbird awesome. <a class=\"more\" href=\"%(contribute)s\">Join us</a>"
 msgstr ""
-"Thunderbird ist ein quelloffenes Projekt, was bedeutet, dass jeder Ideen, Designs, Quelltext und Zeit für die Hilfe anderer Nutzer beitragen kann. Werden Sie Teil des Teams, das Thunderbird-Nutzer "
-"unterstützt und Thunderbird besser macht. <a class=\"more\" href=\"%(contribute)s\">Machen Sie mit</a>"
+"Thunderbird ist ein quelloffenes Projekt, was bedeutet, dass jeder beitragen kann: Schicken Sie uns Ihre kreativen Ideen und Vorschläge zum Design, arbeiten Sie mit am Quelltext oder stellen Sie "
+"Ihre Zeit zur Verfügung, um anderen Nutzern zu helfen. <a class=\"more\" href=\"%(contribute)s\">Werden Sie Teil des Teams</a>"
 
 #: start-page/release/index.html:38
 #, python-format
@@ -86,7 +86,9 @@ msgstr "<a href=\"%(support)s\">Unterstützung erhalten</a>"
 #: start-page/release/index.html:39
 #, python-format
 msgid "Need help with something in Thunderbird? We have a <a href=\"%(support)s\">support page</a> where you can ask questions and read knowledge base articles to learn how to use Thunderbird."
-msgstr "Benötigen Sie Hilfe mit Thunderbird? Wir haben eine <a href=\"%(support)s\">Hilfeseite</a>, wo Sie Fragen stellen und Lexikonartikel über die Verwendung von Thunderbird lesen können."
+msgstr ""
+"Benötigen Sie Hilfe bei Thunderbird? Wir bieten eine <a href=\"%(support)s\">Hilfeseite</a> – dort können Sie Fragen stellen oder Sie finden in der umfangreichen Wissensdatenbank Anleitungen zur "
+"Verwendung von Thunderbird."
 
 #: start-page/release/index.html:42
 #, python-format
@@ -99,8 +101,8 @@ msgid ""
 "Think you’ve found a problem with Thunderbird? <a href=\"%(bug)s\">Create a bug report</a> so that we can make sure it gets solved. Helping us identify and fix bugs makes for a better Thunderbird "
 "for all."
 msgstr ""
-"Haben Sie einen Fehler in Thunderbird gefunden? <a href=\"%(bug)s\">Erstellen Sie eine Fehlermeldung</a>, damit wir ihn beheben können. Ihre Hilfe beim Finden und Beheben von Fehlern macht "
-"Thunderbird für alle Nutzer besser."
+"Haben Sie einen Fehler in Thunderbird gefunden? <a href=\"%(bug)s\">Erstellen Sie eine Fehlermeldung</a> , damit wir ihn beheben können. Von Ihrer Hilfe beim Auffinden und Beheben von Fehlern "
+"profitieren alle Benutzer von Thunderbird."
 
 #: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:137
 #: website/index.html:156 website/site-footer.html:4 website/site-footer.html:45
@@ -265,7 +267,7 @@ msgstr "Mit Add-ons (Erweiterungen und Themes) und vielen weiteren Funktionen k�
 
 #: website/index.html:58
 msgid "Make it personal"
-msgstr "Persönlich werden"
+msgstr "Ihre persönlichen Einstellungen"
 
 #: website/index.html:66
 msgid "Stay in the loop"
