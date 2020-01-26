@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-28 19:50-0800\n"
-"PO-Revision-Date: 2020-01-26 12:45+0000\n"
+"PO-Revision-Date: 2020-01-26 13:07+0000\n"
 "Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>\n"
 "Language-Team: none\n"
 "Language: kk\n"
@@ -132,7 +132,6 @@ msgid "Get Help"
 msgstr ""
 
 #: website/about/index.html:7 website/base-resp.html:46 website/site-footer.html:24
-#, fuzzy
 msgid "About Us"
 msgstr "Біз туралы"
 
@@ -283,9 +282,8 @@ msgid "Manage multiple calendars, create your daily to do list, invite friends t
 msgstr ""
 
 #: website/index.html:123
-#, fuzzy
 msgid "Explore Features"
-msgstr "Мүмкіндіктері"
+msgstr "Мүмкіндіктерді зерттеу"
 
 #: website/index.html:126
 msgid "Explore More Add-ons"
@@ -328,12 +326,15 @@ msgid "Report Trademark Abuse"
 msgstr "Сауда белгісін заңсыз қолдану туралы хабарлау"
 
 #: website/site-footer.html:73
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "Portions of this content are ©1998–%(current_year)s by individual\n"
 "      mozilla.org contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
-msgstr "Құрама бөліктері ©1998–%(current_year)s жеке mozilla.org үлес қосушыларымен иеленуде. Құрама <a href=\"%(url)s\">Creative Commons лицензиясы</a> аясында қолжетерлік."
+msgstr ""
+"Құрама бөліктері ©1998–%(current_year)s жеке mozilla.org үлес қосушыларымен иеленуде.\n"
+"      Құрама <a href=\"%(url)s\" class=\"inline-link\">Creative Commons лицензиясы</a>\n"
+"      аясында қолжетерлік."
 
 #: website/site-footer.html:81
 msgid "Contribute to this site"
@@ -352,27 +353,24 @@ msgid "Make a Donation"
 msgstr ""
 
 #: website/site-prefooter.html:22
-#, fuzzy
 msgid "Get Support"
-msgstr "Қолдау"
+msgstr "Қолдау алу"
 
 #: website/site-prefooter.html:24
 msgid "Report a Bug"
 msgstr ""
 
 #: website/site-prefooter.html:50
-#, fuzzy
 msgid "The Future of Thunderbird"
-msgstr "Thunderbird өніміне үлес қосу"
+msgstr "Thunderbird болашағы"
 
 #: website/site-prefooter.html:52
 msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
 msgstr ""
 
 #: website/site-prefooter.html:55
-#, fuzzy
 msgid "Download Beta"
-msgstr "Тегін жүктеп алу"
+msgstr "Beta жүктеп алу"
 
 #: website/site-prefooter.html:67
 msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Nightly channel."
@@ -391,9 +389,8 @@ msgid "Download Nightly"
 msgstr ""
 
 #: website/about/index.html:22
-#, fuzzy
 msgid "What is Thunderbird?"
-msgstr "Thunderbird өніміне үлес қосу"
+msgstr "Thunderbird деген не?"
 
 #: website/about/index.html:24
 msgid "Software made to make email easier."
@@ -660,9 +657,8 @@ msgid ""
 msgstr ""
 
 #: website/thunderbird/68.0/whatsnew/index.html:7
-#, fuzzy
 msgid "New in Thunderbird 68"
-msgstr "Thunderbird өніміне үлес қосу"
+msgstr "Thunderbird 68 жаңалықтары"
 
 #: website/thunderbird/68.0/whatsnew/index.html:13
 #, python-format
@@ -709,9 +705,8 @@ msgid "The new Preferences tab also makes it easier to multi-task without the pr
 msgstr ""
 
 #: website/thunderbird/68.0/whatsnew/index.html:67
-#, fuzzy
 msgid "Other Notable Changes"
-msgstr "Басқа тілдер:"
+msgstr "Басқа елеулі өзгерістер"
 
 #: website/thunderbird/68.0/whatsnew/index.html:70
 msgid ""
@@ -745,9 +740,8 @@ msgid "Release notes"
 msgstr ""
 
 #: website/thunderbird/all/index.html:41
-#, fuzzy
 msgid "All Releases"
-msgstr "Шығарылымдар"
+msgstr "Барлық шығарылымдар"
 
 #: website/thunderbird/all/index.html:55
 msgid "Fully localized versions"
@@ -766,9 +760,8 @@ msgid "Fully localized beta versions"
 msgstr ""
 
 #: website/thunderbird/releases/index.html:7
-#, fuzzy
 msgid "Thunderbird Release Notes"
-msgstr "Шығарылым ескертпесі"
+msgstr "Thunderbird шығарылым ескертпесі"
 
 #: website/thunderbird/releases/index.html:8 website/thunderbird/releases/index.html:23
 msgid "Release notes for each version of Thunderbird."
