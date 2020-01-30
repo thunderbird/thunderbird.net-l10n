@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-11-28 19:50-0800\n"
+"POT-Creation-Date: 2020-01-29 21:18-0800\n"
 "PO-Revision-Date: 2019-12-11 14:53+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language-Team: none\n"
@@ -335,21 +335,28 @@ msgid "Legal"
 msgstr "Cyfreithiol"
 
 #: website/site-footer.html:68
+msgid "Participation Guidelines"
+msgstr ""
+
+#: website/site-footer.html:72
 msgid "Report Trademark Abuse"
 msgstr "Adrodd am Gamddefnyddio Nod Masnach"
 
-#: website/site-footer.html:73
-#, python-format
+#: website/site-footer.html:77
+#, fuzzy, python-format
 msgid ""
-"Portions of this content are ©1998–%(current_year)s by individual\n"
-"      mozilla.org contributors. Content available under\n"
+"Thunderbird is now part of\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+"      a wholly owned subsidiary of Mozilla Foundation.\n"
+"      Portions of this content are ©1998–%(current_year)s by individual\n"
+"      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
 "Mae darnau o'r cynnwys yn ©1998–%(current_year)s gan gyfranwyr unigol\n"
 " mozilla.org. Mae'r cynnwys ar gael o dan\n"
 " <a href=\"%(url)s\" class=\"inline-link\">drwydded Creative Commons</a>."
 
-#: website/site-footer.html:81
+#: website/site-footer.html:88
 msgid "Contribute to this site"
 msgstr "Cyfrannwch i'r wefan hon"
 
@@ -426,11 +433,11 @@ msgstr "Pwy Ydym Ni"
 msgid "We are a community making communication free and open."
 msgstr "Rydym yn gymuned sy'n gwneud cyfathrebu'n rhydd ac yn agored."
 
-#: website/about/index.html:61
+#: website/about/index.html:62
 msgid "Our Community"
 msgstr "Ein Cymuned"
 
-#: website/about/index.html:63
+#: website/about/index.html:64
 #, python-format
 msgid ""
 "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
@@ -442,11 +449,11 @@ msgstr ""
 "href=\"%(donate)s\">sy'n cael ei ariannu gan roddion</a> gan ein defnyddwyr. Os hoffech chi wybod pwy sy'n gweithio ar Thunderbird, edrychwch ar y rhestr <a href=\"%(core_team)s\">o'n cyfranwyr "
 "craidd</a>."
 
-#: website/about/index.html:68
+#: website/about/index.html:69
 msgid "Thunderbird Council"
 msgstr "Cyngor Thunderbird"
 
-#: website/about/index.html:70
+#: website/about/index.html:71
 #, python-format
 msgid ""
 "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
@@ -454,28 +461,6 @@ msgid ""
 msgstr ""
 "Mae prosiect Thunderbird yn cael ei lywodraethu gan saith cynghorydd, wedi'u hethol gan gyfranwyr gweithredol cymuned Thunderbird. Gallwch weld aelodau etholedig presennol Cyngor Thunderbird <a "
 "href=\"%(council)s\">ar wiki Thunderbird</a>."
-
-#: website/about/index.html:82
-msgid "Thunderbird and Mozilla Foundation"
-msgstr "Thunderbird a'r Mozilla Foundation"
-
-#: website/about/index.html:84
-#, python-format
-msgid "Thunderbird lives at the nonprofit <a href=\"%(foundation)s\">Mozilla Foundation</a>."
-msgstr "Mae Thunderbird yn byw yn y <a href=\"%(foundation)s\">Mozilla Foundation</a> dim-er-elw."
-
-#: website/about/index.html:89
-#, python-format
-msgid ""
-"Thunderbird is an independent project with its legal and financial home at <a href=\"%(foundation)s\">the Mozilla Foundation</a>. The Mozilla Foundation believes the Internet is a global public "
-"resource that must remain open and accessible to all. It is focused on advocacy issues and keeping the Internet healthy, but is also the sole shareholder in the maker of Firefox, the Mozilla "
-"Corporation. Mozilla exerts no governance over the project, which instead falls to the Thunderbird Council, elected by the Thunderbird project’s community. The Mozilla Foundation became "
-"Thunderbird’s home after an <a href=\"%(home_blog_post)s\">exploration of legal homes in 2017</a>."
-msgstr ""
-"Mae Thunderbird yn brosiect annibynnol gyda'i gartref cyfreithiol ac ariannol yn y <a href=\"%(foundation)s\">Mozilla Foundation</a>. Mae'r Mozilla Foundation yn credu bod y Rhyngrwyd yn adnodd "
-"cyhoeddus byd-eang y mae'n rhaid iddo aros yn agored ac yn hygyrch i bawb. Mae'n canolbwyntio ar faterion eiriolaeth a chadw'r Rhyngrwyd yn iach, ond mae hefyd yr unig gyfranddaliwr gwneuthurwr "
-"Firefox, y Mozilla Corporation. Nid oes gan Mozilla unrhyw rymoedd llywodraethu dros y prosiect, sy'n eiddo i Gyngor Thunderbird, sy'n cael ei ethol gan gymuned prosiect Thunderbird. Daeth y Mozilla"
-" Foundation yn gartref i Thunderbird ar ôl archwilio <a href=\"%(home_blog_post)s\">cartrefi yfreithiol posib yn 2017</a>."
 
 #: website/download/index.html:10
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
@@ -846,6 +831,23 @@ msgstr "Nodiadau ryddhau ar gyfer pob fersiwn o Thunderbird."
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Mae nodiadau rhyddhau Thunderbird yn benodol i bob fersiwn o'r rhaglen. Dewiswch eich fersiwn chi o'r rhestr isod i weld y nodiadau rhyddhau ar ei gyfer."
+
+#~ msgid "Thunderbird and Mozilla Foundation"
+#~ msgstr "Thunderbird a'r Mozilla Foundation"
+
+#~ msgid "Thunderbird lives at the nonprofit <a href=\"%(foundation)s\">Mozilla Foundation</a>."
+#~ msgstr "Mae Thunderbird yn byw yn y <a href=\"%(foundation)s\">Mozilla Foundation</a> dim-er-elw."
+
+#~ msgid ""
+#~ "Thunderbird is an independent project with its legal and financial home at <a href=\"%(foundation)s\">the Mozilla Foundation</a>. The Mozilla Foundation believes the Internet is a global public "
+#~ "resource that must remain open and accessible to all. It is focused on advocacy issues and keeping the Internet healthy, but is also the sole shareholder in the maker of Firefox, the Mozilla "
+#~ "Corporation. Mozilla exerts no governance over the project, which instead falls to the Thunderbird Council, elected by the Thunderbird project’s community. The Mozilla Foundation became "
+#~ "Thunderbird’s home after an <a href=\"%(home_blog_post)s\">exploration of legal homes in 2017</a>."
+#~ msgstr ""
+#~ "Mae Thunderbird yn brosiect annibynnol gyda'i gartref cyfreithiol ac ariannol yn y <a href=\"%(foundation)s\">Mozilla Foundation</a>. Mae'r Mozilla Foundation yn credu bod y Rhyngrwyd yn adnodd "
+#~ "cyhoeddus byd-eang y mae'n rhaid iddo aros yn agored ac yn hygyrch i bawb. Mae'n canolbwyntio ar faterion eiriolaeth a chadw'r Rhyngrwyd yn iach, ond mae hefyd yr unig gyfranddaliwr gwneuthurwr "
+#~ "Firefox, y Mozilla Corporation. Nid oes gan Mozilla unrhyw rymoedd llywodraethu dros y prosiect, sy'n eiddo i Gyngor Thunderbird, sy'n cael ei ethol gan gymuned prosiect Thunderbird. Daeth y Mozilla"
+#~ " Foundation yn gartref i Thunderbird ar ôl archwilio <a href=\"%(home_blog_post)s\">cartrefi yfreithiol posib yn 2017</a>."
 
 #~ msgid "Menu"
 #~ msgstr "Dewislen"

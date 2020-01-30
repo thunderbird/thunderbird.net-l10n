@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
 # taotieren <admin@taotieren.com>, 2019.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-11-28 19:50-0800\n"
+"POT-Creation-Date: 2020-01-29 21:18-0800\n"
 "PO-Revision-Date: 2019-12-01 01:30+0000\n"
 "Last-Translator: passionforlife <eloli@foxmail.com>\n"
 "Language-Team: none\n"
@@ -323,21 +323,28 @@ msgid "Legal"
 msgstr "法律"
 
 #: website/site-footer.html:68
+msgid "Participation Guidelines"
+msgstr ""
+
+#: website/site-footer.html:72
 msgid "Report Trademark Abuse"
 msgstr "报告商标滥用"
 
-#: website/site-footer.html:73
-#, python-format
+#: website/site-footer.html:77
+#, fuzzy, python-format
 msgid ""
-"Portions of this content are ©1998–%(current_year)s by individual\n"
-"      mozilla.org contributors. Content available under\n"
+"Thunderbird is now part of\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+"      a wholly owned subsidiary of Mozilla Foundation.\n"
+"      Portions of this content are ©1998–%(current_year)s by individual\n"
+"      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
 "上述内容中的某些部分系 mozilla.org 志愿者\n"
 "\t\t个人版权所有（©1998–%(current_year)s）。\n"
 "\t\t内容可按<a href=\"%(url)s\" class=\"inline-link\">知识共享许可协议</a>使用。"
 
-#: website/site-footer.html:81
+#: website/site-footer.html:88
 msgid "Contribute to this site"
 msgstr "助力此网站"
 
@@ -411,11 +418,11 @@ msgstr "我们是谁"
 msgid "We are a community making communication free and open."
 msgstr "我们是一个致力于让沟通更自由开放的社区。"
 
-#: website/about/index.html:61
+#: website/about/index.html:62
 msgid "Our Community"
 msgstr "我们的社区"
 
-#: website/about/index.html:63
+#: website/about/index.html:64
 #, python-format
 msgid ""
 "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
@@ -425,36 +432,16 @@ msgstr ""
 "有一群充满激情的志愿者参与 Thunderbird 的开发并帮助用户使用，若您愿意参与亦不胜感激。欢迎查看<a href=\"%(volunteer)s\">参与进来</a>页面了解可协助 Thunderbird 团队做哪些工作。我们也雇佣了全职员工参与 Thunderbird 项目，并<a href=\"%(donate)s\">接受来自用户的捐款</a>。如果您对在 Thunderbird"
 " 团队工作的人感到好奇，请查看<a href=\"%(core_team)s\">我们的核心贡献者列表</a>。"
 
-#: website/about/index.html:68
+#: website/about/index.html:69
 msgid "Thunderbird Council"
 msgstr "Thunderbird 委员会"
 
-#: website/about/index.html:70
+#: website/about/index.html:71
 #, python-format
 msgid ""
 "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
 "href=\"%(council)s\">on the Thunderbird wiki</a>."
 msgstr "Thunderbird 项目由七人委员会管理，成员自 Thunderbird 社区的活跃贡献者中选出。您可以在 <a href=\"%(council)s\">Thunderbird wiki</a> 上看到目前当选的 Thunderbird 委员会成员。"
-
-#: website/about/index.html:82
-msgid "Thunderbird and Mozilla Foundation"
-msgstr "Thunderbird 与 Mozilla 基金会"
-
-#: website/about/index.html:84
-#, python-format
-msgid "Thunderbird lives at the nonprofit <a href=\"%(foundation)s\">Mozilla Foundation</a>."
-msgstr "Thunderbird 扎根于非营利的 <a href=\"%(foundation)s\">Mozilla 基金会</a>。"
-
-#: website/about/index.html:89
-#, python-format
-msgid ""
-"Thunderbird is an independent project with its legal and financial home at <a href=\"%(foundation)s\">the Mozilla Foundation</a>. The Mozilla Foundation believes the Internet is a global public "
-"resource that must remain open and accessible to all. It is focused on advocacy issues and keeping the Internet healthy, but is also the sole shareholder in the maker of Firefox, the Mozilla "
-"Corporation. Mozilla exerts no governance over the project, which instead falls to the Thunderbird Council, elected by the Thunderbird project’s community. The Mozilla Foundation became "
-"Thunderbird’s home after an <a href=\"%(home_blog_post)s\">exploration of legal homes in 2017</a>."
-msgstr ""
-"Thunderbird 是一个独立项目，仅有法律和财务归属于 <a href=\"%(foundation)s\">Mozilla 基金会</a>。Mozilla 基金会相信，互联网是全球的公共资源，必须保持开放且人人可用。它专注于提出倡议并捍卫互联网健康，但同时也是 Firefox 缔造者 Mozilla 公司的唯一股东。本项目并不由 Mozilla 进行任何管理，而是由 "
-"Thunderbird 项目社区选出的 Thunderbird 委员会负责。本项目<a href=\"%(home_blog_post)s\">在 2017 年，探索法律上的组织模式</a>后，Mozilla 基金会成为 Thunderbird 实际的家。"
 
 #: website/download/index.html:10
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
@@ -775,6 +762,21 @@ msgstr "每个版本的 Thunderbird 发行说明。"
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Thunderbird 每个版本均有发行说明。请从下方列表中选择您的版本，阅读该版本的发行说明。"
+
+#~ msgid "Thunderbird and Mozilla Foundation"
+#~ msgstr "Thunderbird 与 Mozilla 基金会"
+
+#~ msgid "Thunderbird lives at the nonprofit <a href=\"%(foundation)s\">Mozilla Foundation</a>."
+#~ msgstr "Thunderbird 扎根于非营利的 <a href=\"%(foundation)s\">Mozilla 基金会</a>。"
+
+#~ msgid ""
+#~ "Thunderbird is an independent project with its legal and financial home at <a href=\"%(foundation)s\">the Mozilla Foundation</a>. The Mozilla Foundation believes the Internet is a global public "
+#~ "resource that must remain open and accessible to all. It is focused on advocacy issues and keeping the Internet healthy, but is also the sole shareholder in the maker of Firefox, the Mozilla "
+#~ "Corporation. Mozilla exerts no governance over the project, which instead falls to the Thunderbird Council, elected by the Thunderbird project’s community. The Mozilla Foundation became "
+#~ "Thunderbird’s home after an <a href=\"%(home_blog_post)s\">exploration of legal homes in 2017</a>."
+#~ msgstr ""
+#~ "Thunderbird 是一个独立项目，仅有法律和财务归属于 <a href=\"%(foundation)s\">Mozilla 基金会</a>。Mozilla 基金会相信，互联网是全球的公共资源，必须保持开放且人人可用。它专注于提出倡议并捍卫互联网健康，但同时也是 Firefox 缔造者 Mozilla 公司的唯一股东。本项目并不由 Mozilla 进行任何管理，而是由 "
+#~ "Thunderbird 项目社区选出的 Thunderbird 委员会负责。本项目<a href=\"%(home_blog_post)s\">在 2017 年，探索法律上的组织模式</a>后，Mozilla 基金会成为 Thunderbird 实际的家。"
 
 #~ msgid "Menu"
 #~ msgstr "菜单"

@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-11-28 19:50-0800\n"
+"POT-Creation-Date: 2020-01-29 21:18-0800\n"
 "PO-Revision-Date: 2019-12-12 10:08+0000\n"
 "Last-Translator: G12r <georgianization@outlook.com>\n"
 "Language-Team: none\n"
@@ -337,21 +337,28 @@ msgid "Legal"
 msgstr "სამართლებრივი საკითხები"
 
 #: website/site-footer.html:68
+msgid "Participation Guidelines"
+msgstr ""
+
+#: website/site-footer.html:72
 msgid "Report Trademark Abuse"
 msgstr "მოხსენება სავაჭრო ნიშნების დარღვევის შესახებ"
 
-#: website/site-footer.html:73
-#, python-format
+#: website/site-footer.html:77
+#, fuzzy, python-format
 msgid ""
-"Portions of this content are ©1998–%(current_year)s by individual\n"
-"      mozilla.org contributors. Content available under\n"
+"Thunderbird is now part of\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+"      a wholly owned subsidiary of Mozilla Foundation.\n"
+"      Portions of this content are ©1998–%(current_year)s by individual\n"
+"      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
 "ამ შიგთავსის ნაწილი შექმნილია mozilla.org პროექტის ცალკეული\n"
 "      მონაწილეების მიერ ©1998–%(current_year)s. მასალა ვრცელდება\n"
 "      <a href=\"%(url)s\" class=\"inline-link\">Creative Commons-ლიცენზიით</a>."
 
-#: website/site-footer.html:81
+#: website/site-footer.html:88
 msgid "Contribute to this site"
 msgstr "შეიტანეთ წვლილი ამ საიტში"
 
@@ -429,11 +436,11 @@ msgstr "ვინ ვართ ჩვენ"
 msgid "We are a community making communication free and open."
 msgstr "ჩვენ ვართ ერთობა, ურთიერთკავშირის თავისუფლებისა და საყოველთაო გახსნილობის უზრუნველსაყოფად."
 
-#: website/about/index.html:61
+#: website/about/index.html:62
 msgid "Our Community"
 msgstr "ჩვენი ერთობა"
 
-#: website/about/index.html:63
+#: website/about/index.html:64
 #, python-format
 msgid ""
 "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
@@ -444,11 +451,11 @@ msgstr ""
 "გვერდი</a> და გაეცანით, თუ როგორ არის შესაძლებელი Thunderbird-ის გუნდში გაწევრიანება. ჩვენ ასევე გვყავს დასაქმებული თანამშრომლები, სრული სამუშაო გრაფიკით Thunderbird-პროექტში, რომლებიც <a "
 "href=\"%(donate)s\">ფინანსდებიან შემოწირულობებით</a> ჩვენი მომხმარებლებისგან. თუ გსურთ გაეცნოთ Thunderbird-ზე მომუშავეთა გუნდს, იხილეთ <a href=\"%(core_team)s\">ჩვენი წვლილის შემტანთა სია</a>."
 
-#: website/about/index.html:68
+#: website/about/index.html:69
 msgid "Thunderbird Council"
 msgstr "Thunderbird-წარმომადგენელი"
 
-#: website/about/index.html:70
+#: website/about/index.html:71
 #, python-format
 msgid ""
 "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
@@ -456,28 +463,6 @@ msgid ""
 msgstr ""
 "Thunderbird-პროექტი იმართება შვიდი წარმომადგენლის მიერ, რომლებსაც ირჩევენ Thunderbird-ის ერთობის მოქმედი წევრები. ამჟამად არჩეული Thunderbird-ის წარმომადგენელთა სია, შეგიძლიათ იხილოთ <a "
 "href=\"%(council)s\">Thunderbird-ის ვიკიზე</a>."
-
-#: website/about/index.html:82
-msgid "Thunderbird and Mozilla Foundation"
-msgstr "Thunderbird და Mozilla-ფონდი"
-
-#: website/about/index.html:84
-#, python-format
-msgid "Thunderbird lives at the nonprofit <a href=\"%(foundation)s\">Mozilla Foundation</a>."
-msgstr "Thunderbird განთავსებულია არამომგებიან <a href=\"%(foundation)s\">Mozilla-ფონდში</a>."
-
-#: website/about/index.html:89
-#, python-format
-msgid ""
-"Thunderbird is an independent project with its legal and financial home at <a href=\"%(foundation)s\">the Mozilla Foundation</a>. The Mozilla Foundation believes the Internet is a global public "
-"resource that must remain open and accessible to all. It is focused on advocacy issues and keeping the Internet healthy, but is also the sole shareholder in the maker of Firefox, the Mozilla "
-"Corporation. Mozilla exerts no governance over the project, which instead falls to the Thunderbird Council, elected by the Thunderbird project’s community. The Mozilla Foundation became "
-"Thunderbird’s home after an <a href=\"%(home_blog_post)s\">exploration of legal homes in 2017</a>."
-msgstr ""
-"Thunderbird არის დამოუკიდებელი პროექტი, სამართლებრივად და ფინანსურად კი <a href=\"%(foundation)s\">Mozilla-ფონდის</a> ნაწილი. Mozilla-ფონდი მიიჩნევს, რომ ინტერნეტი საერთაშორისო საჯარო საშუალებაა და "
-"აუცილებლად უნდა დარჩეს გახსნილი და საყოველთაოდ ხელმისაწვდომი. იგი მიმართულია ინტერნეტის სიჯანსაღის მხარდაჭერისა და შენარჩუნებისკენ, თუმცა აგრეთვე არის Firefox-ის შემქმნელის, Mozilla-კორპორაციის "
-"ერთადერთი მფლობელი. Mozilla ცდილობს არ ჩაერიოს ამ პროექტის მართვაში და სანაცვლოდ, უფლებამოსილება გადასცეს Thunderbird-ის წარმომადგენელს, არჩეულს Thunderbird-პროექტის ერთობის მიერ. Thunderbird "
-"განთავსდა Mozilla-ფონდში <a href=\"%(home_blog_post)s\">ადგილსამყოფლის გარკვევის შედეგად, 2017 წელს</a>."
 
 #: website/download/index.html:10
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
@@ -841,6 +826,23 @@ msgstr "გამოშვების მონაცემები, Thunderbi
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Thunderbird-ის გამოშვებების მონაცემები განსხვავებულია პროგრამის თითოეული ვერსიისთვის. მიუთითეთ თქვენი ვერსია ქვემოთ არსებული ჩამონათვლიდან, შესაბამისი გამოშვების მონაცემების სანახავად."
+
+#~ msgid "Thunderbird and Mozilla Foundation"
+#~ msgstr "Thunderbird და Mozilla-ფონდი"
+
+#~ msgid "Thunderbird lives at the nonprofit <a href=\"%(foundation)s\">Mozilla Foundation</a>."
+#~ msgstr "Thunderbird განთავსებულია არამომგებიან <a href=\"%(foundation)s\">Mozilla-ფონდში</a>."
+
+#~ msgid ""
+#~ "Thunderbird is an independent project with its legal and financial home at <a href=\"%(foundation)s\">the Mozilla Foundation</a>. The Mozilla Foundation believes the Internet is a global public "
+#~ "resource that must remain open and accessible to all. It is focused on advocacy issues and keeping the Internet healthy, but is also the sole shareholder in the maker of Firefox, the Mozilla "
+#~ "Corporation. Mozilla exerts no governance over the project, which instead falls to the Thunderbird Council, elected by the Thunderbird project’s community. The Mozilla Foundation became "
+#~ "Thunderbird’s home after an <a href=\"%(home_blog_post)s\">exploration of legal homes in 2017</a>."
+#~ msgstr ""
+#~ "Thunderbird არის დამოუკიდებელი პროექტი, სამართლებრივად და ფინანსურად კი <a href=\"%(foundation)s\">Mozilla-ფონდის</a> ნაწილი. Mozilla-ფონდი მიიჩნევს, რომ ინტერნეტი საერთაშორისო საჯარო საშუალებაა და "
+#~ "აუცილებლად უნდა დარჩეს გახსნილი და საყოველთაოდ ხელმისაწვდომი. იგი მიმართულია ინტერნეტის სიჯანსაღის მხარდაჭერისა და შენარჩუნებისკენ, თუმცა აგრეთვე არის Firefox-ის შემქმნელის, Mozilla-კორპორაციის "
+#~ "ერთადერთი მფლობელი. Mozilla ცდილობს არ ჩაერიოს ამ პროექტის მართვაში და სანაცვლოდ, უფლებამოსილება გადასცეს Thunderbird-ის წარმომადგენელს, არჩეულს Thunderbird-პროექტის ერთობის მიერ. Thunderbird "
+#~ "განთავსდა Mozilla-ფონდში <a href=\"%(home_blog_post)s\">ადგილსამყოფლის გარკვევის შედეგად, 2017 წელს</a>."
 
 #~ msgid "Menu"
 #~ msgstr "მენიუ"

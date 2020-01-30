@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-11-28 19:50-0800\n"
+"POT-Creation-Date: 2020-01-29 21:18-0800\n"
 "PO-Revision-Date: 2019-05-24 01:50+0000\n"
 "Last-Translator: Hyeonseok Shin <hyeonseok@gmail.com>\n"
 "Language-Team: none\n"
@@ -327,18 +327,25 @@ msgid "Legal"
 msgstr "법률"
 
 #: website/site-footer.html:68
+msgid "Participation Guidelines"
+msgstr ""
+
+#: website/site-footer.html:72
 msgid "Report Trademark Abuse"
 msgstr "상표권 침해 신고 (영문)"
 
-#: website/site-footer.html:73
+#: website/site-footer.html:77
 #, fuzzy, python-format
 msgid ""
-"Portions of this content are ©1998–%(current_year)s by individual\n"
-"      mozilla.org contributors. Content available under\n"
+"Thunderbird is now part of\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+"      a wholly owned subsidiary of Mozilla Foundation.\n"
+"      Portions of this content are ©1998–%(current_year)s by individual\n"
+"      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr "©1998–%(current_year)s. 콘텐츠의 일부는 개별 mozilla.org 공헌자에게 저작권이 있습니다. 콘텐츠는 <a href=\"%(url)s\">Creative Commons license</a>에 의해 사용할 수 있습니다."
 
-#: website/site-footer.html:81
+#: website/site-footer.html:88
 msgid "Contribute to this site"
 msgstr "사이트에 기여하기"
 
@@ -420,11 +427,11 @@ msgstr "만드는 사람들"
 msgid "We are a community making communication free and open."
 msgstr "우리는 자유롭고 열린 의사소통을 만들어가는 커뮤니티입니다."
 
-#: website/about/index.html:61
+#: website/about/index.html:62
 msgid "Our Community"
 msgstr "커뮤니티"
 
-#: website/about/index.html:63
+#: website/about/index.html:64
 #, python-format
 msgid ""
 "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
@@ -434,37 +441,16 @@ msgstr ""
 "Thunderbird를 개발하고 사용자를 도우며 참여를 희망하는 사람을 환영하는 열정적인 자원봉사 팀이 있습니다. <a href=\"%(volunteer)s\">참여하기 페이지</a>에 방문하여 Thunderbird 팀에 어떻게 참여할 수 있는지 확인하세요. 우리는 사용자가 <a href=\"%(donate)s\">지원한 자금</a>으로 "
 "Thunderbird를 개발하는 정규직 개발자도 채용하였습니다. Thunderbird를 누가 개발하는지 궁금하시다면, <a href=\"%(core_team)s\">핵심 기여자 명단</a>을 확인하세요."
 
-#: website/about/index.html:68
+#: website/about/index.html:69
 msgid "Thunderbird Council"
 msgstr "Thunderbird 이사회"
 
-#: website/about/index.html:70
+#: website/about/index.html:71
 #, python-format
 msgid ""
 "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
 "href=\"%(council)s\">on the Thunderbird wiki</a>."
 msgstr "Thunderbird 프로젝트는 Thunderbird 커뮤니티의 중요 기여자가 선출한 7명의 위원이 운영합니다. <a href=\"%(council)s\">Thunderbird 위키</a>에서 현재 선출된 Thunderbird 위원을 확인할 수 있습니다."
-
-#: website/about/index.html:82
-msgid "Thunderbird and Mozilla Foundation"
-msgstr "Thunderbird와 Mozilla 재단"
-
-#: website/about/index.html:84
-#, python-format
-msgid "Thunderbird lives at the nonprofit <a href=\"%(foundation)s\">Mozilla Foundation</a>."
-msgstr "Thunderbird는 비영리 <a href=\"%(foundation)s\">Mozilla 재단</a>에서 살아갑니다."
-
-#: website/about/index.html:89
-#, python-format
-msgid ""
-"Thunderbird is an independent project with its legal and financial home at <a href=\"%(foundation)s\">the Mozilla Foundation</a>. The Mozilla Foundation believes the Internet is a global public "
-"resource that must remain open and accessible to all. It is focused on advocacy issues and keeping the Internet healthy, but is also the sole shareholder in the maker of Firefox, the Mozilla "
-"Corporation. Mozilla exerts no governance over the project, which instead falls to the Thunderbird Council, elected by the Thunderbird project’s community. The Mozilla Foundation became "
-"Thunderbird’s home after an <a href=\"%(home_blog_post)s\">exploration of legal homes in 2017</a>."
-msgstr ""
-"Thunderbird는 법률과 재무를 <a href=\"%(foundation)s\">Mozilla 재단</a>에서 진행하는 독립된 프로젝트 입니다. Mozilla 재단은 인터넷이 공공 자원이고 모든 사람이 접근할 수 있어야 한다고 믿습니다. 재단은 이슈를 지지하고 인터넷을 건강하게 유지하는 일에 초점을 맞추고 있지만 또한 Firefox를 만들고 있는 "
-"Mozilla Corporation의 단일 주주이기도 합니다. Mozilla는 Thunderbird 프로젝트 커뮤니티에 의해서 선출된 Thunderbird의회에 어떠한 지배력도 행사하지 않습니다. Mozilla 재단은 <a href=\"%(home_blog_post)s\">exploration of legal homes in 2017년 법적인 "
-"과정</a>을 거쳐서 Thunderbird의 집이 되었습니다."
 
 #: website/download/index.html:10
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
@@ -798,6 +784,22 @@ msgstr "각 버전의 Thunderbird 출시 기록"
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Thunderbird 출시 기록은 특정 버전의 애플리케이션에만 해당됩니다. 사용하고 계신 버전을 목록에서 찾아 출시 기록을 확인하세요."
+
+#~ msgid "Thunderbird and Mozilla Foundation"
+#~ msgstr "Thunderbird와 Mozilla 재단"
+
+#~ msgid "Thunderbird lives at the nonprofit <a href=\"%(foundation)s\">Mozilla Foundation</a>."
+#~ msgstr "Thunderbird는 비영리 <a href=\"%(foundation)s\">Mozilla 재단</a>에서 살아갑니다."
+
+#~ msgid ""
+#~ "Thunderbird is an independent project with its legal and financial home at <a href=\"%(foundation)s\">the Mozilla Foundation</a>. The Mozilla Foundation believes the Internet is a global public "
+#~ "resource that must remain open and accessible to all. It is focused on advocacy issues and keeping the Internet healthy, but is also the sole shareholder in the maker of Firefox, the Mozilla "
+#~ "Corporation. Mozilla exerts no governance over the project, which instead falls to the Thunderbird Council, elected by the Thunderbird project’s community. The Mozilla Foundation became "
+#~ "Thunderbird’s home after an <a href=\"%(home_blog_post)s\">exploration of legal homes in 2017</a>."
+#~ msgstr ""
+#~ "Thunderbird는 법률과 재무를 <a href=\"%(foundation)s\">Mozilla 재단</a>에서 진행하는 독립된 프로젝트 입니다. Mozilla 재단은 인터넷이 공공 자원이고 모든 사람이 접근할 수 있어야 한다고 믿습니다. 재단은 이슈를 지지하고 인터넷을 건강하게 유지하는 일에 초점을 맞추고 있지만 또한 Firefox를 만들고 있는 "
+#~ "Mozilla Corporation의 단일 주주이기도 합니다. Mozilla는 Thunderbird 프로젝트 커뮤니티에 의해서 선출된 Thunderbird의회에 어떠한 지배력도 행사하지 않습니다. Mozilla 재단은 <a href=\"%(home_blog_post)s\">exploration of legal homes in 2017년 법적인 "
+#~ "과정</a>을 거쳐서 Thunderbird의 집이 되었습니다."
 
 #~ msgid "Menu"
 #~ msgstr "메뉴"

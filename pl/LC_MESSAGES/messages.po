@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-11-28 19:50-0800\n"
+"POT-Creation-Date: 2020-01-29 21:18-0800\n"
 "PO-Revision-Date: 2020-01-25 13:46+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: none\n"
@@ -334,21 +334,28 @@ msgid "Legal"
 msgstr "Podstawa prawna"
 
 #: website/site-footer.html:68
+msgid "Participation Guidelines"
+msgstr ""
+
+#: website/site-footer.html:72
 msgid "Report Trademark Abuse"
 msgstr "Nadużycie znaków towarowych"
 
-#: website/site-footer.html:73
-#, python-format
+#: website/site-footer.html:77
+#, fuzzy, python-format
 msgid ""
-"Portions of this content are ©1998–%(current_year)s by individual\n"
-"      mozilla.org contributors. Content available under\n"
+"Thunderbird is now part of\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+"      a wholly owned subsidiary of Mozilla Foundation.\n"
+"      Portions of this content are ©1998–%(current_year)s by individual\n"
+"      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
 "Fragmenty treści tej witryny: ©1998–%(current_year)s. Prawa autorskie\n"
 "      należą do poszczególnych współtwórców witryny mozilla.org.\n"
 "      Treść strony dostępna na licencji <a href=\"%(url)s\" class=\"inline-link\">Creative Commons</a>."
 
-#: website/site-footer.html:81
+#: website/site-footer.html:88
 msgid "Contribute to this site"
 msgstr "Pomóż tworzyć tę witrynę"
 
@@ -413,8 +420,8 @@ msgid ""
 "Thunderbird is a free and open source email, newsfeed, chat, and calendaring client, that’s easy to set up and customize. One of the core principles of Thunderbird is the use and promotion of open "
 "standards - this focus is a rejection of our world of closed platforms and services that can’t communicate with each other. We want our users to have freedom and choice in how they communicate."
 msgstr ""
-"Thunderbird to klient poczty, czytnik aktualności, komunikator i kalendarz będący wolnym oprogramowaniem o otwartym kodzie źródłowym (open source), który jest łatwy do skonfigurowania "
-"i dostosowania. Jedną z głównych zasad Thunderbirda jest używanie i promowanie otwartych standardów — odrzucamy świat zamkniętych platform i serwisów, które nie mogą komunikować się między sobą. "
+"Thunderbird to klient poczty, czytnik aktualności, komunikator i kalendarz będący wolnym oprogramowaniem o otwartym kodzie źródłowym (open source), który jest łatwy do skonfigurowania i "
+"dostosowania. Jedną z głównych zasad Thunderbirda jest używanie i promowanie otwartych standardów — odrzucamy świat zamkniętych platform i serwisów, które nie mogą komunikować się między sobą. "
 "Chcemy, aby nasi użytkownicy mieli wolność wyboru sposobu, w jaki się komunikują."
 
 #: website/about/index.html:46
@@ -425,11 +432,11 @@ msgstr "Kim jesteśmy"
 msgid "We are a community making communication free and open."
 msgstr "Jesteśmy społecznością, której celem jest wolna i otwarta komunikacja."
 
-#: website/about/index.html:61
+#: website/about/index.html:62
 msgid "Our Community"
 msgstr "Nasza społeczność"
 
-#: website/about/index.html:63
+#: website/about/index.html:64
 #, python-format
 msgid ""
 "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
@@ -440,11 +447,11 @@ msgstr ""
 "można uczestniczyć w działaniach zespołu Thunderbirda. Są także osoby zatrudnione na pełny etat do pracy nad Thunderbirdem dzięki <a href=\"%(donate)s\">datkom</a> od naszych użytkowników. Jeśli "
 "ciekawi Cię, kto pracuje nad Thunderbirdem, zobacz <a href=\"%(core_team)s\">listę głównych współtwórców</a>."
 
-#: website/about/index.html:68
+#: website/about/index.html:69
 msgid "Thunderbird Council"
 msgstr "Rada Thunderbirda"
 
-#: website/about/index.html:70
+#: website/about/index.html:71
 #, python-format
 msgid ""
 "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
@@ -452,28 +459,6 @@ msgid ""
 msgstr ""
 "Projekt Thunderbird jest kierowany przez siedmioro radnych, wybieranych przez aktywnych uczestników społeczności Thunderbirda. <a href=\"%(council)s\">Wiki projektu</a> zawiera informacje o obecnie "
 "wybranych członkach Rady Thunderbirda."
-
-#: website/about/index.html:82
-msgid "Thunderbird and Mozilla Foundation"
-msgstr "Thunderbird a Fundacja Mozilli"
-
-#: website/about/index.html:84
-#, python-format
-msgid "Thunderbird lives at the nonprofit <a href=\"%(foundation)s\">Mozilla Foundation</a>."
-msgstr "Thunderbird ma swój dom w <a href=\"%(foundation)s\">Fundacji Mozilli</a>, organizacji non-profit."
-
-#: website/about/index.html:89
-#, python-format
-msgid ""
-"Thunderbird is an independent project with its legal and financial home at <a href=\"%(foundation)s\">the Mozilla Foundation</a>. The Mozilla Foundation believes the Internet is a global public "
-"resource that must remain open and accessible to all. It is focused on advocacy issues and keeping the Internet healthy, but is also the sole shareholder in the maker of Firefox, the Mozilla "
-"Corporation. Mozilla exerts no governance over the project, which instead falls to the Thunderbird Council, elected by the Thunderbird project’s community. The Mozilla Foundation became "
-"Thunderbird’s home after an <a href=\"%(home_blog_post)s\">exploration of legal homes in 2017</a>."
-msgstr ""
-"Thunderbird to niezależny projekt mający swoją prawną i finansową bazę w ramach <a href=\"%(foundation)s\">Fundacji Mozilli</a>. Fundacja Mozilli wierzy, że Internet to globalny, publiczny zasób, "
-"który musi pozostać otwarty i dostępny dla wszystkich. Fundacja skupia się na sprawach obrony praw i zachowaniu zdrowego Internetu, ale jest także jedynym udziałowcem twórcy Firefoksa, Mozilla "
-"Corporation. Mozilla nie sprawuje nadzoru nad projektem, który jest kierowany przez Radę Thunderbirda wybieraną przez jego społeczność. Fundacja Mozilli stała się prawnym domem Thunderbirda po tym, "
-"jak <a href=\"%(home_blog_post)s\">zbadaliśmy możliwe opcje w 2017 roku</a>."
 
 #: website/download/index.html:10
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
@@ -545,8 +530,8 @@ msgid ""
 "Enjoy real-time conversation with your contacts, right from your favorite messaging application, with multiple supported networks. Thunderbird makes it easy to search through both past conversations"
 " and received emails."
 msgstr ""
-"Ciesz się rozmowami ze swoimi znajomymi w czasie rzeczywistym bezpośrednio w Twoim ulubionym kliencie poczty dzięki wielu obsługiwanym sieciom. Thunderbird ułatwia przeszukiwanie odbytych rozmów "
-"i otrzymanych wiadomości e-mail."
+"Ciesz się rozmowami ze swoimi znajomymi w czasie rzeczywistym bezpośrednio w Twoim ulubionym kliencie poczty dzięki wielu obsługiwanym sieciom. Thunderbird ułatwia przeszukiwanie odbytych rozmów i "
+"otrzymanych wiadomości e-mail."
 
 #: website/features/index.html:109
 msgid "Tabbed Email"
@@ -626,8 +611,8 @@ msgid ""
 "Themes allow you to change the look of Thunderbird in an instant. Working on getting to inbox zero at night? Turn on the dark theme to make managing your email easier on the eyes. Thunderbird ships "
 "with both light and dark themes, and more are available as add-ons."
 msgstr ""
-"Motywy pozwalają błyskawicznie zmieniać wygląd Thunderbirda. Pracujesz nad zaległymi odpowiedziami w nocy? Włącz ciemny motyw, aby Twoje oczy trochę odpoczęły. Thunderbird domyślnie zawiera jasny "
-"i ciemny motyw, a więcej jest dostępnych jako dodatki."
+"Motywy pozwalają błyskawicznie zmieniać wygląd Thunderbirda. Pracujesz nad zaległymi odpowiedziami w nocy? Włącz ciemny motyw, aby Twoje oczy trochę odpoczęły. Thunderbird domyślnie zawiera jasny i "
+"ciemny motyw, a więcej jest dostępnych jako dodatki."
 
 #: website/features/index.html:199
 msgid "Smart Folders"
@@ -684,8 +669,8 @@ msgid ""
 "languages."
 msgstr ""
 "System automatycznych aktualizacji sprawdza, czy użytkownik używa najnowszej wersji programu, informując w razie konieczności o dostępnych uaktualnieniach. Pliki aktualizacji bezpieczeństwa są małe "
-"(przeważnie poniżej 1 MB), aby uczynić proces aktualizacji możliwie szybkim i bezbolesnym. System automatycznych aktualizacji działa dla systemów Windows, macOS oraz Linux, dostarczając poprawki "
-"w ponad 40 językach."
+"(przeważnie poniżej 1 MB), aby uczynić proces aktualizacji możliwie szybkim i bezbolesnym. System automatycznych aktualizacji działa dla systemów Windows, macOS oraz Linux, dostarczając poprawki w "
+"ponad 40 językach."
 
 #: website/features/index.html:261
 msgid "Cutting Out the Junk"
@@ -838,6 +823,23 @@ msgstr "Informacje o wydaniu dla każdej wersji Thunderbirda."
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Informacje o wydaniu Thunderbirda są różne dla każdej wersji. Wybierz swoją wersję z poniższej listy, aby wyświetlić jej informacje o wydaniu."
 
+#~ msgid "Thunderbird and Mozilla Foundation"
+#~ msgstr "Thunderbird a Fundacja Mozilli"
+
+#~ msgid "Thunderbird lives at the nonprofit <a href=\"%(foundation)s\">Mozilla Foundation</a>."
+#~ msgstr "Thunderbird ma swój dom w <a href=\"%(foundation)s\">Fundacji Mozilli</a>, organizacji non-profit."
+
+#~ msgid ""
+#~ "Thunderbird is an independent project with its legal and financial home at <a href=\"%(foundation)s\">the Mozilla Foundation</a>. The Mozilla Foundation believes the Internet is a global public "
+#~ "resource that must remain open and accessible to all. It is focused on advocacy issues and keeping the Internet healthy, but is also the sole shareholder in the maker of Firefox, the Mozilla "
+#~ "Corporation. Mozilla exerts no governance over the project, which instead falls to the Thunderbird Council, elected by the Thunderbird project’s community. The Mozilla Foundation became "
+#~ "Thunderbird’s home after an <a href=\"%(home_blog_post)s\">exploration of legal homes in 2017</a>."
+#~ msgstr ""
+#~ "Thunderbird to niezależny projekt mający swoją prawną i finansową bazę w ramach <a href=\"%(foundation)s\">Fundacji Mozilli</a>. Fundacja Mozilli wierzy, że Internet to globalny, publiczny zasób, "
+#~ "który musi pozostać otwarty i dostępny dla wszystkich. Fundacja skupia się na sprawach obrony praw i zachowaniu zdrowego Internetu, ale jest także jedynym udziałowcem twórcy Firefoksa, Mozilla "
+#~ "Corporation. Mozilla nie sprawuje nadzoru nad projektem, który jest kierowany przez Radę Thunderbirda wybieraną przez jego społeczność. Fundacja Mozilli stała się prawnym domem Thunderbirda po tym, "
+#~ "jak <a href=\"%(home_blog_post)s\">zbadaliśmy możliwe opcje w 2017 roku</a>."
+
 #~ msgid "Menu"
 #~ msgstr "Menu"
 
@@ -909,8 +911,8 @@ msgstr "Informacje o wydaniu Thunderbirda są różne dla każdej wersji. Wybie
 #~ "languages."
 #~ msgstr ""
 #~ "System automatycznych aktualizacji sprawdza, czy użytkownik używa najnowszej wersji programu, informując w razie konieczności o dostępnych uaktualnieniach. Pliki aktualizacji bezpieczeństwa są małe "
-#~ "(przeważnie poniżej 1 MB), aby uczynić proces aktualizacji możliwie szybkim i bezbolesnym. System automatycznych aktualizacji działa dla systemów Windows, OS X oraz Linux, dostarczając poprawki "
-#~ "w ponad 40 językach."
+#~ "(przeważnie poniżej 1 MB), aby uczynić proces aktualizacji możliwie szybkim i bezbolesnym. System automatycznych aktualizacji działa dla systemów Windows, OS X oraz Linux, dostarczając poprawki w "
+#~ "ponad 40 językach."
 
 #~ msgid "Mozilla Thunderbird Release Notes"
 #~ msgstr "Informacje o wydaniu Mozilli Thunderbird"

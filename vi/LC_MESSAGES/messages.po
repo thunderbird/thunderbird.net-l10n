@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-11-28 19:50-0800\n"
+"POT-Creation-Date: 2020-01-29 21:18-0800\n"
 "PO-Revision-Date: 2019-12-17 11:17+0000\n"
 "Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
 "Language-Team: none\n"
@@ -334,21 +334,28 @@ msgid "Legal"
 msgstr "Thông tin pháp lý"
 
 #: website/site-footer.html:68
+msgid "Participation Guidelines"
+msgstr ""
+
+#: website/site-footer.html:72
 msgid "Report Trademark Abuse"
 msgstr "Báo cáo lạm dụng thương hiệu"
 
-#: website/site-footer.html:73
-#, python-format
+#: website/site-footer.html:77
+#, fuzzy, python-format
 msgid ""
-"Portions of this content are ©1998–%(current_year)s by individual\n"
-"      mozilla.org contributors. Content available under\n"
+"Thunderbird is now part of\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+"      a wholly owned subsidiary of Mozilla Foundation.\n"
+"      Portions of this content are ©1998–%(current_year)s by individual\n"
+"      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
 "Các phần của nội dung này giữ bản quyền ©1998–%(current_year)s theo từng cá nhân\n"
 "      người đóng góp mozilla.org. Nội dung có sẵn dưới\n"
 "      <a href=\"%(url)s\" class=\"inline-link\">giấy phép Creative Commons</a>."
 
-#: website/site-footer.html:81
+#: website/site-footer.html:88
 msgid "Contribute to this site"
 msgstr "Đóng góp cho trang web này"
 
@@ -425,11 +432,11 @@ msgstr "Chúng ta là ai"
 msgid "We are a community making communication free and open."
 msgstr "Chúng tôi là một cộng đồng làm cho giao tiếp miễn phí và cởi mở."
 
-#: website/about/index.html:61
+#: website/about/index.html:62
 msgid "Our Community"
 msgstr "Cộng đồng của chúng tôi"
 
-#: website/about/index.html:63
+#: website/about/index.html:64
 #, python-format
 msgid ""
 "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
@@ -441,11 +448,11 @@ msgstr ""
 "trợ bởi các khoản đóng góp</a> từ người dùng của chúng tôi. Nếu bạn tò mò về người đang làm việc trên Thunderbird, hãy xem <a href=\"%(core_team)s\">danh sách những người đóng góp cốt lõi của chúng "
 "tôi</a>."
 
-#: website/about/index.html:68
+#: website/about/index.html:69
 msgid "Thunderbird Council"
 msgstr "Hội đồng Thunderbird"
 
-#: website/about/index.html:70
+#: website/about/index.html:71
 #, python-format
 msgid ""
 "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
@@ -453,28 +460,6 @@ msgid ""
 msgstr ""
 "Dự án Thunderbird được điều hành bởi bảy ủy viên hội đồng, được bầu bởi những người đóng góp tích cực trong cộng đồng Thunderbird. Bạn có thể thấy các thành viên Hội đồng Thunderbird được bầu hiện "
 "tại <a href=\"%(council)s\">trên wiki của Thunderbird</a>."
-
-#: website/about/index.html:82
-msgid "Thunderbird and Mozilla Foundation"
-msgstr "Thunderbird và Tổ chức Mozilla"
-
-#: website/about/index.html:84
-#, python-format
-msgid "Thunderbird lives at the nonprofit <a href=\"%(foundation)s\">Mozilla Foundation</a>."
-msgstr "Thunderbird là một phần của <a href=\"%(foundation)s\">tổ chức Mozilla</a> phi lợi nhuận."
-
-#: website/about/index.html:89
-#, python-format
-msgid ""
-"Thunderbird is an independent project with its legal and financial home at <a href=\"%(foundation)s\">the Mozilla Foundation</a>. The Mozilla Foundation believes the Internet is a global public "
-"resource that must remain open and accessible to all. It is focused on advocacy issues and keeping the Internet healthy, but is also the sole shareholder in the maker of Firefox, the Mozilla "
-"Corporation. Mozilla exerts no governance over the project, which instead falls to the Thunderbird Council, elected by the Thunderbird project’s community. The Mozilla Foundation became "
-"Thunderbird’s home after an <a href=\"%(home_blog_post)s\">exploration of legal homes in 2017</a>."
-msgstr ""
-"Thunderbird là một dự án độc lập với ngôi nhà tài chính và pháp lý của mình tại <a href=\"%(foundation)s\">Tổ chức Mozilla</a>. Tổ chức Mozilla tin rằng Internet là một tài nguyên công cộng toàn cầu"
-" phải luôn mở và có thể truy cập được cho tất cả mọi người. Nó tập trung vào các vấn đề vận động và giữ cho Internet khỏe mạnh, nhưng cũng là cổ đông duy nhất trong nhà sản xuất Firefox, Tập đoàn "
-"Mozilla. Mozilla không có quyền quản trị đối với dự án mà thay vào đó là hội đồng Thunderbird, được bầu bởi cộng đồng của dự án Thunderbird. Tổ chức Mozilla trở thành ngôi nhà của Thunderbird, sau "
-"khi <a href=\"%(home_blog_post)s\">đánh giá cơ hội pháp lý năm 2017</a.>."
 
 #: website/download/index.html:10
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
@@ -840,6 +825,23 @@ msgstr "Ghi chú phát hành cho từng phiên bản Thunderbird."
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Ghi chú phát hành Thunderbird dành riêng cho từng phiên bản của ứng dụng. Chọn phiên bản của bạn từ danh sách dưới đây để xem ghi chú phát hành cho nó."
+
+#~ msgid "Thunderbird and Mozilla Foundation"
+#~ msgstr "Thunderbird và Tổ chức Mozilla"
+
+#~ msgid "Thunderbird lives at the nonprofit <a href=\"%(foundation)s\">Mozilla Foundation</a>."
+#~ msgstr "Thunderbird là một phần của <a href=\"%(foundation)s\">tổ chức Mozilla</a> phi lợi nhuận."
+
+#~ msgid ""
+#~ "Thunderbird is an independent project with its legal and financial home at <a href=\"%(foundation)s\">the Mozilla Foundation</a>. The Mozilla Foundation believes the Internet is a global public "
+#~ "resource that must remain open and accessible to all. It is focused on advocacy issues and keeping the Internet healthy, but is also the sole shareholder in the maker of Firefox, the Mozilla "
+#~ "Corporation. Mozilla exerts no governance over the project, which instead falls to the Thunderbird Council, elected by the Thunderbird project’s community. The Mozilla Foundation became "
+#~ "Thunderbird’s home after an <a href=\"%(home_blog_post)s\">exploration of legal homes in 2017</a>."
+#~ msgstr ""
+#~ "Thunderbird là một dự án độc lập với ngôi nhà tài chính và pháp lý của mình tại <a href=\"%(foundation)s\">Tổ chức Mozilla</a>. Tổ chức Mozilla tin rằng Internet là một tài nguyên công cộng toàn cầu"
+#~ " phải luôn mở và có thể truy cập được cho tất cả mọi người. Nó tập trung vào các vấn đề vận động và giữ cho Internet khỏe mạnh, nhưng cũng là cổ đông duy nhất trong nhà sản xuất Firefox, Tập đoàn "
+#~ "Mozilla. Mozilla không có quyền quản trị đối với dự án mà thay vào đó là hội đồng Thunderbird, được bầu bởi cộng đồng của dự án Thunderbird. Tổ chức Mozilla trở thành ngôi nhà của Thunderbird, sau "
+#~ "khi <a href=\"%(home_blog_post)s\">đánh giá cơ hội pháp lý năm 2017</a.>."
 
 #~ msgid "Menu"
 #~ msgstr "Menu"
