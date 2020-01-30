@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-01-29 21:18-0800\n"
-"PO-Revision-Date: 2020-01-30 13:39+0000\n"
+"PO-Revision-Date: 2020-01-30 13:49+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language-Team: none\n"
 "Language: hsb\n"
@@ -342,7 +342,7 @@ msgid "Report Trademark Abuse"
 msgstr "Znjewužiwanje wikowanskeho znamjenja zdźělić"
 
 #: website/site-footer.html:77
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "Thunderbird is now part of\n"
 "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
@@ -351,8 +351,11 @@ msgid ""
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
-"Dźěle tutoho wobsaha wot jednotliwych sobuskutkowacych\n"
-"      mozilla.org wutworjene ©1998–%(current_year)s. Wobsah steji pod licencu\n"
+"Thunderbird je nětko\n"
+"      dźěl <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+"      stoprocentoweje wotnožki załožbu Mozilla Foundation.\n"
+"      Dźěle tutoho wobsaha su wot jednotliwych sobuskutkowarjow ©1998–%(current_year)s\n"
+"      wutworjene. Wobsah steji pod licencu\n"
 "      <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a> k dispoziciji."
 
 #: website/site-footer.html:88
