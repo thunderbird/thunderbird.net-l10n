@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-01-29 21:18-0800\n"
-"PO-Revision-Date: 2020-01-30 06:11+0000\n"
+"PO-Revision-Date: 2020-01-30 06:15+0000\n"
 "Last-Translator: Håvar Henriksen <havar@firefox.no>\n"
 "Language-Team: none\n"
 "Language: nb_NO\n"
@@ -341,7 +341,7 @@ msgid "Report Trademark Abuse"
 msgstr "Rapporter misbruk av varemerke"
 
 #: website/site-footer.html:77
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "Thunderbird is now part of\n"
 "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
@@ -350,8 +350,11 @@ msgid ""
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
-"Deler av dette innholdet er ©1998–%(current_year)s individuelle\n"
-"      mozilla.org-bidragsytere. Innholdet er tilgjengelig under\n"
+"Thunderbird er nå en del av\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+"      et heleid datterselskap av Mozilla Foundation.\n"
+"      Deler av dette innholdet er ©1998-%(current_year)s individuelle\n"
+"      bidragsytere. Innhold tilgjengelig under\n"
 "      en <a href=\"%(url)s\" class=\"inline-link\">Creative Commons-lisens</a>."
 
 #: website/site-footer.html:88
