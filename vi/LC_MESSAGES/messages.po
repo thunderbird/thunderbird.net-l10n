@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-01-30 15:31-0800\n"
-"PO-Revision-Date: 2020-01-31 10:55+0000\n"
+"PO-Revision-Date: 2020-01-31 11:01+0000\n"
 "Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
 "Language-Team: none\n"
 "Language: vi\n"
@@ -346,7 +346,7 @@ msgid "Report Trademark Abuse"
 msgstr "Báo cáo lạm dụng thương hiệu"
 
 #: website/site-footer.html:80
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "Thunderbird is now part of\n"
 "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
@@ -355,9 +355,12 @@ msgid ""
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
-"Các phần của nội dung này giữ bản quyền ©1998–%(current_year)s theo từng cá nhân\n"
-"      người đóng góp mozilla.org. Nội dung có sẵn dưới\n"
-"      <a href=\"%(url)s\" class=\"inline-link\">giấy phép Creative Commons</a>."
+"Thunderbird hiện là một phần của\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">Tập đoàn công nghệ MZLA</a>,\n"
+"      một công ty con thuộc sở hữu của Tổ chức Mozilla.\n"
+"      Các phần của nội dung này giữ bản quyền ©1998–%(current_year)s bởi\n"
+"      những người dùng đóng góp cá nhân. Nội dung có sẵn theo\n"
+"      <a href=\"%(url)s\" class=\"inline-link\">giấy phép Creative Commons</a>."
 
 #: website/site-footer.html:91
 msgid "Contribute to this site"
