@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-01-30 15:31-0800\n"
-"PO-Revision-Date: 2020-01-31 16:21+0000\n"
+"PO-Revision-Date: 2020-01-31 16:25+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: none\n"
 "Language: pl\n"
@@ -346,7 +346,7 @@ msgid "Report Trademark Abuse"
 msgstr "Nadużycie znaków towarowych"
 
 #: website/site-footer.html:80
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "Thunderbird is now part of\n"
 "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
@@ -355,9 +355,12 @@ msgid ""
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
-"Fragmenty treści tej witryny: ©1998–%(current_year)s. Prawa autorskie\n"
-"      należą do poszczególnych współtwórców witryny mozilla.org.\n"
-"      Treść strony dostępna na licencji <a href=\"%(url)s\" class=\"inline-link\">Creative Commons</a>."
+"Thunderbird jest teraz częścią\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+"      firmy w całości kontrolowanej przez Fundację Mozilla.\n"
+"      Fragmenty treści tej witryny: ©1998–%(current_year)s. Prawa autorskie\n"
+"      należą do poszczególnych współtwórców. Treść strony dostępna\n"
+"      na licencji <a href=\"%(url)s\" class=\"inline-link\">Creative Commons</a>."
 
 #: website/site-footer.html:91
 msgid "Contribute to this site"
