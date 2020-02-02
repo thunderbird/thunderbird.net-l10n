@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-01-30 15:31-0800\n"
-"PO-Revision-Date: 2020-02-02 02:01+0000\n"
+"PO-Revision-Date: 2020-02-02 02:14+0000\n"
 "Last-Translator: Alexander Slovesnik <unghost@mozilla-russia.org>\n"
 "Language-Team: none\n"
 "Language: ru\n"
@@ -345,7 +345,7 @@ msgid "Report Trademark Abuse"
 msgstr "Сообщить о злоупотреблении торговой маркой"
 
 #: website/site-footer.html:80
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "Thunderbird is now part of\n"
 "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
@@ -354,9 +354,12 @@ msgid ""
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
-"Части этого содержимого созданы участниками\n"
-"      проекта mozilla.org ©1998–%(current_year)s. Содержимое доступно на\n"
-"      условиях <a href=\"%(url)s\" class=\"inline-link\">лицензии Creative Commons</a>."
+"Thunderbird теперь является частью\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">Корпорации MZLA Technologies</a>,\n"
+"      полностью дочерней компании Mozilla Foundation.\n"
+"      Части этого содержимого созданы отдельными участниками\n"
+"      ©1998–%(current_year)s. Содержимое доступно на\n"
+"      условиях <a href=\"%(url)s\" class=\"inline-link\">лицензии Creative Commons</a>."
 
 #: website/site-footer.html:91
 msgid "Contribute to this site"
@@ -398,7 +401,7 @@ msgstr "Загрузить Бету"
 
 #: website/site-prefooter.html:67
 msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Nightly channel."
-msgstr ""
+msgstr "Помогите нам в тестировании ежедневных наработок кода Thunderbird, используя канал обновлений нестабильной Nightly."
 
 #: website/site-prefooter.html:71
 msgid "WARNING!"
@@ -406,7 +409,7 @@ msgstr "ПРЕДУПРЕЖДЕНИЕ!"
 
 #: website/site-prefooter.html:73
 msgid "Nightly is an unstable testing and development platform, make sure you back up important data regularly!"
-msgstr ""
+msgstr "Nightly - это нестабильная платформа для тестирования и разработки. Убедитесь, что вы регулярно делаете резервные копии важных данных!"
 
 #: website/site-prefooter.html:76
 msgid "Download Nightly"
@@ -528,17 +531,19 @@ msgstr "Функция напоминания о вложении ищет сл�
 
 #: website/features/index.html:86
 msgid "Multiple-channel chat"
-msgstr ""
+msgstr "Многоканальный чат"
 
 #: website/features/index.html:88
 msgid ""
 "Enjoy real-time conversation with your contacts, right from your favorite messaging application, with multiple supported networks. Thunderbird makes it easy to search through both past conversations"
 " and received emails."
 msgstr ""
+"Беседуйте с вашими контактами в реальном времени, прямо из вашего любимого приложения для обмена сообщениями с поддержкой множества сетей. В Thunderbird вы можете также легко найти нужный текст как "
+"в полученной почте, так и в ранее произошедших беседах."
 
 #: website/features/index.html:109
 msgid "Tabbed Email"
-msgstr ""
+msgstr "Электронная почта во вкладках"
 
 #: website/features/index.html:111
 msgid ""
@@ -712,6 +717,8 @@ msgid ""
 "This article describes some of the major changes visible to users in Thunderbird version 68.0. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird 68 release "
 "notes</a>."
 msgstr ""
+"В данной статье описываются некоторые основные изменения, видимые для пользователей Thunderbird версии 68.0. Полный список изменений вы можете найти в <a href=\"%(release)s\">примечаниях к выпуску "
+"Thunderbird 68</a>."
 
 #: website/thunderbird/68.0/whatsnew/index.html:25
 msgid "Better Dark Theme"
@@ -719,7 +726,7 @@ msgstr "Улучшенная тёмная тема"
 
 #: website/thunderbird/68.0/whatsnew/index.html:28
 msgid "The dark theme available in Thunderbird has been enhanced with a dark message thread pane as well as many other small improvements."
-msgstr ""
+msgstr "Тёмная тема в Thunderbird была улучшена тёмной панелью сообщений, а также множеством других небольших улучшений."
 
 #: website/thunderbird/68.0/whatsnew/index.html:38
 msgid "Filelink Improved"
@@ -738,7 +745,7 @@ msgstr ""
 
 #: website/thunderbird/68.0/whatsnew/index.html:52
 msgid "Options/Preferences in a Tab"
-msgstr ""
+msgstr "Настройки во вкладке"
 
 #: website/thunderbird/68.0/whatsnew/index.html:55
 msgid ""
