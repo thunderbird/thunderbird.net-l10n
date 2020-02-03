@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-01-30 15:31-0800\n"
-"PO-Revision-Date: 2020-01-31 09:11+0000\n"
+"PO-Revision-Date: 2020-02-03 09:10+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language-Team: none\n"
 "Language: cy\n"
@@ -347,7 +347,7 @@ msgid "Report Trademark Abuse"
 msgstr "Adrodd am Gamddefnyddio Nod Masnach"
 
 #: website/site-footer.html:80
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "Thunderbird is now part of\n"
 "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
@@ -356,9 +356,12 @@ msgid ""
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
-"Mae darnau o'r cynnwys yn ©1998–%(current_year)s gan gyfranwyr unigol\n"
-" mozilla.org. Mae'r cynnwys ar gael o dan\n"
-" <a href=\"%(url)s\" class=\"inline-link\">drwydded Creative Commons</a>."
+"Mae Thunderbird bellach yn rhan o\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">Gorfforaeth Technolegau MZLA</a>,\n"
+"      is-gwmni sy'n eiddo llwyr i'r Mozilla Foundation.\n"
+"      Mae rhannau o'r cynnwys hwn yn © 1998 -%(current_year)s cyfranwyr unigol.\n"
+"      Mae'r cynnwys ar gael o dan\n"
+"      <a href=\"%(url)s\" class=\"inline-link\">drwydded Creative Commons</a>."
 
 #: website/site-footer.html:91
 msgid "Contribute to this site"
