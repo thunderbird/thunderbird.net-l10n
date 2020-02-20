@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-02-11 18:14-0800\n"
-"PO-Revision-Date: 2020-02-20 13:13+0000\n"
+"PO-Revision-Date: 2020-02-20 13:16+0000\n"
 "Last-Translator: Artem Polivanchuk <a.polivanchuk@outlook.com>\n"
 "Language-Team: none\n"
 "Language: uk\n"
@@ -294,9 +294,8 @@ msgid "Manage multiple calendars, create your daily to do list, invite friends t
 msgstr ""
 
 #: website/index.html:123
-#, fuzzy
 msgid "Explore Features"
-msgstr "Можливості"
+msgstr "Дослідіть можливості"
 
 #: website/index.html:126
 msgid "Explore More Add-ons"
@@ -319,9 +318,8 @@ msgid "Go"
 msgstr "Перейти"
 
 #: website/site-footer.html:12
-#, fuzzy
 msgid "For Organizations"
-msgstr "Thunderbird для організацій"
+msgstr "Для організацій"
 
 #: website/site-footer.html:18
 msgid "Careers"
@@ -348,7 +346,7 @@ msgid "Report Trademark Abuse"
 msgstr "Повідомити про зловживання торговою маркою"
 
 #: website/site-footer.html:80
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "Thunderbird is now part of\n"
 "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
@@ -356,7 +354,13 @@ msgid ""
 "      Portions of this content are ©1998–%(current_year)s by individual\n"
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
-msgstr "Частини цього вмісту створені учасниками проекту mozilla.org ©1998–%(current_year)s. Вміст доступний на умовах <a href=\"%(url)s\">ліцензії Creative Commons</a>."
+msgstr ""
+"Thunderbird тепер входить до\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+"      що цілком належить компанії Mozilla Foundation.\n"
+"      Частини цього вмісту ©1998–%(current_year)s створені окремими\n"
+"      помічниками. Вміст доступний на умовах\n"
+"      <a href=\"%(url)s\" class=\"inline-link\">ліцензії Creative Commons</a>."
 
 #: website/site-footer.html:91
 msgid "Contribute to this site"
