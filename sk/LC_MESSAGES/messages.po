@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-02-11 18:14-0800\n"
-"PO-Revision-Date: 2020-02-10 16:43+0000\n"
+"PO-Revision-Date: 2020-02-20 20:39+0000\n"
 "Last-Translator: Juraj Cigáň <kusavica@gmail.com>\n"
 "Language-Team: none\n"
 "Language: sk\n"
@@ -165,7 +165,7 @@ msgstr "Pripojte sa k odberu noviniek"
 
 #: website/donate-mailing-list.html:19
 msgid "Keep up with the latest and greatest updates on news, features, events, and previews, and get a sneak peek on the upcoming releases."
-msgstr ""
+msgstr "Sledujte najnovšie správy, informácie o novinkách, funkciách, udalostiach či nastávajúcich vydaniach."
 
 #: website/donate-mailing-list.html:26
 msgid "Your Email"
@@ -268,7 +268,7 @@ msgstr "Zostaňte v obraze"
 
 #: website/index.html:68
 msgid "Keep yourself up to date with recent announcements and releases by following the official Thunderbird Blog!"
-msgstr ""
+msgstr "Sledujte oficiálny blog Thunderbirdu a udržujte si prehľad o nových oznámeniach a vydaniach!"
 
 #: website/index.html:92
 msgid "Read the Blog"
@@ -356,6 +356,12 @@ msgid ""
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
+"Thunderbird je súčasťou\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+"      organizácie, ktorú v plnom rozsahu vlastní Mozilla Foundation.\n"
+"      Časť tohto obsahu bola v rokoch ©1998–%(current_year)s vytvorená individuálnymi\n"
+"      používateľmi. Obsah je dostupný v rámci licencie\n"
+"      <a href=\"%(url)s\" class=\"inline-link\">Creative Commons</a>."
 
 #: website/site-footer.html:91
 msgid "Contribute to this site"
@@ -363,7 +369,7 @@ msgstr "Zapojte sa do vývoja tejto stránky"
 
 #: website/site-footer.html:94
 msgid "Translate this site"
-msgstr ""
+msgstr "Preloží túto stránku"
 
 #: website/site-prefooter.html:14
 msgid "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users."
@@ -533,11 +539,11 @@ msgstr "Chat s viacerými kanálmi"
 msgid ""
 "Enjoy real-time conversation with your contacts, right from your favorite messaging application, with multiple supported networks. Thunderbird makes it easy to search through both past conversations"
 " and received emails."
-msgstr ""
+msgstr "Vychutnajte si konverzáciu so svojimi kontaktmi v reálnom čase, priamo zo svojej obľúbenej aplikácie. Vďaka Thunderbirdu môžete jednoducho hľadať svoje minulé konverzácie a prijaté e-maily."
 
 #: website/features/index.html:109
 msgid "Tabbed Email"
-msgstr ""
+msgstr "E-mail na kartách"
 
 #: website/features/index.html:111
 msgid ""
@@ -602,6 +608,8 @@ msgid ""
 "You can now speed up the transfer of large documents by uploading them to an online storage provider and sharing the link instead of sending the file directly as a message attachment. Improve the "
 "speed of sending email and avoid message rejection if the recipient’s server disallows large files. As an added bonus, you’ll also save space in your sent folder and the recipient’s inbox."
 msgstr ""
+"Rýchlosť prenosu veľkých dokumentov môžete zvýšiť ich nahraním do úložiska na internete a zdieľaním odkazu na ne namiesto ich priameho poslania ako prílohy. Ak server príjemcu neprijíma veľké "
+"súbory, môžete sa takto vyhnúť odmietnutiu správy. A ako bonus ušetríte miesto vo vašom priečinku odoslaných správ a v priečinku s doručenými správami u príjemcu."
 
 #: website/features/index.html:188
 msgid "Thunderbird Look & Feel"
@@ -728,11 +736,15 @@ msgid ""
 "Filelink attachments that have already been uploaded can now be linked to again instead of having to re-upload them. Also, an account is no longer required to use the default Filelink provider - "
 "<strong>WeTransfer</strong>."
 msgstr ""
+"Na prílohy vo forme Filelinku, ktoré už boli nahrané môžete odkazovať, nemusíte ich opäť nahrávať. Ak chcete použiť predvoleného poskytovateľa tejto služby - <strong>WeTransfer</strong>, už nebudete"
+" potrebovať účet."
 
 #: website/thunderbird/68.0/whatsnew/index.html:44
 #, python-format
 msgid "Other Filelink providers like Box and Dropbox are not included by default, but can be added by grabbing the <a href=\"%(dropbox)s\">Dropbox</a> and <a href=\"%(box)s\">Box</a> add-ons."
 msgstr ""
+"Ostatní poskytovatelia služby Filelink, ako sú Box či Dropbox v predvolenom nastavení nie sú zahrnutí, no môžete si ich pridať vo forme doplnku (<a href=\"%(dropbox)s\">Dropbox</a>, <a "
+"href=\"%(box)s\">Box</a>)."
 
 #: website/thunderbird/68.0/whatsnew/index.html:52
 msgid "Options/Preferences in a Tab"
@@ -742,11 +754,11 @@ msgstr "Možnosti na karte"
 msgid ""
 "Thunderbirdʼs Options/Preferences have been converted from a dialog window to its own dedicated tab. The new Preferences tab provides more space which allows for better organized content and is more"
 " consistent with the look and feel of the rest of Thunderbird."
-msgstr ""
+msgstr "Možnosti Thunderbirdu boli presunuté z okna na kartu. Nová karta s možnosťami vám poskytuje viac miesta a je konzistentnejšia s vzhľadom zvyšku Thunderbirdu."
 
 #: website/thunderbird/68.0/whatsnew/index.html:58
 msgid "The new Preferences tab also makes it easier to multi-task without the problem of losing track of where your preferences are when switching between windows."
-msgstr ""
+msgstr "Vďaka novej karte s možnosťami môžete taktiež jednoduchšie vykonávať viacero vecí naraz."
 
 #: website/thunderbird/68.0/whatsnew/index.html:67
 msgid "Other Notable Changes"
@@ -757,6 +769,8 @@ msgid ""
 "There are many other smaller changes that make Thunderbird 68 feel polished and powerful including: a new App Menu UI, an updated To/CC/BCC selector in compose, improved attachment management, full "
 "color support across the app, filters can now be set to run periodically, and feed articles now show external attachments as links."
 msgstr ""
+"Thunderbird 68 obsahuje taktiež množstvo menších zmien, vďaka ktorým vyzerá Thunderbird ešte lepšie ako predtým - nové rozhranie ponuky, aktualizovaný výber príjemcov, vylepšená správa príloh, "
+"podpora celého farebného spektra v aplikácii, možnosť pravidelného spustenia filtrov či zobrazenie externých príloh ako odkazov."
 
 #: website/thunderbird/68.0/whatsnew/index.html:73
 #, python-format
