@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-02-11 18:14-0800\n"
-"PO-Revision-Date: 2020-02-21 20:29+0000\n"
+"PO-Revision-Date: 2020-02-21 20:35+0000\n"
 "Last-Translator: G12r <georgianization@outlook.com>\n"
 "Language-Team: none\n"
 "Language: ka\n"
@@ -349,7 +349,7 @@ msgid "Report Trademark Abuse"
 msgstr "მოხსენება სავაჭრო ნიშნების დარღვევის შესახებ"
 
 #: website/site-footer.html:80
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "Thunderbird is now part of\n"
 "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
@@ -358,18 +358,20 @@ msgid ""
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
-"ამ შიგთავსის ნაწილი შექმნილია mozilla.org პროექტის ცალკეული\n"
-"      მონაწილეების მიერ ©1998–%(current_year)s. მასალა ვრცელდება\n"
-"      <a href=\"%(url)s\" class=\"inline-link\">Creative Commons-ლიცენზიით</a>."
+"Thunderbird ახლა უკვე ნაწილია\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation-ის</a>,\n"
+"      რომლის სრული მესაკუთრეა Mozilla-ფონდი.\n"
+"      ამ შიგთავსის ნაწილები შექმნილია ცალკეული მონაწილეების მიერ\n"
+"       ©1998–%(current_year)s. მასალა ვრცელდება\n"
+"      <a href=\"%(url)s\" class=\"inline-link\">Creative-Commons-ლიცენზიით</a>."
 
 #: website/site-footer.html:91
 msgid "Contribute to this site"
 msgstr "შეიტანეთ წვლილი ამ საიტში"
 
 #: website/site-footer.html:94
-#, fuzzy
 msgid "Translate this site"
-msgstr "შეიტანეთ წვლილი ამ საიტში"
+msgstr "თარგმნეთ ეს საიტი"
 
 #: website/site-prefooter.html:14
 msgid "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users."
