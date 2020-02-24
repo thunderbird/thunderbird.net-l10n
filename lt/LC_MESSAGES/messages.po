@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-02-11 18:14-0800\n"
-"PO-Revision-Date: 2020-02-24 22:22+0000\n"
+"PO-Revision-Date: 2020-02-24 22:26+0000\n"
 "Last-Translator: Eugenijus <eugenijus.januskevicius@gmail.com>\n"
 "Language-Team: none\n"
 "Language: lt\n"
@@ -348,7 +348,7 @@ msgid "Report Trademark Abuse"
 msgstr "Pranešti apie neleistiną prekės ženklo naudojimą"
 
 #: website/site-footer.html:80
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "Thunderbird is now part of\n"
 "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
@@ -357,8 +357,12 @@ msgid ""
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
-"©1998–%(current_year)s. Kai kurių šio turinio dalių autoriai yra atskiri mozilla.org bendradarbiai.\n"
-"Turinys pateikiamas <a href=\"%(url)s\">„Creative Commons“ licencijos</a> sąlygomis."
+"„Thunderbird“ dabar yra dalis\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\"> „MZLA Technologies Corporation“ </a>,\n"
+"      visiškai priklausanti „Mozilla Foundation“ dukterinė įmonė.\n"
+"      Dalis šio turinio yra © 1998 – %(current_year)s%(current_year) -priklauso atskiriems\n"
+"      bendraautoriams. Turinys prieinamas pagal\n"
+"      <a href=\"%(url)s\" class=\"inline-link\"> „Creative Commons“ licenciją </a>."
 
 #: website/site-footer.html:91
 msgid "Contribute to this site"
@@ -393,9 +397,8 @@ msgid "The Future of Thunderbird"
 msgstr "„Thunderbird“ ateitis"
 
 #: website/site-prefooter.html:52
-#, fuzzy
 msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
-msgstr "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Teikite atsiliepimus</a> ir padėkite nušlifuoti tai, kas pateks į galutinę laidą"
+msgstr "Čia rasite pažangiausias funkcijas. Teikite atsiliepimus ir padėkite nušlifuoti tai, kas pateks į galutinę laidą"
 
 #: website/site-prefooter.html:55
 msgid "Download Beta"
