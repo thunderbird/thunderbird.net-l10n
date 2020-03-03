@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-02-11 18:14-0800\n"
-"PO-Revision-Date: 2020-03-01 15:18+0000\n"
-"Last-Translator: Jiri Grönroos <jiri.gronroos@iki.fi>\n"
+"PO-Revision-Date: 2020-03-03 16:19+0000\n"
+"Last-Translator: Jarmo <jarmo@juslin.me>\n"
 "Language-Team: none\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
@@ -347,7 +347,7 @@ msgid "Report Trademark Abuse"
 msgstr "Ilmoita tavaramerkin väärinkäytöstä"
 
 #: website/site-footer.html:80
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "Thunderbird is now part of\n"
 "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
@@ -356,17 +356,19 @@ msgid ""
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
-"Tämän sisällön tietyt osat ovat © 1998–%(current_year)s yksittäisten mozilla.org-tukijoiden omaisuutta. Sisältö on saatavilla <a href=\"%(url)s\" class=\"inline-link\">Creative Commons "
-"-lisenssillä</a>."
+"Thunderbird on nyt osa\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporationia</a>,\n"
+"      Mozilla-säätiön kokonaan omistamaa tytäryhtiötä.\n"
+"      Osa sisällöstä on ©1998–%(current_year)s yksittäisten avustajien omaisuutta.\n"
+"      Sisältö on saatavilla <a href=\"%(url)s\" class=\"inline-link\">Creative Commons -lisenssillä</a>."
 
 #: website/site-footer.html:91
 msgid "Contribute to this site"
 msgstr "Auta sivuston kanssa"
 
 #: website/site-footer.html:94
-#, fuzzy
 msgid "Translate this site"
-msgstr "Auta sivuston kanssa"
+msgstr "Käännä tämä sivusto"
 
 #: website/site-prefooter.html:14
 msgid "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users."
@@ -740,11 +742,15 @@ msgid ""
 "Filelink attachments that have already been uploaded can now be linked to again instead of having to re-upload them. Also, an account is no longer required to use the default Filelink provider - "
 "<strong>WeTransfer</strong>."
 msgstr ""
+"Filelink-liitteet jotka on jo siirretty, voidaan nyt linkittää uudelleen sen sijaan, että ne pitäisi siirtää uudelleen. Tilin ei myöskään enää tarvitse käyttää oletusarvoista "
+"<strong>WeTransfer</strong>-palveluntarjoajaa."
 
 #: website/thunderbird/68.0/whatsnew/index.html:44
 #, python-format
 msgid "Other Filelink providers like Box and Dropbox are not included by default, but can be added by grabbing the <a href=\"%(dropbox)s\">Dropbox</a> and <a href=\"%(box)s\">Box</a> add-ons."
 msgstr ""
+"Muita Filelink-palveluntarjoajia, kuten Box ja Dropbox, ei ole sisällytetty oletusarvoisesti, mutta ne voidaan lisätä käyttämällä <a href=\"%(dropbox)s\"> Dropbox </a> ja <a href=\"%(box)s\"> Box "
+"</a> -lisäosia."
 
 #: website/thunderbird/68.0/whatsnew/index.html:52
 msgid "Options/Preferences in a Tab"
@@ -760,7 +766,7 @@ msgstr ""
 
 #: website/thunderbird/68.0/whatsnew/index.html:58
 msgid "The new Preferences tab also makes it easier to multi-task without the problem of losing track of where your preferences are when switching between windows."
-msgstr ""
+msgstr "Uusi Asetukset-välilehti helpottaa myös useiden asetusten yhtäaikaista muuttamista, sillä et menetä tekemiäsi asetusmuutoksia, kun vaihdat paneelien ja ikkunoiden välillä."
 
 #: website/thunderbird/68.0/whatsnew/index.html:67
 msgid "Other Notable Changes"
@@ -771,6 +777,9 @@ msgid ""
 "There are many other smaller changes that make Thunderbird 68 feel polished and powerful including: a new App Menu UI, an updated To/CC/BCC selector in compose, improved attachment management, full "
 "color support across the app, filters can now be set to run periodically, and feed articles now show external attachments as links."
 msgstr ""
+"On myös monia muita pienempiä muutoksia, jotka saavat Thunderbirdin version 68 tuntumaan viimeistellyltä ja tehokkaalta, mukaan lukien: täysin uusi sovellusvalikko, päivitetty "
+"vastaanottaja/kopio/piilokopio -valitsin Kirjoita-ikkunassa, parannettu liitteiden hallinta ja täysi värituki koko sovelluksessa. Suodattimet voidaan nyt suorittaa ajastetusti ja syöteartikkelit "
+"näyttävät nyt ulkoiset liitteet linkkinä."
 
 #: website/thunderbird/68.0/whatsnew/index.html:73
 #, python-format
