@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-02-11 18:14-0800\n"
-"PO-Revision-Date: 2020-03-18 20:21+0000\n"
+"PO-Revision-Date: 2020-03-18 20:32+0000\n"
 "Last-Translator: Isidora Barad Dur <barad.dur@yahoo.com>\n"
 "Language-Team: none\n"
 "Language: sr\n"
@@ -104,7 +104,7 @@ msgstr "Thunderbird"
 
 #: website/404.html:8
 msgid "There’s nothing here!"
-msgstr ""
+msgstr "Овде нема ничега!"
 
 #: website/404.html:9
 #, python-format
@@ -113,7 +113,7 @@ msgstr ""
 
 #: website/404.html:23
 msgid "Empty nest"
-msgstr ""
+msgstr "Празно гнездо"
 
 #: website/base-resp.html:20 website/site-footer.html:5
 msgid "Thunderbird Vector Wordmark"
@@ -145,7 +145,7 @@ msgstr "О нама"
 
 #: website/base-resp.html:49 website/site-footer.html:24
 msgid "Blog"
-msgstr ""
+msgstr "Блог"
 
 #: website/donate-mailing-list.html:7
 msgid "Thunderbird is funded by users like you"
@@ -342,7 +342,7 @@ msgid "Report Trademark Abuse"
 msgstr "Пријави злоупотребу заштитног знака"
 
 #: website/site-footer.html:80
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "Thunderbird is now part of\n"
 "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
@@ -350,7 +350,13 @@ msgid ""
 "      Portions of this content are ©1998–%(current_year)s by individual\n"
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
-msgstr "Права над деловима овог садржаја ©1998–%(current_year)s задржали су индивидуални доприноситељи mozilla.org пројекта. Садржај је доступан под <a href=\"%(url)s\">Creative Commons лиценцом</a>."
+msgstr ""
+"Thunderbird је сада дио\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+"      подружнице у потпуном власништву Mozilla фондације.\n"
+"      Права над деловима овог садржаја ©1998–%(current_year)s су задржали\n"
+"      индивидулани сарадници. Садржај је доступан под\n"
+"      <a href=\"%(url)s\" class=\"inline-link\">Creative Commons лиценцом</a>."
 
 #: website/site-footer.html:91
 msgid "Contribute to this site"
@@ -424,15 +430,15 @@ msgstr ""
 
 #: website/about/index.html:46
 msgid "Who We Are"
-msgstr ""
+msgstr "Ко смо ми"
 
 #: website/about/index.html:48
 msgid "We are a community making communication free and open."
-msgstr ""
+msgstr "Ми смо заједница која чини комуникацију слободном и отвореном."
 
 #: website/about/index.html:62
 msgid "Our Community"
-msgstr ""
+msgstr "Наша заједница"
 
 #: website/about/index.html:64
 #, python-format
@@ -558,13 +564,12 @@ msgid "Search Tools"
 msgstr "Алатке за претраживање"
 
 #: website/features/index.html:140
-#, fuzzy
 msgid ""
 "The search interface in Thunderbird contains filtering and timeline tools to pinpoint the exact email you’re looking for. Thunderbird also indexes all of your emails and chat conversations to help "
 "you search even faster. Your search results are displayed in a tab so you can easily switch back and forth to your search results and other email."
 msgstr ""
-"Интерфејс за претраживање у Thunderbird-у садржи филтрирање и алате за временску линију како би указали тачно на е-пошту коју тражите. Thunderbird иденксира све ваше е-поште како би вам помогао у "
-"бржем претраживању. Ваш резултат претраге је приказан у језичку, тако да се лако можете враћати на листу резултата претраге, али и на друге е-поште."
+"Thunderbird интерфејс за претраживање садржи филтрирање и хронолошке алатке за проналажење тачно оне е-поште коју тражите. Thunderbird индексира сву вашу е-пошту како би убрзао процес претраживања. "
+"Резултат ваше претраге је приказан у језичку, тако да се лако можете пребацивати између резултата претраге и остале е-поште."
 
 #: website/features/index.html:149
 msgid "Message Archive"
