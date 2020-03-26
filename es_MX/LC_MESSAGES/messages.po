@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-02-11 18:14-0800\n"
-"PO-Revision-Date: 2020-02-12 02:55+0000\n"
+"PO-Revision-Date: 2020-03-26 20:29+0000\n"
 "Last-Translator: Roberto Alvarado <ralv888@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es_MX\n"
@@ -111,18 +111,17 @@ msgid "There’s nothing here!"
 msgstr "¡No hay nada aquí!"
 
 #: website/404.html:9
-#, fuzzy, python-format
+#, python-format
 msgid "The page you are looking for doesn’t exist.<br/>If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
-msgstr "La página que estás buscando no existe. Si crees que es un error, puedes <a href=\"%(bug_report_url)s\">reportar el problema aquí</a>."
+msgstr "La página que estás buscando no existe.<br/>Si crees que es un error, puedes <a href=\"%(bug_report_url)s\">informar del problema aquí</a>."
 
 #: website/404.html:23
 msgid "Empty nest"
 msgstr "Nido vacío"
 
 #: website/base-resp.html:20 website/site-footer.html:5
-#, fuzzy
 msgid "Thunderbird Vector Wordmark"
-msgstr "Thunderbird Beta"
+msgstr "Logo vectorial de Thunderbird"
 
 #: website/base-resp.html:29 website/base-resp.html:53 website/donate-mailing-list.html:12
 msgid "Donate"
@@ -196,9 +195,8 @@ msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
 #: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
-#, fuzzy
 msgid "Thunderbird Nightly"
-msgstr "Thunderbird Beta"
+msgstr "Thunderbird Nightly"
 
 #: website/download-button.html:66
 msgid "Systems &amp; Languages"
@@ -350,7 +348,7 @@ msgid "Report Trademark Abuse"
 msgstr "Reportar abuso de marcas"
 
 #: website/site-footer.html:80
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "Thunderbird is now part of\n"
 "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
@@ -358,23 +356,24 @@ msgid ""
 "      Portions of this content are ©1998–%(current_year)s by individual\n"
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
-msgstr "Algunos contenidos son ©1998–%(current_year)s por determinados colaboradores de mozilla.org. Contenido disponible bajo una licencia <a href=\"%(url)s\">Creative Commons</a>."
+msgstr ""
+"Thunderbird ahora es parte de\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+"      subsidiaria de propiedad total de la Fundación Mozilla.\n"
+"      Parte de este contenido es ©1998 – %(current_year)s por colaboradores particulares. Contenido disponible bajo\n"
+"      una <a href=\"%(url)s\" class=\"inline-link\"> licencia Creative Commons</a>."
 
 #: website/site-footer.html:91
 msgid "Contribute to this site"
 msgstr "Colabora en este sitio"
 
 #: website/site-footer.html:94
-#, fuzzy
 msgid "Translate this site"
-msgstr "Colabora en este sitio"
+msgstr "Traducir este sitio"
 
 #: website/site-prefooter.html:14
-#, fuzzy
 msgid "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users."
-msgstr ""
-"Thunderbird es un proyecto de código abierto, significa que cualquiera puede contribuir ideas, diseños, código y tiempo en ayudar a otros usuarios. Se parte del gran equipo que apoya a los usuarios "
-"de Thunderbird. <a class=\"more\" href=\"%(contribute)s\">Únetenos</a>"
+msgstr "Thunderbird es un proyecto de código abierto, lo que significa que cualquiera puede aportar ideas, diseños, código y tiempo ayudando a otros usuarios."
 
 #: website/site-prefooter.html:17
 msgid "Join Us"
@@ -386,28 +385,24 @@ msgid "Make a Donation"
 msgstr "Hacer una donación"
 
 #: website/site-prefooter.html:22
-#, fuzzy
 msgid "Get Support"
-msgstr "Soporte"
+msgstr "Obtén ayuda"
 
 #: website/site-prefooter.html:24
 msgid "Report a Bug"
 msgstr "Reportar un error"
 
 #: website/site-prefooter.html:50
-#, fuzzy
 msgid "The Future of Thunderbird"
-msgstr "¿Qué es Thunderbird?"
+msgstr "El futuro de Thunderbird"
 
 #: website/site-prefooter.html:52
-#, fuzzy
 msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
-msgstr "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Envíanos tus comentarios</a> para ayudar a refinar y pulir lo que estará en la versión final"
+msgstr "Experimenta las últimas características. Proporciona tus comentarios para ayudarnos a refinar y pulir lo que contendrá la versión final."
 
 #: website/site-prefooter.html:55
-#, fuzzy
 msgid "Download Beta"
-msgstr "Descarga gratuita"
+msgstr "Descargar Beta"
 
 #: website/site-prefooter.html:67
 msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Nightly channel."
@@ -581,9 +576,8 @@ msgstr ""
 "instantáneamente. O puedes filtrar tu correo por mensajes nuevos, etiquetas y personas en tu libreta de direcciones. También puedes guardar un filtro para usarlo en muchas carpetas."
 
 #: website/features/index.html:138
-#, fuzzy
 msgid "Search Tools"
-msgstr "Búsqueda"
+msgstr "Herramientas de búsqueda"
 
 #: website/features/index.html:140
 #, fuzzy
