@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-02-11 18:14-0800\n"
-"PO-Revision-Date: 2020-03-27 17:53+0000\n"
+"PO-Revision-Date: 2020-03-27 17:58+0000\n"
 "Last-Translator: Roberto Alvarado <ralv888@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es_MX\n"
@@ -140,7 +140,6 @@ msgid "Get Involved"
 msgstr "Colabora con Thunderbird"
 
 #: website/base-resp.html:43 website/site-footer.html:21
-#, fuzzy
 msgid "Get Help"
 msgstr "Obtener ayuda"
 
@@ -320,9 +319,8 @@ msgid "Go"
 msgstr "Ir"
 
 #: website/site-footer.html:12
-#, fuzzy
 msgid "For Organizations"
-msgstr "Thunderbird para organizaciones"
+msgstr "Para organizaciones"
 
 #: website/site-footer.html:18
 msgid "Careers"
@@ -381,7 +379,6 @@ msgid "Join Us"
 msgstr "Únete a nosotros"
 
 #: website/site-prefooter.html:20
-#, fuzzy
 msgid "Make a Donation"
 msgstr "Hacer una donación"
 
@@ -415,11 +412,11 @@ msgstr "¡CUIDADO!"
 
 #: website/site-prefooter.html:73
 msgid "Nightly is an unstable testing and development platform, make sure you back up important data regularly!"
-msgstr ""
+msgstr "Nightly es una plataforma de desarrollo y pruebas inestable; ¡Asegúrate de hacer copia de seguridad de tus datos importantes periódicamente!"
 
 #: website/site-prefooter.html:76
 msgid "Download Nightly"
-msgstr ""
+msgstr "Descargar Nightly"
 
 #: website/about/index.html:22
 msgid "What is Thunderbird?"
@@ -537,17 +534,19 @@ msgstr "El recordatorio de adjuntos busca en el cuerpo de tu mensaje la palabra 
 
 #: website/features/index.html:86
 msgid "Multiple-channel chat"
-msgstr ""
+msgstr "Chat multicanal"
 
 #: website/features/index.html:88
 msgid ""
 "Enjoy real-time conversation with your contacts, right from your favorite messaging application, with multiple supported networks. Thunderbird makes it easy to search through both past conversations"
 " and received emails."
 msgstr ""
+"Disfruta de conversaciones en tiempo real con tus contactos, directamente desde tu aplicación de mensajería favorita, compatible con múltiples redes. Thunderbird facilita buscar tanto en las "
+"conversaciones anteriores como en los correos recibidos."
 
 #: website/features/index.html:109
 msgid "Tabbed Email"
-msgstr ""
+msgstr "Correo electrónico con pestañas"
 
 #: website/features/index.html:111
 msgid ""
@@ -581,13 +580,12 @@ msgid "Search Tools"
 msgstr "Herramientas de búsqueda"
 
 #: website/features/index.html:140
-#, fuzzy
 msgid ""
 "The search interface in Thunderbird contains filtering and timeline tools to pinpoint the exact email you’re looking for. Thunderbird also indexes all of your emails and chat conversations to help "
 "you search even faster. Your search results are displayed in a tab so you can easily switch back and forth to your search results and other email."
 msgstr ""
-"La interfaz de búsqueda en Thunderbird contiene herramientas de filtrado y cronología para localizar el mensaje exacto que buscas. Thunderbird también indexa todos tus mensajes para ayudarte a "
-"buscar aún más rápido. Tus resultados de búsqueda se muestran en una pestaña para que puedas alternar entre tus resultados de búsqueda y el resto de tu correo."
+"La interfaz de búsqueda en Thunderbird contiene herramientas de filtrado y cronología para localizar el mensaje exacto que buscas. Thunderbird también indexa todos tus mensajes y conversaciones de "
+"chat para ayudarte a buscar aún más rápido. Tus resultados de búsqueda se muestran en una pestaña para que puedas alternar fácilmente entre tus resultados de búsqueda y el resto de tu correo."
 
 #: website/features/index.html:149
 msgid "Message Archive"
@@ -603,17 +601,20 @@ msgstr ""
 
 #: website/features/index.html:169
 msgid "Large Files Management"
-msgstr ""
+msgstr "Administración de archivos grandes"
 
 #: website/features/index.html:171
 msgid "Share large files with Thunderbird Filelink!"
-msgstr ""
+msgstr "¡Comparte archivos de gran tamaño con Thunderbird Filelink!"
 
 #: website/features/index.html:175
 msgid ""
 "You can now speed up the transfer of large documents by uploading them to an online storage provider and sharing the link instead of sending the file directly as a message attachment. Improve the "
 "speed of sending email and avoid message rejection if the recipient’s server disallows large files. As an added bonus, you’ll also save space in your sent folder and the recipient’s inbox."
 msgstr ""
+"Ahora puedes acelerar la transferencia de documentos grandes subiéndolos a un proveedor de almacenamiento en línea y compartiendo el enlace en lugar de enviar el archivo directamente como adjunto al"
+" mensaje. Mejora la velocidad del envío de mensajes y evita su rechazo si el servidor del destinatario prohíbe archivos grandes. Como bonus adicional, también ahorrarás espacio en tu carpeta de "
+"mensajes enviados y en la bandeja de entrada del destinatario."
 
 #: website/features/index.html:188
 msgid "Thunderbird Look & Feel"
@@ -624,6 +625,8 @@ msgid ""
 "Themes allow you to change the look of Thunderbird in an instant. Working on getting to inbox zero at night? Turn on the dark theme to make managing your email easier on the eyes. Thunderbird ships "
 "with both light and dark themes, and more are available as add-ons."
 msgstr ""
+"Los temas te permiten cambiar el aspecto de Thunderbird en un instante. ¿Te esfuerzas en conseguir una bandeja de entrada vacía por la noche? Activa el tema oscuro para hacer más cómodo para tus "
+"ojos la gestión de tu correo. Thunderbird incluye los temas claro y oscuro, y hay más disponibles como complementos."
 
 #: website/features/index.html:199
 msgid "Smart Folders"
@@ -723,43 +726,49 @@ msgid ""
 "This article describes some of the major changes visible to users in Thunderbird version 68.0. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird 68 release "
 "notes</a>."
 msgstr ""
+"Este artículo describe algunos de los cambios más importantes visibles a los usuarios en Thunderbird versión 68.0. Todos los detalles de los cambios pueden encontrarse en las <a "
+"href=\"%(release)s\">notas de versión de Thunderbird 68</a>."
 
 #: website/thunderbird/68.0/whatsnew/index.html:25
 msgid "Better Dark Theme"
-msgstr ""
+msgstr "Tema oscuro mejorado"
 
 #: website/thunderbird/68.0/whatsnew/index.html:28
 msgid "The dark theme available in Thunderbird has been enhanced with a dark message thread pane as well as many other small improvements."
-msgstr ""
+msgstr "El tema oscuro disponible en Thunderbird ha sido mejorado con un panel de conversiones oscuro así como otras pequeñas mejoras."
 
 #: website/thunderbird/68.0/whatsnew/index.html:38
 msgid "Filelink Improved"
-msgstr ""
+msgstr "Filelink mejorado"
 
 #: website/thunderbird/68.0/whatsnew/index.html:41
 msgid ""
 "Filelink attachments that have already been uploaded can now be linked to again instead of having to re-upload them. Also, an account is no longer required to use the default Filelink provider - "
 "<strong>WeTransfer</strong>."
 msgstr ""
+"Los adjuntos de Filelink que ya han sido subidos pueden ser enlazados de nuevo en lugar de tener que volver a subirlos. Además, ya no hace falta una cuenta para usar el proveedor predeterminado de "
+"Filelink - <strong>WeTransfer</strong>."
 
 #: website/thunderbird/68.0/whatsnew/index.html:44
 #, python-format
 msgid "Other Filelink providers like Box and Dropbox are not included by default, but can be added by grabbing the <a href=\"%(dropbox)s\">Dropbox</a> and <a href=\"%(box)s\">Box</a> add-ons."
-msgstr ""
+msgstr "Otros proveedores Filelink como Box y Dropbox no están incluidos por defecto, pero pueden ser agregados descargando los complementos <a href=\"%(dropbox)s\">Dropbox</a> y <a href=\"%(box)s\">Box</a>."
 
 #: website/thunderbird/68.0/whatsnew/index.html:52
 msgid "Options/Preferences in a Tab"
-msgstr ""
+msgstr "Opciones/preferencias en una pestaña"
 
 #: website/thunderbird/68.0/whatsnew/index.html:55
 msgid ""
 "Thunderbirdʼs Options/Preferences have been converted from a dialog window to its own dedicated tab. The new Preferences tab provides more space which allows for better organized content and is more"
 " consistent with the look and feel of the rest of Thunderbird."
 msgstr ""
+"Las opciones/preferencias de Thunderbird han sido convertidas de la ventana de diálogo a su propia pestaña dedicada. La nueva pestaña de preferencias proporciona más espacio, lo que permite un "
+"contenido mejor organizado y es más consistente con el aspecto y comportamiento del resto de Thunderbird."
 
 #: website/thunderbird/68.0/whatsnew/index.html:58
 msgid "The new Preferences tab also makes it easier to multi-task without the problem of losing track of where your preferences are when switching between windows."
-msgstr ""
+msgstr "La nueva pestaña de preferencias también facilita la multitarea sin el problema de perder la pista de dónde están tus preferencias al moverse entre ventanas."
 
 #: website/thunderbird/68.0/whatsnew/index.html:67
 msgid "Other Notable Changes"
@@ -770,11 +779,14 @@ msgid ""
 "There are many other smaller changes that make Thunderbird 68 feel polished and powerful including: a new App Menu UI, an updated To/CC/BCC selector in compose, improved attachment management, full "
 "color support across the app, filters can now be set to run periodically, and feed articles now show external attachments as links."
 msgstr ""
+"Hay muchos otros cambios menores que hacen que Thunderbird 68 se sienta más pulido y potente, incluyendo: una nueva UI de menú de aplicación, un selector Para/CC/BCC mejorado en la redacción de "
+"mensajes, administración mejorada de adjuntos, compatibilidad completa con colores en toda la aplicación, los filtros pueden ser ahora configurados para ejecutarse periódicamente y los artículos de "
+"canales muestran ahora los adjuntos externos como enlaces."
 
 #: website/thunderbird/68.0/whatsnew/index.html:73
 #, python-format
 msgid "There are many other updates in this release, you can see a list of all of them in the <a href=\"%(release)s\">Thunderbird 68 release notes</a>."
-msgstr ""
+msgstr "Hay muchas otras actualizaciones en esta versión; puedes ver una lista de todas ellas en las <a href=\"%(release)s\">notas de versión de Thunderbird 68</a>."
 
 #: website/thunderbird/all/index.html:10
 msgid "Download Thunderbird in your language"
@@ -813,9 +825,8 @@ msgid "Download Beta in your language"
 msgstr "Descarga la versión Beta en tu idioma"
 
 #: website/thunderbird/beta/all/index.html:51
-#, fuzzy
 msgid "Fully localized beta versions"
-msgstr "Versiones traducidas por completo"
+msgstr "Versiones beta completamente localizadas"
 
 #: website/thunderbird/releases/index.html:7
 msgid "Thunderbird Release Notes"
