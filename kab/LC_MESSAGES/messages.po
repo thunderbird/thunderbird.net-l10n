@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-02-11 18:14-0800\n"
-"PO-Revision-Date: 2020-03-31 23:13+0000\n"
+"PO-Revision-Date: 2020-03-31 23:22+0000\n"
 "Last-Translator: Muhend Belkacem <taqbaylitassa@gmail.com>\n"
 "Language-Team: none\n"
 "Language: kab\n"
@@ -109,18 +109,17 @@ msgid "There’s nothing here!"
 msgstr "Ulac ayen yellan da!"
 
 #: website/404.html:9
-#, fuzzy, python-format
+#, python-format
 msgid "The page you are looking for doesn’t exist.<br/>If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
-msgstr "Asebter i tettnadiḍ ulac-it. Ma tɣileḍ d tuccḍa, tzemreḍ <a href=\"%(bug_report_url)s\"> ad tazneḍ ugur dagi</a>."
+msgstr "Asebter i tettnadiḍ ulac-it. <br/>Ma tɣileḍ d tuccḍa, tzemreḍ <a href=\"%(bug_report_url)s\">ad tazneḍ ugur dagi</a>."
 
 #: website/404.html:23
 msgid "Empty nest"
 msgstr "Lɛec d ilem"
 
 #: website/base-resp.html:20 website/site-footer.html:5
-#, fuzzy
 msgid "Thunderbird Vector Wordmark"
-msgstr "Thunderbird Beta"
+msgstr "Alugu amawayan Thunderbird"
 
 #: website/base-resp.html:29 website/base-resp.html:53 website/donate-mailing-list.html:12
 msgid "Donate"
@@ -139,7 +138,6 @@ msgid "Get Involved"
 msgstr "Ttekki"
 
 #: website/base-resp.html:43 website/site-footer.html:21
-#, fuzzy
 msgid "Get Help"
 msgstr "Awi tallelt"
 
@@ -194,9 +192,8 @@ msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
 #: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
-#, fuzzy
 msgid "Thunderbird Nightly"
-msgstr "Thunderbird Beta"
+msgstr "Thunderbird Nightly"
 
 #: website/download-button.html:66
 msgid "Systems &amp; Languages"
@@ -296,9 +293,8 @@ msgid "Manage multiple calendars, create your daily to do list, invite friends t
 msgstr ""
 
 #: website/index.html:123
-#, fuzzy
 msgid "Explore Features"
-msgstr "Timahilin"
+msgstr "Snirem timahilin"
 
 #: website/index.html:126
 msgid "Explore More Add-ons"
@@ -321,9 +317,8 @@ msgid "Go"
 msgstr "Bdu"
 
 #: website/site-footer.html:12
-#, fuzzy
 msgid "For Organizations"
-msgstr "Thunderbird i tkebbaniyin"
+msgstr "I tkebbaniyin"
 
 #: website/site-footer.html:18
 msgid "Careers"
@@ -350,7 +345,7 @@ msgid "Report Trademark Abuse"
 msgstr "Mmel-d aggad iseqdacen tacreṭ yersen"
 
 #: website/site-footer.html:80
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "Thunderbird is now part of\n"
 "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
@@ -358,35 +353,35 @@ msgid ""
 "      Portions of this content are ©1998–%(current_year)s by individual\n"
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
-msgstr "Kra n yeḥricen n ugbur-a d ©1998–%(current_year)s sɣur imttekkiyen n mozilla.org. Agbur yella ddaw n <a  href=\"%(url)s\"> turagt Creative Commons</a>."
+msgstr ""
+"Thunderbird akka tura d aḥric seg\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+"      takebbanit n tesbeddit Mozilla Foundation.\n"
+"      Kra n yiḥricen seg ugbur d ©1998–%(current_year)s sɣur imttekkiyen \n"
+"      imdanen. Agbur yella Content s turagt\n"
+"      <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 
 #: website/site-footer.html:91
 msgid "Contribute to this site"
 msgstr "Ttekki deg usmel-a"
 
 #: website/site-footer.html:94
-#, fuzzy
 msgid "Translate this site"
-msgstr "Ttekki deg usmel-a"
+msgstr "Suqel asmel-a"
 
 #: website/site-prefooter.html:14
-#, fuzzy
 msgid "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users."
-msgstr ""
-"Thunderbird d asenfar n uɣbalu yeldin, aya yebɣa ad d-yini belli yal yiwen izmer ad ittekki s tiktiwin, s isental, s tangalt akk s wakud akken ad d-yefk afus i yiseqdacen nniḍen. Uɣal d yiwen ger "
-"iɛeggalen n tarbaɛt yesnernayen Thunderbird. <a class=\"more\" href=\"%(contribute)s\">rnu-d ɣur-neɣ</a>"
+msgstr "Thunderbird d asenfar n uɣbalu yeldin, aya yebɣa ad d-yini belli yal yiwen izmer ad ittekki s tiktiwin, s ufeṣṣel, s tangalt, d wakud ara iɛewnen iseqdacen-nniḍen."
 
 #: website/site-prefooter.html:17
 msgid "Join Us"
 msgstr "Ddu-d ɣur-neɣ"
 
 #: website/site-prefooter.html:20
-#, fuzzy
 msgid "Make a Donation"
 msgstr "Mudd tawsa"
 
 #: website/site-prefooter.html:22
-#, fuzzy
 msgid "Get Support"
 msgstr "Tallelt"
 
@@ -395,19 +390,16 @@ msgid "Report a Bug"
 msgstr "Azen-d abug"
 
 #: website/site-prefooter.html:50
-#, fuzzy
 msgid "The Future of Thunderbird"
-msgstr "Thunderbird"
+msgstr "Imal n Thunderbird"
 
 #: website/site-prefooter.html:52
-#, fuzzy
 msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
-msgstr "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">fke-d rray-ik</a> akken ad fkeḍ afus n tallelt ad nqaεed lqem aneggaru"
+msgstr "Wali meṛṛa timahilin tineggura. Mudd-aɣ-d tikta-ik akken ad nizmir ad nesnerni lqem anaggaru."
 
 #: website/site-prefooter.html:55
-#, fuzzy
 msgid "Download Beta"
-msgstr "Sider baṭel"
+msgstr "Sader Beta"
 
 #: website/site-prefooter.html:67
 msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Nightly channel."
@@ -426,9 +418,8 @@ msgid "Download Nightly"
 msgstr "Sider Nightly"
 
 #: website/about/index.html:22
-#, fuzzy
 msgid "What is Thunderbird?"
-msgstr "Thunderbird"
+msgstr "D acu-t Thunderbird?"
 
 #: website/about/index.html:24
 msgid "Software made to make email easier."
@@ -464,9 +455,8 @@ msgid ""
 msgstr ""
 
 #: website/about/index.html:69
-#, fuzzy
 msgid "Thunderbird Council"
-msgstr "Thunderbird"
+msgstr "Agraw Thunderbird"
 
 #: website/about/index.html:71
 #, python-format
@@ -579,9 +569,8 @@ msgstr ""
 "imaynuten, Tibzimin, akked yemdanen n imedlis inek n tensa. Tzemreḍ daɣen ad sekelseḍ imzizdig akked ad tesqedceḍ tikelt nniḍen."
 
 #: website/features/index.html:138
-#, fuzzy
 msgid "Search Tools"
-msgstr "Nadi"
+msgstr "Ifecka n unadi"
 
 #: website/features/index.html:140
 #, fuzzy
@@ -717,9 +706,8 @@ msgstr ""
 "taɣellist tamatut."
 
 #: website/thunderbird/68.0/whatsnew/index.html:7
-#, fuzzy
 msgid "New in Thunderbird 68"
-msgstr "Thunderbird"
+msgstr "Amaynut deg Thunderbird 68"
 
 #: website/thunderbird/68.0/whatsnew/index.html:13
 #, python-format
@@ -766,9 +754,8 @@ msgid "The new Preferences tab also makes it easier to multi-task without the pr
 msgstr ""
 
 #: website/thunderbird/68.0/whatsnew/index.html:67
-#, fuzzy
 msgid "Other Notable Changes"
-msgstr "Tutlayin-nniḍen:"
+msgstr "Ibeddilen-nniḍen meqqren"
 
 #: website/thunderbird/68.0/whatsnew/index.html:70
 msgid ""
@@ -818,14 +805,12 @@ msgid "Download Beta in your language"
 msgstr "Sider Beta s tutlayt-ik"
 
 #: website/thunderbird/beta/all/index.html:51
-#, fuzzy
 msgid "Fully localized beta versions"
-msgstr "Ileqman yettwasidgen merra"
+msgstr "Ileqman beta yettwasiden meṛṛa"
 
 #: website/thunderbird/releases/index.html:7
-#, fuzzy
 msgid "Thunderbird Release Notes"
-msgstr "Ileqman n Thunderbird"
+msgstr "Iwenniten n lqem n Thunderbird"
 
 #: website/thunderbird/releases/index.html:8 website/thunderbird/releases/index.html:23
 msgid "Release notes for each version of Thunderbird."
