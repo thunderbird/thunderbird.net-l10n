@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-02-11 18:14-0800\n"
-"PO-Revision-Date: 2019-04-11 02:40+0000\n"
+"PO-Revision-Date: 2020-04-02 22:35+0000\n"
 "Last-Translator: Cláudio Esperança <cesperanc@gmail.com>\n"
 "Language-Team: none\n"
 "Language: pt_PT\n"
@@ -113,18 +113,17 @@ msgid "There’s nothing here!"
 msgstr "Não há nada aqui!"
 
 #: website/404.html:9
-#, fuzzy, python-format
+#, python-format
 msgid "The page you are looking for doesn’t exist.<br/>If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
-msgstr "A página que está à procura não existe. Se acha que isto é um bug, pode <a href=\"%(bug_report_url)s\">reportar um problema aqui</a>."
+msgstr "A página que está à procura não existe. <br/>Se acha que isto é um erro, pode <a href=\"%(bug_report_url)s\">reportar um problema aqui</a>."
 
 #: website/404.html:23
 msgid "Empty nest"
 msgstr "Ninho vazio"
 
 #: website/base-resp.html:20 website/site-footer.html:5
-#, fuzzy
 msgid "Thunderbird Vector Wordmark"
-msgstr "Thunderbird Beta"
+msgstr "Thunderbird Vector Wordmark"
 
 #: website/base-resp.html:29 website/base-resp.html:53 website/donate-mailing-list.html:12
 msgid "Donate"
@@ -143,7 +142,6 @@ msgid "Get Involved"
 msgstr "Participe"
 
 #: website/base-resp.html:43 website/site-footer.html:21
-#, fuzzy
 msgid "Get Help"
 msgstr "Obter ajuda"
 
@@ -198,9 +196,8 @@ msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
 #: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
-#, fuzzy
 msgid "Thunderbird Nightly"
-msgstr "Thunderbird Beta"
+msgstr "Thunderbird Nightly"
 
 #: website/download-button.html:66
 msgid "Systems &amp; Languages"
@@ -299,9 +296,8 @@ msgid "Manage multiple calendars, create your daily to do list, invite friends t
 msgstr ""
 
 #: website/index.html:123
-#, fuzzy
 msgid "Explore Features"
-msgstr "Funcionalidades"
+msgstr "Explorar as funcionalidades"
 
 #: website/index.html:126
 msgid "Explore More Add-ons"
@@ -324,9 +320,8 @@ msgid "Go"
 msgstr "Ir"
 
 #: website/site-footer.html:12
-#, fuzzy
 msgid "For Organizations"
-msgstr "Thunderbird para organizações"
+msgstr "Para organizações"
 
 #: website/site-footer.html:18
 msgid "Careers"
@@ -353,7 +348,7 @@ msgid "Report Trademark Abuse"
 msgstr "Reportar abuso de marca registada"
 
 #: website/site-footer.html:80
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "Thunderbird is now part of\n"
 "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
@@ -362,58 +357,52 @@ msgid ""
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
-"Partes deste conteúdo são ©1998–%(current_year)s por colaboradores\n"
-"              individuais da mozilla.org. Conteúdo disponível sob\n"
-"              uma <a href=\"%(url)s\">licença da Creative Commons</a>."
+"O Thunderbird é agora parte de\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+"      uma subsidiária integralmente detida pela Mozilla Foundation.\n"
+"      Partes deste conteúdo são ©1998–%(current_year)s de colaboradores\n"
+"      individuais. Conteúdo disponível sob\n"
+"      uma <a href=\"%(url)s\" class=\"inline-link\">licença Creative Commons</a>."
 
 #: website/site-footer.html:91
 msgid "Contribute to this site"
 msgstr "Contribuir para este site"
 
 #: website/site-footer.html:94
-#, fuzzy
 msgid "Translate this site"
-msgstr "Contribuir para este site"
+msgstr "Traduzir este site"
 
 #: website/site-prefooter.html:14
-#, fuzzy
 msgid "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users."
-msgstr ""
-"O Thunderbird é um projeto de código aberto, o que significa que qualquer pessoa pode contribuir com ideias, designs, código e tempo para ajudar outros utilizadores. Faça parte de uma equipa que "
-"apoia os utilizadores do Thunderbird e que tornam o Thunderbird fantástico. <a class=\"more\" href=\"%(contribute)s\">Junte-se a nós</a>"
+msgstr "O Thunderbird é um projeto de código aberto, o que significa que qualquer pessoa pode contribuir com ideias, designs, código e tempo para ajudar outros utilizadores."
 
 #: website/site-prefooter.html:17
 msgid "Join Us"
 msgstr ""
 
 #: website/site-prefooter.html:20
-#, fuzzy
 msgid "Make a Donation"
 msgstr "Faça um donativo"
 
 #: website/site-prefooter.html:22
-#, fuzzy
 msgid "Get Support"
-msgstr "Apoio"
+msgstr "Obter apoio"
 
 #: website/site-prefooter.html:24
 msgid "Report a Bug"
 msgstr ""
 
 #: website/site-prefooter.html:50
-#, fuzzy
 msgid "The Future of Thunderbird"
-msgstr "O que é o Thunderbird?"
+msgstr "O futuro do Thunderbird"
 
 #: website/site-prefooter.html:52
-#, fuzzy
 msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
-msgstr "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Providencie feedback</a> para ajudar a redefinir e polir o que irá ficar no lançamento final"
+msgstr "Experimente funcionalidades de vanguarda. Dê feedback para ajudar a refinar e melhorar a versão final."
 
 #: website/site-prefooter.html:55
-#, fuzzy
 msgid "Download Beta"
-msgstr "Transferir gratuitamente"
+msgstr "Transferir a versão Beta"
 
 #: website/site-prefooter.html:67
 msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Nightly channel."
@@ -590,19 +579,17 @@ msgstr ""
 "várias pastas."
 
 #: website/features/index.html:138
-#, fuzzy
 msgid "Search Tools"
-msgstr "Pesquisa"
+msgstr "Ferramentas de pesquisa"
 
 #: website/features/index.html:140
-#, fuzzy
 msgid ""
 "The search interface in Thunderbird contains filtering and timeline tools to pinpoint the exact email you’re looking for. Thunderbird also indexes all of your emails and chat conversations to help "
 "you search even faster. Your search results are displayed in a tab so you can easily switch back and forth to your search results and other email."
 msgstr ""
-"O interface de pesquisa no Thunderbird contém ferramentas de filtragem e cronologia para apontar para o email exato que está à procura. O Thunderbird também indexa todos os seus emails para o ajudar"
-" a pesquisar ainda mais rapidamente. Os seus resultados de pesquisa são mostrados num separador para que possa alternar rapidamente para a frente e para trás entre os resultados da pesquisa e o seu "
-"outro correio."
+"O interface de pesquisa no Thunderbird contém ferramentas de filtragem e linha temporal para apontar para o e-mail específico que está à procura. O Thunderbird também indexa todos os seus e-mails e "
+"conversas para o ajudar a pesquisar ainda mais rapidamente. Os seus resultados de pesquisa são mostrados num separador para que possa alternar rapidamente para a frente e para trás, entre os "
+"resultados da pesquisa e o seu outro correio."
 
 #: website/features/index.html:149
 msgid "Message Archive"
@@ -729,9 +716,8 @@ msgstr ""
 "das melhores ferramentas de análise e de avaliação de terceiros para melhorar ainda mais a segurança geral."
 
 #: website/thunderbird/68.0/whatsnew/index.html:7
-#, fuzzy
 msgid "New in Thunderbird 68"
-msgstr "Thunderbird"
+msgstr "Novo no Thunderbird 68"
 
 #: website/thunderbird/68.0/whatsnew/index.html:13
 #, python-format
@@ -778,9 +764,8 @@ msgid "The new Preferences tab also makes it easier to multi-task without the pr
 msgstr ""
 
 #: website/thunderbird/68.0/whatsnew/index.html:67
-#, fuzzy
 msgid "Other Notable Changes"
-msgstr "Outros idiomas:"
+msgstr "Outras mudanças assinaláveis"
 
 #: website/thunderbird/68.0/whatsnew/index.html:70
 msgid ""
@@ -815,9 +800,8 @@ msgid "Release notes"
 msgstr "Notas de lançamento"
 
 #: website/thunderbird/all/index.html:41
-#, fuzzy
 msgid "All Releases"
-msgstr "Lançamentos"
+msgstr "Todos os lançamentos"
 
 #: website/thunderbird/all/index.html:55
 msgid "Fully localized versions"
@@ -832,9 +816,8 @@ msgid "Download Beta in your language"
 msgstr "Transfira a Beta no seu idioma"
 
 #: website/thunderbird/beta/all/index.html:51
-#, fuzzy
 msgid "Fully localized beta versions"
-msgstr "Versões completamente traduzidas"
+msgstr "Versões beta totalmente traduzidas"
 
 #: website/thunderbird/releases/index.html:7
 #, fuzzy
