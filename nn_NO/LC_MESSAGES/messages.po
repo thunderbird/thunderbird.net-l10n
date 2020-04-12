@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-02-11 18:14-0800\n"
-"PO-Revision-Date: 2020-02-04 01:12+0000\n"
+"PO-Revision-Date: 2020-04-12 00:29+0000\n"
 "Last-Translator: Björn I. <bjorni.svindseth@yahoo.com>\n"
 "Language-Team: none\n"
 "Language: nn_NO\n"
@@ -345,7 +345,7 @@ msgid "Report Trademark Abuse"
 msgstr "Rapporter merkevaremisbruk"
 
 #: website/site-footer.html:80
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "Thunderbird is now part of\n"
 "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
@@ -354,8 +354,11 @@ msgid ""
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
-"Delar av dette innhaldet er ©1998–%(current_year)s individuelle\n"
-"      mozilla.org-bidragsytarar. Innhaldet er tilgjengeleg under\n"
+"Thunderbird er no ein del av\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+"      eit heileigd dotterselskap av Mozilla Foundation.\n"
+"      Delar av dette innhaldet er ©1998-%(current_year)s individuelle\n"
+"      bidragsytarar. Innhaldet er tilgjengeleg under\n"
 "      ein <a href=\"%(url)s\" class=\"inline-link\">Creative Commons-lisens</a>."
 
 #: website/site-footer.html:91
@@ -363,9 +366,8 @@ msgid "Contribute to this site"
 msgstr "Bidra til denne nettstaden"
 
 #: website/site-footer.html:94
-#, fuzzy
 msgid "Translate this site"
-msgstr "Bidra til denne nettstaden"
+msgstr "Omset denne nettstaden"
 
 #: website/site-prefooter.html:14
 msgid "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users."
