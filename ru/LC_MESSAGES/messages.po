@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-02-11 18:14-0800\n"
-"PO-Revision-Date: 2020-03-16 21:44+0000\n"
-"Last-Translator: Victor Bychek <a@bychek.ru>\n"
+"PO-Revision-Date: 2020-04-18 18:50+0000\n"
+"Last-Translator: Alexander Slovesnik <unghost@mozilla-russia.org>\n"
 "Language-Team: none\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -164,7 +164,7 @@ msgstr "Подпишитесь на нашу рассылку"
 
 #: website/donate-mailing-list.html:19
 msgid "Keep up with the latest and greatest updates on news, features, events, and previews, and get a sneak peek on the upcoming releases."
-msgstr ""
+msgstr "Будьте в курсе последних новостей, новых функций и событий, а также узнавайте о предстоящих выпусках."
 
 #: website/donate-mailing-list.html:26
 msgid "Your Email"
@@ -612,6 +612,9 @@ msgid ""
 "You can now speed up the transfer of large documents by uploading them to an online storage provider and sharing the link instead of sending the file directly as a message attachment. Improve the "
 "speed of sending email and avoid message rejection if the recipient’s server disallows large files. As an added bonus, you’ll also save space in your sent folder and the recipient’s inbox."
 msgstr ""
+"Теперь вы можете ускорить передачу больших файлов, загрузив их в облачное хранилище и поделившись ссылкой, а не отправляя файл непосредственно во вложении. Повысьте скорость отправки электронной "
+"почты и избегайте отклонения сообщений, если сервер получателя не позволяет получать большие файлы. Как дополнительный бонус, вы также сэкономите место в своей папке «Отправленные» и в папке "
+"«Входящие» у получателя."
 
 #: website/features/index.html:188
 msgid "Thunderbird Look & Feel"
@@ -622,6 +625,8 @@ msgid ""
 "Themes allow you to change the look of Thunderbird in an instant. Working on getting to inbox zero at night? Turn on the dark theme to make managing your email easier on the eyes. Thunderbird ships "
 "with both light and dark themes, and more are available as add-ons."
 msgstr ""
+"Темы позволяют мгновенно изменить внешний вид Thunderbird. Работаете ночью, читая кучу писем? Включите тёмную тему, чтобы снизить нагрузку на глаза. Thunderbird поставляется как со светлой, так и с "
+"тёмной темами, а многие другие доступны в виде дополнений."
 
 #: website/features/index.html:199
 msgid "Smart Folders"
@@ -741,11 +746,13 @@ msgid ""
 "Filelink attachments that have already been uploaded can now be linked to again instead of having to re-upload them. Also, an account is no longer required to use the default Filelink provider - "
 "<strong>WeTransfer</strong>."
 msgstr ""
+"Вложения Filelink, выгруженные ранее, теперь можно прикрепить заново, вместо необходимости их повторной выгрузки. Кроме того, для использования облачного провайдера Filelink по умолчанию — "
+"<strong>WeTransfer</strong> — более не требуется создавать учётную запись."
 
 #: website/thunderbird/68.0/whatsnew/index.html:44
 #, python-format
 msgid "Other Filelink providers like Box and Dropbox are not included by default, but can be added by grabbing the <a href=\"%(dropbox)s\">Dropbox</a> and <a href=\"%(box)s\">Box</a> add-ons."
-msgstr ""
+msgstr "Другие провайдеры Filelink, такие как Box и Dropbox, не включены по умолчанию, но их можно активировать, установив дополнения <a href=\"%(dropbox)s\">Dropbox</a> и <a href=\"%(box)s\">Box</a>."
 
 #: website/thunderbird/68.0/whatsnew/index.html:52
 msgid "Options/Preferences in a Tab"
@@ -772,11 +779,14 @@ msgid ""
 "There are many other smaller changes that make Thunderbird 68 feel polished and powerful including: a new App Menu UI, an updated To/CC/BCC selector in compose, improved attachment management, full "
 "color support across the app, filters can now be set to run periodically, and feed articles now show external attachments as links."
 msgstr ""
+"Есть также множество других изменений, которые делают Thunderbird 68 более совершенным и функциональным, например: новый интерфейс меню, обновлённый переключатель Кому / Копия / Скрытая копия при "
+"создании сообщения, усовершенствованное управление вложениями, полноцветная поддержка во всей программе, возможность периодического запуска фильтров, а в лентах новостей внешние вложения теперь "
+"отображаются в виде ссылок."
 
 #: website/thunderbird/68.0/whatsnew/index.html:73
 #, python-format
 msgid "There are many other updates in this release, you can see a list of all of them in the <a href=\"%(release)s\">Thunderbird 68 release notes</a>."
-msgstr ""
+msgstr "В этом релизе есть множество других обновлений, и вы можете ознакомиться с ними в <a href=\"%(release)s\">Примечаниях к выпуску Thunderbird 68</a>."
 
 #: website/thunderbird/all/index.html:10
 msgid "Download Thunderbird in your language"
