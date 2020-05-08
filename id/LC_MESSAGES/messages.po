@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-02-11 18:14-0800\n"
-"PO-Revision-Date: 2020-05-08 00:41+0000\n"
+"PO-Revision-Date: 2020-05-08 00:51+0000\n"
 "Last-Translator: Fauzan Alfi <fauzan.alfi@gmail.com>\n"
 "Language-Team: none\n"
 "Language: id\n"
@@ -113,18 +113,17 @@ msgid "There’s nothing here!"
 msgstr "Tidak ada apa-apa di sini!"
 
 #: website/404.html:9
-#, fuzzy, python-format
+#, python-format
 msgid "The page you are looking for doesn’t exist.<br/>If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
-msgstr "Laman yang Anda cari tidak ada. Jika Anda merasa ini adalah kekutu, Anda dapat <a href=\"%(bug_report_url)s\">melaporkan masalahnya di sini</a>."
+msgstr "Laman yang Anda cari tidak ada.<br/>Jika Anda merasa ini adalah kekutu, Anda dapat <a href=\"%(bug_report_url)s\">melaporkan masalahnya di sini</a>."
 
 #: website/404.html:23
 msgid "Empty nest"
 msgstr "Sarang kosong"
 
 #: website/base-resp.html:20 website/site-footer.html:5
-#, fuzzy
 msgid "Thunderbird Vector Wordmark"
-msgstr "Thunderbird Beta"
+msgstr "Thunderbird Vector Wordmark"
 
 #: website/base-resp.html:29 website/base-resp.html:53 website/donate-mailing-list.html:12
 msgid "Donate"
@@ -143,9 +142,8 @@ msgid "Get Involved"
 msgstr "Mari Berperan"
 
 #: website/base-resp.html:43 website/site-footer.html:21
-#, fuzzy
 msgid "Get Help"
-msgstr "Dapatkan bantuan"
+msgstr "Dapatkan Bantuan"
 
 #: website/about/index.html:7 website/base-resp.html:46 website/site-footer.html:27
 msgid "About Us"
@@ -198,9 +196,8 @@ msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
 #: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
-#, fuzzy
 msgid "Thunderbird Nightly"
-msgstr "Thunderbird Beta"
+msgstr "Thunderbird Nightly"
 
 #: website/download-button.html:66
 msgid "Systems &amp; Languages"
@@ -299,9 +296,8 @@ msgid "Manage multiple calendars, create your daily to do list, invite friends t
 msgstr "Kelola beberapa kalender, buat daftar kegiatan harian Anda, undang teman ke acara, dan berlangganan kalender umum."
 
 #: website/index.html:123
-#, fuzzy
 msgid "Explore Features"
-msgstr "Fitur"
+msgstr "Jelajahi Fitur"
 
 #: website/index.html:126
 msgid "Explore More Add-ons"
@@ -324,9 +320,8 @@ msgid "Go"
 msgstr "Mulai"
 
 #: website/site-footer.html:12
-#, fuzzy
 msgid "For Organizations"
-msgstr "Thunderbird untuk Organisasi"
+msgstr "Untuk Organisasi"
 
 #: website/site-footer.html:18
 msgid "Careers"
@@ -353,7 +348,7 @@ msgid "Report Trademark Abuse"
 msgstr "Laporkan Penyalahgunaan Merek Dagang"
 
 #: website/site-footer.html:80
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "Thunderbird is now part of\n"
 "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
@@ -361,56 +356,53 @@ msgid ""
 "      Portions of this content are ©1998–%(current_year)s by individual\n"
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
-msgstr "Hak cipta ©1998–%(current_year)s oleh kontributor individual mozilla.org untuk bagian konten ini. Konten tersedia di bawah <a href=\"%(url)s\">lisensi Creative Commons</a>."
+msgstr ""
+"Thunderbird sekarang bagian dari\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+"      anak perusahaan yang sepenuhnya dimiliki oleh Mozilla Foundation.\n"
+"      Bagian dari konten ini adalah hak cipta ©1998–%(current_year)s oleh kontributor\n"
+"      individual. Konten tersedia di bawah\n"
+"      a <a href=\"%(url)s\" class=\"inline-link\">lisensi Creative Commons</a>."
 
 #: website/site-footer.html:91
 msgid "Contribute to this site"
 msgstr "Berkontribusi ke situs ini"
 
 #: website/site-footer.html:94
-#, fuzzy
 msgid "Translate this site"
-msgstr "Berkontribusi ke situs ini"
+msgstr "Terjemahkan laman ini"
 
 #: website/site-prefooter.html:14
-#, fuzzy
 msgid "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users."
-msgstr ""
-"Thunderbird adalah proyek sumber terbuka, yang berarti siapa saja dapat menyumbangkan ide, desain, kode, dan waktu untuk membantu sesama pengguna. Jadilah bagian dari tim yang mendukung pengguna "
-"Thunderbird, dan jadikan Thunderbird semakin mengagumkan. <a class=\"more\" href=\"%(contribute)s\">Bergabunglah</a>"
+msgstr "Thunderbird adalah proyek sumber terbuka, yang berarti siapa pun dapat menyumbangkan ide, desain, kode, dan waktu untuk membantu sesama pengguna."
 
 #: website/site-prefooter.html:17
 msgid "Join Us"
 msgstr "Mari Berperan"
 
 #: website/site-prefooter.html:20
-#, fuzzy
 msgid "Make a Donation"
 msgstr "Berdonasi"
 
 #: website/site-prefooter.html:22
-#, fuzzy
 msgid "Get Support"
-msgstr "Layanan Dukungan"
+msgstr "Dapatkan Dukungan"
 
 #: website/site-prefooter.html:24
 msgid "Report a Bug"
 msgstr "Laporkan Kutu"
 
 #: website/site-prefooter.html:50
-#, fuzzy
 msgid "The Future of Thunderbird"
-msgstr "Apa itu Thunderbird?"
+msgstr "Masa Depan Thunderbird"
 
 #: website/site-prefooter.html:52
-#, fuzzy
 msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
-msgstr "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Berikan masukan</a> untuk bantu memperbaiki dan meningkatkan apa yang akan hadir pada rilis final"
+msgstr "Nikmati fitur-fitur terkini. Berikan umpan balik untuk membantu memperbaiki dan memoles apa yang akan ada di rilis final."
 
 #: website/site-prefooter.html:55
-#, fuzzy
 msgid "Download Beta"
-msgstr "Unduh Gratis"
+msgstr "Unduh Beta"
 
 #: website/site-prefooter.html:67
 msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Nightly channel."
@@ -584,18 +576,16 @@ msgstr ""
 "menyaring email Anda dengan Pesan Baru, Tag, dan orang pada Buku Alamat. Anda dapat juga \"Pin\" atau simpan Penyaringan dan gunakan pada lintas folder."
 
 #: website/features/index.html:138
-#, fuzzy
 msgid "Search Tools"
-msgstr "Cari"
+msgstr "Alat Pencarian"
 
 #: website/features/index.html:140
-#, fuzzy
 msgid ""
 "The search interface in Thunderbird contains filtering and timeline tools to pinpoint the exact email you’re looking for. Thunderbird also indexes all of your emails and chat conversations to help "
 "you search even faster. Your search results are displayed in a tab so you can easily switch back and forth to your search results and other email."
 msgstr ""
-"Antarmuka pencarian pada Thunderbird mengandung penyaringan dan alat liniwaktu untuk melakukan pin email yang Anda cari. THunderbird juga mengindeks seluruh email Anda untuk membantu Anda mencari "
-"lebih cepat. Hasil pencarian Anda juga ditampilkan dalam tab sehingga Anda dapat dengan mudah kembali dan maju untuk hasil pencarian Anda dan email lainnya."
+"Antarmuka pencarian di Thunderbird berisi alat penyaringan dan garis waktu untuk menentukan dengan tepat surel yang Anda cari. Thunderbird juga mengindeks semua surel dan percakapan obrolan Anda "
+"untuk membantu Anda mencari lebih cepat. Hasil pencarian Anda ditampilkan di tab sehingga Anda dapat dengan mudah beralih ke hasil pencarian dan surel lainnya."
 
 #: website/features/index.html:149
 msgid "Message Archive"
@@ -726,9 +716,8 @@ msgstr ""
 " pihak ketiga yang terbaik untuk menunjang lebih keamanan secara menyeluruh."
 
 #: website/thunderbird/68.0/whatsnew/index.html:7
-#, fuzzy
 msgid "New in Thunderbird 68"
-msgstr "Thunderbird"
+msgstr "Baru di Thunderbird 68"
 
 #: website/thunderbird/68.0/whatsnew/index.html:13
 #, python-format
@@ -781,20 +770,22 @@ msgid "The new Preferences tab also makes it easier to multi-task without the pr
 msgstr "Tab Pengaturan baru juga memudahkan multi-tugas tanpa masalah kehilangan jejak di mana preferensi Anda saat beralih di antara jendela."
 
 #: website/thunderbird/68.0/whatsnew/index.html:67
-#, fuzzy
 msgid "Other Notable Changes"
-msgstr "Bahasa Lainnya"
+msgstr "Pengubahan Terkemuka Lainnya"
 
 #: website/thunderbird/68.0/whatsnew/index.html:70
 msgid ""
 "There are many other smaller changes that make Thunderbird 68 feel polished and powerful including: a new App Menu UI, an updated To/CC/BCC selector in compose, improved attachment management, full "
 "color support across the app, filters can now be set to run periodically, and feed articles now show external attachments as links."
 msgstr ""
+"Ada banyak perubahan kecil lainnya yang membuat Thunderbird 68 merasa dipoles dan kuat termasuk: Antarmuka Menu Aplikasi baru, pemilih Kepada/CC/BCC yang diperbarui dalam komposisi, manajemen "
+"lampiran yang ditingkatkan, dukungan warna penuh di seluruh aplikasi, filter sekarang dapat diatur untuk berjalan secara berkala, dan artikel umpan sekarang menunjukkan lampiran eksternal sebagai "
+"tautan."
 
 #: website/thunderbird/68.0/whatsnew/index.html:73
 #, python-format
 msgid "There are many other updates in this release, you can see a list of all of them in the <a href=\"%(release)s\">Thunderbird 68 release notes</a>."
-msgstr ""
+msgstr "Ada banyak pembaruan lain dalam rilis ini, Anda dapat melihat daftar semuanya di <a href=\"%(release)s\">catatan rilis Thunderbird 68</a>."
 
 #: website/thunderbird/all/index.html:10
 msgid "Download Thunderbird in your language"
@@ -819,9 +810,8 @@ msgid "Release notes"
 msgstr "Catatan rilis"
 
 #: website/thunderbird/all/index.html:41
-#, fuzzy
 msgid "All Releases"
-msgstr "Rilis"
+msgstr "Semua Rilis"
 
 #: website/thunderbird/all/index.html:55
 msgid "Fully localized versions"
@@ -829,21 +819,19 @@ msgstr "Versi pelokalan lengkap"
 
 #: website/thunderbird/all/index.html:57 website/thunderbird/beta/all/index.html:53
 msgid "Choose your Language and Operating System"
-msgstr ""
+msgstr "Pilih Bahasa dan Sistem Operasi Anda"
 
 #: website/thunderbird/beta/all/index.html:10
 msgid "Download Beta in your language"
 msgstr "Unduh Beta dalam bahasa Anda"
 
 #: website/thunderbird/beta/all/index.html:51
-#, fuzzy
 msgid "Fully localized beta versions"
-msgstr "Versi pelokalan lengkap"
+msgstr "Versi beta sepenuhnya dilokalkan"
 
 #: website/thunderbird/releases/index.html:7
-#, fuzzy
 msgid "Thunderbird Release Notes"
-msgstr "Rilis Thunderbird"
+msgstr "Catatan Rilis Thunderbird"
 
 #: website/thunderbird/releases/index.html:8 website/thunderbird/releases/index.html:23
 msgid "Release notes for each version of Thunderbird."
