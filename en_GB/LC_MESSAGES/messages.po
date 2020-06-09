@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-02-11 18:14-0800\n"
+"POT-Creation-Date: 2020-06-09 11:36-0700\n"
 "PO-Revision-Date: 2020-02-15 14:46+0000\n"
 "Last-Translator: Ian Neal <iann_bugzilla@blueyonder.co.uk>\n"
 "Language-Team: none\n"
@@ -99,8 +99,8 @@ msgstr ""
 "Think you’ve found a problem with Thunderbird? <a href=\"%(bug)s\">Create a bug report</a> so that we can make sure it gets solved. Helping us identify and fix bugs makes for a better Thunderbird "
 "for all."
 
-#: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:137
-#: website/index.html:156 website/site-footer.html:4 website/site-footer.html:48
+#: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:142
+#: website/index.html:161 website/site-footer.html:4 website/site-footer.html:48
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
@@ -121,7 +121,7 @@ msgstr "Empty nest"
 msgid "Thunderbird Vector Wordmark"
 msgstr "Thunderbird Vector Wordmark"
 
-#: website/base-resp.html:29 website/base-resp.html:53 website/donate-mailing-list.html:12
+#: website/base-resp.html:29 website/base-resp.html:53 website/donate-mailing-list.html:17
 msgid "Donate"
 msgstr "Donate"
 
@@ -149,27 +149,27 @@ msgstr "About Us"
 msgid "Blog"
 msgstr "Blog"
 
-#: website/donate-mailing-list.html:7
+#: website/donate-mailing-list.html:11
 msgid "Thunderbird is funded by users like you"
 msgstr "Thunderbird is funded by users like you"
 
-#: website/donate-mailing-list.html:9
+#: website/donate-mailing-list.html:14
 msgid "Thunderbird is both free and freedom respecting, but we’re also completely funded by donations! Help us sustain the project and continue to improve."
 msgstr "Thunderbird is both free and freedom respecting, but we’re also completely funded by donations! Help us sustain the project and continue to improve."
 
-#: website/donate-mailing-list.html:17
+#: website/donate-mailing-list.html:26
 msgid "Join our Newsletter"
 msgstr "Join our Newsletter"
 
-#: website/donate-mailing-list.html:19
+#: website/donate-mailing-list.html:29
 msgid "Keep up with the latest and greatest updates on news, features, events, and previews, and get a sneak peek on the upcoming releases."
 msgstr "Keep up with the latest and greatest updates on news, features, events, and previews, and get a sneak peek on the upcoming releases."
 
-#: website/donate-mailing-list.html:26
+#: website/donate-mailing-list.html:36
 msgid "Your Email"
 msgstr "Your Email"
 
-#: website/donate-mailing-list.html:28
+#: website/donate-mailing-list.html:38
 msgid "Sign me up!"
 msgstr "Sign me up!"
 
@@ -259,47 +259,47 @@ msgstr "With Add-ons (Extensions & Themes) and many more features you can change
 msgid "Make it personal"
 msgstr "Make it personal"
 
-#: website/index.html:66
+#: website/index.html:70
 msgid "Stay in the loop"
 msgstr "Stay in the loop"
 
-#: website/index.html:68
+#: website/index.html:73
 msgid "Keep yourself up to date with recent announcements and releases by following the official Thunderbird Blog!"
 msgstr "Keep yourself up to date with recent announcements and releases by following the official Thunderbird Blog!"
 
-#: website/index.html:92
+#: website/index.html:97
 msgid "Read the Blog"
 msgstr "Read the Blog"
 
-#: website/about/index.html:37 website/index.html:103
+#: website/about/index.html:37 website/index.html:108
 msgid "Lightning Calendar screenshot"
 msgstr "Lightning Calendar screenshot"
 
-#: website/index.html:110
+#: website/index.html:115
 msgid "Lightning Calendar"
 msgstr "Lightning Calendar"
 
-#: website/index.html:112
+#: website/index.html:117
 msgid "Organize your life — it’s about time!"
 msgstr "Organise your life — it’s about time!"
 
-#: website/index.html:117
+#: website/index.html:122
 msgid "Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird email."
 msgstr "Organise your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird email."
 
-#: website/index.html:120
+#: website/index.html:125
 msgid "Manage multiple calendars, create your daily to do list, invite friends to events, and subscribe to public calendars."
 msgstr "Manage multiple calendars, create your daily to do list, invite friends to events, and subscribe to public calendars."
 
-#: website/index.html:123
+#: website/index.html:128
 msgid "Explore Features"
 msgstr "Explore Features"
 
-#: website/index.html:126
+#: website/index.html:131
 msgid "Explore More Add-ons"
 msgstr "Explore More Add-ons"
 
-#: website/download/index.html:35 website/download/index.html:55 website/index.html:142 website/index.html:162
+#: website/download/index.html:35 website/download/index.html:55 website/index.html:147 website/index.html:167
 msgid "Mozilla"
 msgstr "Mozilla"
 
@@ -340,10 +340,15 @@ msgid "Participation Guidelines"
 msgstr "Participation Guidelines"
 
 #: website/site-footer.html:75
-msgid "Report Trademark Abuse"
-msgstr "Report Trademark Abuse"
+msgid "Report Trademark or Copyright Infringement"
+msgstr ""
 
-#: website/site-footer.html:80
+#: website/site-footer.html:79
+#, fuzzy
+msgid "Report Misuse of Thunderbird Trademark"
+msgstr "The Future of Thunderbird"
+
+#: website/site-footer.html:84
 #, python-format
 msgid ""
 "Thunderbird is now part of\n"
@@ -360,11 +365,11 @@ msgstr ""
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 
-#: website/site-footer.html:91
+#: website/site-footer.html:95
 msgid "Contribute to this site"
 msgstr "Contribute to this site"
 
-#: website/site-footer.html:94
+#: website/site-footer.html:98
 msgid "Translate this site"
 msgstr "Translate this site"
 
@@ -829,6 +834,9 @@ msgstr "Release notes for each version of Thunderbird."
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
+
+#~ msgid "Report Trademark Abuse"
+#~ msgstr "Report Trademark Abuse"
 
 #~ msgid "Thunderbird and Mozilla Foundation"
 #~ msgstr "Thunderbird and Mozilla Foundation"
