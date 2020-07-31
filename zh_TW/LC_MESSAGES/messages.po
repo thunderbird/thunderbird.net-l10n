@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-06-09 11:36-0700\n"
+"POT-Creation-Date: 2020-07-30 21:20-0700\n"
 "PO-Revision-Date: 2020-07-01 11:04+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language-Team: none\n"
@@ -261,15 +261,15 @@ msgstr "關注 Thunderbird 官方部落格，獲得最新公告與版本發行�
 msgid "Read the Blog"
 msgstr "閱讀部落格"
 
-#: website/about/index.html:37 website/index.html:108
+#: website/about/index.html:37 website/calendar/index.html:35 website/index.html:108
 msgid "Lightning Calendar screenshot"
 msgstr "Lightning 行事曆畫面擷圖"
 
-#: website/index.html:115
+#: website/calendar/index.html:7 website/calendar/index.html:22 website/index.html:115
 msgid "Lightning Calendar"
 msgstr "Lightning 行事曆"
 
-#: website/index.html:117
+#: website/calendar/index.html:24 website/index.html:117
 msgid "Organize your life — it’s about time!"
 msgstr "管理您的生活 — 分秒必爭！"
 
@@ -370,7 +370,7 @@ msgstr "加入我們"
 msgid "Make a Donation"
 msgstr "捐款"
 
-#: website/site-prefooter.html:22
+#: website/calendar/index.html:63 website/site-prefooter.html:22
 msgid "Get Support"
 msgstr "獲得技術支援"
 
@@ -452,6 +452,64 @@ msgid ""
 "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
 "href=\"%(council)s\">on the Thunderbird wiki</a>."
 msgstr "Thunderbird 專案是由七位從 Thunderbird 的活躍貢獻者互相選出的委員所帶領治理的。您可以到 <a href=\"%(council)s\">Thunderbird wiki</a> 了解目前的 Thunderbird Council 成員有哪些人。"
+
+#: website/calendar/index.html:8
+#, fuzzy
+msgid "Organize your life — it&rsquo;s about time!"
+msgstr "管理您的生活 — 分秒必爭！"
+
+#: website/calendar/index.html:29
+#, fuzzy
+msgid ""
+"Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird or Seamonkey email. Manage multiple calendars, create your daily to do list, invite "
+"friends to events, and subscribe to public calendars."
+msgstr "使用整合於 Thunderbird 郵件軟體當中的行事曆功能，管理您的日常排程與生活中的大小事。"
+
+#: website/calendar/index.html:48
+msgid "Compatibility Information"
+msgstr ""
+
+#: website/calendar/index.html:50
+#, fuzzy
+msgid "Thunderbird, Seamonkey, what version?"
+msgstr "Thunderbird 發行公告"
+
+#: website/calendar/index.html:65
+msgid "Need help with Lightning?"
+msgstr ""
+
+#: website/calendar/index.html:77
+msgid "Holiday Calendars"
+msgstr ""
+
+#: website/calendar/index.html:79
+msgid "Need a break? Now you know when!"
+msgstr ""
+
+#: website/calendar/index.html:92
+msgid "Developer Tools"
+msgstr ""
+
+#: website/calendar/index.html:94
+msgid "Dive into development."
+msgstr ""
+
+#: website/calendar/index.html:107
+#, fuzzy
+msgid "Bugzilla"
+msgstr "Mozilla"
+
+#: website/calendar/index.html:109
+msgid "Found a bug? Let us know!"
+msgstr ""
+
+#: website/calendar/index.html:122
+msgid "Bugs Ahoy!"
+msgstr ""
+
+#: website/calendar/index.html:124
+msgid "Want to make a difference? Fix a bug that fits your interests."
+msgstr ""
 
 #: website/download/index.html:10
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
