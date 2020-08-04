@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-08-04 12:57-0700\n"
-"PO-Revision-Date: 2020-08-04 22:35+0000\n"
+"PO-Revision-Date: 2020-08-04 22:44+0000\n"
 "Last-Translator: Cláudio Esperança <cesperanc@gmail.com>\n"
 "Language-Team: none\n"
 "Language: pt_PT\n"
@@ -559,7 +559,7 @@ msgid ""
 "\n"
 "            <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, thanks to %(authors)s\n"
 "            "
-msgstr ""
+msgstr "%(title)s de <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>, cortesia de %(authors)s"
 
 #: website/calendar/holidays/index.html:64
 #, python-format
@@ -567,7 +567,7 @@ msgid ""
 "\n"
 "            <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s\n"
 "            "
-msgstr ""
+msgstr "Feriados de <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>, cortesia de %(authors)s"
 
 #: website/calendar/holidays/index.html:81
 #, fuzzy
@@ -576,24 +576,24 @@ msgstr "Calendários de férias"
 
 #: website/calendar/holidays/index.html:84
 msgid "If you would like to send us your calendar files, please follow these steps:"
-msgstr ""
+msgstr "Se quiser enviar os seus ficheiros de calendário, por favor, siga estes passos:"
 
 #: website/calendar/holidays/index.html:87
 msgid "Create a new local calendar, e.g. <i>\"$Country$ Holidays\"</i>."
-msgstr ""
+msgstr "Crie um novo calendário local, por exemplo, <i>\"Feriados de $Country$\"</i>."
 
 #: website/calendar/holidays/index.html:88
 msgid "Create the different holidays of your country in this local calendar."
-msgstr ""
+msgstr "Crie os vários feriados do seu país neste calendário local."
 
 #: website/calendar/holidays/index.html:90
 msgid "Right-click on this calendar and choose \"Export Calendar\". Please use the iCalendar (ics) format."
-msgstr ""
+msgstr "Clique com o botão direito neste calendário e escolha \"Exportar calendário\". Por favor, utilize o formato iCalendar (ics)."
 
 #: website/calendar/holidays/index.html:93
 #, python-format
 msgid "Create a Pull Request or file an Issue on the <a href=\"%(contribute_url)s\">website repository</a> and attach your holiday file."
-msgstr ""
+msgstr "Crie um Pull Request ou submeta um Issue no <a href=\"%(contribute_url)s\">repositório do site</a> e anexe o seu ficheiro de feriados."
 
 #: website/download/index.html:10
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
