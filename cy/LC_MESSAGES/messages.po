@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-07-30 21:20-0700\n"
+"POT-Creation-Date: 2020-08-04 12:57-0700\n"
 "PO-Revision-Date: 2020-08-04 08:49+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language-Team: none\n"
@@ -501,7 +501,7 @@ msgstr "Thunderbird, Seamonkey, pa fersiwn?"
 msgid "Need help with Lightning?"
 msgstr "Angen cymorth gyda Lightning?"
 
-#: website/calendar/index.html:77
+#: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:77
 msgid "Holiday Calendars"
 msgstr "Calendrau Gwyliau"
 
@@ -532,6 +532,64 @@ msgstr "Gwallau o'n Blaen!"
 #: website/calendar/index.html:124
 msgid "Want to make a difference? Fix a bug that fits your interests."
 msgstr "Am wneud gwahaniaeth? Beth am gywiro gwall sydd o ddiddordeb i chi."
+
+#: website/calendar/holidays/index.html:24
+msgid "Add your nation’s holidays to Lightning!"
+msgstr ""
+
+#: website/calendar/holidays/index.html:29
+#, python-format
+msgid ""
+"We’ve got some holiday calendar files available for download. You can either download and then import them into Sunbird or Lightning or you can just subscribe to these calendars by copying their URL"
+" and then adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
+msgstr ""
+
+#: website/calendar/holidays/index.html:32
+#, python-format
+msgid "You can also find calendars to subscribe to at <a href=\"%s\">iCalShare.com</a>."
+msgstr ""
+
+#: website/calendar/holidays/index.html:59
+#, python-format
+msgid ""
+"\n"
+"            <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, thanks to %(authors)s\n"
+"            "
+msgstr ""
+
+#: website/calendar/holidays/index.html:64
+#, python-format
+msgid ""
+"\n"
+"            <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s\n"
+"            "
+msgstr ""
+
+#: website/calendar/holidays/index.html:81
+#, fuzzy
+msgid "Contributing a Holiday Calendar"
+msgstr "Calendrau Gwyliau"
+
+#: website/calendar/holidays/index.html:84
+msgid "If you would like to send us your calendar files, please follow these steps:"
+msgstr ""
+
+#: website/calendar/holidays/index.html:87
+msgid "Create a new local calendar, e.g. <i>\"$Country$ Holidays\"</i>."
+msgstr ""
+
+#: website/calendar/holidays/index.html:88
+msgid "Create the different holidays of your country in this local calendar."
+msgstr ""
+
+#: website/calendar/holidays/index.html:90
+msgid "Right-click on this calendar and choose \"Export Calendar\". Please use the iCalendar (ics) format."
+msgstr ""
+
+#: website/calendar/holidays/index.html:93
+#, python-format
+msgid "Create a Pull Request or file an Issue on the <a href=\"%(contribute_url)s\">website repository</a> and attach your holiday file."
+msgstr ""
 
 #: website/download/index.html:10
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
