@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-08-04 12:57-0700\n"
-"PO-Revision-Date: 2020-08-05 07:19+0000\n"
+"PO-Revision-Date: 2020-08-05 08:15+0000\n"
 "Last-Translator: Melo46 <melo@carmu.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ia\n"
@@ -543,11 +543,14 @@ msgid ""
 "We’ve got some holiday calendar files available for download. You can either download and then import them into Sunbird or Lightning or you can just subscribe to these calendars by copying their URL"
 " and then adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
 msgstr ""
+"Nos ha alcun files agenda de festivitates disponibile pro le discargamento. Tu pote o discargar e pois importar los in Levar del sol, o Evidentias, o tu pote justo inscriber te a iste agendas "
+"copiante lor URL e pois addente los como nove files agenda remote. Altere informationes sur installation de un agenda del festivitates pote esser trovate in le articulo <a href=\"%s\">Addition de un"
+" agenda del festivitates</a>."
 
 #: website/calendar/holidays/index.html:32
 #, python-format
 msgid "You can also find calendars to subscribe to at <a href=\"%s\">iCalShare.com</a>."
-msgstr ""
+msgstr "Tu pote alsi trovar agendas a que inscriber te a <a href=\"%s\">iCalShare.com</a>."
 
 #: website/calendar/holidays/index.html:59
 #, python-format
@@ -555,7 +558,7 @@ msgid ""
 "\n"
 "            <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, thanks to %(authors)s\n"
 "            "
-msgstr ""
+msgstr "<a href=\"%(url)s\" classe=\"inline-link text-blue\">%(pais)s</a> %(titulo)s, gratias a %(autores)s"
 
 #: website/calendar/holidays/index.html:64
 #, python-format
@@ -563,7 +566,7 @@ msgid ""
 "\n"
 "            <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s\n"
 "            "
-msgstr ""
+msgstr "<a href=\"%(url)s\" classe=\"inline-link text-blue\">%(country)s</a> festivitates gratias a %(autores)s"
 
 #: website/calendar/holidays/index.html:81
 msgid "Contributing a Holiday Calendar"
@@ -571,19 +574,19 @@ msgstr "Contribuer a un agenda de festivitates"
 
 #: website/calendar/holidays/index.html:84
 msgid "If you would like to send us your calendar files, please follow these steps:"
-msgstr ""
+msgstr "Si tu vole inviar nos tu files agenda, seque iste grados:"
 
 #: website/calendar/holidays/index.html:87
 msgid "Create a new local calendar, e.g. <i>\"$Country$ Holidays\"</i>."
-msgstr ""
+msgstr "Crea un nove agenda local, e.g. <io>\"$Country$ Festivitates\"</io>."
 
 #: website/calendar/holidays/index.html:88
 msgid "Create the different holidays of your country in this local calendar."
-msgstr ""
+msgstr "Crea le differente festivitates de tu pais in iste agenda local."
 
 #: website/calendar/holidays/index.html:90
 msgid "Right-click on this calendar and choose \"Export Calendar\". Please use the iCalendar (ics) format."
-msgstr ""
+msgstr "Clicca dextre sur iste agenda e elige \"Exportar Agenda\". Usa le formato iCalendar (ics)."
 
 #: website/calendar/holidays/index.html:93
 #, python-format
