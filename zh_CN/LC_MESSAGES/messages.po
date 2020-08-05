@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-08-04 12:57-0700\n"
-"PO-Revision-Date: 2020-08-05 12:08+0000\n"
+"PO-Revision-Date: 2020-08-05 12:28+0000\n"
 "Last-Translator: πάθοςγιατηζωή <eloli@foxmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -508,19 +508,19 @@ msgstr "想要有所行动？修复让您在意的的缺陷（bug）。"
 
 #: website/calendar/holidays/index.html:24
 msgid "Add your nation’s holidays to Lightning!"
-msgstr ""
+msgstr "将全国性节假日安排加入 Lightning！"
 
 #: website/calendar/holidays/index.html:29
 #, python-format
 msgid ""
 "We’ve got some holiday calendar files available for download. You can either download and then import them into Sunbird or Lightning or you can just subscribe to these calendars by copying their URL"
 " and then adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
-msgstr ""
+msgstr "我们有一些节假日日历可供下载。您可以将其导入到 Sunbird 或 Lightning；也可以复制网址，作为远程日历文件直接订阅。有关如何安装假日日历的更多信息，请参阅<a href=\"%s\">添加假日日历</a>这篇文章。"
 
 #: website/calendar/holidays/index.html:32
 #, python-format
 msgid "You can also find calendars to subscribe to at <a href=\"%s\">iCalShare.com</a>."
-msgstr ""
+msgstr "您也可以到 <a href=\"%s\">iCalShare.com</a> 寻找要订阅的日历。"
 
 #: website/calendar/holidays/index.html:59
 #, python-format
@@ -528,7 +528,7 @@ msgid ""
 "\n"
 "            <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, thanks to %(authors)s\n"
 "            "
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s，感谢 %(authors)s 提供"
 
 #: website/calendar/holidays/index.html:64
 #, python-format
@@ -536,32 +536,32 @@ msgid ""
 "\n"
 "            <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s\n"
 "            "
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> 节假日，感谢 %(authors)s 提供"
 
 #: website/calendar/holidays/index.html:81
 msgid "Contributing a Holiday Calendar"
-msgstr "协助维护公共假期日历"
+msgstr "协助维护节假期日历"
 
 #: website/calendar/holidays/index.html:84
 msgid "If you would like to send us your calendar files, please follow these steps:"
-msgstr ""
+msgstr "若您想要提供自制的日历文件，请按照下列步骤："
 
 #: website/calendar/holidays/index.html:87
 msgid "Create a new local calendar, e.g. <i>\"$Country$ Holidays\"</i>."
-msgstr ""
+msgstr "新建本地日历，例如<i>“$Country$ 节假日”</i>。"
 
 #: website/calendar/holidays/index.html:88
 msgid "Create the different holidays of your country in this local calendar."
-msgstr ""
+msgstr "在此日历中加入您的国家/地区的各种节假日。"
 
 #: website/calendar/holidays/index.html:90
 msgid "Right-click on this calendar and choose \"Export Calendar\". Please use the iCalendar (ics) format."
-msgstr ""
+msgstr "右键点击日历，点击“导出日历”。请使用 iCalendar（ics）格式。"
 
 #: website/calendar/holidays/index.html:93
 #, python-format
 msgid "Create a Pull Request or file an Issue on the <a href=\"%(contribute_url)s\">website repository</a> and attach your holiday file."
-msgstr ""
+msgstr "到<a href=\"%(contribute_url)s\">网站仓库</a>发起 Pull 请求或提交 Issue，并附上您的节假日日历文件。"
 
 #: website/download/index.html:10
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
