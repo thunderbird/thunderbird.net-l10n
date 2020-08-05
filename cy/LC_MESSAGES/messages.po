@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-08-04 12:57-0700\n"
-"PO-Revision-Date: 2020-08-04 08:49+0000\n"
+"PO-Revision-Date: 2020-08-05 10:14+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language-Team: none\n"
 "Language: cy\n"
@@ -535,7 +535,7 @@ msgstr "Am wneud gwahaniaeth? Beth am gywiro gwall sydd o ddiddordeb i chi."
 
 #: website/calendar/holidays/index.html:24
 msgid "Add your nation’s holidays to Lightning!"
-msgstr ""
+msgstr "Ychwanegwch wyliau eich gwlad i Lightning!"
 
 #: website/calendar/holidays/index.html:29
 #, python-format
@@ -543,11 +543,13 @@ msgid ""
 "We’ve got some holiday calendar files available for download. You can either download and then import them into Sunbird or Lightning or you can just subscribe to these calendars by copying their URL"
 " and then adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
 msgstr ""
+"Mae gennym rai ffeiliau calendr gwyliau ar gael i'w llwytho i lawr. Gallwch naill ai eu lllwytho i lawr ac yna eu mewnforio i Sunbird neu Lightning neu gallwch danysgrifio i'r calendrau hyn trwy "
+"gopïo eu URL ac yna eu hychwanegu fel ffeiliau calendr pell newydd. Mae mwy o wybodaeth am osod calendr gwyliau i'w gweld yn yr <a href=\"%s\">erthygl Ychwanegu calendr gwyliau </a>."
 
 #: website/calendar/holidays/index.html:32
 #, python-format
 msgid "You can also find calendars to subscribe to at <a href=\"%s\">iCalShare.com</a>."
-msgstr ""
+msgstr "Gallwch hefyd ddod o hyd i galendrau i danysgrifio iddyn nhw yn <a href=\"%s\">iCalShare.com</a>."
 
 #: website/calendar/holidays/index.html:59
 #, python-format
@@ -555,7 +557,7 @@ msgid ""
 "\n"
 "            <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, thanks to %(authors)s\n"
 "            "
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, thanks to %(authors)s"
 
 #: website/calendar/holidays/index.html:64
 #, python-format
@@ -563,7 +565,7 @@ msgid ""
 "\n"
 "            <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s\n"
 "            "
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s"
 
 #: website/calendar/holidays/index.html:81
 #, fuzzy
@@ -572,7 +574,7 @@ msgstr "Calendrau Gwyliau"
 
 #: website/calendar/holidays/index.html:84
 msgid "If you would like to send us your calendar files, please follow these steps:"
-msgstr ""
+msgstr "Os hoffech anfon eich ffeiliau calendr atom, dilynwch y camau hyn:"
 
 #: website/calendar/holidays/index.html:87
 msgid "Create a new local calendar, e.g. <i>\"$Country$ Holidays\"</i>."
