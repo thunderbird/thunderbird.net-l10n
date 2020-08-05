@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-08-04 12:57-0700\n"
-"PO-Revision-Date: 2020-08-05 19:33+0000\n"
+"PO-Revision-Date: 2020-08-05 19:45+0000\n"
 "Last-Translator: Abelardo Ayala Rodríguez <abe_aya@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: gn\n"
@@ -548,7 +548,7 @@ msgid ""
 "\n"
 "            <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, thanks to %(authors)s\n"
 "            "
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>%(title)s, aguyje %(authors)s"
 
 #: website/calendar/holidays/index.html:64
 #, python-format
@@ -564,15 +564,15 @@ msgstr "Oipytyvõ Arapapaha Momorãguápe"
 
 #: website/calendar/holidays/index.html:84
 msgid "If you would like to send us your calendar files, please follow these steps:"
-msgstr ""
+msgstr "Eguerukaséramo ne arapapaha marandurenda, ejapo kóicha:"
 
 #: website/calendar/holidays/index.html:87
 msgid "Create a new local calendar, e.g. <i>\"$Country$ Holidays\"</i>."
-msgstr ""
+msgstr "Emoheñói arapapaha ipyahúva, p. <i>\"$Country$ Holidays\"</i>."
 
 #: website/calendar/holidays/index.html:88
 msgid "Create the different holidays of your country in this local calendar."
-msgstr ""
+msgstr "Emoheñói umi iñambu’eva jepytu’u ne retãme ko arapapahápe."
 
 #: website/calendar/holidays/index.html:90
 msgid "Right-click on this calendar and choose \"Export Calendar\". Please use the iCalendar (ics) format."
