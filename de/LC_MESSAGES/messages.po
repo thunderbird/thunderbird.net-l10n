@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-08-04 12:57-0700\n"
-"PO-Revision-Date: 2020-08-05 17:45+0000\n"
+"PO-Revision-Date: 2020-08-05 17:47+0000\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language-Team: none\n"
 "Language: de\n"
@@ -564,7 +564,7 @@ msgstr ""
 #: website/calendar/holidays/index.html:32
 #, python-format
 msgid "You can also find calendars to subscribe to at <a href=\"%s\">iCalShare.com</a>."
-msgstr ""
+msgstr "Unter <a href=\"%s\">iCalShare.com</a> finden Sie ebenfalls Kalender, die Sie abonnieren können."
 
 #: website/calendar/holidays/index.html:59
 #, python-format
@@ -572,7 +572,7 @@ msgid ""
 "\n"
 "            <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, thanks to %(authors)s\n"
 "            "
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, mit Dank an %(authors)s"
 
 #: website/calendar/holidays/index.html:64
 #, python-format
@@ -580,7 +580,7 @@ msgid ""
 "\n"
 "            <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s\n"
 "            "
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> Feiertage, mit Dank an %(authors)s"
 
 #: website/calendar/holidays/index.html:81
 msgid "Contributing a Holiday Calendar"
@@ -588,24 +588,24 @@ msgstr "Einen Ferienkalender beisteuern"
 
 #: website/calendar/holidays/index.html:84
 msgid "If you would like to send us your calendar files, please follow these steps:"
-msgstr ""
+msgstr "Wenn Sie uns Ihre Kalenderdateien senden möchten, gehen Sie bitte folgendermaßen vor:"
 
 #: website/calendar/holidays/index.html:87
 msgid "Create a new local calendar, e.g. <i>\"$Country$ Holidays\"</i>."
-msgstr ""
+msgstr "Erstellen Sie einen neuen lokalen Kalender z.&thinsp;B. <i>„Feiertage $Land$“</i>."
 
 #: website/calendar/holidays/index.html:88
 msgid "Create the different holidays of your country in this local calendar."
-msgstr ""
+msgstr "Erstellen Sie die verschiedenen Feiertage Ihres Landes in diesem lokalen Kalender."
 
 #: website/calendar/holidays/index.html:90
 msgid "Right-click on this calendar and choose \"Export Calendar\". Please use the iCalendar (ics) format."
-msgstr ""
+msgstr "Klicken Sie mit der rechten Maustaste auf diesen Kalender und wählen Sie „Kalender exportieren“. Bitte verwenden Sie das iCalendar-Format (ics)."
 
 #: website/calendar/holidays/index.html:93
 #, python-format
 msgid "Create a Pull Request or file an Issue on the <a href=\"%(contribute_url)s\">website repository</a> and attach your holiday file."
-msgstr ""
+msgstr "Erstellen Sie eine Pull-Anfrage oder erstellen Sie einen Fehlerbericht im <a href=\"%(contribute_url)s\">Website-Repository</a> und hängen Sie Ihre Urlaubsdatei an."
 
 #: website/download/index.html:10
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
