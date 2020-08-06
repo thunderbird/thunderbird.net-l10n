@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-08-04 12:57-0700\n"
+"POT-Creation-Date: 2020-08-06 12:48-0700\n"
 "PO-Revision-Date: 2020-08-05 19:21+0000\n"
 "Last-Translator: Іhor Hordiichuk <igor_ck@outlook.com>\n"
 "Language-Team: none\n"
@@ -552,41 +552,35 @@ msgstr "Ви також можете знайти календарі, на як�
 
 #: website/calendar/holidays/index.html:59
 #, python-format
-msgid ""
-"\n"
-"            <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, thanks to %(authors)s\n"
-"            "
+msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, thanks to %(authors)s"
 msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, завдяки %(authors)s"
 
-#: website/calendar/holidays/index.html:64
+#: website/calendar/holidays/index.html:61
 #, python-format
-msgid ""
-"\n"
-"            <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s\n"
-"            "
+msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s"
 msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> свят завдяки %(authors)s"
 
-#: website/calendar/holidays/index.html:81
+#: website/calendar/holidays/index.html:75
 msgid "Contributing a Holiday Calendar"
 msgstr "Допомога у створенні календаря свят"
 
-#: website/calendar/holidays/index.html:84
+#: website/calendar/holidays/index.html:78
 msgid "If you would like to send us your calendar files, please follow these steps:"
 msgstr "Якщо ви хочете надіслати нам файли свого календаря, виконайте такі дії:"
 
-#: website/calendar/holidays/index.html:87
+#: website/calendar/holidays/index.html:81
 msgid "Create a new local calendar, e.g. <i>\"$Country$ Holidays\"</i>."
 msgstr "Створіть новий локальний календар, наприклад <i>\"Свята $Country$\"</i>."
 
-#: website/calendar/holidays/index.html:88
+#: website/calendar/holidays/index.html:82
 msgid "Create the different holidays of your country in this local calendar."
 msgstr "Додайте різні свята вашої країни до цього локального календаря."
 
-#: website/calendar/holidays/index.html:90
+#: website/calendar/holidays/index.html:84
 msgid "Right-click on this calendar and choose \"Export Calendar\". Please use the iCalendar (ics) format."
 msgstr "Клацніть правою кнопкою миші на цьому календарі та виберіть \"Експорт календаря\". Будь ласка, використовуйте формат iCalendar (ics)."
 
-#: website/calendar/holidays/index.html:93
+#: website/calendar/holidays/index.html:87
 #, python-format
 msgid "Create a Pull Request or file an Issue on the <a href=\"%(contribute_url)s\">website repository</a> and attach your holiday file."
 msgstr "Створіть запит на додавання або пропозицію у <a href=\"%(contribute_url)s\">сховищі вебсайту</a> та додайте файл ваших свят."

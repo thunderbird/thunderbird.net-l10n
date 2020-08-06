@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-08-04 12:57-0700\n"
+"POT-Creation-Date: 2020-08-06 12:48-0700\n"
 "PO-Revision-Date: 2020-08-04 21:41+0000\n"
 "Last-Translator: ravmn <ravmn@ravmn.cl>\n"
 "Language-Team: none\n"
@@ -549,41 +549,35 @@ msgstr "También puedes encontrar calendarios a los que suscribirte en <a href=\
 
 #: website/calendar/holidays/index.html:59
 #, python-format
-msgid ""
-"\n"
-"            <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, thanks to %(authors)s\n"
-"            "
+msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, thanks to %(authors)s"
 msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, gracias a %(authors)s"
 
-#: website/calendar/holidays/index.html:64
+#: website/calendar/holidays/index.html:61
 #, python-format
-msgid ""
-"\n"
-"            <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s\n"
-"            "
+msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s"
 msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> feriados gracias a %(authors)s"
 
-#: website/calendar/holidays/index.html:81
+#: website/calendar/holidays/index.html:75
 msgid "Contributing a Holiday Calendar"
 msgstr "Contribuyendo un calendario de feriados"
 
-#: website/calendar/holidays/index.html:84
+#: website/calendar/holidays/index.html:78
 msgid "If you would like to send us your calendar files, please follow these steps:"
 msgstr "Si quieres enviarnos tus archivos de calendarios, por favor sigue estos pasos:"
 
-#: website/calendar/holidays/index.html:87
+#: website/calendar/holidays/index.html:81
 msgid "Create a new local calendar, e.g. <i>\"$Country$ Holidays\"</i>."
 msgstr "Crea un nuevo calendario local, por ejemplo  <i>\"Feriados de $Country$\"</i>."
 
-#: website/calendar/holidays/index.html:88
+#: website/calendar/holidays/index.html:82
 msgid "Create the different holidays of your country in this local calendar."
 msgstr "Crea los diferentes feriados de tu país en este calendario local."
 
-#: website/calendar/holidays/index.html:90
+#: website/calendar/holidays/index.html:84
 msgid "Right-click on this calendar and choose \"Export Calendar\". Please use the iCalendar (ics) format."
 msgstr "Haz clic derecho en este calendario y elije \"Exportar calendario\". Por favor, usa el formato iCalendar (ics)."
 
-#: website/calendar/holidays/index.html:93
+#: website/calendar/holidays/index.html:87
 #, python-format
 msgid "Create a Pull Request or file an Issue on the <a href=\"%(contribute_url)s\">website repository</a> and attach your holiday file."
 msgstr "Crea una solicitud para enviar el archivo o ingresa un reporte en el <a href=\"%(contribute_url)s\">sitio web del repositorio</a> y adjunta tu archivo de feriados."
