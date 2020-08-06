@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-08-04 12:57-0700\n"
-"PO-Revision-Date: 2020-08-05 20:05+0000\n"
+"PO-Revision-Date: 2020-08-06 11:55+0000\n"
 "Last-Translator: Balázs Meskó <meskobalazs@mailbox.org>\n"
 "Language-Team: none\n"
 "Language: hu\n"
@@ -535,7 +535,7 @@ msgstr "Szeretne változást elérni? Javítson ki egy hibát, amely megfelel az
 
 #: website/calendar/holidays/index.html:24
 msgid "Add your nation’s holidays to Lightning!"
-msgstr ""
+msgstr "Adja hozzá nemzetének ünnepeit a Lightninghoz!"
 
 #: website/calendar/holidays/index.html:29
 #, python-format
@@ -543,11 +543,13 @@ msgid ""
 "We’ve got some holiday calendar files available for download. You can either download and then import them into Sunbird or Lightning or you can just subscribe to these calendars by copying their URL"
 " and then adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
 msgstr ""
+"Letölthető néhány ünnepnaptárfájl. Letöltheti, majd importálhatja őket a Sunbirdbe vagy a Lightningba, vagy feliratkozhat ezekre a naptárakra azáltal, hogy lemásolja URL-jüket, majd új távoli "
+"naptárfájlokként hozzáadja őket. Az ünnepnaptár telepítéséről további információt az <a href=\"%s\">Ünnepnaptár hozzáadása</a> című cikkben talál."
 
 #: website/calendar/holidays/index.html:32
 #, python-format
 msgid "You can also find calendars to subscribe to at <a href=\"%s\">iCalShare.com</a>."
-msgstr ""
+msgstr "Az <a href=\"%s\">iCalShare.com-on</a> is találhat feliratkozható naptárakat."
 
 #: website/calendar/holidays/index.html:59
 #, python-format
@@ -555,7 +557,7 @@ msgid ""
 "\n"
 "            <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, thanks to %(authors)s\n"
 "            "
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, %(authors)s jóvoltából"
 
 #: website/calendar/holidays/index.html:64
 #, python-format
@@ -563,7 +565,7 @@ msgid ""
 "\n"
 "            <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s\n"
 "            "
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> ünnepei %(authors)s jóvoltából"
 
 #: website/calendar/holidays/index.html:81
 msgid "Contributing a Holiday Calendar"
@@ -571,7 +573,7 @@ msgstr "Közreműködés egy ünnepi naptárral"
 
 #: website/calendar/holidays/index.html:84
 msgid "If you would like to send us your calendar files, please follow these steps:"
-msgstr ""
+msgstr "Ha szeretné elküldeni nekünk a naptárfájljait, kövesse az alábbi lépéseket:"
 
 #: website/calendar/holidays/index.html:87
 msgid "Create a new local calendar, e.g. <i>\"$Country$ Holidays\"</i>."
