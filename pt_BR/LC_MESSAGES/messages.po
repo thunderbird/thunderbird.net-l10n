@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-08-06 12:48-0700\n"
-"PO-Revision-Date: 2020-08-06 13:04+0000\n"
+"PO-Revision-Date: 2020-08-07 17:31+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: none\n"
 "Language: pt_BR\n"
@@ -545,6 +545,8 @@ msgid ""
 "We’ve got some holiday calendar files available for download. You can either download and then import them into Sunbird or Lightning or you can just subscribe to these calendars by copying their URL"
 " and then adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
 msgstr ""
+"Temos alguns arquivos de agenda de feriados disponíveis. Você pode baixar e depois importar no Sunbird ou Lightning, ou simplesmente se inscrever nessas agendas copiando seus endereços e adicionando"
+" como novos arquivos de agenda remota. Mais informações sobre como instalar uma agenda de feriados podem ser encontradas no artigo <a href=\"%s\">Como adicionar uma agenda de feriados</a>."
 
 #: website/calendar/holidays/index.html:32
 #, python-format
@@ -562,9 +564,8 @@ msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holid
 msgstr "Feriados - <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>, agradecimentos a %(authors)s"
 
 #: website/calendar/holidays/index.html:75
-#, fuzzy
 msgid "Contributing a Holiday Calendar"
-msgstr "Agendas de feriados"
+msgstr "Como contribuir com uma agenda de feriados"
 
 #: website/calendar/holidays/index.html:78
 msgid "If you would like to send us your calendar files, please follow these steps:"
@@ -585,7 +586,7 @@ msgstr "Clique com o botão direito nesta agenda e escolha \"Exportar agenda\". 
 #: website/calendar/holidays/index.html:87
 #, python-format
 msgid "Create a Pull Request or file an Issue on the <a href=\"%(contribute_url)s\">website repository</a> and attach your holiday file."
-msgstr ""
+msgstr "Crie uma solicitação de recebimento ou registre um problema no <a href=\"%(contribute_url)s\">repositório de sites</a> e anexe seu arquivo de feriados."
 
 #: website/download/index.html:10
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
