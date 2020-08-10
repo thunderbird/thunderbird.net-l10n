@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-08-06 12:48-0700\n"
-"PO-Revision-Date: 2020-08-01 02:49+0000\n"
+"PO-Revision-Date: 2020-08-10 19:34+0000\n"
 "Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
 "Language-Team: none\n"
 "Language: vi\n"
@@ -534,7 +534,7 @@ msgstr "Bạn muốn làm cho sự khác biệt? Sửa lỗi phù hợp với s�
 
 #: website/calendar/holidays/index.html:24
 msgid "Add your nation’s holidays to Lightning!"
-msgstr ""
+msgstr "Thêm ngày lễ của quốc gia bạn vào Lightning!"
 
 #: website/calendar/holidays/index.html:29
 #, python-format
@@ -542,47 +542,48 @@ msgid ""
 "We’ve got some holiday calendar files available for download. You can either download and then import them into Sunbird or Lightning or you can just subscribe to these calendars by copying their URL"
 " and then adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
 msgstr ""
+"Chúng tôi có sẵn một số tập tin lịch ngày lễ để tải xuống. Bạn có thể tải xuống và sau đó nhập chúng vào Sunbird hoặc Lightning hoặc bạn có thể chỉ cần đăng ký các lịch này bằng cách sao chép URL "
+"của chúng và sau đó thêm chúng dưới dạng tập tin lịch từ xa mới. Bạn có thể tìm thêm thông tin về cách cài đặt lịch ngày lễ trong <a href=\"%s\">bài viết thêm lịch ngày lễ</a>."
 
 #: website/calendar/holidays/index.html:32
 #, python-format
 msgid "You can also find calendars to subscribe to at <a href=\"%s\">iCalShare.com</a>."
-msgstr ""
+msgstr "Bạn cũng có thể tìm lịch để đăng ký tại <a href=\"%s\">iCalShare.com</a>."
 
 #: website/calendar/holidays/index.html:59
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, thanks to %(authors)s"
-msgstr ""
+msgstr "%(title)s <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>, cảm ơn %(authors)s"
 
 #: website/calendar/holidays/index.html:61
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s"
-msgstr ""
+msgstr "Lịch nghỉ lễ <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> cảm ơn %(authors)s"
 
 #: website/calendar/holidays/index.html:75
-#, fuzzy
 msgid "Contributing a Holiday Calendar"
-msgstr "Lịch nghỉ lễ"
+msgstr "Đóng góp lịch nghỉ lễ"
 
 #: website/calendar/holidays/index.html:78
 msgid "If you would like to send us your calendar files, please follow these steps:"
-msgstr ""
+msgstr "Nếu bạn muốn gửi cho chúng tôi tập tin lịch của mình, hãy làm theo các bước sau:"
 
 #: website/calendar/holidays/index.html:81
 msgid "Create a new local calendar, e.g. <i>\"$Country$ Holidays\"</i>."
-msgstr ""
+msgstr "Tạo lịch cục bộ mới, ví dụ: <i>\"$Country$ Holidays\"</i>."
 
 #: website/calendar/holidays/index.html:82
 msgid "Create the different holidays of your country in this local calendar."
-msgstr ""
+msgstr "Tạo các ngày lễ khác nhau của quốc gia bạn trong lịch cục bộ này."
 
 #: website/calendar/holidays/index.html:84
 msgid "Right-click on this calendar and choose \"Export Calendar\". Please use the iCalendar (ics) format."
-msgstr ""
+msgstr "Nhấp chuột phải vào lịch này và chọn \"Xuất lịch\". Vui lòng sử dụng định dạng iCalendar (ics)."
 
 #: website/calendar/holidays/index.html:87
 #, python-format
 msgid "Create a Pull Request or file an Issue on the <a href=\"%(contribute_url)s\">website repository</a> and attach your holiday file."
-msgstr ""
+msgstr "Tạo một Pull Request hoặc gửi một issue trên <a href=\"%(contribute_url)s\">kho lưu trữ trang web</a> và đính kèm tập tin kỳ nghỉ của bạn."
 
 #: website/download/index.html:10
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
