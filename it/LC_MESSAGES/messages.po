@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-08-06 12:48-0700\n"
-"PO-Revision-Date: 2020-08-07 14:43+0000\n"
-"Last-Translator: Giorgio Romano <ascotwork@gmail.com>\n"
+"PO-Revision-Date: 2020-08-08 15:31+0000\n"
+"Last-Translator: Francesco Lodolo <flod+pontoon@mozilla.com>\n"
 "Language-Team: none\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -542,11 +542,14 @@ msgid ""
 "We’ve got some holiday calendar files available for download. You can either download and then import them into Sunbird or Lightning or you can just subscribe to these calendars by copying their URL"
 " and then adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
 msgstr ""
+"Sono disponibili per il download alcuni file con i calendari delle festività. È possibile scaricarli o importarli in Sunbird o in Lightning, oppure iscriversi a questi calendari copiando il loro "
+"indirizzo e aggiungendoli come nuovi file di calendario remoto. Ulteriori informazioni sull‘installazione dei calendari delle festività sono disponibili nella guida <a href=\"%s\">Aggiungere un "
+"calendario delle festività</a>."
 
 #: website/calendar/holidays/index.html:32
 #, python-format
 msgid "You can also find calendars to subscribe to at <a href=\"%s\">iCalShare.com</a>."
-msgstr ""
+msgstr "È inoltre possibile trovare altri calendari a cui iscriversi su <a href=\"%s\">iCalShare.com</a>."
 
 #: website/calendar/holidays/index.html:59
 #, python-format
@@ -556,7 +559,7 @@ msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>%(tit
 #: website/calendar/holidays/index.html:61
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s"
-msgstr ""
+msgstr "Festività per <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> grazie a %(authors)s"
 
 #: website/calendar/holidays/index.html:75
 msgid "Contributing a Holiday Calendar"
@@ -564,11 +567,11 @@ msgstr "Contribuisci al calendario delle festività"
 
 #: website/calendar/holidays/index.html:78
 msgid "If you would like to send us your calendar files, please follow these steps:"
-msgstr ""
+msgstr "Se desideri inviarci i tuoi file di calendario, procedi nel seguente modo:"
 
 #: website/calendar/holidays/index.html:81
 msgid "Create a new local calendar, e.g. <i>\"$Country$ Holidays\"</i>."
-msgstr ""
+msgstr "Crea un nuovo calendario locale, es. <i>˝Festività $Country$˝</i>."
 
 #: website/calendar/holidays/index.html:82
 msgid "Create the different holidays of your country in this local calendar."
