@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-08-12 20:05-0700\n"
-"PO-Revision-Date: 2020-08-13 15:45+0000\n"
-"Last-Translator: doodly_sarah <doodly_sarah@hotmail.com>\n"
+"PO-Revision-Date: 2020-08-12 07:48+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: none\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -553,12 +553,12 @@ msgstr "Vous pouvez également trouver des agendas auxquels vous abonner sur <a 
 #: website/calendar/holidays/index.html:59
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, thanks to %(authors)s"
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, grâce à %(authors)s"
 
 #: website/calendar/holidays/index.html:61
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s"
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">Jours fériés (%(country)s)</a>, grâce à %(authors)s"
 
 #: website/calendar/holidays/index.html:75
 msgid "Contributing a Holiday Calendar"
@@ -583,7 +583,7 @@ msgstr "Faites un clic droit sur cet agenda et choisissez « Exporter l’agend
 #: website/calendar/holidays/index.html:87
 #, python-format
 msgid "Create a Pull Request or file an Issue on the <a href=\"%(contribute_url)s\">website repository</a> and attach your holiday file."
-msgstr ""
+msgstr "Créez une Pull Request ou ouvrez une Issue sur le <a href=\"%(contribute_url)s\">dépôt de code du site web</a> et joignez votre fichier de jours fériés."
 
 #: website/download/index.html:10
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
