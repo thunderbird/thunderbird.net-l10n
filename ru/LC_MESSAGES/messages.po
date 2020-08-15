@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-08-12 20:05-0700\n"
-"PO-Revision-Date: 2020-08-07 09:26+0000\n"
+"PO-Revision-Date: 2020-08-15 14:04+0000\n"
 "Last-Translator: Alexander Slovesnik <unghost@mozilla-russia.org>\n"
 "Language-Team: none\n"
 "Language: ru\n"
@@ -535,7 +535,7 @@ msgstr "Хотите внести вклад? Исправьте ошибку, �
 
 #: website/calendar/holidays/index.html:24
 msgid "Add your nation’s holidays to Lightning!"
-msgstr ""
+msgstr "Добавьте свои национальные праздники в Lightning!"
 
 #: website/calendar/holidays/index.html:29
 #, python-format
@@ -543,46 +543,48 @@ msgid ""
 "We’ve got some holiday calendar files available for download. You can either download and then import them into Lightning or you can just subscribe to these calendars by copying their URL and then "
 "adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
 msgstr ""
+"У нас есть файлы праздничных календарей, доступные для загрузки. Вы можете либо загрузить и импортировать их в Lightning, либо просто подписаться на эти календари, скопировав их URL, а затем добавив"
+" как новые файлы удалённого календаря. Дополнительную информацию об установке праздничного календаря можно найти в статье <a href=\"%s\">Добавление праздничного календаря</a>."
 
 #: website/calendar/holidays/index.html:32
 #, python-format
 msgid "You can also find calendars to subscribe to at <a href=\"%s\">iCalShare.com</a>."
-msgstr ""
+msgstr "Вы можете также найти календари для подписки на <a href=\"%s\">iCalShare.com</a>."
 
 #: website/calendar/holidays/index.html:59
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, thanks to %(authors)s"
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, благодаря %(authors)s"
 
 #: website/calendar/holidays/index.html:61
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s"
-msgstr ""
+msgstr "Праздники в <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>, благодаря %(authors)s"
 
 #: website/calendar/holidays/index.html:75
 msgid "Contributing a Holiday Calendar"
-msgstr ""
+msgstr "Участие в создании календаря праздников"
 
 #: website/calendar/holidays/index.html:78
 msgid "If you would like to send us your calendar files, please follow these steps:"
-msgstr ""
+msgstr "Если вы хотите отправить нам файлы календарей, выполните следующие действия:"
 
 #: website/calendar/holidays/index.html:81
 msgid "Create a new local calendar, e.g. <i>\"$Country$ Holidays\"</i>."
-msgstr ""
+msgstr "Создайте новый локальный календарь, например, <i>\"Праздники в $Country$\"</i>."
 
 #: website/calendar/holidays/index.html:82
 msgid "Create the different holidays of your country in this local calendar."
-msgstr ""
+msgstr "Добавьте различные праздники в вашей страны в этот локальный календарь."
 
 #: website/calendar/holidays/index.html:84
 msgid "Right-click on this calendar and choose \"Export Calendar\". Please use the iCalendar (ics) format."
-msgstr ""
+msgstr "Щёлкните правой кнопкой мыши по этому календарю и выберите \"Экспортировать календарь\". Пожалуйста, используйте формат iCalendar (ics)."
 
 #: website/calendar/holidays/index.html:87
 #, python-format
 msgid "Create a Pull Request or file an Issue on the <a href=\"%(contribute_url)s\">website repository</a> and attach your holiday file."
-msgstr ""
+msgstr "Создайте запрос на слияние или разместите сообщение о проблеме в <a href=\"%(contribute_url)s\">репозитории веб-сайта</a> и приложите ваш файл праздников."
 
 #: website/download/index.html:10
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
