@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-08-12 20:05-0700\n"
-"PO-Revision-Date: 2020-08-16 08:11+0000\n"
+"PO-Revision-Date: 2020-08-16 08:16+0000\n"
 "Last-Translator: robbp <robbpaun@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ro\n"
@@ -547,21 +547,23 @@ msgid ""
 "We’ve got some holiday calendar files available for download. You can either download and then import them into Lightning or you can just subscribe to these calendars by copying their URL and then "
 "adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
 msgstr ""
+"Avem câteva fișiere de calendar de sărbători disponibile pentru descărcare. Fie le descarci și le imporți în Lightning, fie poți doar să te abonezi la ele copiindu-le URL-ul și adăugându-l ca "
+"fișiere noi de calendar la distanță. Găsești mai multe informații despre instalarea unui calendar de sărbători în articolul <a href=\"%s\">Adăugarea unui calendar de sărbători</a>."
 
 #: website/calendar/holidays/index.html:32
 #, python-format
 msgid "You can also find calendars to subscribe to at <a href=\"%s\">iCalShare.com</a>."
-msgstr ""
+msgstr "Găseșt calendare la care să te abonezi și pe <a href=\"%s\">iCalShare.com</a>."
 
 #: website/calendar/holidays/index.html:59
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, thanks to %(authors)s"
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, mulțumită %(authors)s"
 
 #: website/calendar/holidays/index.html:61
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s"
-msgstr ""
+msgstr "Sărbători <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> mulțumită %(authors)s"
 
 #: website/calendar/holidays/index.html:75
 msgid "Contributing a Holiday Calendar"
@@ -569,24 +571,24 @@ msgstr "Contribuție cu un calendar de sărbători"
 
 #: website/calendar/holidays/index.html:78
 msgid "If you would like to send us your calendar files, please follow these steps:"
-msgstr ""
+msgstr "Dacă vrei să ne trimiți fișiere de calendar, urmează acești pași:"
 
 #: website/calendar/holidays/index.html:81
 msgid "Create a new local calendar, e.g. <i>\"$Country$ Holidays\"</i>."
-msgstr ""
+msgstr "Creează un calendar local nou, de ex., <i>„Sărbători $Country$”</i>."
 
 #: website/calendar/holidays/index.html:82
 msgid "Create the different holidays of your country in this local calendar."
-msgstr ""
+msgstr "Creează sărbătorile naționale în acest calendar local."
 
 #: website/calendar/holidays/index.html:84
 msgid "Right-click on this calendar and choose \"Export Calendar\". Please use the iCalendar (ics) format."
-msgstr ""
+msgstr "Dă clic dreapta pe calendar și alege „Exportă calendarul”. Folosește formatul iCalendar (ics)."
 
 #: website/calendar/holidays/index.html:87
 #, python-format
 msgid "Create a Pull Request or file an Issue on the <a href=\"%(contribute_url)s\">website repository</a> and attach your holiday file."
-msgstr ""
+msgstr "Creează o cerere de Pull sau deschide un tichet pe <a href=\"%(contribute_url)s\">depozitarul site-ului web</a> și atașează fișierul de calendar."
 
 #: website/download/index.html:10
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
