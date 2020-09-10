@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-08-12 20:05-0700\n"
-"PO-Revision-Date: 2020-09-10 18:54+0000\n"
+"PO-Revision-Date: 2020-09-10 19:05+0000\n"
 "Last-Translator: Itiel <itiel_yn8@walla.com>\n"
 "Language-Team: none\n"
 "Language: he\n"
@@ -53,7 +53,7 @@ msgstr ""
 msgid ""
 "<strong>Thunderbird is funded by users like you! If you like Thunderbird, please consider making a donation.</strong> The best way for you to ensure Thunderbird remains available is to <a "
 "class=\"more\" href=\"%(donate)s\">make a donation.</a>"
-msgstr ""
+msgstr "<strong>Thunderbird ממומן על־ידי משתמשים כמוך! אם אהבת את Thunderbird, באפשרותך לתרום.</strong> הדרך הטובה ביותר להבטיח ש־Thunderbird יישאר זמין היא <a class=\"more\" href=\"%(donate)s\">לתרום.</a>"
 
 #: start-page/release/index.html:32
 #, python-format
@@ -66,11 +66,13 @@ msgid ""
 "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users. Become part of a team that supports Thunderbird users, and makes "
 "Thunderbird awesome. <a class=\"more\" href=\"%(contribute)s\">Join us</a>"
 msgstr ""
+"Thunderbird הוא מיזם בקוד פתוח, משמעות הדבר היא שלכל אחד יש את האפשרות לתרום רעיונות, עיצובים, קוד וזמן לסיוע למשתמשים אחרים. מזמינים אותך להצטרף לצוות שתומך במשתמשי Thunderbird ודואג לכך "
+"ש־Thunderbird יישאר מגניב. <a class=\"more\" href=\"%(contribute)s\">להצטרפות</a>"
 
 #: start-page/release/index.html:38
 #, python-format
 msgid "<a href=\"%(support)s\">Get Support</a>"
-msgstr ""
+msgstr "<a href=\"%(support)s\">קבלת תמיכה</a>"
 
 #: start-page/release/index.html:39
 #, python-format
@@ -80,7 +82,7 @@ msgstr ""
 #: start-page/release/index.html:42
 #, python-format
 msgid "<a href=\"%(bug)s\">Report a Bug</a>"
-msgstr ""
+msgstr "<a href=\"%(bug)s\">דיווח על תקלה</a>"
 
 #: start-page/release/index.html:43
 #, python-format
@@ -92,7 +94,7 @@ msgstr ""
 #: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:142
 #: website/index.html:161 website/site-footer.html:4 website/site-footer.html:48
 msgid "Thunderbird"
-msgstr ""
+msgstr "Thunderbird"
 
 #: website/404.html:8
 msgid "There’s nothing here!"
@@ -126,7 +128,7 @@ msgstr "תוספות"
 
 #: website/base-resp.html:40 website/site-footer.html:15 website/site-prefooter.html:9 website/site-prefooter.html:12
 msgid "Get Involved"
-msgstr ""
+msgstr "הצטרפות"
 
 #: website/base-resp.html:43 website/site-footer.html:21
 msgid "Get Help"
@@ -139,11 +141,11 @@ msgstr "אודות"
 
 #: website/base-resp.html:49 website/site-footer.html:24
 msgid "Blog"
-msgstr ""
+msgstr "בלוג"
 
 #: website/donate-mailing-list.html:11
 msgid "Thunderbird is funded by users like you"
-msgstr ""
+msgstr "Thunderbird ממומן על־ידי משתמשים כמוך"
 
 #: website/donate-mailing-list.html:14
 msgid "Thunderbird is both free and freedom respecting, but we’re also completely funded by donations! Help us sustain the project and continue to improve."
@@ -159,29 +161,29 @@ msgstr ""
 
 #: website/donate-mailing-list.html:36
 msgid "Your Email"
-msgstr ""
+msgstr "כתובת הדוא״ל שלך"
 
 #: website/donate-mailing-list.html:38
 msgid "Sign me up!"
-msgstr ""
+msgstr "רישמו אותי!"
 
 #: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9
 msgid "Download Thunderbird"
-msgstr ""
+msgstr "הורדת Thunderbird"
 
 #: website/download-button.html:35
 #, python-format
 msgid "Your system doesn't meet the <a href=\"%(url)s\">requirements</a> to run Thunderbird."
-msgstr ""
+msgstr "המערכת שלך אינה עומדת <a href=\"%(url)s\">בדרישות הסף</a> להרצת Thunderbird."
 
 #: website/download-button.html:38
 #, python-format
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
-msgstr ""
+msgstr "נא לעקוב אחר <a href=\"%(url)s\">ההנחיות האלו</a> כדי להתקין את Thunderbird."
 
 #: website/download-button.html:53 website/site-prefooter.html:47
 msgid "Thunderbird Beta"
-msgstr ""
+msgstr "Thunderbird Beta"
 
 #: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
 msgid "Thunderbird Nightly"
@@ -213,11 +215,11 @@ msgstr "הורדה בחינם"
 
 #: website/download/index.html:23 website/index.html:21
 msgid "Thunderbird screenshot"
-msgstr ""
+msgstr "צילום מסך של Thunderbird"
 
 #: website/index.html:29
 msgid "Tailored for all your needs"
-msgstr ""
+msgstr "מותאם לכל הצרכים שלך"
 
 #: website/index.html:32
 msgid "Thunderbird makes email better for you, bringing together speed, privacy and the latest technologies. Focus on what matters and forget about complexity."
@@ -229,7 +231,7 @@ msgstr ""
 
 #: website/index.html:41
 msgid "Secure &amp; Private"
-msgstr ""
+msgstr "מאובטח ופרטי"
 
 #: website/index.html:44
 msgid "Multiple features, such as built-in Do Not Track and remote content blocking, work together to ensure your safety and privacy, so you can have peace of mind."
@@ -253,7 +255,7 @@ msgstr ""
 
 #: website/index.html:70
 msgid "Stay in the loop"
-msgstr ""
+msgstr "תהיו בקשר"
 
 #: website/index.html:73
 msgid "Keep yourself up to date with recent announcements and releases by following the official Thunderbird Blog!"
@@ -356,9 +358,8 @@ msgid "Contribute to this site"
 msgstr "תרומה לאתר זה"
 
 #: website/site-footer.html:98
-#, fuzzy
 msgid "Translate this site"
-msgstr "תרומה לאתר זה"
+msgstr "תרגום אתר זה"
 
 #: website/site-prefooter.html:14
 msgid "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users."
@@ -373,27 +374,24 @@ msgid "Make a Donation"
 msgstr "מתן תרומה"
 
 #: website/calendar/index.html:63 website/site-prefooter.html:22
-#, fuzzy
 msgid "Get Support"
-msgstr "תמיכה"
+msgstr "קבלת תמיכה"
 
 #: website/site-prefooter.html:24
 msgid "Report a Bug"
 msgstr ""
 
 #: website/site-prefooter.html:50
-#, fuzzy
 msgid "The Future of Thunderbird"
-msgstr "תרומה ל־Thunderbird"
+msgstr "העתיד של Thunderbird"
 
 #: website/site-prefooter.html:52
 msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
 msgstr ""
 
 #: website/site-prefooter.html:55
-#, fuzzy
 msgid "Download Beta"
-msgstr "הורדה בחינם"
+msgstr "הורדת גרסת ה־Beta"
 
 #: website/site-prefooter.html:67
 msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Nightly channel."
@@ -772,9 +770,8 @@ msgid ""
 msgstr ""
 
 #: website/thunderbird/68.0/whatsnew/index.html:7
-#, fuzzy
 msgid "New in Thunderbird 68"
-msgstr "תרומה ל־Thunderbird"
+msgstr "מה חדש ב־Thunderbird 68"
 
 #: website/thunderbird/68.0/whatsnew/index.html:13
 #, python-format
@@ -821,9 +818,8 @@ msgid "The new Preferences tab also makes it easier to multi-task without the pr
 msgstr ""
 
 #: website/thunderbird/68.0/whatsnew/index.html:67
-#, fuzzy
 msgid "Other Notable Changes"
-msgstr "שפות אחרות:"
+msgstr "שינויים בולטים אחרים"
 
 #: website/thunderbird/68.0/whatsnew/index.html:70
 msgid ""
@@ -857,9 +853,8 @@ msgid "Release notes"
 msgstr ""
 
 #: website/thunderbird/all/index.html:41
-#, fuzzy
 msgid "All Releases"
-msgstr "גרסאות"
+msgstr "כל המהדורות"
 
 #: website/thunderbird/all/index.html:55
 msgid "Fully localized versions"
@@ -878,9 +873,8 @@ msgid "Fully localized beta versions"
 msgstr ""
 
 #: website/thunderbird/releases/index.html:7
-#, fuzzy
 msgid "Thunderbird Release Notes"
-msgstr "התכונות של Thunderbird"
+msgstr "הערות השחרור של Thunderbird"
 
 #: website/thunderbird/releases/index.html:8 website/thunderbird/releases/index.html:23
 msgid "Release notes for each version of Thunderbird."
