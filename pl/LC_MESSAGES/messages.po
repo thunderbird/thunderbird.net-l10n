@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-09-10 22:36-0700\n"
-"PO-Revision-Date: 2020-09-12 11:51+0000\n"
+"PO-Revision-Date: 2020-09-12 12:05+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: none\n"
 "Language: pl\n"
@@ -533,7 +533,7 @@ msgstr "Chcesz coś zmienić na lepsze? Napraw błąd, który Cię interesuje."
 
 #: website/calendar/holidays/index.html:24
 msgid "Add your nation’s holidays to Lightning!"
-msgstr ""
+msgstr "Dodaj swoje święta do kalendarza!"
 
 #: website/calendar/holidays/index.html:29
 #, python-format
@@ -541,11 +541,13 @@ msgid ""
 "We’ve got some holiday calendar files available for download. You can either download and then import them into Lightning or you can just subscribe to these calendars by copying their URL and then "
 "adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
 msgstr ""
+"Udostępniamy kilka plików kalendarzy świąt do pobrania. Można je pobrać i zaimportować do programu Lightning albo subskrybować je kopiując ich adresy i dodając je jako nowe zdalne pliki kalendarzy. "
+"<a href=\"%s\">Ten artykuł</a> zawiera więcej informacji o instalowaniu kalendarzy świąt."
 
 #: website/calendar/holidays/index.html:32
 #, python-format
 msgid "You can also find calendars to subscribe to at <a href=\"%s\">iCalShare.com</a>."
-msgstr ""
+msgstr "Kalendarze do subskrybowania można znaleźć także na stronie <a href=\"%s\">iCalShare.com</a>."
 
 #: website/calendar/holidays/index.html:59
 #, python-format
@@ -963,12 +965,17 @@ msgid ""
 "surveillance to read your messages. If you would like to learn more about how end-to-end encryption in Thunderbird works, check out our article: <a href=\"%(encryption)s\">Introduction to End-to-end"
 " encryption in Thunderbird</a>."
 msgstr ""
+"Szyfrowanie wiadomości typu „end-to-end” może być używane do zapewnienia, że tylko nadawca i odbiorca wiadomości mogą przeczytać jej treść. Bez tej ochrony dostawcy poczty e-mail i instytucje "
+"inwigilacji rządowej mogą łatwo odczytywać Twoje wiadomości. Ten artykuł zawiera więcej informacji o tym, jak szyfrowanie „end-to-end” działa w Thunderbirdzie: <a "
+"href=\"%(encryption)s\">Wprowadzenie do szyfrowania „end-to-end” w Thunderbirdzie</a>."
 
 #: website/thunderbird/78.0/whatsnew/index.html:84
 msgid ""
 "There are many other big changes that make Thunderbird 78 a very large release including: calendar and tasks are now integrated into Thunderbird, folder icons are now updated and their colors are "
 "customizable, the preferences are now searchable, and minimize to tray is now supported on Windows."
 msgstr ""
+"Thunderbird 78 zawiera wiele innych dużych zmian: kalendarz i menedżer zadań są teraz zintegrowane z Thunderbirdem, ikony folderów zostały zaktualizowane, a ich kolor można teraz zmieniać, "
+"preferencje można teraz wyszukiwać, a w systemie Windows obsługiwane jest minimalizowanie do zasobnika."
 
 #: website/thunderbird/78.0/whatsnew/index.html:87
 #, python-format
