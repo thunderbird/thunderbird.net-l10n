@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-09-10 22:36-0700\n"
-"PO-Revision-Date: 2020-09-15 14:25+0000\n"
+"PO-Revision-Date: 2020-09-15 14:34+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language-Team: none\n"
 "Language: cy\n"
@@ -903,18 +903,17 @@ msgid "There are many other updates in this release, you can see a list of all o
 msgstr "Mae yna lawer o ddiweddariadau eraill yn y lluniad hwn, gallwch weld rhestr ohonyn nhw i gyd yn y nodiadau rhyddhau <a href=\"%(release)s\">Thunderbird 68</a>."
 
 #: website/thunderbird/78.0/whatsnew/index.html:7
-#, fuzzy
 msgid "New in Thunderbird 78"
-msgstr "Newydd yn Thunderbird 68"
+msgstr "Newydd yn Thunderbird 78"
 
 #: website/thunderbird/78.0/whatsnew/index.html:13
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "This article describes some of the major changes visible to users in Thunderbird version 78. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird release notes "
 "from 78.0 and up</a>."
 msgstr ""
-"Mae'r erthygl hon yn disgrifio rhai o'r newidiadau mawr sy'n weladwy i ddefnyddwyr yn fersiwn Thunderbird 68.0 . Mae modd gweld manylion llawn yr holl newidiadau yn y nodiadau rhyddhau <a "
-"href=\"%(release)s\">Thunderbird 68</a>."
+"Mae'r erthygl hon yn disgrifio rhai o'r newidiadau mawr sy'n weladwy i ddefnyddwyr yn fersiwn Thunderbird 78.0 . Mae modd gweld manylion llawn yr holl newidiadau yn y nodiadau rhyddhau <a "
+"href=\"%(release)s\">Thunderbird 78</a>."
 
 #: website/thunderbird/78.0/whatsnew/index.html:25
 msgid "Dark mode"
@@ -936,7 +935,7 @@ msgid ""
 "The Account Setup window and the Account Central tab have both been updated. The Account Central tab appears when you do not have an account setup, or when you select an existing account in the "
 "folder tree."
 msgstr ""
-"Mae'r ffenestr Gosod Cyfrif a'r tab Canolfan Cyfrif wedi'u diweddaru. Mae'r tab Canolfan Cyfrif yn ymddangos pan nad oes gennych gyfrif wedi'i osod, neu pan fyddwch yn dewis cyfrif sy'n bodoli "
+"Mae'r ffenestr Gosod Cyfrif a'r tab Canolfan Cyfrifon wedi'u diweddaru. Mae'r tab Canolfan Cyfrifon yn ymddangos pan nad oes gennych gyfrif wedi'i osod, neu pan fyddwch yn dewis cyfrif sy'n bodoli "
 "eisoes yn y goeden ffolder."
 
 #: website/thunderbird/78.0/whatsnew/index.html:44
@@ -949,21 +948,23 @@ msgstr ""
 
 #: website/thunderbird/78.0/whatsnew/index.html:52
 msgid "Redesigned Compose Window"
-msgstr ""
+msgstr "Ffenestr Cyfansoddi wedi'i Ailgynllunio"
 
 #: website/thunderbird/78.0/whatsnew/index.html:55
 msgid ""
 "The compose window has been reworked to make composing a message faster, easier and more straightforward. The compose window now also takes up less space with recipients listed in “pills” instead of"
 " an entire line for each address."
 msgstr ""
+"Mae'r ffenestr gyfansoddi wedi'i hail lunio i wneud cyfansoddi neges yn gyflymach, yn haws ac yn symlach. Mae'r ffenestr gyfansoddi bellach hefyd yn cymryd llai o le gyda derbynwyr wedi'u rhestru "
+"mewn “pils” yn lle llinell gyfan ar gyfer pob cyfeiriad."
 
 #: website/thunderbird/78.0/whatsnew/index.html:58
 msgid "The redesigned compose window makes it easier to manage many email recipients, and the new intuitive layout helps users to discover its features."
-msgstr ""
+msgstr "Mae'r ffenestr gyfansoddi wedi'i hailgynllunio yn ei gwneud hi'n haws rheoli llawer o dderbynwyr e-bost, ac mae'r cynllun newydd yn helpu defnyddwyr i ddarganfod ei nodweddion."
 
 #: website/thunderbird/78.0/whatsnew/index.html:69
 msgid "End-to-End Encrypted Email Support"
-msgstr ""
+msgstr "Cymorth E-bost Amgryptiedig Pen-i-Ben"
 
 #: website/thunderbird/78.0/whatsnew/index.html:72
 #, python-format
@@ -972,17 +973,22 @@ msgid ""
 "surveillance to read your messages. If you would like to learn more about how end-to-end encryption in Thunderbird works, check out our article: <a href=\"%(encryption)s\">Introduction to End-to-end"
 " encryption in Thunderbird</a>."
 msgstr ""
+"Mae modd defnyddio amgryptio pen-i-ben ar gyfer e-bost i sicrhau mai dim ond yr anfonwr a derbynwyr neges sy'n gallu darllen y cynnwys. Heb yr amddiffyniad hwn, mae'n hawdd i ddarparwyr e-bost a "
+"gwyliadwriaeth dorfol ddarllen eich negeseuon. Os hoffech ddysgu mwy am sut mae amgryptio o'r dechrau i'r diwedd yn Thunderbird yn gweithio, edrychwch ar ein herthygl: <a href=\"%(encryption)s\"> "
+"Cyflwyniad i amgryptio pen-i-ben yn Thunderbird </a> ."
 
 #: website/thunderbird/78.0/whatsnew/index.html:84
 msgid ""
 "There are many other big changes that make Thunderbird 78 a very large release including: calendar and tasks are now integrated into Thunderbird, folder icons are now updated and their colors are "
 "customizable, the preferences are now searchable, and minimize to tray is now supported on Windows."
 msgstr ""
+"Mae yna lawer o newidiadau mawr eraill sy'n golygu bod Thunderbird 78 yn ryddhad mawr iawn gan gynnwys: mae calendr a thasgau bellach wedi'u hintegreiddio i Thunderbird, mae eiconau ffolder bellach "
+"yn cael eu diweddaru ac mae eu lliwiau'n gyfaddasadwy, mae'r dewisiadau bellach yn chwiliadwy, ac mae'r lleihau i'r drôr bellach yn cael ei gefnogi ar Ffenestri."
 
 #: website/thunderbird/78.0/whatsnew/index.html:87
-#, fuzzy, python-format
+#, python-format
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 78.0 and up</a>."
-msgstr "Mae yna lawer o ddiweddariadau eraill yn y lluniad hwn, gallwch weld rhestr ohonyn nhw i gyd yn y nodiadau rhyddhau <a href=\"%(release)s\">Thunderbird 68</a>."
+msgstr "Mae yna lawer o ddiweddariadau eraill yn y lluniad hwn, gallwch weld rhestr ohonyn nhw i gyd yn y nodiadau rhyddhau <a href=\"%(release)s\">Thunderbird 78</a>."
 
 #: website/thunderbird/all/index.html:10
 msgid "Download Thunderbird in your language"
