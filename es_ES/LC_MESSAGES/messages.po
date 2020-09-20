@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-09-10 22:36-0700\n"
-"PO-Revision-Date: 2020-09-20 18:43+0000\n"
+"PO-Revision-Date: 2020-09-20 18:52+0000\n"
 "Last-Translator: jlG <jlg.l10n.es@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es_ES\n"
@@ -557,7 +557,7 @@ msgstr "También puedes encontrar calendarios para suscribirte en <a href=\"%s\"
 #: website/calendar/holidays/index.html:59
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, thanks to %(authors)s"
-msgstr ""
+msgstr "%(title)s <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>, gracias a %(authors)s"
 
 #: website/calendar/holidays/index.html:61
 #, python-format
@@ -570,7 +570,7 @@ msgstr "Contribuir con un calendario de festivos"
 
 #: website/calendar/holidays/index.html:78
 msgid "If you would like to send us your calendar files, please follow these steps:"
-msgstr ""
+msgstr "Si quieres enviarnos tus archivos de calendarios, por favor sigue estos pasos:"
 
 #: website/calendar/holidays/index.html:81
 msgid "Create a new local calendar, e.g. <i>\"$Country$ Holidays\"</i>."
@@ -582,7 +582,7 @@ msgstr "Crear los diferentes días festivos del país en este calendario local."
 
 #: website/calendar/holidays/index.html:84
 msgid "Right-click on this calendar and choose \"Export Calendar\". Please use the iCalendar (ics) format."
-msgstr ""
+msgstr "Botón derecho en este calendario y seleccionar \"Exportar calendario\". Hay que usar el formato iCalendar (ics)."
 
 #: website/calendar/holidays/index.html:87
 #, python-format
@@ -920,46 +920,54 @@ msgstr ""
 
 #: website/thunderbird/78.0/whatsnew/index.html:25
 msgid "Dark mode"
-msgstr ""
+msgstr "Modo oscuro"
 
 #: website/thunderbird/78.0/whatsnew/index.html:28
 msgid ""
 "There is now a dark mode in Thunderbird, making late-night email easier on the eyes. To enable, Thunderbird will use your operating system settings to see if you have enabled dark mode OS-wide."
 msgstr ""
+"Ahora hay un modo oscuro en Thunderbird, lo que hace que la lectura nocturna de correo electrónico sea más fácil para la vista. Para habilitarlo, Thunderbird usará la configuración de tu sistema "
+"operativo para ver si has activado el modo oscuro en todo el sistema operativo."
 
 #: website/thunderbird/78.0/whatsnew/index.html:38
 msgid "Account Setup & Account Central Updated"
-msgstr ""
+msgstr "Actualizadas la configuración y la central de cuentas"
 
 #: website/thunderbird/78.0/whatsnew/index.html:41
 msgid ""
 "The Account Setup window and the Account Central tab have both been updated. The Account Central tab appears when you do not have an account setup, or when you select an existing account in the "
 "folder tree."
 msgstr ""
+"La ventana Configuración de la cuenta y la pestaña Central de la cuentas se han actualizado. La pestaña Central de cuentas aparece cuando no tienes configuradas cuentas, o cuando seleccionas una "
+"cuenta existente en el árbol de carpetas."
 
 #: website/thunderbird/78.0/whatsnew/index.html:44
 msgid ""
 "The layout and dialogues have been improved to make it easier to understand the information displayed and to find relevant settings. The Account Central tab also has new information about the "
 "Thunderbird project and displays the version you are using."
 msgstr ""
+"El diseño y los diálogos han sido mejorados para que sea más fácil comprender la información que se muestra y encontrar configuraciones relevantes. La pestaña de la Central de cuentas también tiene "
+"nueva información sobre el proyecto Thunderbird y muestra la versión que estás usando."
 
 #: website/thunderbird/78.0/whatsnew/index.html:52
 msgid "Redesigned Compose Window"
-msgstr ""
+msgstr "Ventana de redacción rediseñada"
 
 #: website/thunderbird/78.0/whatsnew/index.html:55
 msgid ""
 "The compose window has been reworked to make composing a message faster, easier and more straightforward. The compose window now also takes up less space with recipients listed in “pills” instead of"
 " an entire line for each address."
 msgstr ""
+"La ventana de redacción ha sido rediseñada para que la redacción de los mensajes sea más rápida y sencilla. La ventana de redacción ahora también ocupa menos espacio con los destinatarios enumerados"
+" en “píldoras” en lugar de utilizar una línea completa para cada dirección."
 
 #: website/thunderbird/78.0/whatsnew/index.html:58
 msgid "The redesigned compose window makes it easier to manage many email recipients, and the new intuitive layout helps users to discover its features."
-msgstr ""
+msgstr "La ventana de redacción rediseñada facilita la gestión de muchos destinatarios de correo electrónico, y el nuevo diseño intuitivo ayuda a los usuarios a descubrir sus funcionalidades."
 
 #: website/thunderbird/78.0/whatsnew/index.html:69
 msgid "End-to-End Encrypted Email Support"
-msgstr ""
+msgstr "Compatible con correo electrónico cifrado de extremo a extremo"
 
 #: website/thunderbird/78.0/whatsnew/index.html:72
 #, python-format
@@ -968,6 +976,9 @@ msgid ""
 "surveillance to read your messages. If you would like to learn more about how end-to-end encryption in Thunderbird works, check out our article: <a href=\"%(encryption)s\">Introduction to End-to-end"
 " encryption in Thunderbird</a>."
 msgstr ""
+"El cifrado de extremo a extremo para el correo electrónico se puede utilizar para garantizar que solo el remitente y los destinatarios de un mensaje puedan leer el contenido. Sin esta protección, es"
+" fácil leer tus mensajes para los proveedores de correo electrónico y herramientas de vigilancia masiva. Si quieres obtener más información sobre cómo funciona el cifrado de extremo a extremo en "
+"Thunderbird, revisa nuestro artículo: <a href=\"%(encryption)s\">Introducción al cifrado de extremo a extremo en Thunderbird</a>."
 
 #: website/thunderbird/78.0/whatsnew/index.html:84
 msgid ""
