@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-09-10 22:36-0700\n"
-"PO-Revision-Date: 2020-11-28 22:03+0000\n"
+"PO-Revision-Date: 2020-11-28 22:10+0000\n"
 "Last-Translator: Valdis Vitolins <valdis.vitolins@odo.lv>\n"
 "Language-Team: none\n"
 "Language: lv\n"
@@ -521,11 +521,11 @@ msgstr "Hei, kļūdas!"
 
 #: website/calendar/index.html:124
 msgid "Want to make a difference? Fix a bug that fits your interests."
-msgstr ""
+msgstr "Vēlaties ko mainīt? Izlabojiet jūs interesējošu kļūdu."
 
 #: website/calendar/holidays/index.html:24
 msgid "Add your nation’s holidays to Lightning!"
-msgstr ""
+msgstr "Pievienojiet Lightning savas valsts brīvdienas!"
 
 #: website/calendar/holidays/index.html:29
 #, python-format
@@ -533,21 +533,23 @@ msgid ""
 "We’ve got some holiday calendar files available for download. You can either download and then import them into Lightning or you can just subscribe to these calendars by copying their URL and then "
 "adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
 msgstr ""
+"Mums ir daži lejuplādējami brīvdienu kalendāra faili. Varat tos lejuplādēt vai importēt Lightning, vai arī vienkārši abonēt šos kalendārus, nokopējot to URL un pēc tam pievienojot tos kā jaunus "
+"attālos kalendāra failus. Plašāka informācija par svētku kalendāra uzstādīšanu ir atrodama rakstā <a href=\"%s\">Svētku kalendāra pievienošana</a>."
 
 #: website/calendar/holidays/index.html:32
 #, python-format
 msgid "You can also find calendars to subscribe to at <a href=\"%s\">iCalShare.com</a>."
-msgstr ""
+msgstr "Jūs varat arī atrast abonējamus kalendārus vietnē <a href=\"%s\">iCalShare.com</a>."
 
 #: website/calendar/holidays/index.html:59
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, thanks to %(authors)s"
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, pateicoties %(authors)s"
 
 #: website/calendar/holidays/index.html:61
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s"
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> brīvdienas, pateicoties %(authors)s"
 
 #: website/calendar/holidays/index.html:75
 msgid "Contributing a Holiday Calendar"
