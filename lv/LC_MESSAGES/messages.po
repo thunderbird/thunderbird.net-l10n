@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-09-10 22:36-0700\n"
-"PO-Revision-Date: 2020-11-29 13:11+0000\n"
+"PO-Revision-Date: 2020-11-29 13:24+0000\n"
 "Last-Translator: Valdis Vitolins <valdis.vitolins@odo.lv>\n"
 "Language-Team: none\n"
 "Language: lv\n"
@@ -768,10 +768,12 @@ msgid ""
 "Thunderbird protects you from email scams which try to trick users into handing over personal and confidential information by indicating when a message is a potential phishing attempt. As a second "
 "line of defense, Thunderbird warns you when you click on a link which appears to be taking you to a different Web site than the one indicated by the URL in the message."
 msgstr ""
+"Thunderbird pasargā jūs no epasta krāpniecībām, kas mēģina likt jums nodot personīgo un konfidenciālo informāciju. Tas norāda, ka ziņojums ir potenciāls pikšķerēšanas mēģinājums. Kā otrā "
+"aizsardzības līnija ir Thunderbird brīdinājumi, kad, noklikšķinot uz saites, jūs tiekat novirzīts uz citu vietni, nevis to, kuru norāda vēstulē redzamais URL."
 
 #: website/features/index.html:252
 msgid "Automated Update"
-msgstr ""
+msgstr "Automātiska atjaunošana"
 
 #: website/features/index.html:254
 msgid ""
@@ -779,10 +781,12 @@ msgid ""
 " you only what you need and making the security update quick to download and install. The automated update system provides updates for Thunderbird on Windows, macOS, and Linux in over 40 different "
 "languages."
 msgstr ""
+"Thunderbird atjaunošanas sistēma pārbauda, vai izmantojat jaunāko versiju, un paziņo, kad ir pieejami drošības atjaunojumi. Šie drošības atjaunojumi ir mazi (parasti 200–700 kB), nodrošinot tikai "
+"nepieciešamo, lai tos ātri lejuplādētu un uzstādītu. Automātiskā atjaunošanas sistēma nodrošina Thunderbird atjaunojumus operētājsistēmās Windows, MacOS un Linux vairāk nekā 40 dažādās valodās."
 
 #: website/features/index.html:261
 msgid "Cutting Out the Junk"
-msgstr ""
+msgstr "Drazas dzēšana"
 
 #: website/features/index.html:263
 msgid ""
@@ -790,10 +794,13 @@ msgid ""
 "spam, Thunderbird \"learns\" and improves its filtering so you can spend more time reading the mail that matters. Thunderbird can also use your mail provider’s spam filters to keep junk mail out of "
 "your inbox."
 msgstr ""
+"Thunderbird populārie drazas rīki ir atjaunoti, lai labāk tiktu galā ar mēstulēm. Katrs saņemtais epasts iet caur Thunderbird īpašiem drazas filtriem. Katru reizi, kad atzīmējat vēstuli kā drazu, "
+"Thunderbird \"mācās\" un uzlabo filtrēšanu, lai jūs varētu pavadīt vairāk laika, lasot svarīgo pastu. Thunderbird var arī izmantot jūsu pasta pakalpojumu sniedzēja drazas filtrus, lai draza nemaz "
+"nenonāktu līdz iesūtnei."
 
 #: website/features/index.html:268
 msgid "Open Source"
-msgstr ""
+msgstr "Atvērtais pirmkods"
 
 #: website/features/index.html:270
 msgid ""
@@ -801,10 +808,12 @@ msgid ""
 "community of experts helps to ensure our products are more secure and quickly updated, while also enabling us to take advantage of the best third party security scanning and evaluation tools to "
 "further bolster overall security."
 msgstr ""
+"Thunderbird centrā ir atvērtā pirmkoda izstrādes process, kuru vada tūkstošiem kaislīgu, pieredzējušu izstrādātāju un drošības ekspertu visā pasaulē. Mūsu atvērtība un aktīvā ekspertu kopiena palīdz"
+" nodrošināt mūsu produktu drošumu un ātru atjaunošanu, vienlaikus ļaujot mums izmantot labākos trešo pušu drošības skenēšanas un novērtēšanas rīkus, lai vēl vairāk nostiprinātu vispārējo drošību."
 
 #: website/thunderbird/68.0/whatsnew/index.html:7
 msgid "New in Thunderbird 68"
-msgstr ""
+msgstr "Thunderbird 68 jaunumi"
 
 #: website/thunderbird/68.0/whatsnew/index.html:13
 #, python-format
@@ -812,24 +821,28 @@ msgid ""
 "This article describes some of the major changes visible to users in Thunderbird version 68.0. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird 68 release "
 "notes</a>."
 msgstr ""
+"Šajā rakstā ir aprakstītas dažas galvenās izmaiņas, kas lietotājiem redzamas Thunderbird 68.0 versijā. Pilna informācija par visām izmaiņām ir atrodama <a href=\"%(release)s\">Thunderbird 68 "
+"piezīmēs par laidienu</a>."
 
 #: website/thunderbird/68.0/whatsnew/index.html:25
 msgid "Better Dark Theme"
-msgstr ""
+msgstr "Labāka tumšā tēma"
 
 #: website/thunderbird/68.0/whatsnew/index.html:28
 msgid "The dark theme available in Thunderbird has been enhanced with a dark message thread pane as well as many other small improvements."
-msgstr ""
+msgstr "Thunderbird pieejamā tumšā tēma ir uzlabota ar tumšu ziņojumu pavedienu rūti, kā arī daudziem citiem nelieliem uzlabojumiem."
 
 #: website/thunderbird/68.0/whatsnew/index.html:38
 msgid "Filelink Improved"
-msgstr ""
+msgstr "Uzlabots Filelink"
 
 #: website/thunderbird/68.0/whatsnew/index.html:41
 msgid ""
 "Filelink attachments that have already been uploaded can now be linked to again instead of having to re-upload them. Also, an account is no longer required to use the default Filelink provider - "
 "<strong>WeTransfer</strong>."
 msgstr ""
+"Jau augšuplādētos failu saišu pielikumus tagad var saistīt atkārtoti, nevis augšuplādēt tos vēlreiz. Tāpat vairs nav nepieciešams konts, lai izmantotu noklusēto <strong>WeTransfer</strong> Filelink "
+"nodrošinātāju."
 
 #: website/thunderbird/68.0/whatsnew/index.html:44
 #, python-format
