@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-09-10 22:36-0700\n"
-"PO-Revision-Date: 2020-11-27 15:26+0000\n"
+"PO-Revision-Date: 2020-12-23 20:42+0000\n"
 "Last-Translator: Juraj Cigáň <kusavica@gmail.com>\n"
 "Language-Team: none\n"
 "Language: sk\n"
@@ -373,7 +373,7 @@ msgstr "Zapojte sa do vývoja tejto stránky"
 
 #: website/site-footer.html:98
 msgid "Translate this site"
-msgstr "Preloží túto stránku"
+msgstr "Pomôžte preložiť túto stránku"
 
 #: website/site-prefooter.html:14
 msgid "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users."
@@ -539,11 +539,13 @@ msgid ""
 "We’ve got some holiday calendar files available for download. You can either download and then import them into Lightning or you can just subscribe to these calendars by copying their URL and then "
 "adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
 msgstr ""
+"Máme pre vás k dispozícii súbory s kalendármi. Môžete si ich prevziať a potom importovať do Lightningu alebo sa môžete prihlásiť na ich odber skopírovaním URL adresy a pridaním jej ako nového súboru"
+" vzdialeného kalendára. Ďalšie informácie o inštalácii kalendára sviatkov môžete nájsť v <a href=\"%s\">tomto článku</a>."
 
 #: website/calendar/holidays/index.html:32
 #, python-format
 msgid "You can also find calendars to subscribe to at <a href=\"%s\">iCalShare.com</a>."
-msgstr ""
+msgstr "Kalendáre môžete nájsť aj na <a href=\"%s\">iCalShare.com</a>."
 
 #: website/calendar/holidays/index.html:59
 #, python-format
@@ -553,11 +555,11 @@ msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(ti
 #: website/calendar/holidays/index.html:61
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s"
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>, vďaka, %(authors)s"
 
 #: website/calendar/holidays/index.html:75
 msgid "Contributing a Holiday Calendar"
-msgstr ""
+msgstr "Prispejte svojim kalendárom"
 
 #: website/calendar/holidays/index.html:78
 msgid "If you would like to send us your calendar files, please follow these steps:"
@@ -565,20 +567,20 @@ msgstr "Ak by ste nám chceli poslať svoj súbor s kalendárom, postupujte pod�
 
 #: website/calendar/holidays/index.html:81
 msgid "Create a new local calendar, e.g. <i>\"$Country$ Holidays\"</i>."
-msgstr ""
+msgstr "Vytvorte nový, lokálny kalendár, napr. <i>„Sviatky - $Krajina$“</i>."
 
 #: website/calendar/holidays/index.html:82
 msgid "Create the different holidays of your country in this local calendar."
-msgstr ""
+msgstr "Vytvorte v tomto lokálnom kalendár sviatky patriace vašej krajine."
 
 #: website/calendar/holidays/index.html:84
 msgid "Right-click on this calendar and choose \"Export Calendar\". Please use the iCalendar (ics) format."
-msgstr ""
+msgstr "Kliknite pravým tlačidlom na tento kalendár a vyberte možnosť „Exportovať kalendár“. Prosím, použite formát iCalendar (ics)."
 
 #: website/calendar/holidays/index.html:87
 #, python-format
 msgid "Create a Pull Request or file an Issue on the <a href=\"%(contribute_url)s\">website repository</a> and attach your holiday file."
-msgstr ""
+msgstr "Urobte Pull Request alebo nahláste chybu v <a href=\"%(contribute_url)s\">repozitári</a> a pripojte svoj súbor."
 
 #: website/download/index.html:10
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
@@ -912,33 +914,37 @@ msgstr ""
 
 #: website/thunderbird/78.0/whatsnew/index.html:38
 msgid "Account Setup & Account Central Updated"
-msgstr ""
+msgstr "Boli aktualizované nastavenia účtu a karta správy účtu"
 
 #: website/thunderbird/78.0/whatsnew/index.html:41
 msgid ""
 "The Account Setup window and the Account Central tab have both been updated. The Account Central tab appears when you do not have an account setup, or when you select an existing account in the "
 "folder tree."
-msgstr ""
+msgstr "Okno s nastaveniami účtu a karta správy účtu boli aktualizované. Karta správy účtu sa objaví len ak nemáte nastavené žiadne konto alebo keď vyberiete existujúci účet v strome priečinkov."
 
 #: website/thunderbird/78.0/whatsnew/index.html:44
 msgid ""
 "The layout and dialogues have been improved to make it easier to understand the information displayed and to find relevant settings. The Account Central tab also has new information about the "
 "Thunderbird project and displays the version you are using."
 msgstr ""
+"Vylepšilo sa rozloženie a dialógové okná, aby ste mohli lepšie porozumieť zobrazovaným informáciám a nájsť príslušné nastavenia. Karta správy účtu tiež zobrazuje nové informácie o projekte "
+"Thunderbird a verzii, ktorú používate."
 
 #: website/thunderbird/78.0/whatsnew/index.html:52
 msgid "Redesigned Compose Window"
-msgstr ""
+msgstr "Prepracovali sme okno písania správ"
 
 #: website/thunderbird/78.0/whatsnew/index.html:55
 msgid ""
 "The compose window has been reworked to make composing a message faster, easier and more straightforward. The compose window now also takes up less space with recipients listed in “pills” instead of"
 " an entire line for each address."
 msgstr ""
+"Okno na písanie správ bolo prepracované, aby ste mohli správy písať jednoduchšie a rýchlejšie. Panel s adresátmi teraz zaberá menej miesta a používa „pilulky“ namiesto celého riadku pre každú "
+"adresu."
 
 #: website/thunderbird/78.0/whatsnew/index.html:58
 msgid "The redesigned compose window makes it easier to manage many email recipients, and the new intuitive layout helps users to discover its features."
-msgstr ""
+msgstr "Toto prepracované okno uľahčuje správu mnohých adresátov a nové, intuitívne, rozloženie pomáha používateľom objaviť jeho funkcie."
 
 #: website/thunderbird/78.0/whatsnew/index.html:69
 msgid "End-to-End Encrypted Email Support"
@@ -951,12 +957,16 @@ msgid ""
 "surveillance to read your messages. If you would like to learn more about how end-to-end encryption in Thunderbird works, check out our article: <a href=\"%(encryption)s\">Introduction to End-to-end"
 " encryption in Thunderbird</a>."
 msgstr ""
+"Pomocou šifrovania end-to-end dokážeme zabezpečiť, aby si obsah správy mohli prečítať iba odosielateľ a adresáti. Bez tejto ochrany môžu poskytovatelia e-mailových služieb a iní ľahko čítať vaše "
+"správy. Ak chcete vedieť viac, ako funguje end-to-end šifrovanie v Thunderbirde, prečítajte si <a href=\"%(encryption)s\">tento článok</a>."
 
 #: website/thunderbird/78.0/whatsnew/index.html:84
 msgid ""
 "There are many other big changes that make Thunderbird 78 a very large release including: calendar and tasks are now integrated into Thunderbird, folder icons are now updated and their colors are "
 "customizable, the preferences are now searchable, and minimize to tray is now supported on Windows."
 msgstr ""
+"Thunderbird 78 obsahuje aj veľa ďalších veľkých zmien, vďaka ktorým je významným vydaním, napríklad: kalendár a zoznam úloh sú odteraz integrované priamo v Thunderbirde, ikony priečinkov sú "
+"aktualizované a ich farby sú prispôsobiteľné, v možnostiach môžete vyhľadávať a minimalizácia na panel úloh je odteraz podporovaná aj v operačnom systéme Windows."
 
 #: website/thunderbird/78.0/whatsnew/index.html:87
 #, python-format
