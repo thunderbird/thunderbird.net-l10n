@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-10 22:36-0700\n"
+"POT-Creation-Date: 2021-02-11 10:57-0800\n"
 "PO-Revision-Date: 2021-01-01 19:48+0000\n"
 "Last-Translator: Muhend Belkacem <taqbaylitassa@gmail.com>\n"
 "Language-Team: none\n"
@@ -100,7 +100,7 @@ msgstr ""
 "Tɣileḍ tufiḍ ugur deg Thunderbird? <a href=\"%(bug)s\">Rnu aneqqis n ubug</a> akken ad neḍmen ad ifru. Amuddu n ufus deg usulu akked ferru n ibugen ittɛawan asnerni n Thunderbird i iseqdacen meṛṛa."
 
 #: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:142
-#: website/index.html:161 website/site-footer.html:4 website/site-footer.html:48
+#: website/index.html:161 website/site-footer.html:4 website/site-footer.html:48 website/site-prefooter.html:51 website/site-prefooter.html:54
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
@@ -173,7 +173,7 @@ msgstr "Imayl-inek"
 msgid "Sign me up!"
 msgstr "Jerred!"
 
-#: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9
+#: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9 website/site-prefooter.html:59
 msgid "Download Thunderbird"
 msgstr "Sader-d Thunderbird"
 
@@ -187,11 +187,11 @@ msgstr "Anagraw-ik ur igbir ara<a href=\"%(url)s\">ayen iwulmen</a> i useddu n T
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
 msgstr "Ma ulac aɣilif ḍfeṛ <a href=\"%(url)s\"> tinaḍin-agi</a> akken ad tesbeddeḍ Thunderbird."
 
-#: website/download-button.html:53 website/site-prefooter.html:47
+#: website/download-button.html:53 website/site-prefooter.html:66
 msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
-#: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
+#: website/download-button.html:55 website/site-prefooter.html:81 website/site-prefooter.html:84
 msgid "Thunderbird Nightly"
 msgstr "Thunderbird Nightly"
 
@@ -211,7 +211,7 @@ msgstr "Tudert tabaḍnit"
 msgid "Make Email Easier."
 msgstr "Err tuzna n yimaylen fessuset."
 
-#: website/index.html:10
+#: website/index.html:10 website/site-prefooter.html:56
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
 msgstr "Thunderbird d asnas n yiznan afessas ama di twila neɣ ubeddel n talɣa n wudem-is - daɣen yegber ddeqs n tmahilin i ifazen nezzeh!"
 
@@ -385,7 +385,7 @@ msgstr "Ddu-d ɣur-neɣ"
 msgid "Make a Donation"
 msgstr "Mudd tawsa"
 
-#: website/calendar/index.html:63 website/site-prefooter.html:22
+#: website/calendar/index.html:48 website/site-prefooter.html:22
 msgid "Get Support"
 msgstr "Tallelt"
 
@@ -393,31 +393,31 @@ msgstr "Tallelt"
 msgid "Report a Bug"
 msgstr "Azen-d abug"
 
-#: website/site-prefooter.html:50
+#: website/site-prefooter.html:69
 msgid "The Future of Thunderbird"
 msgstr "Imal n Thunderbird"
 
-#: website/site-prefooter.html:52
+#: website/site-prefooter.html:71
 msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
 msgstr "Wali meṛṛa timahilin tineggura. Mudd-aɣ-d tikta-ik akken ad nizmir ad nesnerni lqem anaggaru."
 
-#: website/site-prefooter.html:55
+#: website/site-prefooter.html:74
 msgid "Download Beta"
 msgstr "Sader Beta"
 
-#: website/site-prefooter.html:67
+#: website/site-prefooter.html:86
 msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Nightly channel."
 msgstr "Mudd-aɣ-d afus akken ad nsekyed yal ass taneflit taneggarut i d-yernan ɣer thunderbird s useqdec n ubadu arurkid Nighly."
 
-#: website/site-prefooter.html:71
+#: website/site-prefooter.html:90
 msgid "WARNING!"
 msgstr "ƔUR-K!"
 
-#: website/site-prefooter.html:73
+#: website/site-prefooter.html:92
 msgid "Nightly is an unstable testing and development platform, make sure you back up important data regularly!"
 msgstr "Nightly d tiɣerɣert n usekyed akked tneflit ur yerkiden ara, ḍmen d akken tesseklaseḍ isefka-ik sya ɣer da!"
 
-#: website/site-prefooter.html:76
+#: website/site-prefooter.html:95
 msgid "Download Nightly"
 msgstr "Sader Nightly"
 
@@ -479,54 +479,39 @@ msgid "Organize your life — it&rsquo;s about time!"
 msgstr "Suddes tudert-ik·im — &rsquo; d lawan kan!"
 
 #: website/calendar/index.html:29
+#, fuzzy
 msgid ""
-"Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird or Seamonkey email. Manage multiple calendars, create your daily to do list, invite "
-"friends to events, and subscribe to public calendars."
+"Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird email. Manage multiple calendars, create your daily to do list, invite friends to "
+"events, and subscribe to public calendars."
 msgstr ""
 "Suddes aɣawas-ik n uxeddim d yineḍruyen meqqren n tudert-ik deg uwitay iselɣen meṛṛa ɣer yimayl-ik n Thunderbird neɣ Seamonkey. Sefrek aṭas n yiwitayen, snulfu-d tabdart-ik n twuriwin n yal ass, "
 "nced imdukkal ɣer tineḍruyen, rnu Jerred ɣer yiwitayen izuyaz. "
 
-#: website/calendar/index.html:48
-msgid "Compatibility Information"
-msgstr "Talɣut n umṣada"
-
 #: website/calendar/index.html:50
-msgid "Thunderbird, Seamonkey, what version?"
-msgstr "Thunderbird, Seamonkey, anwa lqem?"
-
-#: website/calendar/index.html:65
 msgid "Need help with Lightning?"
 msgstr "Tesriḍ tallelt akked Lightning?"
 
-#: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:77
+#: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:62
 msgid "Holiday Calendars"
 msgstr "Iwitayen n yimuras"
 
-#: website/calendar/index.html:79
+#: website/calendar/index.html:64
 msgid "Need a break? Now you know when!"
 msgstr "Tesriḍ asgunfu? Tura teẓriḍ melmi!"
 
-#: website/calendar/index.html:92
-msgid "Developer Tools"
-msgstr "Ifecka n yineflayen"
-
-#: website/calendar/index.html:94
-msgid "Dive into development."
-msgstr "Ger asurif ɣer taneflit."
-
-#: website/calendar/index.html:107
+#: website/calendar/index.html:77
 msgid "Bugzilla"
 msgstr "Bugzilla"
 
-#: website/calendar/index.html:109
+#: website/calendar/index.html:79
 msgid "Found a bug? Let us know!"
 msgstr "Tufiḍ abug? Ini-aɣ-d!"
 
-#: website/calendar/index.html:122
+#: website/calendar/index.html:92
 msgid "Bugs Ahoy!"
 msgstr "Aseɣti n yibugen."
 
-#: website/calendar/index.html:124
+#: website/calendar/index.html:94
 msgid "Want to make a difference? Fix a bug that fits your interests."
 msgstr "Tebɣiḍ ad txedmeḍ ayen ilhan? Fru ugur icudden ɣer wayen i tḥemmled."
 
@@ -1034,6 +1019,18 @@ msgstr "iwenniten n lqem n yal lqem n Thunderbird."
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Iwenniten n lqem n Thunderbird cudden ar yal lqem n usnas. Fren lqem-ik di tebdart ddaw-a akken ad twaliḍ iwenniten n lqem."
+
+#~ msgid "Compatibility Information"
+#~ msgstr "Talɣut n umṣada"
+
+#~ msgid "Thunderbird, Seamonkey, what version?"
+#~ msgstr "Thunderbird, Seamonkey, anwa lqem?"
+
+#~ msgid "Developer Tools"
+#~ msgstr "Ifecka n yineflayen"
+
+#~ msgid "Dive into development."
+#~ msgstr "Ger asurif ɣer taneflit."
 
 #~ msgid "Report Trademark Abuse"
 #~ msgstr "Mmel-d aggad iseqdacen tacreṭ yersen"

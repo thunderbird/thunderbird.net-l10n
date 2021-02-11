@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-10 22:36-0700\n"
+"POT-Creation-Date: 2021-02-11 10:57-0800\n"
 "PO-Revision-Date: 2020-09-13 19:45+0000\n"
 "Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
 "Language-Team: none\n"
@@ -102,7 +102,7 @@ msgstr ""
 "Thunderbird tốt hơn cho tất cả."
 
 #: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:142
-#: website/index.html:161 website/site-footer.html:4 website/site-footer.html:48
+#: website/index.html:161 website/site-footer.html:4 website/site-footer.html:48 website/site-prefooter.html:51 website/site-prefooter.html:54
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
@@ -175,7 +175,7 @@ msgstr "Email của bạn"
 msgid "Sign me up!"
 msgstr "Đăng ký!"
 
-#: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9
+#: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9 website/site-prefooter.html:59
 msgid "Download Thunderbird"
 msgstr "Tải Thunderbird"
 
@@ -189,11 +189,11 @@ msgstr "Hệ thống của bạn không đáp ứng <a href=\"%(url)s\">các yê
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
 msgstr "Vui lòng làm theo <a href=\"%(url)s\">hướng dẫn này</a> để cài đặt Thunderbird."
 
-#: website/download-button.html:53 website/site-prefooter.html:47
+#: website/download-button.html:53 website/site-prefooter.html:66
 msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
-#: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
+#: website/download-button.html:55 website/site-prefooter.html:81 website/site-prefooter.html:84
 msgid "Thunderbird Nightly"
 msgstr "Thunderbird Nightly"
 
@@ -213,7 +213,7 @@ msgstr "Riêng tư"
 msgid "Make Email Easier."
 msgstr "Làm cho email dễ dàng hơn."
 
-#: website/index.html:10
+#: website/index.html:10 website/site-prefooter.html:56
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
 msgstr "Thunderbird là ứng dụng email miễn phí, dễ dàng cài đặt và tùy chỉnh; đi kèm với nhiều tính năng tuyệt vời!"
 
@@ -386,7 +386,7 @@ msgstr "Tham gia với chúng tôi"
 msgid "Make a Donation"
 msgstr "Quyên góp tài chính"
 
-#: website/calendar/index.html:63 website/site-prefooter.html:22
+#: website/calendar/index.html:48 website/site-prefooter.html:22
 msgid "Get Support"
 msgstr "Nhận hỗ trợ"
 
@@ -394,31 +394,31 @@ msgstr "Nhận hỗ trợ"
 msgid "Report a Bug"
 msgstr "Báo cáo lỗi"
 
-#: website/site-prefooter.html:50
+#: website/site-prefooter.html:69
 msgid "The Future of Thunderbird"
 msgstr "Tương lai của Thunderbird"
 
-#: website/site-prefooter.html:52
+#: website/site-prefooter.html:71
 msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
 msgstr "Trải nghiệm các tính năng tiên tiến. Cung cấp thông tin phản hồi để giúp tinh chỉnh và công bố những gì sẽ có trong bản phát hành cuối cùng."
 
-#: website/site-prefooter.html:55
+#: website/site-prefooter.html:74
 msgid "Download Beta"
 msgstr "Tải xuống bản Beta"
 
-#: website/site-prefooter.html:67
+#: website/site-prefooter.html:86
 msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Nightly channel."
 msgstr "Hãy giúp chúng tôi kiểm tra các phát triển mới nhất được thực hiện cho Thunderbird mỗi ngày bằng cách sử dụng kênh Nightly không ổn định."
 
-#: website/site-prefooter.html:71
+#: website/site-prefooter.html:90
 msgid "WARNING!"
 msgstr "CẢNH BÁO!"
 
-#: website/site-prefooter.html:73
+#: website/site-prefooter.html:92
 msgid "Nightly is an unstable testing and development platform, make sure you back up important data regularly!"
 msgstr "Nightly là một nền tảng thử nghiệm và phát triển không ổn định, hãy đảm bảo bạn sao lưu dữ liệu quan trọng thường xuyên!"
 
-#: website/site-prefooter.html:76
+#: website/site-prefooter.html:95
 msgid "Download Nightly"
 msgstr "Tải xuống Nightly"
 
@@ -481,54 +481,39 @@ msgid "Organize your life — it&rsquo;s about time!"
 msgstr "Sắp xếp cuộc sống của bạn — đó là khoảng thời gian!"
 
 #: website/calendar/index.html:29
+#, fuzzy
 msgid ""
-"Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird or Seamonkey email. Manage multiple calendars, create your daily to do list, invite "
-"friends to events, and subscribe to public calendars."
+"Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird email. Manage multiple calendars, create your daily to do list, invite friends to "
+"events, and subscribe to public calendars."
 msgstr ""
 "Sắp xếp lịch trình của bạn và cuộc sống của các sự kiện quan trọng trong một lịch mà tích hợp hoàn toàn với email Thunderbird hoặc Seamonkey của bạn. Quản lý nhiều lịch, tạo danh sách việc cần làm "
 "hàng ngày của bạn, mời bạn bè tham gia các sự kiện và đăng ký lịch công khai."
 
-#: website/calendar/index.html:48
-msgid "Compatibility Information"
-msgstr "Thông tin tương thích"
-
 #: website/calendar/index.html:50
-msgid "Thunderbird, Seamonkey, what version?"
-msgstr "Thunderbird, Seamonkey, phiên bản nào?"
-
-#: website/calendar/index.html:65
 msgid "Need help with Lightning?"
 msgstr "Cần giúp đỡ với Lightning?"
 
-#: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:77
+#: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:62
 msgid "Holiday Calendars"
 msgstr "Lịch nghỉ lễ"
 
-#: website/calendar/index.html:79
+#: website/calendar/index.html:64
 msgid "Need a break? Now you know when!"
 msgstr "Cần nghỉ ngơi? Bây giờ bạn biết khi nào!"
 
-#: website/calendar/index.html:92
-msgid "Developer Tools"
-msgstr "Công cụ dành cho nhà phát triển"
-
-#: website/calendar/index.html:94
-msgid "Dive into development."
-msgstr "Lặn vào phát triển."
-
-#: website/calendar/index.html:107
+#: website/calendar/index.html:77
 msgid "Bugzilla"
 msgstr "Bugzilla"
 
-#: website/calendar/index.html:109
+#: website/calendar/index.html:79
 msgid "Found a bug? Let us know!"
 msgstr "Tìm thấy lỗi? Hãy cho chúng tôi biết!"
 
-#: website/calendar/index.html:122
+#: website/calendar/index.html:92
 msgid "Bugs Ahoy!"
 msgstr "Bugs Ahoy!"
 
-#: website/calendar/index.html:124
+#: website/calendar/index.html:94
 msgid "Want to make a difference? Fix a bug that fits your interests."
 msgstr "Bạn muốn làm cho sự khác biệt? Sửa lỗi phù hợp với sở thích của bạn."
 
@@ -1037,6 +1022,18 @@ msgstr "Ghi chú phát hành cho từng phiên bản Thunderbird."
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Ghi chú phát hành Thunderbird dành riêng cho từng phiên bản của ứng dụng. Chọn phiên bản của bạn từ danh sách dưới đây để xem ghi chú phát hành cho nó."
+
+#~ msgid "Compatibility Information"
+#~ msgstr "Thông tin tương thích"
+
+#~ msgid "Thunderbird, Seamonkey, what version?"
+#~ msgstr "Thunderbird, Seamonkey, phiên bản nào?"
+
+#~ msgid "Developer Tools"
+#~ msgstr "Công cụ dành cho nhà phát triển"
+
+#~ msgid "Dive into development."
+#~ msgstr "Lặn vào phát triển."
 
 #~ msgid "Report Trademark Abuse"
 #~ msgstr "Báo cáo lạm dụng thương hiệu"

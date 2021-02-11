@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-10 22:36-0700\n"
+"POT-Creation-Date: 2021-02-11 10:57-0800\n"
 "PO-Revision-Date: 2020-09-16 13:07+0000\n"
 "Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
 "Language-Team: none\n"
@@ -102,7 +102,7 @@ msgstr ""
 " makket in bettere Thunderbird foar elkenien."
 
 #: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:142
-#: website/index.html:161 website/site-footer.html:4 website/site-footer.html:48
+#: website/index.html:161 website/site-footer.html:4 website/site-footer.html:48 website/site-prefooter.html:51 website/site-prefooter.html:54
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
@@ -175,7 +175,7 @@ msgstr "Jo e-mailadres"
 msgid "Sign me up!"
 msgstr "Abonnearje!"
 
-#: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9
+#: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9 website/site-prefooter.html:59
 msgid "Download Thunderbird"
 msgstr "Thunderbird downloade"
 
@@ -189,11 +189,11 @@ msgstr "Jo systeem foldocht net oan de <a href=\"%(url)s\">easken</a> foar it ú
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
 msgstr "Folgje <a href=\"%(url)s\">dizze ynstruksjes</a> om Thunderbird te ynstallearjen."
 
-#: website/download-button.html:53 website/site-prefooter.html:47
+#: website/download-button.html:53 website/site-prefooter.html:66
 msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
-#: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
+#: website/download-button.html:55 website/site-prefooter.html:81 website/site-prefooter.html:84
 msgid "Thunderbird Nightly"
 msgstr "Thunderbird Nightly"
 
@@ -213,7 +213,7 @@ msgstr "Privacy"
 msgid "Make Email Easier."
 msgstr "Meitsje e-mail makliker."
 
-#: website/index.html:10
+#: website/index.html:10 website/site-prefooter.html:56
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
 msgstr "Thunderbird is in fergeze e-mailapplikaasje dy’t maklik yn te stellen en oan te passen is - en it is fol mei moaie funksjes!"
 
@@ -386,7 +386,7 @@ msgstr "Meidwaan"
 msgid "Make a Donation"
 msgstr "In donaasje dwaan"
 
-#: website/calendar/index.html:63 website/site-prefooter.html:22
+#: website/calendar/index.html:48 website/site-prefooter.html:22
 msgid "Get Support"
 msgstr "Stipe krije"
 
@@ -394,31 +394,31 @@ msgstr "Stipe krije"
 msgid "Report a Bug"
 msgstr "In bug melde"
 
-#: website/site-prefooter.html:50
+#: website/site-prefooter.html:69
 msgid "The Future of Thunderbird"
 msgstr "De takomst fan Thunderbird"
 
-#: website/site-prefooter.html:52
+#: website/site-prefooter.html:71
 msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
 msgstr "Erfaar avansearre funksjes. Jou kommentaar om te helpen by it ferfynjen en byskaven fan wat der yn de definitive ferzje komt."
 
-#: website/site-prefooter.html:55
+#: website/site-prefooter.html:74
 msgid "Download Beta"
 msgstr "Bèta downloade"
 
-#: website/site-prefooter.html:67
+#: website/site-prefooter.html:86
 msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Nightly channel."
 msgstr "Help ús de deistige nije ûntwikkelingen foar Thunderbird te testen mei help fan it net stabile Nightly-kanaal."
 
-#: website/site-prefooter.html:71
+#: website/site-prefooter.html:90
 msgid "WARNING!"
 msgstr "WARSKÔGING!"
 
-#: website/site-prefooter.html:73
+#: website/site-prefooter.html:92
 msgid "Nightly is an unstable testing and development platform, make sure you back up important data regularly!"
 msgstr "Nightly is in ynstabyl test- en ûntwikkelingsplatfoarm, soargje derfoar dat jo regelmjittich in reservekopy meitsje fan wichtige gegevens!"
 
-#: website/site-prefooter.html:76
+#: website/site-prefooter.html:95
 msgid "Download Nightly"
 msgstr "Nightly downloade"
 
@@ -480,54 +480,39 @@ msgid "Organize your life — it&rsquo;s about time!"
 msgstr "Organisearje jo libben – it wurdt tiid!"
 
 #: website/calendar/index.html:29
+#, fuzzy
 msgid ""
-"Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird or Seamonkey email. Manage multiple calendars, create your daily to do list, invite "
-"friends to events, and subscribe to public calendars."
+"Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird email. Manage multiple calendars, create your daily to do list, invite friends to "
+"events, and subscribe to public calendars."
 msgstr ""
 "Organisearje jo planning en wichtige barrens yn in aginda dy't folslein yntegrearre is mei jo Thunderbird- of Seamonkey-e-mail. Behear mear aginda’s, meitsje in deistige taaklist, nûgje freonen út "
 "foar eveneminten en abonnearje jo op iepenbiere aginda’s."
 
-#: website/calendar/index.html:48
-msgid "Compatibility Information"
-msgstr "Kompatibiliteitsynformaasje"
-
 #: website/calendar/index.html:50
-msgid "Thunderbird, Seamonkey, what version?"
-msgstr "Thunderbird, Seamonkey, hokker ferzje?"
-
-#: website/calendar/index.html:65
 msgid "Need help with Lightning?"
 msgstr "Help nedich mei Lightning?"
 
-#: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:77
+#: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:62
 msgid "Holiday Calendars"
 msgstr "Feestdei-aginda’s"
 
-#: website/calendar/index.html:79
+#: website/calendar/index.html:64
 msgid "Need a break? Now you know when!"
 msgstr "Ta oan in skoft? No witte jo wannear!"
 
-#: website/calendar/index.html:92
-msgid "Developer Tools"
-msgstr "Untwikkelersark"
-
-#: website/calendar/index.html:94
-msgid "Dive into development."
-msgstr "Ferdjipje jo yn ûntwikkeling."
-
-#: website/calendar/index.html:107
+#: website/calendar/index.html:77
 msgid "Bugzilla"
 msgstr "Bugzilla"
 
-#: website/calendar/index.html:109
+#: website/calendar/index.html:79
 msgid "Found a bug? Let us know!"
 msgstr "Hawwe jo in bug fûn? Lit it ús witte!"
 
-#: website/calendar/index.html:122
+#: website/calendar/index.html:92
 msgid "Bugs Ahoy!"
 msgstr "Bugs ahoi!"
 
-#: website/calendar/index.html:124
+#: website/calendar/index.html:94
 msgid "Want to make a difference? Fix a bug that fits your interests."
 msgstr "Wolet jo it ferskil meitsje? Los in bug op dy't by jo ynteressen past."
 
@@ -1041,6 +1026,18 @@ msgstr "Utjefteopmerkingen foar elke ferzje fan Mozilla Thunderbird."
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "De útjefteopmerkingen fan Thunderbird binne spesifyk foar elke ferzje fan de applikaasje. Selektearje út de list hjirûnder jo ferzje om dêrfoar de útjefteopmerkingen te besjen."
+
+#~ msgid "Compatibility Information"
+#~ msgstr "Kompatibiliteitsynformaasje"
+
+#~ msgid "Thunderbird, Seamonkey, what version?"
+#~ msgstr "Thunderbird, Seamonkey, hokker ferzje?"
+
+#~ msgid "Developer Tools"
+#~ msgstr "Untwikkelersark"
+
+#~ msgid "Dive into development."
+#~ msgstr "Ferdjipje jo yn ûntwikkeling."
 
 #~ msgid "Report Trademark Abuse"
 #~ msgstr "Misbrûk fan hannelsmerk rapportearje"

@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-10 22:36-0700\n"
+"POT-Creation-Date: 2021-02-11 10:57-0800\n"
 "PO-Revision-Date: 2020-09-23 13:06+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language-Team: none\n"
@@ -102,7 +102,7 @@ msgstr ""
 " za wšěch polěpša."
 
 #: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:142
-#: website/index.html:161 website/site-footer.html:4 website/site-footer.html:48
+#: website/index.html:161 website/site-footer.html:4 website/site-footer.html:48 website/site-prefooter.html:51 website/site-prefooter.html:54
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
@@ -175,7 +175,7 @@ msgstr "Waša e-mejl"
 msgid "Sign me up!"
 msgstr "Zregistrujće mje!"
 
-#: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9
+#: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9 website/site-prefooter.html:59
 msgid "Download Thunderbird"
 msgstr "Thunderbird sćahnyć"
 
@@ -189,11 +189,11 @@ msgstr "Waš system njewotpowěduje <a href=\"%(url)s\">žadanjam</a>, zo by Thu
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
 msgstr "Prošu slědujće <a href=\"%(url)s\">tutym instrukcijam</a> za instalowanje Thunderbird."
 
-#: website/download-button.html:53 website/site-prefooter.html:47
+#: website/download-button.html:53 website/site-prefooter.html:66
 msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
-#: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
+#: website/download-button.html:55 website/site-prefooter.html:81 website/site-prefooter.html:84
 msgid "Thunderbird Nightly"
 msgstr "Thunderbird Nightly"
 
@@ -213,7 +213,7 @@ msgstr "Priwatnosć"
 msgid "Make Email Easier."
 msgstr "Čińće e-mejl lóšu."
 
-#: website/index.html:10
+#: website/index.html:10 website/site-prefooter.html:56
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
 msgstr "Thunderbird je darmotne e-mejlowe nałoženje, kotrež da so lochko zarjadować a přiměrić - a ma wulkotne funkcije!"
 
@@ -386,7 +386,7 @@ msgstr "Přidružće so nam"
 msgid "Make a Donation"
 msgstr "Darić"
 
-#: website/calendar/index.html:63 website/site-prefooter.html:22
+#: website/calendar/index.html:48 website/site-prefooter.html:22
 msgid "Get Support"
 msgstr "Pomoc dóstać"
 
@@ -394,31 +394,31 @@ msgstr "Pomoc dóstać"
 msgid "Report a Bug"
 msgstr "Programowy zmylk zdźělić"
 
-#: website/site-prefooter.html:50
+#: website/site-prefooter.html:69
 msgid "The Future of Thunderbird"
 msgstr "Přichod Thunderbird"
 
-#: website/site-prefooter.html:52
+#: website/site-prefooter.html:71
 msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
 msgstr "Dožiwće najnowše funkcije. Zdźělće nam swoje měnjenje, zo byšće kónčnu wersiju wudokonjał."
 
-#: website/site-prefooter.html:55
+#: website/site-prefooter.html:74
 msgid "Download Beta"
 msgstr "Betawersiju sćahnyć"
 
-#: website/site-prefooter.html:67
+#: website/site-prefooter.html:86
 msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Nightly channel."
 msgstr "Wužiwajće instabilny kanal Nightly, zo byšće nam pomhał, najnowše wuwića testować, kotrež so kóždy dźeń na Thunderbird přewjedu."
 
-#: website/site-prefooter.html:71
+#: website/site-prefooter.html:90
 msgid "WARNING!"
 msgstr "WARNOWANJE!"
 
-#: website/site-prefooter.html:73
+#: website/site-prefooter.html:92
 msgid "Nightly is an unstable testing and development platform, make sure you back up important data regularly!"
 msgstr "Nightly je instabilna testowanska a wuwiwanska platforma, zarućće, zo so wažne daty prawidłownje zawěsćuja!"
 
-#: website/site-prefooter.html:76
+#: website/site-prefooter.html:95
 msgid "Download Nightly"
 msgstr "Nightly sćahnyć"
 
@@ -480,54 +480,39 @@ msgid "Organize your life — it&rsquo;s about time!"
 msgstr "Organizujće swoje žiwjenje - je najwjetši čas!"
 
 #: website/calendar/index.html:29
+#, fuzzy
 msgid ""
-"Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird or Seamonkey email. Manage multiple calendars, create your daily to do list, invite "
-"friends to events, and subscribe to public calendars."
+"Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird email. Manage multiple calendars, create your daily to do list, invite friends to "
+"events, and subscribe to public calendars."
 msgstr ""
 "Organizujće swój plan a wažne podawki žiwjenja w protyce, kotraž je dospołnje w e-mejlowym programje Thunderbird abo Seamonkey integrowana. Rjadujće wjacore protyki, wutworće swoju wšědnu nadawkowu "
 "lisćinu, přeprošće přećelow k zarjadowanjam a abonujće zjawne protyki."
 
-#: website/calendar/index.html:48
-msgid "Compatibility Information"
-msgstr "Informacije kompatibelnosće"
-
 #: website/calendar/index.html:50
-msgid "Thunderbird, Seamonkey, what version?"
-msgstr "Thunderbird, Seamonkey, kotra wersija?"
-
-#: website/calendar/index.html:65
 msgid "Need help with Lightning?"
 msgstr "Trjebaće pomoc z Lightning?"
 
-#: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:77
+#: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:62
 msgid "Holiday Calendars"
 msgstr "Prózdninske protyki"
 
-#: website/calendar/index.html:79
+#: website/calendar/index.html:64
 msgid "Need a break? Now you know when!"
 msgstr "Trjebaće přestawku? Nětko wěsće hdy!"
 
-#: website/calendar/index.html:92
-msgid "Developer Tools"
-msgstr "Wuwiwarske nastroje"
-
-#: website/calendar/index.html:94
-msgid "Dive into development."
-msgstr "Zanurće so do wuwića."
-
-#: website/calendar/index.html:107
+#: website/calendar/index.html:77
 msgid "Bugzilla"
 msgstr "Bugzilla"
 
-#: website/calendar/index.html:109
+#: website/calendar/index.html:79
 msgid "Found a bug? Let us know!"
 msgstr "Sće zmylk namakał? Zdźělće nam jón!"
 
-#: website/calendar/index.html:122
+#: website/calendar/index.html:92
 msgid "Bugs Ahoy!"
 msgstr "Zmylki prědku!"
 
-#: website/calendar/index.html:124
+#: website/calendar/index.html:94
 msgid "Want to make a difference? Fix a bug that fits your interests."
 msgstr "Chceće něšto docpěć? Porjedźće zmylk, kotryž wašim zajimam wotpowěduje."
 
@@ -1023,6 +1008,18 @@ msgstr "Wersijowe informacije kóždeje wersije Thunderbird."
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Wersijowe informacije Thunderbird přeco wěstu wersiju nałoženja nastupaja. Wubjerće swoju wersiju ze slědowaceje lisćiny, zo byšće sej jeje wersijowe informacije wobhladał."
+
+#~ msgid "Compatibility Information"
+#~ msgstr "Informacije kompatibelnosće"
+
+#~ msgid "Thunderbird, Seamonkey, what version?"
+#~ msgstr "Thunderbird, Seamonkey, kotra wersija?"
+
+#~ msgid "Developer Tools"
+#~ msgstr "Wuwiwarske nastroje"
+
+#~ msgid "Dive into development."
+#~ msgstr "Zanurće so do wuwića."
 
 #~ msgid "Report Trademark Abuse"
 #~ msgstr "Znjewužiwanje wikowanskeho znamjenja zdźělić"

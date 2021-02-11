@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-10 22:36-0700\n"
+"POT-Creation-Date: 2021-02-11 10:57-0800\n"
 "PO-Revision-Date: 2020-08-10 11:53+0000\n"
 "Last-Translator: Jordi Serratosa <jordis@softcatala.cat>\n"
 "Language-Team: none\n"
@@ -103,7 +103,7 @@ msgstr ""
 " sigui millor per a tothom."
 
 #: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:142
-#: website/index.html:161 website/site-footer.html:4 website/site-footer.html:48
+#: website/index.html:161 website/site-footer.html:4 website/site-footer.html:48 website/site-prefooter.html:51 website/site-prefooter.html:54
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
@@ -178,7 +178,7 @@ msgstr "La vostra adreça electrònica"
 msgid "Sign me up!"
 msgstr "Subscriu-m'hi"
 
-#: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9
+#: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9 website/site-prefooter.html:59
 msgid "Download Thunderbird"
 msgstr "Baixa el Thunderbird"
 
@@ -192,11 +192,11 @@ msgstr "El vostre sistema no compleix els <a href=\"%(url)s\">requisits</a> per 
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
 msgstr "Seguiu <a href=\"%(url)s\">aquestes instruccions</a> per instal·lar el Thunderbird."
 
-#: website/download-button.html:53 website/site-prefooter.html:47
+#: website/download-button.html:53 website/site-prefooter.html:66
 msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
-#: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
+#: website/download-button.html:55 website/site-prefooter.html:81 website/site-prefooter.html:84
 #, fuzzy
 msgid "Thunderbird Nightly"
 msgstr "Thunderbird Beta"
@@ -217,7 +217,7 @@ msgstr "Privadesa"
 msgid "Make Email Easier."
 msgstr "El correu electrònic fet fàcil."
 
-#: website/index.html:10
+#: website/index.html:10 website/site-prefooter.html:56
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
 msgstr "El Thunderbird és una aplicació gratuïta de correu electrònic fàcil de configurar i de personalitzar i carregada de funcions genials!"
 
@@ -393,7 +393,7 @@ msgstr "Uniu-vos a nosaltres"
 msgid "Make a Donation"
 msgstr "Feu una donació"
 
-#: website/calendar/index.html:63 website/site-prefooter.html:22
+#: website/calendar/index.html:48 website/site-prefooter.html:22
 #, fuzzy
 msgid "Get Support"
 msgstr "Ajuda"
@@ -402,34 +402,34 @@ msgstr "Ajuda"
 msgid "Report a Bug"
 msgstr "Informa d’un problema"
 
-#: website/site-prefooter.html:50
+#: website/site-prefooter.html:69
 #, fuzzy
 msgid "The Future of Thunderbird"
 msgstr "Què és el Thunderbird?"
 
-#: website/site-prefooter.html:52
+#: website/site-prefooter.html:71
 #, fuzzy
 msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
 msgstr "<a href=\"https://discourse.mozilla.org/c/thunderbird/beta\">Envieu comentaris</a> per ajudar a perfeccionar la versió final"
 
-#: website/site-prefooter.html:55
+#: website/site-prefooter.html:74
 #, fuzzy
 msgid "Download Beta"
 msgstr "Baixada gratuïta"
 
-#: website/site-prefooter.html:67
+#: website/site-prefooter.html:86
 msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Nightly channel."
 msgstr ""
 
-#: website/site-prefooter.html:71
+#: website/site-prefooter.html:90
 msgid "WARNING!"
 msgstr "AVÍS!"
 
-#: website/site-prefooter.html:73
+#: website/site-prefooter.html:92
 msgid "Nightly is an unstable testing and development platform, make sure you back up important data regularly!"
 msgstr ""
 
-#: website/site-prefooter.html:76
+#: website/site-prefooter.html:95
 msgid "Download Nightly"
 msgstr "Baixa el Nightly"
 
@@ -493,53 +493,36 @@ msgstr "Ja és hora d'organitzar la vostra vida!"
 
 #: website/calendar/index.html:29
 msgid ""
-"Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird or Seamonkey email. Manage multiple calendars, create your daily to do list, invite "
-"friends to events, and subscribe to public calendars."
+"Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird email. Manage multiple calendars, create your daily to do list, invite friends to "
+"events, and subscribe to public calendars."
 msgstr ""
 
-#: website/calendar/index.html:48
-msgid "Compatibility Information"
-msgstr "Informació de compatibilitat"
-
 #: website/calendar/index.html:50
-#, fuzzy
-msgid "Thunderbird, Seamonkey, what version?"
-msgstr "Versions del Thunderbird"
-
-#: website/calendar/index.html:65
 msgid "Need help with Lightning?"
 msgstr "Us cal ajuda amb el Lightning?"
 
-#: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:77
+#: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:62
 msgid "Holiday Calendars"
 msgstr "Calendaris de festivitats"
 
-#: website/calendar/index.html:79
+#: website/calendar/index.html:64
 msgid "Need a break? Now you know when!"
 msgstr "Necessiteu un descans? Ara ja sabeu quan!"
 
-#: website/calendar/index.html:92
-msgid "Developer Tools"
-msgstr "Eines per a desenvolupadors"
-
-#: website/calendar/index.html:94
-msgid "Dive into development."
-msgstr "Endinseu-vos en el desenvolupament."
-
-#: website/calendar/index.html:107
+#: website/calendar/index.html:77
 #, fuzzy
 msgid "Bugzilla"
 msgstr "Mozilla"
 
-#: website/calendar/index.html:109
+#: website/calendar/index.html:79
 msgid "Found a bug? Let us know!"
 msgstr "Heu trobat un error? Feu-nos-ho saber."
 
-#: website/calendar/index.html:122
+#: website/calendar/index.html:92
 msgid "Bugs Ahoy!"
 msgstr "Error a la vista!"
 
-#: website/calendar/index.html:124
+#: website/calendar/index.html:94
 msgid "Want to make a difference? Fix a bug that fits your interests."
 msgstr "Voleu marcar la diferència? Corregiu un error que s'adapti als vostres interessos."
 
@@ -1027,6 +1010,19 @@ msgstr "Notes de cada versió del Thunderbird."
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Les notes de la versió del Thunderbird són específiques de cada versió de l'aplicació. Trieu la versió que voleu en la llista següent per veure'n les notes de la versió."
+
+#~ msgid "Compatibility Information"
+#~ msgstr "Informació de compatibilitat"
+
+#, fuzzy
+#~ msgid "Thunderbird, Seamonkey, what version?"
+#~ msgstr "Versions del Thunderbird"
+
+#~ msgid "Developer Tools"
+#~ msgstr "Eines per a desenvolupadors"
+
+#~ msgid "Dive into development."
+#~ msgstr "Endinseu-vos en el desenvolupament."
 
 #~ msgid "Report Trademark Abuse"
 #~ msgstr "Informeu d'un abús de la marca"

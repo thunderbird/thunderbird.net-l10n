@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-10 22:36-0700\n"
+"POT-Creation-Date: 2021-02-11 10:57-0800\n"
 "PO-Revision-Date: 2020-11-29 13:52+0000\n"
 "Last-Translator: Valdis Vitolins <valdis.vitolins@odo.lv>\n"
 "Language-Team: none\n"
@@ -100,7 +100,7 @@ msgstr ""
 "Thunderbird kļūst labāks priekš visiem."
 
 #: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:142
-#: website/index.html:161 website/site-footer.html:4 website/site-footer.html:48
+#: website/index.html:161 website/site-footer.html:4 website/site-footer.html:48 website/site-prefooter.html:51 website/site-prefooter.html:54
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
@@ -173,7 +173,7 @@ msgstr "Jūsu epasts"
 msgid "Sign me up!"
 msgstr "Pierakstiet mani!"
 
-#: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9
+#: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9 website/site-prefooter.html:59
 msgid "Download Thunderbird"
 msgstr "Lejuplādēt Thunderbird"
 
@@ -187,11 +187,11 @@ msgstr "Jūsu sistēma neatbilst Thunderbird darbināšanas <a href=\"%(url)s\">
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
 msgstr "Lai uzstādītu Thunderbird, lūdzu, izpildiet <a href=\"%(url)s\">šos norādījumus</a>."
 
-#: website/download-button.html:53 website/site-prefooter.html:47
+#: website/download-button.html:53 website/site-prefooter.html:66
 msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
-#: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
+#: website/download-button.html:55 website/site-prefooter.html:81 website/site-prefooter.html:84
 msgid "Thunderbird Nightly"
 msgstr "Iknakts Thunderbird"
 
@@ -211,7 +211,7 @@ msgstr "Privātums"
 msgid "Make Email Easier."
 msgstr "Padariet epastu vienkāršāku."
 
-#: website/index.html:10
+#: website/index.html:10 website/site-prefooter.html:56
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
 msgstr "Thunderbird ir bezmaksas epasta lietotne, kuru ir viegli iestatīt un pielāgot, un tā ir pilna ar lieliskām iespējām!"
 
@@ -378,7 +378,7 @@ msgstr "Pievienojieties mums"
 msgid "Make a Donation"
 msgstr "Ziedojiet"
 
-#: website/calendar/index.html:63 website/site-prefooter.html:22
+#: website/calendar/index.html:48 website/site-prefooter.html:22
 msgid "Get Support"
 msgstr "Atbalsts"
 
@@ -386,31 +386,31 @@ msgstr "Atbalsts"
 msgid "Report a Bug"
 msgstr "Ziņojiet par kļūdu"
 
-#: website/site-prefooter.html:50
+#: website/site-prefooter.html:69
 msgid "The Future of Thunderbird"
 msgstr "Thunedrbird nākotne"
 
-#: website/site-prefooter.html:52
+#: website/site-prefooter.html:71
 msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
 msgstr "Izmēģiniet jaunākās iespējas. Sniedziet atsauksmes, lai palīdzētu precizēt un noslīpēt, kas nonāks galīgajā laidienā."
 
-#: website/site-prefooter.html:55
+#: website/site-prefooter.html:74
 msgid "Download Beta"
 msgstr "Lejuplādēt Beta"
 
-#: website/site-prefooter.html:67
+#: website/site-prefooter.html:86
 msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Nightly channel."
 msgstr "Palīdziet mums katru dienu pārbaudīt jaunākos Thunderbird sasniegumus, izmantojot nestabilo Iknakts kanālu."
 
-#: website/site-prefooter.html:71
+#: website/site-prefooter.html:90
 msgid "WARNING!"
 msgstr "BRĪDINĀJUMS!"
 
-#: website/site-prefooter.html:73
+#: website/site-prefooter.html:92
 msgid "Nightly is an unstable testing and development platform, make sure you back up important data regularly!"
 msgstr "Iknakts ir nestabila testēšanas un izstrādes platforma. Pārliecinieties, ka regulāri dublējat svarīgus datus!"
 
-#: website/site-prefooter.html:76
+#: website/site-prefooter.html:95
 msgid "Download Nightly"
 msgstr "Lejuplādēt Iknakts"
 
@@ -472,54 +472,39 @@ msgid "Organize your life — it&rsquo;s about time!"
 msgstr "Ir pienācis laiks organizēt savu dzīvi!"
 
 #: website/calendar/index.html:29
+#, fuzzy
 msgid ""
-"Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird or Seamonkey email. Manage multiple calendars, create your daily to do list, invite "
-"friends to events, and subscribe to public calendars."
+"Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird email. Manage multiple calendars, create your daily to do list, invite friends to "
+"events, and subscribe to public calendars."
 msgstr ""
 "Organizējiet savu grafiku un dzīves svarīgākos notikumus kalendārā, kas ir pilnībā integrēts jūsu Thunderbird vai Seamonkey epastu. Pārvaldiet vairākus kalendārus, izveidojiet ikdienas darbu "
 "sarakstu, uzaiciniet draugus uz pasākumiem un abonējiet publiskos kalendārus."
 
-#: website/calendar/index.html:48
-msgid "Compatibility Information"
-msgstr "Saderības informācija"
-
 #: website/calendar/index.html:50
-msgid "Thunderbird, Seamonkey, what version?"
-msgstr "Kādu Thunderbird, Seamonkey versiju?"
-
-#: website/calendar/index.html:65
 msgid "Need help with Lightning?"
 msgstr "Vai nepieciešama palīdzība ar Lightning?"
 
-#: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:77
+#: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:62
 msgid "Holiday Calendars"
 msgstr "Brīvdienu kalendāri"
 
-#: website/calendar/index.html:79
+#: website/calendar/index.html:64
 msgid "Need a break? Now you know when!"
 msgstr "Nepieciešama pauze? Tagad jūs zināt, kad!"
 
-#: website/calendar/index.html:92
-msgid "Developer Tools"
-msgstr "Izstrādātāju rīki"
-
-#: website/calendar/index.html:94
-msgid "Dive into development."
-msgstr "Iedziļinieties izstrādē."
-
-#: website/calendar/index.html:107
+#: website/calendar/index.html:77
 msgid "Bugzilla"
 msgstr "Bugzilla"
 
-#: website/calendar/index.html:109
+#: website/calendar/index.html:79
 msgid "Found a bug? Let us know!"
 msgstr "Atradāt kļūdu? Ziņojiet mums!"
 
-#: website/calendar/index.html:122
+#: website/calendar/index.html:92
 msgid "Bugs Ahoy!"
 msgstr "Hei, kļūdas!"
 
-#: website/calendar/index.html:124
+#: website/calendar/index.html:94
 msgid "Want to make a difference? Fix a bug that fits your interests."
 msgstr "Vēlaties ko mainīt? Izlabojiet jūs interesējošu kļūdu."
 
@@ -1019,6 +1004,18 @@ msgstr "Katras Thunderbird versijas laidiena piezīmes."
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Thunderbird laidiena piezīmes ir atsevišķi katrai lietotnes versijai. Zemāk esošajā sarakstā atlasiet savu versiju, lai skatītu tās laidiena piezīmes."
+
+#~ msgid "Compatibility Information"
+#~ msgstr "Saderības informācija"
+
+#~ msgid "Thunderbird, Seamonkey, what version?"
+#~ msgstr "Kādu Thunderbird, Seamonkey versiju?"
+
+#~ msgid "Developer Tools"
+#~ msgstr "Izstrādātāju rīki"
+
+#~ msgid "Dive into development."
+#~ msgstr "Iedziļinieties izstrādē."
 
 #~ msgid "Report Trademark Abuse"
 #~ msgstr "Ziņot par preču zīmes pārkāpumu"

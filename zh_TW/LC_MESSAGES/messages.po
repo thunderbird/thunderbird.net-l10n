@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-10 22:36-0700\n"
+"POT-Creation-Date: 2021-02-11 10:57-0800\n"
 "PO-Revision-Date: 2020-09-11 10:40+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language-Team: none\n"
@@ -90,7 +90,7 @@ msgid ""
 msgstr "覺得找到某個 Thunderbird 的問題嗎？<a href=\"%(bug)s\">請回報 Bug</a>，讓我們可以確保問題能被修正。請幫助我們找出並修正 Bug，讓大家都能有一套更好的 Thunderbird。"
 
 #: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:142
-#: website/index.html:161 website/site-footer.html:4 website/site-footer.html:48
+#: website/index.html:161 website/site-footer.html:4 website/site-footer.html:48 website/site-prefooter.html:51 website/site-prefooter.html:54
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
@@ -163,7 +163,7 @@ msgstr "您的電子郵件地址"
 msgid "Sign me up!"
 msgstr "我要訂閱！"
 
-#: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9
+#: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9 website/site-prefooter.html:59
 msgid "Download Thunderbird"
 msgstr "下載 Thunderbird"
 
@@ -177,11 +177,11 @@ msgstr "您的系統不符合執行 Thunderbird 的<a href=\"%(url)s\">最低需
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
 msgstr "請依照<a href=\"%(url)s\">下列步驟</a>安裝 Thunderbird。"
 
-#: website/download-button.html:53 website/site-prefooter.html:47
+#: website/download-button.html:53 website/site-prefooter.html:66
 msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
-#: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
+#: website/download-button.html:55 website/site-prefooter.html:81 website/site-prefooter.html:84
 msgid "Thunderbird Nightly"
 msgstr "Thunderbird Nightly"
 
@@ -201,7 +201,7 @@ msgstr "隱私權"
 msgid "Make Email Easier."
 msgstr "收發郵件更簡單"
 
-#: website/index.html:10
+#: website/index.html:10 website/site-prefooter.html:56
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
 msgstr "Thunderbird 是可以讓您簡單設定與自訂的一套免費電子郵件軟體 - 裡面有超多超棒的功能！"
 
@@ -370,7 +370,7 @@ msgstr "加入我們"
 msgid "Make a Donation"
 msgstr "捐款"
 
-#: website/calendar/index.html:63 website/site-prefooter.html:22
+#: website/calendar/index.html:48 website/site-prefooter.html:22
 msgid "Get Support"
 msgstr "獲得技術支援"
 
@@ -378,31 +378,31 @@ msgstr "獲得技術支援"
 msgid "Report a Bug"
 msgstr "回報 Bug"
 
-#: website/site-prefooter.html:50
+#: website/site-prefooter.html:69
 msgid "The Future of Thunderbird"
 msgstr "Thunderbird 的未來"
 
-#: website/site-prefooter.html:52
+#: website/site-prefooter.html:71
 msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
 msgstr "體驗最新功能，並提供意見回饋以幫助我們變得更好，琢磨出最終發行版本。"
 
-#: website/site-prefooter.html:55
+#: website/site-prefooter.html:74
 msgid "Download Beta"
 msgstr "下載 Beta 測試版"
 
-#: website/site-prefooter.html:67
+#: website/site-prefooter.html:86
 msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Nightly channel."
 msgstr "使用不穩定的 Nightly 頻道，幫助我們測試 Thunderbird 最新開發的功能。"
 
-#: website/site-prefooter.html:71
+#: website/site-prefooter.html:90
 msgid "WARNING!"
 msgstr "警告！"
 
-#: website/site-prefooter.html:73
+#: website/site-prefooter.html:92
 msgid "Nightly is an unstable testing and development platform, make sure you back up important data regularly!"
 msgstr "Nightly 是不穩定的測試與開發平台，請務必記得定時備份重要資料！"
 
-#: website/site-prefooter.html:76
+#: website/site-prefooter.html:95
 msgid "Download Nightly"
 msgstr "下載 Nightly"
 
@@ -458,52 +458,37 @@ msgid "Organize your life — it&rsquo;s about time!"
 msgstr "管理您的生活 — 分秒必爭！"
 
 #: website/calendar/index.html:29
+#, fuzzy
 msgid ""
-"Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird or Seamonkey email. Manage multiple calendars, create your daily to do list, invite "
-"friends to events, and subscribe to public calendars."
+"Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird email. Manage multiple calendars, create your daily to do list, invite friends to "
+"events, and subscribe to public calendars."
 msgstr "使用整合於 Thunderbird 或 Seamonkey 郵件軟體當中的行事曆功能，管理您的日常排程與生活中的大小事。可用來管理多個行事曆、建立日常待辦清單、邀請朋友參加活動、訂閱公開行事曆。"
 
-#: website/calendar/index.html:48
-msgid "Compatibility Information"
-msgstr "相容性資訊"
-
 #: website/calendar/index.html:50
-msgid "Thunderbird, Seamonkey, what version?"
-msgstr "Thunderbird、Seamonkey，差在哪裡？"
-
-#: website/calendar/index.html:65
 msgid "Need help with Lightning?"
 msgstr "使用 Lightning 上需要幫忙嗎？"
 
-#: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:77
+#: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:62
 msgid "Holiday Calendars"
 msgstr "公眾節日行事曆"
 
-#: website/calendar/index.html:79
+#: website/calendar/index.html:64
 msgid "Need a break? Now you know when!"
 msgstr "想放個假嗎？訂起來就能馬上看到！"
 
-#: website/calendar/index.html:92
-msgid "Developer Tools"
-msgstr "開發者工具"
-
-#: website/calendar/index.html:94
-msgid "Dive into development."
-msgstr "參與開發。"
-
-#: website/calendar/index.html:107
+#: website/calendar/index.html:77
 msgid "Bugzilla"
 msgstr "Bugzilla"
 
-#: website/calendar/index.html:109
+#: website/calendar/index.html:79
 msgid "Found a bug? Let us know!"
 msgstr "找到 Bug？請讓我們知道！"
 
-#: website/calendar/index.html:122
+#: website/calendar/index.html:92
 msgid "Bugs Ahoy!"
 msgstr "Bugs Ahoy!"
 
-#: website/calendar/index.html:124
+#: website/calendar/index.html:94
 msgid "Want to make a difference? Fix a bug that fits your interests."
 msgstr "想要做點不同的事情嗎？修掉讓您在意的問題。"
 
@@ -950,6 +935,18 @@ msgstr "每個版本的 Thunderbird 的發行公告。"
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Thunderbird 每個版本都會有發行公告。請從下列清單中選擇您的版本，閱讀該版本的發行公告。"
+
+#~ msgid "Compatibility Information"
+#~ msgstr "相容性資訊"
+
+#~ msgid "Thunderbird, Seamonkey, what version?"
+#~ msgstr "Thunderbird、Seamonkey，差在哪裡？"
+
+#~ msgid "Developer Tools"
+#~ msgstr "開發者工具"
+
+#~ msgid "Dive into development."
+#~ msgstr "參與開發。"
 
 #~ msgid "Report Trademark Abuse"
 #~ msgstr "回報商標濫用"

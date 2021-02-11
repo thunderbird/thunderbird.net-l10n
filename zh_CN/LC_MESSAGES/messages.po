@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
 # taotieren <admin@taotieren.com>, 2019.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-10 22:36-0700\n"
+"POT-Creation-Date: 2021-02-11 10:57-0800\n"
 "PO-Revision-Date: 2020-09-11 11:20+0000\n"
 "Last-Translator: 你我皆凡人 <eloli@foxmail.com>\n"
 "Language-Team: none\n"
@@ -91,7 +91,7 @@ msgid ""
 msgstr "觉得您找到了 Thunderbird 的某个问题？<a href=\"%(bug)s\">创建一份缺陷报告</a>以便我们解决那个问题。帮助我们找出和修复缺陷（Bug），让大家享有一个更好的 Thunderbird。"
 
 #: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:142
-#: website/index.html:161 website/site-footer.html:4 website/site-footer.html:48
+#: website/index.html:161 website/site-footer.html:4 website/site-footer.html:48 website/site-prefooter.html:51 website/site-prefooter.html:54
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
@@ -164,7 +164,7 @@ msgstr "您的电子邮件地址"
 msgid "Sign me up!"
 msgstr "我要订阅！"
 
-#: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9
+#: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9 website/site-prefooter.html:59
 msgid "Download Thunderbird"
 msgstr "下载 Thunderbird"
 
@@ -178,11 +178,11 @@ msgstr "您的系统不满足运行 Thunderbird 的<a href=\"%(url)s\">必要条
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
 msgstr "请按照<a href=\"%(url)s\">以下步骤</a>安装 Thunderbird。"
 
-#: website/download-button.html:53 website/site-prefooter.html:47
+#: website/download-button.html:53 website/site-prefooter.html:66
 msgid "Thunderbird Beta"
 msgstr "Thunderbird 测试版"
 
-#: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
+#: website/download-button.html:55 website/site-prefooter.html:81 website/site-prefooter.html:84
 msgid "Thunderbird Nightly"
 msgstr "Thunderbird Nightly"
 
@@ -202,7 +202,7 @@ msgstr "隐私"
 msgid "Make Email Easier."
 msgstr "收发邮件更简单。"
 
-#: website/index.html:10
+#: website/index.html:10 website/site-prefooter.html:56
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
 msgstr "Thunderbird 是一款免费的电子邮件应用程序，配置简单，定制自由——还附有强大功能！"
 
@@ -369,7 +369,7 @@ msgstr "加入我们"
 msgid "Make a Donation"
 msgstr "向我们捐款"
 
-#: website/calendar/index.html:63 website/site-prefooter.html:22
+#: website/calendar/index.html:48 website/site-prefooter.html:22
 msgid "Get Support"
 msgstr "获取支持"
 
@@ -377,31 +377,31 @@ msgstr "获取支持"
 msgid "Report a Bug"
 msgstr "报告缺陷（Bug）"
 
-#: website/site-prefooter.html:50
+#: website/site-prefooter.html:69
 msgid "The Future of Thunderbird"
 msgstr "Thunderbird 的未来"
 
-#: website/site-prefooter.html:52
+#: website/site-prefooter.html:71
 msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
 msgstr "体验最新的功能，提供反馈，让它们在最终发布版本中表现得更好。"
 
-#: website/site-prefooter.html:55
+#: website/site-prefooter.html:74
 msgid "Download Beta"
 msgstr "下载测试版"
 
-#: website/site-prefooter.html:67
+#: website/site-prefooter.html:86
 msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Nightly channel."
 msgstr "每天使用不稳定的 Nightly 通道，帮助我们测试 Thunderbird 的最新特性。"
 
-#: website/site-prefooter.html:71
+#: website/site-prefooter.html:90
 msgid "WARNING!"
 msgstr "警告！"
 
-#: website/site-prefooter.html:73
+#: website/site-prefooter.html:92
 msgid "Nightly is an unstable testing and development platform, make sure you back up important data regularly!"
 msgstr "Nightly 版本是不稳定的测试和开发平台，请您务必定期备份重要数据！"
 
-#: website/site-prefooter.html:76
+#: website/site-prefooter.html:95
 msgid "Download Nightly"
 msgstr "下载 Nightly"
 
@@ -457,52 +457,37 @@ msgid "Organize your life — it&rsquo;s about time!"
 msgstr "管理您的生活 — 争分夺秒！"
 
 #: website/calendar/index.html:29
+#, fuzzy
 msgid ""
-"Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird or Seamonkey email. Manage multiple calendars, create your daily to do list, invite "
-"friends to events, and subscribe to public calendars."
+"Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird email. Manage multiple calendars, create your daily to do list, invite friends to "
+"events, and subscribe to public calendars."
 msgstr "使用整合于 Thunderbird 邮件客户端的的日历功能，管理您的日程安排和生活大小事。管理多个日历，创建您的日常待办清单，邀请朋友参加活动以及订阅公共日历。"
 
-#: website/calendar/index.html:48
-msgid "Compatibility Information"
-msgstr "兼容性信息"
-
 #: website/calendar/index.html:50
-msgid "Thunderbird, Seamonkey, what version?"
-msgstr "Thunderbird、Seamonkey，区别何在？"
-
-#: website/calendar/index.html:65
 msgid "Need help with Lightning?"
 msgstr "Lightning 使用方面需要帮助吗？"
 
-#: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:77
+#: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:62
 msgid "Holiday Calendars"
 msgstr "假期日历"
 
-#: website/calendar/index.html:79
+#: website/calendar/index.html:64
 msgid "Need a break? Now you know when!"
 msgstr "想放个假吗？订阅即可看到！"
 
-#: website/calendar/index.html:92
-msgid "Developer Tools"
-msgstr "开发者工具"
-
-#: website/calendar/index.html:94
-msgid "Dive into development."
-msgstr "参与开发。"
-
-#: website/calendar/index.html:107
+#: website/calendar/index.html:77
 msgid "Bugzilla"
 msgstr "Bugzilla"
 
-#: website/calendar/index.html:109
+#: website/calendar/index.html:79
 msgid "Found a bug? Let us know!"
 msgstr "发现缺陷（bug）？请让我们知道！"
 
-#: website/calendar/index.html:122
+#: website/calendar/index.html:92
 msgid "Bugs Ahoy!"
 msgstr "Bugs Ahoy!"
 
-#: website/calendar/index.html:124
+#: website/calendar/index.html:94
 msgid "Want to make a difference? Fix a bug that fits your interests."
 msgstr "想要有所行动？修复让您在意的的缺陷（bug）。"
 
@@ -949,6 +934,18 @@ msgstr "每个版本的 Thunderbird 发行说明。"
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Thunderbird 每个版本均有发行说明。请从下方列表中选择您的版本，阅读该版本的发行说明。"
+
+#~ msgid "Compatibility Information"
+#~ msgstr "兼容性信息"
+
+#~ msgid "Thunderbird, Seamonkey, what version?"
+#~ msgstr "Thunderbird、Seamonkey，区别何在？"
+
+#~ msgid "Developer Tools"
+#~ msgstr "开发者工具"
+
+#~ msgid "Dive into development."
+#~ msgstr "参与开发。"
 
 #~ msgid "Report Trademark Abuse"
 #~ msgstr "报告商标滥用"

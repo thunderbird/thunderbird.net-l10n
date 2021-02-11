@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-10 22:36-0700\n"
+"POT-Creation-Date: 2021-02-11 10:57-0800\n"
 "PO-Revision-Date: 2020-09-14 04:55+0000\n"
 "Last-Translator: kemia051 <kemia051@gmail.com>\n"
 "Language-Team: none\n"
@@ -104,7 +104,7 @@ msgstr ""
 "Thunderbird készítésében."
 
 #: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:142
-#: website/index.html:161 website/site-footer.html:4 website/site-footer.html:48
+#: website/index.html:161 website/site-footer.html:4 website/site-footer.html:48 website/site-prefooter.html:51 website/site-prefooter.html:54
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
@@ -177,7 +177,7 @@ msgstr "Az Ön e-mail címe"
 msgid "Sign me up!"
 msgstr "Feliratkozás"
 
-#: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9
+#: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9 website/site-prefooter.html:59
 msgid "Download Thunderbird"
 msgstr "Thunderbird letöltése"
 
@@ -191,11 +191,11 @@ msgstr "Az Ön által használt rendszer nem teljesíti a Thunderbird futtatás�
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
 msgstr "A Thunderbird telepítéséhez kövesse <a href=\"%(url)s\">ezeket az utasításokat</a>."
 
-#: website/download-button.html:53 website/site-prefooter.html:47
+#: website/download-button.html:53 website/site-prefooter.html:66
 msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
-#: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
+#: website/download-button.html:55 website/site-prefooter.html:81 website/site-prefooter.html:84
 msgid "Thunderbird Nightly"
 msgstr "Thunderbird Nightly"
 
@@ -215,7 +215,7 @@ msgstr "Adatvédelem"
 msgid "Make Email Easier."
 msgstr "Tegye könnyebbé az e-mailezést."
 
-#: website/index.html:10
+#: website/index.html:10 website/site-prefooter.html:56
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
 msgstr "A Thunderbird egyszerűen telepíthető és testreszabható, ingyenes levelezőprogram - amely tele van nagyszerű funkciókkal!"
 
@@ -388,7 +388,7 @@ msgstr "Csatlakozzon"
 msgid "Make a Donation"
 msgstr "Támogasson"
 
-#: website/calendar/index.html:63 website/site-prefooter.html:22
+#: website/calendar/index.html:48 website/site-prefooter.html:22
 msgid "Get Support"
 msgstr "Kapjon támogatást"
 
@@ -396,31 +396,31 @@ msgstr "Kapjon támogatást"
 msgid "Report a Bug"
 msgstr "Hiba jelentése"
 
-#: website/site-prefooter.html:50
+#: website/site-prefooter.html:69
 msgid "The Future of Thunderbird"
 msgstr "A Thunderbird jövője"
 
-#: website/site-prefooter.html:52
+#: website/site-prefooter.html:71
 msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
 msgstr "Tapasztalja meg a legújabb funkciókat. Adjon visszajelzést, hogy segítsen a végleges kiadás finomításában és csiszolásában."
 
-#: website/site-prefooter.html:55
+#: website/site-prefooter.html:74
 msgid "Download Beta"
 msgstr "Beta letöltése"
 
-#: website/site-prefooter.html:67
+#: website/site-prefooter.html:86
 msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Nightly channel."
 msgstr "Segítsen nekünk tesztelni a Thunderbird legfrissebb fejlesztéseit minden nap, a nem stabil Nightly csatorna használatával."
 
-#: website/site-prefooter.html:71
+#: website/site-prefooter.html:90
 msgid "WARNING!"
 msgstr "FIGYELMEZTETÉS!"
 
-#: website/site-prefooter.html:73
+#: website/site-prefooter.html:92
 msgid "Nightly is an unstable testing and development platform, make sure you back up important data regularly!"
 msgstr "A Nighly egy nem stabil tesztelői és fejlesztői platform, győződjön meg róla, hogy legyen rendszeres biztonsági mentése."
 
-#: website/site-prefooter.html:76
+#: website/site-prefooter.html:95
 msgid "Download Nightly"
 msgstr "Nightly letöltése"
 
@@ -482,54 +482,39 @@ msgid "Organize your life — it&rsquo;s about time!"
 msgstr "Szervezze meg az életét – itt az idő!"
 
 #: website/calendar/index.html:29
+#, fuzzy
 msgid ""
-"Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird or Seamonkey email. Manage multiple calendars, create your daily to do list, invite "
-"friends to events, and subscribe to public calendars."
+"Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird email. Manage multiple calendars, create your daily to do list, invite friends to "
+"events, and subscribe to public calendars."
 msgstr ""
 "Szervezze meg a napirendjét és az élete fontos eseményeit egy olyan naptárral, amely teljesen beépül a Thunderbird vagy Seamonkey levelezőbe. Kezeljen több naptárat, hozza létre a napi teendők "
 "listáját, hívjon meg barátokat eseményekre, és iratkozzon fel nyilvános naptárakra."
 
-#: website/calendar/index.html:48
-msgid "Compatibility Information"
-msgstr "Kompatibilitási információ"
-
 #: website/calendar/index.html:50
-msgid "Thunderbird, Seamonkey, what version?"
-msgstr "Thunderbird, Seamonkey, milyen verzió?"
-
-#: website/calendar/index.html:65
 msgid "Need help with Lightning?"
 msgstr "Segítségre van szüksége a Lightninggal kapcsolatban?"
 
-#: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:77
+#: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:62
 msgid "Holiday Calendars"
 msgstr "Ünnepi naptárak"
 
-#: website/calendar/index.html:79
+#: website/calendar/index.html:64
 msgid "Need a break? Now you know when!"
 msgstr "Szünetet tartana? Most már tudja, mikor tartson!"
 
-#: website/calendar/index.html:92
-msgid "Developer Tools"
-msgstr "Fejlesztői eszközök"
-
-#: website/calendar/index.html:94
-msgid "Dive into development."
-msgstr "Merüljön a fejlesztésbe."
-
-#: website/calendar/index.html:107
+#: website/calendar/index.html:77
 msgid "Bugzilla"
 msgstr "Bugzilla"
 
-#: website/calendar/index.html:109
+#: website/calendar/index.html:79
 msgid "Found a bug? Let us know!"
 msgstr "Talált egy hibát? Tudassa velünk!"
 
-#: website/calendar/index.html:122
+#: website/calendar/index.html:92
 msgid "Bugs Ahoy!"
 msgstr "Hibákra fel!"
 
-#: website/calendar/index.html:124
+#: website/calendar/index.html:94
 msgid "Want to make a difference? Fix a bug that fits your interests."
 msgstr "Szeretne változást elérni? Javítson ki egy hibát, amely megfelel az érdeklődésének."
 
@@ -1041,6 +1026,18 @@ msgstr "Kiadási megjegyzések a Thunderbird minden verziójához."
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "A Thunderbird kiadási megjegyzései minden verzióhoz egyediek. Válassza ki az Ön verzióját az alábbi listából, és nézze meg a kiadási megjegyzéseket."
+
+#~ msgid "Compatibility Information"
+#~ msgstr "Kompatibilitási információ"
+
+#~ msgid "Thunderbird, Seamonkey, what version?"
+#~ msgstr "Thunderbird, Seamonkey, milyen verzió?"
+
+#~ msgid "Developer Tools"
+#~ msgstr "Fejlesztői eszközök"
+
+#~ msgid "Dive into development."
+#~ msgstr "Merüljön a fejlesztésbe."
 
 #~ msgid "Report Trademark Abuse"
 #~ msgstr "Védjeggyel való visszaélés jelentése"

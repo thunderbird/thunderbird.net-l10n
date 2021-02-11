@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-10 22:36-0700\n"
+"POT-Creation-Date: 2021-02-11 10:57-0800\n"
 "PO-Revision-Date: 2020-09-12 12:30+0000\n"
 "Last-Translator: G12r <georgianization@outlook.com>\n"
 "Language-Team: none\n"
@@ -105,7 +105,7 @@ msgstr ""
 "გახდეს კიდევ უფრო უკეთესი, თითოეული მომხმარებლისთვის."
 
 #: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:142
-#: website/index.html:161 website/site-footer.html:4 website/site-footer.html:48
+#: website/index.html:161 website/site-footer.html:4 website/site-footer.html:48 website/site-prefooter.html:51 website/site-prefooter.html:54
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
@@ -178,7 +178,7 @@ msgstr "თქვენი ელფოსტა"
 msgid "Sign me up!"
 msgstr "გამოწერა!"
 
-#: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9
+#: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9 website/site-prefooter.html:59
 msgid "Download Thunderbird"
 msgstr "ჩამოტვირთეთ Thunderbird"
 
@@ -192,11 +192,11 @@ msgstr "თქვენი სისტემა ვერ აკმაყოფ
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
 msgstr "გთხოვთ, Thunderbird-ის დასაყენებლად მიჰყვეთ <a href=\"%(url)s\">ამ მითითებებს</a>."
 
-#: website/download-button.html:53 website/site-prefooter.html:47
+#: website/download-button.html:53 website/site-prefooter.html:66
 msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
-#: website/download-button.html:55 website/site-prefooter.html:62 website/site-prefooter.html:65
+#: website/download-button.html:55 website/site-prefooter.html:81 website/site-prefooter.html:84
 msgid "Thunderbird Nightly"
 msgstr "Thunderbird Nightly"
 
@@ -216,7 +216,7 @@ msgstr "პირადულობა"
 msgid "Make Email Easier."
 msgstr "გაიმარტივეთ ელფოსტით სარგებლობა."
 
-#: website/index.html:10
+#: website/index.html:10 website/site-prefooter.html:56
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
 msgstr "Thunderbird არის ელფოსტის უფასო პროგრამა, რომლის დაყენება და გამართვაც უმარტივესია - და რომელსაც, უამრავი არაჩვეულებრივი შესაძლებლობა მოჰყვება!"
 
@@ -390,7 +390,7 @@ msgstr "შემოგვიერთდით"
 msgid "Make a Donation"
 msgstr "შემოწირულობის გაღება"
 
-#: website/calendar/index.html:63 website/site-prefooter.html:22
+#: website/calendar/index.html:48 website/site-prefooter.html:22
 msgid "Get Support"
 msgstr "მხარდაჭერა"
 
@@ -398,31 +398,31 @@ msgstr "მხარდაჭერა"
 msgid "Report a Bug"
 msgstr "მოგვახსენეთ ხარვეზი"
 
-#: website/site-prefooter.html:50
+#: website/site-prefooter.html:69
 msgid "The Future of Thunderbird"
 msgstr "Thunderbird-ის მომავალი"
 
-#: website/site-prefooter.html:52
+#: website/site-prefooter.html:71
 msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
 msgstr "გამოცადეთ გაუსხლავი შესაძლებლობები. გამოგვეხმაურეთ და დაგვეხმარეთ საბოლოო გამოშვების დახვეწასა და სრულყოფაში."
 
-#: website/site-prefooter.html:55
+#: website/site-prefooter.html:74
 msgid "Download Beta"
 msgstr "ჩამოტვირთეთ Beta"
 
-#: website/site-prefooter.html:67
+#: website/site-prefooter.html:86
 msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Nightly channel."
 msgstr "დაგვეხმარეთ უახლესი შესაძლებლობების გამოცდაში, რომლებიც ყოველდღიურად ავითარებს Thunderbird-ს, არამდგრადი Nightly-არხის მეშვეობით."
 
-#: website/site-prefooter.html:71
+#: website/site-prefooter.html:90
 msgid "WARNING!"
 msgstr "ყურადღება!"
 
-#: website/site-prefooter.html:73
+#: website/site-prefooter.html:92
 msgid "Nightly is an unstable testing and development platform, make sure you back up important data regularly!"
 msgstr "Nightly არამდგრადია და განკუთვნილია გამოსაცდელად, მნიშვნელოვანი მონაცემები დროდადრო საიმედოდ გადაინახეთ!"
 
-#: website/site-prefooter.html:76
+#: website/site-prefooter.html:95
 msgid "Download Nightly"
 msgstr "ჩამოტვირთეთ Nightly"
 
@@ -484,54 +484,39 @@ msgid "Organize your life — it&rsquo;s about time!"
 msgstr "დაგეგმეთ ცხოვრება — მთავარი ხომ დროა!"
 
 #: website/calendar/index.html:29
+#, fuzzy
 msgid ""
-"Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird or Seamonkey email. Manage multiple calendars, create your daily to do list, invite "
-"friends to events, and subscribe to public calendars."
+"Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird email. Manage multiple calendars, create your daily to do list, invite friends to "
+"events, and subscribe to public calendars."
 msgstr ""
 "მიუთითეთ თქვენი განრიგი და მნიშვნელოვანი ღონისძიებები კალენდარში, რომელიც სრულადაა თავსებადი Thunderbird-ისა და Seamonkey-ის ელფოსტასთან. მართეთ ერთბაშად რამდენიმე კალენდარი, შექმენით ყოველდღიური "
 "საქმეების სია, დაპატიჟეთ მეგობრები ღონისძიებებზე და გამოიწერეთ საჯარო კალენდრები."
 
-#: website/calendar/index.html:48
-msgid "Compatibility Information"
-msgstr "თავსებადობის შესახებ"
-
 #: website/calendar/index.html:50
-msgid "Thunderbird, Seamonkey, what version?"
-msgstr "Thunderbird, Seamonkey, რა ვერსიაა?"
-
-#: website/calendar/index.html:65
 msgid "Need help with Lightning?"
 msgstr "დახმარება გჭირდებათ Lightning-ზე?"
 
-#: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:77
+#: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:62
 msgid "Holiday Calendars"
 msgstr "უქმე დღეების კალენდრები"
 
-#: website/calendar/index.html:79
+#: website/calendar/index.html:64
 msgid "Need a break? Now you know when!"
 msgstr "დასვენება გჭირდებათ? გეცოდინებათ როდის იქნებით თავისუფალი!"
 
-#: website/calendar/index.html:92
-msgid "Developer Tools"
-msgstr "შემმუშავებლის ხელსაწყოები"
-
-#: website/calendar/index.html:94
-msgid "Dive into development."
-msgstr "ჩაერთეთ შემუშავებაში."
-
-#: website/calendar/index.html:107
+#: website/calendar/index.html:77
 msgid "Bugzilla"
 msgstr "Bugzilla"
 
-#: website/calendar/index.html:109
+#: website/calendar/index.html:79
 msgid "Found a bug? Let us know!"
 msgstr "ხარვეზი აღმოაჩინეთ? გვაცნობეთ!"
 
-#: website/calendar/index.html:122
+#: website/calendar/index.html:92
 msgid "Bugs Ahoy!"
 msgstr "ფრთხილად, შეცდომები!"
 
-#: website/calendar/index.html:124
+#: website/calendar/index.html:94
 msgid "Want to make a difference? Fix a bug that fits your interests."
 msgstr "გსურთ რამე განსხვავებული გააკეთოთ? შეასწორეთ შეცდომა, რომელიც თქვენთვის საინტერესოა."
 
@@ -1037,6 +1022,18 @@ msgstr "გამოშვების მონაცემები, Thunderbi
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Thunderbird-ის გამოშვებების მონაცემები განსხვავებულია პროგრამის თითოეული ვერსიისთვის. მიუთითეთ თქვენი ვერსია ქვემოთ არსებული ჩამონათვლიდან, შესაბამისი გამოშვების მონაცემების სანახავად."
+
+#~ msgid "Compatibility Information"
+#~ msgstr "თავსებადობის შესახებ"
+
+#~ msgid "Thunderbird, Seamonkey, what version?"
+#~ msgstr "Thunderbird, Seamonkey, რა ვერსიაა?"
+
+#~ msgid "Developer Tools"
+#~ msgstr "შემმუშავებლის ხელსაწყოები"
+
+#~ msgid "Dive into development."
+#~ msgstr "ჩაერთეთ შემუშავებაში."
 
 #~ msgid "Report Trademark Abuse"
 #~ msgstr "მოხსენება სავაჭრო ნიშნების დარღვევის შესახებ"
