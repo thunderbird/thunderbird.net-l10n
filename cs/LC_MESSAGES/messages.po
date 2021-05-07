@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-02-11 10:57-0800\n"
-"PO-Revision-Date: 2021-05-06 10:05+0000\n"
+"PO-Revision-Date: 2021-05-06 10:06+0000\n"
 "Last-Translator: Michal Stanke <mstanke@mozilla.cz>\n"
 "Language-Team: none\n"
 "Language: cs\n"
@@ -525,12 +525,12 @@ msgstr "Kalendáře, k jejichž odběru se můžete přihlásit, najdete také n
 #: website/calendar/holidays/index.html:59
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, thanks to %(authors)s"
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(title)s - %(country)s</a>, od autora %(authors)s"
 
 #: website/calendar/holidays/index.html:61
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s"
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">Svátky - %(country)s</a>, od autora %(authors)s"
 
 #: website/calendar/holidays/index.html:75
 msgid "Contributing a Holiday Calendar"
