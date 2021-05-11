@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-02-11 10:57-0800\n"
-"PO-Revision-Date: 2021-05-11 19:25+0000\n"
+"PO-Revision-Date: 2021-05-11 19:33+0000\n"
 "Last-Translator: Risgor <risgor@gmail.com>\n"
 "Language-Team: none\n"
 "Language: mk\n"
@@ -537,7 +537,7 @@ msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(ti
 #: website/calendar/holidays/index.html:61
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s"
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> празници благодарение на %(authors)s"
 
 #: website/calendar/holidays/index.html:75
 msgid "Contributing a Holiday Calendar"
@@ -562,7 +562,7 @@ msgstr "Десен клик на овој календар и изберете �
 #: website/calendar/holidays/index.html:87
 #, python-format
 msgid "Create a Pull Request or file an Issue on the <a href=\"%(contribute_url)s\">website repository</a> and attach your holiday file."
-msgstr ""
+msgstr "Направете барање за повлекување или поднесете забелешка за проблем на <a href=\"%(contribute_url)s\"> складиште на веб-страница </a> и приложете ја вашата датотека со празници."
 
 #: website/download/index.html:10
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
@@ -582,7 +582,7 @@ msgstr "Полесно е да се започне"
 
 #: website/features/index.html:30 website/features/index.html:100
 msgid "Tabs and Search"
-msgstr ""
+msgstr "Табулари и пребарување"
 
 #: website/features/index.html:33 website/features/index.html:160
 msgid "Customize Your Email Experience"
@@ -663,6 +663,8 @@ msgid ""
 "The Quick Filter Toolbar lets you filter your email faster. Start typing in words in the Quick Filter search box and the results are displayed instantly. Or you can filter your email by New "
 "Messages, Tags, and people in your Address Book. You can also \"Pin\" or save a Filter and use it across multiple folders."
 msgstr ""
+"Алатката за брзо филтрирање ви овозможува побрзо да ја филтрирате вашата е-пошта. Започнете да пишувате зборови во полето за пребарување Брз филтер и резултатите се прикажуваат веднаш. Или можете да"
+" ја филтрирате вашата е-пошта преку Нови пораки, ознаки и луѓе во вашиот Адресар. Можете исто така да го Закачите или да го зачувате филтерот и да го користите низ повеќе папки."
 
 #: website/features/index.html:138
 msgid "Search Tools"
@@ -715,6 +717,8 @@ msgid ""
 "Themes allow you to change the look of Thunderbird in an instant. Working on getting to inbox zero at night? Turn on the dark theme to make managing your email easier on the eyes. Thunderbird ships "
 "with both light and dark themes, and more are available as add-ons."
 msgstr ""
+"Темите ви овозможуваат да го промените изгледот на Thunderbird во еден момент. Работите и ноќе на тоа да дојдете до дното на сандачето? Вклучете ја темната тема за полесно управување со вашата "
+"е-пошта. Thunderbird се испорачува со светла и темна тематика, а достапни се и повеќе додатоци."
 
 #: website/features/index.html:199
 msgid "Smart Folders"
@@ -725,6 +729,8 @@ msgid ""
 "Smart Folders help you manage multiple email accounts by combining special folders like your Inbox, Sent, or Archive folder. Instead of going to the Inbox for each of your mail accounts, you can see"
 " all of your incoming email in one Inbox folder."
 msgstr ""
+"Паметните папки ви помагаат да управувате со повеќе сметки за е-пошта комбинирајќи специјални папки како папката Влезно сандаче, Излезно сандаче или Архива. Наместо да одите во Влезно сандаче за "
+"секоја од вашите сметки за пошта, можете да ги видите сите дојдовни е-пошти во една папка Влезно сандаче."
 
 #: website/features/index.html:210
 msgid "Add-ons Manager"
@@ -813,6 +819,8 @@ msgid ""
 "This article describes some of the major changes visible to users in Thunderbird version 68.0. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird 68 release "
 "notes</a>."
 msgstr ""
+"Оваа статија опишува некои од поголемите промени видливи за корисниците во Thunderbird верзија 68.0. Целосните детали за сите промени може да се најдат во <a href=\"%(release)s\">Белешки за "
+"изданието на Thunderbird 68</a>."
 
 #: website/thunderbird/68.0/whatsnew/index.html:25
 msgid "Better Dark Theme"
@@ -831,25 +839,29 @@ msgid ""
 "Filelink attachments that have already been uploaded can now be linked to again instead of having to re-upload them. Also, an account is no longer required to use the default Filelink provider - "
 "<strong>WeTransfer</strong>."
 msgstr ""
+"Filelink врските за датотеки кои што веќе се поставени, сега може повторно да се користат, наместо да се креираат нови. Исто така, веќе не е потребна сметка за да се користи стандардниот давател на "
+"Filelink - <strong> WeTransfer </strong>."
 
 #: website/thunderbird/68.0/whatsnew/index.html:44
 #, python-format
 msgid "Other Filelink providers like Box and Dropbox are not included by default, but can be added by grabbing the <a href=\"%(dropbox)s\">Dropbox</a> and <a href=\"%(box)s\">Box</a> add-ons."
-msgstr ""
+msgstr "Другите понудувачи на Filelink како Box и Dropbox не се стандардно вклучени, но може да се додадат со вклучување на <a href=\"%(dropbox)s\">Dropbox</a> и <a href=\"%(box)s\">Box</a> додатоци."
 
 #: website/thunderbird/68.0/whatsnew/index.html:52
 msgid "Options/Preferences in a Tab"
-msgstr ""
+msgstr "Опции/преференци во табулатор"
 
 #: website/thunderbird/68.0/whatsnew/index.html:55
 msgid ""
 "Thunderbirdʼs Options/Preferences have been converted from a dialog window to its own dedicated tab. The new Preferences tab provides more space which allows for better organized content and is more"
 " consistent with the look and feel of the rest of Thunderbird."
 msgstr ""
+"Опциите/преференциите на Thunderbird се претворени од прозорец за дијалог во негово сопствено јазиче. Новиот табулатор „Преференции“ обезбедува повеќе простор што овозможува подобро организирана "
+"содржина и е поконзистентен со изгледот и чувството на остатокот од Thunderbird."
 
 #: website/thunderbird/68.0/whatsnew/index.html:58
 msgid "The new Preferences tab also makes it easier to multi-task without the problem of losing track of where your preferences are when switching between windows."
-msgstr ""
+msgstr "Новиот табулатор Преференции исто така го олеснува работењето со повеќе задачи, без проблем да изгубите предвид каде се вашите преференции при префрлување помеѓу прозорците."
 
 #: website/thunderbird/68.0/whatsnew/index.html:67 website/thunderbird/78.0/whatsnew/index.html:81
 msgid "Other Notable Changes"
@@ -860,11 +872,14 @@ msgid ""
 "There are many other smaller changes that make Thunderbird 68 feel polished and powerful including: a new App Menu UI, an updated To/CC/BCC selector in compose, improved attachment management, full "
 "color support across the app, filters can now be set to run periodically, and feed articles now show external attachments as links."
 msgstr ""
+"Постојат многу други помали промени што го прават Thunderbird 68 да се чувствува полиран и моќен, вклучително: нов UI мени за апликации, ажуриран изборник За/CC/BCC при составување, подобрено "
+"управување со прилози, целосна поддршка во боја низ целата апликација, филтрите сега може да се постават да работат периодично, а написите за известувачот сега покажуваат надворешни прилози како "
+"врски."
 
 #: website/thunderbird/68.0/whatsnew/index.html:73
 #, python-format
 msgid "There are many other updates in this release, you can see a list of all of them in the <a href=\"%(release)s\">Thunderbird 68 release notes</a>."
-msgstr ""
+msgstr "Има уште многу други подобрувања во ова издание, кои можете да ги видите на списокот <a href=\"%(release)s\">Thunderbird 68 белешки за издание</a>."
 
 #: website/thunderbird/78.0/whatsnew/index.html:7
 msgid "New in Thunderbird 78"
@@ -876,6 +891,8 @@ msgid ""
 "This article describes some of the major changes visible to users in Thunderbird version 78. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird release notes "
 "from 78.0 and up</a>."
 msgstr ""
+"Оваа статија опишува некои од поголемите промени видливи за корисниците во верзијата 78 на Thunderbird. Целосните детали за сите промени може да се најдат во <a href=\"%(release)s\">Белешки за "
+"изданието на Thunderbird од 78.0 и нагоре</a> ."
 
 #: website/thunderbird/78.0/whatsnew/index.html:25
 msgid "Dark mode"
@@ -885,6 +902,8 @@ msgstr "Темна позадина"
 msgid ""
 "There is now a dark mode in Thunderbird, making late-night email easier on the eyes. To enable, Thunderbird will use your operating system settings to see if you have enabled dark mode OS-wide."
 msgstr ""
+"Сега постои темен режим во Thunderbird, правејќи ја е-поштата доцна во ноќта полесна за очите. За да се овозможи, Thunderbird ќе ги искористи поставките на вашиот оперативен систем за да види дали "
+"сте овозможиле темен режим во вашиот оперативен систем."
 
 #: website/thunderbird/78.0/whatsnew/index.html:38
 msgid "Account Setup & Account Central Updated"
