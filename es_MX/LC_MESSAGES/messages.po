@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-02-11 10:57-0800\n"
-"PO-Revision-Date: 2021-06-05 21:02+0000\n"
+"PO-Revision-Date: 2021-06-05 21:45+0000\n"
 "Last-Translator: Roberto Alvarado <ralv888@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es_MX\n"
@@ -518,7 +518,7 @@ msgstr "¿Quieres hacer una diferencia? Soluciona un error que se ajuste a tus i
 
 #: website/calendar/holidays/index.html:24
 msgid "Add your nation’s holidays to Lightning!"
-msgstr ""
+msgstr "¡Agrega los días festivos de tu país a Lightning!"
 
 #: website/calendar/holidays/index.html:29
 #, python-format
@@ -526,46 +526,49 @@ msgid ""
 "We’ve got some holiday calendar files available for download. You can either download and then import them into Lightning or you can just subscribe to these calendars by copying their URL and then "
 "adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
 msgstr ""
+"Tenemos algunos calendarios de días festivos disponibles para descargar. Puedes, ya sea descargarlos y luego importarlos a Lightning o puedes solo suscribirte a estos calendarios copiando su URL "
+"para después agregarlos como archivos nuevos de calendarios remotos. Puedes encontrar más información acerca de cómo instalar un calendario de días festivos en el artículo <a href=\"%s\">Agregar un "
+"calendario de días festivos</a>."
 
 #: website/calendar/holidays/index.html:32
 #, python-format
 msgid "You can also find calendars to subscribe to at <a href=\"%s\">iCalShare.com</a>."
-msgstr ""
+msgstr "También puedes encontrar calendarios a los que puedes suscribirte en <a href=\"%s\">iCalShare.com</a>."
 
 #: website/calendar/holidays/index.html:59
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, thanks to %(authors)s"
-msgstr ""
+msgstr "%(title)s <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>, gracias a %(authors)s"
 
 #: website/calendar/holidays/index.html:61
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s"
-msgstr ""
+msgstr "Días festivos de <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> gracias a %(authors)s"
 
 #: website/calendar/holidays/index.html:75
 msgid "Contributing a Holiday Calendar"
-msgstr ""
+msgstr "Contribuyendo con un calendario de días feriados"
 
 #: website/calendar/holidays/index.html:78
 msgid "If you would like to send us your calendar files, please follow these steps:"
-msgstr ""
+msgstr "Si deseas enviarnos tus archivos de calendario, sigue los siguientes pasos:"
 
 #: website/calendar/holidays/index.html:81
 msgid "Create a new local calendar, e.g. <i>\"$Country$ Holidays\"</i>."
-msgstr ""
+msgstr "Crear un nuevo calendario local, ej. <i>\"Días Festivos de $Country$\"</i>."
 
 #: website/calendar/holidays/index.html:82
 msgid "Create the different holidays of your country in this local calendar."
-msgstr ""
+msgstr "Ingresa los diferentes días festivos de tu país en este calendario local."
 
 #: website/calendar/holidays/index.html:84
 msgid "Right-click on this calendar and choose \"Export Calendar\". Please use the iCalendar (ics) format."
-msgstr ""
+msgstr "Haz clic con el botón derecho sobre este calendario y selecciona \"Exportar Calendario\". Por favor utiliza el formato de iCalendar (ics)."
 
 #: website/calendar/holidays/index.html:87
 #, python-format
 msgid "Create a Pull Request or file an Issue on the <a href=\"%(contribute_url)s\">website repository</a> and attach your holiday file."
-msgstr ""
+msgstr "Crear una Solicitud para enviar el archivo o ingresa un reporte en el <a href=\"%(contribute_url)s\">repositorio del sitio web</a> y adjuntar el archivo de días festivos."
 
 #: website/download/index.html:10
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
@@ -884,9 +887,8 @@ msgid "There are many other updates in this release, you can see a list of all o
 msgstr "Hay muchas otras actualizaciones en esta versión; puedes ver una lista de todas ellas en las <a href=\"%(release)s\">notas de versión de Thunderbird 68</a>."
 
 #: website/thunderbird/78.0/whatsnew/index.html:7
-#, fuzzy
 msgid "New in Thunderbird 78"
-msgstr "Nuevo en Thunderbird 68"
+msgstr "Nuevo en Thunderbird 78"
 
 #: website/thunderbird/78.0/whatsnew/index.html:13
 #, fuzzy, python-format
