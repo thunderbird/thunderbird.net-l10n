@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-02-11 10:57-0800\n"
-"PO-Revision-Date: 2021-06-18 17:39+0000\n"
+"PO-Revision-Date: 2021-06-18 18:05+0000\n"
 "Last-Translator: Michal Stanke <mstanke@mozilla.cz>\n"
 "Language-Team: none\n"
 "Language: cs\n"
@@ -631,6 +631,8 @@ msgid ""
 "Enjoy real-time conversation with your contacts, right from your favorite messaging application, with multiple supported networks. Thunderbird makes it easy to search through both past conversations"
 " and received emails."
 msgstr ""
+"Užijte si konverzaci se svými kontakty v reálném čase a přímo ze své oblíbené aplikace. Thunderbird vám také umožní vyhledávat v historii jak přijatých e-mailů, tak v historii konverzací na mnoha "
+"podporovaných sítích."
 
 #: website/features/index.html:109
 msgid "Tabbed Email"
@@ -811,6 +813,8 @@ msgid ""
 "This article describes some of the major changes visible to users in Thunderbird version 68.0. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird 68 release "
 "notes</a>."
 msgstr ""
+"V tomto článku najdete seznam nejviditelnějších novinek, které vám jako uživatelům přináší Thunderbird 68.0. Kompletní seznam všech změn najdete v <a href=\"%(release)s\">poznámkách k vydání "
+"Thunderbirdu 68</a>."
 
 #: website/thunderbird/68.0/whatsnew/index.html:25
 msgid "Better Dark Theme"
@@ -818,36 +822,39 @@ msgstr "Lepší tmavý vzhled"
 
 #: website/thunderbird/68.0/whatsnew/index.html:28
 msgid "The dark theme available in Thunderbird has been enhanced with a dark message thread pane as well as many other small improvements."
-msgstr ""
+msgstr "Vylepšili jsme tmavý vzhled Thunderbirdu, aby zahrnoval také seznam zpráv a vláken konverzací."
 
 #: website/thunderbird/68.0/whatsnew/index.html:38
 msgid "Filelink Improved"
-msgstr ""
+msgstr "Lepší posílání velkých souborů"
 
 #: website/thunderbird/68.0/whatsnew/index.html:41
 msgid ""
 "Filelink attachments that have already been uploaded can now be linked to again instead of having to re-upload them. Also, an account is no longer required to use the default Filelink provider - "
 "<strong>WeTransfer</strong>."
 msgstr ""
+"Velké přílohy, které už jste dříve nahráli a někomu poslali, už nemusíte nahrávat znovu, ale můžete je rovnou poslat někomu dalšímu. Výchozí poskytovatel služby pro sdílení velkých souborů "
+"<strong>WeTransfer</strong> už také pro jejich nahrávání nevyžaduje přihlášení."
 
 #: website/thunderbird/68.0/whatsnew/index.html:44
 #, python-format
 msgid "Other Filelink providers like Box and Dropbox are not included by default, but can be added by grabbing the <a href=\"%(dropbox)s\">Dropbox</a> and <a href=\"%(box)s\">Box</a> add-ons."
-msgstr ""
+msgstr "Další poskytovatele služby pro posílání velkých příloh jak Box nebo Dropbox můžete od Thunderbirdu doplnit stažením doplňků <a href=\"%(dropbox)s\">Dropbox</a> nebo <a href=\"%(box)s\">Box</a>."
 
 #: website/thunderbird/68.0/whatsnew/index.html:52
 msgid "Options/Preferences in a Tab"
-msgstr ""
+msgstr "Nastavení a předvolby v panelu"
 
 #: website/thunderbird/68.0/whatsnew/index.html:55
 msgid ""
 "Thunderbirdʼs Options/Preferences have been converted from a dialog window to its own dedicated tab. The new Preferences tab provides more space which allows for better organized content and is more"
 " consistent with the look and feel of the rest of Thunderbird."
 msgstr ""
+"Možnosti a předvolby Thunderbirdu se nyní místo v dialogovém okně otevírají ve vlastním panelu. Díky tomu je na ně více místa a mohli jsme je lépe zorganizovat a sladit se zbytkem Thunderbirdu."
 
 #: website/thunderbird/68.0/whatsnew/index.html:58
 msgid "The new Preferences tab also makes it easier to multi-task without the problem of losing track of where your preferences are when switching between windows."
-msgstr ""
+msgstr "Úprava nastavení vám umožní dělat více věcí najednou aniž byste kvůli přepínání oken zapomněli, co jsme dělali nebo nastavovali."
 
 #: website/thunderbird/68.0/whatsnew/index.html:67 website/thunderbird/78.0/whatsnew/index.html:81
 msgid "Other Notable Changes"
@@ -858,11 +865,13 @@ msgid ""
 "There are many other smaller changes that make Thunderbird 68 feel polished and powerful including: a new App Menu UI, an updated To/CC/BCC selector in compose, improved attachment management, full "
 "color support across the app, filters can now be set to run periodically, and feed articles now show external attachments as links."
 msgstr ""
+"V Thunderbirdu 68 najdete ještě mnoho dalších menších změn, díky kterým vypadá lépe, jako např. nová nabídka aplikace, vylepšená pole pro zadávání adresátů, správa příloh, pravidelné spouštění "
+"filtrů a zobrazení externích souborů jako odkazy ke stažení."
 
 #: website/thunderbird/68.0/whatsnew/index.html:73
 #, python-format
 msgid "There are many other updates in this release, you can see a list of all of them in the <a href=\"%(release)s\">Thunderbird 68 release notes</a>."
-msgstr ""
+msgstr "Toto vydání obsahuje i další změny a jejich kompletní seznam najdete v <a href=\"%(release)s\">poznámkách k vydání Thunderbirdu 68</a>."
 
 #: website/thunderbird/78.0/whatsnew/index.html:7
 msgid "New in Thunderbird 78"
@@ -874,6 +883,8 @@ msgid ""
 "This article describes some of the major changes visible to users in Thunderbird version 78. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird release notes "
 "from 78.0 and up</a>."
 msgstr ""
+"V tomto článku najdete seznam nejviditelnějších novinek, které vám jako uživatelům přináší Thunderbird 78. Kompletní seznam všech změn najdete v <a href=\"%(release)s\">poznámkách k vydání "
+"Thunderbirdu 78.0 a novějších</a>."
 
 #: website/thunderbird/78.0/whatsnew/index.html:25
 msgid "Dark mode"
@@ -886,19 +897,21 @@ msgstr "V Thunderbirdu je nyní tmavý režim, díky kterému je čtení e-mail�
 
 #: website/thunderbird/78.0/whatsnew/index.html:38
 msgid "Account Setup & Account Central Updated"
-msgstr ""
+msgstr "Nastavení a správa účtů"
 
 #: website/thunderbird/78.0/whatsnew/index.html:41
 msgid ""
 "The Account Setup window and the Account Central tab have both been updated. The Account Central tab appears when you do not have an account setup, or when you select an existing account in the "
 "folder tree."
-msgstr ""
+msgstr "Vylepšili jsme okna a panely s nastavením a správou účtů. Pomohou vám s nastavením nového účtu nebo správou existujícího účtu a nejběžnějšími úkony."
 
 #: website/thunderbird/78.0/whatsnew/index.html:44
 msgid ""
 "The layout and dialogues have been improved to make it easier to understand the information displayed and to find relevant settings. The Account Central tab also has new information about the "
 "Thunderbird project and displays the version you are using."
 msgstr ""
+"Upravili jsme rozložení a dialogová okna, aby byla zobrazované informace srozumitelnější a snáze jste našli, co potřebujete. Panel pro správu účtu také zobrazuje informace o projektu Thunderbird a "
+"jakou verzi aplikace používáte."
 
 #: website/thunderbird/78.0/whatsnew/index.html:52
 msgid "Redesigned Compose Window"
@@ -908,11 +921,11 @@ msgstr "Přepracované okno psaní"
 msgid ""
 "The compose window has been reworked to make composing a message faster, easier and more straightforward. The compose window now also takes up less space with recipients listed in “pills” instead of"
 " an entire line for each address."
-msgstr ""
+msgstr "Přehlednější okno pro psaní zpráv usnadňuje a zrychluje psaní a tvorbu e-mailů. Zobrazení adresátů v „pilulkách“ místo celého řádku pro každou adresu navíc zabírá mnohem méně místa."
 
 #: website/thunderbird/78.0/whatsnew/index.html:58
 msgid "The redesigned compose window makes it easier to manage many email recipients, and the new intuitive layout helps users to discover its features."
-msgstr ""
+msgstr "Přepracované okno psaní zpráv také usnadňuje správu příjemců a s intuitivnějším rozložením najdete všechny hledané funkce."
 
 #: website/thunderbird/78.0/whatsnew/index.html:69
 msgid "End-to-End Encrypted Email Support"
@@ -925,17 +938,22 @@ msgid ""
 "surveillance to read your messages. If you would like to learn more about how end-to-end encryption in Thunderbird works, check out our article: <a href=\"%(encryption)s\">Introduction to End-to-end"
 " encryption in Thunderbird</a>."
 msgstr ""
+"S koncovým šifrováním e-mailů můžete zajistit, že jen vy jako odesílatel a příjemci dané zprávy si mohou přečíst její obsah. Zprávy odeslané bez takové ochrany může snadno přečíst třeba poskytovatel"
+" poštovních služeb nebo kdokoliv další. Pokud vás zajímá, jak koncové šifrování v Thunderbirdu funguje, přečtěte si náš článek <a href=\"%(encryption)s\">Úvod do koncového šifrování v "
+"Thunderbirdu</a>."
 
 #: website/thunderbird/78.0/whatsnew/index.html:84
 msgid ""
 "There are many other big changes that make Thunderbird 78 a very large release including: calendar and tasks are now integrated into Thunderbird, folder icons are now updated and their colors are "
 "customizable, the preferences are now searchable, and minimize to tray is now supported on Windows."
 msgstr ""
+"V Thunderbirdu 78 najdete dalších významné změny včetně integrace kalendáře a úkolů, možnosti nastavení ikon a barev složek, vyhledávání v nastavení a podpora pro minimalizování do oznamovací "
+"oblasti systému Windows."
 
 #: website/thunderbird/78.0/whatsnew/index.html:87
 #, python-format
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 78.0 and up</a>."
-msgstr ""
+msgstr "Kompletní seznam a podrobnosti změn najdete v <a href=\"%(release)s\">poznámkách k vydání Thunderbirdu 78.0 a novějších</a>."
 
 #: website/thunderbird/all/index.html:10
 msgid "Download Thunderbird in your language"
