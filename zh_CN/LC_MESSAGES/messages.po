@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
 # taotieren <admin@taotieren.com>, 2019.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-07-13 17:43-0700\n"
+"POT-Creation-Date: 2021-09-02 17:04-0700\n"
 "PO-Revision-Date: 2021-07-14 03:12+0000\n"
 "Last-Translator: 你我皆凡人 <yuanbingyan@mail.ee>\n"
 "Language-Team: none\n"
@@ -112,31 +112,31 @@ msgstr "一个空巢"
 msgid "Thunderbird Vector Wordmark"
 msgstr "Thunderbird 矢量文字商标"
 
-#: website/base-resp.html:29 website/base-resp.html:53 website/donate-mailing-list.html:17
+#: website/base-resp.html:28 website/base-resp.html:52 website/donate-mailing-list.html:17 website/thunderbird/91.0/whatsnew/index.html:22
 msgid "Donate"
 msgstr "捐赠"
 
-#: website/base-resp.html:34
+#: website/base-resp.html:33
 msgid "Features"
 msgstr "功能"
 
-#: website/base-resp.html:37
+#: website/base-resp.html:36
 msgid "Add-ons"
 msgstr "附加组件"
 
-#: website/base-resp.html:40 website/site-footer.html:15 website/site-prefooter.html:9 website/site-prefooter.html:12
+#: website/base-resp.html:39 website/site-footer.html:15 website/site-prefooter.html:9 website/site-prefooter.html:12
 msgid "Get Involved"
 msgstr "参与进来"
 
-#: website/base-resp.html:43 website/site-footer.html:21
+#: website/base-resp.html:42 website/site-footer.html:21
 msgid "Get Help"
 msgstr "获取帮助"
 
-#: website/about/index.html:7 website/base-resp.html:46 website/site-footer.html:27
+#: website/about/index.html:7 website/base-resp.html:45 website/site-footer.html:27
 msgid "About Us"
 msgstr "关于我们"
 
-#: website/base-resp.html:49 website/site-footer.html:24
+#: website/base-resp.html:48 website/site-footer.html:24
 msgid "Blog"
 msgstr "博客"
 
@@ -144,7 +144,7 @@ msgstr "博客"
 msgid "Thunderbird is funded by users like you"
 msgstr "Thunderbird 的发展离不开您的资助"
 
-#: website/donate-mailing-list.html:14
+#: website/donate-mailing-list.html:14 website/thunderbird/91.0/whatsnew/index.html:17
 msgid "Thunderbird is both free and freedom respecting, but we’re also completely funded by donations! Help us sustain the project and continue to improve."
 msgstr "Thunderbird 既免费又尊重自由，我们的发展完全由捐款资助！请帮助我们让这个项目走得更远。"
 
@@ -757,7 +757,7 @@ msgid ""
 "notes</a>."
 msgstr "此文章描述了 Thunderbird 68.0 版中用户明显可见的若干主要更改。有关所有更改的详细信息，请参阅 <a href=\"%(release)s\">Thunderbird 68 发行说明</a>。"
 
-#: website/thunderbird/68.0/whatsnew/index.html:25
+#: website/thunderbird/68.0/whatsnew/index.html:25 website/thunderbird/91.0/whatsnew/index.html:135
 msgid "Better Dark Theme"
 msgstr "更好的暗色主题"
 
@@ -794,7 +794,7 @@ msgstr "Thunderbird 的选项/首选项窗口已转为专用标签页。全新�
 msgid "The new Preferences tab also makes it easier to multi-task without the problem of losing track of where your preferences are when switching between windows."
 msgstr "新的“首选项”标签页使得多任务处理变得更容易，且不用担心在切换窗口时迷失“首选项”的位置。"
 
-#: website/thunderbird/68.0/whatsnew/index.html:67 website/thunderbird/78.0/whatsnew/index.html:81
+#: website/thunderbird/68.0/whatsnew/index.html:67 website/thunderbird/78.0/whatsnew/index.html:81 website/thunderbird/91.0/whatsnew/index.html:168
 msgid "Other Notable Changes"
 msgstr "其他重要的变化"
 
@@ -880,6 +880,122 @@ msgstr "Thunderbird 78 中还有许多其他重大变化，包括：日历与任
 #: website/thunderbird/78.0/whatsnew/index.html:87
 #, python-format
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 78.0 and up</a>."
+msgstr "此版本中还有许多其他更新，您可以到<a href=\"%(release)s\">Thunderbird 78.0 发行说明</a>查看完整的更新信息。"
+
+#: website/thunderbird/91.0/whatsnew/index.html:7
+#, fuzzy
+msgid "New in Thunderbird 91"
+msgstr "Thunderbird 68 的新变化"
+
+#: website/thunderbird/91.0/whatsnew/index.html:14
+#, fuzzy, python-format
+msgid ""
+"This article describes some of the major changes visible to users in Thunderbird version 91. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird release notes "
+"from 91.0 and up</a>."
+msgstr "此文章描述了 Thunderbird 78 版中用户明显可见的若干主要更改。有关所有更改的详细信息，请参阅 <a href=\"%(release)s\">Thunderbird 78.0 发行说明</a>。"
+
+#: website/thunderbird/91.0/whatsnew/index.html:43
+#, fuzzy
+msgid "New Account Setup"
+msgstr "邮件账户设置向导"
+
+#: website/thunderbird/91.0/whatsnew/index.html:46
+msgid ""
+"One of the most noticeable changes for Thunderbird 91 is the new account setup wizard. The new wizard not only features a better look, but does auto-discovery of calendars and address books and "
+"allows most users to set them up with just a click. After setting up an account, the wizard also points users at additional (optional) things to do – such as adding a signature or setting up end-to-"
+"end encryption."
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:58
+#, fuzzy
+msgid "Attachments & Drag-and-Drop"
+msgstr "附件提醒"
+
+#: website/thunderbird/91.0/whatsnew/index.html:61
+msgid ""
+"The attachments pane has been moved to the bottom of the compose window for better visibility of filenames as well as being able to see many at once. We’ve also added an overlay that appears when "
+"you drag-and-drop a file into the compose window asking how you would like to handle the file in that email (such as putting a picture in-line in your message or simply attaching it to the email)."
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:79
+msgid "UI Density Control"
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:82
+msgid ""
+"Whether you are using it on a large desktop monitor or a small laptop touchscreen, you may want the icons and text of the interface to be larger and more spread out or very compact. In Thunderbird "
+"91, under View -> Density in the menu, you can select the UI density for the entire application. Three options are available: compact (small), normal(medium), and touch(large)."
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:98
+msgid "Protect Your Privacy"
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:101
+msgid ""
+"Whether its work or play, you deserve to have privacy when you are online. A VPN, Virtual Private Network, can help you create a secure, private connection to the internet. So that when you are "
+"traveling, connecting to WiFi, or simply want more online security - you know that your information is protected from prying eyes."
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:104
+#, fuzzy
+msgid "Learn More"
+msgstr "了解更多"
+
+#: website/thunderbird/91.0/whatsnew/index.html:120
+#, fuzzy
+msgid "Calendar Improvements"
+msgstr "日历附件组件"
+
+#: website/thunderbird/91.0/whatsnew/index.html:123
+msgid ""
+"Managing multiple calendars has been made easier with the calendar sidebar improvements in this release. There is a quick enable button for disabled calendars, a lock indicator for read-only "
+"calendars, and a show/hide icon for easily toggling what calendars are visible. Outside the sidebar, there are now better color accents to highlight the current day in the calendar."
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:138
+msgid ""
+"Thunderbird’s Dark Theme got even better in this release. In the past some windows and dialogues looked a bit out of place if you had Thunderbird’s dark theme selected. Now almost every dialogue and"
+" window in Thunderbird is fully styled to respect the user’s color scheme preferences."
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:155
+msgid "PDF Viewer"
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:158
+msgid ""
+"Thunderbird now has a built-in PDF viewer, which means you can read and even do some editing on PDFs sent to you as attachments. You can do all this without ever leaving Thunderbird, allowing you to"
+" return to your inbox without missing a beat."
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:171
+msgid "There are many other big changes that make Thunderbird 91 a very large release including:"
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:174
+msgid "Native support for macOS devices built with Apple Silicon CPU"
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:175
+msgid "CardDAV Address Book Support (and CardDAV auto-detection support)"
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:176
+msgid "Printing UI updated"
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:177
+msgid "Ability to change order of accounts in UI"
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:178
+msgid "Registers to handle .ics files, letting you preview and import events to the calendar by double clicking the file"
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:181
+#, fuzzy, python-format
+msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 91.0 and up</a>."
 msgstr "此版本中还有许多其他更新，您可以到<a href=\"%(release)s\">Thunderbird 78.0 发行说明</a>查看完整的更新信息。"
 
 #: website/thunderbird/all/index.html:10
@@ -970,9 +1086,6 @@ msgstr "Thunderbird 每个版本均有发行说明。请从下方列表中选择
 #~ msgid "Beta"
 #~ msgstr "测试版"
 
-#~ msgid "Calendar Add-on"
-#~ msgstr "日历附件组件"
-
 #~ msgid "Themes"
 #~ msgstr "主题"
 
@@ -1052,9 +1165,6 @@ msgstr "Thunderbird 每个版本均有发行说明。请从下方列表中选择
 #~ "Now is a great time for you to get involved: writing code, testing, support, localization and more. Join a global community! Share your skills and pick up a few new ones along the way. Volunteer as "
 #~ "much as you like. Or as little. It’s totally up to you."
 #~ msgstr "现在是你参与进来的好时机：编写代码、测试、客户支持以及本地化等等。加入全球社区吧！分享你的技能，选几个新的前进方向。成为志愿者，做你喜欢的，一切由你而定。"
-
-#~ msgid "Learn more"
-#~ msgstr "了解更多"
 
 #~ msgid "To ensure that Thunderbird continues to improve, as it has for the last ten years, active contributors <a href=\"%s\">recently organized</a> to focus on the future."
 #~ msgstr "为了保证 Thunderbird 继续不断改进，就像过去的十年中一样，活跃的志愿者们<a href=\"%s\">正组织起来</a> 展望未来。"

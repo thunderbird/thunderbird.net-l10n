@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-07-13 17:43-0700\n"
+"POT-Creation-Date: 2021-09-02 17:04-0700\n"
 "PO-Revision-Date: 2021-07-14 16:42+0000\n"
 "Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
 "Language-Team: none\n"
@@ -123,31 +123,31 @@ msgstr "Tổ trống"
 msgid "Thunderbird Vector Wordmark"
 msgstr "Thunderbird Vector Wordmark"
 
-#: website/base-resp.html:29 website/base-resp.html:53 website/donate-mailing-list.html:17
+#: website/base-resp.html:28 website/base-resp.html:52 website/donate-mailing-list.html:17 website/thunderbird/91.0/whatsnew/index.html:22
 msgid "Donate"
 msgstr "Đóng góp tài chính"
 
-#: website/base-resp.html:34
+#: website/base-resp.html:33
 msgid "Features"
 msgstr "Tính năng"
 
-#: website/base-resp.html:37
+#: website/base-resp.html:36
 msgid "Add-ons"
 msgstr "Tiện ích"
 
-#: website/base-resp.html:40 website/site-footer.html:15 website/site-prefooter.html:9 website/site-prefooter.html:12
+#: website/base-resp.html:39 website/site-footer.html:15 website/site-prefooter.html:9 website/site-prefooter.html:12
 msgid "Get Involved"
 msgstr "Tham gia"
 
-#: website/base-resp.html:43 website/site-footer.html:21
+#: website/base-resp.html:42 website/site-footer.html:21
 msgid "Get Help"
 msgstr "Nhận trợ giúp"
 
-#: website/about/index.html:7 website/base-resp.html:46 website/site-footer.html:27
+#: website/about/index.html:7 website/base-resp.html:45 website/site-footer.html:27
 msgid "About Us"
 msgstr "Giới thiệu về chúng tôi"
 
-#: website/base-resp.html:49 website/site-footer.html:24
+#: website/base-resp.html:48 website/site-footer.html:24
 msgid "Blog"
 msgstr "Blog"
 
@@ -155,7 +155,7 @@ msgstr "Blog"
 msgid "Thunderbird is funded by users like you"
 msgstr "Thunderbird được tài trợ bởi những người dùng như bạn"
 
-#: website/donate-mailing-list.html:14
+#: website/donate-mailing-list.html:14 website/thunderbird/91.0/whatsnew/index.html:17
 msgid "Thunderbird is both free and freedom respecting, but we’re also completely funded by donations! Help us sustain the project and continue to improve."
 msgstr "Thunderbird là cả tự do và tôn trọng tự do, nhưng chúng tôi cũng hoàn toàn được tài trợ bởi sự đóng góp! Giúp chúng tôi duy trì dự án và tiếp tục cải thiện."
 
@@ -819,7 +819,7 @@ msgstr ""
 "Bài viết này mô tả một số thay đổi chính hiển thị cho người dùng trong phiên bản Thunderbird 68.0. Chi tiết đầy đủ của tất cả các thay đổi có thể được tìm thấy trong <a href=\"%(release)s\">ghi chú "
 "phát hành Thunderbird 68</a>."
 
-#: website/thunderbird/68.0/whatsnew/index.html:25
+#: website/thunderbird/68.0/whatsnew/index.html:25 website/thunderbird/91.0/whatsnew/index.html:135
 msgid "Better Dark Theme"
 msgstr "Chủ đề tối tốt hơn"
 
@@ -862,7 +862,7 @@ msgstr ""
 msgid "The new Preferences tab also makes it easier to multi-task without the problem of losing track of where your preferences are when switching between windows."
 msgstr "Thẻ Tùy chọn mới cũng giúp đa tác vụ dễ dàng hơn mà không gặp vấn đề mất dấu vị trí tùy chọn của bạn khi chuyển đổi giữa các cửa sổ."
 
-#: website/thunderbird/68.0/whatsnew/index.html:67 website/thunderbird/78.0/whatsnew/index.html:81
+#: website/thunderbird/68.0/whatsnew/index.html:67 website/thunderbird/78.0/whatsnew/index.html:81 website/thunderbird/91.0/whatsnew/index.html:168
 msgid "Other Notable Changes"
 msgstr "Những thay đổi đáng chú ý khác"
 
@@ -968,6 +968,124 @@ msgstr ""
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 78.0 and up</a>."
 msgstr "Bạn có thể xem chi tiết về tất cả các thay đổi của chúng tôi trong ghi chú phát hành cho <a href=\"%(release)s\">Thunderbird 78.0 và mới hơn</a>."
 
+#: website/thunderbird/91.0/whatsnew/index.html:7
+#, fuzzy
+msgid "New in Thunderbird 91"
+msgstr "Điểm mới trong Thunderbird 68"
+
+#: website/thunderbird/91.0/whatsnew/index.html:14
+#, fuzzy, python-format
+msgid ""
+"This article describes some of the major changes visible to users in Thunderbird version 91. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird release notes "
+"from 91.0 and up</a>."
+msgstr ""
+"Bài viết này mô tả một số thay đổi lớn hiển thị cho người dùng trong Thunderbird phiên bản 78. Chi tiết đầy đủ về tất cả các thay đổi có thể được tìm thấy trong <a href=\"%(release)s\">Ghi chú phát "
+"hành Thunderbird từ phiên bản 78.0 và mới hơn</a>."
+
+#: website/thunderbird/91.0/whatsnew/index.html:43
+#, fuzzy
+msgid "New Account Setup"
+msgstr "Cài đặt từng bước tài khoản thư điện tử"
+
+#: website/thunderbird/91.0/whatsnew/index.html:46
+msgid ""
+"One of the most noticeable changes for Thunderbird 91 is the new account setup wizard. The new wizard not only features a better look, but does auto-discovery of calendars and address books and "
+"allows most users to set them up with just a click. After setting up an account, the wizard also points users at additional (optional) things to do – such as adding a signature or setting up end-to-"
+"end encryption."
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:58
+#, fuzzy
+msgid "Attachments & Drag-and-Drop"
+msgstr "Nhắc nhở đính kèm"
+
+#: website/thunderbird/91.0/whatsnew/index.html:61
+msgid ""
+"The attachments pane has been moved to the bottom of the compose window for better visibility of filenames as well as being able to see many at once. We’ve also added an overlay that appears when "
+"you drag-and-drop a file into the compose window asking how you would like to handle the file in that email (such as putting a picture in-line in your message or simply attaching it to the email)."
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:79
+msgid "UI Density Control"
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:82
+msgid ""
+"Whether you are using it on a large desktop monitor or a small laptop touchscreen, you may want the icons and text of the interface to be larger and more spread out or very compact. In Thunderbird "
+"91, under View -> Density in the menu, you can select the UI density for the entire application. Three options are available: compact (small), normal(medium), and touch(large)."
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:98
+msgid "Protect Your Privacy"
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:101
+msgid ""
+"Whether its work or play, you deserve to have privacy when you are online. A VPN, Virtual Private Network, can help you create a secure, private connection to the internet. So that when you are "
+"traveling, connecting to WiFi, or simply want more online security - you know that your information is protected from prying eyes."
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:104
+#, fuzzy
+msgid "Learn More"
+msgstr "Tìm hiểu thêm"
+
+#: website/thunderbird/91.0/whatsnew/index.html:120
+#, fuzzy
+msgid "Calendar Improvements"
+msgstr "Tiện ích lịch"
+
+#: website/thunderbird/91.0/whatsnew/index.html:123
+msgid ""
+"Managing multiple calendars has been made easier with the calendar sidebar improvements in this release. There is a quick enable button for disabled calendars, a lock indicator for read-only "
+"calendars, and a show/hide icon for easily toggling what calendars are visible. Outside the sidebar, there are now better color accents to highlight the current day in the calendar."
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:138
+msgid ""
+"Thunderbird’s Dark Theme got even better in this release. In the past some windows and dialogues looked a bit out of place if you had Thunderbird’s dark theme selected. Now almost every dialogue and"
+" window in Thunderbird is fully styled to respect the user’s color scheme preferences."
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:155
+msgid "PDF Viewer"
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:158
+msgid ""
+"Thunderbird now has a built-in PDF viewer, which means you can read and even do some editing on PDFs sent to you as attachments. You can do all this without ever leaving Thunderbird, allowing you to"
+" return to your inbox without missing a beat."
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:171
+msgid "There are many other big changes that make Thunderbird 91 a very large release including:"
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:174
+msgid "Native support for macOS devices built with Apple Silicon CPU"
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:175
+msgid "CardDAV Address Book Support (and CardDAV auto-detection support)"
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:176
+msgid "Printing UI updated"
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:177
+msgid "Ability to change order of accounts in UI"
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:178
+msgid "Registers to handle .ics files, letting you preview and import events to the calendar by double clicking the file"
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:181
+#, fuzzy, python-format
+msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 91.0 and up</a>."
+msgstr "Bạn có thể xem chi tiết về tất cả các thay đổi của chúng tôi trong ghi chú phát hành cho <a href=\"%(release)s\">Thunderbird 78.0 và mới hơn</a>."
+
 #: website/thunderbird/all/index.html:10
 msgid "Download Thunderbird in your language"
 msgstr "Tải xuống Thunderbird bằng ngôn ngữ của bạn"
@@ -1060,9 +1178,6 @@ msgstr "Ghi chú phát hành Thunderbird dành riêng cho từng phiên bản c�
 #~ msgid "Beta"
 #~ msgstr "Beta"
 
-#~ msgid "Calendar Add-on"
-#~ msgstr "Tiện ích lịch"
-
 #~ msgid "Themes"
 #~ msgstr "Chủ đề"
 
@@ -1154,9 +1269,6 @@ msgstr "Ghi chú phát hành Thunderbird dành riêng cho từng phiên bản c�
 #~ msgstr ""
 #~ "Bây giờ là thời gian tốt nhất cho bạn tham gia: lập trình, kiểm thử, hỗ trợ, bản địa hóa và nhiều hơn thế nữa. Tham gia vào một cộng đồng toàn cầu! Chia sẻ những kỹ năng của bạn và một vài điều mới."
 #~ " Tình nguyện làm những thứ mà bạn thích. Hoàn toàn tùy thuộc vào bạn."
-
-#~ msgid "Learn more"
-#~ msgstr "Tìm hiểu thêm"
 
 #~ msgid "To ensure that Thunderbird continues to improve, as it has for the last ten years, active contributors <a href=\"%s\">recently organized</a> to focus on the future."
 #~ msgstr "Để đảm bảo Thunderbird tiếp tục cải thiện, như trong suốt mười năm qua, những người đóng góp tích cực <a href=\"%s\">đã được tổ chức gần đây</a> để tập trung cho sự phát triển sắp tới."

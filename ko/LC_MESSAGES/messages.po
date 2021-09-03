@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-07-13 17:43-0700\n"
+"POT-Creation-Date: 2021-09-02 17:04-0700\n"
 "PO-Revision-Date: 2021-02-14 01:05+0000\n"
 "Last-Translator: clapd10 <clapd10@naver.com>\n"
 "Language-Team: none\n"
@@ -111,31 +111,31 @@ msgstr "빈 둥지"
 msgid "Thunderbird Vector Wordmark"
 msgstr "Thunderbird Vector Wordmark"
 
-#: website/base-resp.html:29 website/base-resp.html:53 website/donate-mailing-list.html:17
+#: website/base-resp.html:28 website/base-resp.html:52 website/donate-mailing-list.html:17 website/thunderbird/91.0/whatsnew/index.html:22
 msgid "Donate"
 msgstr "기부하기"
 
-#: website/base-resp.html:34
+#: website/base-resp.html:33
 msgid "Features"
 msgstr "주요 기능"
 
-#: website/base-resp.html:37
+#: website/base-resp.html:36
 msgid "Add-ons"
 msgstr "부가 기능"
 
-#: website/base-resp.html:40 website/site-footer.html:15 website/site-prefooter.html:9 website/site-prefooter.html:12
+#: website/base-resp.html:39 website/site-footer.html:15 website/site-prefooter.html:9 website/site-prefooter.html:12
 msgid "Get Involved"
 msgstr "참여하기"
 
-#: website/base-resp.html:43 website/site-footer.html:21
+#: website/base-resp.html:42 website/site-footer.html:21
 msgid "Get Help"
 msgstr "도움 받기"
 
-#: website/about/index.html:7 website/base-resp.html:46 website/site-footer.html:27
+#: website/about/index.html:7 website/base-resp.html:45 website/site-footer.html:27
 msgid "About Us"
 msgstr "소개"
 
-#: website/base-resp.html:49 website/site-footer.html:24
+#: website/base-resp.html:48 website/site-footer.html:24
 msgid "Blog"
 msgstr "블로그"
 
@@ -143,7 +143,7 @@ msgstr "블로그"
 msgid "Thunderbird is funded by users like you"
 msgstr "Thunderbird는 귀하와 같은 사용자들의 기부로 운영됩니다"
 
-#: website/donate-mailing-list.html:14
+#: website/donate-mailing-list.html:14 website/thunderbird/91.0/whatsnew/index.html:17
 msgid "Thunderbird is both free and freedom respecting, but we’re also completely funded by donations! Help us sustain the project and continue to improve."
 msgstr "Thunderbird는 무료로 자유로운 배포되며, 기부금으로 전적으로 자금을 지원받습니다! 우리가 프로젝트를 유지하고 지속적으로 개선하도록 도와주세요."
 
@@ -768,7 +768,7 @@ msgid ""
 "notes</a>."
 msgstr "이 문서에서는 Thunderbird 버전 68.0에서 사용자에게 표시되는 몇 가지 주요 변경 사항에 대해 설명합니다. 모든 변경 사항에 대한 자세한 내용은 <a href=\"%(release)s\">Thunderbird 68 출시 노트</a>에서 확인할 수 있습니다."
 
-#: website/thunderbird/68.0/whatsnew/index.html:25
+#: website/thunderbird/68.0/whatsnew/index.html:25 website/thunderbird/91.0/whatsnew/index.html:135
 msgid "Better Dark Theme"
 msgstr "더 나은 어두운 테마"
 
@@ -805,7 +805,7 @@ msgstr "Thunderbird의 환경 설정이 대화 창에서 전용 탭으로 변환
 msgid "The new Preferences tab also makes it easier to multi-task without the problem of losing track of where your preferences are when switching between windows."
 msgstr "새로운 환경 설정 탭은 또한 창 사이를 전환 할 때 환경 설정이 어디에 있는지 추적하는 문제없이 멀티 태스킹을 쉽게 합니다."
 
-#: website/thunderbird/68.0/whatsnew/index.html:67 website/thunderbird/78.0/whatsnew/index.html:81
+#: website/thunderbird/68.0/whatsnew/index.html:67 website/thunderbird/78.0/whatsnew/index.html:81 website/thunderbird/91.0/whatsnew/index.html:168
 msgid "Other Notable Changes"
 msgstr "기타 주목할만한 변경 사항"
 
@@ -893,6 +893,122 @@ msgstr "Thunderbird 78에는 다양한 업데이트 사항이 있습니다. 캘�
 #: website/thunderbird/78.0/whatsnew/index.html:87
 #, python-format
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 78.0 and up</a>."
+msgstr "이 릴리즈에는 다른 많은 업데이트가 있으며 <a href=\"%(release)s\">Thunderbird 78.0 릴리즈 정보</a>에서 모든 업데이트 목록을 볼 수 있습니다."
+
+#: website/thunderbird/91.0/whatsnew/index.html:7
+#, fuzzy
+msgid "New in Thunderbird 91"
+msgstr "Thunderbird 68의 새로운 기능"
+
+#: website/thunderbird/91.0/whatsnew/index.html:14
+#, fuzzy, python-format
+msgid ""
+"This article describes some of the major changes visible to users in Thunderbird version 91. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird release notes "
+"from 91.0 and up</a>."
+msgstr "이 문서에서는 Thunderbird 버전 78에서 사용자에게 표시되는 몇 가지 주요 변경 사항에 대해 설명합니다. 모든 변경 사항에 대한 자세한 내용은 <a href=\"%(release)s\">Thunderbird 78 출시 노트</a>에서 확인할 수 있습니다."
+
+#: website/thunderbird/91.0/whatsnew/index.html:43
+#, fuzzy
+msgid "New Account Setup"
+msgstr "계정 설정 마법사"
+
+#: website/thunderbird/91.0/whatsnew/index.html:46
+msgid ""
+"One of the most noticeable changes for Thunderbird 91 is the new account setup wizard. The new wizard not only features a better look, but does auto-discovery of calendars and address books and "
+"allows most users to set them up with just a click. After setting up an account, the wizard also points users at additional (optional) things to do – such as adding a signature or setting up end-to-"
+"end encryption."
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:58
+#, fuzzy
+msgid "Attachments & Drag-and-Drop"
+msgstr "첨부 알리미"
+
+#: website/thunderbird/91.0/whatsnew/index.html:61
+msgid ""
+"The attachments pane has been moved to the bottom of the compose window for better visibility of filenames as well as being able to see many at once. We’ve also added an overlay that appears when "
+"you drag-and-drop a file into the compose window asking how you would like to handle the file in that email (such as putting a picture in-line in your message or simply attaching it to the email)."
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:79
+msgid "UI Density Control"
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:82
+msgid ""
+"Whether you are using it on a large desktop monitor or a small laptop touchscreen, you may want the icons and text of the interface to be larger and more spread out or very compact. In Thunderbird "
+"91, under View -> Density in the menu, you can select the UI density for the entire application. Three options are available: compact (small), normal(medium), and touch(large)."
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:98
+msgid "Protect Your Privacy"
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:101
+msgid ""
+"Whether its work or play, you deserve to have privacy when you are online. A VPN, Virtual Private Network, can help you create a secure, private connection to the internet. So that when you are "
+"traveling, connecting to WiFi, or simply want more online security - you know that your information is protected from prying eyes."
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:104
+#, fuzzy
+msgid "Learn More"
+msgstr "더 자세히 보기"
+
+#: website/thunderbird/91.0/whatsnew/index.html:120
+#, fuzzy
+msgid "Calendar Improvements"
+msgstr "캘린더 부가기능"
+
+#: website/thunderbird/91.0/whatsnew/index.html:123
+msgid ""
+"Managing multiple calendars has been made easier with the calendar sidebar improvements in this release. There is a quick enable button for disabled calendars, a lock indicator for read-only "
+"calendars, and a show/hide icon for easily toggling what calendars are visible. Outside the sidebar, there are now better color accents to highlight the current day in the calendar."
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:138
+msgid ""
+"Thunderbird’s Dark Theme got even better in this release. In the past some windows and dialogues looked a bit out of place if you had Thunderbird’s dark theme selected. Now almost every dialogue and"
+" window in Thunderbird is fully styled to respect the user’s color scheme preferences."
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:155
+msgid "PDF Viewer"
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:158
+msgid ""
+"Thunderbird now has a built-in PDF viewer, which means you can read and even do some editing on PDFs sent to you as attachments. You can do all this without ever leaving Thunderbird, allowing you to"
+" return to your inbox without missing a beat."
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:171
+msgid "There are many other big changes that make Thunderbird 91 a very large release including:"
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:174
+msgid "Native support for macOS devices built with Apple Silicon CPU"
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:175
+msgid "CardDAV Address Book Support (and CardDAV auto-detection support)"
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:176
+msgid "Printing UI updated"
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:177
+msgid "Ability to change order of accounts in UI"
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:178
+msgid "Registers to handle .ics files, letting you preview and import events to the calendar by double clicking the file"
+msgstr ""
+
+#: website/thunderbird/91.0/whatsnew/index.html:181
+#, fuzzy, python-format
+msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 91.0 and up</a>."
 msgstr "이 릴리즈에는 다른 많은 업데이트가 있으며 <a href=\"%(release)s\">Thunderbird 78.0 릴리즈 정보</a>에서 모든 업데이트 목록을 볼 수 있습니다."
 
 #: website/thunderbird/all/index.html:10
@@ -984,9 +1100,6 @@ msgstr "Thunderbird 출시 기록은 특정 버전의 애플리케이션에만 �
 #~ msgid "Beta"
 #~ msgstr "베타"
 
-#~ msgid "Calendar Add-on"
-#~ msgstr "캘린더 부가기능"
-
 #~ msgid "Themes"
 #~ msgstr "테마"
 
@@ -1068,9 +1181,6 @@ msgstr "Thunderbird 출시 기록은 특정 버전의 애플리케이션에만 �
 #~ "Now is a great time for you to get involved: writing code, testing, support, localization and more. Join a global community! Share your skills and pick up a few new ones along the way. Volunteer as "
 #~ "much as you like. Or as little. It’s totally up to you."
 #~ msgstr "코드 개발에서 테스트, 기술지원, 한국어 버전 개발에 이르기까지 Thunderbird에 기여할 수 있는 절호의 기회입니다. 세계적인 커뮤니티에 가입하세요! 이미 가지고있는 기술을 공유하면서 새로운 기술을 배울 수 있습니다. 원하는만큼 자원 봉사하십시오."
-
-#~ msgid "Learn more"
-#~ msgstr "더 자세히 보기"
 
 #~ msgid "To ensure that Thunderbird continues to improve, as it has for the last ten years, active contributors <a href=\"%s\">recently organized</a> to focus on the future."
 #~ msgstr "Thunderbird를 계속 향상시키려면, 지난 10년 처럼 활동적인 공헌자들에 의한 <a href=\"%s\">미래 자원 봉사 조직</a>이 필요합니다."
