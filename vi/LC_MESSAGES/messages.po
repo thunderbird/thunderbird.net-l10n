@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-09-02 17:04-0700\n"
-"PO-Revision-Date: 2021-09-05 07:36+0000\n"
+"PO-Revision-Date: 2021-09-05 07:41+0000\n"
 "Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
 "Language-Team: none\n"
 "Language: vi\n"
@@ -973,13 +973,13 @@ msgid "New in Thunderbird 91"
 msgstr "Tính năng mới trong Thunderbird 91"
 
 #: website/thunderbird/91.0/whatsnew/index.html:14
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "This article describes some of the major changes visible to users in Thunderbird version 91. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird release notes "
 "from 91.0 and up</a>."
 msgstr ""
-"Bài viết này mô tả một số thay đổi lớn hiển thị cho người dùng trong Thunderbird phiên bản 78. Chi tiết đầy đủ về tất cả các thay đổi có thể được tìm thấy trong <a href=\"%(release)s\">Ghi chú phát "
-"hành Thunderbird từ phiên bản 78.0 và mới hơn</a>."
+"Bài viết này mô tả một số thay đổi lớn hiển thị cho người dùng trong phiên bản Thunderbird 91. Bạn có thể tìm thấy chi tiết đầy đủ về tất cả các thay đổi trong <a href=\"%(release)s\">ghi chú phát "
+"hành Thunderbird từ 91.0 trở lên</a> ."
 
 #: website/thunderbird/91.0/whatsnew/index.html:43
 msgid "New Account Setup"
@@ -991,98 +991,110 @@ msgid ""
 "allows most users to set them up with just a click. After setting up an account, the wizard also points users at additional (optional) things to do – such as adding a signature or setting up end-to-"
 "end encryption."
 msgstr ""
+"Một trong những thay đổi đáng chú ý nhất đối với Thunderbird 91 là trình hướng dẫn thiết lập tài khoản mới. Trình hướng dẫn mới không chỉ có giao diện đẹp hơn mà còn tự động khám phá lịch và sổ địa "
+"chỉ, đồng thời cho phép hầu hết người dùng thiết lập chúng chỉ bằng một cú nhấp chuột. Sau khi thiết lập tài khoản, trình hướng dẫn cũng chỉ cho người dùng những việc bổ sung (tùy chọn) phải làm - "
+"chẳng hạn như thêm chữ ký hoặc thiết lập mã hóa đầu cuối."
 
 #: website/thunderbird/91.0/whatsnew/index.html:58
-#, fuzzy
 msgid "Attachments & Drag-and-Drop"
-msgstr "Nhắc nhở đính kèm"
+msgstr "Tệp đính kèm & kéo và thả"
 
 #: website/thunderbird/91.0/whatsnew/index.html:61
 msgid ""
 "The attachments pane has been moved to the bottom of the compose window for better visibility of filenames as well as being able to see many at once. We’ve also added an overlay that appears when "
 "you drag-and-drop a file into the compose window asking how you would like to handle the file in that email (such as putting a picture in-line in your message or simply attaching it to the email)."
 msgstr ""
+"Ngăn tệp đính kèm đã được chuyển xuống cuối cửa sổ soạn thư để hiển thị tốt hơn các tên tệp cũng như có thể xem nhiều tệp cùng một lúc. Chúng tôi cũng đã thêm một lớp phủ xuất hiện khi bạn kéo và "
+"thả tệp vào cửa sổ soạn thư và hỏi cách bạn muốn xử lý tệp đó trong email đó (chẳng hạn như đưa ảnh vào dòng trong thư của bạn hoặc chỉ cần đính kèm nó vào email)."
 
 #: website/thunderbird/91.0/whatsnew/index.html:79
 msgid "UI Density Control"
-msgstr ""
+msgstr "Kiểm soát mật độ giao diện người dùng"
 
 #: website/thunderbird/91.0/whatsnew/index.html:82
 msgid ""
 "Whether you are using it on a large desktop monitor or a small laptop touchscreen, you may want the icons and text of the interface to be larger and more spread out or very compact. In Thunderbird "
 "91, under View -> Density in the menu, you can select the UI density for the entire application. Three options are available: compact (small), normal(medium), and touch(large)."
 msgstr ""
+"Cho dù bạn đang sử dụng nó trên màn hình máy tính để bàn lớn hay màn hình cảm ứng máy tính xách tay nhỏ, bạn có thể muốn các biểu tượng và văn bản của giao diện lớn hơn và trải rộng hơn hoặc rất nhỏ"
+" gọn. Trong Thunderbird 91, dưới Xem -> Mật độ trong menu, bạn có thể chọn mật độ giao diện người dùng cho toàn bộ ứng dụng. Có ba tùy chọn: nhỏ gọn (nhỏ), bình thường (trung bình) và cảm ứng (lớn)."
 
 #: website/thunderbird/91.0/whatsnew/index.html:98
 msgid "Protect Your Privacy"
-msgstr ""
+msgstr "Bảo vệ sự riêng tư của bạn"
 
 #: website/thunderbird/91.0/whatsnew/index.html:101
 msgid ""
 "Whether its work or play, you deserve to have privacy when you are online. A VPN, Virtual Private Network, can help you create a secure, private connection to the internet. So that when you are "
 "traveling, connecting to WiFi, or simply want more online security - you know that your information is protected from prying eyes."
 msgstr ""
+"Cho dù là công việc hay giải trí, bạn xứng đáng có được sự riêng tư khi bạn trực tuyến. VPN, mạng riêng ảo, có thể giúp bạn tạo kết nối Internet riêng tư, an toàn. Vì vậy, khi bạn đang đi du lịch, "
+"kết nối với WiFi hoặc đơn giản là muốn bảo mật trực tuyến hơn - bạn biết rằng thông tin của mình được bảo vệ khỏi những con mắt tò mò."
 
 #: website/thunderbird/91.0/whatsnew/index.html:104
-#, fuzzy
 msgid "Learn More"
 msgstr "Tìm hiểu thêm"
 
 #: website/thunderbird/91.0/whatsnew/index.html:120
-#, fuzzy
 msgid "Calendar Improvements"
-msgstr "Tiện ích lịch"
+msgstr "Cải tiến lịch"
 
 #: website/thunderbird/91.0/whatsnew/index.html:123
 msgid ""
 "Managing multiple calendars has been made easier with the calendar sidebar improvements in this release. There is a quick enable button for disabled calendars, a lock indicator for read-only "
 "calendars, and a show/hide icon for easily toggling what calendars are visible. Outside the sidebar, there are now better color accents to highlight the current day in the calendar."
 msgstr ""
+"Việc quản lý nhiều lịch đã được thực hiện dễ dàng hơn với các cải tiến của thanh lề lịch trong bản phát hành này. Có nút bật nhanh cho các lịch bị tắt, chỉ báo khóa cho lịch chỉ đọc và biểu tượng "
+"hiển thị/ẩn để dễ dàng chuyển đổi những lịch nào đang hiển thị. Bên ngoài thanh lề, giờ có các điểm nhấn màu sắc tốt hơn để làm nổi bật ngày hiện tại trên lịch."
 
 #: website/thunderbird/91.0/whatsnew/index.html:138
 msgid ""
 "Thunderbird’s Dark Theme got even better in this release. In the past some windows and dialogues looked a bit out of place if you had Thunderbird’s dark theme selected. Now almost every dialogue and"
 " window in Thunderbird is fully styled to respect the user’s color scheme preferences."
 msgstr ""
+"Chế độ tối của Thunderbird thậm chí còn tốt hơn trong bản phát hành này. Trước đây, một số cửa sổ và hộp thoại trông hơi lạc lõng nếu bạn đã chọn chủ đề tối của Thunderbird. Giờ đây, hầu hết mọi "
+"cuộc đối thoại và cửa sổ trong Thunderbird đều được tạo kiểu hoàn chỉnh để tôn trọng tùy chỉnh phối màu của người dùng."
 
 #: website/thunderbird/91.0/whatsnew/index.html:155
 msgid "PDF Viewer"
-msgstr ""
+msgstr "Trình xem PDF"
 
 #: website/thunderbird/91.0/whatsnew/index.html:158
 msgid ""
 "Thunderbird now has a built-in PDF viewer, which means you can read and even do some editing on PDFs sent to you as attachments. You can do all this without ever leaving Thunderbird, allowing you to"
 " return to your inbox without missing a beat."
 msgstr ""
+"Thunderbird hiện có trình xem PDF tích hợp, có nghĩa là bạn có thể đọc và thậm chí thực hiện một số chỉnh sửa trên các tệp PDF được gửi cho bạn dưới dạng tệp đính kèm. Bạn có thể làm tất cả những "
+"điều này mà không bao giờ rời khỏi Thunderbird, cho phép bạn quay lại hộp thư đến của mình mà không bị lỡ nhịp."
 
 #: website/thunderbird/91.0/whatsnew/index.html:171
 msgid "There are many other big changes that make Thunderbird 91 a very large release including:"
-msgstr ""
+msgstr "Có nhiều thay đổi lớn khác khiến Thunderbird 91 trở thành một bản phát hành rất lớn bao gồm:"
 
 #: website/thunderbird/91.0/whatsnew/index.html:174
 msgid "Native support for macOS devices built with Apple Silicon CPU"
-msgstr ""
+msgstr "Hỗ trợ hoàn chỉnh cho các thiết bị macOS sử dụng CPU Apple Silicon"
 
 #: website/thunderbird/91.0/whatsnew/index.html:175
 msgid "CardDAV Address Book Support (and CardDAV auto-detection support)"
-msgstr ""
+msgstr "Hỗ trợ sổ địa chỉ CardDAV (và hỗ trợ tự động phát hiện CardDAV)"
 
 #: website/thunderbird/91.0/whatsnew/index.html:176
 msgid "Printing UI updated"
-msgstr ""
+msgstr "Đã cập nhật giao diện in"
 
 #: website/thunderbird/91.0/whatsnew/index.html:177
 msgid "Ability to change order of accounts in UI"
-msgstr ""
+msgstr "Khả năng thay đổi thứ tự của các tài khoản trong giao diện người dùng"
 
 #: website/thunderbird/91.0/whatsnew/index.html:178
 msgid "Registers to handle .ics files, letting you preview and import events to the calendar by double clicking the file"
-msgstr ""
+msgstr "Đăng ký để xử lý các tệp .ics, cho phép bạn xem trước và nhập các sự kiện vào lịch bằng cách nhấp đúp vào tệp"
 
 #: website/thunderbird/91.0/whatsnew/index.html:181
-#, fuzzy, python-format
+#, python-format
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 91.0 and up</a>."
-msgstr "Bạn có thể xem chi tiết về tất cả các thay đổi của chúng tôi trong ghi chú phát hành cho <a href=\"%(release)s\">Thunderbird 78.0 và mới hơn</a>."
+msgstr "Bạn có thể xem chi tiết về tất cả các thay đổi của chúng tôi trong ghi chú phát hành cho <a href=\"%(release)s\">Thunderbird 91.0 trở lên</a>."
 
 #: website/thunderbird/all/index.html:10
 msgid "Download Thunderbird in your language"
