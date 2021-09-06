@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-09-02 17:04-0700\n"
-"PO-Revision-Date: 2021-09-06 02:28+0000\n"
+"PO-Revision-Date: 2021-09-06 21:51+0000\n"
 "Last-Translator: ravmn <ravmn@ravmn.cl>\n"
 "Language-Team: none\n"
 "Language: es_CL\n"
@@ -978,23 +978,21 @@ msgid "You can see details of all our changes in the release notes for <a href=\
 msgstr "Puedes ver los detalles de todos nuestros cambios en las notas de lanzamiento de <a href=\"%(release)s\">Thunderbird 78.0 y posteriores</a>."
 
 #: website/thunderbird/91.0/whatsnew/index.html:7
-#, fuzzy
 msgid "New in Thunderbird 91"
-msgstr "Novedades en Thunderbird 68"
+msgstr "Novedades en Thunderbird 91"
 
 #: website/thunderbird/91.0/whatsnew/index.html:14
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "This article describes some of the major changes visible to users in Thunderbird version 91. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird release notes "
 "from 91.0 and up</a>."
 msgstr ""
-"Este artículo describe algunos de los cambios más importantes visibles para los usuarios en Thunderbird versión 78. Los detalles de todos los cambios pueden ser encontrados en las <a "
-"href=\"%(release)s\">notas de lanzamiento de Thunderbird 78.0 y posteriores</a>."
+"Este artículo describe algunos de los cambios más importantes visibles para los usuarios en Thunderbird versión 91. Los detalles de todos los cambios pueden ser encontrados en las <a "
+"href=\"%(release)s\">notas de lanzamiento de Thunderbird 91.0 y posteriores</a>."
 
 #: website/thunderbird/91.0/whatsnew/index.html:43
-#, fuzzy
 msgid "New Account Setup"
-msgstr "Asistente de configuración de cuentas de correo"
+msgstr "Configuración de nueva cuenta"
 
 #: website/thunderbird/91.0/whatsnew/index.html:46
 msgid ""
@@ -1002,17 +1000,22 @@ msgid ""
 "allows most users to set them up with just a click. After setting up an account, the wizard also points users at additional (optional) things to do – such as adding a signature or setting up end-to-"
 "end encryption."
 msgstr ""
+"Uno de los cambios más notables de Thunderbird 91 es el asistente de configuración de nuevas cuentas. El nuevo asistente no solo ofrece una mejor apariencia, sino que también detecta automáticamente"
+" los calendarios y las libretas de direcciones, y permite a la mayoría de los usuarios configurarlos con solo un clic. Después de configurar una cuenta, el asistente también indica a los usuarios "
+"cosas adicionales (opcionales) que pueden hacer, como agregar una firma o configurar el cifrado de extremo a extremo."
 
 #: website/thunderbird/91.0/whatsnew/index.html:58
-#, fuzzy
 msgid "Attachments & Drag-and-Drop"
-msgstr "Recordatorio de adjunto"
+msgstr "Adjuntos y arrastrar y soltar"
 
 #: website/thunderbird/91.0/whatsnew/index.html:61
 msgid ""
 "The attachments pane has been moved to the bottom of the compose window for better visibility of filenames as well as being able to see many at once. We’ve also added an overlay that appears when "
 "you drag-and-drop a file into the compose window asking how you would like to handle the file in that email (such as putting a picture in-line in your message or simply attaching it to the email)."
 msgstr ""
+"El panel de adjuntos se ha movido hasta la parte inferior de la ventana de redacción para una mejor visibilidad de los nombres de archivo y para poder ver muchos a la vez. También hemos añadido una "
+"capa sobrepuesta que aparece cuando arrastras y sueltas un archivo en la ventana de redacción preguntando cómo te gustaría manejar el archivo en ese correo electrónico (como colocar una foto dentro "
+"del cuerpo del mensaje o simplemente adjuntarla al correo electrónico)."
 
 #: website/thunderbird/91.0/whatsnew/index.html:79
 msgid "UI Density Control"
@@ -1040,26 +1043,29 @@ msgstr ""
 "estés viajando, conectándote a una red WiFi o simplemente deseando más seguridad en línea, sepas que tu información está protegida de miradas indiscretas."
 
 #: website/thunderbird/91.0/whatsnew/index.html:104
-#, fuzzy
 msgid "Learn More"
-msgstr "Descubre más"
+msgstr "Aprender más"
 
 #: website/thunderbird/91.0/whatsnew/index.html:120
-#, fuzzy
 msgid "Calendar Improvements"
-msgstr "Complemento de calendario"
+msgstr "Mejoras de calendario"
 
 #: website/thunderbird/91.0/whatsnew/index.html:123
 msgid ""
 "Managing multiple calendars has been made easier with the calendar sidebar improvements in this release. There is a quick enable button for disabled calendars, a lock indicator for read-only "
 "calendars, and a show/hide icon for easily toggling what calendars are visible. Outside the sidebar, there are now better color accents to highlight the current day in the calendar."
 msgstr ""
+"La gestión de múltiples calendarios ahora es aún más fácil con las mejoras en la barra lateral del calendario de esta versión. Hay un botón de activación rápida para calendarios deshabilitados, un "
+"indicador de bloqueo para calendarios de solo lectura y un ícono para mostrar/ocultar que alterna fácilmente los calendarios visibles. Fuera de la barra lateral, ahora mejoradas acentuaciones de "
+"color para resaltar el día actual en el calendario."
 
 #: website/thunderbird/91.0/whatsnew/index.html:138
 msgid ""
 "Thunderbird’s Dark Theme got even better in this release. In the past some windows and dialogues looked a bit out of place if you had Thunderbird’s dark theme selected. Now almost every dialogue and"
 " window in Thunderbird is fully styled to respect the user’s color scheme preferences."
 msgstr ""
+"El tema oscuro de Thunderbird mejoró aún más en esta versión. En el pasado, algunas ventanas y diálogos parecían un poco fuera de lugar si tenía seleccionado el tema oscuro de Thunderbird. Ahora, "
+"prácticamente todos los diálogos y ventanas de Thunderbird están diseñados para para respetar las preferencias de combinación de colores del usuario."
 
 #: website/thunderbird/91.0/whatsnew/index.html:155
 msgid "PDF Viewer"
@@ -1098,9 +1104,9 @@ msgid "Registers to handle .ics files, letting you preview and import events to 
 msgstr "Registros para manejar archivos .ics, permitiéndote ver e importar eventos al calendario haciendo doble clic en el archivo"
 
 #: website/thunderbird/91.0/whatsnew/index.html:181
-#, fuzzy, python-format
+#, python-format
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 91.0 and up</a>."
-msgstr "Puedes ver los detalles de todos nuestros cambios en las notas de lanzamiento de <a href=\"%(release)s\">Thunderbird 78.0 y posteriores</a>."
+msgstr "Puedes ver los detalles de todos nuestros cambios en las notas de lanzamiento de <a href=\"%(release)s\">Thunderbird 91.0 y posteriores</a>."
 
 #: website/thunderbird/all/index.html:10
 msgid "Download Thunderbird in your language"
