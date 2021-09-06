@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-09-02 17:04-0700\n"
-"PO-Revision-Date: 2021-09-06 10:55+0000\n"
+"PO-Revision-Date: 2021-09-06 11:09+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language-Team: none\n"
 "Language: cy\n"
@@ -975,23 +975,21 @@ msgid "You can see details of all our changes in the release notes for <a href=\
 msgstr "Mae yna lawer o ddiweddariadau eraill yn y lluniad hwn, gallwch weld rhestr ohonyn nhw i gyd yn y nodiadau rhyddhau <a href=\"%(release)s\">Thunderbird 78</a>."
 
 #: website/thunderbird/91.0/whatsnew/index.html:7
-#, fuzzy
 msgid "New in Thunderbird 91"
-msgstr "Newydd yn Thunderbird 68"
+msgstr "Newydd yn Thunderbird 91"
 
 #: website/thunderbird/91.0/whatsnew/index.html:14
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "This article describes some of the major changes visible to users in Thunderbird version 91. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird release notes "
 "from 91.0 and up</a>."
 msgstr ""
-"Mae'r erthygl hon yn disgrifio rhai o'r newidiadau mawr sy'n weladwy i ddefnyddwyr yn fersiwn Thunderbird 78.0 . Mae modd gweld manylion llawn yr holl newidiadau yn y nodiadau rhyddhau <a "
-"href=\"%(release)s\">Thunderbird 78</a>."
+"Mae'r erthygl hon yn disgrifio rhai o'r newidiadau mawr sy'n weladwy i ddefnyddwyr yn fersiwn Thunderbird 91 . Mae modd gweld manylion llawn yr holl newidiadau yn y nodiadau rhyddhau <a "
+"href=\"%(release)s\">Thunderbird 91.0 ac uwch</a>."
 
 #: website/thunderbird/91.0/whatsnew/index.html:43
-#, fuzzy
 msgid "New Account Setup"
-msgstr "Dewin Gosod Cyfrif E-bost"
+msgstr "Gosod Cyfrif E-bost Newydd"
 
 #: website/thunderbird/91.0/whatsnew/index.html:46
 msgid ""
@@ -1004,9 +1002,8 @@ msgstr ""
 "megis ychwanegu llofnod neu osod amgryptio o'r dechrau i'r diwedd."
 
 #: website/thunderbird/91.0/whatsnew/index.html:58
-#, fuzzy
 msgid "Attachments & Drag-and-Drop"
-msgstr "Atgoffa am Atodiad"
+msgstr "Atodiadau a Llusgo a Gollwng"
 
 #: website/thunderbird/91.0/whatsnew/index.html:61
 msgid ""
@@ -1025,7 +1022,7 @@ msgid ""
 "Whether you are using it on a large desktop monitor or a small laptop touchscreen, you may want the icons and text of the interface to be larger and more spread out or very compact. In Thunderbird "
 "91, under View -> Density in the menu, you can select the UI density for the entire application. Three options are available: compact (small), normal(medium), and touch(large)."
 msgstr ""
-"P'un a ydych chi'n ei ddefnyddio ar fonitor bwrdd gwaith mawr neu sgrin gyffwrdd gliniadur fach, efallai yr hoffech i eiconau a thestun y rhyngwyneb fod yn fwy ac yn fwy gwasgaredig neu'n gryno "
+"P'un a ydych chi'n ei ddefnyddio ar fonitor bwrdd gwaith mawr neu sgrin gyffwrdd gliniadur bach, efallai yr hoffech i eiconau a thestun y rhyngwyneb fod yn fwy ac yn fwy gwasgaredig neu'n gryno "
 "iawn. Yn Thunderbird 91, o dan Golwg -> Dwysedd yn y ddewislen, gallwch ddewis dwysedd UI ar gyfer y rhaglen gyfan. Mae tri dewis ar gael: cryno(bach), arferol(canolig), a chyffwrdd(mawr)."
 
 #: website/thunderbird/91.0/whatsnew/index.html:98
@@ -1041,65 +1038,70 @@ msgstr ""
 "pan fyddwch chi'n teithio, yn cysylltu â WiFi, neu ddim ond eisiau mwy o ddiogelwch ar-lein - rydych chi'n gwybod bod eich manylion yn cael eu gwarchod rhag llygaid busneslyd."
 
 #: website/thunderbird/91.0/whatsnew/index.html:104
-#, fuzzy
 msgid "Learn More"
-msgstr "Dysgu rhagor"
+msgstr "Dysgu Rhagor"
 
 #: website/thunderbird/91.0/whatsnew/index.html:120
-#, fuzzy
 msgid "Calendar Improvements"
-msgstr "Ychwanegyn Calendr"
+msgstr "Gwelliannau i'r Calendr"
 
 #: website/thunderbird/91.0/whatsnew/index.html:123
 msgid ""
 "Managing multiple calendars has been made easier with the calendar sidebar improvements in this release. There is a quick enable button for disabled calendars, a lock indicator for read-only "
 "calendars, and a show/hide icon for easily toggling what calendars are visible. Outside the sidebar, there are now better color accents to highlight the current day in the calendar."
 msgstr ""
+"Mae rheoli calendrau lluosog wedi'i gwneud yn haws gyda'r gwelliannau ym mar ochr calendr yn y rhyddhad hwn. Mae botwm galluogi cyflym ar gyfer calendrau wedi'u hanalluogi, dangosydd clo ar gyfer "
+"calendrau darllen yn unig, ac eicon dangos/cuddio ar gyfer newid yn hawdd pa galendrau sy'n weladwy. Y tu allan i'r bar ochr, mae yna acenion lliw gwell i dynnu sylw at y diwrnod cyfredol yn y "
+"calendr."
 
 #: website/thunderbird/91.0/whatsnew/index.html:138
 msgid ""
 "Thunderbird’s Dark Theme got even better in this release. In the past some windows and dialogues looked a bit out of place if you had Thunderbird’s dark theme selected. Now almost every dialogue and"
 " window in Thunderbird is fully styled to respect the user’s color scheme preferences."
 msgstr ""
+"Mae Thema Dywyll Thunderbird wedi'i wella eto yn y rhyddhad hwn. Yn y gorffennol roedd rhai ffenestri a deialogau yn edrych ychydig allan o’u lle pe bai thema dywyll Thunderbird wedi ei dewis. Nawr "
+"mae bron pob deialog a ffenestr yn Thunderbird wedi'i lunio'n llawn i barchu dewisiadau cynllun lliw'r defnyddiwr."
 
 #: website/thunderbird/91.0/whatsnew/index.html:155
 msgid "PDF Viewer"
-msgstr ""
+msgstr "Darllenydd PDF"
 
 #: website/thunderbird/91.0/whatsnew/index.html:158
 msgid ""
 "Thunderbird now has a built-in PDF viewer, which means you can read and even do some editing on PDFs sent to you as attachments. You can do all this without ever leaving Thunderbird, allowing you to"
 " return to your inbox without missing a beat."
 msgstr ""
+"Bellach mae gan Thunderbird ddarllenydd PDF mewnol, sy'n golygu y gallwch ddarllen a hyd yn oed wneud rhywfaint o olygu ar PDFau a anfonwyd atoch fel atodiadau. Gallwch wneud hyn i gyd heb adael "
+"Thunderbird, gan ganiatáu i chi ddychwelyd i'ch blwch derbyn heb golli dim."
 
 #: website/thunderbird/91.0/whatsnew/index.html:171
 msgid "There are many other big changes that make Thunderbird 91 a very large release including:"
-msgstr ""
+msgstr "Mae yna lawer o newidiadau mawr eraill sy'n gwneud Thunderbird 91 yn rhyddhad mawr iawn gan gynnwys:"
 
 #: website/thunderbird/91.0/whatsnew/index.html:174
 msgid "Native support for macOS devices built with Apple Silicon CPU"
-msgstr ""
+msgstr "Cefnogaeth frodorol i ddyfeisiau MacOS wedi'u hadeiladu gyda Apple Silicon CPU"
 
 #: website/thunderbird/91.0/whatsnew/index.html:175
 msgid "CardDAV Address Book Support (and CardDAV auto-detection support)"
-msgstr ""
+msgstr "Cymorth Llyfr Cyfeiriadau CardDAV (a chefnogaeth awtoganfod CardDAV)"
 
 #: website/thunderbird/91.0/whatsnew/index.html:176
 msgid "Printing UI updated"
-msgstr ""
+msgstr "UI argraffu wedi'i ddiweddaru"
 
 #: website/thunderbird/91.0/whatsnew/index.html:177
 msgid "Ability to change order of accounts in UI"
-msgstr ""
+msgstr "Y gallu i newid trefn cyfrifon yn yr UI"
 
 #: website/thunderbird/91.0/whatsnew/index.html:178
 msgid "Registers to handle .ics files, letting you preview and import events to the calendar by double clicking the file"
-msgstr ""
+msgstr "Wedi'i gofrestru i drin ffeiliau .ics, gan adael i chi gael rhagolwg a mewnforio digwyddiadau i'r calendr trwy glicio ddwywaith ar y ffeil"
 
 #: website/thunderbird/91.0/whatsnew/index.html:181
-#, fuzzy, python-format
+#, python-format
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 91.0 and up</a>."
-msgstr "Mae yna lawer o ddiweddariadau eraill yn y lluniad hwn, gallwch weld rhestr ohonyn nhw i gyd yn y nodiadau rhyddhau <a href=\"%(release)s\">Thunderbird 78</a>."
+msgstr "Gallwch weld manylion ein holl newidiadau yn y nodiadau rhyddhau ar gyfer <a href=\"%(release)s\">Thunderbird 91.0 ac uwch</a>."
 
 #: website/thunderbird/all/index.html:10
 msgid "Download Thunderbird in your language"
