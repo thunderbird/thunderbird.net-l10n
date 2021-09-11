@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-09-02 17:04-0700\n"
-"PO-Revision-Date: 2021-07-16 09:46+0000\n"
+"PO-Revision-Date: 2021-09-11 18:36+0000\n"
 "Last-Translator: Vlado Valaštiak <valastiak@mozilla.sk>\n"
 "Language-Team: none\n"
 "Language: sk\n"
@@ -958,21 +958,19 @@ msgid "You can see details of all our changes in the release notes for <a href=\
 msgstr "Toto vydanie obsahuje veľa ďalších zmien. Ich zoznam nájdete v <a href=\"%(release)s\">poznámkach k vydaniu Thunderbirdu 78.0</a>."
 
 #: website/thunderbird/91.0/whatsnew/index.html:7
-#, fuzzy
 msgid "New in Thunderbird 91"
-msgstr "Novinky v Thunderbirde 68"
+msgstr "Novinky v Thunderbirde 91"
 
 #: website/thunderbird/91.0/whatsnew/index.html:14
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "This article describes some of the major changes visible to users in Thunderbird version 91. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird release notes "
 "from 91.0 and up</a>."
-msgstr "Tento článok popisuje niektoré viditeľné zmeny v Thunderbirde 78. Úplný zoznam zmien nájdete v <a href=\"%(release)s\">poznámkach k vydaniu Thunderbirdu 78.0</a>."
+msgstr "Tento článok popisuje niektoré viditeľné zmeny v Thunderbirde 91. Úplný zoznam zmien nájdete v <a href=\"%(release)s\">poznámkach k vydaniu Thunderbirdu 91.0 a novších verzií</a>."
 
 #: website/thunderbird/91.0/whatsnew/index.html:43
-#, fuzzy
 msgid "New Account Setup"
-msgstr "Sprievodca vytvorením poštového účtu"
+msgstr "Nový sprievodca vytvorením účtu"
 
 #: website/thunderbird/91.0/whatsnew/index.html:46
 msgid ""
@@ -980,53 +978,63 @@ msgid ""
 "allows most users to set them up with just a click. After setting up an account, the wizard also points users at additional (optional) things to do – such as adding a signature or setting up end-to-"
 "end encryption."
 msgstr ""
+"Jednou z najviditeľnejších zmien pre Thunderbird 91 je nový sprievodca nastavením účtu. Nový sprievodca ponúka nielen lepší vzhľad, ale aj automatické objavovanie kalendárov a adresárov a umožňuje "
+"väčšine používateľov ich nastaviť jediným kliknutím. Po nastavení účtu sprievodca tiež poukáže používateľov na ďalšie (voliteľné) činnosti, ako je napríklad pridanie podpisu alebo nastavenie "
+"šifrovania typu end-to-end."
 
 #: website/thunderbird/91.0/whatsnew/index.html:58
-#, fuzzy
 msgid "Attachments & Drag-and-Drop"
-msgstr "Pripomínanie zabudnutých príloh"
+msgstr "Prílohy a presúvanie myšou"
 
 #: website/thunderbird/91.0/whatsnew/index.html:61
 msgid ""
 "The attachments pane has been moved to the bottom of the compose window for better visibility of filenames as well as being able to see many at once. We’ve also added an overlay that appears when "
 "you drag-and-drop a file into the compose window asking how you would like to handle the file in that email (such as putting a picture in-line in your message or simply attaching it to the email)."
 msgstr ""
+"Panel s prílohami bol presunutý do spodnej časti okna na napísanie správy, aby bola zaistená lepšia viditeľnosť názvov súborov a súčasne bolo možné vidieť viacero súborov naraz. Tiež sme pridali "
+"prekrytie, ktoré sa zobrazí pri presúvaní súboru do okna na písanie s otázkou, ako by ste chceli zaobchádzať so súborom v tomto e-maile (napríklad vložením obrázku do správy alebo jednoducho "
+"pripojením obrázka ku správe)."
 
 #: website/thunderbird/91.0/whatsnew/index.html:79
 msgid "UI Density Control"
-msgstr ""
+msgstr "Nastavenie hustoty používateľského rozhrania"
 
 #: website/thunderbird/91.0/whatsnew/index.html:82
 msgid ""
 "Whether you are using it on a large desktop monitor or a small laptop touchscreen, you may want the icons and text of the interface to be larger and more spread out or very compact. In Thunderbird "
 "91, under View -> Density in the menu, you can select the UI density for the entire application. Three options are available: compact (small), normal(medium), and touch(large)."
 msgstr ""
+"Či už ho používate na veľkom stolnom monitore alebo na malom dotykovom displeji prenosného počítača, možno budete chcieť, aby boli ikony a text rozhrania väčšie a rozloženejšie alebo veľmi "
+"kompaktné. V Thunderbirde 91 si môžete v ponuke Zobraziť -> Hustota vybrať hustotu používateľského rozhrania pre celú aplikáciu. K dispozícii sú tri možnosti: kompaktná, normálna a pre dotykové "
+"zariadenia."
 
 #: website/thunderbird/91.0/whatsnew/index.html:98
 msgid "Protect Your Privacy"
-msgstr ""
+msgstr "Ochrana súkromia"
 
 #: website/thunderbird/91.0/whatsnew/index.html:101
 msgid ""
 "Whether its work or play, you deserve to have privacy when you are online. A VPN, Virtual Private Network, can help you create a secure, private connection to the internet. So that when you are "
 "traveling, connecting to WiFi, or simply want more online security - you know that your information is protected from prying eyes."
 msgstr ""
+"Či už ide o prácu alebo zábavu, zaslúžite si súkromie, keď ste online. VPN, virtuálna súkromná sieť, vám môže pomôcť vytvoriť bezpečné a súkromné pripojenie k internetu. Či už ste na cestách, "
+"pripojení k sieti Wi-Fi alebo jednoducho chcete väčšiu bezpečnosť online - viete, že vaše informácie sú chránené pred zvedavými očami."
 
 #: website/thunderbird/91.0/whatsnew/index.html:104
-#, fuzzy
 msgid "Learn More"
 msgstr "Ďalšie informácie"
 
 #: website/thunderbird/91.0/whatsnew/index.html:120
-#, fuzzy
 msgid "Calendar Improvements"
-msgstr "Kalendár vo forme doplnku"
+msgstr "Vylepšenia kalendára"
 
 #: website/thunderbird/91.0/whatsnew/index.html:123
 msgid ""
 "Managing multiple calendars has been made easier with the calendar sidebar improvements in this release. There is a quick enable button for disabled calendars, a lock indicator for read-only "
 "calendars, and a show/hide icon for easily toggling what calendars are visible. Outside the sidebar, there are now better color accents to highlight the current day in the calendar."
 msgstr ""
+"Správa viacerých kalendárov bola v tomto vydaní zjednodušená vďaka vylepšeniam bočného panela kalendára. K dispozícii je tlačidlo rýchleho zapnutia pre deaktivované kalendáre, indikátor uzamknutia "
+"pre kalendáre iba na čítanie a ikona Zobraziť/skryť pre ľahké prepínanie medzi viditeľnými kalendármi. Mimo bočného panela sú teraz v kalendári lepšie farebné akcenty na zvýraznenie aktuálneho dňa."
 
 #: website/thunderbird/91.0/whatsnew/index.html:138
 msgid ""
@@ -1069,9 +1077,9 @@ msgid "Registers to handle .ics files, letting you preview and import events to 
 msgstr ""
 
 #: website/thunderbird/91.0/whatsnew/index.html:181
-#, fuzzy, python-format
+#, python-format
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 91.0 and up</a>."
-msgstr "Toto vydanie obsahuje veľa ďalších zmien. Ich zoznam nájdete v <a href=\"%(release)s\">poznámkach k vydaniu Thunderbirdu 78.0</a>."
+msgstr "Podrobnosti o všetkých našich zmenách nájdete v poznámkach k vydaniu <a href=\"%(release)s\">Thunderbirdu 91.0 a novších verzií</a>."
 
 #: website/thunderbird/all/index.html:10
 msgid "Download Thunderbird in your language"
