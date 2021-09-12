@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-09-02 17:04-0700\n"
-"PO-Revision-Date: 2021-02-14 20:02+0000\n"
+"PO-Revision-Date: 2021-09-12 21:12+0000\n"
 "Last-Translator: jlG <jlg.l10n.es@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es_ES\n"
@@ -196,9 +196,8 @@ msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
 #: website/download-button.html:55 website/site-prefooter.html:81 website/site-prefooter.html:84
-#, fuzzy
 msgid "Thunderbird Daily"
-msgstr "Thunderbird Nightly"
+msgstr "Thunderbird Daily"
 
 #: website/download-button.html:66
 msgid "Systems &amp; Languages"
@@ -411,23 +410,20 @@ msgid "Download Beta"
 msgstr "Descargar Beta"
 
 #: website/site-prefooter.html:86
-#, fuzzy
 msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Daily channel."
-msgstr "Ayúdanos a probar los últimos desarrollos hechos en Thunderbird cada día usando el canal inestable Nightly."
+msgstr "Ayúdanos a probar los últimos desarrollos hechos para Thunderbird diariamente, usando el canal inestable Daily."
 
 #: website/site-prefooter.html:90
 msgid "WARNING!"
 msgstr "¡PRECAUCIÓN!"
 
 #: website/site-prefooter.html:92
-#, fuzzy
 msgid "Daily is an unstable testing and development platform, make sure you back up important data regularly!"
-msgstr "Nightly es una plataforma de desarrollo y pruebas inestable; ¡Asegúrate de hacer copia de seguridad de tus datos importantes periódicamente!"
+msgstr "Nightly es una plataforma inestable de desarrollo y pruebas; ¡Asegúrate de hacer periódicamente una copia de seguridad de tus datos importantes!"
 
 #: website/site-prefooter.html:95
-#, fuzzy
 msgid "Download Daily"
-msgstr "Descargar Nightly"
+msgstr "Descargar Daily"
 
 #: website/about/index.html:22
 msgid "What is Thunderbird?"
@@ -982,9 +978,8 @@ msgid "You can see details of all our changes in the release notes for <a href=\
 msgstr "Puedes ver los detalles de todos nuestros cambios en las notas de lanzamiento de <a href=\"%(release)s\">Thunderbird 78.0 y posteriores</a>."
 
 #: website/thunderbird/91.0/whatsnew/index.html:7
-#, fuzzy
 msgid "New in Thunderbird 91"
-msgstr "Novedades en Thunderbird 68"
+msgstr "Novedades en Thunderbird 91"
 
 #: website/thunderbird/91.0/whatsnew/index.html:14
 #, fuzzy, python-format
@@ -1006,6 +1001,9 @@ msgid ""
 "allows most users to set them up with just a click. After setting up an account, the wizard also points users at additional (optional) things to do – such as adding a signature or setting up end-to-"
 "end encryption."
 msgstr ""
+"Uno de los cambios más notables para Thunderbird 91 es el asistente para configurar una nueva cuenta. El nuevo asistente no solo tiene una mejor apariencia, sino que también permite el "
+"autodescubrimiento de calendarios y libretas de direcciones, y permite a la mayoría de los usuarios configurarlos con solo un clic. Después de configurar una cuenta, el asistente también sugiere a "
+"los usuarios cosas adicionales (opcionales) por hacer - como añadir una firma o configurar un cifrado de extremo a extremo."
 
 #: website/thunderbird/91.0/whatsnew/index.html:58
 #, fuzzy
@@ -1017,26 +1015,34 @@ msgid ""
 "The attachments pane has been moved to the bottom of the compose window for better visibility of filenames as well as being able to see many at once. We’ve also added an overlay that appears when "
 "you drag-and-drop a file into the compose window asking how you would like to handle the file in that email (such as putting a picture in-line in your message or simply attaching it to the email)."
 msgstr ""
+"El panel de adjuntos se ha movido hasta la parte inferior de la ventana de redacción para una mejor visibilidad de los nombres de archivo y para poder ver muchos a la vez. También hemos añadido una "
+"capa sobrepuesta que aparece cuando arrastras y sueltas un archivo en la ventana de redacción preguntando cómo te gustaría manejar el archivo en ese correo electrónico (como colocar una foto dentro "
+"del cuerpo del mensaje o simplemente adjuntarla al correo electrónico)."
 
 #: website/thunderbird/91.0/whatsnew/index.html:79
 msgid "UI Density Control"
-msgstr ""
+msgstr "Control de densidad de la IU"
 
 #: website/thunderbird/91.0/whatsnew/index.html:82
 msgid ""
 "Whether you are using it on a large desktop monitor or a small laptop touchscreen, you may want the icons and text of the interface to be larger and more spread out or very compact. In Thunderbird "
 "91, under View -> Density in the menu, you can select the UI density for the entire application. Three options are available: compact (small), normal(medium), and touch(large)."
 msgstr ""
+"Ya sea que lo estés utilizando en un gran monitor de escritorio o en una pequeña pantalla táctil de un portátil, puede que quieras que los iconos y el texto de la interfaz sean más grandes y estén "
+"más extendidos o que sean muy compactos. En Thunderbird 91, bajo el menú Ver -> Densidad, puedes seleccionar la densidad de IU para toda la aplicación. Hay tres opciones disponibles: compacta "
+"(pequeña), normal (media) y táctil (grande)."
 
 #: website/thunderbird/91.0/whatsnew/index.html:98
 msgid "Protect Your Privacy"
-msgstr ""
+msgstr "Protege tu privacidad"
 
 #: website/thunderbird/91.0/whatsnew/index.html:101
 msgid ""
 "Whether its work or play, you deserve to have privacy when you are online. A VPN, Virtual Private Network, can help you create a secure, private connection to the internet. So that when you are "
 "traveling, connecting to WiFi, or simply want more online security - you know that your information is protected from prying eyes."
 msgstr ""
+"Ya sea que estés trabajando o jugando, mereces tener privacidad cuando estés en línea. Un VPN, red privada virtual, puede ayudarte a crear una conexión segura y privada a Internet. Para que cuando "
+"estés viajando, conectándote a una red WiFi o simplemente quieres más seguridad en línea, sepas que tu información está protegida de miradas indiscretas."
 
 #: website/thunderbird/91.0/whatsnew/index.html:104
 #, fuzzy
@@ -1053,16 +1059,21 @@ msgid ""
 "Managing multiple calendars has been made easier with the calendar sidebar improvements in this release. There is a quick enable button for disabled calendars, a lock indicator for read-only "
 "calendars, and a show/hide icon for easily toggling what calendars are visible. Outside the sidebar, there are now better color accents to highlight the current day in the calendar."
 msgstr ""
+"La gestión de múltiples calendarios ahora es aún más fácil con las mejoras en la barra lateral del calendario de esta versión. Hay un botón de activación rápida para calendarios desactivados, un "
+"indicador de bloqueo para calendarios de solo lectura y un icono para mostrar/ocultar que alterna fácilmente los calendarios visibles. Fuera de la barra lateral, ahora hay mejores indicadores de "
+"color para resaltar el día actual en el calendario."
 
 #: website/thunderbird/91.0/whatsnew/index.html:138
 msgid ""
 "Thunderbird’s Dark Theme got even better in this release. In the past some windows and dialogues looked a bit out of place if you had Thunderbird’s dark theme selected. Now almost every dialogue and"
 " window in Thunderbird is fully styled to respect the user’s color scheme preferences."
 msgstr ""
+"El tema oscuro de Thunderbird ha mejorado aún más en esta versión. En el pasado, algunas ventanas y diálogos parecían un poco fuera de lugar si tenías seleccionado el tema oscuro de Thunderbird. "
+"Ahora, prácticamente todos los diálogos y ventanas de Thunderbird están diseñados para respetar las preferencias del esquema de color del usuario."
 
 #: website/thunderbird/91.0/whatsnew/index.html:155
 msgid "PDF Viewer"
-msgstr ""
+msgstr "Visor de PDF"
 
 #: website/thunderbird/91.0/whatsnew/index.html:158
 msgid ""
@@ -1072,23 +1083,23 @@ msgstr ""
 
 #: website/thunderbird/91.0/whatsnew/index.html:171
 msgid "There are many other big changes that make Thunderbird 91 a very large release including:"
-msgstr ""
+msgstr "Hay muchos otros grandes cambios que hacen que Thunderbird 91 sea una versión muy grande, incluyendo:"
 
 #: website/thunderbird/91.0/whatsnew/index.html:174
 msgid "Native support for macOS devices built with Apple Silicon CPU"
-msgstr ""
+msgstr "Soporte nativo para dispositivos macOS construidos con CPU Apple Silicon"
 
 #: website/thunderbird/91.0/whatsnew/index.html:175
 msgid "CardDAV Address Book Support (and CardDAV auto-detection support)"
-msgstr ""
+msgstr "Soporte para libreta de direcciones de CardDAV (y soporte para autodetección de CardDAV)"
 
 #: website/thunderbird/91.0/whatsnew/index.html:176
 msgid "Printing UI updated"
-msgstr ""
+msgstr "Interfaz de impresión actualizada"
 
 #: website/thunderbird/91.0/whatsnew/index.html:177
 msgid "Ability to change order of accounts in UI"
-msgstr ""
+msgstr "Posibilidad de cambiar el orden de las cuentas en la interfaz de usuario"
 
 #: website/thunderbird/91.0/whatsnew/index.html:178
 msgid "Registers to handle .ics files, letting you preview and import events to the calendar by double clicking the file"
