@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-09-14 14:14-0700\n"
-"PO-Revision-Date: 2021-10-25 04:23+0000\n"
-"Last-Translator: panchulis18 <panchulis18@gmail.com>\n"
+"PO-Revision-Date: 2021-11-06 19:29+0000\n"
+"Last-Translator: Roberto Alvarado <ralv888@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es_MX\n"
 "MIME-Version: 1.0\n"
@@ -988,9 +988,8 @@ msgstr ""
 "href=\"%(release)s\">notas de versión de Thunderbird 91</a>."
 
 #: website/thunderbird/91.0/whatsnew/index.html:43
-#, fuzzy
 msgid "New Account Setup"
-msgstr "Asistente de configuración de cuentas de correo"
+msgstr "Configuración de nueva cuenta"
 
 #: website/thunderbird/91.0/whatsnew/index.html:46
 msgid ""
@@ -998,6 +997,9 @@ msgid ""
 "allows most users to set them up with just a click. After setting up an account, the wizard also points users at additional (optional) things to do – such as adding a signature or setting up end-to-"
 "end encryption."
 msgstr ""
+"Uno de los cambios más notables para Thunderbird 91 es el asistente para configurar una nueva cuenta. El nuevo asistente no solo tiene una mejor apariencia, sino que también permite el "
+"autodescubrimiento de calendarios y libretas de direcciones, y permite a la mayoría de los usuarios configurarlos con solo un clic. Después de configurar una cuenta, el asistente también sugiere a "
+"los usuarios cosas adicionales (opcionales) por hacer - como añadir una firma o configurar un cifrado de extremo a extremo."
 
 #: website/thunderbird/91.0/whatsnew/index.html:58
 msgid "Attachments & Drag-and-Drop"
@@ -1008,16 +1010,22 @@ msgid ""
 "The attachments pane has been moved to the bottom of the compose window for better visibility of filenames as well as being able to see many at once. We’ve also added an overlay that appears when "
 "you drag-and-drop a file into the compose window asking how you would like to handle the file in that email (such as putting a picture in-line in your message or simply attaching it to the email)."
 msgstr ""
+"El panel de adjuntos se ha movido hasta la parte inferior de la ventana de redacción para una mejor visibilidad de los nombres de archivo y para poder ver muchos a la vez. También hemos agregado una"
+" capa sobrepuesta que aparece cuando arrastras y sueltas un archivo en la ventana de redacción preguntando cómo te gustaría manejar el archivo en ese correo electrónico (como colocar una foto dentro"
+" del cuerpo del mensaje o simplemente adjuntarla al correo electrónico)."
 
 #: website/thunderbird/91.0/whatsnew/index.html:79
 msgid "UI Density Control"
-msgstr ""
+msgstr "Control de densidad de la IU"
 
 #: website/thunderbird/91.0/whatsnew/index.html:82
 msgid ""
 "Whether you are using it on a large desktop monitor or a small laptop touchscreen, you may want the icons and text of the interface to be larger and more spread out or very compact. In Thunderbird "
 "91, under View -> Density in the menu, you can select the UI density for the entire application. Three options are available: compact (small), normal(medium), and touch(large)."
 msgstr ""
+"Ya sea que lo estés utilizando en un gran monitor de escritorio o en una pequeña pantalla táctil de un portátil, puede que quieras que los iconos y el texto de la interfaz sean más grandes y estén "
+"más extendidos o que sean muy compactos. En Thunderbird 91, bajo el menú Ver -> Densidad, puedes seleccionar la densidad de IU para toda la aplicación. Hay tres opciones disponibles: compacta "
+"(pequeña), normal (media) y táctil (grande)."
 
 #: website/thunderbird/91.0/whatsnew/index.html:98
 msgid "Protect Your Privacy"
@@ -1028,6 +1036,8 @@ msgid ""
 "Whether it’s work or play, you deserve to have privacy when you are online. A VPN, Virtual Private Network, can help you create a secure, private connection to the internet. So that when you are "
 "traveling, connecting to WiFi, or simply want more online security - you know that your information is protected from prying eyes."
 msgstr ""
+"Ya sea que estés trabajando o jugando, mereces tener privacidad cuando estés en línea. Un VPN, red privada virtual, puede ayudarte a crear una conexión segura y privada a Internet. Para que cuando "
+"estés viajando, conectándote a una red WiFi o simplemente quieres más seguridad en línea, sepas que tu información está protegida de miradas indiscretas."
 
 #: website/thunderbird/91.0/whatsnew/index.html:104
 msgid "Learn More"
@@ -1042,12 +1052,17 @@ msgid ""
 "Managing multiple calendars has been made easier with the calendar sidebar improvements in this release. There is a quick enable button for disabled calendars, a lock indicator for read-only "
 "calendars, and a show/hide icon for easily toggling what calendars are visible. Outside the sidebar, there are now better color accents to highlight the current day in the calendar."
 msgstr ""
+"La gestión de múltiples calendarios ahora es aún más fácil con las mejoras en la barra lateral del calendario de esta versión. Hay un botón de activación rápida para calendarios desactivados, un "
+"indicador de bloqueo para calendarios de solo lectura y un icono para mostrar/ocultar que alterna fácilmente los calendarios visibles. Fuera de la barra lateral, ahora hay mejores indicadores de "
+"color para resaltar el día actual en el calendario."
 
 #: website/thunderbird/91.0/whatsnew/index.html:138
 msgid ""
 "Thunderbird’s Dark Theme got even better in this release. In the past some windows and dialogues looked a bit out of place if you had Thunderbird’s dark theme selected. Now almost every dialogue and"
 " window in Thunderbird is fully styled to respect the user’s color scheme preferences."
 msgstr ""
+"El tema oscuro de Thunderbird mejoró aún más en esta versión. En el pasado, algunas ventanas y diálogos parecían un poco fuera de lugar si tenías seleccionado el tema oscuro de Thunderbird. Ahora, "
+"prácticamente todos los diálogos y ventanas están diseñados para respetar las preferencias de combinación de colores del usuario."
 
 #: website/thunderbird/91.0/whatsnew/index.html:155
 msgid "PDF Viewer"
@@ -1083,7 +1098,7 @@ msgstr "Posibilidad de cambiar el orden de las cuentas en la interfaz de usuario
 
 #: website/thunderbird/91.0/whatsnew/index.html:178
 msgid "Registers to handle .ics files, letting you preview and import events to the calendar by double clicking the file"
-msgstr ""
+msgstr "Se registra en el sistema para manejar archivos .ics, permitiéndote ver e importar eventos al calendario haciendo doble clic en el archivo"
 
 #: website/thunderbird/91.0/whatsnew/index.html:181
 #, python-format
