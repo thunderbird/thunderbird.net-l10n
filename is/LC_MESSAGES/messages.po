@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-09-14 14:14-0700\n"
-"PO-Revision-Date: 2022-01-11 09:51+0000\n"
+"PO-Revision-Date: 2022-01-11 10:05+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: none\n"
 "Language: is\n"
@@ -338,7 +338,7 @@ msgstr "Smákökur"
 
 #: website/site-footer.html:67
 msgid "Legal"
-msgstr "Lögmæti"
+msgstr "Lagalegt efni"
 
 #: website/site-footer.html:71
 msgid "Participation Guidelines"
@@ -361,7 +361,13 @@ msgid ""
 "      Portions of this content are ©1998–%(current_year)s by individual\n"
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
-msgstr "Hlutar innihalds eru ©1998–%(current_year)s af einstökum mozilla.org þátttakendum. Efnið er aðgengilegt undir <a href=\"%(url)s\">Creative Commons leyfi</a>."
+msgstr ""
+"Thunderbird er nú hluti af\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+"      dótturfélags Mozilla Foundation að fullu.\n"
+"      Hlutar af þessu efni eru ©1998–%(current_year)s eftir einstaka\n"
+"      þátttakendur. Efnið er aðgengilegt með\n"
+"      <a href=\"%(url)s\" class=\"inline-link\">Creative Commons notkunarleyfi</a>."
 
 #: website/site-footer.html:95
 msgid "Contribute to this site"
@@ -432,6 +438,8 @@ msgid ""
 "Thunderbird is a free and open source email, newsfeed, chat, and calendaring client, that’s easy to set up and customize. One of the core principles of Thunderbird is the use and promotion of open "
 "standards - this focus is a rejection of our world of closed platforms and services that can’t communicate with each other. We want our users to have freedom and choice in how they communicate."
 msgstr ""
+"Thunderbird er ókeypis og opinn hugbúnaður fyrir tölvupóst, fréttastreymi, spjall og dagatöl, sem auðvelt er að setja upp og sérsníða. Ein af meginreglum Thunderbird er notkun og áhersla á opnum "
+"stöðlum - þessi áhersla þýðir höfnun á heimi lokaðra kerfa og þjónustu sem geta ekki átt samskipti sín á milli. Við viljum að notendur okkar hafi frelsi og val í samskiptum sínum."
 
 #: website/about/index.html:46
 msgid "Who We Are"
@@ -611,9 +619,7 @@ msgstr "Áminning fyrir viðhengi"
 
 #: website/features/index.html:78
 msgid "The attachment reminder looks for the word attachment (and other words like file types) in the body of your message and reminds you to add an attachment before hitting send."
-msgstr ""
-"Nýi áminningareiginleikinn leitar eftir orðum sem benda til þess að viðhengi eigi að fylgja (og öðru eins og skráartegundum) í meginefni tölvupóstsins og minnir þig á að bæta við viðhengi áður en þú"
-" sendir póstinn."
+msgstr "Viðhengisáminningin leitar að orðinu 'viðhengi' (og öðrum orðum eins og skráartegundum) í meginmáli skilaboðanna og minnir þig á að bæta við viðhengi áður en þú sendir."
 
 #: website/features/index.html:86
 msgid "Multiple-channel chat"
@@ -693,6 +699,8 @@ msgid ""
 "You can now speed up the transfer of large documents by uploading them to an online storage provider and sharing the link instead of sending the file directly as a message attachment. Improve the "
 "speed of sending email and avoid message rejection if the recipient’s server disallows large files. As an added bonus, you’ll also save space in your sent folder and the recipient’s inbox."
 msgstr ""
+"Þú getur nú flýtt fyrir flutningi stórra skjala með því að senda þau inn á netgeymsluþjónustu og deila tenglinum í stað þess að senda skrána beint sem viðhengi skilaboða. Bættu hraðann við að senda "
+"tölvupóst og forðastu að skilaboðum sé hafnað ef póstþjónn viðtakandans bannar stórar skrár. Sem aukabónus spararðu líka pláss í Sent-möppunni þinni og pósthólfi viðtakandans."
 
 #: website/features/index.html:188
 msgid "Thunderbird Look & Feel"
