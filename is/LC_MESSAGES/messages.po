@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-09-14 14:14-0700\n"
-"PO-Revision-Date: 2022-01-11 11:55+0000\n"
+"PO-Revision-Date: 2022-01-11 12:08+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: none\n"
 "Language: is\n"
@@ -947,6 +947,9 @@ msgid ""
 "surveillance to read your messages. If you would like to learn more about how end-to-end encryption in Thunderbird works, check out our article: <a href=\"%(encryption)s\">Introduction to End-to-end"
 " encryption in Thunderbird</a>."
 msgstr ""
+"Hægt er að nota enda-í-enda dulritun fyrir tölvupóst til að tryggja að aðeins sendandi og viðtakendur skilaboða geti lesið efni þeirra. Án slíkrar verndar er auðvelt fyrir tölvupóstveitur og "
+"eftirlitsaðila að lesa skilaboðin þín. Ef þú vilt vita meira um hvernig enda-í-enda dulritun í Thunderbird virkar, skoðaðu þá greinina okkar: <a href=\"%(encryption)s\">Kynning á enda-í-enda "
+"dulritun í Thunderbird</a>."
 
 #: website/thunderbird/78.0/whatsnew/index.html:84
 msgid ""
@@ -997,7 +1000,7 @@ msgstr ""
 
 #: website/thunderbird/91.0/whatsnew/index.html:79
 msgid "UI Density Control"
-msgstr ""
+msgstr "Stýring á þéttleika viðmóts"
 
 #: website/thunderbird/91.0/whatsnew/index.html:82
 msgid ""
@@ -1016,6 +1019,8 @@ msgid ""
 "Whether it’s work or play, you deserve to have privacy when you are online. A VPN, Virtual Private Network, can help you create a secure, private connection to the internet. So that when you are "
 "traveling, connecting to WiFi, or simply want more online security - you know that your information is protected from prying eyes."
 msgstr ""
+"Hvort sem er í leik eða starfi, átt þú skilið að eiga næði þegar þú ert á netinu. VPN, Virtual Private Network, getur hjálpað þér að búa til örugga, einkatengingu við internetið. Svo að þegar þú ert"
+" að ferðast, tengist þráðlausum WiFi-netum eða einfaldlega vilt meira öryggi á netinu - þá veistu að upplýsingarnar þínar eru verndaðar fyrir hnýsnum aðilum."
 
 #: website/thunderbird/91.0/whatsnew/index.html:104
 msgid "Learn More"
@@ -1030,6 +1035,8 @@ msgid ""
 "Managing multiple calendars has been made easier with the calendar sidebar improvements in this release. There is a quick enable button for disabled calendars, a lock indicator for read-only "
 "calendars, and a show/hide icon for easily toggling what calendars are visible. Outside the sidebar, there are now better color accents to highlight the current day in the calendar."
 msgstr ""
+"Það er auðveldara að hafa umsjón með mörgum dagatölum vegna endurbóta á hliðarstikunni á dagatalinu í þessari útgáfu. Þar er fljótvirkur hnappur fyrir óvirk dagatöl, læsingarvísir fyrir skrifvarin "
+"dagatöl og sýna/fela-tákn til að breyta á auðveldan máta hvaða dagatöl séu sýnileg. Fyrir utan hliðarstikuna eru nú betri litaáherslur til að auðkenna daginn í dag í dagatalinu."
 
 #: website/thunderbird/91.0/whatsnew/index.html:138
 msgid ""
@@ -1048,14 +1055,16 @@ msgid ""
 "Thunderbird now has a built-in PDF viewer, which means you can read and even do some editing on PDFs sent to you as attachments. You can do all this without ever leaving Thunderbird, allowing you to"
 " return to your inbox without missing a beat."
 msgstr ""
+"Thunderbird er nú með innbyggðan PDF-lesara, sem þýðir að þú getur lesið og jafnvel gert ýmsar breytingar á PDF-skrám sem þú færð sendar sem viðhengi. Þú getur gert allt þetta án þess að yfirgefa "
+"Thunderbird, sem gerir þér kleift að snúa aftur í pósthólfið þitt án þess að missa taktinn."
 
 #: website/thunderbird/91.0/whatsnew/index.html:171
 msgid "There are many other big changes that make Thunderbird 91 a very large release including:"
-msgstr ""
+msgstr "Það eru margar aðrar stórar breytingar sem gera Thunderbird 91 að mjög veigamikilli útgáfu, þar á meðal:"
 
 #: website/thunderbird/91.0/whatsnew/index.html:174
 msgid "Native support for macOS devices built with Apple Silicon CPU"
-msgstr ""
+msgstr "Innbyggður stuðningur fyrir macOS-tæki byggð með Apple Silicon örgjörva"
 
 #: website/thunderbird/91.0/whatsnew/index.html:175
 msgid "CardDAV Address Book Support (and CardDAV auto-detection support)"
@@ -1071,12 +1080,12 @@ msgstr "Hæfileiki til að breyta röð reikninga í viðmótinu"
 
 #: website/thunderbird/91.0/whatsnew/index.html:178
 msgid "Registers to handle .ics files, letting you preview and import events to the calendar by double clicking the file"
-msgstr ""
+msgstr "Skráir sig til að meðhöndla .ics skrár, sem gerir þér kleift að forskoða og flytja inn atburði í dagatalið með því að tvísmella á skrána"
 
 #: website/thunderbird/91.0/whatsnew/index.html:181
 #, python-format
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 91.0 and up</a>."
-msgstr ""
+msgstr "Þú getur séð nánari upplýsingar um allar breytingar í útgáfuupplýsingum fyrir <a href=\"%(release)s\">Thunderbird 91.0 og nýrri</a>."
 
 #: website/thunderbird/all/index.html:10
 msgid "Download Thunderbird in your language"
@@ -1084,7 +1093,7 @@ msgstr "Sækja Thunderbird á tungumálinu þínu"
 
 #: website/thunderbird/all/index.html:14 website/thunderbird/beta/all/index.html:14
 msgid "Be one of the first to try the newest features in Thunderbird. By giving us your feedback, you’ll help us to refine the features that will be included in the final version."
-msgstr ""
+msgstr "Vertu með þeim fyrstu til að prófa nýjustu eiginleikana í Thunderbird. Með því að gefa okkur álit þitt hjálpar þú okkur að betrumbæta eiginleikana sem verða með í endanlegu útgáfunni."
 
 #: website/thunderbird/all/index.html:16 website/thunderbird/beta/all/index.html:16
 msgid "Get the award-winning email application from Mozilla. Import your existing mail and enjoy our new features like tabbed email and advanced search."
@@ -1128,7 +1137,7 @@ msgstr "Útgáfuupplýsingar um hverja útgáfu Thunderbird."
 
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
-msgstr ""
+msgstr "Útgáfuupplýsingar Thunderbird eru sértækar fyrir hverja útgáfu af forritinu. Veldu útgáfuna þína af listanum hér að neðan til að sjá útgáfuskýringarnar fyrir hana."
 
 #~ msgid "Thunderbird, Seamonkey, what version?"
 #~ msgstr "Thunderbird útgáfur"
