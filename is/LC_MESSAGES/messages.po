@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-09-14 14:14-0700\n"
-"PO-Revision-Date: 2022-01-11 11:32+0000\n"
+"PO-Revision-Date: 2022-01-11 11:44+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: none\n"
 "Language: is\n"
@@ -539,12 +539,12 @@ msgstr "Þú finnur líka dagatöl til að gerast áskrifandi að á <a href=\"%
 #: website/calendar/holidays/index.html:59
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, thanks to %(authors)s"
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, þökk sé %(authors)s"
 
 #: website/calendar/holidays/index.html:61
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s"
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> frídagar þökk sé %(authors)s"
 
 #: website/calendar/holidays/index.html:75
 msgid "Contributing a Holiday Calendar"
@@ -819,6 +819,8 @@ msgid ""
 "This article describes some of the major changes visible to users in Thunderbird version 68.0. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird 68 release "
 "notes</a>."
 msgstr ""
+"Þessi grein lýsir nokkrum af helstu breytingunum sem eru sýnilegar notendum í Thunderbird útgáfu 68.0. Nánari upplýsingar um allar breytingarnar má finna í <a href=\"%(release)s\">útgáfuupplýsingum "
+"Thunderbird 68</a>."
 
 #: website/thunderbird/68.0/whatsnew/index.html:25 website/thunderbird/91.0/whatsnew/index.html:135
 msgid "Better Dark Theme"
