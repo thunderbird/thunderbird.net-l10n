@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-09-14 14:14-0700\n"
+"POT-Creation-Date: 2022-05-09 21:50-0700\n"
 "PO-Revision-Date: 2020-09-12 16:23+0000\n"
 "Last-Translator: Aman Alam <amanpreet.alam@gmail.com>\n"
 "Language-Team: none\n"
@@ -195,7 +195,7 @@ msgstr "ਸਿਸਟਮ &amp; ਭਾਸ਼ਾਵਾਂ"
 msgid "What’s New"
 msgstr "ਨਵਾਂ ’ਕੀ ਹੈ"
 
-#: website/download-button.html:69 website/site-footer.html:60
+#: website/download-button.html:69 website/site-footer.html:67
 msgid "Privacy"
 msgstr "ਪਰਦੇਦਾਰੀ"
 
@@ -319,28 +319,38 @@ msgstr ""
 msgid "Contact Us"
 msgstr "ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ"
 
-#: website/site-footer.html:63
+#: website/site-footer.html:38
+#, python-format
+msgid "Follow %(twitter)s on Twitter"
+msgstr ""
+
+#: website/site-footer.html:52
+#, python-format
+msgid "Follow %(mastodon)s on Mastodon"
+msgstr ""
+
+#: website/site-footer.html:70
 msgid "Cookies"
 msgstr "ਕੂਕੀਜ਼"
 
-#: website/site-footer.html:67
+#: website/site-footer.html:74
 msgid "Legal"
 msgstr "ਕਨੂੰਨੀ"
 
-#: website/site-footer.html:71
+#: website/site-footer.html:78
 msgid "Participation Guidelines"
 msgstr ""
 
-#: website/site-footer.html:75
+#: website/site-footer.html:82
 msgid "Report Trademark or Copyright Infringement"
 msgstr ""
 
-#: website/site-footer.html:79
+#: website/site-footer.html:86
 #, fuzzy
 msgid "Report Misuse of Thunderbird Trademark"
 msgstr "ਥੰਡਰਬਰਡ"
 
-#: website/site-footer.html:84
+#: website/site-footer.html:91
 #, python-format
 msgid ""
 "Thunderbird is now part of\n"
@@ -351,11 +361,11 @@ msgid ""
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr "ਇਹ ਸਮੱਗਰੀ ਦੇ ਹਿੱਸੇ ©1998–%(current_year)s ਵੱਖ-ਵੱਖ mozilla.org ਦਾ ਯੋਗਦਾਨ ਹਨ। ਸਮੱਗਰੀ <a href=\"%(url)s\">ਕਰੀਏਟਿਵ ਕਾਮਨਜ਼ ਲਸੰਸ</a> ਅਧੀਨ ਹੈ।"
 
-#: website/site-footer.html:95
+#: website/site-footer.html:102
 msgid "Contribute to this site"
 msgstr "ਇਹ ਸਾਈਟ ਲਈ ਯੋਗਦਾਨ ਦਿਓ"
 
-#: website/site-footer.html:98
+#: website/site-footer.html:105
 #, fuzzy
 msgid "Translate this site"
 msgstr "ਇਹ ਸਾਈਟ ਲਈ ਯੋਗਦਾਨ ਦਿਓ"

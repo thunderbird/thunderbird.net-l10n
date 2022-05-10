@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-09-14 14:14-0700\n"
+"POT-Creation-Date: 2022-05-09 21:50-0700\n"
 "PO-Revision-Date: 2021-07-14 09:32+0000\n"
 "Last-Translator: Isidora Jukić <barad.dur@yahoo.com>\n"
 "Language-Team: none\n"
@@ -205,7 +205,7 @@ msgstr "Системи и језици"
 msgid "What’s New"
 msgstr "Шта је ново"
 
-#: website/download-button.html:69 website/site-footer.html:60
+#: website/download-button.html:69 website/site-footer.html:67
 msgid "Privacy"
 msgstr "Приватност"
 
@@ -329,27 +329,37 @@ msgstr "Каријере"
 msgid "Contact Us"
 msgstr "Контактирајте нас"
 
-#: website/site-footer.html:63
+#: website/site-footer.html:38
+#, python-format
+msgid "Follow %(twitter)s on Twitter"
+msgstr ""
+
+#: website/site-footer.html:52
+#, python-format
+msgid "Follow %(mastodon)s on Mastodon"
+msgstr ""
+
+#: website/site-footer.html:70
 msgid "Cookies"
 msgstr "Колачићи"
 
-#: website/site-footer.html:67
+#: website/site-footer.html:74
 msgid "Legal"
 msgstr "Правно"
 
-#: website/site-footer.html:71
+#: website/site-footer.html:78
 msgid "Participation Guidelines"
 msgstr "Смернице за учешће"
 
-#: website/site-footer.html:75
+#: website/site-footer.html:82
 msgid "Report Trademark or Copyright Infringement"
 msgstr "Пријавите кршење заштитног знака или ауторског права"
 
-#: website/site-footer.html:79
+#: website/site-footer.html:86
 msgid "Report Misuse of Thunderbird Trademark"
 msgstr "Пријавите злоупотребу Thunderbird заштитног знака"
 
-#: website/site-footer.html:84
+#: website/site-footer.html:91
 #, python-format
 msgid ""
 "Thunderbird is now part of\n"
@@ -366,11 +376,11 @@ msgstr ""
 "      индивидулани сарадници. Садржај је доступан под\n"
 "      <a href=\"%(url)s\" class=\"inline-link\">Creative Commons лиценцом</a>."
 
-#: website/site-footer.html:95
+#: website/site-footer.html:102
 msgid "Contribute to this site"
 msgstr "Допринесите овом сајту"
 
-#: website/site-footer.html:98
+#: website/site-footer.html:105
 msgid "Translate this site"
 msgstr "Преведите ову страницу"
 

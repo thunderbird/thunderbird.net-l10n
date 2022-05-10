@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-09-14 14:14-0700\n"
+"POT-Creation-Date: 2022-05-09 21:50-0700\n"
 "PO-Revision-Date: 2021-09-14 22:48+0000\n"
 "Last-Translator: Gabriela <gmontagu@gmail.com>\n"
 "Language-Team: none\n"
@@ -205,7 +205,7 @@ msgstr "Sistemas &amp; idiomas"
 msgid "What’s New"
 msgstr "Lo nuevo"
 
-#: website/download-button.html:69 website/site-footer.html:60
+#: website/download-button.html:69 website/site-footer.html:67
 msgid "Privacy"
 msgstr "Privacidad"
 
@@ -329,27 +329,37 @@ msgstr "Carreras"
 msgid "Contact Us"
 msgstr "Contactanos"
 
-#: website/site-footer.html:63
+#: website/site-footer.html:38
+#, python-format
+msgid "Follow %(twitter)s on Twitter"
+msgstr ""
+
+#: website/site-footer.html:52
+#, python-format
+msgid "Follow %(mastodon)s on Mastodon"
+msgstr ""
+
+#: website/site-footer.html:70
 msgid "Cookies"
 msgstr "Cookies"
 
-#: website/site-footer.html:67
+#: website/site-footer.html:74
 msgid "Legal"
 msgstr "Legales"
 
-#: website/site-footer.html:71
+#: website/site-footer.html:78
 msgid "Participation Guidelines"
 msgstr "Pautas de participación"
 
-#: website/site-footer.html:75
+#: website/site-footer.html:82
 msgid "Report Trademark or Copyright Infringement"
 msgstr "Informe de marca registrada o infracción de derechos de autor"
 
-#: website/site-footer.html:79
+#: website/site-footer.html:86
 msgid "Report Misuse of Thunderbird Trademark"
 msgstr "Informar uso indebido de la marca registrada Thunderbird"
 
-#: website/site-footer.html:84
+#: website/site-footer.html:91
 #, python-format
 msgid ""
 "Thunderbird is now part of\n"
@@ -365,11 +375,11 @@ msgstr ""
 "      Parte de este contenido son ©1998 – %(current_year)s es de colaboradores     particulares. Contenido disponible bajo\n"
 "      una <a href=\"%(url)s\" class=\"inline-link\"> licencia Creative Commons</a>."
 
-#: website/site-footer.html:95
+#: website/site-footer.html:102
 msgid "Contribute to this site"
 msgstr "Contribuí con este sitio"
 
-#: website/site-footer.html:98
+#: website/site-footer.html:105
 msgid "Translate this site"
 msgstr "Traducir este sitio"
 

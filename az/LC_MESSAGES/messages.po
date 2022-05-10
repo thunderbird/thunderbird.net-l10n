@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-09-14 14:14-0700\n"
+"POT-Creation-Date: 2022-05-09 21:50-0700\n"
 "PO-Revision-Date: 2019-10-23 22:41+0000\n"
 "Last-Translator: Emin Mastizada <emin@mastizada.com>\n"
 "Language-Team: none\n"
@@ -196,7 +196,7 @@ msgstr "Sistemlər və Dillər"
 msgid "What’s New"
 msgstr "Yeniliklər"
 
-#: website/download-button.html:69 website/site-footer.html:60
+#: website/download-button.html:69 website/site-footer.html:67
 msgid "Privacy"
 msgstr "Məxfilik"
 
@@ -322,28 +322,38 @@ msgstr ""
 msgid "Contact Us"
 msgstr "Bizimlə Əlaqə"
 
-#: website/site-footer.html:63
+#: website/site-footer.html:38
+#, python-format
+msgid "Follow %(twitter)s on Twitter"
+msgstr ""
+
+#: website/site-footer.html:52
+#, python-format
+msgid "Follow %(mastodon)s on Mastodon"
+msgstr ""
+
+#: website/site-footer.html:70
 msgid "Cookies"
 msgstr "Çərəzlər"
 
-#: website/site-footer.html:67
+#: website/site-footer.html:74
 msgid "Legal"
 msgstr "Qanuni"
 
-#: website/site-footer.html:71
+#: website/site-footer.html:78
 msgid "Participation Guidelines"
 msgstr ""
 
-#: website/site-footer.html:75
+#: website/site-footer.html:82
 msgid "Report Trademark or Copyright Infringement"
 msgstr ""
 
-#: website/site-footer.html:79
+#: website/site-footer.html:86
 #, fuzzy
 msgid "Report Misuse of Thunderbird Trademark"
 msgstr "Thunderbird nədir?"
 
-#: website/site-footer.html:84
+#: website/site-footer.html:91
 #, python-format
 msgid ""
 "Thunderbird is now part of\n"
@@ -354,11 +364,11 @@ msgid ""
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr "Bu məzmunun bir hissəsi ©1998–%(current_year)s mozilla.org proyektinin iştirakçıları tərəfindən yaradılıb. Məzmun <a href=\"%(url)s\">Creative Commons lisenziyası</a> ilə mövcuddur."
 
-#: website/site-footer.html:95
+#: website/site-footer.html:102
 msgid "Contribute to this site"
 msgstr "Bu sayta töhfə ver"
 
-#: website/site-footer.html:98
+#: website/site-footer.html:105
 #, fuzzy
 msgid "Translate this site"
 msgstr "Bu sayta töhfə ver"

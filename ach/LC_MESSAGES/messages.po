@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-09-14 14:14-0700\n"
+"POT-Creation-Date: 2022-05-09 21:50-0700\n"
 "PO-Revision-Date: 2020-12-16 11:06+0000\n"
 "Last-Translator: denish <denish@mozilla-uganda.org>\n"
 "Language-Team: none\n"
@@ -194,7 +194,7 @@ msgstr "Nyonyo &amp; Leb"
 msgid "What’s New"
 msgstr "Ngo Manyen"
 
-#: website/download-button.html:69 website/site-footer.html:60
+#: website/download-button.html:69 website/site-footer.html:67
 msgid "Privacy"
 msgstr "I mung pa dano"
 
@@ -318,27 +318,37 @@ msgstr "Tic"
 msgid "Contact Us"
 msgstr "Kube kwed Wa"
 
-#: website/site-footer.html:63
+#: website/site-footer.html:38
+#, python-format
+msgid "Follow %(twitter)s on Twitter"
+msgstr ""
+
+#: website/site-footer.html:52
+#, python-format
+msgid "Follow %(mastodon)s on Mastodon"
+msgstr ""
+
+#: website/site-footer.html:70
 msgid "Cookies"
 msgstr "Angija"
 
-#: website/site-footer.html:67
+#: website/site-footer.html:74
 msgid "Legal"
 msgstr "Cik"
 
-#: website/site-footer.html:71
+#: website/site-footer.html:78
 msgid "Participation Guidelines"
 msgstr ""
 
-#: website/site-footer.html:75
+#: website/site-footer.html:82
 msgid "Report Trademark or Copyright Infringement"
 msgstr ""
 
-#: website/site-footer.html:79
+#: website/site-footer.html:86
 msgid "Report Misuse of Thunderbird Trademark"
 msgstr ""
 
-#: website/site-footer.html:84
+#: website/site-footer.html:91
 #, python-format
 msgid ""
 "Thunderbird is now part of\n"
@@ -349,11 +359,11 @@ msgid ""
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
 
-#: website/site-footer.html:95
+#: website/site-footer.html:102
 msgid "Contribute to this site"
 msgstr "Mii kony i kakube man"
 
-#: website/site-footer.html:98
+#: website/site-footer.html:105
 msgid "Translate this site"
 msgstr "Lok leb kakube man"
 

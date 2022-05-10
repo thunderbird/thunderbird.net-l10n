@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
 # taotieren <admin@taotieren.com>, 2019.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-09-14 14:14-0700\n"
+"POT-Creation-Date: 2022-05-09 21:50-0700\n"
 "PO-Revision-Date: 2021-09-14 21:40+0000\n"
 "Last-Translator: 你我皆凡人 <yuanbingyan@mail.ee>\n"
 "Language-Team: none\n"
@@ -194,7 +194,7 @@ msgstr "系统和语言"
 msgid "What’s New"
 msgstr "更新说明"
 
-#: website/download-button.html:69 website/site-footer.html:60
+#: website/download-button.html:69 website/site-footer.html:67
 msgid "Privacy"
 msgstr "隐私"
 
@@ -318,27 +318,37 @@ msgstr "招贤纳士"
 msgid "Contact Us"
 msgstr "联系我们"
 
-#: website/site-footer.html:63
+#: website/site-footer.html:38
+#, python-format
+msgid "Follow %(twitter)s on Twitter"
+msgstr ""
+
+#: website/site-footer.html:52
+#, python-format
+msgid "Follow %(mastodon)s on Mastodon"
+msgstr ""
+
+#: website/site-footer.html:70
 msgid "Cookies"
 msgstr "Cookie"
 
-#: website/site-footer.html:67
+#: website/site-footer.html:74
 msgid "Legal"
 msgstr "法律"
 
-#: website/site-footer.html:71
+#: website/site-footer.html:78
 msgid "Participation Guidelines"
 msgstr "参与准则"
 
-#: website/site-footer.html:75
+#: website/site-footer.html:82
 msgid "Report Trademark or Copyright Infringement"
 msgstr "举报商标或版权侵权"
 
-#: website/site-footer.html:79
+#: website/site-footer.html:86
 msgid "Report Misuse of Thunderbird Trademark"
 msgstr "举报滥用 Thunderbird 商标"
 
-#: website/site-footer.html:84
+#: website/site-footer.html:91
 #, python-format
 msgid ""
 "Thunderbird is now part of\n"
@@ -349,11 +359,11 @@ msgid ""
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr "Thunderbird 现在是 Mozilla 基金会的全资子公司 <a href=\"%(mzla)s\" class=\"inline-link\">MZLA 科技公司</a>的一员。本页中的部分内容系贡献者个人版权所有（©1998–%(current_year)s）。内容可按<a href=\"%(url)s\" class=\"inline-link\">知识共享许可协议</a>使用。"
 
-#: website/site-footer.html:95
+#: website/site-footer.html:102
 msgid "Contribute to this site"
 msgstr "助力此网站"
 
-#: website/site-footer.html:98
+#: website/site-footer.html:105
 msgid "Translate this site"
 msgstr "翻译此网站"
 

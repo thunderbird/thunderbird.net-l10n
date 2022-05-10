@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-09-14 14:14-0700\n"
+"POT-Creation-Date: 2022-05-09 21:50-0700\n"
 "PO-Revision-Date: 2020-08-10 11:53+0000\n"
 "Last-Translator: Jordi Serratosa <jordis@softcatala.cat>\n"
 "Language-Team: none\n"
@@ -209,7 +209,7 @@ msgstr "Sistemes i llengües"
 msgid "What’s New"
 msgstr "Novetats"
 
-#: website/download-button.html:69 website/site-footer.html:60
+#: website/download-button.html:69 website/site-footer.html:67
 msgid "Privacy"
 msgstr "Privadesa"
 
@@ -336,28 +336,38 @@ msgstr "Oportunitats laborals"
 msgid "Contact Us"
 msgstr "Contacteu-nos"
 
-#: website/site-footer.html:63
+#: website/site-footer.html:38
+#, python-format
+msgid "Follow %(twitter)s on Twitter"
+msgstr ""
+
+#: website/site-footer.html:52
+#, python-format
+msgid "Follow %(mastodon)s on Mastodon"
+msgstr ""
+
+#: website/site-footer.html:70
 msgid "Cookies"
 msgstr "Galetes"
 
-#: website/site-footer.html:67
+#: website/site-footer.html:74
 msgid "Legal"
 msgstr "Avisos legals"
 
-#: website/site-footer.html:71
+#: website/site-footer.html:78
 msgid "Participation Guidelines"
 msgstr "Directrius per a la participació"
 
-#: website/site-footer.html:75
+#: website/site-footer.html:82
 msgid "Report Trademark or Copyright Infringement"
 msgstr "Denuncieu una infracció de drets d'autor o de marca comercial"
 
-#: website/site-footer.html:79
+#: website/site-footer.html:86
 #, fuzzy
 msgid "Report Misuse of Thunderbird Trademark"
 msgstr "Què és el Thunderbird?"
 
-#: website/site-footer.html:84
+#: website/site-footer.html:91
 #, python-format
 msgid ""
 "Thunderbird is now part of\n"
@@ -368,11 +378,11 @@ msgid ""
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr "Parts d'aquest contingut són ©1998–%(current_year)s de col·laboradors de mozilla.org. El contingut està subjecte a la <a href=\"%(url)s\">llicència Creative Commons</a>."
 
-#: website/site-footer.html:95
+#: website/site-footer.html:102
 msgid "Contribute to this site"
 msgstr "Col·laboreu amb aquesta pàgina"
 
-#: website/site-footer.html:98
+#: website/site-footer.html:105
 #, fuzzy
 msgid "Translate this site"
 msgstr "Col·laboreu amb aquesta pàgina"

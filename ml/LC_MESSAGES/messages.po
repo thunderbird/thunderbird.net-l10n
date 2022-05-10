@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-09-14 14:14-0700\n"
+"POT-Creation-Date: 2022-05-09 21:50-0700\n"
 "PO-Revision-Date: 2019-04-27 07:46+0000\n"
 "Last-Translator: ജോയ്സ് <joicefootball@gmail.com>\n"
 "Language-Team: none\n"
@@ -195,7 +195,7 @@ msgstr "സിസ്റ്റങ്ങളും ഭാഷകളും"
 msgid "What’s New"
 msgstr "പുതിയതെന്തെല്ലാം"
 
-#: website/download-button.html:69 website/site-footer.html:60
+#: website/download-button.html:69 website/site-footer.html:67
 msgid "Privacy"
 msgstr "സ്വകാര്യത"
 
@@ -321,28 +321,38 @@ msgstr ""
 msgid "Contact Us"
 msgstr "ഞങ്ങളെ ബന്ധപ്പെടുക"
 
-#: website/site-footer.html:63
+#: website/site-footer.html:38
+#, python-format
+msgid "Follow %(twitter)s on Twitter"
+msgstr ""
+
+#: website/site-footer.html:52
+#, python-format
+msgid "Follow %(mastodon)s on Mastodon"
+msgstr ""
+
+#: website/site-footer.html:70
 msgid "Cookies"
 msgstr "കുക്കികള്‍"
 
-#: website/site-footer.html:67
+#: website/site-footer.html:74
 msgid "Legal"
 msgstr "നിയമപരം"
 
-#: website/site-footer.html:71
+#: website/site-footer.html:78
 msgid "Participation Guidelines"
 msgstr ""
 
-#: website/site-footer.html:75
+#: website/site-footer.html:82
 msgid "Report Trademark or Copyright Infringement"
 msgstr ""
 
-#: website/site-footer.html:79
+#: website/site-footer.html:86
 #, fuzzy
 msgid "Report Misuse of Thunderbird Trademark"
 msgstr "എന്താണ് തണ്ടർബേഡ്?"
 
-#: website/site-footer.html:84
+#: website/site-footer.html:91
 #, python-format
 msgid ""
 "Thunderbird is now part of\n"
@@ -353,11 +363,11 @@ msgid ""
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr "വിവരങ്ങളുടം ഈ ഭാഗങ്ങള്‍  ഓരോ mozilla.org സംഭാവനക്കാരുടെ ©1998–%(current_year)s പകര്‍പ്പവകാശത്തിലാകുന്നു. <a href=\"%(url)s\">ക്രിയേറ്റീവ് കോമണ്‍സ് ലൈസന്‍സില്‍</a> വിവരങ്ങള്‍ ലഭ്യം."
 
-#: website/site-footer.html:95
+#: website/site-footer.html:102
 msgid "Contribute to this site"
 msgstr "ഈ താളിനു് സംഭാവന നല്‍കുക"
 
-#: website/site-footer.html:98
+#: website/site-footer.html:105
 #, fuzzy
 msgid "Translate this site"
 msgstr "ഈ താളിനു് സംഭാവന നല്‍കുക"

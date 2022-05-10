@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-09-14 14:14-0700\n"
+"POT-Creation-Date: 2022-05-09 21:50-0700\n"
 "PO-Revision-Date: 2021-09-14 21:41+0000\n"
 "Last-Translator: Francesco Lodolo [:flod] <flod+pontoon@mozilla.com>\n"
 "Language-Team: none\n"
@@ -209,7 +209,7 @@ msgstr "Sistemi e lingue"
 msgid "What’s New"
 msgstr "Novità"
 
-#: website/download-button.html:69 website/site-footer.html:60
+#: website/download-button.html:69 website/site-footer.html:67
 msgid "Privacy"
 msgstr "Privacy"
 
@@ -333,27 +333,37 @@ msgstr "Lavora con noi"
 msgid "Contact Us"
 msgstr "Contattaci"
 
-#: website/site-footer.html:63
+#: website/site-footer.html:38
+#, python-format
+msgid "Follow %(twitter)s on Twitter"
+msgstr ""
+
+#: website/site-footer.html:52
+#, python-format
+msgid "Follow %(mastodon)s on Mastodon"
+msgstr ""
+
+#: website/site-footer.html:70
 msgid "Cookies"
 msgstr "Cookie"
 
-#: website/site-footer.html:67
+#: website/site-footer.html:74
 msgid "Legal"
 msgstr "Note legali"
 
-#: website/site-footer.html:71
+#: website/site-footer.html:78
 msgid "Participation Guidelines"
 msgstr "Linee guida per la partecipazione"
 
-#: website/site-footer.html:75
+#: website/site-footer.html:82
 msgid "Report Trademark or Copyright Infringement"
 msgstr "Segnala una violazione del marchio o del copyright"
 
-#: website/site-footer.html:79
+#: website/site-footer.html:86
 msgid "Report Misuse of Thunderbird Trademark"
 msgstr "Segnala un uso improprio del marchio Thunderbird"
 
-#: website/site-footer.html:84
+#: website/site-footer.html:91
 #, python-format
 msgid ""
 "Thunderbird is now part of\n"
@@ -366,11 +376,11 @@ msgstr ""
 "Thunderbird è ora parte di <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>, una società sussidiaria interamente controllata da Mozilla Foundation. Parte di questi "
 "contenuti sono ©1998–%(current_year)s di singoli collaboratori. I contenuti sono disponibili secondo la <a href=\"%(url)s\" class=\"inline-link\">licenza Creative Commons</a>."
 
-#: website/site-footer.html:95
+#: website/site-footer.html:102
 msgid "Contribute to this site"
 msgstr "Collabora allo sviluppo del sito"
 
-#: website/site-footer.html:98
+#: website/site-footer.html:105
 msgid "Translate this site"
 msgstr "Traduci questo sito"
 

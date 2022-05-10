@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-09-14 14:14-0700\n"
+"POT-Creation-Date: 2022-05-09 21:50-0700\n"
 "PO-Revision-Date: 2022-02-15 13:57+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: none\n"
@@ -208,7 +208,7 @@ msgstr "Stýrikerfi og tungumál"
 msgid "What’s New"
 msgstr "Hvað er nýtt"
 
-#: website/download-button.html:69 website/site-footer.html:60
+#: website/download-button.html:69 website/site-footer.html:67
 msgid "Privacy"
 msgstr "Friðhelgi"
 
@@ -334,27 +334,37 @@ msgstr "Störf í boði"
 msgid "Contact Us"
 msgstr "Hafa samband"
 
-#: website/site-footer.html:63
+#: website/site-footer.html:38
+#, python-format
+msgid "Follow %(twitter)s on Twitter"
+msgstr ""
+
+#: website/site-footer.html:52
+#, python-format
+msgid "Follow %(mastodon)s on Mastodon"
+msgstr ""
+
+#: website/site-footer.html:70
 msgid "Cookies"
 msgstr "Vefkökur"
 
-#: website/site-footer.html:67
+#: website/site-footer.html:74
 msgid "Legal"
 msgstr "Lagalegt efni"
 
-#: website/site-footer.html:71
+#: website/site-footer.html:78
 msgid "Participation Guidelines"
 msgstr "Leiðbeiningar varðandi þátttöku"
 
-#: website/site-footer.html:75
+#: website/site-footer.html:82
 msgid "Report Trademark or Copyright Infringement"
 msgstr "Tilkynna misnotkun á vörumerki eða höfundarréttarbrot"
 
-#: website/site-footer.html:79
+#: website/site-footer.html:86
 msgid "Report Misuse of Thunderbird Trademark"
 msgstr "Tilkynna misnotkun á Thunderbird-vörumerkinu"
 
-#: website/site-footer.html:84
+#: website/site-footer.html:91
 #, python-format
 msgid ""
 "Thunderbird is now part of\n"
@@ -371,11 +381,11 @@ msgstr ""
 "      þátttakendur. Efnið er aðgengilegt með\n"
 "      <a href=\"%(url)s\" class=\"inline-link\">Creative Commons notkunarleyfi</a>."
 
-#: website/site-footer.html:95
+#: website/site-footer.html:102
 msgid "Contribute to this site"
 msgstr "Bæta við efni á þetta vefsvæði"
 
-#: website/site-footer.html:98
+#: website/site-footer.html:105
 msgid "Translate this site"
 msgstr "Þýða þetta vefsvæði"
 
@@ -476,8 +486,8 @@ msgid ""
 "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
 "href=\"%(council)s\">on the Thunderbird wiki</a>."
 msgstr ""
-"Thunderbird-verkefninu er stjórnað af sjö ráðsmönnum, kjörnum af virkum þátttakendum Thunderbird samfélagsins. Þú getur séð núverandi kjörna meðlimi Thunderbird-ráðsins á <a "
-"href=\"%(council)s\">wiki-síðu Thunderbird</a>."
+"Thunderbird-verkefninu er stjórnað af sjö ráðsmönnum, kjörnum af virkum þátttakendum Thunderbird samfélagsins. Þú getur séð núverandi kjörna meðlimi Thunderbird-ráðsins á <a href=\"%(council)s"
+"\">wiki-síðu Thunderbird</a>."
 
 #: website/calendar/index.html:8
 msgid "Organize your life — it&rsquo;s about time!"

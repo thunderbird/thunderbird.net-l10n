@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-09-14 14:14-0700\n"
+"POT-Creation-Date: 2022-05-09 21:50-0700\n"
 "PO-Revision-Date: 2021-10-25 17:00+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: none\n"
@@ -204,7 +204,7 @@ msgstr "ระบบและภาษา"
 msgid "What’s New"
 msgstr "มีอะไรใหม่"
 
-#: website/download-button.html:69 website/site-footer.html:60
+#: website/download-button.html:69 website/site-footer.html:67
 msgid "Privacy"
 msgstr "ความเป็นส่วนตัว"
 
@@ -328,27 +328,37 @@ msgstr "ตำแหน่งงาน"
 msgid "Contact Us"
 msgstr "ติดต่อเรา"
 
-#: website/site-footer.html:63
+#: website/site-footer.html:38
+#, python-format
+msgid "Follow %(twitter)s on Twitter"
+msgstr ""
+
+#: website/site-footer.html:52
+#, python-format
+msgid "Follow %(mastodon)s on Mastodon"
+msgstr ""
+
+#: website/site-footer.html:70
 msgid "Cookies"
 msgstr "คุกกี้"
 
-#: website/site-footer.html:67
+#: website/site-footer.html:74
 msgid "Legal"
 msgstr "ข้อกฎหมาย"
 
-#: website/site-footer.html:71
+#: website/site-footer.html:78
 msgid "Participation Guidelines"
 msgstr "กรอบการมามีส่วนร่วม"
 
-#: website/site-footer.html:75
+#: website/site-footer.html:82
 msgid "Report Trademark or Copyright Infringement"
 msgstr "รายงานการละเมิดเครื่องหมายการค้าหรือลิขสิทธิ์"
 
-#: website/site-footer.html:79
+#: website/site-footer.html:86
 msgid "Report Misuse of Thunderbird Trademark"
 msgstr "รายงานการใช้เครื่องหมายการค้า Thunderbird ในทางที่ผิด"
 
-#: website/site-footer.html:84
+#: website/site-footer.html:91
 #, python-format
 msgid ""
 "Thunderbird is now part of\n"
@@ -359,11 +369,11 @@ msgid ""
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr "บางส่วนของเนื้อหานี้สงวนลิขสิทธิ์ ©1998–%(current_year)s โดยผู้มีส่วนร่วมของ mozilla.org แต่ละคน เนื้อหาใช้งานได้ภายใต้ <a href=\"%(url)s\">สัญญาอนุญาต Creative Commons</a>"
 
-#: website/site-footer.html:95
+#: website/site-footer.html:102
 msgid "Contribute to this site"
 msgstr "มีส่วนร่วมกับไซต์นี้"
 
-#: website/site-footer.html:98
+#: website/site-footer.html:105
 msgid "Translate this site"
 msgstr "แปลไซต์นี้"
 

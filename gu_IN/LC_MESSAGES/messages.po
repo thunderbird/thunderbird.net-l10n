@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-09-14 14:14-0700\n"
+"POT-Creation-Date: 2022-05-09 21:50-0700\n"
 "PO-Revision-Date: 2020-04-19 12:07+0000\n"
 "Last-Translator: Mitesh Pokar <mitesh007mitesh@gmail.com>\n"
 "Language-Team: none\n"
@@ -209,7 +209,7 @@ msgstr "સિસ્ટમો &amp; ભાષાઓ"
 msgid "What’s New"
 msgstr "નવું શું છે"
 
-#: website/download-button.html:69 website/site-footer.html:60
+#: website/download-button.html:69 website/site-footer.html:67
 msgid "Privacy"
 msgstr "ખાનગીપણું"
 
@@ -336,27 +336,37 @@ msgstr ""
 msgid "Contact Us"
 msgstr "અમારો સંપર્ક કરો"
 
-#: website/site-footer.html:63
+#: website/site-footer.html:38
+#, python-format
+msgid "Follow %(twitter)s on Twitter"
+msgstr ""
+
+#: website/site-footer.html:52
+#, python-format
+msgid "Follow %(mastodon)s on Mastodon"
+msgstr ""
+
+#: website/site-footer.html:70
 msgid "Cookies"
 msgstr "કુકીઓ"
 
-#: website/site-footer.html:67
+#: website/site-footer.html:74
 msgid "Legal"
 msgstr "કાયદાકીય"
 
-#: website/site-footer.html:71
+#: website/site-footer.html:78
 msgid "Participation Guidelines"
 msgstr ""
 
-#: website/site-footer.html:75
+#: website/site-footer.html:82
 msgid "Report Trademark or Copyright Infringement"
 msgstr ""
 
-#: website/site-footer.html:79
+#: website/site-footer.html:86
 msgid "Report Misuse of Thunderbird Trademark"
 msgstr ""
 
-#: website/site-footer.html:84
+#: website/site-footer.html:91
 #, python-format
 msgid ""
 "Thunderbird is now part of\n"
@@ -367,11 +377,11 @@ msgid ""
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr "આમાંના સમાવિષ્ટોના ભાગ ©1998–%(current_year)s માં mozilla.org ના વ્યક્તિગત ફાળો આપનારાઓના છે. સમાવિષ્ટો <a href=\"%(url)s\">Creative Commons license</a> હેઠળ ઉપલબ્ધ છે."
 
-#: website/site-footer.html:95
+#: website/site-footer.html:102
 msgid "Contribute to this site"
 msgstr "આ સાઇટમાં ફાળો આપો"
 
-#: website/site-footer.html:98
+#: website/site-footer.html:105
 #, fuzzy
 msgid "Translate this site"
 msgstr "આ સાઇટમાં ફાળો આપો"

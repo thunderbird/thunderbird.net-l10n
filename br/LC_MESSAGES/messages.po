@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-09-14 14:14-0700\n"
+"POT-Creation-Date: 2022-05-09 21:50-0700\n"
 "PO-Revision-Date: 2021-04-26 10:36+0000\n"
 "Last-Translator: Goulven <goulven.dauneau@gmail.com>\n"
 "Language-Team: none\n"
@@ -211,7 +211,7 @@ msgstr "Reizhiadoù ha yezhoù"
 msgid "What’s New"
 msgstr "Petra zo nevez"
 
-#: website/download-button.html:69 website/site-footer.html:60
+#: website/download-button.html:69 website/site-footer.html:67
 msgid "Privacy"
 msgstr "Buhez prevez"
 
@@ -338,27 +338,37 @@ msgstr "Remzadoù"
 msgid "Contact Us"
 msgstr "Kit e darempred ganeomp"
 
-#: website/site-footer.html:63
+#: website/site-footer.html:38
+#, python-format
+msgid "Follow %(twitter)s on Twitter"
+msgstr ""
+
+#: website/site-footer.html:52
+#, python-format
+msgid "Follow %(mastodon)s on Mastodon"
+msgstr ""
+
+#: website/site-footer.html:70
 msgid "Cookies"
 msgstr "Toupinoù"
 
-#: website/site-footer.html:67
+#: website/site-footer.html:74
 msgid "Legal"
 msgstr "Lezennel"
 
-#: website/site-footer.html:71
+#: website/site-footer.html:78
 msgid "Participation Guidelines"
 msgstr "Sturiadurioù ar c'hemer-perzh"
 
-#: website/site-footer.html:75
+#: website/site-footer.html:82
 msgid "Report Trademark or Copyright Infringement"
 msgstr "Danevellañ ur falsleadenn merk pe gwir aozer"
 
-#: website/site-footer.html:79
+#: website/site-footer.html:86
 msgid "Report Misuse of Thunderbird Trademark"
 msgstr "Danevellañ un drougimplij eus ar merk Thunderbird"
 
-#: website/site-footer.html:84
+#: website/site-footer.html:91
 #, python-format
 msgid ""
 "Thunderbird is now part of\n"
@@ -369,11 +379,11 @@ msgid ""
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr "Lodennoù an endalc'had-mañ zo ©1998–%(current_year)s gant perzhidi hiniennel eus mozilla.org. Endalc'had hegerz dindan termenoù al <a href=\"%(url)s\">lañvaz Creative Commons</a>."
 
-#: website/site-footer.html:95
+#: website/site-footer.html:102
 msgid "Contribute to this site"
 msgstr "Kemer perzh e-barzh ar bajenn-mañ"
 
-#: website/site-footer.html:98
+#: website/site-footer.html:105
 msgid "Translate this site"
 msgstr "Treiñ al lec'hienn-mañ"
 
