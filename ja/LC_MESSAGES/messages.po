@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-05-11 00:14-0700\n"
+"POT-Creation-Date: 2022-05-11 23:15-0700\n"
 "PO-Revision-Date: 2022-02-22 13:19+0000\n"
 "Last-Translator: dskmori <ghoti.fish.dsk@gmail.com>\n"
 "Language-Team: none\n"
@@ -384,13 +384,15 @@ msgstr "Thunderbird の公式ブログで最新のアナウンスとリリース
 msgid "Read the Blog"
 msgstr "ブログを読む"
 
-#: website/about/index.html:37 website/calendar/index.html:35 website/index.html:108
-msgid "Lightning Calendar screenshot"
-msgstr "Lightning カレンダーのスクリーンショット"
+#: website/index.html:108
+#, fuzzy
+msgid "Thunderbird Calendar screenshot"
+msgstr "Thunderbird のスクリーンショット"
 
-#: website/calendar/index.html:7 website/calendar/index.html:22 website/index.html:115
-msgid "Lightning Calendar"
-msgstr "Lightning カレンダー"
+#: website/index.html:115
+#, fuzzy
+msgid "Calendar"
+msgstr "休日カレンダー"
 
 #: website/calendar/index.html:24 website/index.html:117
 msgid "Organize your life — it’s about time!"
@@ -409,7 +411,8 @@ msgid "Explore Features"
 msgstr "機能の紹介"
 
 #: website/index.html:131
-msgid "Explore More Add-ons"
+#, fuzzy
+msgid "Explore Add-ons"
 msgstr "その他のアドオンを探す"
 
 #: website/download/index.html:35 website/download/index.html:55 website/index.html:147 website/index.html:167
@@ -553,6 +556,10 @@ msgid ""
 "standards - this focus is a rejection of our world of closed platforms and services that can’t communicate with each other. We want our users to have freedom and choice in how they communicate."
 msgstr ""
 
+#: website/about/index.html:37 website/calendar/index.html:35
+msgid "Lightning Calendar screenshot"
+msgstr "Lightning カレンダーのスクリーンショット"
+
 #: website/about/index.html:46
 msgid "Who We Are"
 msgstr "私たちについて"
@@ -583,6 +590,10 @@ msgid ""
 "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
 "href=\"%(council)s\">on the Thunderbird wiki</a>."
 msgstr ""
+
+#: website/calendar/index.html:7 website/calendar/index.html:22
+msgid "Lightning Calendar"
+msgstr "Lightning カレンダー"
 
 #: website/calendar/index.html:8
 msgid "Organize your life — it&rsquo;s about time!"

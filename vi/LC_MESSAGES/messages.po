@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-05-11 00:14-0700\n"
+"POT-Creation-Date: 2022-05-11 23:15-0700\n"
 "PO-Revision-Date: 2021-09-14 21:42+0000\n"
 "Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
 "Language-Team: none\n"
@@ -397,13 +397,15 @@ msgstr "Luôn cập nhật những thông báo và phát hành gần đây bằn
 msgid "Read the Blog"
 msgstr "Đọc blog"
 
-#: website/about/index.html:37 website/calendar/index.html:35 website/index.html:108
-msgid "Lightning Calendar screenshot"
-msgstr "Ảnh chụp màn hình Lightning Calendar"
+#: website/index.html:108
+#, fuzzy
+msgid "Thunderbird Calendar screenshot"
+msgstr "Ảnh chụp màn hình Thunderbird"
 
-#: website/calendar/index.html:7 website/calendar/index.html:22 website/index.html:115
-msgid "Lightning Calendar"
-msgstr "Lightning Calendar"
+#: website/index.html:115
+#, fuzzy
+msgid "Calendar"
+msgstr "Lịch nghỉ lễ"
 
 #: website/calendar/index.html:24 website/index.html:117
 msgid "Organize your life — it’s about time!"
@@ -422,7 +424,8 @@ msgid "Explore Features"
 msgstr "Khám phá các tính năng"
 
 #: website/index.html:131
-msgid "Explore More Add-ons"
+#, fuzzy
+msgid "Explore Add-ons"
 msgstr "Khám phá thêm các tiện ích mở rộng"
 
 #: website/download/index.html:35 website/download/index.html:55 website/index.html:147 website/index.html:167
@@ -569,6 +572,10 @@ msgstr ""
 " thúc đẩy các tiêu chuẩn mở - trọng tâm này là sự từ chối thế giới của chúng tôi về các nền tảng và dịch vụ khép kín không thể giao tiếp với nhau. Chúng tôi muốn người dùng của chúng tôi có quyền tự"
 " do và lựa chọn trong cách họ giao tiếp."
 
+#: website/about/index.html:37 website/calendar/index.html:35
+msgid "Lightning Calendar screenshot"
+msgstr "Ảnh chụp màn hình Lightning Calendar"
+
 #: website/about/index.html:46
 msgid "Who We Are"
 msgstr "Chúng ta là ai"
@@ -605,6 +612,10 @@ msgid ""
 msgstr ""
 "Dự án Thunderbird được điều hành bởi bảy ủy viên hội đồng, được bầu bởi những người đóng góp tích cực trong cộng đồng Thunderbird. Bạn có thể thấy các thành viên Hội đồng Thunderbird được bầu hiện "
 "tại <a href=\"%(council)s\">trên wiki của Thunderbird</a>."
+
+#: website/calendar/index.html:7 website/calendar/index.html:22
+msgid "Lightning Calendar"
+msgstr "Lightning Calendar"
 
 #: website/calendar/index.html:8
 msgid "Organize your life — it&rsquo;s about time!"

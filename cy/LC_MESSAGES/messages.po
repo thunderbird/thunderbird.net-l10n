@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-05-11 00:14-0700\n"
+"POT-Creation-Date: 2022-05-11 23:15-0700\n"
 "PO-Revision-Date: 2021-09-14 21:42+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language-Team: none\n"
@@ -398,13 +398,15 @@ msgstr "Cadwch yn gyfredol â chyhoeddiadau a datganiadau diweddar trwy ddilyn b
 msgid "Read the Blog"
 msgstr "Darllenwch y Blog"
 
-#: website/about/index.html:37 website/calendar/index.html:35 website/index.html:108
-msgid "Lightning Calendar screenshot"
-msgstr "Llun sgrin o Galendr Lightning"
+#: website/index.html:108
+#, fuzzy
+msgid "Thunderbird Calendar screenshot"
+msgstr "Llun sgrinThunderbird"
 
-#: website/calendar/index.html:7 website/calendar/index.html:22 website/index.html:115
-msgid "Lightning Calendar"
-msgstr "Calendr Lightning"
+#: website/index.html:115
+#, fuzzy
+msgid "Calendar"
+msgstr "Calendrau Gwyliau"
 
 #: website/calendar/index.html:24 website/index.html:117
 msgid "Organize your life — it’s about time!"
@@ -423,7 +425,8 @@ msgid "Explore Features"
 msgstr "Edrych ar y Nodweddion"
 
 #: website/index.html:131
-msgid "Explore More Add-ons"
+#, fuzzy
+msgid "Explore Add-ons"
 msgstr "Edrych ar Rhagor o Ychwanegion"
 
 #: website/download/index.html:35 website/download/index.html:55 website/index.html:147 website/index.html:167
@@ -570,6 +573,10 @@ msgstr ""
 "agored - mae'r ffocws hwn yw gwrthod ein byd o lwyfannau a gwasanaethau caeedig nad ydynt yn gallu cyfathrebu â'i gilydd. Rydym am i'n defnyddwyr gael rhyddid a dewis o ran sut maen nhw'n "
 "cyfathrebu."
 
+#: website/about/index.html:37 website/calendar/index.html:35
+msgid "Lightning Calendar screenshot"
+msgstr "Llun sgrin o Galendr Lightning"
+
 #: website/about/index.html:46
 msgid "Who We Are"
 msgstr "Pwy Ydym Ni"
@@ -606,6 +613,10 @@ msgid ""
 msgstr ""
 "Mae prosiect Thunderbird yn cael ei lywodraethu gan saith cynghorydd, wedi'u hethol gan gyfranwyr gweithredol cymuned Thunderbird. Gallwch weld aelodau etholedig presennol Cyngor Thunderbird <a "
 "href=\"%(council)s\">ar wiki Thunderbird</a>."
+
+#: website/calendar/index.html:7 website/calendar/index.html:22
+msgid "Lightning Calendar"
+msgstr "Calendr Lightning"
 
 #: website/calendar/index.html:8
 msgid "Organize your life — it&rsquo;s about time!"

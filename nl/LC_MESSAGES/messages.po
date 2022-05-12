@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-05-11 00:14-0700\n"
+"POT-Creation-Date: 2022-05-11 23:15-0700\n"
 "PO-Revision-Date: 2022-05-11 13:43+0000\n"
 "Last-Translator: Mark Heijl <markh@babelzilla.org>\n"
 "Language-Team: none\n"
@@ -389,13 +389,15 @@ msgstr "Blijf op de hoogte van recente aankondigingen en releases door het offic
 msgid "Read the Blog"
 msgstr "Het blog lezen"
 
-#: website/about/index.html:37 website/calendar/index.html:35 website/index.html:108
-msgid "Lightning Calendar screenshot"
-msgstr "Schermafdruk van Lightning Calendar"
+#: website/index.html:108
+#, fuzzy
+msgid "Thunderbird Calendar screenshot"
+msgstr "Thunderbird-schermafbeelding"
 
-#: website/calendar/index.html:7 website/calendar/index.html:22 website/index.html:115
-msgid "Lightning Calendar"
-msgstr "Lightning Calendar"
+#: website/index.html:115
+#, fuzzy
+msgid "Calendar"
+msgstr "Feestdagenagenda’s"
 
 #: website/calendar/index.html:24 website/index.html:117
 msgid "Organize your life — it’s about time!"
@@ -414,7 +416,8 @@ msgid "Explore Features"
 msgstr "Functies verkennen"
 
 #: website/index.html:131
-msgid "Explore More Add-ons"
+#, fuzzy
+msgid "Explore Add-ons"
 msgstr "Meer add-ons verkennen"
 
 #: website/download/index.html:35 website/download/index.html:55 website/index.html:147 website/index.html:167
@@ -561,6 +564,10 @@ msgstr ""
 "promotie van open standaarden - deze focus is een afwijzing van onze wereld van gesloten platformen en services die niet met elkaar kunnen communiceren. We willen dat onze gebruikers vrijheid en "
 "keuze hebben in hoe ze communiceren."
 
+#: website/about/index.html:37 website/calendar/index.html:35
+msgid "Lightning Calendar screenshot"
+msgstr "Schermafdruk van Lightning Calendar"
+
 #: website/about/index.html:46
 msgid "Who We Are"
 msgstr "Wie we zijn"
@@ -597,6 +604,10 @@ msgid ""
 msgstr ""
 "Het Thunderbird-project wordt aangestuurd door zeven raadsleden, die worden gekozen door de actieve medewerkers van de Thunderbird-gemeenschap. U kunt de huidige gekozen leden van de Thunderbird "
 "Council zien <a href=\"%(council)s\">op de Thunderbird-wiki</a>."
+
+#: website/calendar/index.html:7 website/calendar/index.html:22
+msgid "Lightning Calendar"
+msgstr "Lightning Calendar"
 
 #: website/calendar/index.html:8
 msgid "Organize your life — it&rsquo;s about time!"

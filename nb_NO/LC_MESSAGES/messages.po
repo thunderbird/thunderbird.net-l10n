@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-05-11 00:14-0700\n"
+"POT-Creation-Date: 2022-05-11 23:15-0700\n"
 "PO-Revision-Date: 2021-09-07 15:01+0000\n"
 "Last-Translator: J <jontajonta@gmail.com>\n"
 "Language-Team: none\n"
@@ -396,13 +396,15 @@ msgstr "Hold deg oppdatert med de seneste nyheter og utgaver ved å følge den o
 msgid "Read the Blog"
 msgstr "Les bloggen"
 
-#: website/about/index.html:37 website/calendar/index.html:35 website/index.html:108
-msgid "Lightning Calendar screenshot"
-msgstr "Skjermbilde av Lightning-kalender"
+#: website/index.html:108
+#, fuzzy
+msgid "Thunderbird Calendar screenshot"
+msgstr "Skjermbilde av Thunderbird"
 
-#: website/calendar/index.html:7 website/calendar/index.html:22 website/index.html:115
-msgid "Lightning Calendar"
-msgstr "Lightning-kalender"
+#: website/index.html:115
+#, fuzzy
+msgid "Calendar"
+msgstr "Helligdags-kalendere"
 
 #: website/calendar/index.html:24 website/index.html:117
 msgid "Organize your life — it’s about time!"
@@ -421,7 +423,8 @@ msgid "Explore Features"
 msgstr "Utforsk funksjoner"
 
 #: website/index.html:131
-msgid "Explore More Add-ons"
+#, fuzzy
+msgid "Explore Add-ons"
 msgstr "Utforsk flere utvidelser"
 
 #: website/download/index.html:35 website/download/index.html:55 website/index.html:147 website/index.html:167
@@ -567,6 +570,10 @@ msgstr ""
 "Thunderbird er en gratis e-post- og kalenderprogram som er enkel å konfigurere og tilpasse. Et av kjerneprinsippene til Thunderbird er bruk, og fremheving av åpne standarer - gjennom dette fokuset "
 "forkaster vi lukkede plattformer og tjenester fra vår verden som ikke kan kommunisere med hverandre. Vi vil at våre brukere skal ha frihet og valg i hvordan de kommuniserer."
 
+#: website/about/index.html:37 website/calendar/index.html:35
+msgid "Lightning Calendar screenshot"
+msgstr "Skjermbilde av Lightning-kalender"
+
 #: website/about/index.html:46
 msgid "Who We Are"
 msgstr "Hvem vi er"
@@ -602,6 +609,10 @@ msgid ""
 msgstr ""
 "Thunderbird-projektet håndteres av syv medlemmer, som er valgt av Thunderbird-fellesskapets aktive bidragsytere. Du kan finne en liste over medlemmene <a href=\"%(council)s\">på Thunderbird "
 "wiki</a>."
+
+#: website/calendar/index.html:7 website/calendar/index.html:22
+msgid "Lightning Calendar"
+msgstr "Lightning-kalender"
 
 #: website/calendar/index.html:8
 msgid "Organize your life — it&rsquo;s about time!"

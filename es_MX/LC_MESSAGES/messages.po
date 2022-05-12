@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-05-11 00:14-0700\n"
+"POT-Creation-Date: 2022-05-11 23:15-0700\n"
 "PO-Revision-Date: 2022-05-11 14:09+0000\n"
 "Last-Translator: Roberto Alvarado <ralv888@gmail.com>\n"
 "Language-Team: none\n"
@@ -400,13 +400,15 @@ msgstr "Mantente actualizado con los últimos anuncios y versiones, ¡siguiendo 
 msgid "Read the Blog"
 msgstr "Leer el blog"
 
-#: website/about/index.html:37 website/calendar/index.html:35 website/index.html:108
-msgid "Lightning Calendar screenshot"
-msgstr "Captura de pantalla del calendario Lightning"
+#: website/index.html:108
+#, fuzzy
+msgid "Thunderbird Calendar screenshot"
+msgstr "Captura de pantalla de Thunderbird"
 
-#: website/calendar/index.html:7 website/calendar/index.html:22 website/index.html:115
-msgid "Lightning Calendar"
-msgstr "Calendario Lightning"
+#: website/index.html:115
+#, fuzzy
+msgid "Calendar"
+msgstr "Calendarios festivos"
 
 #: website/calendar/index.html:24 website/index.html:117
 msgid "Organize your life — it’s about time!"
@@ -425,7 +427,8 @@ msgid "Explore Features"
 msgstr "Explorar características"
 
 #: website/index.html:131
-msgid "Explore More Add-ons"
+#, fuzzy
+msgid "Explore Add-ons"
 msgstr "Explora más complementos"
 
 #: website/download/index.html:35 website/download/index.html:55 website/index.html:147 website/index.html:167
@@ -571,6 +574,10 @@ msgstr ""
 "promover estándares abiertos; esta es una postura en contra de nuestro mundo de plataformas cerradas y servicios que no se comunican entre sí. Queremos que nuestros usuarios tengan la libertad de "
 "escoger cómo y dónde se comunican."
 
+#: website/about/index.html:37 website/calendar/index.html:35
+msgid "Lightning Calendar screenshot"
+msgstr "Captura de pantalla del calendario Lightning"
+
 #: website/about/index.html:46
 msgid "Who We Are"
 msgstr "Quiénes somos"
@@ -607,6 +614,10 @@ msgid ""
 msgstr ""
 "El proyecto Thunderbird es gobernado por siete concejales, electos por la comunidad y contribuidores activos de Thunderbird. Puedes ver los actuales miembros electos del consejo de Thunderbird <a "
 "href=\"%(council)s\">en la wiki de Thunderbird</a>."
+
+#: website/calendar/index.html:7 website/calendar/index.html:22
+msgid "Lightning Calendar"
+msgstr "Calendario Lightning"
 
 #: website/calendar/index.html:8
 msgid "Organize your life — it&rsquo;s about time!"

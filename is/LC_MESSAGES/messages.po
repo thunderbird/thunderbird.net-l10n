@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-05-11 00:14-0700\n"
+"POT-Creation-Date: 2022-05-11 23:15-0700\n"
 "PO-Revision-Date: 2022-05-11 17:25+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: none\n"
@@ -398,13 +398,15 @@ msgstr "Haltu þér upplýstri/upplýstum með nýlegum tilkynningum og útgáfu
 msgid "Read the Blog"
 msgstr "Lestu bloggið"
 
-#: website/about/index.html:37 website/calendar/index.html:35 website/index.html:108
-msgid "Lightning Calendar screenshot"
-msgstr "Skjámynd úr Lightning-dagatalinu"
+#: website/index.html:108
+#, fuzzy
+msgid "Thunderbird Calendar screenshot"
+msgstr "Thunderbird skjámynd"
 
-#: website/calendar/index.html:7 website/calendar/index.html:22 website/index.html:115
-msgid "Lightning Calendar"
-msgstr "Lightning-dagatal"
+#: website/index.html:115
+#, fuzzy
+msgid "Calendar"
+msgstr "Dagatöl með frídögum"
 
 #: website/calendar/index.html:24 website/index.html:117
 msgid "Organize your life — it’s about time!"
@@ -423,7 +425,8 @@ msgid "Explore Features"
 msgstr "Kanna eiginleika"
 
 #: website/index.html:131
-msgid "Explore More Add-ons"
+#, fuzzy
+msgid "Explore Add-ons"
 msgstr "Skoðaðu fleiri viðbætur"
 
 #: website/download/index.html:35 website/download/index.html:55 website/index.html:147 website/index.html:167
@@ -569,6 +572,10 @@ msgstr ""
 "Thunderbird er ókeypis og opinn hugbúnaður fyrir tölvupóst, fréttastreymi, spjall og dagatöl, sem auðvelt er að setja upp og sérsníða. Ein af meginreglum Thunderbird er notkun og áhersla á opnum "
 "stöðlum - þessi áhersla þýðir höfnun á heimi lokaðra kerfa og þjónustu sem geta ekki átt samskipti sín á milli. Við viljum að notendur okkar hafi frelsi og val í samskiptum sínum."
 
+#: website/about/index.html:37 website/calendar/index.html:35
+msgid "Lightning Calendar screenshot"
+msgstr "Skjámynd úr Lightning-dagatalinu"
+
 #: website/about/index.html:46
 msgid "Who We Are"
 msgstr "Hver við erum"
@@ -602,8 +609,12 @@ msgid ""
 "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
 "href=\"%(council)s\">on the Thunderbird wiki</a>."
 msgstr ""
-"Thunderbird-verkefninu er stjórnað af sjö ráðsmönnum, kjörnum af virkum þátttakendum Thunderbird samfélagsins. Þú getur séð núverandi kjörna meðlimi Thunderbird-ráðsins á <a "
-"href=\"%(council)s\">wiki-síðu Thunderbird</a>."
+"Thunderbird-verkefninu er stjórnað af sjö ráðsmönnum, kjörnum af virkum þátttakendum Thunderbird samfélagsins. Þú getur séð núverandi kjörna meðlimi Thunderbird-ráðsins á <a href=\"%(council)s"
+"\">wiki-síðu Thunderbird</a>."
+
+#: website/calendar/index.html:7 website/calendar/index.html:22
+msgid "Lightning Calendar"
+msgstr "Lightning-dagatal"
 
 #: website/calendar/index.html:8
 msgid "Organize your life — it&rsquo;s about time!"

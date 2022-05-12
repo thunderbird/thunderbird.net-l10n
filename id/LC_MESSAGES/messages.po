@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-05-11 00:14-0700\n"
+"POT-Creation-Date: 2022-05-11 23:15-0700\n"
 "PO-Revision-Date: 2022-03-24 16:32+0000\n"
 "Last-Translator: Benny Chandra <bennychandra@gmail.com>\n"
 "Language-Team: none\n"
@@ -400,13 +400,15 @@ msgstr "Dapatkan informasi terbaru dan rilis terbaru dengan mengikuti Blog Thund
 msgid "Read the Blog"
 msgstr "Baca Blog"
 
-#: website/about/index.html:37 website/calendar/index.html:35 website/index.html:108
-msgid "Lightning Calendar screenshot"
-msgstr "Tangkapan layar Lightning Calendar"
+#: website/index.html:108
+#, fuzzy
+msgid "Thunderbird Calendar screenshot"
+msgstr "Tangkapan layar Thunderbird"
 
-#: website/calendar/index.html:7 website/calendar/index.html:22 website/index.html:115
-msgid "Lightning Calendar"
-msgstr "Lightning Calendar"
+#: website/index.html:115
+#, fuzzy
+msgid "Calendar"
+msgstr "Kalender Liburan"
 
 #: website/calendar/index.html:24 website/index.html:117
 msgid "Organize your life — it’s about time!"
@@ -425,7 +427,8 @@ msgid "Explore Features"
 msgstr "Jelajahi Fitur"
 
 #: website/index.html:131
-msgid "Explore More Add-ons"
+#, fuzzy
+msgid "Explore Add-ons"
 msgstr "Jelajahi Lebih Banyak Pengaya"
 
 #: website/download/index.html:35 website/download/index.html:55 website/index.html:147 website/index.html:167
@@ -575,6 +578,10 @@ msgstr ""
 "terbuka - fokus ini adalah penolakan terhadap dunia platform dan layanan tertutup di dunia kita yang tidak dapat berkomunikasi satu sama lain. Kami ingin pengguna kami memiliki kebebasan dan pilihan"
 " dalam cara mereka berkomunikasi."
 
+#: website/about/index.html:37 website/calendar/index.html:35
+msgid "Lightning Calendar screenshot"
+msgstr "Tangkapan layar Lightning Calendar"
+
 #: website/about/index.html:46
 msgid "Who We Are"
 msgstr "Siapa Kami"
@@ -610,6 +617,10 @@ msgid ""
 msgstr ""
 "Proyek Thunderbird diatur oleh tujuh anggota dewan, dipilih oleh kontributor aktif komunitas Thunderbird. Anda dapat melihat anggota Thunderbird Council terpilih saat ini <a href=\"%(council)s\">di "
 "wiki Thunderbird</a>."
+
+#: website/calendar/index.html:7 website/calendar/index.html:22
+msgid "Lightning Calendar"
+msgstr "Lightning Calendar"
 
 #: website/calendar/index.html:8
 #, fuzzy

@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-05-11 00:14-0700\n"
+"POT-Creation-Date: 2022-05-11 23:15-0700\n"
 "PO-Revision-Date: 2022-05-11 14:14+0000\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language-Team: none\n"
@@ -410,13 +410,15 @@ msgstr "Neuigkeiten zu Thunderbird und zur Einführung von neuen Software-Versio
 msgid "Read the Blog"
 msgstr "Lesen Sie den Blog"
 
-#: website/about/index.html:37 website/calendar/index.html:35 website/index.html:108
-msgid "Lightning Calendar screenshot"
-msgstr "Bildschirmfoto: Lightning-Kalender"
+#: website/index.html:108
+#, fuzzy
+msgid "Thunderbird Calendar screenshot"
+msgstr "Grafik: Bildschirmfoto von Thunderbird"
 
-#: website/calendar/index.html:7 website/calendar/index.html:22 website/index.html:115
-msgid "Lightning Calendar"
-msgstr "Lightning-Kalender"
+#: website/index.html:115
+#, fuzzy
+msgid "Calendar"
+msgstr "Ferienkalender"
 
 #: website/calendar/index.html:24 website/index.html:117
 msgid "Organize your life — it’s about time!"
@@ -435,7 +437,8 @@ msgid "Explore Features"
 msgstr "Funktionen entdecken"
 
 #: website/index.html:131
-msgid "Explore More Add-ons"
+#, fuzzy
+msgid "Explore Add-ons"
 msgstr "Entdecken Sie weitere Add-ons"
 
 #: website/download/index.html:35 website/download/index.html:55 website/index.html:147 website/index.html:167
@@ -586,6 +589,10 @@ msgstr ""
 "Förderung offener Standards – durch diesen Fokus lehnen wir die geschlossenen Plattformen und Dienste unserer Welt ab, die nicht miteinander kommunizieren können. Wir möchten, dass unsere Benutzer "
 "die Freiheit und Wahl haben, wie sie kommunizieren."
 
+#: website/about/index.html:37 website/calendar/index.html:35
+msgid "Lightning Calendar screenshot"
+msgstr "Bildschirmfoto: Lightning-Kalender"
+
 #: website/about/index.html:46
 msgid "Who We Are"
 msgstr "Wer wir sind"
@@ -622,6 +629,10 @@ msgid ""
 msgstr ""
 "Das Thunderbird-Projekt wird von sieben Ratsmitgliedern geleitet, die von den aktiven Mitwirkenden der Thunderbird-Gemeinschaft gewählt werden. Die aktuell gewählten Thunderbird-Ratsmitglieder <a "
 "href=\"%(council)s\">finden Sie im Thunderbird-Wiki</a>."
+
+#: website/calendar/index.html:7 website/calendar/index.html:22
+msgid "Lightning Calendar"
+msgstr "Lightning-Kalender"
 
 #: website/calendar/index.html:8
 msgid "Organize your life — it&rsquo;s about time!"
@@ -1110,8 +1121,8 @@ msgid ""
 "surveillance to read your messages. If you would like to learn more about how end-to-end encryption in Thunderbird works, check out our article: <a href=\"%(encryption)s\">Introduction to End-to-end"
 " encryption in Thunderbird</a>."
 msgstr ""
-"Ende-zu-Ende-Verschlüsselung für E-Mails kann verwendet werden, um sicherzustellen, dass nur der Absender und die Empfänger einer Nachricht den Inhalt lesen können. Ohne diesen Schutz ist es für "
-"E-Mail-Anbieter und Massenüberwachung einfach, Ihre Nachrichten zu lesen. Wenn Sie mehr darüber erfahren möchten, wie Ende-zu-Ende-Verschlüsselung in Thunderbird funktioniert, lesen Sie unseren "
+"Ende-zu-Ende-Verschlüsselung für E-Mails kann verwendet werden, um sicherzustellen, dass nur der Absender und die Empfänger einer Nachricht den Inhalt lesen können. Ohne diesen Schutz ist es für E"
+"-Mail-Anbieter und Massenüberwachung einfach, Ihre Nachrichten zu lesen. Wenn Sie mehr darüber erfahren möchten, wie Ende-zu-Ende-Verschlüsselung in Thunderbird funktioniert, lesen Sie unseren "
 "Artikel: <a href=\"%(encryption)s\">Einführung zur Ende-zu-Ende-Verschlüsselung in Thunderbird</a>."
 
 #: website/thunderbird/78.0/whatsnew/index.html:84

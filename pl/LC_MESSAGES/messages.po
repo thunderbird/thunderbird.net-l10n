@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-05-11 00:14-0700\n"
+"POT-Creation-Date: 2022-05-11 23:15-0700\n"
 "PO-Revision-Date: 2022-01-13 14:07+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: none\n"
@@ -395,13 +395,15 @@ msgstr "Czytaj oficjalny blog Thunderbirda, aby być na bieżąco z najnowszymi
 msgid "Read the Blog"
 msgstr "Odwiedź nasz blog"
 
-#: website/about/index.html:37 website/calendar/index.html:35 website/index.html:108
-msgid "Lightning Calendar screenshot"
-msgstr "Zrzut ekranu kalendarza Lightning"
+#: website/index.html:108
+#, fuzzy
+msgid "Thunderbird Calendar screenshot"
+msgstr "Zrzut ekranu Thunderbirda"
 
-#: website/calendar/index.html:7 website/calendar/index.html:22 website/index.html:115
-msgid "Lightning Calendar"
-msgstr "Kalendarz Lightning"
+#: website/index.html:115
+#, fuzzy
+msgid "Calendar"
+msgstr "Kalendarze świąt"
 
 #: website/calendar/index.html:24 website/index.html:117
 msgid "Organize your life — it’s about time!"
@@ -420,7 +422,8 @@ msgid "Explore Features"
 msgstr "Odkrywaj możliwości"
 
 #: website/index.html:131
-msgid "Explore More Add-ons"
+#, fuzzy
+msgid "Explore Add-ons"
 msgstr "Odkryj więcej dodatków"
 
 #: website/download/index.html:35 website/download/index.html:55 website/index.html:147 website/index.html:167
@@ -567,6 +570,10 @@ msgstr ""
 "dostosowania. Jedną z głównych zasad Thunderbirda jest używanie i promowanie otwartych standardów — odrzucamy świat zamkniętych platform i serwisów, które nie mogą komunikować się między sobą. "
 "Chcemy, aby nasi użytkownicy mieli wolność wyboru sposobu, w jaki się komunikują."
 
+#: website/about/index.html:37 website/calendar/index.html:35
+msgid "Lightning Calendar screenshot"
+msgstr "Zrzut ekranu kalendarza Lightning"
+
 #: website/about/index.html:46
 msgid "Who We Are"
 msgstr "Kim jesteśmy"
@@ -602,6 +609,10 @@ msgid ""
 msgstr ""
 "Projekt Thunderbird jest kierowany przez siedmioro radnych, wybieranych przez aktywnych uczestników społeczności Thunderbirda. <a href=\"%(council)s\">Wiki projektu</a> zawiera informacje o obecnie "
 "wybranych członkach Rady Thunderbirda."
+
+#: website/calendar/index.html:7 website/calendar/index.html:22
+msgid "Lightning Calendar"
+msgstr "Kalendarz Lightning"
 
 #: website/calendar/index.html:8
 msgid "Organize your life — it&rsquo;s about time!"

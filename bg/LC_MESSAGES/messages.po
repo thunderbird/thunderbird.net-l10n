@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-05-11 00:14-0700\n"
+"POT-Creation-Date: 2022-05-11 23:15-0700\n"
 "PO-Revision-Date: 2021-07-18 20:25+0000\n"
 "Last-Translator: :stoyan <stoyan@gmx.com>\n"
 "Language-Team: none\n"
@@ -398,13 +398,15 @@ msgstr "Бъдете в течение с последните новини и �
 msgid "Read the Blog"
 msgstr "Прочетете блога"
 
-#: website/about/index.html:37 website/calendar/index.html:35 website/index.html:108
-msgid "Lightning Calendar screenshot"
-msgstr "Снимка на екрана на календара Lightning"
+#: website/index.html:108
+#, fuzzy
+msgid "Thunderbird Calendar screenshot"
+msgstr "Снимка на екрана на Thunderbird"
 
-#: website/calendar/index.html:7 website/calendar/index.html:22 website/index.html:115
-msgid "Lightning Calendar"
-msgstr "Календарът Lightning"
+#: website/index.html:115
+#, fuzzy
+msgid "Calendar"
+msgstr "Календар на почивни дни"
 
 #: website/calendar/index.html:24 website/index.html:117
 msgid "Organize your life — it’s about time!"
@@ -423,7 +425,8 @@ msgid "Explore Features"
 msgstr "Разучете възможностите"
 
 #: website/index.html:131
-msgid "Explore More Add-ons"
+#, fuzzy
+msgid "Explore Add-ons"
 msgstr "Повече добавки"
 
 #: website/download/index.html:35 website/download/index.html:55 website/index.html:147 website/index.html:167
@@ -564,6 +567,10 @@ msgstr ""
 "популяризиране на отворени стандарти - този фокус е отхвърляне на нашия свят на затворени платформи и услуги, които не могат да взаимодействат помежду си. Искаме нашите потребители да имат свобода и"
 " избор в начина си на общуване."
 
+#: website/about/index.html:37 website/calendar/index.html:35
+msgid "Lightning Calendar screenshot"
+msgstr "Снимка на екрана на календара Lightning"
+
 #: website/about/index.html:46
 msgid "Who We Are"
 msgstr "Кои сме ние"
@@ -596,6 +603,10 @@ msgid ""
 msgstr ""
 "Проектът Thunderbird се управлява от седем съветници, избрани от активните сътрудници на общността на Thunderbird. Можете да видите текущите членове на Съвета на Thunderbird на <a "
 "href=\"%(council)s\">тяхната страница</a>."
+
+#: website/calendar/index.html:7 website/calendar/index.html:22
+msgid "Lightning Calendar"
+msgstr "Календарът Lightning"
 
 #: website/calendar/index.html:8
 msgid "Organize your life — it&rsquo;s about time!"

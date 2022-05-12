@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-05-11 00:14-0700\n"
+"POT-Creation-Date: 2022-05-11 23:15-0700\n"
 "PO-Revision-Date: 2022-03-01 04:23+0000\n"
 "Last-Translator: mari.kim <marikim36@gmail.com>\n"
 "Language-Team: none\n"
@@ -383,13 +383,15 @@ msgstr "Thunderbird 공식 블로그를 통해 최근 발표 및 출시 정보�
 msgid "Read the Blog"
 msgstr "Blog 보기"
 
-#: website/about/index.html:37 website/calendar/index.html:35 website/index.html:108
-msgid "Lightning Calendar screenshot"
-msgstr "Lightning Calendar 스크린샷"
+#: website/index.html:108
+#, fuzzy
+msgid "Thunderbird Calendar screenshot"
+msgstr "Thunderbird 스크린샷"
 
-#: website/calendar/index.html:7 website/calendar/index.html:22 website/index.html:115
-msgid "Lightning Calendar"
-msgstr "Lightning Calendar"
+#: website/index.html:115
+#, fuzzy
+msgid "Calendar"
+msgstr "연말 캘린더"
 
 #: website/calendar/index.html:24 website/index.html:117
 msgid "Organize your life — it’s about time!"
@@ -408,7 +410,8 @@ msgid "Explore Features"
 msgstr "기능 살펴보기"
 
 #: website/index.html:131
-msgid "Explore More Add-ons"
+#, fuzzy
+msgid "Explore Add-ons"
 msgstr "더 많은 부가 기능 살펴보기"
 
 #: website/download/index.html:35 website/download/index.html:55 website/index.html:147 website/index.html:167
@@ -548,6 +551,10 @@ msgstr ""
 "Thunderbird는 쉽게 설정하고 개인화할 수 있는 무료 오픈소스 이메일, 뉴스피드, 채팅, 캘린더 클라이언트입니다. Thunderbird의 핵심 원리 중 하나는 공개 표준을 사용, 촉진하는 것으로 폐쇄적인 플랫폼과 서비스로 인해 서로 간 소통이 불가능한 세상을 만들지 않겠다는 목표를 가지고 있습니다. 우리는 사용자가 커뮤니케이션 방식을 결정하는 데"
 " 자유와 선택권이 있기를 바랍니다."
 
+#: website/about/index.html:37 website/calendar/index.html:35
+msgid "Lightning Calendar screenshot"
+msgstr "Lightning Calendar 스크린샷"
+
 #: website/about/index.html:46
 msgid "Who We Are"
 msgstr "만드는 사람들"
@@ -580,6 +587,10 @@ msgid ""
 "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
 "href=\"%(council)s\">on the Thunderbird wiki</a>."
 msgstr "Thunderbird 프로젝트는 Thunderbird 커뮤니티의 중요 기여자가 선출한 7명의 위원이 운영합니다. <a href=\"%(council)s\">Thunderbird 위키</a>에서 현재 선출된 Thunderbird 위원을 확인할 수 있습니다."
+
+#: website/calendar/index.html:7 website/calendar/index.html:22
+msgid "Lightning Calendar"
+msgstr "Lightning Calendar"
 
 #: website/calendar/index.html:8
 msgid "Organize your life — it&rsquo;s about time!"

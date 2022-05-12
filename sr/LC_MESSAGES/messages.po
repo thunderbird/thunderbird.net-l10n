@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-05-11 00:14-0700\n"
+"POT-Creation-Date: 2022-05-11 23:15-0700\n"
 "PO-Revision-Date: 2021-07-14 09:32+0000\n"
 "Last-Translator: Isidora Jukić <barad.dur@yahoo.com>\n"
 "Language-Team: none\n"
@@ -397,13 +397,15 @@ msgstr "Будите у току с најновијим објавама и и�
 msgid "Read the Blog"
 msgstr "Читајте блог"
 
-#: website/about/index.html:37 website/calendar/index.html:35 website/index.html:108
-msgid "Lightning Calendar screenshot"
-msgstr "Снимак екрана Lightning календара"
+#: website/index.html:108
+#, fuzzy
+msgid "Thunderbird Calendar screenshot"
+msgstr "Снимак Thunderbird-а"
 
-#: website/calendar/index.html:7 website/calendar/index.html:22 website/index.html:115
-msgid "Lightning Calendar"
-msgstr "Lightning календар"
+#: website/index.html:115
+#, fuzzy
+msgid "Calendar"
+msgstr "Празнични календари"
 
 #: website/calendar/index.html:24 website/index.html:117
 msgid "Organize your life — it’s about time!"
@@ -422,7 +424,8 @@ msgid "Explore Features"
 msgstr "Истражите функције"
 
 #: website/index.html:131
-msgid "Explore More Add-ons"
+#, fuzzy
+msgid "Explore Add-ons"
 msgstr "Истражите додатке"
 
 #: website/download/index.html:35 website/download/index.html:55 website/index.html:147 website/index.html:167
@@ -569,6 +572,10 @@ msgstr ""
 "отворених стандарда - овај приступ супротставља се свету затворених платформи и услуга који не могу међусобно да комуницирају. Желимо да наши корисници имају слободу и избор у начину на који "
 "комуницирају."
 
+#: website/about/index.html:37 website/calendar/index.html:35
+msgid "Lightning Calendar screenshot"
+msgstr "Снимак екрана Lightning календара"
+
 #: website/about/index.html:46
 msgid "Who We Are"
 msgstr "Ко смо ми"
@@ -604,6 +611,10 @@ msgid ""
 msgstr ""
 "Thunderbird пројектом управља седам одборника, изабраних од стране Thunderbird активних сарадника заједнице. Можете видети садашње изабране чланове Thunderbird Council-а <a href=\"%(council)s\">на "
 "Thunderbird wiki страници</a>."
+
+#: website/calendar/index.html:7 website/calendar/index.html:22
+msgid "Lightning Calendar"
+msgstr "Lightning календар"
 
 #: website/calendar/index.html:8
 msgid "Organize your life — it&rsquo;s about time!"

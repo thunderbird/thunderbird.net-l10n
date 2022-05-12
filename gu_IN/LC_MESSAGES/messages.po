@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-05-11 00:14-0700\n"
+"POT-Creation-Date: 2022-05-11 23:15-0700\n"
 "PO-Revision-Date: 2020-04-19 12:07+0000\n"
 "Last-Translator: Mitesh Pokar <mitesh007mitesh@gmail.com>\n"
 "Language-Team: none\n"
@@ -402,12 +402,13 @@ msgstr ""
 msgid "Read the Blog"
 msgstr ""
 
-#: website/about/index.html:37 website/calendar/index.html:35 website/index.html:108
-msgid "Lightning Calendar screenshot"
-msgstr ""
+#: website/index.html:108
+#, fuzzy
+msgid "Thunderbird Calendar screenshot"
+msgstr "Thunderbird સ્ક્રીનશોટ"
 
-#: website/calendar/index.html:7 website/calendar/index.html:22 website/index.html:115
-msgid "Lightning Calendar"
+#: website/index.html:115
+msgid "Calendar"
 msgstr ""
 
 #: website/calendar/index.html:24 website/index.html:117
@@ -428,8 +429,9 @@ msgid "Explore Features"
 msgstr "લક્ષણો"
 
 #: website/index.html:131
-msgid "Explore More Add-ons"
-msgstr ""
+#, fuzzy
+msgid "Explore Add-ons"
+msgstr "એડ-ઑન્સ"
 
 #: website/download/index.html:35 website/download/index.html:55 website/index.html:147 website/index.html:167
 msgid "Mozilla"
@@ -571,6 +573,10 @@ msgid ""
 "standards - this focus is a rejection of our world of closed platforms and services that can’t communicate with each other. We want our users to have freedom and choice in how they communicate."
 msgstr ""
 
+#: website/about/index.html:37 website/calendar/index.html:35
+msgid "Lightning Calendar screenshot"
+msgstr ""
+
 #: website/about/index.html:46
 msgid "Who We Are"
 msgstr ""
@@ -600,6 +606,10 @@ msgstr ""
 msgid ""
 "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
 "href=\"%(council)s\">on the Thunderbird wiki</a>."
+msgstr ""
+
+#: website/calendar/index.html:7 website/calendar/index.html:22
+msgid "Lightning Calendar"
 msgstr ""
 
 #: website/calendar/index.html:8
