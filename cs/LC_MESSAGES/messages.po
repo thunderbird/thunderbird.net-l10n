@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-05-11 23:15-0700\n"
+"POT-Creation-Date: 2022-06-03 02:32-0700\n"
 "PO-Revision-Date: 2022-05-28 08:37+0000\n"
 "Last-Translator: Michal Stanke <mstanke@mozilla.cz>\n"
 "Language-Team: none\n"
@@ -225,8 +225,8 @@ msgstr ""
 "Myslíte, že jste našli problém v Thunderbirdu? <a href=\"%(bug)s\">Nahlaste nám ho prosím</a>, abychom ho mohli co nejdříve vyřešit. Pomoc při hledání, hlášení a opravování chyb pomáhá vylepšit "
 "Thunderbird pro všechny."
 
-#: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:142
-#: website/index.html:161 website/site-footer.html:4 website/site-footer.html:48 website/site-prefooter.html:51 website/site-prefooter.html:54
+#: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:149
+#: website/index.html:168 website/site-footer.html:4 website/site-footer.html:48 website/site-prefooter.html:51 website/site-prefooter.html:54
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
@@ -251,7 +251,7 @@ msgstr "Vektorové logo Thunderbird"
 msgid "Features"
 msgstr "Vlastnosti"
 
-#: website/base-resp.html:36
+#: website/base-resp.html:36 website/download/beta/index.html:65
 msgid "Add-ons"
 msgstr "Doplňky"
 
@@ -291,37 +291,37 @@ msgstr "Váš e-mail"
 msgid "Sign me up!"
 msgstr "Přihlásit!"
 
-#: website/download-button.html:10 website/download-button.html:57 website/download/index.html:9 website/site-prefooter.html:59
+#: website/download-button.html:13 website/download-button.html:60 website/download/index.html:9 website/site-prefooter.html:59
 msgid "Download Thunderbird"
 msgstr "Stáhnout Thunderbird"
 
-#: website/download-button.html:35
+#: website/download-button.html:38
 #, python-format
 msgid "Your system doesn't meet the <a href=\"%(url)s\">requirements</a> to run Thunderbird."
 msgstr "Váš systém nesplňuje <a href=\"%(url)s\">požadavky</a> pro běh Thunderbirdu."
 
-#: website/download-button.html:38
+#: website/download-button.html:41
 #, python-format
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
 msgstr "Pro instalaci Thunderbirdu prosím <a href=\"%(url)s\">postupujte podle těchto pokynů</a>."
 
-#: website/download-button.html:53 website/site-prefooter.html:66
+#: website/download-button.html:56 website/download/beta/index.html:7 website/site-prefooter.html:66
 msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
-#: website/download-button.html:55 website/site-prefooter.html:81 website/site-prefooter.html:84
+#: website/download-button.html:58 website/site-prefooter.html:81 website/site-prefooter.html:84
 msgid "Thunderbird Daily"
 msgstr "Thunderbird Daily"
 
-#: website/download-button.html:66
+#: website/download-button.html:69
 msgid "Systems &amp; Languages"
 msgstr "Systémy a jazyky"
 
-#: website/download-button.html:67
+#: website/download-button.html:70
 msgid "What’s New"
 msgstr "Co je nového"
 
-#: website/download-button.html:69 website/site-footer.html:67
+#: website/download-button.html:72 website/site-footer.html:67
 msgid "Privacy"
 msgstr "Soukromí"
 
@@ -337,87 +337,99 @@ msgstr "Thunderbird je poštovní program, který je snadno nastavitelný, přiz
 msgid "Free Download"
 msgstr "Stáhnout zdarma"
 
-#: website/download/index.html:23 website/index.html:21
+#: website/index.html:21
+msgid "Want to try new features early?"
+msgstr ""
+
+#: website/index.html:22
+msgid "Get the beta and be a part of the future of Thunderbird!"
+msgstr ""
+
+#: website/index.html:24
+msgid "Get the Beta"
+msgstr ""
+
+#: website/download/index.html:23 website/index.html:28
 msgid "Thunderbird screenshot"
 msgstr "Snímky Thunderbirdu"
 
-#: website/index.html:29
+#: website/index.html:36
 msgid "Tailored for all your needs"
 msgstr "Upravený přesně pro vás"
 
-#: website/index.html:32
+#: website/index.html:39
 msgid "Thunderbird makes email better for you, bringing together speed, privacy and the latest technologies. Focus on what matters and forget about complexity."
 msgstr "Thunderbird přináší lepší správu e-mailů. Je rychlý, používá moderní technologie a nešpehuje vás. S ním se můžete zaměřit na to, na čem záleží."
 
-#: website/index.html:34
+#: website/index.html:41
 msgid "Explore all Features"
 msgstr "Prozkoumejte všechny funkce"
 
-#: website/index.html:41
+#: website/index.html:48
 msgid "Secure &amp; Private"
 msgstr "Bezpečný a soukromý"
 
-#: website/index.html:44
+#: website/index.html:51
 msgid "Multiple features, such as built-in Do Not Track and remote content blocking, work together to ensure your safety and privacy, so you can have peace of mind."
 msgstr "Vaši bezpečnost a soukromí zajišťují funkce jako Do Not Track nebo blokování vzdáleného obsahu, takže můžete číst své e-maily zcela bez obav."
 
-#: website/index.html:46
+#: website/index.html:53
 msgid "Know your rights"
 msgstr "Poznejte svá práva"
 
-#: website/index.html:53
+#: website/index.html:60
 msgid "Highly Customizable"
 msgstr "Vysoce přizpůsobitelný"
 
-#: website/index.html:56
+#: website/index.html:63
 msgid "With Add-ons (Extensions & Themes) and many more features you can change the look and feel of Thunderbird in an instant."
 msgstr "Doplňky (rozšíření a vzhledy) můžete do svého Thunderbirdu v mžiku přidat nové funkce nebo změnit jeho vzhled."
 
-#: website/index.html:58
+#: website/index.html:65
 msgid "Make it personal"
 msgstr "Přizpůsobte si ho"
 
-#: website/index.html:70
+#: website/index.html:77
 msgid "Stay in the loop"
 msgstr "Zůstaňte v obraze"
 
-#: website/index.html:73
+#: website/index.html:80
 msgid "Keep yourself up to date with recent announcements and releases by following the official Thunderbird Blog!"
 msgstr "Sledujte oficiální blog Thunderbirdu a udržte si přehled o nových oznámeních a vydáních."
 
-#: website/index.html:97
+#: website/index.html:104
 msgid "Read the Blog"
 msgstr "Přečtěte si blog"
 
-#: website/index.html:108
+#: website/index.html:115
 msgid "Thunderbird Calendar screenshot"
 msgstr "Snímky kalendáře Thunderbirdu"
 
-#: website/index.html:115
+#: website/index.html:122
 msgid "Calendar"
 msgstr "Kalendář"
 
-#: website/calendar/index.html:24 website/index.html:117
+#: website/calendar/index.html:24 website/index.html:124
 msgid "Organize your life — it’s about time!"
 msgstr "Uspořádejte svůj život — už je čas."
 
-#: website/index.html:122
+#: website/index.html:129
 msgid "Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird email."
 msgstr "Uspořádejte svůj časový rozvrh a nenechte si utéct důležité události s kalendářem plně integrovaným do Thunderbirdu."
 
-#: website/index.html:125
+#: website/index.html:132
 msgid "Manage multiple calendars, create your daily to do list, invite friends to events, and subscribe to public calendars."
 msgstr "Spravujte i několik kalendářů najednou, vytvářejte si denní seznam úkolů, pozvěte své přátele na důležité události a sledujte veřejné kalendáře."
 
-#: website/index.html:128
+#: website/index.html:135
 msgid "Explore Features"
 msgstr "Vlastnosti"
 
-#: website/index.html:131
+#: website/index.html:138
 msgid "Explore Add-ons"
 msgstr "Prozkoumat doplňky"
 
-#: website/download/index.html:35 website/download/index.html:55 website/index.html:147 website/index.html:167
+#: website/download/index.html:35 website/download/index.html:55 website/index.html:154 website/index.html:174
 msgid "Mozilla"
 msgstr "Mozilla"
 
@@ -520,7 +532,7 @@ msgstr "Budoucnost Thunderbirdu"
 msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
 msgstr "Vyzkoušejte nejnovější funkce, zašlete nám zpětnou vazbu a pomozte nám dovést další finální vydání k dokonalosti."
 
-#: website/site-prefooter.html:74
+#: website/download/beta/index.html:32 website/site-prefooter.html:74
 msgid "Download Beta"
 msgstr "Stáhnout betaverzi"
 
@@ -695,6 +707,206 @@ msgstr "Vytvořte Pull request nebo Issue v <a href=\"%(contribute_url)s\">naše
 #: website/download/index.html:10
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
 msgstr "Stahování by mělo automaticky začít během několika sekund. Pokud ne, zkuste použít tlačítko níže."
+
+#: website/download/beta/index.html:15 website/download/beta/index.html:36
+msgid "Should I use Beta?"
+msgstr ""
+
+#: website/download/beta/index.html:18 website/download/beta/index.html:74
+msgid "How to install and run Beta"
+msgstr ""
+
+#: website/download/beta/index.html:21 website/download/beta/index.html:108
+msgid "How do I go back to the regular release version?"
+msgstr ""
+
+#: website/download/beta/index.html:24 website/download/beta/index.html:131
+msgid "Resources and Assistance"
+msgstr ""
+
+#: website/download/beta/index.html:43
+msgid ""
+"Do you want to help the global Thunderbird community by discovering and reporting bugs? Then beta is a great choice for you, because it gets fixes and <a href=\"https://support.mozilla.org/kb/new-"
+"thunderbird-102\">new features</a> long before they reach release!"
+msgstr ""
+
+#: website/download/beta/index.html:46
+msgid ""
+"Now is a good time to jump in, because through June 2022 we expect the Thunderbird beta to be more stable than normal. That’s because development is frozen so we can touch up <a "
+"href=\"https://blog.thunderbird.net/2022/05/7-great-new-features-coming-to-thunderbird-102/\">version 102’s new features.</a>"
+msgstr ""
+
+#: website/download/beta/index.html:48
+msgid "Important Considerations"
+msgstr ""
+
+#: website/download/beta/index.html:50
+msgid "Before you download and test the beta, there are some important considerations to be aware of:"
+msgstr ""
+
+#: website/download/beta/index.html:53
+msgid "Beta installation will <u>replace</u> your currently installed program, unless you use the instructions in <a href=\"#howto\">How to install and run Beta</a>."
+msgstr ""
+
+#: website/download/beta/index.html:54
+msgid "Please do <a href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-data#w_backing-up-a-profile\">regular backups</a> to protect your Thunderbird data profiles."
+msgstr ""
+
+#: website/download/beta/index.html:55
+msgid ""
+"New features may be incomplete works in progress, because some are completed and polished over a period of weeks. The <a href=\"https://thunderbird.topicbox.com/groups/beta\">beta forum</a> may "
+"provide more information on feature progress."
+msgstr ""
+
+#: website/download/beta/index.html:56
+msgid ""
+"Flaws are to be expected. High-impact flaws, including data loss, are very rare, but may occur. Protect yourself with <a href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-"
+"data#w_backing-up-a-profile\">backups</a>. Low-impact flaws may not be fixed quickly, because fixes are prioritized based on impact."
+msgstr ""
+
+#: website/download/beta/index.html:57
+msgid "Expect seven updates per month, one major update per month plus several small updates. This frequency of updates allows us to make fast improvements."
+msgstr ""
+
+#: website/download/beta/index.html:58
+msgid ""
+"Are you using <a href=\"https://support.mozilla.org/kb/difference-between-imap-and-pop3\">POP accounts</a>? Unlike IMAP accounts, the only copy of your pop mail is in your local Thunderbird profile."
+" If you want to add a POP account to beta, your options are:"
+msgstr ""
+
+#: website/download/beta/index.html:60
+msgid ""
+"After set up, go to <b>≡ > Account Settings > Server Settings</b> and make sure the <b>\"Leave messages on server\"</b> option is <b>checked</b>, and the <b>\"For at most [X] days\"</b> option is "
+"<b>unchecked</b>."
+msgstr ""
+
+#: website/download/beta/index.html:61
+msgid ""
+"Keep the default settings. Messages will be removed from the server 14 days after download, so you will need to either stay on beta, or learn how to move your POP data back to the release profile."
+msgstr ""
+
+#: website/download/beta/index.html:63
+msgid ""
+"If you have <a href=\"https://support.mozilla.org/kb/organize-your-messages-using-filters\">mail filters</a> that, for example, move mail to local folders, then you must decide where to run filters "
+"- in your beta profile or your other profile."
+msgstr ""
+
+#: website/download/beta/index.html:67
+msgid ""
+"Add-on authors are not obligated to make their add-ons work in beta. Some or all of your add-ons may not work. Or if they do work today, they may not work tomorrow. Consult the <a "
+"href=\"https://support.mozilla.org/kb/thunderbird-add-ons-frequently-asked-questions#w_what-if-my-add-on-is-broken\">Add-ons FAQ</a> if you have difficulty. "
+msgstr ""
+
+#: website/download/beta/index.html:81
+msgid "You have two choices for installing beta: Option 1 allows you to run the beta alongside the Stable version of Thunderbird, and Option 2 upgrades your existing installation."
+msgstr ""
+
+#: website/download/beta/index.html:84
+msgid "Run Stable and Beta side-by-side (recommended)."
+msgstr ""
+
+#: website/download/beta/index.html:86
+msgid ""
+"Thunderbird 102 and newer on Windows will install beta into its own program directory. For older versions on Windows consult the <a href=\"https://support.mozilla.org/en-US/kb/thunderbird-"
+"beta\">beta support article</a>. For other operating systems use an install method appropriate for your OS to target a uniquely named directory."
+msgstr ""
+
+#: website/download/beta/index.html:89
+msgid ""
+"This choice has the advantage of forcing a <a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-thunderbird-installation\">dedicated profile</a> for each Thunderbird, which allows you to"
+" have both the release version and the beta version operate independently. So you can:"
+msgstr ""
+
+#: website/download/beta/index.html:92
+msgid "Start the <b>release</b> version of Thunderbird (with beta not running) and it will use the <b>\"default\" (or default-release)</b> profile."
+msgstr ""
+
+#: website/download/beta/index.html:93
+msgid ""
+"Start the <b>beta</b> version of Thunderbird (with release version not running) and it will use the <b>default-beta</b> profile. On first use Thunderbird will create the <b>default-beta</b> profile,"
+" and it will prompt you to define your accounts. If you need to bring some data from your release profile into the beta profile, consult the <a href=\"https://support.mozilla.org/kb/thunderbird-"
+"beta\">beta support article.</a>"
+msgstr ""
+
+#: website/download/beta/index.html:95
+msgid "Upgrade your existing Thunderbird installation to beta."
+msgstr ""
+
+#: website/download/beta/index.html:97
+msgid ""
+"Simply install beta over top of your current program directory, using the default installer choices. Beta will then <u>use your current (production) default profile</u>. Because it uses your default"
+" profile, this choice makes it more difficult to switch back to using a release version should you wish to do so in the future. In other words, you should not switch back and forth between beta and "
+"normal release using the same profile."
+msgstr ""
+
+#: website/download/beta/index.html:100
+msgid "For very detailed information about both methods, please check the <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">beta support article.</a>"
+msgstr ""
+
+#: website/download/beta/index.html:115
+msgid ""
+"If you installed the beta over the top of the release version (choice 2 above), then your process will be more complicated. Please consult this <a href=\"https://support.mozilla.org/kb/thunderbird-"
+"beta\">beta support article.</a>"
+msgstr ""
+
+#: website/download/beta/index.html:118
+msgid ""
+"If you installed the beta program into its own program directory (choice 1 above) and you used a <a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-thunderbird-installation\">dedicated"
+" profile per Thunderbird</a>, then start the release version of Thunderbird and it should use your release version profile data. If you no longer want to use the beta version, and do not need any of"
+" the beta data (address books, local folders, pop folders, etc), and wish to remove the beta data and beta program from your system:"
+msgstr ""
+
+#: website/download/beta/index.html:121
+msgid "Start the release version of Thunderbird to use the <a href=\"https://support.mozilla.org/kb/profile-manager-create-and-remove-thunderbird-profiles\">profile manager.</a>"
+msgstr ""
+
+#: website/download/beta/index.html:122
+msgid "Find and delete the beta profile, default name is <b>“default-beta”</b>."
+msgstr ""
+
+#: website/download/beta/index.html:123
+msgid "Delete the beta version’s program directory. "
+msgstr ""
+
+#: website/download/beta/index.html:125
+msgid "If you need to copy data from the beta profile to your release profile, please consult the <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">beta support article.</a>"
+msgstr ""
+
+#: website/download/beta/index.html:138
+msgid "Open the Thunderbird Help menu to check the useful tools and references. Important items to note:"
+msgstr ""
+
+#: website/download/beta/index.html:141
+msgid "Release notes are provided for every update in:"
+msgstr ""
+
+#: website/download/beta/index.html:143
+msgid "≡ > Help > About > Release Notes."
+msgstr ""
+
+#: website/download/beta/index.html:146
+msgid "Please post questions about normal Thunderbird usage in <a href=\"https://support.mozilla.org/questions/new/thunderbird/form\">Thunderbird support</a>. "
+msgstr ""
+
+#: website/download/beta/index.html:147
+msgid ""
+"Ask beta specific assistance questions and comments in <a href=\"https://thunderbird.topicbox.com/groups/beta\">the beta forum</a>, or browse it to see what other beta users are discussing. The "
+"forum operates in English, so if you need assistance in another language please ask for help in <a href=\"https://support.mozilla.org/questions/new/thunderbird/form\">Thunderbird support</a>."
+msgstr ""
+
+#: website/download/beta/index.html:148
+msgid ""
+"If you find a problem, try to <a href=\"https://support.mozilla.org/kb/troubleshoot-mode-thunderbird\">reproduce the problem in Troubleshoot Mode</a>, then file a bug report for <a "
+"href=\"https://bugzilla.mozilla.org/enter_bug.cgi?product=Thunderbird\">Thunderbird</a> or <a href=\"https://bugzilla.mozilla.org/enter_bug.cgi?product=Calendar\">Calendar</a>."
+msgstr ""
+
+#: website/download/beta/index.html:149
+msgid "<b>≡ > Tools > Export</b> can be used to backup your profile, or to get to your profile directory quickly."
+msgstr ""
+
+#: website/download/beta/index.html:150
+msgid "<b>≡ > Go > Mail Start Page (aka Beta Start Page)</b> is a handy reference which documents several of the above items and more."
+msgstr ""
 
 #: website/features/index.html:7
 msgid "Thunderbird Features"
