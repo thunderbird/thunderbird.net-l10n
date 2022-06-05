@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-06-03 02:32-0700\n"
-"PO-Revision-Date: 2022-06-05 11:11+0000\n"
+"PO-Revision-Date: 2022-06-05 11:22+0000\n"
 "Last-Translator: Іhor Hordiichuk <igor_ck@outlook.com>\n"
 "Language-Team: none\n"
 "Language: uk\n"
@@ -891,6 +891,8 @@ msgid ""
 "If you installed the beta over the top of the release version (choice 2 above), then your process will be more complicated. Please consult this <a href=\"https://support.mozilla.org/kb/thunderbird-"
 "beta\">beta support article.</a>"
 msgstr ""
+"Якщо ви встановили бета-версію поверх версії стабільного випуску (варіант 2 вище), ваш процес буде складнішим. Перегляньте цю <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">статтю "
+"підтримки бета-версії.</a>"
 
 #: website/download/beta/index.html:118
 msgid ""
@@ -898,54 +900,62 @@ msgid ""
 " profile per Thunderbird</a>, then start the release version of Thunderbird and it should use your release version profile data. If you no longer want to use the beta version, and do not need any of"
 " the beta data (address books, local folders, pop folders, etc), and wish to remove the beta data and beta program from your system:"
 msgstr ""
+"Якщо ви встановили бета-програму в її власний каталог програм (варіант 1 вище) і використовували <a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-thunderbird-installation\">виділений"
+" профіль для Thunderbird</a>, тоді запустіть версію Thunderbird, і вона має використовувати дані профілю вашої версії стабільного випуску. Якщо ви більше не хочете використовувати бета-версію та не "
+"потребуєте жодних бета-даних (адресні книги, локальні теки тощо), а також хочете видалити дані бета-версії та програму бета-версії зі своєї системи:"
 
 #: website/download/beta/index.html:121
 msgid "Start the release version of Thunderbird to use the <a href=\"https://support.mozilla.org/kb/profile-manager-create-and-remove-thunderbird-profiles\">profile manager.</a>"
-msgstr ""
+msgstr "Запустіть стабільний випуск Thunderbird, щоб використовувати <a href=\"https://support.mozilla.org/kb/profile-manager-create-and-remove-thunderbird-profiles\">менеджер профілів.</a>"
 
 #: website/download/beta/index.html:122
 msgid "Find and delete the beta profile, default name is <b>“default-beta”</b>."
-msgstr ""
+msgstr "Знайдіть і видаліть бета-профіль, типова назва <b>“default-beta”</b>."
 
 #: website/download/beta/index.html:123
 msgid "Delete the beta version’s program directory. "
-msgstr ""
+msgstr "Видаліть каталог програми бета-версії."
 
 #: website/download/beta/index.html:125
 msgid "If you need to copy data from the beta profile to your release profile, please consult the <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">beta support article.</a>"
-msgstr ""
+msgstr "Якщо вам потрібно скопіювати дані з профілю бета-версії до профілю стабільного випуску, перегляньте <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">статтю підтримки бета-версії.</a>"
 
 #: website/download/beta/index.html:138
 msgid "Open the Thunderbird Help menu to check the useful tools and references. Important items to note:"
-msgstr ""
+msgstr "Відкрийте меню довідки Thunderbird, щоб переглянути корисні інструменти та посилання. Важливі елементи, на які слід звернути увагу:"
 
 #: website/download/beta/index.html:141
 msgid "Release notes are provided for every update in:"
-msgstr ""
+msgstr "Примітки до випуску надаються до кожного оновлення в:"
 
 #: website/download/beta/index.html:143
 msgid "≡ > Help > About > Release Notes."
-msgstr ""
+msgstr "≡ > Довідка > Про > Примітки до випуску."
 
 #: website/download/beta/index.html:146
 msgid "Please post questions about normal Thunderbird usage in <a href=\"https://support.mozilla.org/questions/new/thunderbird/form\">Thunderbird support</a>. "
-msgstr ""
+msgstr "Залишайте запитання щодо нормального використання Thunderbird у <a href=\"https://support.mozilla.org/questions/new/thunderbird/form\">підтримці Thunderbird</a>."
 
 #: website/download/beta/index.html:147
 msgid ""
 "Ask beta specific assistance questions and comments in <a href=\"https://thunderbird.topicbox.com/groups/beta\">the beta forum</a>, or browse it to see what other beta users are discussing. The "
 "forum operates in English, so if you need assistance in another language please ask for help in <a href=\"https://support.mozilla.org/questions/new/thunderbird/form\">Thunderbird support</a>."
 msgstr ""
+"Залиште запитання щодо допомоги та коментарі щодо бета-версії на <a href=\"https://thunderbird.topicbox.com/groups/beta\">форумі бета-версії</a> або перегляньте його, щоб дізнатися, що обговорюють "
+"інші користувачі бета-версії. Форум працює англійською мовою, тому, якщо вам потрібна допомога іншою мовою, зверніться по допомогу до <a "
+"href=\"https://support.mozilla.org/questions/new/thunderbird/form\">підтримки Thunderbird</a>."
 
 #: website/download/beta/index.html:148
 msgid ""
 "If you find a problem, try to <a href=\"https://support.mozilla.org/kb/troubleshoot-mode-thunderbird\">reproduce the problem in Troubleshoot Mode</a>, then file a bug report for <a "
 "href=\"https://bugzilla.mozilla.org/enter_bug.cgi?product=Thunderbird\">Thunderbird</a> or <a href=\"https://bugzilla.mozilla.org/enter_bug.cgi?product=Calendar\">Calendar</a>."
 msgstr ""
+"Якщо ви виявите проблему, спробуйте <a href=\"https://support.mozilla.org/kb/troubleshoot-mode-thunderbird\">відтворити проблему в режимі усунення проблем</a>, а потім подайте звіт про помилку для "
+"<a href=\"https://bugzilla.mozilla.org/enter_bug.cgi?product=Thunderbird\">Thunderbird</a> або <a href=\"https://bugzilla.mozilla.org/enter_bug.cgi?product=Calendar\">Календаря</a>."
 
 #: website/download/beta/index.html:149
 msgid "<b>≡ > Tools > Export</b> can be used to backup your profile, or to get to your profile directory quickly."
-msgstr ""
+msgstr "<b>≡ > Інструменти > Експорт</b> можна використовувати для резервного копіювання вашого профілю або швидкого доступу до каталогу профілю."
 
 #: website/download/beta/index.html:150
 msgid "<b>≡ > Go > Mail Start Page (aka Beta Start Page)</b> is a handy reference which documents several of the above items and more."
