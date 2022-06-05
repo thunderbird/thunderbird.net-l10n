@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-06-03 02:32-0700\n"
-"PO-Revision-Date: 2022-06-04 20:06+0000\n"
+"PO-Revision-Date: 2022-06-05 11:11+0000\n"
 "Last-Translator: Іhor Hordiichuk <igor_ck@outlook.com>\n"
 "Language-Team: none\n"
 "Language: uk\n"
@@ -811,42 +811,52 @@ msgstr ""
 msgid ""
 "Keep the default settings. Messages will be removed from the server 14 days after download, so you will need to either stay on beta, or learn how to move your POP data back to the release profile."
 msgstr ""
+"Залиште типові налаштування. Повідомлення буде видалено з сервера за 14 днів після завантаження, тому вам потрібно буде або залишитися на бета-версії, або дізнатися, як перемістити дані POP назад до"
+" профілю звичайного випуску."
 
 #: website/download/beta/index.html:63
 msgid ""
 "If you have <a href=\"https://support.mozilla.org/kb/organize-your-messages-using-filters\">mail filters</a> that, for example, move mail to local folders, then you must decide where to run filters "
 "- in your beta profile or your other profile."
 msgstr ""
+"Якщо у вас є <a href=\"https://support.mozilla.org/kb/organize-your-messages-using-filters\">поштові фільтри</a>, які, наприклад, переміщують пошту в локальні теки, тоді ви маєте вирішити, де "
+"запускати фільтри — у вашому бета-профілі чи в іншому профілі."
 
 #: website/download/beta/index.html:67
 msgid ""
 "Add-on authors are not obligated to make their add-ons work in beta. Some or all of your add-ons may not work. Or if they do work today, they may not work tomorrow. Consult the <a "
 "href=\"https://support.mozilla.org/kb/thunderbird-add-ons-frequently-asked-questions#w_what-if-my-add-on-is-broken\">Add-ons FAQ</a> if you have difficulty. "
 msgstr ""
+"Автори додатків не зобов’язані створювати свої додатки в бета-версії. Деякі або всі з них можуть не працювати. Або якщо вони працюють сьогодні, вони можуть не працювати завтра. Перегляньте <a "
+"href=\"https://support.mozilla.org/kb/thunderbird-add-ons-frequently-asked-questions#w_what-if-my-add-on-is-broken\">поширені запитання про додатки</a> якщо у вас виникли труднощі."
 
 #: website/download/beta/index.html:81
 msgid "You have two choices for installing beta: Option 1 allows you to run the beta alongside the Stable version of Thunderbird, and Option 2 upgrades your existing installation."
-msgstr ""
+msgstr "У вас є два варіанти встановлення бета-версії: варіант 1 дозволяє запускати бета-версію разом зі стабільною версією Thunderbird, а варіант 2 оновлює вашу наявну інсталяцію."
 
 #: website/download/beta/index.html:84
 msgid "Run Stable and Beta side-by-side (recommended)."
-msgstr ""
+msgstr "Запуск стабільної та бета-версії пліч-о-пліч (рекомендовано)."
 
 #: website/download/beta/index.html:86
 msgid ""
 "Thunderbird 102 and newer on Windows will install beta into its own program directory. For older versions on Windows consult the <a href=\"https://support.mozilla.org/en-US/kb/thunderbird-"
 "beta\">beta support article</a>. For other operating systems use an install method appropriate for your OS to target a uniquely named directory."
 msgstr ""
+"Thunderbird 102 і новіші для Windows встановлять бета-версію у власний каталог програми. Щоб дізнатися про старіші версії Windows, перегляньте <a href=\"https://support.mozilla.org/en-"
+"US/kb/thunderbird-beta\">статтю підтримки бета-версії</a>. Для інших операційних систем використовуйте метод встановлення, відповідний для вашої ОС, щоб націлити його на каталог з унікальною назвою."
 
 #: website/download/beta/index.html:89
 msgid ""
 "This choice has the advantage of forcing a <a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-thunderbird-installation\">dedicated profile</a> for each Thunderbird, which allows you to"
 " have both the release version and the beta version operate independently. So you can:"
 msgstr ""
+"Перевага цього вибору полягає в тому, що для кожного Thunderbird потрібно створити <a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-thunderbird-installation\">спеціальний "
+"профіль</a>, що дасть вам змогу мати як стабільний випуск, так і бета-версію, які працюватимуть незалежно. Отже, ви можете:"
 
 #: website/download/beta/index.html:92
 msgid "Start the <b>release</b> version of Thunderbird (with beta not running) and it will use the <b>\"default\" (or default-release)</b> profile."
-msgstr ""
+msgstr "Запустіть <b>стабільну</b> версію Thunderbird (бета-версія не запущена), і вона використовуватиме <b>\"типовий\" профіль (або типовий випуск)</b>."
 
 #: website/download/beta/index.html:93
 msgid ""
@@ -854,10 +864,13 @@ msgid ""
 " and it will prompt you to define your accounts. If you need to bring some data from your release profile into the beta profile, consult the <a href=\"https://support.mozilla.org/kb/thunderbird-"
 "beta\">beta support article.</a>"
 msgstr ""
+"Запустіть <b>бета-версію</b> Thunderbird (з не запущеною стабільною версією), і вона використовуватиме <b>типовий профіль бета-версії</b>. Під час першого запуску Thunderbird створить <b>типовий "
+"профіль бета-версії</b> і запропонує вам визначити свої облікові записи. Якщо вам потрібно внести деякі дані зі свого профілю стабільного випуску в профіль бета-версії, перегляньте <a "
+"href=\"https://support.mozilla.org/kb/thunderbird-beta\">статтю підтримки бета-версії.</a>"
 
 #: website/download/beta/index.html:95
 msgid "Upgrade your existing Thunderbird installation to beta."
-msgstr ""
+msgstr "Оновлення наявної інсталяції Thunderbird до бета-версії."
 
 #: website/download/beta/index.html:97
 msgid ""
@@ -865,10 +878,13 @@ msgid ""
 " profile, this choice makes it more difficult to switch back to using a release version should you wish to do so in the future. In other words, you should not switch back and forth between beta and "
 "normal release using the same profile."
 msgstr ""
+"Просто встановіть бета-версію поверх поточного каталогу програми, використовуючи типові параметри програми встановлення. Тоді бета-версія буде <u>використовувати ваш поточний (виробничий) типовий "
+"профіль</u>. Оскільки вона використовує ваш типовий профіль, цей вибір ускладнює повернення до користування версією стабільного випуску, якщо ви захочете це зробити в майбутньому. Іншими словами, ви"
+" не повинні перемикатися між бета-версією та звичайним випуском, використовуючи той самий профіль."
 
 #: website/download/beta/index.html:100
 msgid "For very detailed information about both methods, please check the <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">beta support article.</a>"
-msgstr ""
+msgstr "Щоб отримати докладні відомості про обидва методи, перегляньте <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">статтю підтримки бета-версії.</a>"
 
 #: website/download/beta/index.html:115
 msgid ""
