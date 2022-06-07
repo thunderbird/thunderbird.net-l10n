@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-06-03 02:32-0700\n"
-"PO-Revision-Date: 2022-06-07 06:21+0000\n"
+"PO-Revision-Date: 2022-06-07 06:32+0000\n"
 "Last-Translator: Balázs Meskó <meskobalazs@mailbox.org>\n"
 "Language-Team: none\n"
 "Language: hu\n"
@@ -807,31 +807,41 @@ msgid ""
 "After set up, go to <b>≡ > Account Settings > Server Settings</b> and make sure the <b>\"Leave messages on server\"</b> option is <b>checked</b>, and the <b>\"For at most [X] days\"</b> option is "
 "<b>unchecked</b>."
 msgstr ""
+"A beállítás után ugorjon a <b>≡ > Postafiók beállításai > Kiszolgáló beállításai</b> elemhez, és győződjön meg arról, hogy az <b>„Üzenetek megtartása a kiszolgálón”</b> lehetőség <b>be van "
+"jelölve</b>, de a A <b>„Legfeljebb [X] napig”</b> lehetőség <b>nincs bejelölve</b>."
 
 #: website/download/beta/index.html:61
 msgid ""
 "Keep the default settings. Messages will be removed from the server 14 days after download, so you will need to either stay on beta, or learn how to move your POP data back to the release profile."
 msgstr ""
+"Az alapértelmezett beállítások megtartása. Az üzenetek a letöltés után 14 nappal el lesznek távolítva a kiszolgálóról, így vagy maradnia kell a béta verziónál, vagy meg kell tanulnia, hogyan "
+"helyezheti vissza POP-adatait a kiadás verzió profiljába."
 
 #: website/download/beta/index.html:63
 msgid ""
 "If you have <a href=\"https://support.mozilla.org/kb/organize-your-messages-using-filters\">mail filters</a> that, for example, move mail to local folders, then you must decide where to run filters "
 "- in your beta profile or your other profile."
 msgstr ""
+"Ha rendelkezik <a href=\"https://support.mozilla.org/kb/organize-your-messages-using-filters\">levélszűrőkkel</a>, amelyek például áthelyezik a leveleket a helyi mappákba, akkor el kell döntenie, "
+"hogy hol futtatja a szűrőket – a bétaprofiljában vagy a másik profiljában."
 
 #: website/download/beta/index.html:67
 msgid ""
 "Add-on authors are not obligated to make their add-ons work in beta. Some or all of your add-ons may not work. Or if they do work today, they may not work tomorrow. Consult the <a "
 "href=\"https://support.mozilla.org/kb/thunderbird-add-ons-frequently-asked-questions#w_what-if-my-add-on-is-broken\">Add-ons FAQ</a> if you have difficulty. "
 msgstr ""
+"A kiegészítők szerzői nem kötelesek elérni, hogy a kiegészítőjük a bétaverzióban is működjön. Előfordulhat, hogy valamelyik kiegészítő nem működik, vagy akár egyik sem. Vagy ha ma még működnek is, "
+"lehet, hogy holnap már nem fognak. Tekintse meg a <a href=\"https://support.mozilla.org/kb/thunderbird-add-ons-frequently-asked-questions#w_what-if-my-add-on-is-broken\">Kiegészítőkkel kapcsolatos "
+"GYIK-et</a>, ha nehézségei vannak."
 
 #: website/download/beta/index.html:81
 msgid "You have two choices for installing beta: Option 1 allows you to run the beta alongside the Stable version of Thunderbird, and Option 2 upgrades your existing installation."
 msgstr ""
+"Két lehetőség közül választhat a béta telepítésénél: Az 1. lehetőség lehetővé teszi a béta futtatását a Thunderbird stabil verziója mellett, a 2. lehetőség pedig frissíti a meglévő telepítést."
 
 #: website/download/beta/index.html:84
 msgid "Run Stable and Beta side-by-side (recommended)."
-msgstr ""
+msgstr "A stabil és a béta verzió futtatása egymás mellett (ajánlott)."
 
 #: website/download/beta/index.html:86
 msgid ""
@@ -858,7 +868,7 @@ msgstr ""
 
 #: website/download/beta/index.html:95
 msgid "Upgrade your existing Thunderbird installation to beta."
-msgstr ""
+msgstr "A meglévő Thunderbird telepítés frissítése a bétaverzióra."
 
 #: website/download/beta/index.html:97
 msgid ""
@@ -886,31 +896,31 @@ msgstr ""
 
 #: website/download/beta/index.html:121
 msgid "Start the release version of Thunderbird to use the <a href=\"https://support.mozilla.org/kb/profile-manager-create-and-remove-thunderbird-profiles\">profile manager.</a>"
-msgstr ""
+msgstr "Indítsa el a Thunderbird kiadási verzióját a <a href=\"https://support.mozilla.org/kb/profile-manager-create-and-remove-thunderbird-profiles\">profilkezelő</a> segítségével."
 
 #: website/download/beta/index.html:122
 msgid "Find and delete the beta profile, default name is <b>“default-beta”</b>."
-msgstr ""
+msgstr "Keresse meg és törölje a béta profilt, az alapértelmezett néve <b>„default-beta”</b>."
 
 #: website/download/beta/index.html:123
 msgid "Delete the beta version’s program directory. "
-msgstr ""
+msgstr "Törölje a béta verzió programkönyvtárát."
 
 #: website/download/beta/index.html:125
 msgid "If you need to copy data from the beta profile to your release profile, please consult the <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">beta support article.</a>"
-msgstr ""
+msgstr "Ha adatokat kell másolnia a bétaprofilból a kiadási verzió profiljába, akkor olvassa el a <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">béta támogatási leírást</a>."
 
 #: website/download/beta/index.html:138
 msgid "Open the Thunderbird Help menu to check the useful tools and references. Important items to note:"
-msgstr ""
+msgstr "Nyissa meg a Thunderbird Súgó menüjét a hasznos eszközök és hivatkozások megtekintéséhez. Fontos elemek:"
 
 #: website/download/beta/index.html:141
 msgid "Release notes are provided for every update in:"
-msgstr ""
+msgstr "Az egyes frissítések kiadási megjegyzései a következő helyen találhatók:"
 
 #: website/download/beta/index.html:143
 msgid "≡ > Help > About > Release Notes."
-msgstr ""
+msgstr "≡ > Súgó > Névjegy > Kiadási megjegyzések."
 
 #: website/download/beta/index.html:146
 msgid "Please post questions about normal Thunderbird usage in <a href=\"https://support.mozilla.org/questions/new/thunderbird/form\">Thunderbird support</a>. "
