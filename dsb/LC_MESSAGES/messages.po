@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-06-03 02:32-0700\n"
-"PO-Revision-Date: 2022-06-08 15:34+0000\n"
+"PO-Revision-Date: 2022-06-08 18:51+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language-Team: none\n"
 "Language: dsb\n"
@@ -798,22 +798,29 @@ msgstr ""
 msgid ""
 "Keep the default settings. Messages will be removed from the server 14 days after download, so you will need to either stay on beta, or learn how to move your POP data back to the release profile."
 msgstr ""
+"Wobchowajśo standardne nastajenja. Powěsći se 14 dnjow pó ześěgowanju wót serwera wótwónoźiju, togodla musyśo pak betawersiju dalej wužywaś pak wuknuś, kak móžośo swóje POP-daty do profila swójeje "
+"stabilneje wersije pśesunuś."
 
 #: website/download/beta/index.html:63
 msgid ""
 "If you have <a href=\"https://support.mozilla.org/kb/organize-your-messages-using-filters\">mail filters</a> that, for example, move mail to local folders, then you must decide where to run filters "
 "- in your beta profile or your other profile."
 msgstr ""
+"Jolic maśo <a href=\"https://support.mozilla.org/kb/organize-your-messages-using-filters\">e-mailowe filtry</a>, kótarež, na pśikład, mejlki do lokalnych zarědnikow pśesuwaju, musyśo rozsuźiś, źož "
+"se maju filtry wuwjasć – w swójom betaprofilu abo w swójom drugem profilu."
 
 #: website/download/beta/index.html:67
 msgid ""
 "Add-on authors are not obligated to make their add-ons work in beta. Some or all of your add-ons may not work. Or if they do work today, they may not work tomorrow. Consult the <a "
 "href=\"https://support.mozilla.org/kb/thunderbird-add-ons-frequently-asked-questions#w_what-if-my-add-on-is-broken\">Add-ons FAQ</a> if you have difficulty. "
 msgstr ""
+"Awtory dodankow njejsu zawězane zarucyś, až jich dodanki w betawersiji funkcioněruju. Někotare abo wšykne waše dodanki snaź njefunkcioněruju. Abo, jolic źinsa funkcioněruju, jo móžno, až witśe "
+"njefunkcioněruju. Cytajśo <a href=\"https://support.mozilla.org/kb/thunderbird-add-ons-frequently-asked-questions#w_what-if-my-add-on-is-broken\">Cesto stajone pšašanja wó dodankach</a>, jolic śěže "
+"maśo."
 
 #: website/download/beta/index.html:81
 msgid "You have two choices for installing beta: Option 1 allows you to run the beta alongside the Stable version of Thunderbird, and Option 2 upgrades your existing installation."
-msgstr ""
+msgstr "Maśo dwě móžnosći, aby betawersiju instalěrował: Móžnosć 1 wam zmóžnja, betawersiju pódla stabilneje wersije Thunderbird wuwjasć, a móžnosć 2 aktualizěrujo wašu eksistěrujucu instalaciju."
 
 #: website/download/beta/index.html:84
 msgid "Run Stable and Beta side-by-side (recommended)."
@@ -824,16 +831,20 @@ msgid ""
 "Thunderbird 102 and newer on Windows will install beta into its own program directory. For older versions on Windows consult the <a href=\"https://support.mozilla.org/en-US/kb/thunderbird-"
 "beta\">beta support article</a>. For other operating systems use an install method appropriate for your OS to target a uniquely named directory."
 msgstr ""
+"Thunderbird 102 a nowše na Windows betawersiju do jeje swójskego zapisa instalěruju. Za starše wersije na Windows cytajśo pšosym <a href=\"https://support.mozilla.org/en-US/kb/thunderbird-"
+"beta\">nastawk pomocy za betawersiju</a>. Za druge źěłowe systemy wužywajśo pśigódnu instalěrowańsku metodu swójogo źěłowego systema, aby jasnje pomjenjony zapis pódał."
 
 #: website/download/beta/index.html:89
 msgid ""
 "This choice has the advantage of forcing a <a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-thunderbird-installation\">dedicated profile</a> for each Thunderbird, which allows you to"
 " have both the release version and the beta version operate independently. So you can:"
 msgstr ""
+"Toś ta wólba ma lěpšynu, až móžośo <a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-thunderbird-installation\">dedicěrowany profil</a> za kuždy Thunderbird wunuźiś, kótaryž wam "
+"zmóžnja, stabilnu wersiju a betawersiju njewótwisnje wót se wužywaś. Tak móžośo:"
 
 #: website/download/beta/index.html:92
 msgid "Start the <b>release</b> version of Thunderbird (with beta not running) and it will use the <b>\"default\" (or default-release)</b> profile."
-msgstr ""
+msgstr "Startujśo <b>stabilnu</b> wersiju Thunderbird (bźez togo, aby betawersija běžała) a wóna buźo profil <b>„default“ (abo default-release)</b> wužywaś."
 
 #: website/download/beta/index.html:93
 msgid ""
@@ -841,6 +852,9 @@ msgid ""
 " and it will prompt you to define your accounts. If you need to bring some data from your release profile into the beta profile, consult the <a href=\"https://support.mozilla.org/kb/thunderbird-"
 "beta\">beta support article.</a>"
 msgstr ""
+"Startujśo <b>beta</b> wersiju Thunderbird (bźez togo, aby stabilna wersija běžała) a wóna buźo profil <b>default-beta </b> wužywaś. Pśi prědnem wužywanju Thunderbird profil <b>default-beta</b> "
+"napórajo, a was napominajo, swóje konta definěrowaś. Jolic cośo někotare daty z profila swójeje stabilneje wersije do profila swójeje betawersije pśenosowaś, cytajśo <a "
+"href=\"https://support.mozilla.org/kb/thunderbird-beta\">nastawk pomocy za betawersiju</a>."
 
 #: website/download/beta/index.html:95
 msgid "Upgrade your existing Thunderbird installation to beta."
@@ -852,6 +866,9 @@ msgid ""
 " profile, this choice makes it more difficult to switch back to using a release version should you wish to do so in the future. In other words, you should not switch back and forth between beta and "
 "normal release using the same profile."
 msgstr ""
+"Instalěrujśo jadnorje betawersiju z pomocu standardnych móžnosćow instalěrowańskego programa nad swój aktualny programowy zapis. Betawersija buźo pón <u>waš aktualny (produktiwny) standardny profil "
+"wužywaś</u>. Dokulaž wóna waš standardny profil wužywa, toś ten wuběrk póśěžujo, se k wužywanjeju stabilneje wersije wrośiś, jolic cośo to w pśichoźe cyniś. Hynac gronjene, wy njeměł mjszx "
+"betawersiju a normalneju stabilneju wersiju ze samskim profilom tam a sem pśeměniś."
 
 #: website/download/beta/index.html:100
 msgid "For very detailed information about both methods, please check the <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">beta support article.</a>"
@@ -862,6 +879,8 @@ msgid ""
 "If you installed the beta over the top of the release version (choice 2 above), then your process will be more complicated. Please consult this <a href=\"https://support.mozilla.org/kb/thunderbird-"
 "beta\">beta support article.</a>"
 msgstr ""
+"Jolic sćo zainstalěrował betawersiju nad stabilnu wersiju (glejśo móžnosć 2 górjejce), ga buźo waš proces wěcej komplicěrowany. Pšosym cytajśo toś ten <a "
+"href=\"https://support.mozilla.org/kb/thunderbird-beta\">nastawk pomocy za betawersiju</a>."
 
 #: website/download/beta/index.html:118
 msgid ""
@@ -869,6 +888,9 @@ msgid ""
 " profile per Thunderbird</a>, then start the release version of Thunderbird and it should use your release version profile data. If you no longer want to use the beta version, and do not need any of"
 " the beta data (address books, local folders, pop folders, etc), and wish to remove the beta data and beta program from your system:"
 msgstr ""
+"Jolic sćo zainstalěrował betawersiju do jeje swójskego programowego zapisa (glejśo móžnosć 1 górjejce) a sćo wužywał <a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-thunderbird-"
+"installation\">dedicěrowany profil na Thunderbird</a>, startujśo stabilnu wersiju Thunderbird a wóna měła profilowe daty wašeje stabilneje wersije wužywaś. Jolic wěcej njocośo betawersiju wužywaś a "
+"wěcej daty betawersije njetrjebaśo (adresniki, lokalne zarědniki, POP-zarědniki atd.) a cośo daty betawersije a betawersiju ze swójogo systema wótwónoźeś:"
 
 #: website/download/beta/index.html:121
 msgid "Start the release version of Thunderbird to use the <a href=\"https://support.mozilla.org/kb/profile-manager-create-and-remove-thunderbird-profiles\">profile manager.</a>"
@@ -890,7 +912,7 @@ msgstr ""
 
 #: website/download/beta/index.html:138
 msgid "Open the Thunderbird Help menu to check the useful tools and references. Important items to note:"
-msgstr ""
+msgstr "Wócyńśo meni Pomoc Thunderbird, aby wužytne rědy a reference pśeglědował. Wažne dypki, na kótarež wy měł źiwaś:"
 
 #: website/download/beta/index.html:141
 msgid "Release notes are provided for every update in:"
@@ -909,12 +931,17 @@ msgid ""
 "Ask beta specific assistance questions and comments in <a href=\"https://thunderbird.topicbox.com/groups/beta\">the beta forum</a>, or browse it to see what other beta users are discussing. The "
 "forum operates in English, so if you need assistance in another language please ask for help in <a href=\"https://support.mozilla.org/questions/new/thunderbird/form\">Thunderbird support</a>."
 msgstr ""
+"Stajśo pšašanja a pišćo komentary wó betawersiji w <a href=\"https://thunderbird.topicbox.com/groups/beta\">forumje betawersije</a>, abo pśepytujśo jen, aby zgónił, wó comž druge wužywarje "
+"betawersije diskutěruju. Forum jo w engelšćinje, jolic pótakem pomoc w drugej rěcy trjebaśo, pšosćo w <a href=\"https://support.mozilla.org/questions/new/thunderbird/form\">pomocy Thunderbird</a> wó"
+" pomoc."
 
 #: website/download/beta/index.html:148
 msgid ""
 "If you find a problem, try to <a href=\"https://support.mozilla.org/kb/troubleshoot-mode-thunderbird\">reproduce the problem in Troubleshoot Mode</a>, then file a bug report for <a "
 "href=\"https://bugzilla.mozilla.org/enter_bug.cgi?product=Thunderbird\">Thunderbird</a> or <a href=\"https://bugzilla.mozilla.org/enter_bug.cgi?product=Calendar\">Calendar</a>."
 msgstr ""
+"Jolic problem namakajośo, wopytajśo <a href=\"https://support.mozilla.org/kb/troubleshoot-mode-thunderbird\">problem w modusu za rozwězowanje problemow reproducěrowaś</a>, pišćo pón zmólkowu "
+"rozpšawu za <a href=\"https://bugzilla.mozilla.org/enter_bug.cgi?product=Thunderbird\">Thunderbird</a> abo <a href=\"https://bugzilla.mozilla.org/enter_bug.cgi?product=Calendar\">kalenderje</a>."
 
 #: website/download/beta/index.html:149
 msgid "<b>≡ > Tools > Export</b> can be used to backup your profile, or to get to your profile directory quickly."
