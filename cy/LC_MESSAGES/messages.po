@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-06-03 02:32-0700\n"
-"PO-Revision-Date: 2022-06-09 15:33+0000\n"
+"PO-Revision-Date: 2022-06-09 15:41+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language-Team: none\n"
 "Language: cy\n"
@@ -741,7 +741,7 @@ msgid ""
 "Do you want to help the global Thunderbird community by discovering and reporting bugs? Then beta is a great choice for you, because it gets fixes and <a href=\"https://support.mozilla.org/kb/new-"
 "thunderbird-102\">new features</a> long before they reach release!"
 msgstr ""
-"Ydych chi eisiau helpu cymuned fyd-eang Thunderbird trwy ddarganfod ac adrodd am wallau? Os felly, mae'r beta yn ddewis gwych i chi, oherwydd mae'n cael datrysiadau a <a "
+"Ydych chi eisiau helpu cymuned fyd-eang Thunderbird trwy ddarganfod ac adrodd am wallau? Os felly, mae'r beta'n ddewis gwych i chi, oherwydd mae'n cael datrysiadau a <a "
 "href=\"https://support.mozilla.org/kb/new-thunderbird-102\">nodweddion newydd</a> ymhell cyn iddyn nhw gael eu rhyddhau!"
 
 #: website/download/beta/index.html:46
@@ -758,7 +758,7 @@ msgstr "Ystyriaethau Pwysig"
 
 #: website/download/beta/index.html:50
 msgid "Before you download and test the beta, there are some important considerations to be aware of:"
-msgstr "Cyn i chi lwytho i lawt a phrofi'r beta, mae rhai ystyriaethau pwysig i chi fod yn ymwybodol ohonyn nhw:"
+msgstr "Cyn i chi lwytho i lawr a phrofi'r beta, mae rhai ystyriaethau pwysig i chi fod yn ymwybodol ohonyn nhw:"
 
 #: website/download/beta/index.html:53
 msgid "Beta installation will <u>replace</u> your currently installed program, unless you use the instructions in <a href=\"#howto\">How to install and run Beta</a>."
@@ -767,7 +767,7 @@ msgstr "Bydd gosodiad Beta yn <u>disodli</u> eich rhaglen sydd wedi'i gosod ar h
 #: website/download/beta/index.html:54
 msgid "Please do <a href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-data#w_backing-up-a-profile\">regular backups</a> to protect your Thunderbird data profiles."
 msgstr ""
-"Gwnewch <a href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-data#w_backing-up-a-profile\">copïau wrth gefn rheolaidd</a> i ddiogelu proffiliau data eich rhaglen "
+"Gwnewch <a href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-data#w_backing-up-a-profile\">gopïau wrth gefn rheolaidd</a> i ddiogelu proffiliau data eich rhaglen "
 "Thunderbird."
 
 #: website/download/beta/index.html:55
@@ -833,19 +833,19 @@ msgstr ""
 
 #: website/download/beta/index.html:81
 msgid "You have two choices for installing beta: Option 1 allows you to run the beta alongside the Stable version of Thunderbird, and Option 2 upgrades your existing installation."
-msgstr "Mae gennych ddau ddewis ar gyfer gosod y beta: Mae Dewis1 yn caniatáu ichi redeg y beta ochr yn ochr â'r fersiwn Sefydlog o Thunderbird, ac mae Dewis 2 yn uwchraddio'ch gosodiad presennol."
+msgstr "Mae gennych ddau ddewis ar gyfer gosod y beta: Mae Dewis 1 yn caniatáu ichi redeg y beta ochr yn ochr â'r fersiwn Sefydlog o Thunderbird, ac mae Dewis 2 yn uwchraddio'ch gosodiad presennol."
 
 #: website/download/beta/index.html:84
 msgid "Run Stable and Beta side-by-side (recommended)."
-msgstr "Rhedeg Stable a Beta ochr yn ochr (argymhellir)."
+msgstr "Rhedeg Sefydlog a Beta ochr yn ochr (argymhellir)."
 
 #: website/download/beta/index.html:86
 msgid ""
 "Thunderbird 102 and newer on Windows will install beta into its own program directory. For older versions on Windows consult the <a href=\"https://support.mozilla.org/en-US/kb/thunderbird-"
 "beta\">beta support article</a>. For other operating systems use an install method appropriate for your OS to target a uniquely named directory."
 msgstr ""
-"Bydd Thunderbird 102 a'r fersiwn mwy newydd ar Windows yn gosod beta yn ei gyfeiriadur rhaglen ei hun. Ar gyfer fersiynau hŷn ar Windows edrychwch ar yr <a href=\"https://support.mozilla.org/en-"
-"US/kb/thunderbird-beta\">erthygl cymorth gyda'r beta</a>. Ar gyfer systemau gweithredu eraill defnyddiwch ddull gosod sy'n briodol i'ch OS i dargedu cyfeiriadur syd ag enw unigryw."
+"Bydd Thunderbird 102 a'r fersiynnau mwy newydd ar Windows yn gosod beta yn ei gyfeiriadur rhaglen ei hun. Ar gyfer fersiynau hŷn ar Windows edrychwch ar yr <a href=\"https://support.mozilla.org/en-"
+"US/kb/thunderbird-beta\">erthygl cymorth gyda'r beta</a>. Ar gyfer systemau gweithredu eraill defnyddiwch ddull gosod sy'n briodol i'ch OS i dargedu cyfeiriadur sydd ag enw unigryw."
 
 #: website/download/beta/index.html:89
 msgid ""
@@ -951,14 +951,16 @@ msgid ""
 "If you find a problem, try to <a href=\"https://support.mozilla.org/kb/troubleshoot-mode-thunderbird\">reproduce the problem in Troubleshoot Mode</a>, then file a bug report for <a "
 "href=\"https://bugzilla.mozilla.org/enter_bug.cgi?product=Thunderbird\">Thunderbird</a> or <a href=\"https://bugzilla.mozilla.org/enter_bug.cgi?product=Calendar\">Calendar</a>."
 msgstr ""
+"Os byddwch yn dod o hyd i broblem, ceisiwch <a href=\"https://support.mozilla.org/kb/troubleshoot-mode-thunderbird\">atgynhyrchu'r broblem yn y Modd Datrys Problemau</a>, yna ffeilio adroddiad gwall"
+" ar gyfer <a href=\"https://bugzilla.mozilla.org/enter_bug.cgi?product=Thunderbird\">Thunderbird</a> neu'r <a href=\"https://bugzilla.mozilla.org/enter_bug.cgi?product=Calendar\">Calendr</a>."
 
 #: website/download/beta/index.html:149
 msgid "<b>≡ > Tools > Export</b> can be used to backup your profile, or to get to your profile directory quickly."
-msgstr ""
+msgstr "Mae modd defnyddio <b>≡> Offer > Allforio</b> i wneud copi wrth gefn o'ch proffil, neu i gyrraedd eich cyfeiriadur proffil yn gyflym."
 
 #: website/download/beta/index.html:150
 msgid "<b>≡ > Go > Mail Start Page (aka Beta Start Page)</b> is a handy reference which documents several of the above items and more."
-msgstr ""
+msgstr "<b>≡> Ewch > Tudalen Cychwyn E-bost (hynny yw, Tudalen Cychwyn y Beta)</b> yn gyfeirnod defnyddiol sy'n dogfennu nifer o'r eitemau uchod a mwy."
 
 #: website/features/index.html:7
 msgid "Thunderbird Features"
