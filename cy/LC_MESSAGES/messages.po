@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-06-03 02:32-0700\n"
-"PO-Revision-Date: 2022-06-09 15:10+0000\n"
+"PO-Revision-Date: 2022-06-09 15:22+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language-Team: none\n"
 "Language: cy\n"
@@ -804,43 +804,56 @@ msgid ""
 "After set up, go to <b>≡ > Account Settings > Server Settings</b> and make sure the <b>\"Leave messages on server\"</b> option is <b>checked</b>, and the <b>\"For at most [X] days\"</b> option is "
 "<b>unchecked</b>."
 msgstr ""
+"Ar ôl ei osod, ewch i <b> ≡ > Gosodiadau Cyfrif > Gosodiadau Gweinydd</b> a gwnewch yn siŵr bod yr dewis <b>\"Gadael negeseuon ar y gweinydd\"</b> wedi'i <b>dicio</b>, ac nad yw'r dewis <b>\"Am [X] "
+"diwrnod ar y mwyaf\"</b> wedi ei <b>dicio</b>."
 
 #: website/download/beta/index.html:61
 msgid ""
 "Keep the default settings. Messages will be removed from the server 14 days after download, so you will need to either stay on beta, or learn how to move your POP data back to the release profile."
 msgstr ""
+"Cadwch y gosodiadau rhagosodedig. Bydd negeseuon yn cael eu tynnu o'r gweinydd 14 diwrnod ar ôl eu llwytho i lawr, felly bydd angen i chi naill ai aros ar y beta, neu ddysgu sut i symud eich data "
+"POP yn ôl i'r proffil rhyddhau."
 
 #: website/download/beta/index.html:63
 msgid ""
 "If you have <a href=\"https://support.mozilla.org/kb/organize-your-messages-using-filters\">mail filters</a> that, for example, move mail to local folders, then you must decide where to run filters "
 "- in your beta profile or your other profile."
 msgstr ""
+"Os oes gennych <a href=\"https://support.mozilla.org/kb/organize-your-messages-using-filters\">hidlyddion e-bost</a> sydd, er enghraifft, yn symud post i ffolderi lleol, yna bydd rhaid i chi "
+"benderfynu ble i redeg yr hidlwyr - yn eich proffil beta neu'ch proffil arall."
 
 #: website/download/beta/index.html:67
 msgid ""
 "Add-on authors are not obligated to make their add-ons work in beta. Some or all of your add-ons may not work. Or if they do work today, they may not work tomorrow. Consult the <a "
 "href=\"https://support.mozilla.org/kb/thunderbird-add-ons-frequently-asked-questions#w_what-if-my-add-on-is-broken\">Add-ons FAQ</a> if you have difficulty. "
 msgstr ""
+"Nid yw'n ofynnol i awduron ychwanegion wneud i'w ychwanegion weithio yn y  beta. Efallai na fydd rhai neu bob un o'ch ychwanegion yn gweithio. Neu os ydyn nhw'n gweithio heddiw, efallai na fyddan "
+"nhw'n gweithio yfory. Darllenwch ein <a href=\"https://support.mozilla.org/kb/thunderbird-add-ons-frequently-asked-questions#w_what-if-my-add-on-is-broken\">Cwestiynau Cyffredin am Ychwanegion</a> "
+"os ydych yn cael anhawster."
 
 #: website/download/beta/index.html:81
 msgid "You have two choices for installing beta: Option 1 allows you to run the beta alongside the Stable version of Thunderbird, and Option 2 upgrades your existing installation."
-msgstr ""
+msgstr "Mae gennych ddau ddewis ar gyfer gosod y beta: Mae Dewis1 yn caniatáu ichi redeg y beta ochr yn ochr â'r fersiwn Sefydlog o Thunderbird, ac mae Dewis 2 yn uwchraddio'ch gosodiad presennol."
 
 #: website/download/beta/index.html:84
 msgid "Run Stable and Beta side-by-side (recommended)."
-msgstr ""
+msgstr "Rhedeg Stable a Beta ochr yn ochr (argymhellir)."
 
 #: website/download/beta/index.html:86
 msgid ""
 "Thunderbird 102 and newer on Windows will install beta into its own program directory. For older versions on Windows consult the <a href=\"https://support.mozilla.org/en-US/kb/thunderbird-"
 "beta\">beta support article</a>. For other operating systems use an install method appropriate for your OS to target a uniquely named directory."
 msgstr ""
+"Bydd Thunderbird 102 a'r fersiwn mwy newydd ar Windows yn gosod beta yn ei gyfeiriadur rhaglen ei hun. Ar gyfer fersiynau hŷn ar Windows edrychwch ar yr <a href=\"https://support.mozilla.org/en-"
+"US/kb/thunderbird-beta\">erthygl cymorth gyda'r beta</a>. Ar gyfer systemau gweithredu eraill defnyddiwch ddull gosod sy'n briodol i'ch OS i dargedu cyfeiriadur syd ag enw unigryw."
 
 #: website/download/beta/index.html:89
 msgid ""
 "This choice has the advantage of forcing a <a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-thunderbird-installation\">dedicated profile</a> for each Thunderbird, which allows you to"
 " have both the release version and the beta version operate independently. So you can:"
 msgstr ""
+"Mantais y dewis hwn yw gorfodi <a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-thunderbird-installation\">proffil pwrpasol</a> ar gyfer pob Thunderbird, sy'n caniatáu i chi gael y "
+"fersiwn rhyddhau a'r fersiwn beta yn gweithredu'n annibynnol. Felly gallwch chi:"
 
 #: website/download/beta/index.html:92
 msgid "Start the <b>release</b> version of Thunderbird (with beta not running) and it will use the <b>\"default\" (or default-release)</b> profile."
