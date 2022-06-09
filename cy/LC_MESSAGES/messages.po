@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-06-03 02:32-0700\n"
-"PO-Revision-Date: 2022-06-09 15:22+0000\n"
+"PO-Revision-Date: 2022-06-09 15:33+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language-Team: none\n"
 "Language: cy\n"
@@ -857,7 +857,7 @@ msgstr ""
 
 #: website/download/beta/index.html:92
 msgid "Start the <b>release</b> version of Thunderbird (with beta not running) and it will use the <b>\"default\" (or default-release)</b> profile."
-msgstr ""
+msgstr "Cychwynnwch y fersiwn <b>rhyddhau</b> o Thunderbird (gyda'r beta ddim yn rhedeg) a bydd yn defnyddio'r proffil <b>\"default\" (neu'r default-release)</b>."
 
 #: website/download/beta/index.html:93
 msgid ""
@@ -865,10 +865,13 @@ msgid ""
 " and it will prompt you to define your accounts. If you need to bring some data from your release profile into the beta profile, consult the <a href=\"https://support.mozilla.org/kb/thunderbird-"
 "beta\">beta support article.</a>"
 msgstr ""
+"Cychwynnwch y fersiwn <b>beta</b> o Thunderbird (gyda'r fersiwn rhyddhau ddim yn rhedeg) a bydd yn defnyddio'r proffil <b>default-beta</b>. Ar y defnydd cyntaf bydd Thunderbird yn creu'r proffil "
+"<b>default-beta</b>, a bydd yn eich annog i ddiffinio'ch cyfrifon. Os oes angen i chi ddod â rhywfaint o ddata o'ch proffil rhyddhau i'r proffil beta, edrychwch ar yr <a "
+"href=\"https://support.mozilla.org/kb/thunderbird-beta\">erthyglau cymorth ar gyfer y beta.</a>"
 
 #: website/download/beta/index.html:95
 msgid "Upgrade your existing Thunderbird installation to beta."
-msgstr ""
+msgstr "Uwchraddiwch eich gosodiad Thunderbird presennol i'r beta."
 
 #: website/download/beta/index.html:97
 msgid ""
@@ -876,16 +879,21 @@ msgid ""
 " profile, this choice makes it more difficult to switch back to using a release version should you wish to do so in the future. In other words, you should not switch back and forth between beta and "
 "normal release using the same profile."
 msgstr ""
+"Yn syml, gosodwch beta ar ben eich cyfeiriadur rhaglen gyfredol, gan ddefnyddio'r dewisiadau gosodwr rhagosodedig. Bydd Beta wedyn yn <u>defnyddio eich proffil rhagosodedig (cynnyrch) cyfredol</u>. "
+"Gan ei fod yn defnyddio'ch proffil rhagosodedig, mae'r dewis hwn yn ei gwneud hi'n anoddach i newid yn ôl i ddefnyddio fersiwn rhyddhau os dymunwch wneud hynny yn y dyfodol. Mewn geiriau eraill, "
+"peidiwch â newid yn ôl ac ymlaen rhwng beta a rhyddhau arferol gan ddefnyddio'r un proffil."
 
 #: website/download/beta/index.html:100
 msgid "For very detailed information about both methods, please check the <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">beta support article.</a>"
-msgstr ""
+msgstr "I gael gwybodaeth fanwl iawn am y ddau ddull, darllennwch <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">erthygl cymorth y beta.</a>"
 
 #: website/download/beta/index.html:115
 msgid ""
 "If you installed the beta over the top of the release version (choice 2 above), then your process will be more complicated. Please consult this <a href=\"https://support.mozilla.org/kb/thunderbird-"
 "beta\">beta support article.</a>"
 msgstr ""
+"Os ydych wedi gosod y beta dros ben y fersiwn rhyddhau (dewis 2 uchod), yna bydd eich proses yn fwy cymhleth. Darllenwch <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">erthygl cefnogi y"
+" beta.</a>"
 
 #: website/download/beta/index.html:118
 msgid ""
@@ -893,44 +901,50 @@ msgid ""
 " profile per Thunderbird</a>, then start the release version of Thunderbird and it should use your release version profile data. If you no longer want to use the beta version, and do not need any of"
 " the beta data (address books, local folders, pop folders, etc), and wish to remove the beta data and beta program from your system:"
 msgstr ""
+"Os ydych wedi gosod y rhaglen beta yn ei gyfeiriadur rhaglen ei hun (dewis 1 uchod) a'ch bod wedi defnyddio <a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-thunderbird-"
+"installation\"> proffil pwrpasol fesul Thunderbird</a>, yna dechreuwch y fersiwn rhyddhau o Thunderbird a dylai ddefnyddio data proffil eich fersiwn rhyddhau. Os nad ydych chi eisiau defnyddio'r "
+"fersiwn beta mwyach, ac nad oes angen unrhyw ddata beta arnoch (llyfrau cyfeiriad, ffolderi lleol, ffolderi pop, ac ati), ac yn dymuno tynnu'r data beta a'r rhaglen beta o'ch system:"
 
 #: website/download/beta/index.html:121
 msgid "Start the release version of Thunderbird to use the <a href=\"https://support.mozilla.org/kb/profile-manager-create-and-remove-thunderbird-profiles\">profile manager.</a>"
-msgstr ""
+msgstr "Cychwynnwch y fersiwn rhyddhau o Thunderbird i ddefnyddio'r <a href=\"https://support.mozilla.org/kb/profile-manager-create-and-remove-thunderbird-profiles\">rheolwr proffil.</a>"
 
 #: website/download/beta/index.html:122
 msgid "Find and delete the beta profile, default name is <b>“default-beta”</b>."
-msgstr ""
+msgstr "Chwiliwch am a dilëwch y proffil beta, yr enw rhagosodedig yw <b>“default-beta”</b>."
 
 #: website/download/beta/index.html:123
 msgid "Delete the beta version’s program directory. "
-msgstr ""
+msgstr "Dilëwch cyfeiriadur rhaglen y fersiwn beta."
 
 #: website/download/beta/index.html:125
 msgid "If you need to copy data from the beta profile to your release profile, please consult the <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">beta support article.</a>"
-msgstr ""
+msgstr "Os oes angen i chi gopïo data o'r proffil beta i'ch proffil rhyddhau, edrychwch ar  <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">erthygl cymorth y beta.</a>"
 
 #: website/download/beta/index.html:138
 msgid "Open the Thunderbird Help menu to check the useful tools and references. Important items to note:"
-msgstr ""
+msgstr "Agorwch ddewislen Cymorth Thunderbird i wirio'r offer a'r cyfeiriadau defnyddiol. Eitemau pwysig i'w nodi:"
 
 #: website/download/beta/index.html:141
 msgid "Release notes are provided for every update in:"
-msgstr ""
+msgstr "Mae nodiadau rhyddhau ar gyfer pob diweddariad i'w cael yn:"
 
 #: website/download/beta/index.html:143
 msgid "≡ > Help > About > Release Notes."
-msgstr ""
+msgstr "≡ > Cymorth > Ynghylch > Nodiadau Rhyddhau."
 
 #: website/download/beta/index.html:146
 msgid "Please post questions about normal Thunderbird usage in <a href=\"https://support.mozilla.org/questions/new/thunderbird/form\">Thunderbird support</a>. "
-msgstr ""
+msgstr "Anfonwch gwestiynau am ddefnydd arferol Thunderbird yng <a href=\"https://support.mozilla.org/questions/new/thunderbird/form\">Ngymorth Thunderbird</a>."
 
 #: website/download/beta/index.html:147
 msgid ""
 "Ask beta specific assistance questions and comments in <a href=\"https://thunderbird.topicbox.com/groups/beta\">the beta forum</a>, or browse it to see what other beta users are discussing. The "
 "forum operates in English, so if you need assistance in another language please ask for help in <a href=\"https://support.mozilla.org/questions/new/thunderbird/form\">Thunderbird support</a>."
 msgstr ""
+"Gofynnwch gwestiynau a sylwadau cymorth penodol i'r beta yn <a href=\"https://thunderbird.topicbox.com/groups/beta\">y fforwm beta</a>, neu porwch ef i weld beth mae defnyddwyr beta eraill yn ei "
+"drafod. Mae'r fforwm yn gweithredu yn Saesneg, felly os oes angen cymorth arnoch mewn iaith arall, gofynnwch am help yn <a "
+"href=\"https://support.mozilla.org/questions/new/thunderbird/form\">cefnogaeth Thunderbird</a>."
 
 #: website/download/beta/index.html:148
 msgid ""
