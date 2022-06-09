@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-06-03 02:32-0700\n"
-"PO-Revision-Date: 2022-06-08 15:36+0000\n"
-"Last-Translator: smouss <simoussa.mounir@gmail.com>\n"
+"PO-Revision-Date: 2022-06-09 13:22+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: none\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -735,7 +735,7 @@ msgstr "Installation et utilisation de la version bêta"
 
 #: website/download/beta/index.html:21 website/download/beta/index.html:108
 msgid "How do I go back to the regular release version?"
-msgstr "Retour à la version classique"
+msgstr "Retour à la version stable"
 
 #: website/download/beta/index.html:24 website/download/beta/index.html:131
 msgid "Resources and Assistance"
@@ -747,7 +747,7 @@ msgid ""
 "thunderbird-102\">new features</a> long before they reach release!"
 msgstr ""
 "Vous avez envie d’aider la communauté Thunderbird en recherchant et signalant les bugs ? La version bêta est faite pour vous ! Elle reçoit des correctifs et de <a "
-"href=\"https://support.mozilla.org/kb/new-thunderbird-102\">nouvelles fonctionnalités</a> bien avant la version classique !"
+"href=\"https://support.mozilla.org/kb/new-thunderbird-102\">nouvelles fonctionnalités</a> bien avant la version stable !"
 
 #: website/download/beta/index.html:46
 msgid ""
@@ -788,63 +788,84 @@ msgid ""
 "Flaws are to be expected. High-impact flaws, including data loss, are very rare, but may occur. Protect yourself with <a href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-"
 "data#w_backing-up-a-profile\">backups</a>. Low-impact flaws may not be fixed quickly, because fixes are prioritized based on impact."
 msgstr ""
+"Attendez-vous à des imperfections. Les défauts majeurs, y compris la perte de données, sont très rares mais néanmoins possibles. Pour parer à toute éventualité, <a "
+"href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-data#w_backing-up-a-profile\">sauvegardez vos données</a>. Le traitement se faisant par ordre de gravité décroissante, "
+"les défauts mineurs ne sont pas corrigés en priorité."
 
 #: website/download/beta/index.html:57
 msgid "Expect seven updates per month, one major update per month plus several small updates. This frequency of updates allows us to make fast improvements."
-msgstr ""
+msgstr "Sept mises à jour sont prévues chaque mois : une mise à jour majeure complétée de six autres plus légères. Ce rythme élevé nous permet de proposer des améliorations rapides."
 
 #: website/download/beta/index.html:58
 msgid ""
 "Are you using <a href=\"https://support.mozilla.org/kb/difference-between-imap-and-pop3\">POP accounts</a>? Unlike IMAP accounts, the only copy of your pop mail is in your local Thunderbird profile."
 " If you want to add a POP account to beta, your options are:"
 msgstr ""
+"Vous utilisez <a href=\"https://support.mozilla.org/kb/difference-between-imap-and-pop3\">des comptes POP</a> ? À l’inverse des comptes IMAP, la seule et unique copie de vos messages est stockée "
+"localement dans votre profil Thunderbird. Deux méthodes vous permettent d’ajouter un compte POP à la version bêta de manière sûre :"
 
 #: website/download/beta/index.html:60
 msgid ""
 "After set up, go to <b>≡ > Account Settings > Server Settings</b> and make sure the <b>\"Leave messages on server\"</b> option is <b>checked</b>, and the <b>\"For at most [X] days\"</b> option is "
 "<b>unchecked</b>."
 msgstr ""
+"Une fois le compte ajouté, sélectionner <b>≡ > Paramètres des comptes > Paramètres serveur</b> et assurez-vous que l’option <b>« Laisser les messages sur le serveur »</b> soit <b>cochée</b> et "
+"l’option <b>« Pendant au maximum [X] jours »</b> <b>décochée</b>."
 
 #: website/download/beta/index.html:61
 msgid ""
 "Keep the default settings. Messages will be removed from the server 14 days after download, so you will need to either stay on beta, or learn how to move your POP data back to the release profile."
 msgstr ""
+"Conserver les réglages par défaut. Les messages seront supprimés du serveur au bout de 14 jours, ce qui implique que vous devez soit rester sur la version bêta, soit apprendre à rapatrier vos "
+"données POP vers votre profil sur la version stable."
 
 #: website/download/beta/index.html:63
 msgid ""
 "If you have <a href=\"https://support.mozilla.org/kb/organize-your-messages-using-filters\">mail filters</a> that, for example, move mail to local folders, then you must decide where to run filters "
 "- in your beta profile or your other profile."
 msgstr ""
+"Si vous utilisez des <a href=\"https://support.mozilla.org/kb/organize-your-messages-using-filters\">filtres de messages</a>, pour déplacer des messages vers un dossier local par exemple, vous devez"
+" choisir d’appliquer ces filtres soit depuis la version bêta, soit depuis la version stable."
 
 #: website/download/beta/index.html:67
 msgid ""
 "Add-on authors are not obligated to make their add-ons work in beta. Some or all of your add-ons may not work. Or if they do work today, they may not work tomorrow. Consult the <a "
 "href=\"https://support.mozilla.org/kb/thunderbird-add-ons-frequently-asked-questions#w_what-if-my-add-on-is-broken\">Add-ons FAQ</a> if you have difficulty. "
 msgstr ""
+"Les auteurs et autrices de modules complémentaires ne sont pas tenu·e·s d’assurer leur bon fonctionnement dans la version bêta. Certains de ces modules complémentaires pourraient donc ne pas "
+"fonctionner. De même, leur fonctionnement aujourd’hui ne préjuge pas de leur fonctionnement demain. Consultez la <a href=\"https://support.mozilla.org/kb/thunderbird-add-ons-frequently-asked-"
+"questions#w_what-if-my-add-on-is-broken\">FAQ des modules complémentaires</a> si vous rencontrez des difficultés."
 
 #: website/download/beta/index.html:81
 msgid "You have two choices for installing beta: Option 1 allows you to run the beta alongside the Stable version of Thunderbird, and Option 2 upgrades your existing installation."
 msgstr ""
+"Deux possibilités s’offrent à vous pour installer la version bêta : l’option 1 vous permet d’installer la version bêta en parallèle de la version stable, l’option 2 met à jour l’installation "
+"existante vers la version bêta."
 
 #: website/download/beta/index.html:84
 msgid "Run Stable and Beta side-by-side (recommended)."
-msgstr ""
+msgstr "Installer la version bêta en parallèle de la version stable (notre recommandation)."
 
 #: website/download/beta/index.html:86
 msgid ""
 "Thunderbird 102 and newer on Windows will install beta into its own program directory. For older versions on Windows consult the <a href=\"https://support.mozilla.org/en-US/kb/thunderbird-"
 "beta\">beta support article</a>. For other operating systems use an install method appropriate for your OS to target a uniquely named directory."
 msgstr ""
+"Sous Windows, l’installation de Thunderbird 102 et versions suivantes s’effectuera dans son propre dossier. Pour installer des versions plus anciennes sous Windows, consultez <a "
+"href=\"https://support.mozilla.org/en-US/kb/thunderbird-beta\">l’article d’aide bêta</a>. Pour les autres systèmes d’exploitation, choisissez une méthode d’installation adaptée à votre OS qui vous "
+"permette de sélectionner un dossier avec un nom unique."
 
 #: website/download/beta/index.html:89
 msgid ""
 "This choice has the advantage of forcing a <a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-thunderbird-installation\">dedicated profile</a> for each Thunderbird, which allows you to"
 " have both the release version and the beta version operate independently. So you can:"
 msgstr ""
+"Cette méthode présente l’avantage de forcer la création d’un <a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-thunderbird-installation\">profil dédié</a> pour chaque version de "
+"Thunderbird, vous permettant d’utiliser la version stable et la version bêta indépendamment. Ainsi, vous pouvez :"
 
 #: website/download/beta/index.html:92
 msgid "Start the <b>release</b> version of Thunderbird (with beta not running) and it will use the <b>\"default\" (or default-release)</b> profile."
-msgstr ""
+msgstr "Lancer la version <b>stable</b> de Thunderbird (la bêta n’étant pas en cours d’exécution), elle utilisera le profil <b>« default » (ou default-release)</b>."
 
 #: website/download/beta/index.html:93
 msgid ""
@@ -852,6 +873,9 @@ msgid ""
 " and it will prompt you to define your accounts. If you need to bring some data from your release profile into the beta profile, consult the <a href=\"https://support.mozilla.org/kb/thunderbird-"
 "beta\">beta support article.</a>"
 msgstr ""
+"Lancer la version <b>bêta</b> de Thunderbird (la version stable n’étant pas en cours d’exécution), elle utilisera le profil <b>default-beta</b>. Lors de la première utilisation, Thunderbird crée le "
+"profil <b>default-beta</b> et vous propose d’ajouter vos comptes de messagerie. Si vous souhaitez importer certaines données de profil depuis la version stable, consultez <a "
+"href=\"https://support.mozilla.org/kb/thunderbird-beta\">l’article d’aide sur la version bêta.</a>"
 
 #: website/download/beta/index.html:95
 msgid "Upgrade your existing Thunderbird installation to beta."
