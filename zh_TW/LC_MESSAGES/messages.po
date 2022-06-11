@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-06-03 02:32-0700\n"
-"PO-Revision-Date: 2022-06-11 05:12+0000\n"
+"PO-Revision-Date: 2022-06-11 05:20+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language-Team: none\n"
 "Language: zh_TW\n"
@@ -800,11 +800,11 @@ msgstr ""
 msgid ""
 "This choice has the advantage of forcing a <a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-thunderbird-installation\">dedicated profile</a> for each Thunderbird, which allows you to"
 " have both the release version and the beta version operate independently. So you can:"
-msgstr ""
+msgstr "此選項的優點是可以讓每個不同版本的 Thunderbird 都有<a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-thunderbird-installation\">獨立的設定檔</a>，讓您可以同時執行正式版與 Beta 測試版。這樣就可以："
 
 #: website/download/beta/index.html:92
 msgid "Start the <b>release</b> version of Thunderbird (with beta not running) and it will use the <b>\"default\" (or default-release)</b> profile."
-msgstr ""
+msgstr "執行 Thunderbird <b>正式版</b>（無法與測試版同時執行），並且使用 <b>「default」或「default-release」</b>設定檔。"
 
 #: website/download/beta/index.html:93
 msgid ""
@@ -812,6 +812,8 @@ msgid ""
 " and it will prompt you to define your accounts. If you need to bring some data from your release profile into the beta profile, consult the <a href=\"https://support.mozilla.org/kb/thunderbird-"
 "beta\">beta support article.</a>"
 msgstr ""
+"執行 Thunderbird <b>Beta 測試版</b>（無法與正式版同時執行）。第一次啟動時，Thunderbird 將建立<b>「default-beta」</b>設定檔，並且提示您重新設定帳號。若您打算要從正式版設定檔複製一些資料到 Beta 設定檔，請參考 <a href=\"https://support.mozilla.org/kb/thunderbird-"
+"beta\">Beta 測試版技術支援文件。</a>"
 
 #: website/download/beta/index.html:95
 msgid "Upgrade your existing Thunderbird installation to beta."
@@ -822,7 +824,7 @@ msgid ""
 "Simply install beta over top of your current program directory, using the default installer choices. Beta will then <u>use your current (production) default profile</u>. Because it uses your default"
 " profile, this choice makes it more difficult to switch back to using a release version should you wish to do so in the future. In other words, you should not switch back and forth between beta and "
 "normal release using the same profile."
-msgstr ""
+msgstr "直接使用安裝程式的預設選項，將 Beta 測試版安裝到目前的程式目錄，覆蓋目前使用的版本。Beta 版將<u>繼續使用您目前的正式版設定檔</u>。由於其使用預設設定檔，未來會比較難切換回正式版。換句話說，您不該隨意使用正式版與 Beta 測試版開啟相同的設定檔。"
 
 #: website/download/beta/index.html:100
 msgid "For very detailed information about both methods, please check the <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">beta support article.</a>"
