@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-06-03 02:32-0700\n"
-"PO-Revision-Date: 2022-06-05 13:42+0000\n"
-"Last-Translator: Jenny <leanintocuriosity@gmx.com>\n"
+"PO-Revision-Date: 2022-06-09 14:48+0000\n"
+"Last-Translator: Francesco Lodolo [:flod] <flod+pontoon@mozilla.com>\n"
 "Language-Team: none\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -357,7 +357,7 @@ msgstr "Vuoi provare nuove funzioni in anticipo?"
 
 #: website/index.html:22
 msgid "Get the beta and be a part of the future of Thunderbird!"
-msgstr ""
+msgstr "Ottieni la versione beta e svolgi un ruolo attivo nel futuro di Thunderbird!"
 
 #: website/index.html:24
 msgid "Get the Beta"
@@ -747,12 +747,16 @@ msgid ""
 "Do you want to help the global Thunderbird community by discovering and reporting bugs? Then beta is a great choice for you, because it gets fixes and <a href=\"https://support.mozilla.org/kb/new-"
 "thunderbird-102\">new features</a> long before they reach release!"
 msgstr ""
+"Vuoi aiutare la comunità globale di Thunderbird scoprendo e segnalando bug? Allora l’utilizzo della versione beta è un’ottima scelta perché ottiene correzioni di bug e <a "
+"href=\"https://support.mozilla.org/kb/new-thunderbird-102\">nuove funzioni</a> con largo anticipo rispetto alla versione ufficiale."
 
 #: website/download/beta/index.html:46
 msgid ""
 "Now is a good time to jump in, because through June 2022 we expect the Thunderbird beta to be more stable than normal. That’s because development is frozen so we can touch up <a "
 "href=\"https://blog.thunderbird.net/2022/05/7-great-new-features-coming-to-thunderbird-102/\">version 102’s new features.</a>"
 msgstr ""
+"Ora è un buon momento per partecipare, in quanto per tutto il mese di giugno 2022 ci aspettiamo che la beta di Thunderbird sia più stabile del solito. Lo sviluppo è attualmente bloccato, così "
+"possiamo concentrare le risorse sugli ultimi ritocchi alle <a href=\"https://blog.thunderbird.net/2022/05/7-great-new-features-coming-to-thunderbird-102/\">nuove funzioni della versione 102</a>."
 
 #: website/download/beta/index.html:48
 msgid "Important Considerations"
@@ -770,23 +774,30 @@ msgstr ""
 
 #: website/download/beta/index.html:54
 msgid "Please do <a href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-data#w_backing-up-a-profile\">regular backups</a> to protect your Thunderbird data profiles."
-msgstr ""
+msgstr "Effettua <a href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-data#w_backing-up-a-profile\">backup frequenti</a> per proteggere i dati dei tuoi profili Thunderbird."
 
 #: website/download/beta/index.html:55
 msgid ""
 "New features may be incomplete works in progress, because some are completed and polished over a period of weeks. The <a href=\"https://thunderbird.topicbox.com/groups/beta\">beta forum</a> may "
 "provide more information on feature progress."
 msgstr ""
+"Le nuove funzionalità potrebbero essere ancora in fase di sviluppo e incomplete, perché alcune funzioni vengono completate e rifinite nell’arco di più settimane. Nel <a "
+"href=\"https://thunderbird.topicbox.com/groups/beta\">Forum Beta</a> sono disponibili ulteriori informazioni sullo stato di avanzamento delle varie funzioni."
 
 #: website/download/beta/index.html:56
 msgid ""
 "Flaws are to be expected. High-impact flaws, including data loss, are very rare, but may occur. Protect yourself with <a href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-"
 "data#w_backing-up-a-profile\">backups</a>. Low-impact flaws may not be fixed quickly, because fixes are prioritized based on impact."
 msgstr ""
+"È inevitabile che ci siano alcuni problemi. Difetti con conseguenze gravi, inclusa la perdita di dati, sono molto rari, ma possono verificarsi. Proteggi i tuoi dati con i <a "
+"href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-data#w_backing-up-a-profile\">backup</a>. I difetti con impatto limitato potrebbero non essere risolti rapidamente, "
+"perché la priorità delle correzioni è determinata dalla gravità dei bug."
 
 #: website/download/beta/index.html:57
 msgid "Expect seven updates per month, one major update per month plus several small updates. This frequency of updates allows us to make fast improvements."
 msgstr ""
+"Gli aggiornamenti mensili sono in genere sette, di cui un aggiornamento principale e altri piccoli aggiornamenti aggiuntivi. Tale frequenza di rilascio ci consente di apportare miglioramenti in modo"
+" rapido."
 
 #: website/download/beta/index.html:58
 msgid ""
@@ -801,11 +812,15 @@ msgid ""
 "After set up, go to <b>≡ > Account Settings > Server Settings</b> and make sure the <b>\"Leave messages on server\"</b> option is <b>checked</b>, and the <b>\"For at most [X] days\"</b> option is "
 "<b>unchecked</b>."
 msgstr ""
+"Dopo la configurazione, vai su <b>≡ > Impostazioni account > Impostazioni server</b> e assicurati che l’opzione <b>“Lascia i messaggi sul server”</b> sia <b>selezionata</b> e che l’opzione <b>“Non "
+"più di [X] giorni”</b> sia <b>deselezionata</b>."
 
 #: website/download/beta/index.html:61
 msgid ""
 "Keep the default settings. Messages will be removed from the server 14 days after download, so you will need to either stay on beta, or learn how to move your POP data back to the release profile."
 msgstr ""
+"Mantieni le impostazioni predefinite. I messaggi verranno rimossi dal server 14 giorni dopo il download. A quel punto devi rimanere nella versione beta o imparare come spostare nuovamente i tuoi "
+"dati POP nel profilo della versione ufficiale."
 
 #: website/download/beta/index.html:63
 msgid ""
@@ -820,6 +835,9 @@ msgid ""
 "Add-on authors are not obligated to make their add-ons work in beta. Some or all of your add-ons may not work. Or if they do work today, they may not work tomorrow. Consult the <a "
 "href=\"https://support.mozilla.org/kb/thunderbird-add-ons-frequently-asked-questions#w_what-if-my-add-on-is-broken\">Add-ons FAQ</a> if you have difficulty. "
 msgstr ""
+"Gli autori dei componenti aggiuntivi non sono obbligati a renderli compatibili anche con la versione beta. Alcuni dei tuoi componenti aggiuntivi potrebbero non funzionare o smettere di funzionare da"
+" un giorno con l'altro. Consulta le <a href=\"https://support.mozilla.org/kb/thunderbird-add-ons-frequently-asked-questions#w_what-if-my-add-on-is-broken\">Domande frequenti sui componenti "
+"aggiuntivi</a> in caso di problemi."
 
 #: website/download/beta/index.html:81
 msgid "You have two choices for installing beta: Option 1 allows you to run the beta alongside the Stable version of Thunderbird, and Option 2 upgrades your existing installation."
