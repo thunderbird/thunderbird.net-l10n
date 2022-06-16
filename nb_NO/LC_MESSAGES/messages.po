@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-06-03 02:32-0700\n"
+"POT-Creation-Date: 2022-06-15 23:29-0700\n"
 "PO-Revision-Date: 2021-09-07 15:01+0000\n"
 "Last-Translator: J <jontajonta@gmail.com>\n"
 "Language-Team: none\n"
@@ -28,7 +28,8 @@ msgstr ""
 msgid "Support us!"
 msgstr "Få hjelp"
 
-#: start-page/beta/index.html:22 website/base-resp.html:28 website/base-resp.html:52 website/donate-mailing-list.html:17 website/thunderbird/91.0/whatsnew/index.html:22
+#: start-page/beta/index.html:22 website/base-resp.html:28 website/base-resp.html:52 website/donate-mailing-list.html:17 website/thunderbird/102.0/whatsnew/index.html:22
+#: website/thunderbird/91.0/whatsnew/index.html:22
 msgid "Donate"
 msgstr "Donasjon"
 
@@ -278,7 +279,7 @@ msgstr "Blogg"
 msgid "Thunderbird is funded by users like you"
 msgstr "Thunderbird er finansiert av brukere som deg"
 
-#: website/donate-mailing-list.html:14 website/thunderbird/91.0/whatsnew/index.html:17
+#: website/donate-mailing-list.html:14 website/thunderbird/102.0/whatsnew/index.html:17 website/thunderbird/91.0/whatsnew/index.html:17
 msgid "Thunderbird is both free and freedom respecting, but we’re also completely funded by donations! Help us sustain the project and continue to improve."
 msgstr "Thunderbird er både gratis og respekterer din frihet, men vi er også fullstendig finansiert av donasjoner! Hjelp oss med å opprettholde prosjektet og fortsette med forbedringer."
 
@@ -1160,6 +1161,121 @@ msgstr ""
 "eksperter hjelper til med å forsikre at våre produkter er sikrere og blir oppdatert i hurtig tempo. Det lar oss også nyte fordel av den beste tredjeparts penetrasjonsskanningen og "
 "vurderingsverktøyene for å styrke den helhetlige sikkerheten."
 
+#: website/thunderbird/102.0/whatsnew/index.html:7
+#, fuzzy
+msgid "New in Thunderbird 102"
+msgstr "Nytt i Thunderbird 91"
+
+#: website/thunderbird/102.0/whatsnew/index.html:14
+#, fuzzy, python-format
+msgid ""
+"This article describes some of the major changes visible to users in Thunderbird version 102. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird release notes "
+"from 102.0 and up</a>."
+msgstr ""
+"Denne artikkelen beskriver noen av de viktigste endringene som er synlige for brukere i Thunderbird versjon 78. Fullstendige detaljer om alle endringene finner du i <a href=\"%(release)s"
+"\">Thunderbird-utgivelsesnotater fra 78.0 og nyere</a>."
+
+#: website/thunderbird/102.0/whatsnew/index.html:43
+msgid "Message Header Redesign"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:46
+msgid ""
+"Thunderbird 102 helps you be more productive with less effort. When reading your email, the redesigned message header allows you to focus on what matters as it highlights important information. It’s"
+" also more responsive and easier to navigate. Plus, you can star important messages from the message header itself, and easily convert them into a calendar event or a task."
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:58
+#, fuzzy
+msgid "New Address Book"
+msgstr "Ett-klikks adressebok"
+
+#: website/thunderbird/102.0/whatsnew/index.html:61
+msgid ""
+"Thunderbird 102 gives your contacts a serious upgrade! The refreshed design makes it easier to navigate and interact with your contacts, and helps you better understand who you’re communicating "
+"with. The new Address Book has compatibility with vCard specs, meaning if your app can export your existing contacts into vCard format, Thunderbird can import them. Each contact card also acts as a "
+"launchpad for messaging, email, and event creation."
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:79
+msgid "New Import/Export Wizard"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:82
+msgid ""
+"Thunderbird 102 makes it quick and simple to move your accounts and data around. The new step-by-step wizard provides a guided experience for importing all that data that’s important to you. We’ve "
+"also taken extra precautions to ensure that no data is accidentally duplicated in your profile after an import. Moving from Outlook, SeaMonkey, or another Thunderbird installation is easier than "
+"ever. No add-ons required!"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:94
+msgid "New Spaces Toolbar"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:97
+msgid ""
+"Thunderbird 102 makes navigating the application more intuitive thanks to the the new Spaces Toolbar. Move between all of your activities with ease, whether it’s managing email, working with "
+"contacts through the awesome new address book, using the calendar and tasks functionality, chat, and even add-ons! If you want to save screen real estate, the Spaces Toolbar can be dismissed, and "
+"you can instead navigate the different activities Thunderbird offers with the new Pinned Spaces tab."
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:115
+msgid "New Matrix Chat Support"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:118
+msgid ""
+"Thunderbird 102 offers a new way to chat privately and securely with your colleagues, friends, and family. We’ve added support for the open-source, decentralized chat protocol Matrix, and it’s "
+"usable right out of the box! (As always, we welcome your feedback since it’s an evolving service.)"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:128 website/thunderbird/68.0/whatsnew/index.html:67 website/thunderbird/78.0/whatsnew/index.html:81 website/thunderbird/91.0/whatsnew/index.html:168
+msgid "Other Notable Changes"
+msgstr "Andre viktige endringer"
+
+#: website/thunderbird/102.0/whatsnew/index.html:131
+msgid "There are many other big changes that make Thunderbird 102 a very large release including:"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:134
+msgid "New Icons and Default Folder Colors"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:135
+msgid "Use Thunderbird without an email account (for example, as an RSS reader)"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:136
+msgid "Numerous OpenPGP improvements"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:137
+msgid "CalendarLocal parser converted to javascript"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:138
+msgid "Today Pane calendar UI refresh"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:139
+msgid "POP3 implemented in javascript"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:140
+msgid "Account settings moved to macOS application menu"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:141
+msgid ""
+"Plus: Application-wide font size control, Theme fixes, FileLink fixes, Accessibility fixes, improved vCard integration, improved calendar startup performance, Calendar fixes including correct order "
+"of week view headers and days for right to left locales."
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:144
+#, fuzzy, python-format
+msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 102.0 and up</a>."
+msgstr "Du kan se detaljer om alle endringene våre i utgivelsesnotater for <a href=\"%(release)s\">Thunderbird 78.0 og nyere</a>."
+
 #: website/thunderbird/68.0/whatsnew/index.html:7
 msgid "New in Thunderbird 68"
 msgstr "Nytt i Thunderbird 68"
@@ -1213,10 +1329,6 @@ msgstr ""
 #: website/thunderbird/68.0/whatsnew/index.html:58
 msgid "The new Preferences tab also makes it easier to multi-task without the problem of losing track of where your preferences are when switching between windows."
 msgstr "Den nye fanen Innstillinger gjør det også enklere å gjøre flere oppgaver samtidig uten å miste oversikten over hvor innstillingene dine er når du veksler mellom vinduer."
-
-#: website/thunderbird/68.0/whatsnew/index.html:67 website/thunderbird/78.0/whatsnew/index.html:81 website/thunderbird/91.0/whatsnew/index.html:168
-msgid "Other Notable Changes"
-msgstr "Andre viktige endringer"
 
 #: website/thunderbird/68.0/whatsnew/index.html:70
 msgid ""

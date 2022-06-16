@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-06-03 02:32-0700\n"
+"POT-Creation-Date: 2022-06-15 23:29-0700\n"
 "PO-Revision-Date: 2022-05-26 01:32+0000\n"
 "Last-Translator: Hyeonseok Shin <hyeonseok@gmail.com>\n"
 "Language-Team: none\n"
@@ -27,7 +27,8 @@ msgstr "<div class=\"tb-text\">Thunderbird <small class=\"beta-text\">Beta</smal
 msgid "Support us!"
 msgstr "저희를 지원해주세요!"
 
-#: start-page/beta/index.html:22 website/base-resp.html:28 website/base-resp.html:52 website/donate-mailing-list.html:17 website/thunderbird/91.0/whatsnew/index.html:22
+#: start-page/beta/index.html:22 website/base-resp.html:28 website/base-resp.html:52 website/donate-mailing-list.html:17 website/thunderbird/102.0/whatsnew/index.html:22
+#: website/thunderbird/91.0/whatsnew/index.html:22
 msgid "Donate"
 msgstr "기부하기"
 
@@ -263,7 +264,7 @@ msgstr "블로그"
 msgid "Thunderbird is funded by users like you"
 msgstr "Thunderbird는 귀하와 같은 사용자들의 기부로 운영됩니다"
 
-#: website/donate-mailing-list.html:14 website/thunderbird/91.0/whatsnew/index.html:17
+#: website/donate-mailing-list.html:14 website/thunderbird/102.0/whatsnew/index.html:17 website/thunderbird/91.0/whatsnew/index.html:17
 msgid "Thunderbird is both free and freedom respecting, but we’re also completely funded by donations! Help us sustain the project and continue to improve."
 msgstr "Thunderbird는 무료로 자유로운 배포되며, 기부금으로 전적으로 자금을 지원받습니다! 우리가 프로젝트를 유지하고 지속적으로 개선하도록 도와주세요."
 
@@ -1102,6 +1103,119 @@ msgstr ""
 "Thunderbird는 풍부한 경험이 개발자와 보안 전문가가 전세계에서 다수 참가하는 오픈 소스 개발 프로세스에 의해서 유지되고 있습니다. 투명한 환경 속에서 많은 전문가로부터 적극적인 협력을받는 것으로 보다 안전한 제품을 제공 할 수 있고, 만일 문제가보고 된 경우도 신속하게 수정 된 버전을 배포 할 수있는 체제를 갖추고 있습니다. 또한 동시에 뛰어난"
 " 타사의 보안 검증 · 평가 도구를 활용하여 전체적인 보안 수준을 향상시키고 있습니다."
 
+#: website/thunderbird/102.0/whatsnew/index.html:7
+#, fuzzy
+msgid "New in Thunderbird 102"
+msgstr "Thunderbird 91의 새로운 기능"
+
+#: website/thunderbird/102.0/whatsnew/index.html:14
+#, fuzzy, python-format
+msgid ""
+"This article describes some of the major changes visible to users in Thunderbird version 102. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird release notes "
+"from 102.0 and up</a>."
+msgstr "이 문서에서는 Thunderbird 버전 78에서 사용자에게 표시되는 몇 가지 주요 변경 사항에 대해 설명합니다. 모든 변경 사항에 대한 자세한 내용은 <a href=\"%(release)s\">Thunderbird 78 출시 노트</a>에서 확인할 수 있습니다."
+
+#: website/thunderbird/102.0/whatsnew/index.html:43
+msgid "Message Header Redesign"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:46
+msgid ""
+"Thunderbird 102 helps you be more productive with less effort. When reading your email, the redesigned message header allows you to focus on what matters as it highlights important information. It’s"
+" also more responsive and easier to navigate. Plus, you can star important messages from the message header itself, and easily convert them into a calendar event or a task."
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:58
+#, fuzzy
+msgid "New Address Book"
+msgstr "원클릭 주소록"
+
+#: website/thunderbird/102.0/whatsnew/index.html:61
+msgid ""
+"Thunderbird 102 gives your contacts a serious upgrade! The refreshed design makes it easier to navigate and interact with your contacts, and helps you better understand who you’re communicating "
+"with. The new Address Book has compatibility with vCard specs, meaning if your app can export your existing contacts into vCard format, Thunderbird can import them. Each contact card also acts as a "
+"launchpad for messaging, email, and event creation."
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:79
+msgid "New Import/Export Wizard"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:82
+msgid ""
+"Thunderbird 102 makes it quick and simple to move your accounts and data around. The new step-by-step wizard provides a guided experience for importing all that data that’s important to you. We’ve "
+"also taken extra precautions to ensure that no data is accidentally duplicated in your profile after an import. Moving from Outlook, SeaMonkey, or another Thunderbird installation is easier than "
+"ever. No add-ons required!"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:94
+msgid "New Spaces Toolbar"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:97
+msgid ""
+"Thunderbird 102 makes navigating the application more intuitive thanks to the the new Spaces Toolbar. Move between all of your activities with ease, whether it’s managing email, working with "
+"contacts through the awesome new address book, using the calendar and tasks functionality, chat, and even add-ons! If you want to save screen real estate, the Spaces Toolbar can be dismissed, and "
+"you can instead navigate the different activities Thunderbird offers with the new Pinned Spaces tab."
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:115
+msgid "New Matrix Chat Support"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:118
+msgid ""
+"Thunderbird 102 offers a new way to chat privately and securely with your colleagues, friends, and family. We’ve added support for the open-source, decentralized chat protocol Matrix, and it’s "
+"usable right out of the box! (As always, we welcome your feedback since it’s an evolving service.)"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:128 website/thunderbird/68.0/whatsnew/index.html:67 website/thunderbird/78.0/whatsnew/index.html:81 website/thunderbird/91.0/whatsnew/index.html:168
+msgid "Other Notable Changes"
+msgstr "기타 주목할만한 변경 사항"
+
+#: website/thunderbird/102.0/whatsnew/index.html:131
+msgid "There are many other big changes that make Thunderbird 102 a very large release including:"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:134
+msgid "New Icons and Default Folder Colors"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:135
+msgid "Use Thunderbird without an email account (for example, as an RSS reader)"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:136
+msgid "Numerous OpenPGP improvements"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:137
+msgid "CalendarLocal parser converted to javascript"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:138
+msgid "Today Pane calendar UI refresh"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:139
+msgid "POP3 implemented in javascript"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:140
+msgid "Account settings moved to macOS application menu"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:141
+msgid ""
+"Plus: Application-wide font size control, Theme fixes, FileLink fixes, Accessibility fixes, improved vCard integration, improved calendar startup performance, Calendar fixes including correct order "
+"of week view headers and days for right to left locales."
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:144
+#, fuzzy, python-format
+msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 102.0 and up</a>."
+msgstr "<a href=\"%(release)s\">Thunderbird 91.0 이상</a>의 릴리즈 노트에서 모든 변경 사항에 대한 세부 정보를 볼 수 있습니다."
+
 #: website/thunderbird/68.0/whatsnew/index.html:7
 msgid "New in Thunderbird 68"
 msgstr "Thunderbird 68의 새로운 기능"
@@ -1149,10 +1263,6 @@ msgstr "Thunderbird의 환경 설정이 대화 창에서 전용 탭으로 변환
 #: website/thunderbird/68.0/whatsnew/index.html:58
 msgid "The new Preferences tab also makes it easier to multi-task without the problem of losing track of where your preferences are when switching between windows."
 msgstr "새로운 환경 설정 탭은 또한 창 사이를 전환 할 때 환경 설정이 어디에 있는지 추적하는 문제없이 멀티 태스킹을 쉽게 합니다."
-
-#: website/thunderbird/68.0/whatsnew/index.html:67 website/thunderbird/78.0/whatsnew/index.html:81 website/thunderbird/91.0/whatsnew/index.html:168
-msgid "Other Notable Changes"
-msgstr "기타 주목할만한 변경 사항"
 
 #: website/thunderbird/68.0/whatsnew/index.html:70
 msgid ""

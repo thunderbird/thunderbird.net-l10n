@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
 # taotieren <admin@taotieren.com>, 2019.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-06-03 02:32-0700\n"
+"POT-Creation-Date: 2022-06-15 23:29-0700\n"
 "PO-Revision-Date: 2022-06-06 13:51+0000\n"
 "Last-Translator: 你我皆凡人 <yuanbingyan@mail.ee>\n"
 "Language-Team: none\n"
@@ -28,7 +28,8 @@ msgstr "欢迎使用 <div class=\"tb-text\">Thunderbird <small class=\"beta-text
 msgid "Support us!"
 msgstr "支持我们！"
 
-#: start-page/beta/index.html:22 website/base-resp.html:28 website/base-resp.html:52 website/donate-mailing-list.html:17 website/thunderbird/91.0/whatsnew/index.html:22
+#: start-page/beta/index.html:22 website/base-resp.html:28 website/base-resp.html:52 website/donate-mailing-list.html:17 website/thunderbird/102.0/whatsnew/index.html:22
+#: website/thunderbird/91.0/whatsnew/index.html:22
 msgid "Donate"
 msgstr "捐赠"
 
@@ -262,7 +263,7 @@ msgstr "博客"
 msgid "Thunderbird is funded by users like you"
 msgstr "Thunderbird 的发展离不开您的资助"
 
-#: website/donate-mailing-list.html:14 website/thunderbird/91.0/whatsnew/index.html:17
+#: website/donate-mailing-list.html:14 website/thunderbird/102.0/whatsnew/index.html:17 website/thunderbird/91.0/whatsnew/index.html:17
 msgid "Thunderbird is both free and freedom respecting, but we’re also completely funded by donations! Help us sustain the project and continue to improve."
 msgstr "Thunderbird 既免费又尊重自由，我们的发展完全由捐款资助！请帮助我们让这个项目走得更远。"
 
@@ -1090,6 +1091,120 @@ msgid ""
 "further bolster overall security."
 msgstr "Thunderbird 的核心是成千上万的热情驱动的开源开发流程，经验丰富的开发人员和安全专家遍布世界各地。我们的开放性和活跃的专家社区有助于确保我们的产品更加安全、快速更新，同时也使我们能够利用最好的第三方安全扫描和评估工具，以进一步增强整体安全性。"
 
+#: website/thunderbird/102.0/whatsnew/index.html:7
+#, fuzzy
+msgid "New in Thunderbird 102"
+msgstr "Thunderbird 91 的新变化"
+
+#: website/thunderbird/102.0/whatsnew/index.html:14
+#, fuzzy, python-format
+msgid ""
+"This article describes some of the major changes visible to users in Thunderbird version 102. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird release notes "
+"from 102.0 and up</a>."
+msgstr "此文章描述了 Thunderbird 91 版中用户明显可见的若干主要更改。有关所有更改的详细信息，请参阅 <a href=\"%(release)s\">Thunderbird 91.0 发行说明</a>。"
+
+#: website/thunderbird/102.0/whatsnew/index.html:43
+msgid "Message Header Redesign"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:46
+msgid ""
+"Thunderbird 102 helps you be more productive with less effort. When reading your email, the redesigned message header allows you to focus on what matters as it highlights important information. It’s"
+" also more responsive and easier to navigate. Plus, you can star important messages from the message header itself, and easily convert them into a calendar event or a task."
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:58
+#, fuzzy
+msgid "New Address Book"
+msgstr "快捷通讯录"
+
+#: website/thunderbird/102.0/whatsnew/index.html:61
+msgid ""
+"Thunderbird 102 gives your contacts a serious upgrade! The refreshed design makes it easier to navigate and interact with your contacts, and helps you better understand who you’re communicating "
+"with. The new Address Book has compatibility with vCard specs, meaning if your app can export your existing contacts into vCard format, Thunderbird can import them. Each contact card also acts as a "
+"launchpad for messaging, email, and event creation."
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:79
+msgid "New Import/Export Wizard"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:82
+msgid ""
+"Thunderbird 102 makes it quick and simple to move your accounts and data around. The new step-by-step wizard provides a guided experience for importing all that data that’s important to you. We’ve "
+"also taken extra precautions to ensure that no data is accidentally duplicated in your profile after an import. Moving from Outlook, SeaMonkey, or another Thunderbird installation is easier than "
+"ever. No add-ons required!"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:94
+msgid "New Spaces Toolbar"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:97
+msgid ""
+"Thunderbird 102 makes navigating the application more intuitive thanks to the the new Spaces Toolbar. Move between all of your activities with ease, whether it’s managing email, working with "
+"contacts through the awesome new address book, using the calendar and tasks functionality, chat, and even add-ons! If you want to save screen real estate, the Spaces Toolbar can be dismissed, and "
+"you can instead navigate the different activities Thunderbird offers with the new Pinned Spaces tab."
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:115
+msgid "New Matrix Chat Support"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:118
+msgid ""
+"Thunderbird 102 offers a new way to chat privately and securely with your colleagues, friends, and family. We’ve added support for the open-source, decentralized chat protocol Matrix, and it’s "
+"usable right out of the box! (As always, we welcome your feedback since it’s an evolving service.)"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:128 website/thunderbird/68.0/whatsnew/index.html:67 website/thunderbird/78.0/whatsnew/index.html:81 website/thunderbird/91.0/whatsnew/index.html:168
+msgid "Other Notable Changes"
+msgstr "其他重要的变化"
+
+#: website/thunderbird/102.0/whatsnew/index.html:131
+#, fuzzy
+msgid "There are many other big changes that make Thunderbird 102 a very large release including:"
+msgstr "在 Thunderbird 91 这个大更新中还有许多其他明显变化，包括："
+
+#: website/thunderbird/102.0/whatsnew/index.html:134
+msgid "New Icons and Default Folder Colors"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:135
+msgid "Use Thunderbird without an email account (for example, as an RSS reader)"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:136
+msgid "Numerous OpenPGP improvements"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:137
+msgid "CalendarLocal parser converted to javascript"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:138
+msgid "Today Pane calendar UI refresh"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:139
+msgid "POP3 implemented in javascript"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:140
+msgid "Account settings moved to macOS application menu"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:141
+msgid ""
+"Plus: Application-wide font size control, Theme fixes, FileLink fixes, Accessibility fixes, improved vCard integration, improved calendar startup performance, Calendar fixes including correct order "
+"of week view headers and days for right to left locales."
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:144
+#, fuzzy, python-format
+msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 102.0 and up</a>."
+msgstr "此版本中还有许多其他更新，您可以到<a href=\"%(release)s\">Thunderbird 91.0 发行说明</a>查看完整的更新信息。"
+
 #: website/thunderbird/68.0/whatsnew/index.html:7
 msgid "New in Thunderbird 68"
 msgstr "Thunderbird 68 的新变化"
@@ -1137,10 +1252,6 @@ msgstr "Thunderbird 的选项/首选项窗口已转为专用标签页。全新�
 #: website/thunderbird/68.0/whatsnew/index.html:58
 msgid "The new Preferences tab also makes it easier to multi-task without the problem of losing track of where your preferences are when switching between windows."
 msgstr "新的“首选项”标签页使得多任务处理变得更容易，且不用担心在切换窗口时迷失“首选项”的位置。"
-
-#: website/thunderbird/68.0/whatsnew/index.html:67 website/thunderbird/78.0/whatsnew/index.html:81 website/thunderbird/91.0/whatsnew/index.html:168
-msgid "Other Notable Changes"
-msgstr "其他重要的变化"
 
 #: website/thunderbird/68.0/whatsnew/index.html:70
 msgid ""

@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-06-03 02:32-0700\n"
+"POT-Creation-Date: 2022-06-15 23:29-0700\n"
 "PO-Revision-Date: 2022-06-05 11:24+0000\n"
 "Last-Translator: Іhor Hordiichuk <igor_ck@outlook.com>\n"
 "Language-Team: none\n"
@@ -27,7 +27,8 @@ msgstr "Ласкаво просимо до <div class=\"tb-text\">Thunderbird <s
 msgid "Support us!"
 msgstr "Підтримайте нас!"
 
-#: start-page/beta/index.html:22 website/base-resp.html:28 website/base-resp.html:52 website/donate-mailing-list.html:17 website/thunderbird/91.0/whatsnew/index.html:22
+#: start-page/beta/index.html:22 website/base-resp.html:28 website/base-resp.html:52 website/donate-mailing-list.html:17 website/thunderbird/102.0/whatsnew/index.html:22
+#: website/thunderbird/91.0/whatsnew/index.html:22
 msgid "Donate"
 msgstr "Зробити внесок"
 
@@ -276,7 +277,7 @@ msgstr "Блог"
 msgid "Thunderbird is funded by users like you"
 msgstr "Thunderbird фінансується такими користувачами, як ви"
 
-#: website/donate-mailing-list.html:14 website/thunderbird/91.0/whatsnew/index.html:17
+#: website/donate-mailing-list.html:14 website/thunderbird/102.0/whatsnew/index.html:17 website/thunderbird/91.0/whatsnew/index.html:17
 msgid "Thunderbird is both free and freedom respecting, but we’re also completely funded by donations! Help us sustain the project and continue to improve."
 msgstr "Thunderbird є вільним та поважає свободу, але він цілком фінансується добровільними внесками! Допоможіть нам підтримувати та вдосконалювати проєкт."
 
@@ -783,9 +784,9 @@ msgid ""
 "Flaws are to be expected. High-impact flaws, including data loss, are very rare, but may occur. Protect yourself with <a href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-"
 "data#w_backing-up-a-profile\">backups</a>. Low-impact flaws may not be fixed quickly, because fixes are prioritized based on impact."
 msgstr ""
-"Слід очікувати недоліків. Вади з сильним впливом, включно з втратою даних, зустрічаються дуже рідко, але можуть виникати. Захистіть себе за допомогою <a "
-"href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-data#w_backing-up-a-profile\">резервних копій</a>. Недоліки з низьким рівнем впливу не можуть бути виправлені швидко, "
-"оскільки пріоритети виправлень визначаються на основі впливу."
+"Слід очікувати недоліків. Вади з сильним впливом, включно з втратою даних, зустрічаються дуже рідко, але можуть виникати. Захистіть себе за допомогою <a href=\"https://support.mozilla.org/kb"
+"/profiles-where-thunderbird-stores-user-data#w_backing-up-a-profile\">резервних копій</a>. Недоліки з низьким рівнем впливу не можуть бути виправлені швидко, оскільки пріоритети виправлень "
+"визначаються на основі впливу."
 
 #: website/download/beta/index.html:57
 msgid "Expect seven updates per month, one major update per month plus several small updates. This frequency of updates allows us to make fast improvements."
@@ -843,8 +844,8 @@ msgid ""
 "Thunderbird 102 and newer on Windows will install beta into its own program directory. For older versions on Windows consult the <a href=\"https://support.mozilla.org/en-US/kb/thunderbird-"
 "beta\">beta support article</a>. For other operating systems use an install method appropriate for your OS to target a uniquely named directory."
 msgstr ""
-"Thunderbird 102 і новіші для Windows встановлять бета-версію у власний каталог програми. Щоб дізнатися про старіші версії Windows, перегляньте <a href=\"https://support.mozilla.org/en-"
-"US/kb/thunderbird-beta\">статтю підтримки бета-версії</a>. Для інших операційних систем використовуйте метод встановлення, відповідний для вашої ОС, щоб націлити його на каталог з унікальною назвою."
+"Thunderbird 102 і новіші для Windows встановлять бета-версію у власний каталог програми. Щоб дізнатися про старіші версії Windows, перегляньте <a href=\"https://support.mozilla.org/en-US/kb"
+"/thunderbird-beta\">статтю підтримки бета-версії</a>. Для інших операційних систем використовуйте метод встановлення, відповідний для вашої ОС, щоб націлити його на каталог з унікальною назвою."
 
 #: website/download/beta/index.html:89
 msgid ""
@@ -1203,6 +1204,122 @@ msgstr ""
 "активна спільнота спеціалістів гарантують високий рівень безпеки наших продуктів і швидке їх оновлення. До того ж, ми можемо вільно користуватися засобами оцінки та перевірки системи безпеки від "
 "сторонніх розробників. Ці засоби дозволяють щоразу піднімати безпеку на новий рівень."
 
+#: website/thunderbird/102.0/whatsnew/index.html:7
+#, fuzzy
+msgid "New in Thunderbird 102"
+msgstr "Нове у Thunderbird 91"
+
+#: website/thunderbird/102.0/whatsnew/index.html:14
+#, fuzzy, python-format
+msgid ""
+"This article describes some of the major changes visible to users in Thunderbird version 102. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird release notes "
+"from 102.0 and up</a>."
+msgstr ""
+"Ця стаття описує деякі основні зміни, помітні користувачам в Thunderbird версії 78. Подробиці про всі зміни можна знайти в <a href=\"%(release)s\">примітках до випуску Thunderbird 91.0 та новіших "
+"версій</a>."
+
+#: website/thunderbird/102.0/whatsnew/index.html:43
+msgid "Message Header Redesign"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:46
+msgid ""
+"Thunderbird 102 helps you be more productive with less effort. When reading your email, the redesigned message header allows you to focus on what matters as it highlights important information. It’s"
+" also more responsive and easier to navigate. Plus, you can star important messages from the message header itself, and easily convert them into a calendar event or a task."
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:58
+#, fuzzy
+msgid "New Address Book"
+msgstr "Адресна книга на відстані одного кліку"
+
+#: website/thunderbird/102.0/whatsnew/index.html:61
+msgid ""
+"Thunderbird 102 gives your contacts a serious upgrade! The refreshed design makes it easier to navigate and interact with your contacts, and helps you better understand who you’re communicating "
+"with. The new Address Book has compatibility with vCard specs, meaning if your app can export your existing contacts into vCard format, Thunderbird can import them. Each contact card also acts as a "
+"launchpad for messaging, email, and event creation."
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:79
+msgid "New Import/Export Wizard"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:82
+msgid ""
+"Thunderbird 102 makes it quick and simple to move your accounts and data around. The new step-by-step wizard provides a guided experience for importing all that data that’s important to you. We’ve "
+"also taken extra precautions to ensure that no data is accidentally duplicated in your profile after an import. Moving from Outlook, SeaMonkey, or another Thunderbird installation is easier than "
+"ever. No add-ons required!"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:94
+msgid "New Spaces Toolbar"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:97
+msgid ""
+"Thunderbird 102 makes navigating the application more intuitive thanks to the the new Spaces Toolbar. Move between all of your activities with ease, whether it’s managing email, working with "
+"contacts through the awesome new address book, using the calendar and tasks functionality, chat, and even add-ons! If you want to save screen real estate, the Spaces Toolbar can be dismissed, and "
+"you can instead navigate the different activities Thunderbird offers with the new Pinned Spaces tab."
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:115
+msgid "New Matrix Chat Support"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:118
+msgid ""
+"Thunderbird 102 offers a new way to chat privately and securely with your colleagues, friends, and family. We’ve added support for the open-source, decentralized chat protocol Matrix, and it’s "
+"usable right out of the box! (As always, we welcome your feedback since it’s an evolving service.)"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:128 website/thunderbird/68.0/whatsnew/index.html:67 website/thunderbird/78.0/whatsnew/index.html:81 website/thunderbird/91.0/whatsnew/index.html:168
+msgid "Other Notable Changes"
+msgstr "Інші суттєві зміни"
+
+#: website/thunderbird/102.0/whatsnew/index.html:131
+#, fuzzy
+msgid "There are many other big changes that make Thunderbird 102 a very large release including:"
+msgstr "Зроблено багато інших великих змін, які роблять Thunderbird 91 дуже великим випуском, серед них:"
+
+#: website/thunderbird/102.0/whatsnew/index.html:134
+msgid "New Icons and Default Folder Colors"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:135
+msgid "Use Thunderbird without an email account (for example, as an RSS reader)"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:136
+msgid "Numerous OpenPGP improvements"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:137
+msgid "CalendarLocal parser converted to javascript"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:138
+msgid "Today Pane calendar UI refresh"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:139
+msgid "POP3 implemented in javascript"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:140
+msgid "Account settings moved to macOS application menu"
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:141
+msgid ""
+"Plus: Application-wide font size control, Theme fixes, FileLink fixes, Accessibility fixes, improved vCard integration, improved calendar startup performance, Calendar fixes including correct order "
+"of week view headers and days for right to left locales."
+msgstr ""
+
+#: website/thunderbird/102.0/whatsnew/index.html:144
+#, fuzzy, python-format
+msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 102.0 and up</a>."
+msgstr "Ви можете ознайомитися з подробицями про всі зміни в примітках до випуску для <a href=\"%(release)s\">Thunderbird 91.0 та новіших версій</a>."
+
 #: website/thunderbird/68.0/whatsnew/index.html:7
 msgid "New in Thunderbird 68"
 msgstr "Нове у Thunderbird 68"
@@ -1254,10 +1371,6 @@ msgstr ""
 #: website/thunderbird/68.0/whatsnew/index.html:58
 msgid "The new Preferences tab also makes it easier to multi-task without the problem of losing track of where your preferences are when switching between windows."
 msgstr "Нова вкладка налаштувань також дозволяє простіше виконувати різні операції в різних вкладках та вікнах."
-
-#: website/thunderbird/68.0/whatsnew/index.html:67 website/thunderbird/78.0/whatsnew/index.html:81 website/thunderbird/91.0/whatsnew/index.html:168
-msgid "Other Notable Changes"
-msgstr "Інші суттєві зміни"
 
 #: website/thunderbird/68.0/whatsnew/index.html:70
 msgid ""
