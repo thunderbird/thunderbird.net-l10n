@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-06-15 23:29-0700\n"
-"PO-Revision-Date: 2022-06-17 13:13+0000\n"
+"PO-Revision-Date: 2022-06-17 13:26+0000\n"
 "Last-Translator: wladow <valastiak@mozilla.sk>\n"
 "Language-Team: none\n"
 "Language: sk\n"
@@ -777,28 +777,36 @@ msgid ""
 "New features may be incomplete works in progress, because some are completed and polished over a period of weeks. The <a href=\"https://thunderbird.topicbox.com/groups/beta\">beta forum</a> may "
 "provide more information on feature progress."
 msgstr ""
+"Nové funkcie môžu byť nedokončené, pretože niektoré sú dokončované a ladené v priebehu niekoľkých týždňov. Ďalšie informácie o vývoji funkcií môže poskytnúť <a "
+"href=\"https://thunderbird.topicbox.com/groups/beta\">fórum verzie beta</a>."
 
 #: website/download/beta/index.html:56
 msgid ""
 "Flaws are to be expected. High-impact flaws, including data loss, are very rare, but may occur. Protect yourself with <a href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-"
 "data#w_backing-up-a-profile\">backups</a>. Low-impact flaws may not be fixed quickly, because fixes are prioritized based on impact."
 msgstr ""
+"Nedostatky sa dajú očakávať. Chyby s vysokým dopadom vrátane straty údajov sú veľmi zriedkavé, ale môžu sa vyskytnúť. Chráňte sa vytváraním <a href=\"https://support.mozilla.org/kb/profiles-where-"
+"thunderbird-stores-user-data#w_backing-up-a-profile\">záloh</a>. Nedostatky s malým dopadom sa nemusia opraviť rýchlo, pretože opravy majú prioritu na základe ich vplyvu."
 
 #: website/download/beta/index.html:57
 msgid "Expect seven updates per month, one major update per month plus several small updates. This frequency of updates allows us to make fast improvements."
-msgstr ""
+msgstr "Očakávajte sedem aktualizácií za mesiac, jednu veľkú aktualizáciu za mesiac plus niekoľko malých aktualizácií. Táto frekvencia aktualizácií nám umožňuje robiť rýchle vylepšenia."
 
 #: website/download/beta/index.html:58
 msgid ""
 "Are you using <a href=\"https://support.mozilla.org/kb/difference-between-imap-and-pop3\">POP accounts</a>? Unlike IMAP accounts, the only copy of your pop mail is in your local Thunderbird profile."
 " If you want to add a POP account to beta, your options are:"
 msgstr ""
+"Používate <a href=\"https://support.mozilla.org/kb/difference-between-imap-and-pop3\">účty POP</a>? Na rozdiel od účtov IMAP je jediná kópia vašej pošty vo vašom lokálnom profile Thunderbirdu. Ak "
+"chcete do verzie beta pridať účet POP, máte tieto možnosti:"
 
 #: website/download/beta/index.html:60
 msgid ""
 "After set up, go to <b>≡ > Account Settings > Server Settings</b> and make sure the <b>\"Leave messages on server\"</b> option is <b>checked</b>, and the <b>\"For at most [X] days\"</b> option is "
 "<b>unchecked</b>."
 msgstr ""
+"Po nastavení prejdite do <b>≡ > Nastavenie účtov > Nastavenia servera</b> a skontrolujte, či je <b>začiarknutá</b> možnosť <b>Nechávať správy na serveri</b> a \"<b>Najviac [X] dní</b>\" je "
+"<b>nezačiarknuté</b>."
 
 #: website/download/beta/index.html:61
 msgid ""
@@ -1164,31 +1172,33 @@ msgstr ""
 "viac zvýšila celková bezpečnosť."
 
 #: website/thunderbird/102.0/whatsnew/index.html:7
-#, fuzzy
 msgid "New in Thunderbird 102"
-msgstr "Novinky v Thunderbirde 91"
+msgstr "Novinky v Thunderbirde 102"
 
 #: website/thunderbird/102.0/whatsnew/index.html:14
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "This article describes some of the major changes visible to users in Thunderbird version 102. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird release notes "
 "from 102.0 and up</a>."
-msgstr "Tento článok popisuje niektoré viditeľné zmeny v Thunderbirde 91. Úplný zoznam zmien nájdete v <a href=\"%(release)s\">poznámkach k vydaniu Thunderbirdu 91.0 a novších verzií</a>."
+msgstr ""
+"Tento článok popisuje niektoré z hlavných zmien viditeľných pre používateľov v Thunderbirde verzie 102. Úplný zoznam všetkých zmien nájdete v <a href=\"%(release)s\">poznámkach k vydaniu "
+"Thunderbirdu verzie 102.0 a vyššej</a>."
 
 #: website/thunderbird/102.0/whatsnew/index.html:43
 msgid "Message Header Redesign"
-msgstr ""
+msgstr "Zmena dizajnu hlavičky správy"
 
 #: website/thunderbird/102.0/whatsnew/index.html:46
 msgid ""
 "Thunderbird 102 helps you be more productive with less effort. When reading your email, the redesigned message header allows you to focus on what matters as it highlights important information. It’s"
 " also more responsive and easier to navigate. Plus, you can star important messages from the message header itself, and easily convert them into a calendar event or a task."
 msgstr ""
+"Thunderbird 102 vám pomáha byť produktívnejší s menšou námahou. Pri čítaní e-mailu vám prepracovaná hlavička správy umožňuje zamerať sa na to, čo je dôležité, pretože zvýrazňuje dôležité informácie."
+" Lepšie sa prispôsobuje a ľahšie sa v nej pohybuje. Okrem toho môžete dôležité správy označiť hviezdičkou zo samotnej hlavičky správy a jednoducho ich previesť na udalosť kalendára alebo úlohu."
 
 #: website/thunderbird/102.0/whatsnew/index.html:58
-#, fuzzy
 msgid "New Address Book"
-msgstr "Adresár na jedno kliknutie"
+msgstr "Nový adresár"
 
 #: website/thunderbird/102.0/whatsnew/index.html:61
 msgid ""
@@ -1196,10 +1206,13 @@ msgid ""
 "with. The new Address Book has compatibility with vCard specs, meaning if your app can export your existing contacts into vCard format, Thunderbird can import them. Each contact card also acts as a "
 "launchpad for messaging, email, and event creation."
 msgstr ""
+"Thunderbird 102 poskytuje vašim kontaktom seriózny upgrade! Vynovený dizajn uľahčuje navigáciu a interakciu s vašimi kontaktmi a pomáha vám lepšie pochopiť, s kým komunikujete. Nový adresár je "
+"kompatibilný so špecifikáciami vCard, čo znamená, že ak vaša aplikácia dokáže exportovať vaše existujúce kontakty do formátu vCard, Thunderbird ich môže importovať. Každá karta kontaktu slúži aj ako"
+" spúšťací panel pre správy, e-maily a vytváranie udalostí."
 
 #: website/thunderbird/102.0/whatsnew/index.html:79
 msgid "New Import/Export Wizard"
-msgstr ""
+msgstr "Nový sprievodca importom/exportom"
 
 #: website/thunderbird/102.0/whatsnew/index.html:82
 msgid ""
@@ -1207,10 +1220,13 @@ msgid ""
 "also taken extra precautions to ensure that no data is accidentally duplicated in your profile after an import. Moving from Outlook, SeaMonkey, or another Thunderbird installation is easier than "
 "ever. No add-ons required!"
 msgstr ""
+"Thunderbird 102 umožňuje rýchly a jednoduchý presun vašich účtov a údajov. Nový podrobný sprievodca poskytuje kroky pre import všetkých údajov, ktoré sú pre vás dôležité. Prijali sme aj ďalšie "
+"opatrenia, aby sme zaistili, že po importe sa vo vašom profile náhodne neduplikujú žiadne údaje. Presun z Outlooku, SeaMonkey alebo inej inštalácie Thunderbirdu je jednoduchší než kedykoľvek "
+"predtým. Nevyžadujú sa pri tom žiadne doplnky!"
 
 #: website/thunderbird/102.0/whatsnew/index.html:94
 msgid "New Spaces Toolbar"
-msgstr ""
+msgstr "Nový panel s nástrojmi Miesta"
 
 #: website/thunderbird/102.0/whatsnew/index.html:97
 msgid ""
@@ -1218,64 +1234,70 @@ msgid ""
 "contacts through the awesome new address book, using the calendar and tasks functionality, chat, and even add-ons! If you want to save screen real estate, the Spaces Toolbar can be dismissed, and "
 "you can instead navigate the different activities Thunderbird offers with the new Pinned Spaces tab."
 msgstr ""
+"Thunderbird 102 robí navigáciu v aplikácii intuitívnejšou vďaka novému panelu nástrojov Miesta. Ľahko sa presúvajte medzi všetkými svojimi aktivitami, či už ide o správu e-mailov, prácu s kontaktmi "
+"prostredníctvom úžasného nového adresára, používanie funkcií kalendára a úloh, konverzácií či dokonca aj doplnkov! Ak chcete ušetriť priestor na obrazovke, panel s nástrojmi Miesta môžete zatvoriť a"
+" namiesto toho môžete prechádzať rôznymi aktivitami, ktoré Thunderbird ponúka, pomocou novej karty Pripnuté miesta."
 
 #: website/thunderbird/102.0/whatsnew/index.html:115
 msgid "New Matrix Chat Support"
-msgstr ""
+msgstr "Nová podpora chatu Matrix"
 
 #: website/thunderbird/102.0/whatsnew/index.html:118
 msgid ""
 "Thunderbird 102 offers a new way to chat privately and securely with your colleagues, friends, and family. We’ve added support for the open-source, decentralized chat protocol Matrix, and it’s "
 "usable right out of the box! (As always, we welcome your feedback since it’s an evolving service.)"
 msgstr ""
+"Thunderbird 102 ponúka nový spôsob súkromného a bezpečného rozhovoru s kolegami, priateľmi a rodinou. Pridali sme podporu pre open-source, decentralizovaný chat protokol Matrix, ktorý je k "
+"dispozícii hneď po spustení. (Ako vždy privítame vašu spätnú väzbu, pretože ide o službu vo vývoji)"
 
 #: website/thunderbird/102.0/whatsnew/index.html:128 website/thunderbird/68.0/whatsnew/index.html:67 website/thunderbird/78.0/whatsnew/index.html:81 website/thunderbird/91.0/whatsnew/index.html:168
 msgid "Other Notable Changes"
 msgstr "Ďalšie významné zmeny"
 
 #: website/thunderbird/102.0/whatsnew/index.html:131
-#, fuzzy
 msgid "There are many other big changes that make Thunderbird 102 a very large release including:"
-msgstr "Existuje mnoho ďalších zmien, vďaka ktorým je Thunderbird 91 veľkým vydaním, vrátane:"
+msgstr "Existuje mnoho ďalších veľkých zmien, ktoré robia Thunderbird 102 veľmi veľkým vydaním vrátane:"
 
 #: website/thunderbird/102.0/whatsnew/index.html:134
 msgid "New Icons and Default Folder Colors"
-msgstr ""
+msgstr "Nové ikony a predvolené farby priečinkov"
 
 #: website/thunderbird/102.0/whatsnew/index.html:135
 msgid "Use Thunderbird without an email account (for example, as an RSS reader)"
-msgstr ""
+msgstr "Používanie Thunderbirdu bez e-mailového účtu (napríklad ako čítačka RSS)"
 
 #: website/thunderbird/102.0/whatsnew/index.html:136
 msgid "Numerous OpenPGP improvements"
-msgstr ""
+msgstr "Početné vylepšenia OpenPGP"
 
 #: website/thunderbird/102.0/whatsnew/index.html:137
 msgid "CalendarLocal parser converted to javascript"
-msgstr ""
+msgstr "Parser CalendarLocal konvertovaný na javascript"
 
 #: website/thunderbird/102.0/whatsnew/index.html:138
 msgid "Today Pane calendar UI refresh"
-msgstr ""
+msgstr "Vynovené používateľské rozhranie panelu Dnes v kalendári"
 
 #: website/thunderbird/102.0/whatsnew/index.html:139
 msgid "POP3 implemented in javascript"
-msgstr ""
+msgstr "POP3 implementovaný v javascripte"
 
 #: website/thunderbird/102.0/whatsnew/index.html:140
 msgid "Account settings moved to macOS application menu"
-msgstr ""
+msgstr "Nastavenia účtu sa presunuli do ponuky aplikácie macOS"
 
 #: website/thunderbird/102.0/whatsnew/index.html:141
 msgid ""
 "Plus: Application-wide font size control, Theme fixes, FileLink fixes, Accessibility fixes, improved vCard integration, improved calendar startup performance, Calendar fixes including correct order "
 "of week view headers and days for right to left locales."
 msgstr ""
+"Plus: ovládanie veľkosti písma v celej aplikácii, opravy tém, opravy FileLink, opravy prístupnosti, vylepšená integrácia vCard, vylepšený výkon pri spúšťaní kalendára, opravy kalendára vrátane "
+"správneho poradia hlavičiek zobrazenia týždňa a dní pre miestne nastavenia sprava doľava."
 
 #: website/thunderbird/102.0/whatsnew/index.html:144
-#, fuzzy, python-format
+#, python-format
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 102.0 and up</a>."
-msgstr "Podrobnosti o všetkých našich zmenách nájdete v poznámkach k vydaniu <a href=\"%(release)s\">Thunderbirdu 91.0 a novších verzií</a>."
+msgstr "Podrobnosti o všetkých našich zmenách si môžete pozrieť v poznámkach k vydaniu pre <a href=\"%(release)s\">Thunderbird verzie 102.0 a vyššej</a>."
 
 #: website/thunderbird/68.0/whatsnew/index.html:7
 msgid "New in Thunderbird 68"
