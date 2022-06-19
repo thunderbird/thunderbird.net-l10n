@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-06-15 23:29-0700\n"
-"PO-Revision-Date: 2022-06-15 18:37+0000\n"
+"PO-Revision-Date: 2022-06-19 10:32+0000\n"
 "Last-Translator: Jenny <leanintocuriosity@gmx.com>\n"
 "Language-Team: none\n"
 "Language: it\n"
@@ -855,16 +855,21 @@ msgid ""
 "Thunderbird 102 and newer on Windows will install beta into its own program directory. For older versions on Windows consult the <a href=\"https://support.mozilla.org/en-US/kb/thunderbird-"
 "beta\">beta support article</a>. For other operating systems use an install method appropriate for your OS to target a uniquely named directory."
 msgstr ""
+"Sui sistemi operativi Windows, Thunderbird 102 (e versioni successive) installerà la versione beta nella propria directory del programma. Per le versioni precedenti su Windows, consulta l’<a "
+"href=\"https://support.mozilla.org/en-US/kb/thunderbird-beta\">articolo di supporto per la versione beta</a>. Per altri sistemi operativi, utilizzare un metodo di installazione appropriato per il "
+"proprio sistema che consenta di indirizzare l’installazione a una directory con nome univoco."
 
 #: website/download/beta/index.html:89
 msgid ""
 "This choice has the advantage of forcing a <a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-thunderbird-installation\">dedicated profile</a> for each Thunderbird, which allows you to"
 " have both the release version and the beta version operate independently. So you can:"
 msgstr ""
+"Questa scelta ha il vantaggio di imporre l’utilizzo di un <a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-thunderbird-installation\">profilo dedicato</a> per ogni versione di "
+"Thunderbird, consentendo di utilizzare indipendentemente sia la versione stabile che quella beta. In questo modo puoi:"
 
 #: website/download/beta/index.html:92
 msgid "Start the <b>release</b> version of Thunderbird (with beta not running) and it will use the <b>\"default\" (or default-release)</b> profile."
-msgstr ""
+msgstr "Avviare la versione <b>ufficiale</b> di Thunderbird (con la versione beta non in esecuzione), così da utilizzare il profilo <b>“predefinito” (o default-release)</b>."
 
 #: website/download/beta/index.html:93
 msgid ""
@@ -872,6 +877,9 @@ msgid ""
 " and it will prompt you to define your accounts. If you need to bring some data from your release profile into the beta profile, consult the <a href=\"https://support.mozilla.org/kb/thunderbird-"
 "beta\">beta support article.</a>"
 msgstr ""
+"Avviare la versione <b>beta</b> di Thunderbird (con la versione ufficiale non in esecuzione), così da utilizzare il profilo <b>default-beta</b>. Tale profilo verrà creato al primo utilizzo di "
+"Thunderbird e ti verrà chiesto di configurare i tuoi account. Se devi trasferire dei dati dal tuo profilo ufficiale al profilo beta, consulta l’<a href=\"https://support.mozilla.org/kb/thunderbird-"
+"beta\">articolo di supporto per la versione beta.</a>"
 
 #: website/download/beta/index.html:95
 msgid "Upgrade your existing Thunderbird installation to beta."
@@ -883,16 +891,22 @@ msgid ""
 " profile, this choice makes it more difficult to switch back to using a release version should you wish to do so in the future. In other words, you should not switch back and forth between beta and "
 "normal release using the same profile."
 msgstr ""
+"Installa semplicemente la versione beta sopra la directory del programma corrente utilizzando le opzioni predefinite del programma di installazione. La versione beta <u>utilizzerà quindi il tuo "
+"attuale profilo predefinito (il profilo esistente)</u>. Proprio perché per questa procedura di installazione viene utilizzato il tuo profilo predefinito, se in futuro decidessi di voler tornare "
+"all’utilizzo di una versione ufficiale, tale scelta renderebbe tutto più difficile. In altre parole, non dovresti passare alternativamente dalla versione beta alla versione normale (e viceversa) "
+"utilizzando lo stesso profilo per entrambe."
 
 #: website/download/beta/index.html:100
 msgid "For very detailed information about both methods, please check the <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">beta support article.</a>"
-msgstr ""
+msgstr "Per informazioni più dettagliate su entrambi i metodi, consulta l’<a href=\"https://support.mozilla.org/kb/thunderbird-beta\">articolo di supporto per la versione beta</a>."
 
 #: website/download/beta/index.html:115
 msgid ""
 "If you installed the beta over the top of the release version (choice 2 above), then your process will be more complicated. Please consult this <a href=\"https://support.mozilla.org/kb/thunderbird-"
 "beta\">beta support article.</a>"
 msgstr ""
+"Se hai installato la versione beta sopra la versione ufficiale (opzione 2 tra quelle elencate sopra), il processo sarà un po’ più complicato. Consulta questo <a "
+"href=\"https://support.mozilla.org/kb/thunderbird-beta\">articolo di supporto per la versione beta.</a>"
 
 #: website/download/beta/index.html:118
 msgid ""
@@ -900,10 +914,14 @@ msgid ""
 " profile per Thunderbird</a>, then start the release version of Thunderbird and it should use your release version profile data. If you no longer want to use the beta version, and do not need any of"
 " the beta data (address books, local folders, pop folders, etc), and wish to remove the beta data and beta program from your system:"
 msgstr ""
+"Se hai installato la versione beta in una propria directory del programma (opzione 1 tra quelle elencate sopra) e hai utilizzato un <a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-"
+"thunderbird-installation\">profilo dedicato per Thunderbird</a>, all’avvio della versione ufficiale di Thunderbird dovrebbero venire utilizzati i dati del profilo della versione ufficiale. Se non "
+"desideri più utilizzare la versione beta, non hai bisogno di nessuno dei dati in essa contenuti (rubriche, cartelle locali, cartelle pop, ecc.) e vuoi rimuovere i dati e la versione beta dal tuo "
+"sistema devi:"
 
 #: website/download/beta/index.html:121
 msgid "Start the release version of Thunderbird to use the <a href=\"https://support.mozilla.org/kb/profile-manager-create-and-remove-thunderbird-profiles\">profile manager.</a>"
-msgstr ""
+msgstr "Avviare la versione ufficiale di Thunderbird per utilizzare il <a href=\"https://support.mozilla.org/kb/profile-manager-create-and-remove-thunderbird-profiles\">gestore dei profili.</a>"
 
 #: website/download/beta/index.html:122
 msgid "Find and delete the beta profile, default name is <b>“default-beta”</b>."
@@ -915,35 +933,40 @@ msgstr ""
 
 #: website/download/beta/index.html:125
 msgid "If you need to copy data from the beta profile to your release profile, please consult the <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">beta support article.</a>"
-msgstr ""
+msgstr "Se devi copiare i dati dal profilo beta al profilo ufficiale, consulta l’<a href=\"https://support.mozilla.org/kb/thunderbird-beta\">articolo di supporto per la versione beta</a>."
 
 #: website/download/beta/index.html:138
 msgid "Open the Thunderbird Help menu to check the useful tools and references. Important items to note:"
-msgstr ""
+msgstr "Apri il menu Aiuto di Thunderbird per controllare gli strumenti e i riferimenti utili. Elementi importanti da tenere in considerazione:"
 
 #: website/download/beta/index.html:141
 msgid "Release notes are provided for every update in:"
-msgstr ""
+msgstr "Le note di versione vengono fornite per ogni aggiornamento in:"
 
 #: website/download/beta/index.html:143
 msgid "≡ > Help > About > Release Notes."
-msgstr ""
+msgstr "≡ > Aiuto > Informazioni su Thunderbird > Note di versione."
 
 #: website/download/beta/index.html:146
 msgid "Please post questions about normal Thunderbird usage in <a href=\"https://support.mozilla.org/questions/new/thunderbird/form\">Thunderbird support</a>. "
-msgstr ""
+msgstr "Pubblica domande sul normale utilizzo di Thunderbird nel <a href=\"https://support.mozilla.org/questions/new/thunderbird/form\">sito di supporto di Thunderbird</a>."
 
 #: website/download/beta/index.html:147
 msgid ""
 "Ask beta specific assistance questions and comments in <a href=\"https://thunderbird.topicbox.com/groups/beta\">the beta forum</a>, or browse it to see what other beta users are discussing. The "
 "forum operates in English, so if you need assistance in another language please ask for help in <a href=\"https://support.mozilla.org/questions/new/thunderbird/form\">Thunderbird support</a>."
 msgstr ""
+"Pubblica domande di assistenza e commenti specifici per la beta nel <a href=\"https://thunderbird.topicbox.com/groups/beta\">forum Beta</a> o sfoglialo soltanto per conoscere gli argomenti su cui "
+"stanno discutendo gli altri utenti. Il forum è in lingua inglese, dunque se hai bisogno di assistenza in un’altra lingua puoi chiedere aiuto nel <a "
+"href=\"https://support.mozilla.org/questions/new/thunderbird/form\">sito di supporto di Thunderbird</a>."
 
 #: website/download/beta/index.html:148
 msgid ""
 "If you find a problem, try to <a href=\"https://support.mozilla.org/kb/troubleshoot-mode-thunderbird\">reproduce the problem in Troubleshoot Mode</a>, then file a bug report for <a "
 "href=\"https://bugzilla.mozilla.org/enter_bug.cgi?product=Thunderbird\">Thunderbird</a> or <a href=\"https://bugzilla.mozilla.org/enter_bug.cgi?product=Calendar\">Calendar</a>."
 msgstr ""
+"Se riscontri un problema, prova a <a href=\"https://support.mozilla.org/kb/troubleshoot-mode-thunderbird\">riprodurlo in Modalità Risoluzione problemi</a>, quindi invia una segnalazione di bug per "
+"<a href=\"https://bugzilla.mozilla.org/enter_bug.cgi?product=Thunderbird\">Thunderbird</a> o per <a href=\"https://bugzilla.mozilla.org/enter_bug.cgi?product=Calendar\">Calendar</a>."
 
 #: website/download/beta/index.html:149
 msgid "<b>≡ > Tools > Export</b> can be used to backup your profile, or to get to your profile directory quickly."
