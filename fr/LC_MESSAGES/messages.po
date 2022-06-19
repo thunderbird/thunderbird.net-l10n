@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-06-15 23:29-0700\n"
-"PO-Revision-Date: 2022-06-16 13:07+0000\n"
-"Last-Translator: YD <ygda+fx@free.fr>\n"
+"PO-Revision-Date: 2022-06-19 15:24+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: none\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -1227,10 +1227,12 @@ msgid ""
 "This article describes some of the major changes visible to users in Thunderbird version 102. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird release notes "
 "from 102.0 and up</a>."
 msgstr ""
+"Cet article décrit certaines des principales modifications visibles par les utilisateurs de la version 102 de Thunderbird. Le détail de toutes les modifications peut être trouvé dans les <a "
+"href=\"%(release)s\">notes de version de Thunderbird 102.0 et plus</a>."
 
 #: website/thunderbird/102.0/whatsnew/index.html:43
 msgid "Message Header Redesign"
-msgstr ""
+msgstr "Remaniement de l’en-tête de message"
 
 #: website/thunderbird/102.0/whatsnew/index.html:46
 msgid ""
@@ -1240,7 +1242,7 @@ msgstr ""
 
 #: website/thunderbird/102.0/whatsnew/index.html:58
 msgid "New Address Book"
-msgstr ""
+msgstr "Nouveau carnet d’adresses"
 
 #: website/thunderbird/102.0/whatsnew/index.html:61
 msgid ""
@@ -1248,10 +1250,13 @@ msgid ""
 "with. The new Address Book has compatibility with vCard specs, meaning if your app can export your existing contacts into vCard format, Thunderbird can import them. Each contact card also acts as a "
 "launchpad for messaging, email, and event creation."
 msgstr ""
+"Thunderbird 102 offre à vos contacts un vrai surclassement ! Sa conception rafraîchie facilite la navigation et l’interaction avec vos contacts et vous aide à mieux comprendre avec qui vous "
+"communiquez. Le nouveau carnet d’adresses est compatible avec les spécifications vCard, ce qui signifie que si votre application peut exporter vos contacts existants au format vCard, Thunderbird "
+"peut les importer. Chaque contact peut également servir à démarrer une conversation de messagerie, un e-mail ou la création d’un évènement."
 
 #: website/thunderbird/102.0/whatsnew/index.html:79
 msgid "New Import/Export Wizard"
-msgstr ""
+msgstr "Nouveaux assistants pour importer et exporter"
 
 #: website/thunderbird/102.0/whatsnew/index.html:82
 msgid ""
@@ -1259,10 +1264,13 @@ msgid ""
 "also taken extra precautions to ensure that no data is accidentally duplicated in your profile after an import. Moving from Outlook, SeaMonkey, or another Thunderbird installation is easier than "
 "ever. No add-ons required!"
 msgstr ""
+"Thunderbird 102 accélère et simplifie le déplacement de vos comptes et données. Le nouvel assistant pas à pas guide l’importation de toutes les données importantes à vos yeux. Nous avons également "
+"pris des précautions supplémentaires pour nous assurer qu’aucune donnée ne soit accidentellement dupliquée dans votre profil après une importation. Migrer depuis Outlook, SeaMonkey ou une autre "
+"installation de Thunderbird est plus simple que jamais. Aucun module complémentaire n’est nécessaire !"
 
 #: website/thunderbird/102.0/whatsnew/index.html:94
 msgid "New Spaces Toolbar"
-msgstr ""
+msgstr "Nouvelle barre d’espaces"
 
 #: website/thunderbird/102.0/whatsnew/index.html:97
 msgid ""
@@ -1270,16 +1278,23 @@ msgid ""
 "contacts through the awesome new address book, using the calendar and tasks functionality, chat, and even add-ons! If you want to save screen real estate, the Spaces Toolbar can be dismissed, and "
 "you can instead navigate the different activities Thunderbird offers with the new Pinned Spaces tab."
 msgstr ""
+"Thunderbird 102 rend la navigation dans l’application plus intuitive grâce à la nouvelle barre des espaces. Passez facilement d’une activité à l’autre, qu’il s'agisse de gérer les e-mails, de "
+"travailler avec des contacts via l’étonnant nouveau carnet d’adresses, d’utiliser l’agenda et les tâches, la messagerie instantanée et même les modules complémentaires ! Si vous souhaitez économiser"
+" de l’espace sur l’écran, la barre d’espaces peut être fermée et, à la place, vous pouvez naviguer parmi les différentes activités proposées par Thunderbird par le nouveau menu des espaces épinglé à"
+" la barre d’onglets."
 
 #: website/thunderbird/102.0/whatsnew/index.html:115
 msgid "New Matrix Chat Support"
-msgstr ""
+msgstr "Prise en charge de la messagerie instantanée Matrix"
 
 #: website/thunderbird/102.0/whatsnew/index.html:118
 msgid ""
 "Thunderbird 102 offers a new way to chat privately and securely with your colleagues, friends, and family. We’ve added support for the open-source, decentralized chat protocol Matrix, and it’s "
 "usable right out of the box! (As always, we welcome your feedback since it’s an evolving service.)"
 msgstr ""
+"Thunderbird 102 offre une nouvelle façon de communiquer par messagerie instantanée de façon privée et sûre avec vos collègues, vos amis ou votre famille. Nous avons ajouté la prise en charge du "
+"protocole de messagerie open source et décentralisé Matrix. Il est prêt à l’usage aussitôt après l’installation de Thunderbird. Comme toujours, nous apprécions vos retours comme il s’agit d’un "
+"service en évolution."
 
 #: website/thunderbird/102.0/whatsnew/index.html:128 website/thunderbird/68.0/whatsnew/index.html:67 website/thunderbird/78.0/whatsnew/index.html:81 website/thunderbird/91.0/whatsnew/index.html:168
 msgid "Other Notable Changes"
@@ -1287,27 +1302,27 @@ msgstr "Autres changements notables"
 
 #: website/thunderbird/102.0/whatsnew/index.html:131
 msgid "There are many other big changes that make Thunderbird 102 a very large release including:"
-msgstr ""
+msgstr "Il y a beaucoup d’autres modifications majeures qui font de Thunderbird 102 une version importante, notamment :"
 
 #: website/thunderbird/102.0/whatsnew/index.html:134
 msgid "New Icons and Default Folder Colors"
-msgstr ""
+msgstr "Nouvelles icônes et couleurs de dossier par défaut"
 
 #: website/thunderbird/102.0/whatsnew/index.html:135
 msgid "Use Thunderbird without an email account (for example, as an RSS reader)"
-msgstr ""
+msgstr "Utiliser Thunderbird sans compte de messagerie (par exemple, en tant que lecteur RSS)"
 
 #: website/thunderbird/102.0/whatsnew/index.html:136
 msgid "Numerous OpenPGP improvements"
-msgstr ""
+msgstr "De nombreuses améliorations OpenPGP"
 
 #: website/thunderbird/102.0/whatsnew/index.html:137
 msgid "CalendarLocal parser converted to javascript"
-msgstr ""
+msgstr "Analyseur CalendarLocal converti en JavaScript"
 
 #: website/thunderbird/102.0/whatsnew/index.html:138
 msgid "Today Pane calendar UI refresh"
-msgstr ""
+msgstr "Actualisation de l’interface du panneau « Aujourd’hui »"
 
 #: website/thunderbird/102.0/whatsnew/index.html:139
 msgid "POP3 implemented in javascript"
