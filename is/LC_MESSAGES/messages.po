@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-06-15 23:29-0700\n"
-"PO-Revision-Date: 2022-06-20 13:45+0000\n"
+"PO-Revision-Date: 2022-06-20 14:04+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: none\n"
 "Language: is\n"
@@ -883,6 +883,9 @@ msgid ""
 " profile, this choice makes it more difficult to switch back to using a release version should you wish to do so in the future. In other words, you should not switch back and forth between beta and "
 "normal release using the same profile."
 msgstr ""
+"Settu einfaldlega Beta-prófunarútgáfuna upp yfir fyrirliggjandi forritið þitt með því að nota sjálfgefna uppsetningarvalkosti. Prófunarútgáfan mun þá <u>nota núverandi (venjulega) sjálfgefna "
+"gagnasniðið þitt</u>. Vegna þess að það notar sjálfgefna gagnasniðið, gerir þetta val að verkum að erfiðara verður að skipta aftur yfir í venjulegu útgáfuna, ef þú vilt gera það í framtíðinni. Með "
+"öðrum orðum, þú ættir ekki að skipta fram og til baka á milli Beta-prófunarútgáfna og venjulegra útgáfna alltaf með sama gagnasniðið."
 
 #: website/download/beta/index.html:100
 msgid "For very detailed information about both methods, please check the <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">beta support article.</a>"
@@ -893,6 +896,8 @@ msgid ""
 "If you installed the beta over the top of the release version (choice 2 above), then your process will be more complicated. Please consult this <a href=\"https://support.mozilla.org/kb/thunderbird-"
 "beta\">beta support article.</a>"
 msgstr ""
+"Ef þú settir Beta-útgáfuna upp yfir venjulegu útgáfuna (Valkostur 2 hér að ofan), þá verður ferlið flóknara. Endilega skoðaðu þessa <a href=\"https://support.mozilla.org/kb/thunderbird-"
+"beta\">aðstoðargrein um Beta-prófunarútgáfur.</a>"
 
 #: website/download/beta/index.html:118
 msgid ""
@@ -900,10 +905,13 @@ msgid ""
 " profile per Thunderbird</a>, then start the release version of Thunderbird and it should use your release version profile data. If you no longer want to use the beta version, and do not need any of"
 " the beta data (address books, local folders, pop folders, etc), and wish to remove the beta data and beta program from your system:"
 msgstr ""
+"Ef þú settir Beta-prófunarútgáfuna upp í eigin forritamöppu (Valkostur 1 hér að ofan) og þú notaðir <a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-thunderbird-installation\"> "
+"sérsniðið gagnasnið fyrir Thunderbird</a>, þá skaltu ræsa venjulegu útgáfuna af Thunderbird og hún ætti að nota venjulega gagnasniðið þitt. Ef þú ætlar ekki lengur nota Beta-prófunarútgáfuna og "
+"þarft ekki nein af gögnunum úr henni (nafnaskrár, staðbundnar möppur, POP-möppur o.s.frv.), og vilt fjarlægja Beta-gögnin og Beta-forritið úr kerfinu þínu:"
 
 #: website/download/beta/index.html:121
 msgid "Start the release version of Thunderbird to use the <a href=\"https://support.mozilla.org/kb/profile-manager-create-and-remove-thunderbird-profiles\">profile manager.</a>"
-msgstr ""
+msgstr "Ræstu venjulegu útgáfuna af Thunderbird til að nota <a href=\"https://support.mozilla.org/kb/profile-manager-create-and-remove-thunderbird-profiles\">gagnasniðsstjórann.</a>"
 
 #: website/download/beta/index.html:122
 msgid "Find and delete the beta profile, default name is <b>“default-beta”</b>."
@@ -915,7 +923,7 @@ msgstr "Eyddu forritamöppu Beta-útgáfunnar."
 
 #: website/download/beta/index.html:125
 msgid "If you need to copy data from the beta profile to your release profile, please consult the <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">beta support article.</a>"
-msgstr ""
+msgstr "Ef þú þarft að afrita gögn úr Beta-gagnasniðinu yfir í venjulega gagnasniðið þitt skaltu skoða <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">aðstoðargreinina um Beta-útgáfur.</a>"
 
 #: website/download/beta/index.html:138
 msgid "Open the Thunderbird Help menu to check the useful tools and references. Important items to note:"
