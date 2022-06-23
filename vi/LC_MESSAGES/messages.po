@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-06-15 23:29-0700\n"
-"PO-Revision-Date: 2022-06-17 11:27+0000\n"
+"PO-Revision-Date: 2022-06-17 11:30+0000\n"
 "Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
 "Language-Team: none\n"
 "Language: vi\n"
@@ -1198,13 +1198,13 @@ msgid "New in Thunderbird 102"
 msgstr "Tính năng mới trong Thunderbird 102"
 
 #: website/thunderbird/102.0/whatsnew/index.html:14
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "This article describes some of the major changes visible to users in Thunderbird version 102. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird release notes "
 "from 102.0 and up</a>."
 msgstr ""
-"Bài viết này mô tả một số thay đổi lớn hiển thị cho người dùng trong phiên bản Thunderbird 91. Bạn có thể tìm thấy chi tiết đầy đủ về tất cả các thay đổi trong <a href=\"%(release)s\">ghi chú phát "
-"hành Thunderbird từ 91.0 trở lên</a> ."
+"Bài viết này mô tả một số thay đổi lớn hiển thị cho người dùng trong phiên bản Thunderbird 102. Bạn có thể tìm thấy chi tiết đầy đủ về tất cả các thay đổi trong <a href=\"%(release)s\">ghi chú phát "
+"hành Thunderbird từ 102.0 trở lên</a>."
 
 #: website/thunderbird/102.0/whatsnew/index.html:43
 msgid "Message Header Redesign"
@@ -1217,9 +1217,8 @@ msgid ""
 msgstr ""
 
 #: website/thunderbird/102.0/whatsnew/index.html:58
-#, fuzzy
 msgid "New Address Book"
-msgstr "Nhấp chuột vào sổ địa chỉ"
+msgstr "Sổ địa chỉ mới"
 
 #: website/thunderbird/102.0/whatsnew/index.html:61
 msgid ""
@@ -1230,7 +1229,7 @@ msgstr ""
 
 #: website/thunderbird/102.0/whatsnew/index.html:79
 msgid "New Import/Export Wizard"
-msgstr ""
+msgstr "Trình hướng dẫn nhập/xuất mới"
 
 #: website/thunderbird/102.0/whatsnew/index.html:82
 msgid ""
@@ -1238,6 +1237,9 @@ msgid ""
 "also taken extra precautions to ensure that no data is accidentally duplicated in your profile after an import. Moving from Outlook, SeaMonkey, or another Thunderbird installation is easier than "
 "ever. No add-ons required!"
 msgstr ""
+"Thunderbird 102 giúp việc di chuyển tài khoản và dữ liệu của bạn trở nên nhanh chóng và đơn giản. Trình hướng dẫn từng bước mới cung cấp trải nghiệm có hướng dẫn để nhập tất cả dữ liệu quan trọng "
+"đối với bạn. Chúng tôi cũng đã thực hiện các biện pháp phòng ngừa bổ sung để đảm bảo rằng không có dữ liệu nào vô tình bị trùng lặp trong hồ sơ của bạn sau khi nhập. Di chuyển từ Outlook, SeaMonkey "
+"hoặc cài đặt Thunderbird khác dễ dàng hơn bao giờ hết. Không cần tiện ích mở rộng!"
 
 #: website/thunderbird/102.0/whatsnew/index.html:94
 msgid "New Spaces Toolbar"
@@ -1252,13 +1254,15 @@ msgstr ""
 
 #: website/thunderbird/102.0/whatsnew/index.html:115
 msgid "New Matrix Chat Support"
-msgstr ""
+msgstr "Hỗ trợ trò chuyện Matrix mới"
 
 #: website/thunderbird/102.0/whatsnew/index.html:118
 msgid ""
 "Thunderbird 102 offers a new way to chat privately and securely with your colleagues, friends, and family. We’ve added support for the open-source, decentralized chat protocol Matrix, and it’s "
 "usable right out of the box! (As always, we welcome your feedback since it’s an evolving service.)"
 msgstr ""
+"Thunderbird 102 cung cấp một cách mới để trò chuyện riêng tư và an toàn với đồng nghiệp, bạn bè và gia đình của bạn. Chúng tôi đã hỗ trợ cho Matrix giao thức trò chuyện phi tập trung, mã nguồn mở và"
+" nó có thể sử dụng được ngay lập tức! (Như mọi khi, chúng tôi hoan nghênh phản hồi của bạn vì đây là một dịch vụ đang được phát triển.)"
 
 #: website/thunderbird/102.0/whatsnew/index.html:128 website/thunderbird/68.0/whatsnew/index.html:67 website/thunderbird/78.0/whatsnew/index.html:81 website/thunderbird/91.0/whatsnew/index.html:168
 msgid "Other Notable Changes"
@@ -1270,15 +1274,15 @@ msgstr "Có nhiều thay đổi lớn khác khiến Thunderbird 102 trở thành
 
 #: website/thunderbird/102.0/whatsnew/index.html:134
 msgid "New Icons and Default Folder Colors"
-msgstr ""
+msgstr "Biểu tượng mới và màu thư mục mặc định"
 
 #: website/thunderbird/102.0/whatsnew/index.html:135
 msgid "Use Thunderbird without an email account (for example, as an RSS reader)"
-msgstr ""
+msgstr "Sử dụng Thunderbird mà không cần tài khoản email (ví dụ: trình đọc RSS)"
 
 #: website/thunderbird/102.0/whatsnew/index.html:136
 msgid "Numerous OpenPGP improvements"
-msgstr ""
+msgstr "Nhiều cải tiến OpenPGP"
 
 #: website/thunderbird/102.0/whatsnew/index.html:137
 msgid "CalendarLocal parser converted to javascript"
@@ -1286,15 +1290,15 @@ msgstr ""
 
 #: website/thunderbird/102.0/whatsnew/index.html:138
 msgid "Today Pane calendar UI refresh"
-msgstr ""
+msgstr "Làm mới giao diện ngăn Hôm nay của lịch"
 
 #: website/thunderbird/102.0/whatsnew/index.html:139
 msgid "POP3 implemented in javascript"
-msgstr ""
+msgstr "POP3 được triển khai trong javascript"
 
 #: website/thunderbird/102.0/whatsnew/index.html:140
 msgid "Account settings moved to macOS application menu"
-msgstr ""
+msgstr "Cài đặt tài khoản được chuyển sang menu ứng dụng macOS"
 
 #: website/thunderbird/102.0/whatsnew/index.html:141
 msgid ""
@@ -1305,7 +1309,7 @@ msgstr ""
 #: website/thunderbird/102.0/whatsnew/index.html:144
 #, python-format
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 102.0 and up</a>."
-msgstr ""
+msgstr "Bạn có thể xem chi tiết về tất cả các thay đổi của chúng tôi trong ghi chú phát hành cho <a href=\"%(release)s\">Thunderbird 102.0 trở lên</a>."
 
 #: website/thunderbird/68.0/whatsnew/index.html:7
 msgid "New in Thunderbird 68"
