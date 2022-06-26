@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-06-15 23:29-0700\n"
+"POT-Creation-Date: 2022-06-26 11:54-0700\n"
 "PO-Revision-Date: 2022-06-19 22:43+0000\n"
 "Last-Translator: Michele Rodaro <michele.rodaro@mozillaitalia.org>\n"
 "Language-Team: none\n"
@@ -23,11 +23,11 @@ msgstr ""
 msgid "Welcome to <div class=\"tb-text\">Thunderbird <small class=\"beta-text\">Beta</small></div>"
 msgstr "Benvenuto in <div class=\"tb-text\">Thunderbird <small class=\"beta-text\">Beta</small></div>"
 
-#: start-page/beta/index.html:19
+#: start-page/beta/index.html:19 start-page/release/index.html:19
 msgid "Support us!"
 msgstr "Sostienici!"
 
-#: start-page/beta/index.html:22 website/base-resp.html:28 website/base-resp.html:52 website/donate-mailing-list.html:17 website/thunderbird/102.0/whatsnew/index.html:22
+#: start-page/beta/index.html:22 start-page/release/index.html:22 start-page/release/index.html:37 website/base-resp.html:28 website/base-resp.html:52 website/donate-mailing-list.html:17
 #: website/thunderbird/91.0/whatsnew/index.html:22
 msgid "Donate"
 msgstr "Fai una donazione"
@@ -76,7 +76,7 @@ msgstr "Incontra altri utenti della Beta e scopri di più su questa versione."
 msgid "Beta Discussion Group"
 msgstr "Gruppo di discussione sulla versione Beta"
 
-#: start-page/beta/index.html:71
+#: start-page/beta/index.html:71 start-page/release/index.html:45
 msgid "Help"
 msgstr "Supporto"
 
@@ -88,11 +88,11 @@ msgstr ""
 "Vuoi scoprire in che modo puoi dare una mano? Non devi essere un esperto per aiutare altri utenti o offrire suggerimenti su come migliorare l’esperienza. Unisciti a noi in questo progetto open "
 "source, chiunque può partecipare alla comunità di Thunderbird. Non sono richieste conoscenze specifiche e non c'è bisogno di saper programmare."
 
-#: start-page/beta/index.html:75 website/base-resp.html:39 website/site-footer.html:15 website/site-prefooter.html:9 website/site-prefooter.html:12
+#: start-page/beta/index.html:75 start-page/release/index.html:49 website/base-resp.html:39 website/site-footer.html:15 website/site-prefooter.html:9 website/site-prefooter.html:12
 msgid "Get Involved"
 msgstr "Collabora con noi"
 
-#: start-page/beta/index.html:83
+#: start-page/beta/index.html:83 start-page/release/index.html:93
 msgid "Crashed?"
 msgstr "Arresto anomalo?"
 
@@ -100,19 +100,19 @@ msgstr "Arresto anomalo?"
 msgid "If Crash Reporter appeared (when Thunderbird crashes), please provide more details to help developers"
 msgstr "Se dopo un arresto anomalo di Thunderbird viene visualizzato Crash Reporter, fornisci ulteriori dettagli per aiutare gli sviluppatori."
 
-#: start-page/beta/index.html:87
+#: start-page/beta/index.html:87 start-page/release/index.html:97
 msgid "In Thunderbird do Help > More Troubleshooting Information, scroll to \"Crash Reports\", click a recent report link to open the crash report page."
 msgstr ""
 "In Thunderbird vai su “Aiuto” > “Altre informazioni per la risoluzione di problemi”, scorri fino alla voce “Segnalazioni di arresto anomalo” e fai clic su una segnalazione recente per aprire la "
 "pagina con i relativi dettagli."
 
-#: start-page/beta/index.html:88
+#: start-page/beta/index.html:88 start-page/release/index.html:98
 msgid "Click the Bugzilla tab, then click on an existing bug report under \"Related Bugs\" and add a comment to the bug, or click \"Thunderbird\" to submit a new bug report."
 msgstr ""
 "Fai clic sulla scheda Bugzilla. Nella sezione “Related Bugs” puoi fare clic su una segnalazione già esistente e aggiungere un commento al bug, oppure fare clic su “Thunderbird” per inviare una nuova"
 " segnalazione."
 
-#: start-page/beta/index.html:91
+#: start-page/beta/index.html:91 start-page/release/index.html:101
 msgid "Crash Reporter"
 msgstr "Crash Reporter"
 
@@ -120,11 +120,11 @@ msgstr "Crash Reporter"
 msgid "Question? Problem?"
 msgstr "Domande? Problemi?"
 
-#: start-page/beta/index.html:102
+#: start-page/beta/index.html:102 start-page/release/index.html:71
 msgid "Post your general Thunderbird usage questions or problems on the support page, where many knowledgeable users can help you."
 msgstr "Pubblica le tue domande o problemi generali riguardanti l’utilizzo di Thunderbird sulla pagina di supporto, dove molti utenti esperti possono aiutarti."
 
-#: start-page/beta/index.html:104
+#: start-page/beta/index.html:104 start-page/release/index.html:73
 msgid "Support Page"
 msgstr "Pagina di assistenza"
 
@@ -136,17 +136,17 @@ msgstr "Nel forum dedicato alla versione beta puoi pubblicare feedback, domande 
 msgid "Beta Forum"
 msgstr "Forum Beta"
 
-#: start-page/beta/index.html:117
+#: start-page/beta/index.html:117 start-page/release/index.html:81
 msgid "Report"
 msgstr "Segnala"
 
-#: start-page/beta/index.html:119
+#: start-page/beta/index.html:119 start-page/release/index.html:83
 msgid "Think you’ve found a new problem or rough edge? Create a bug report so we can make sure it gets solved, resulting in a better Thunderbird experience for all."
 msgstr ""
 "Ritieni di aver trovato un nuovo problema o qualcosa che non funziona come dovrebbe? Apri un bug, così potremo assicurarci che venga risolto, creando un’esperienza migliore per tutti gli utenti di "
 "Thunderbird."
 
-#: start-page/beta/index.html:121 website/site-prefooter.html:24
+#: start-page/beta/index.html:121 start-page/release/index.html:85 website/site-prefooter.html:24
 msgid "Report a Bug"
 msgstr "Segnala un problema"
 
@@ -155,90 +155,60 @@ msgid "Unsure? Ask for help in the beta forum."
 msgstr "Non sei sicuro? Chiedi aiuto sul forum Beta."
 
 #: start-page/release/index.html:8
-msgid "Welcome to <span>Thunderbird</span>"
-msgstr "Benvenuto in <span>Thunderbird</span>"
+#, fuzzy
+msgid "Welcome to <div class=\"tb-text\">Thunderbird</div>"
+msgstr "Benvenuto in <div class=\"tb-text\">Thunderbird <small class=\"beta-text\">Beta</small></div>"
 
-#: start-page/release/index.html:16
-msgid "Why we need donations"
-msgstr "A cosa ci servono le donazioni"
+#: start-page/release/index.html:33
+#, fuzzy
+msgid "Support Us"
+msgstr "Sostienici!"
 
-#: start-page/release/index.html:18
-msgid "Thunderbird is no longer funded by Mozilla. Fortunately there is an active community keeping it running and developing it further. But to survive long term, the project needs funding."
-msgstr ""
-"Lo sviluppo di Thunderbird non è più finanziato da Mozilla. Per fortuna esiste una comunità che si occupa di mantenere in vita e aggiornare questo progetto, ma per garantire la sopravvivenza di "
-"Thunderbird occorrono finanziamenti."
-
-#: start-page/release/index.html:21
+#: start-page/release/index.html:35
+#, fuzzy
 msgid ""
-"Thunderbird’s funding goes toward the significant infrastructure and staff that must be maintained to deliver the application to our tens of millions of users. For Thunderbird to survive and "
-"continue to evolve, we need your support and ask for your donation today. All the money donated will go directly to funding Thunderbird development and infrastructure."
-msgstr ""
-"I fondi raccolti da Thunderbird sono destinati a gestire l’imponente infrastruttura (e relativo personale) necessaria per distribuire l’applicazione a decine di milioni di utenti. Allo scopo di "
-"mantenere Thunderbird in vita e in continuo sviluppo, abbiamo bisogno dell’aiuto degli utenti ed è per questo motivo che ti chiediamo di fare una donazione oggi stesso. Il denaro raccolto sarà "
-"destinato interamente al mantenimento dell'infrastruttura e allo sviluppo di Thunderbird."
-
-#: start-page/release/index.html:27
-#, python-format
-msgid "<a href=\"%(donate)s\">Donate to Thunderbird</a>"
-msgstr "<a href=\"%(donate)s\">Fai una donazione a favore di Thunderbird</a>"
-
-#: start-page/release/index.html:28
-msgid ""
-"Thunderbird is the leading open source, cross-platform email and calendaring client, free for business and personal use. We want it to stay secure and become even better. A donation will allow us to"
-" hire developers, pay for infrastructure, and continue to improve."
-msgstr ""
-"Thunderbird è il principale software open source e multipiattaforma per la gestione di posta elettronica e appuntamenti, gratuito sia per uso personale che commerciale. Il nostro obiettivo è "
-"garantire agli utenti la massima sicurezza e offrire un prodotto sempre migliore. Le donazioni ci consentono di assumere sviluppatori, pagare le infrastrutture necessarie e implementare "
-"miglioramenti continui."
-
-#: start-page/release/index.html:29
-#, python-format
-msgid ""
-"<strong>Thunderbird is funded by users like you! If you like Thunderbird, please consider making a donation.</strong> The best way for you to ensure Thunderbird remains available is to <a "
-"class=\"more\" href=\"%(donate)s\">make a donation.</a>"
+"Thank you for supporting Thunderbird, which is funded by users like you! Producing Thunderbird requires software engineers, designers, system administrators and server infrastructure. So if you like"
+" Thunderbird, the best way to ensure Thunderbird remains available is to make a donation."
 msgstr ""
 "<strong>Thunderbird è finanziato da utenti come te! Se apprezzi Thunderbird, considera l’idea di fare una donazione.</strong> <a class=\"more\" href=\"%(donate)s\">Le donazioni</a> sono il modo più "
 "efficace per sostenere il futuro Thunderbird."
 
-#: start-page/release/index.html:32
-#, python-format
-msgid "<a href=\"%(contribute)s\">Get Involved</a>"
-msgstr "<a href=\"%(contribute)s\">Collabora con noi</a>"
-
-#: start-page/release/index.html:33
-#, python-format
+#: start-page/release/index.html:47
+#, fuzzy
 msgid ""
-"Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users. Become part of a team that supports Thunderbird users, and makes "
-"Thunderbird awesome. <a class=\"more\" href=\"%(contribute)s\">Join us</a>"
+"Curious about helping? You don’t need to be an expert or know how to code to help other users or offer suggestions about improving the experience! Join us in this open source project where anyone "
+"can participate in the Thunderbird community."
 msgstr ""
-"Thunderbird è un progetto “open source”. Questo significa che chiunque può collaborare offrendo idee, progetti, codice e disponibilità di tempo per aiutare altri utenti. Entra a far parte del team "
-"di supporto per gli utenti Thunderbird, che contribuisce a rendere questo programma così popolare. <a class=\"more\" href=\"%(contribute)s\">Unisciti a noi.</a>"
+"Vuoi scoprire in che modo puoi dare una mano? Non devi essere un esperto per aiutare altri utenti o offrire suggerimenti su come migliorare l’esperienza. Unisciti a noi in questo progetto open "
+"source, chiunque può partecipare alla comunità di Thunderbird. Non sono richieste conoscenze specifiche e non c'è bisogno di saper programmare."
 
-#: start-page/release/index.html:38
-#, python-format
-msgid "<a href=\"%(support)s\">Get Support</a>"
-msgstr "<a href=\"%(support)s\">Ricevi assistenza</a>"
-
-#: start-page/release/index.html:39
-#, python-format
-msgid "Need help with something in Thunderbird? We have a <a href=\"%(support)s\">support page</a> where you can ask questions and read knowledge base articles to learn how to use Thunderbird."
+#: start-page/release/index.html:52
+msgid "Share ideas and feedback."
 msgstr ""
-"Ti serve aiuto per qualche problema relativo a Thunderbird? Visita questa <a href=\"%(support)s\">pagina di supporto</a> dove potrai porre le tue domande e consultare articoli e guide per imparare a"
-" usare al meglio Thunderbird."
 
-#: start-page/release/index.html:42
-#, python-format
-msgid "<a href=\"%(bug)s\">Report a Bug</a>"
-msgstr "<a href=\"%(bug)s\">Segnala un bug</a>"
+#: start-page/release/index.html:54
+#, fuzzy
+msgid "Mozilla Connect"
+msgstr "Mozilla"
 
-#: start-page/release/index.html:43
-#, python-format
-msgid ""
-"Think you’ve found a problem with Thunderbird? <a href=\"%(bug)s\">Create a bug report</a> so that we can make sure it gets solved. Helping us identify and fix bugs makes for a better Thunderbird "
-"for all."
-msgstr ""
-"Ti sei imbattuto in un malfunzionamento di Thunderbird? <a href=\"%(bug)s\">Segnala il bug</a> per aiutarci a individuare e risolvere il problema, in modo da rendere Thunderbird sempre migliore per "
-"te stesso e per gli altri utenti."
+#: start-page/release/index.html:57
+#, fuzzy
+msgid "Help make Thunderbird better."
+msgstr "Thunderbird Beta"
+
+#: start-page/release/index.html:59 website/index.html:24
+msgid "Get the Beta"
+msgstr "Ottieni la versione beta"
+
+#: start-page/release/index.html:69
+#, fuzzy
+msgid "Questions? Problems?"
+msgstr "Domande? Problemi?"
+
+#: start-page/release/index.html:95
+#, fuzzy
+msgid "If Crash Reporter appears when Thunderbird crashes, please provide as many details as possible to help developers."
+msgstr "Se dopo un arresto anomalo di Thunderbird viene visualizzato Crash Reporter, fornisci ulteriori dettagli per aiutare gli sviluppatori."
 
 #: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:149
 #: website/index.html:168 website/site-footer.html:4 website/site-footer.html:48 website/site-prefooter.html:51 website/site-prefooter.html:54
@@ -286,7 +256,7 @@ msgstr "Blog"
 msgid "Thunderbird is funded by users like you"
 msgstr "Thunderbird è finanziato da utenti come te"
 
-#: website/donate-mailing-list.html:14 website/thunderbird/102.0/whatsnew/index.html:17 website/thunderbird/91.0/whatsnew/index.html:17
+#: website/donate-mailing-list.html:14 website/thunderbird/102.0/whatsnew/index.html:20 website/thunderbird/91.0/whatsnew/index.html:17
 msgid "Thunderbird is both free and freedom respecting, but we’re also completely funded by donations! Help us sustain the project and continue to improve."
 msgstr "Thunderbird è insieme libero e rispettoso della libertà, ma siamo anche completamente finanziati da donazioni! Aiutaci a sostenere e continuare a migliorare il progetto."
 
@@ -359,10 +329,6 @@ msgstr "Vuoi provare nuove funzioni in anticipo?"
 #: website/index.html:22
 msgid "Get the beta and be a part of the future of Thunderbird!"
 msgstr "Ottieni la versione beta e svolgi un ruolo attivo nel futuro di Thunderbird!"
-
-#: website/index.html:24
-msgid "Get the Beta"
-msgstr "Ottieni la versione beta"
 
 #: website/download/index.html:23 website/index.html:28
 msgid "Thunderbird screenshot"
@@ -905,8 +871,8 @@ msgid ""
 "If you installed the beta over the top of the release version (choice 2 above), then your process will be more complicated. Please consult this <a href=\"https://support.mozilla.org/kb/thunderbird-"
 "beta\">beta support article.</a>"
 msgstr ""
-"Se hai installato la versione beta sopra la versione ufficiale (opzione 2 tra quelle elencate sopra), il processo sarà un po’ più complicato. Consulta questo <a "
-"href=\"https://support.mozilla.org/kb/thunderbird-beta\">articolo di supporto per la versione beta.</a>"
+"Se hai installato la versione beta sopra la versione ufficiale (opzione 2 tra quelle elencate sopra), il processo sarà un po’ più complicato. Consulta questo <a href=\"https://support.mozilla.org/kb"
+"/thunderbird-beta\">articolo di supporto per la versione beta.</a>"
 
 #: website/download/beta/index.html:118
 msgid ""
@@ -1233,11 +1199,11 @@ msgstr ""
 "Questo articolo descrive alcuni degli aggiornamenti più importanti visibili agli utenti nella versione 102 di Thunderbird. La lista con tutti i dettagli delle modifiche è disponibile nelle <a "
 "href=\"%(release)s\">note di versione di Thunderbird 102.0 e successive</a>."
 
-#: website/thunderbird/102.0/whatsnew/index.html:43
+#: website/thunderbird/102.0/whatsnew/index.html:42
 msgid "Message Header Redesign"
 msgstr "Nuovo design per l’intestazione del messaggio"
 
-#: website/thunderbird/102.0/whatsnew/index.html:46
+#: website/thunderbird/102.0/whatsnew/index.html:45
 msgid ""
 "Thunderbird 102 helps you be more productive with less effort. When reading your email, the redesigned message header allows you to focus on what matters as it highlights important information. It’s"
 " also more responsive and easier to navigate. Plus, you can star important messages from the message header itself, and easily convert them into a calendar event or a task."
@@ -1246,11 +1212,11 @@ msgstr ""
 "mette in evidenza le informazioni più importanti. È anche più reattiva e più facile da navigare. Inoltre, puoi contrassegnare i messaggi importanti direttamente nell’intestazione del messaggio e "
 "convertirli facilmente in un evento del calendario o in un’attività."
 
-#: website/thunderbird/102.0/whatsnew/index.html:58
+#: website/thunderbird/102.0/whatsnew/index.html:57
 msgid "New Address Book"
 msgstr "Nuova rubrica"
 
-#: website/thunderbird/102.0/whatsnew/index.html:61
+#: website/thunderbird/102.0/whatsnew/index.html:60
 msgid ""
 "Thunderbird 102 gives your contacts a serious upgrade! The refreshed design makes it easier to navigate and interact with your contacts, and helps you better understand who you’re communicating "
 "with. The new Address Book has compatibility with vCard specs, meaning if your app can export your existing contacts into vCard format, Thunderbird can import them. Each contact card also acts as a "
@@ -1260,11 +1226,11 @@ msgstr ""
 "rubrica è compatibile con le specifiche vCard, il che significa che se la tua app può esportare i tuoi contatti esistenti in formato vCard, Thunderbird può importarli. È possibile creare messaggi, "
 "email ed eventi a partire da ogni scheda dei contatti."
 
-#: website/thunderbird/102.0/whatsnew/index.html:79
+#: website/thunderbird/102.0/whatsnew/index.html:78
 msgid "New Import/Export Wizard"
 msgstr "Nuova procedura guidata di importazione ed esportazione"
 
-#: website/thunderbird/102.0/whatsnew/index.html:82
+#: website/thunderbird/102.0/whatsnew/index.html:81
 msgid ""
 "Thunderbird 102 makes it quick and simple to move your accounts and data around. The new step-by-step wizard provides a guided experience for importing all that data that’s important to you. We’ve "
 "also taken extra precautions to ensure that no data is accidentally duplicated in your profile after an import. Moving from Outlook, SeaMonkey, or another Thunderbird installation is easier than "
@@ -1274,11 +1240,11 @@ msgstr ""
 "adottato ulteriori precauzioni per garantire che nessun dato venga duplicato accidentalmente nel tuo profilo dopo un’importazione. Spostarsi da Outlook, SeaMonkey o da un’altra installazione di "
 "Thunderbird è più facile che mai. Non è richiesto alcun componente aggiuntivo!"
 
-#: website/thunderbird/102.0/whatsnew/index.html:94
+#: website/thunderbird/102.0/whatsnew/index.html:93
 msgid "New Spaces Toolbar"
 msgstr "Nuova barra degli spazi"
 
-#: website/thunderbird/102.0/whatsnew/index.html:97
+#: website/thunderbird/102.0/whatsnew/index.html:96
 msgid ""
 "Thunderbird 102 makes navigating the application more intuitive thanks to the the new Spaces Toolbar. Move between all of your activities with ease, whether it’s managing email, working with "
 "contacts through the awesome new address book, using the calendar and tasks functionality, chat, and even add-ons! If you want to save screen real estate, the Spaces Toolbar can be dismissed, and "
@@ -1288,11 +1254,11 @@ msgstr ""
 " elettronica, lavorare con i contatti attraverso la nuova fantastica rubrica, utilizzare la funzionalità calendario e attività, chat e persino componenti aggiuntivi. Se desideri risparmiare spazio "
 "sullo schermo, la Barra degli spazi può essere chiusa e puoi invece navigare tra le diverse attività offerte da Thunderbird con la nuova scheda Spazi appuntati."
 
-#: website/thunderbird/102.0/whatsnew/index.html:115
+#: website/thunderbird/102.0/whatsnew/index.html:114
 msgid "New Matrix Chat Support"
 msgstr "Nuovo supporto per chat Matrix"
 
-#: website/thunderbird/102.0/whatsnew/index.html:118
+#: website/thunderbird/102.0/whatsnew/index.html:117
 msgid ""
 "Thunderbird 102 offers a new way to chat privately and securely with your colleagues, friends, and family. We’ve added support for the open-source, decentralized chat protocol Matrix, and it’s "
 "usable right out of the box! (As always, we welcome your feedback since it’s an evolving service.)"
@@ -1300,43 +1266,43 @@ msgstr ""
 "Thunderbird 102 offre un nuovo metodo per conversare tramite chat in modo privato e sicuro con colleghi, amici e familiari. Abbiamo aggiunto il supporto per il protocollo di chat decentralizzato e "
 "open source Matrix, ed è immediatamente utilizzabile! Come sempre, accogliamo favorevolmente il tuo feedback poiché si tratta di un servizio in continua evoluzione."
 
-#: website/thunderbird/102.0/whatsnew/index.html:128 website/thunderbird/68.0/whatsnew/index.html:67 website/thunderbird/78.0/whatsnew/index.html:81 website/thunderbird/91.0/whatsnew/index.html:168
+#: website/thunderbird/102.0/whatsnew/index.html:127 website/thunderbird/68.0/whatsnew/index.html:67 website/thunderbird/78.0/whatsnew/index.html:81 website/thunderbird/91.0/whatsnew/index.html:168
 msgid "Other Notable Changes"
 msgstr "Altre modifiche importanti"
 
-#: website/thunderbird/102.0/whatsnew/index.html:131
+#: website/thunderbird/102.0/whatsnew/index.html:130
 msgid "There are many other big changes that make Thunderbird 102 a very large release including:"
 msgstr "Ci sono molti altri cambiamenti importanti che rendono Thunderbird 102 una versione molto ricca, tra cui:"
 
-#: website/thunderbird/102.0/whatsnew/index.html:134
+#: website/thunderbird/102.0/whatsnew/index.html:133
 msgid "New Icons and Default Folder Colors"
 msgstr "Nuove icone e colori predefiniti per le cartelle"
 
-#: website/thunderbird/102.0/whatsnew/index.html:135
+#: website/thunderbird/102.0/whatsnew/index.html:134
 msgid "Use Thunderbird without an email account (for example, as an RSS reader)"
 msgstr "Thunderbird può essere utilizzato anche senza un account email (ad esempio, come lettore RSS)"
 
-#: website/thunderbird/102.0/whatsnew/index.html:136
+#: website/thunderbird/102.0/whatsnew/index.html:135
 msgid "Numerous OpenPGP improvements"
 msgstr "Numerosi miglioramenti per OpenPGP"
 
-#: website/thunderbird/102.0/whatsnew/index.html:137
+#: website/thunderbird/102.0/whatsnew/index.html:136
 msgid "CalendarLocal parser converted to javascript"
 msgstr "Parser per CalendarLocal convertito in JavaScript"
 
-#: website/thunderbird/102.0/whatsnew/index.html:138
+#: website/thunderbird/102.0/whatsnew/index.html:137
 msgid "Today Pane calendar UI refresh"
 msgstr "Aggiornamento dell’interfaccia utente per il pannello Oggi del calendario"
 
-#: website/thunderbird/102.0/whatsnew/index.html:139
+#: website/thunderbird/102.0/whatsnew/index.html:138
 msgid "POP3 implemented in javascript"
 msgstr "POP3 implementato in JavaScript"
 
-#: website/thunderbird/102.0/whatsnew/index.html:140
+#: website/thunderbird/102.0/whatsnew/index.html:139
 msgid "Account settings moved to macOS application menu"
 msgstr "Impostazioni dell’account spostate nel menu dell’applicazione in macOS"
 
-#: website/thunderbird/102.0/whatsnew/index.html:141
+#: website/thunderbird/102.0/whatsnew/index.html:140
 msgid ""
 "Plus: Application-wide font size control, Theme fixes, FileLink fixes, Accessibility fixes, improved vCard integration, improved calendar startup performance, Calendar fixes including correct order "
 "of week view headers and days for right to left locales."
@@ -1345,7 +1311,7 @@ msgstr ""
 "avvio del calendario più rapido, correzioni per il calendario incluso l’ordine di visualizzazione corretto delle intestazioni di settimane e giorni per le lingue con direzione del testo da destra a "
 "sinistra."
 
-#: website/thunderbird/102.0/whatsnew/index.html:144
+#: website/thunderbird/102.0/whatsnew/index.html:143
 #, python-format
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 102.0 and up</a>."
 msgstr "Consulta l’elenco completo delle modifiche nelle note di versione di <a href=\"%(release)s\">Thunderbird 102.0 e successive</a>."
@@ -1692,3 +1658,61 @@ msgstr "Note di versione per ciascuna versione di Thunderbird."
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Le note di versione variano a seconda della versione di Thunderbird. Seleziona la tua versione dalla lista per leggere le relative note di versione."
+
+#~ msgid "Welcome to <span>Thunderbird</span>"
+#~ msgstr "Benvenuto in <span>Thunderbird</span>"
+
+#~ msgid "Why we need donations"
+#~ msgstr "A cosa ci servono le donazioni"
+
+#~ msgid "Thunderbird is no longer funded by Mozilla. Fortunately there is an active community keeping it running and developing it further. But to survive long term, the project needs funding."
+#~ msgstr ""
+#~ "Lo sviluppo di Thunderbird non è più finanziato da Mozilla. Per fortuna esiste una comunità che si occupa di mantenere in vita e aggiornare questo progetto, ma per garantire la sopravvivenza di "
+#~ "Thunderbird occorrono finanziamenti."
+
+#~ msgid ""
+#~ "Thunderbird’s funding goes toward the significant infrastructure and staff that must be maintained to deliver the application to our tens of millions of users. For Thunderbird to survive and "
+#~ "continue to evolve, we need your support and ask for your donation today. All the money donated will go directly to funding Thunderbird development and infrastructure."
+#~ msgstr ""
+#~ "I fondi raccolti da Thunderbird sono destinati a gestire l’imponente infrastruttura (e relativo personale) necessaria per distribuire l’applicazione a decine di milioni di utenti. Allo scopo di "
+#~ "mantenere Thunderbird in vita e in continuo sviluppo, abbiamo bisogno dell’aiuto degli utenti ed è per questo motivo che ti chiediamo di fare una donazione oggi stesso. Il denaro raccolto sarà "
+#~ "destinato interamente al mantenimento dell'infrastruttura e allo sviluppo di Thunderbird."
+
+#~ msgid "<a href=\"%(donate)s\">Donate to Thunderbird</a>"
+#~ msgstr "<a href=\"%(donate)s\">Fai una donazione a favore di Thunderbird</a>"
+
+#~ msgid ""
+#~ "Thunderbird is the leading open source, cross-platform email and calendaring client, free for business and personal use. We want it to stay secure and become even better. A donation will allow us to"
+#~ " hire developers, pay for infrastructure, and continue to improve."
+#~ msgstr ""
+#~ "Thunderbird è il principale software open source e multipiattaforma per la gestione di posta elettronica e appuntamenti, gratuito sia per uso personale che commerciale. Il nostro obiettivo è "
+#~ "garantire agli utenti la massima sicurezza e offrire un prodotto sempre migliore. Le donazioni ci consentono di assumere sviluppatori, pagare le infrastrutture necessarie e implementare "
+#~ "miglioramenti continui."
+
+#~ msgid "<a href=\"%(contribute)s\">Get Involved</a>"
+#~ msgstr "<a href=\"%(contribute)s\">Collabora con noi</a>"
+
+#~ msgid ""
+#~ "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users. Become part of a team that supports Thunderbird users, and makes "
+#~ "Thunderbird awesome. <a class=\"more\" href=\"%(contribute)s\">Join us</a>"
+#~ msgstr ""
+#~ "Thunderbird è un progetto “open source”. Questo significa che chiunque può collaborare offrendo idee, progetti, codice e disponibilità di tempo per aiutare altri utenti. Entra a far parte del team "
+#~ "di supporto per gli utenti Thunderbird, che contribuisce a rendere questo programma così popolare. <a class=\"more\" href=\"%(contribute)s\">Unisciti a noi.</a>"
+
+#~ msgid "<a href=\"%(support)s\">Get Support</a>"
+#~ msgstr "<a href=\"%(support)s\">Ricevi assistenza</a>"
+
+#~ msgid "Need help with something in Thunderbird? We have a <a href=\"%(support)s\">support page</a> where you can ask questions and read knowledge base articles to learn how to use Thunderbird."
+#~ msgstr ""
+#~ "Ti serve aiuto per qualche problema relativo a Thunderbird? Visita questa <a href=\"%(support)s\">pagina di supporto</a> dove potrai porre le tue domande e consultare articoli e guide per imparare a"
+#~ " usare al meglio Thunderbird."
+
+#~ msgid "<a href=\"%(bug)s\">Report a Bug</a>"
+#~ msgstr "<a href=\"%(bug)s\">Segnala un bug</a>"
+
+#~ msgid ""
+#~ "Think you’ve found a problem with Thunderbird? <a href=\"%(bug)s\">Create a bug report</a> so that we can make sure it gets solved. Helping us identify and fix bugs makes for a better Thunderbird "
+#~ "for all."
+#~ msgstr ""
+#~ "Ti sei imbattuto in un malfunzionamento di Thunderbird? <a href=\"%(bug)s\">Segnala il bug</a> per aiutarci a individuare e risolvere il problema, in modo da rendere Thunderbird sempre migliore per "
+#~ "te stesso e per gli altri utenti."

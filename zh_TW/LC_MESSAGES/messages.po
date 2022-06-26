@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-06-15 23:29-0700\n"
+"POT-Creation-Date: 2022-06-26 11:54-0700\n"
 "PO-Revision-Date: 2022-06-19 08:34+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language-Team: none\n"
@@ -23,11 +23,11 @@ msgstr ""
 msgid "Welcome to <div class=\"tb-text\">Thunderbird <small class=\"beta-text\">Beta</small></div>"
 msgstr "歡迎使用 <div class=\"tb-text\">Thunderbird <small class=\"beta-text\">Beta 測試版</small></div>"
 
-#: start-page/beta/index.html:19
+#: start-page/beta/index.html:19 start-page/release/index.html:19
 msgid "Support us!"
 msgstr "支援我們！"
 
-#: start-page/beta/index.html:22 website/base-resp.html:28 website/base-resp.html:52 website/donate-mailing-list.html:17 website/thunderbird/102.0/whatsnew/index.html:22
+#: start-page/beta/index.html:22 start-page/release/index.html:22 start-page/release/index.html:37 website/base-resp.html:28 website/base-resp.html:52 website/donate-mailing-list.html:17
 #: website/thunderbird/91.0/whatsnew/index.html:22
 msgid "Donate"
 msgstr "捐款支持"
@@ -74,7 +74,7 @@ msgstr "認識其他 Beta 使用者，也了解 Beta 版的更多資訊。"
 msgid "Beta Discussion Group"
 msgstr "Beta 版使用者討論區"
 
-#: start-page/beta/index.html:71
+#: start-page/beta/index.html:71 start-page/release/index.html:45
 msgid "Help"
 msgstr "取得幫助"
 
@@ -84,11 +84,11 @@ msgid ""
 "the Thunderbird community (You don’t need to be an expert, and you don’t need to know how to code)."
 msgstr "想了解要如何協助？您不需要是專家，也可以幫助其他使用者，或是提供能改善使用體驗的建議！與我們一起成為這套任何人都可以參與的 Thunderbird 開放原始碼軟體社群的一員（不是軟體專家，也不會寫任何一行程式都歡迎加入）。"
 
-#: start-page/beta/index.html:75 website/base-resp.html:39 website/site-footer.html:15 website/site-prefooter.html:9 website/site-prefooter.html:12
+#: start-page/beta/index.html:75 start-page/release/index.html:49 website/base-resp.html:39 website/site-footer.html:15 website/site-prefooter.html:9 website/site-prefooter.html:12
 msgid "Get Involved"
 msgstr "參與我們"
 
-#: start-page/beta/index.html:83
+#: start-page/beta/index.html:83 start-page/release/index.html:93
 msgid "Crashed?"
 msgstr "發生程式錯誤？"
 
@@ -96,15 +96,15 @@ msgstr "發生程式錯誤？"
 msgid "If Crash Reporter appeared (when Thunderbird crashes), please provide more details to help developers"
 msgstr "若在 Thunderbird 發生錯誤（出現錯誤回報員）時，請提供更多詳細資訊來協助開發者"
 
-#: start-page/beta/index.html:87
+#: start-page/beta/index.html:87 start-page/release/index.html:97
 msgid "In Thunderbird do Help > More Troubleshooting Information, scroll to \"Crash Reports\", click a recent report link to open the crash report page."
 msgstr "點擊 Thunderbird「說明」選單當中的「更多疑難排解資訊」，滾動到「錯誤報告」，點擊近期的回報鏈結，即可開啟對應的錯誤報告頁面。"
 
-#: start-page/beta/index.html:88
+#: start-page/beta/index.html:88 start-page/release/index.html:98
 msgid "Click the Bugzilla tab, then click on an existing bug report under \"Related Bugs\" and add a comment to the bug, or click \"Thunderbird\" to submit a new bug report."
 msgstr "點擊 Bugzilla 標籤，然後點擊「Related Bugs」下方的 Bug 編號來加入留言，或者是點擊「Thunderbird」來送出新的 Bug report。"
 
-#: start-page/beta/index.html:91
+#: start-page/beta/index.html:91 start-page/release/index.html:101
 msgid "Crash Reporter"
 msgstr "程式錯誤回報員"
 
@@ -112,11 +112,11 @@ msgstr "程式錯誤回報員"
 msgid "Question? Problem?"
 msgstr "使用上遇到問題？"
 
-#: start-page/beta/index.html:102
+#: start-page/beta/index.html:102 start-page/release/index.html:71
 msgid "Post your general Thunderbird usage questions or problems on the support page, where many knowledgeable users can help you."
 msgstr "若您有 Thunderbird 的一般使用問題，可到技術支援頁面張貼，其他使用者會在平台上協助。"
 
-#: start-page/beta/index.html:104
+#: start-page/beta/index.html:104 start-page/release/index.html:73
 msgid "Support Page"
 msgstr "技術支援頁面"
 
@@ -128,15 +128,15 @@ msgstr "您可以在 Beta 版使用者討論區張貼意見回饋、使用問題
 msgid "Beta Forum"
 msgstr "Beta 版使用者討論區"
 
-#: start-page/beta/index.html:117
+#: start-page/beta/index.html:117 start-page/release/index.html:81
 msgid "Report"
 msgstr "回報 Bug"
 
-#: start-page/beta/index.html:119
+#: start-page/beta/index.html:119 start-page/release/index.html:83
 msgid "Think you’ve found a new problem or rough edge? Create a bug report so we can make sure it gets solved, resulting in a better Thunderbird experience for all."
 msgstr "覺得找到某個新問題，或者程式運作上的小毛病嗎？請回報 Bug，讓我們可以確保能修正問題，讓大家都有更好的 Thunderbird 使用體驗。"
 
-#: start-page/beta/index.html:121 website/site-prefooter.html:24
+#: start-page/beta/index.html:121 start-page/release/index.html:85 website/site-prefooter.html:24
 msgid "Report a Bug"
 msgstr "回報 Bug"
 
@@ -145,74 +145,56 @@ msgid "Unsure? Ask for help in the beta forum."
 msgstr "不確定是不是 Bug？歡迎到 Beta 版使用者討論區尋求支援。"
 
 #: start-page/release/index.html:8
-msgid "Welcome to <span>Thunderbird</span>"
-msgstr "歡迎使用 <span>Thunderbird</span>"
-
-#: start-page/release/index.html:16
-msgid "Why we need donations"
-msgstr "我們為什麼需要捐款"
-
-#: start-page/release/index.html:18
-msgid "Thunderbird is no longer funded by Mozilla. Fortunately there is an active community keeping it running and developing it further. But to survive long term, the project needs funding."
-msgstr "您可能已知道 Mozilla 已經不再資助 Thunderbird 的開發，但幸運的是，有個活躍的社群願意接手處理，繼續開發 Thunderbird。但若要能夠長期經營下去，整個專案仍然需要有穩定的收入來源。"
-
-#: start-page/release/index.html:21
-msgid ""
-"Thunderbird’s funding goes toward the significant infrastructure and staff that must be maintained to deliver the application to our tens of millions of users. For Thunderbird to survive and "
-"continue to evolve, we need your support and ask for your donation today. All the money donated will go directly to funding Thunderbird development and infrastructure."
-msgstr "Thunderbird 的捐款將用來維護重要的設備與聘請員工，才能將這套軟體發布給數以千萬計的使用者。為了讓 Thunderbird 能夠存活並持續成長，我們需要您的支援，並請求您捐款。所有捐款將會完全用於資助 Thunderbird 的軟體開發與設備維護。"
-
-#: start-page/release/index.html:27
-#, python-format
-msgid "<a href=\"%(donate)s\">Donate to Thunderbird</a>"
-msgstr "<a href=\"%(donate)s\">捐款給 Thunderbird</a>"
-
-#: start-page/release/index.html:28
-msgid ""
-"Thunderbird is the leading open source, cross-platform email and calendaring client, free for business and personal use. We want it to stay secure and become even better. A donation will allow us to"
-" hire developers, pay for infrastructure, and continue to improve."
-msgstr "Thunderbird 是領先的開放原始碼、跨平台郵件及行事曆軟體，可免費於商業或個人環境使用。我們想要讓這套軟體保持安全，變得更棒！透過捐款，可幫助我們聘請更多工程師、支付軟體主機等基礎費用，並持續改進。"
-
-#: start-page/release/index.html:29
-#, python-format
-msgid ""
-"<strong>Thunderbird is funded by users like you! If you like Thunderbird, please consider making a donation.</strong> The best way for you to ensure Thunderbird remains available is to <a "
-"class=\"more\" href=\"%(donate)s\">make a donation.</a>"
-msgstr "<strong>Thunderbird 是由捐款所支持發展的！</strong>若您喜愛 Thunderbird，請<a class=\"more\" href=\"%(donate)s\">捐款給我們</a>，讓 Thunderbird 能持續運作。"
-
-#: start-page/release/index.html:32
-#, python-format
-msgid "<a href=\"%(contribute)s\">Get Involved</a>"
-msgstr "<a href=\"%(contribute)s\">參與我們</a>"
+#, fuzzy
+msgid "Welcome to <div class=\"tb-text\">Thunderbird</div>"
+msgstr "歡迎使用 <div class=\"tb-text\">Thunderbird <small class=\"beta-text\">Beta 測試版</small></div>"
 
 #: start-page/release/index.html:33
-#, python-format
+#, fuzzy
+msgid "Support Us"
+msgstr "支援我們！"
+
+#: start-page/release/index.html:35
+#, fuzzy
 msgid ""
-"Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users. Become part of a team that supports Thunderbird users, and makes "
-"Thunderbird awesome. <a class=\"more\" href=\"%(contribute)s\">Join us</a>"
-msgstr "Thunderbird 是一套開放原始碼專案，代表任何人都可以貢獻點子、設計、程式碼或時間來幫助其他使用者。也可以成為使用者支援團隊的一員，讓 Thunderbird 變得更棒。<a class=\"more\" href=\"%(contribute)s\">加入我們</a>"
+"Thank you for supporting Thunderbird, which is funded by users like you! Producing Thunderbird requires software engineers, designers, system administrators and server infrastructure. So if you like"
+" Thunderbird, the best way to ensure Thunderbird remains available is to make a donation."
+msgstr "<strong>Thunderbird 是由捐款所支持發展的！</strong>若您喜愛 Thunderbird，請<a class=\"more\" href=\"%(donate)s\">捐款給我們</a>，讓 Thunderbird 能持續運作。"
 
-#: start-page/release/index.html:38
-#, python-format
-msgid "<a href=\"%(support)s\">Get Support</a>"
-msgstr "<a href=\"%(support)s\">取得支援</a>"
-
-#: start-page/release/index.html:39
-#, python-format
-msgid "Need help with something in Thunderbird? We have a <a href=\"%(support)s\">support page</a> where you can ask questions and read knowledge base articles to learn how to use Thunderbird."
-msgstr "需要 Thunderbird 某些東西的幫助嗎？我們有個<a href=\"%(support)s\">技術支援網站</a>，可讓您問問題，並閱讀知識庫文件，了解如何使用 Thunderbird。"
-
-#: start-page/release/index.html:42
-#, python-format
-msgid "<a href=\"%(bug)s\">Report a Bug</a>"
-msgstr "<a href=\"%(bug)s\">回報 Bug</a>"
-
-#: start-page/release/index.html:43
-#, python-format
+#: start-page/release/index.html:47
+#, fuzzy
 msgid ""
-"Think you’ve found a problem with Thunderbird? <a href=\"%(bug)s\">Create a bug report</a> so that we can make sure it gets solved. Helping us identify and fix bugs makes for a better Thunderbird "
-"for all."
-msgstr "覺得找到某個 Thunderbird 的問題嗎？<a href=\"%(bug)s\">請回報 Bug</a>，讓我們可以確保問題能被修正。請幫助我們找出並修正 Bug，讓大家都能有一套更好的 Thunderbird。"
+"Curious about helping? You don’t need to be an expert or know how to code to help other users or offer suggestions about improving the experience! Join us in this open source project where anyone "
+"can participate in the Thunderbird community."
+msgstr "想了解要如何協助？您不需要是專家，也可以幫助其他使用者，或是提供能改善使用體驗的建議！與我們一起成為這套任何人都可以參與的 Thunderbird 開放原始碼軟體社群的一員（不是軟體專家，也不會寫任何一行程式都歡迎加入）。"
+
+#: start-page/release/index.html:52
+msgid "Share ideas and feedback."
+msgstr ""
+
+#: start-page/release/index.html:54
+#, fuzzy
+msgid "Mozilla Connect"
+msgstr "Mozilla"
+
+#: start-page/release/index.html:57
+#, fuzzy
+msgid "Help make Thunderbird better."
+msgstr "Thunderbird Beta"
+
+#: start-page/release/index.html:59 website/index.html:24
+msgid "Get the Beta"
+msgstr "下載測試版"
+
+#: start-page/release/index.html:69
+#, fuzzy
+msgid "Questions? Problems?"
+msgstr "使用上遇到問題？"
+
+#: start-page/release/index.html:95
+#, fuzzy
+msgid "If Crash Reporter appears when Thunderbird crashes, please provide as many details as possible to help developers."
+msgstr "若在 Thunderbird 發生錯誤（出現錯誤回報員）時，請提供更多詳細資訊來協助開發者"
 
 #: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:149
 #: website/index.html:168 website/site-footer.html:4 website/site-footer.html:48 website/site-prefooter.html:51 website/site-prefooter.html:54
@@ -260,7 +242,7 @@ msgstr "部落格"
 msgid "Thunderbird is funded by users like you"
 msgstr "Thunderbird 是由像您這樣的使用者所贊助發展的"
 
-#: website/donate-mailing-list.html:14 website/thunderbird/102.0/whatsnew/index.html:17 website/thunderbird/91.0/whatsnew/index.html:17
+#: website/donate-mailing-list.html:14 website/thunderbird/102.0/whatsnew/index.html:20 website/thunderbird/91.0/whatsnew/index.html:17
 msgid "Thunderbird is both free and freedom respecting, but we’re also completely funded by donations! Help us sustain the project and continue to improve."
 msgstr "Thunderbird 既免費又尊重自由，我們也是完全靠捐款來資助我們的發展！請幫助我們讓這個專案能夠持續進步。"
 
@@ -333,10 +315,6 @@ msgstr "想早點嘗試新功能？"
 #: website/index.html:22
 msgid "Get the beta and be a part of the future of Thunderbird!"
 msgstr "下載測試版，成為 Thunderbird 未來的一部分！"
-
-#: website/index.html:24
-msgid "Get the Beta"
-msgstr "下載測試版"
 
 #: website/download/index.html:23 website/index.html:28
 msgid "Thunderbird screenshot"
@@ -744,8 +722,8 @@ msgid ""
 "Flaws are to be expected. High-impact flaws, including data loss, are very rare, but may occur. Protect yourself with <a href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-"
 "data#w_backing-up-a-profile\">backups</a>. Low-impact flaws may not be fixed quickly, because fixes are prioritized based on impact."
 msgstr ""
-"可以預期會有些小缺點。不太容易會出現遺失資料之類的大問題，但還是有可能發生。請務必進行<a href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-data#w_backing-up-a-"
-"profile\">備份</a>來保護好資料。由於修復問題的優先度是依照問題本身的影響程度而定，小缺點不一定很快就會被修正。"
+"可以預期會有些小缺點。不太容易會出現遺失資料之類的大問題，但還是有可能發生。請務必進行<a href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-data#w_backing-"
+"up-a-profile\">備份</a>來保護好資料。由於修復問題的優先度是依照問題本身的影響程度而定，小缺點不一定很快就會被修正。"
 
 #: website/download/beta/index.html:57
 msgid "Expect seven updates per month, one major update per month plus several small updates. This frequency of updates allows us to make fast improvements."
@@ -1114,102 +1092,102 @@ msgid ""
 "from 102.0 and up</a>."
 msgstr "此文件描述了 Thunderbird 102 版當中使用者可明顯注意到的重大變更。若需所有變更的詳細資訊，可到 <a href=\"%(release)s\">Thunderbird 102.0 發行公告</a>查詢。"
 
-#: website/thunderbird/102.0/whatsnew/index.html:43
+#: website/thunderbird/102.0/whatsnew/index.html:42
 msgid "Message Header Redesign"
 msgstr "重新設計訊息標題"
 
-#: website/thunderbird/102.0/whatsnew/index.html:46
+#: website/thunderbird/102.0/whatsnew/index.html:45
 msgid ""
 "Thunderbird 102 helps you be more productive with less effort. When reading your email, the redesigned message header allows you to focus on what matters as it highlights important information. It’s"
 " also more responsive and easier to navigate. Plus, you can star important messages from the message header itself, and easily convert them into a calendar event or a task."
 msgstr "Thunderbird 102 版可幫助您花更少力氣就做到更多事。閱讀郵件時，重新設計過的訊息檔頭可讓您聚焦於強調的重要資訊，操作的反應速度更快、更簡單切換各功能。另外還可以在訊息檔頭中直接幫重要的訊息打上星號，並且簡簡單單就能將訊息轉換成行事曆上的事件或任務。"
 
-#: website/thunderbird/102.0/whatsnew/index.html:58
+#: website/thunderbird/102.0/whatsnew/index.html:57
 msgid "New Address Book"
 msgstr "全新設計的通訊錄"
 
-#: website/thunderbird/102.0/whatsnew/index.html:61
+#: website/thunderbird/102.0/whatsnew/index.html:60
 msgid ""
 "Thunderbird 102 gives your contacts a serious upgrade! The refreshed design makes it easier to navigate and interact with your contacts, and helps you better understand who you’re communicating "
 "with. The new Address Book has compatibility with vCard specs, meaning if your app can export your existing contacts into vCard format, Thunderbird can import them. Each contact card also acts as a "
 "launchpad for messaging, email, and event creation."
 msgstr "Thunderbird 102 版推出了通訊錄功能的超級大更新！重新整理過的設計讓您更簡單就能找到聯絡人並與其互動，並且可幫助您更容易了解正在跟誰通訊。全新的通訊錄與 vCard 規格相容，代表其他程式只要能將聯絡人匯出成 vCard 格式，就可以直接匯入到 Thunderbird 當中。每張聯絡人卡片同時也是傳訊息、寫信、發活動通知的啟動點。"
 
-#: website/thunderbird/102.0/whatsnew/index.html:79
+#: website/thunderbird/102.0/whatsnew/index.html:78
 msgid "New Import/Export Wizard"
 msgstr "全新匯入/匯出精靈"
 
-#: website/thunderbird/102.0/whatsnew/index.html:82
+#: website/thunderbird/102.0/whatsnew/index.html:81
 msgid ""
 "Thunderbird 102 makes it quick and simple to move your accounts and data around. The new step-by-step wizard provides a guided experience for importing all that data that’s important to you. We’ve "
 "also taken extra precautions to ensure that no data is accidentally duplicated in your profile after an import. Moving from Outlook, SeaMonkey, or another Thunderbird installation is easier than "
 "ever. No add-ons required!"
 msgstr "Thunderbird 102 版讓您更快，更簡單就能移動帳號與使用資料。全新的資料匯入精靈讓您可一步一步完成重要資料的匯入。我們也採取了更多行動，避免在資料匯入後發生重複。從 Outlook、SeaMonkey 或另一套 Thunderbird 從來沒有這麼簡單過，而且不用裝任何附加元件！"
 
-#: website/thunderbird/102.0/whatsnew/index.html:94
+#: website/thunderbird/102.0/whatsnew/index.html:93
 msgid "New Spaces Toolbar"
 msgstr "全新按鈕空間"
 
-#: website/thunderbird/102.0/whatsnew/index.html:97
+#: website/thunderbird/102.0/whatsnew/index.html:96
 msgid ""
 "Thunderbird 102 makes navigating the application more intuitive thanks to the the new Spaces Toolbar. Move between all of your activities with ease, whether it’s managing email, working with "
 "contacts through the awesome new address book, using the calendar and tasks functionality, chat, and even add-ons! If you want to save screen real estate, the Spaces Toolbar can be dismissed, and "
 "you can instead navigate the different activities Thunderbird offers with the new Pinned Spaces tab."
 msgstr "透過全新的「按鈕空間」工具列，讓 Thunderbird 102 版的操作更直覺。不論是要管理郵件、編輯全新設計的通訊路當中的聯絡人資料，還是使用行事曆與任務功能、聊天、甚至是安裝附加元件，都可以透過按鈕空間輕鬆切換！如果想節省一點螢幕空間，也可以隱藏按鈕空間工具列，只用「釘選的空間」標籤切換 Thunderbird 的各項功能。"
 
-#: website/thunderbird/102.0/whatsnew/index.html:115
+#: website/thunderbird/102.0/whatsnew/index.html:114
 msgid "New Matrix Chat Support"
 msgstr "新增支援 Matrix 聊天"
 
-#: website/thunderbird/102.0/whatsnew/index.html:118
+#: website/thunderbird/102.0/whatsnew/index.html:117
 msgid ""
 "Thunderbird 102 offers a new way to chat privately and securely with your colleagues, friends, and family. We’ve added support for the open-source, decentralized chat protocol Matrix, and it’s "
 "usable right out of the box! (As always, we welcome your feedback since it’s an evolving service.)"
 msgstr "Thunderbird 102 版也提供了能讓您與同事、好友、家人能更安全、更有隱私地聊天的功能。我們加入了對開放原始碼、去中心化的聊天通訊協定 Matrix 的支援，什麼都不用設定，直接隨開即用！（由於這是發展中的服務，我們也一如往常地歡迎您提供任何意見回饋。）"
 
-#: website/thunderbird/102.0/whatsnew/index.html:128 website/thunderbird/68.0/whatsnew/index.html:67 website/thunderbird/78.0/whatsnew/index.html:81 website/thunderbird/91.0/whatsnew/index.html:168
+#: website/thunderbird/102.0/whatsnew/index.html:127 website/thunderbird/68.0/whatsnew/index.html:67 website/thunderbird/78.0/whatsnew/index.html:81 website/thunderbird/91.0/whatsnew/index.html:168
 msgid "Other Notable Changes"
 msgstr "其他可見的變更"
 
-#: website/thunderbird/102.0/whatsnew/index.html:131
+#: website/thunderbird/102.0/whatsnew/index.html:130
 msgid "There are many other big changes that make Thunderbird 102 a very large release including:"
 msgstr "在 Thunderbird 102 這個大更新當中還有許多其他功能變更，包含："
 
-#: website/thunderbird/102.0/whatsnew/index.html:134
+#: website/thunderbird/102.0/whatsnew/index.html:133
 msgid "New Icons and Default Folder Colors"
 msgstr "對圖示與預設信件匣設訂新色彩"
 
-#: website/thunderbird/102.0/whatsnew/index.html:135
+#: website/thunderbird/102.0/whatsnew/index.html:134
 msgid "Use Thunderbird without an email account (for example, as an RSS reader)"
 msgstr "不需郵件帳號即可使用 Thunderbird（例如做為 RSS 閱讀器使用）"
 
-#: website/thunderbird/102.0/whatsnew/index.html:136
+#: website/thunderbird/102.0/whatsnew/index.html:135
 msgid "Numerous OpenPGP improvements"
 msgstr "許多 OpenPGP 改進"
 
-#: website/thunderbird/102.0/whatsnew/index.html:137
+#: website/thunderbird/102.0/whatsnew/index.html:136
 msgid "CalendarLocal parser converted to javascript"
 msgstr "CalendarLocal 剖析器轉換為 JavaScript"
 
-#: website/thunderbird/102.0/whatsnew/index.html:138
+#: website/thunderbird/102.0/whatsnew/index.html:137
 msgid "Today Pane calendar UI refresh"
 msgstr "重新設計今日窗格中的行事曆介面"
 
-#: website/thunderbird/102.0/whatsnew/index.html:139
+#: website/thunderbird/102.0/whatsnew/index.html:138
 msgid "POP3 implemented in javascript"
 msgstr "以 JavaScript 實作的 POP3 功能"
 
-#: website/thunderbird/102.0/whatsnew/index.html:140
+#: website/thunderbird/102.0/whatsnew/index.html:139
 msgid "Account settings moved to macOS application menu"
 msgstr "帳號設定移動至 macOS 應用程式選單"
 
-#: website/thunderbird/102.0/whatsnew/index.html:141
+#: website/thunderbird/102.0/whatsnew/index.html:140
 msgid ""
 "Plus: Application-wide font size control, Theme fixes, FileLink fixes, Accessibility fixes, improved vCard integration, improved calendar startup performance, Calendar fixes including correct order "
 "of week view headers and days for right to left locales."
 msgstr "另外還有：應用程式層級的字體大小控制、修正佈景主題、修正 FileLink 功能、修正易用性問題、改進對 vCard 整合、改進行事曆功能的啟動速度、對行事曆功能修正錯誤的週畫面標題，與從右到左排版語系中的日期顯示問題。"
 
-#: website/thunderbird/102.0/whatsnew/index.html:144
+#: website/thunderbird/102.0/whatsnew/index.html:143
 #, python-format
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 102.0 and up</a>."
 msgstr "您可以到 <a href=\"%(release)s\">Thunderbird 102.0 與更新版本的發行公告</a>查看完整的更新清單。"
@@ -1508,3 +1486,47 @@ msgstr "每個版本的 Thunderbird 的發行公告。"
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Thunderbird 每個版本都會有發行公告。請從下列清單中選擇您的版本，閱讀該版本的發行公告。"
+
+#~ msgid "Welcome to <span>Thunderbird</span>"
+#~ msgstr "歡迎使用 <span>Thunderbird</span>"
+
+#~ msgid "Why we need donations"
+#~ msgstr "我們為什麼需要捐款"
+
+#~ msgid "Thunderbird is no longer funded by Mozilla. Fortunately there is an active community keeping it running and developing it further. But to survive long term, the project needs funding."
+#~ msgstr "您可能已知道 Mozilla 已經不再資助 Thunderbird 的開發，但幸運的是，有個活躍的社群願意接手處理，繼續開發 Thunderbird。但若要能夠長期經營下去，整個專案仍然需要有穩定的收入來源。"
+
+#~ msgid ""
+#~ "Thunderbird’s funding goes toward the significant infrastructure and staff that must be maintained to deliver the application to our tens of millions of users. For Thunderbird to survive and "
+#~ "continue to evolve, we need your support and ask for your donation today. All the money donated will go directly to funding Thunderbird development and infrastructure."
+#~ msgstr "Thunderbird 的捐款將用來維護重要的設備與聘請員工，才能將這套軟體發布給數以千萬計的使用者。為了讓 Thunderbird 能夠存活並持續成長，我們需要您的支援，並請求您捐款。所有捐款將會完全用於資助 Thunderbird 的軟體開發與設備維護。"
+
+#~ msgid "<a href=\"%(donate)s\">Donate to Thunderbird</a>"
+#~ msgstr "<a href=\"%(donate)s\">捐款給 Thunderbird</a>"
+
+#~ msgid ""
+#~ "Thunderbird is the leading open source, cross-platform email and calendaring client, free for business and personal use. We want it to stay secure and become even better. A donation will allow us to"
+#~ " hire developers, pay for infrastructure, and continue to improve."
+#~ msgstr "Thunderbird 是領先的開放原始碼、跨平台郵件及行事曆軟體，可免費於商業或個人環境使用。我們想要讓這套軟體保持安全，變得更棒！透過捐款，可幫助我們聘請更多工程師、支付軟體主機等基礎費用，並持續改進。"
+
+#~ msgid "<a href=\"%(contribute)s\">Get Involved</a>"
+#~ msgstr "<a href=\"%(contribute)s\">參與我們</a>"
+
+#~ msgid ""
+#~ "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users. Become part of a team that supports Thunderbird users, and makes "
+#~ "Thunderbird awesome. <a class=\"more\" href=\"%(contribute)s\">Join us</a>"
+#~ msgstr "Thunderbird 是一套開放原始碼專案，代表任何人都可以貢獻點子、設計、程式碼或時間來幫助其他使用者。也可以成為使用者支援團隊的一員，讓 Thunderbird 變得更棒。<a class=\"more\" href=\"%(contribute)s\">加入我們</a>"
+
+#~ msgid "<a href=\"%(support)s\">Get Support</a>"
+#~ msgstr "<a href=\"%(support)s\">取得支援</a>"
+
+#~ msgid "Need help with something in Thunderbird? We have a <a href=\"%(support)s\">support page</a> where you can ask questions and read knowledge base articles to learn how to use Thunderbird."
+#~ msgstr "需要 Thunderbird 某些東西的幫助嗎？我們有個<a href=\"%(support)s\">技術支援網站</a>，可讓您問問題，並閱讀知識庫文件，了解如何使用 Thunderbird。"
+
+#~ msgid "<a href=\"%(bug)s\">Report a Bug</a>"
+#~ msgstr "<a href=\"%(bug)s\">回報 Bug</a>"
+
+#~ msgid ""
+#~ "Think you’ve found a problem with Thunderbird? <a href=\"%(bug)s\">Create a bug report</a> so that we can make sure it gets solved. Helping us identify and fix bugs makes for a better Thunderbird "
+#~ "for all."
+#~ msgstr "覺得找到某個 Thunderbird 的問題嗎？<a href=\"%(bug)s\">請回報 Bug</a>，讓我們可以確保問題能被修正。請幫助我們找出並修正 Bug，讓大家都能有一套更好的 Thunderbird。"
