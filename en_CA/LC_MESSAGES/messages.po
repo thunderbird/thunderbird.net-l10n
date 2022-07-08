@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-06-30 14:53-0700\n"
-"PO-Revision-Date: 2022-07-08 21:32+0000\n"
+"PO-Revision-Date: 2022-07-08 21:35+0000\n"
 "Last-Translator: pdehaan <pdehaan@mozilla.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en_CA\n"
@@ -832,6 +832,9 @@ msgid ""
 " profile per Thunderbird</a>, then start the release version of Thunderbird and it should use your release version profile data. If you no longer want to use the beta version, and do not need any of"
 " the beta data (address books, local folders, pop folders, etc), and wish to remove the beta data and beta program from your system:"
 msgstr ""
+"If you installed the beta program into its own program directory (choice 1 above) and you used a <a href=\"https://support.mozilla.org/kb/dedicated-profile-thunderbird-installation\">dedicated "
+"profile per Thunderbird</a>, then start the release version of Thunderbird and it should use your release version profile data. If you no longer want to use the beta version, and do not need any of "
+"the beta data (address books, local folders, pop folders, etc), and wish to remove the beta data and beta program from your system:"
 
 #: website/download/beta/index.html:121
 msgid "Start the release version of Thunderbird to use the <a href=\"https://support.mozilla.org/kb/profile-manager-create-and-remove-thunderbird-profiles\">profile manager.</a>"
@@ -843,7 +846,7 @@ msgstr ""
 
 #: website/download/beta/index.html:123
 msgid "Delete the beta version’s program directory. "
-msgstr ""
+msgstr "Delete the beta version’s program directory."
 
 #: website/download/beta/index.html:125
 msgid "If you need to copy data from the beta profile to your release profile, please consult the <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">beta support article.</a>"
@@ -1121,18 +1124,17 @@ msgstr ""
 "further bolster overall security."
 
 #: website/thunderbird/102.0/whatsnew/index.html:7
-#, fuzzy
 msgid "New in Thunderbird 102"
-msgstr "New in Thunderbird 91"
+msgstr "New in Thunderbird 102"
 
 #: website/thunderbird/102.0/whatsnew/index.html:14
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "This article describes some of the major changes visible to users in Thunderbird version 102. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird release notes "
 "from 102.0 and up</a>."
 msgstr ""
-"This article describes some of the major changes visible to users in Thunderbird version 91. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird release notes "
-"from 91.0 and up</a>."
+"This article describes some of the major changes visible to users in Thunderbird version 102. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird release notes "
+"from 102.0 and up</a>."
 
 #: website/thunderbird/102.0/whatsnew/index.html:20
 msgid "<strong>Thunderbird</strong> is both free and freedom respecting, but we’re also completely funded by donations! <strong>Help us sustain the project and continue to improve.</strong>"
@@ -1149,9 +1151,8 @@ msgid ""
 msgstr ""
 
 #: website/thunderbird/102.0/whatsnew/index.html:57
-#, fuzzy
 msgid "New Address Book"
-msgstr "One-click Address Book"
+msgstr "New Address Book"
 
 #: website/thunderbird/102.0/whatsnew/index.html:60
 msgid ""
@@ -1197,9 +1198,8 @@ msgid "Other Notable Changes"
 msgstr "Other Notable Changes"
 
 #: website/thunderbird/102.0/whatsnew/index.html:130
-#, fuzzy
 msgid "There are many other big changes that make Thunderbird 102 a very large release including:"
-msgstr "There are many other big changes that make Thunderbird 91 a very large release including:"
+msgstr "There are many other big changes that make Thunderbird 102 a very large release including:"
 
 #: website/thunderbird/102.0/whatsnew/index.html:133
 msgid "New Icons and Default Folder Colors"
@@ -1236,9 +1236,9 @@ msgid ""
 msgstr ""
 
 #: website/thunderbird/102.0/whatsnew/index.html:143
-#, fuzzy, python-format
+#, python-format
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 102.0 and up</a>."
-msgstr "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 91.0 and up</a>."
+msgstr "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 102.0 and up</a>."
 
 #: website/thunderbird/68.0/whatsnew/index.html:7
 msgid "New in Thunderbird 68"
