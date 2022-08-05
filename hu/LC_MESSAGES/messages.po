@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-06-30 14:53-0700\n"
-"PO-Revision-Date: 2022-08-05 10:56+0000\n"
+"PO-Revision-Date: 2022-08-05 11:06+0000\n"
 "Last-Translator: Balázs Meskó <meskobalazs@mailbox.org>\n"
 "Language-Team: none\n"
 "Language: hu\n"
@@ -844,16 +844,21 @@ msgid ""
 " profile, this choice makes it more difficult to switch back to using a release version should you wish to do so in the future. In other words, you should not switch back and forth between beta and "
 "normal release using the same profile."
 msgstr ""
+"Egyszerűen telepítse a béta verziót az aktuális programkönyvtár helyére, az alapértelmezett telepítői lehetőségek használatával. A Béta ezután <u>a jelenlegi alapértelmezett profilját fogja "
+"használni</u>. Mivel az Ön alapértelmezett profilját használja, ez a választás megnehezíti a visszaváltást a kiadási verzió használatára, ha ezt a jövőben szeretné megtenni. Más szóval ne váltson "
+"oda-vissza a béta és a normál kiadás között, ha ugyanazt a profilt használja."
 
 #: website/download/beta/index.html:100
 msgid "For very detailed information about both methods, please check the <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">beta support article.</a>"
-msgstr ""
+msgstr "Mindkét módszer részletes információihoz tekintse meg a <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">béta támogatási leírást</a>."
 
 #: website/download/beta/index.html:115
 msgid ""
 "If you installed the beta over the top of the release version (choice 2 above), then your process will be more complicated. Please consult this <a href=\"https://support.mozilla.org/kb/thunderbird-"
 "beta\">beta support article.</a>"
 msgstr ""
+"Ha a bétát a kiadási verzióra telepítette (fenti 2. lehetőség), akkor a folyamat bonyolultabb lesz. Olvassa el ezt a <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">béta támogatási "
+"leírást</a>."
 
 #: website/download/beta/index.html:118
 msgid ""
@@ -861,6 +866,9 @@ msgid ""
 " profile per Thunderbird</a>, then start the release version of Thunderbird and it should use your release version profile data. If you no longer want to use the beta version, and do not need any of"
 " the beta data (address books, local folders, pop folders, etc), and wish to remove the beta data and beta program from your system:"
 msgstr ""
+"Ha a béta programot a saját programkönyvtárába telepítette (fenti 1. lehetőség), és <a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-thunderbird-installation\">Thunderbirdönként "
+"dedikált profilt használ</a>, akkor indítsa el a Thunderbird kiadási verzióját, és a kiadási verzió profiladatait fogja használni. Ha már nem szeretné használni a béta verziót, és nincs szüksége a "
+"béta adatokra (címjegyzékek, helyi mappák, POP mappák stb.), és el kívánja távolítani a béta adatokat és a béta programot is a rendszerről:"
 
 #: website/download/beta/index.html:121
 msgid "Start the release version of Thunderbird to use the <a href=\"https://support.mozilla.org/kb/profile-manager-create-and-remove-thunderbird-profiles\">profile manager.</a>"
@@ -899,12 +907,17 @@ msgid ""
 "Ask beta specific assistance questions and comments in <a href=\"https://thunderbird.topicbox.com/groups/beta\">the beta forum</a>, or browse it to see what other beta users are discussing. The "
 "forum operates in English, so if you need assistance in another language please ask for help in <a href=\"https://support.mozilla.org/questions/new/thunderbird/form\">Thunderbird support</a>."
 msgstr ""
+"Tegyen fel béta-specifikus kérdéseket és megjegyzéseket a <a href=\"https://thunderbird.topicbox.com/groups/beta\">béta fórumban</a>, vagy böngésszen benne, hogy megtudja, miről beszélgetnek más "
+"béta felhasználók. A fórum angol nyelvű, ezért ha más nyelven van szükséges segítségre, akkor kérjen segítséget a <a href=\"https://support.mozilla.org/questions/new/thunderbird/form\">Thunderbird "
+"támogatásnál</a>."
 
 #: website/download/beta/index.html:148
 msgid ""
 "If you find a problem, try to <a href=\"https://support.mozilla.org/kb/troubleshoot-mode-thunderbird\">reproduce the problem in Troubleshoot Mode</a>, then file a bug report for <a "
 "href=\"https://bugzilla.mozilla.org/enter_bug.cgi?product=Thunderbird\">Thunderbird</a> or <a href=\"https://bugzilla.mozilla.org/enter_bug.cgi?product=Calendar\">Calendar</a>."
 msgstr ""
+"Ha problémát talál, akkor próbálja <a href=\"https://support.mozilla.org/kb/troubleshoot-mode-thunderbird\">reprodukálni a Hibakeresési módban</a>, majd küldjön hibajelentést a <a "
+"href=\"https://bugzilla.mozilla.org/enter_bug.cgi?product=Thunderbird\">Thunderbirdhöz</a> vagy a <a href=\"https://bugzilla.mozilla.org/enter_bug.cgi?product=Calendar\">Naptárhoz</a>."
 
 #: website/download/beta/index.html:149
 msgid "<b>≡ > Tools > Export</b> can be used to backup your profile, or to get to your profile directory quickly."
@@ -1159,17 +1172,17 @@ msgid "New in Thunderbird 102"
 msgstr "A Thunderbird 102 újdonságai"
 
 #: website/thunderbird/102.0/whatsnew/index.html:14
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "This article describes some of the major changes visible to users in Thunderbird version 102. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird release notes "
 "from 102.0 and up</a>."
 msgstr ""
-"Ez a cikk ismerteti a Thunderbird 91-es verziójának a felhasználók számára látható főbb változásait. Az összes változás részletes leírása megtalálható a <a href=\"%(release)s\">Thunderbird 91.0-s és"
-" újabb verzióinak kiadási megjegyzéseiben</a>."
+"Ez a leírás ismerteti a Thunderbird 102-es verziójának a felhasználók számára látható főbb változásait. Az összes változás részletes leírása megtalálható a <a href=\"%(release)s\">Thunderbird "
+"102.0-s és újabb verzióinak kiadási megjegyzéseiben</a>."
 
 #: website/thunderbird/102.0/whatsnew/index.html:20
 msgid "<strong>Thunderbird</strong> is both free and freedom respecting, but we’re also completely funded by donations! <strong>Help us sustain the project and continue to improve.</strong>"
-msgstr ""
+msgstr "A <strong>Thunderbird</strong> ingyenes és szabad szoftver, de teljesen adományokból finanszírozott! <strong>Segítsen a projekt fenntartásában és továbbfejlesztésben.</strong>"
 
 #: website/thunderbird/102.0/whatsnew/index.html:42
 msgid "Message Header Redesign"
@@ -1180,6 +1193,9 @@ msgid ""
 "Thunderbird 102 helps you be more productive with less effort. When reading your email, the redesigned message header allows you to focus on what matters as it highlights important information. It’s"
 " also more responsive and easier to navigate. Plus, you can star important messages from the message header itself, and easily convert them into a calendar event or a task."
 msgstr ""
+"A Thunderbird 102 segít abban, hogy kevesebb erőfeszítéssel legyen hatékonyabb. E-mailje olvasása közben az újratervezett üzenetfejléc lehetővé teszi, hogy a fontos dolgokra összpontosítson, mivel "
+"kiemeli a fontos információkat. Emellett válaszkészebb és könnyebben navigálható. Ezenkívül a fontos üzeneteket már az üzenetfejlécüknél is csillagozhatja, illetve egyszerűen naptáresemménnyé vagy "
+"feladattá alakíthatja őket."
 
 #: website/thunderbird/102.0/whatsnew/index.html:57
 msgid "New Address Book"
