@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-06-30 14:53-0700\n"
+"POT-Creation-Date: 2022-08-16 16:12-0700\n"
 "PO-Revision-Date: 2022-07-04 16:19+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: none\n"
@@ -28,7 +28,7 @@ msgid "Support us!"
 msgstr "Styddu okkur!"
 
 #: start-page/beta/index.html:22 start-page/release/index.html:22 start-page/release/index.html:37 website/base-resp.html:28 website/base-resp.html:52 website/donate-mailing-list.html:17
-#: website/thunderbird/91.0/whatsnew/index.html:22
+#: website/thunderbird/102.0/whatsnew/index.html:24 website/thunderbird/91.0/whatsnew/index.html:22
 msgid "Donate"
 msgstr "Styrkja"
 
@@ -578,8 +578,8 @@ msgid ""
 "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
 "href=\"%(council)s\">on the Thunderbird wiki</a>."
 msgstr ""
-"Thunderbird-verkefninu er stjórnað af sjö ráðsmönnum, kjörnum af virkum þátttakendum Thunderbird samfélagsins. Þú getur séð núverandi kjörna meðlimi Thunderbird-ráðsins á <a "
-"href=\"%(council)s\">wiki-síðu Thunderbird</a>."
+"Thunderbird-verkefninu er stjórnað af sjö ráðsmönnum, kjörnum af virkum þátttakendum Thunderbird samfélagsins. Þú getur séð núverandi kjörna meðlimi Thunderbird-ráðsins á <a href=\"%(council)s"
+"\">wiki-síðu Thunderbird</a>."
 
 #: website/calendar/index.html:7 website/calendar/index.html:22
 msgid "Lightning Calendar"
@@ -807,8 +807,8 @@ msgid ""
 "Thunderbird 102 and newer on Windows will install beta into its own program directory. For older versions on Windows consult the <a href=\"https://support.mozilla.org/en-US/kb/thunderbird-"
 "beta\">beta support article</a>. For other operating systems use an install method appropriate for your OS to target a uniquely named directory."
 msgstr ""
-"Thunderbird 102 og nýrri á Windows mun setja Beta-prófunarútgáfuna upp í eigin forritamöppu. Fyrir eldri útgáfur á Windows ættirðu að skoða <a href=\"https://support.mozilla.org/en-"
-"US/kb/thunderbird-beta\">aðstoðargreinina um prófunarútgáfur</a>. Fyrir önnur stýrikerfi skaltu nota þá uppsetningaraðferð sem hentar stýrikerfinu þínu til að miða á tiltekna nafngreinda möppu."
+"Thunderbird 102 og nýrri á Windows mun setja Beta-prófunarútgáfuna upp í eigin forritamöppu. Fyrir eldri útgáfur á Windows ættirðu að skoða <a href=\"https://support.mozilla.org/en-US/kb"
+"/thunderbird-beta\">aðstoðargreinina um prófunarútgáfur</a>. Fyrir önnur stýrikerfi skaltu nota þá uppsetningaraðferð sem hentar stýrikerfinu þínu til að miða á tiltekna nafngreinda möppu."
 
 #: website/download/beta/index.html:89
 msgid ""
@@ -907,8 +907,8 @@ msgid ""
 "forum operates in English, so if you need assistance in another language please ask for help in <a href=\"https://support.mozilla.org/questions/new/thunderbird/form\">Thunderbird support</a>."
 msgstr ""
 "Spyrðu sértækar spurningar varðandi aðstoð vegna beta-prófana og athugasemda á <a href=\"https://thunderbird.topicbox.com/groups/beta\">beta-spjallborðinu</a>, eða flettu því til að sjá hvað aðrir "
-"beta-notendur eru að ræða. Spjallborðið starfar á ensku, svo ef þú þarft aðstoð á öðru tungumáli skaltu biðja um hjálp á <a "
-"href=\"https://support.mozilla.org/questions/new/thunderbird/form\">Thunderbird-aðstoðargáttinni</a>."
+"beta-notendur eru að ræða. Spjallborðið starfar á ensku, svo ef þú þarft aðstoð á öðru tungumáli skaltu biðja um hjálp á <a href=\"https://support.mozilla.org/questions/new/thunderbird/form"
+"\">Thunderbird-aðstoðargáttinni</a>."
 
 #: website/download/beta/index.html:148
 msgid ""
@@ -1160,30 +1160,25 @@ msgstr ""
 "að tryggja að hugbúnaðurinn okkar sé öruggur og uppfærður mjög fljótt, en leyfir okkur samt sem áður að nota það besta af öryggis- og þróunarforritum frá utanaðkomandi aðilum til að styrkja "
 "heildaröryggið."
 
-#: website/thunderbird/102.0/whatsnew/index.html:7
-msgid "New in Thunderbird 102"
-msgstr "Nýtt í Thunderbird 102"
-
-#: website/thunderbird/102.0/whatsnew/index.html:14
-#, python-format
-msgid ""
-"This article describes some of the major changes visible to users in Thunderbird version 102. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird release notes "
-"from 102.0 and up</a>."
+#: website/thunderbird/102.0/whatsnew/index.html:8
+msgid "What’s New in Thunderbird 102"
 msgstr ""
-"Þessi grein lýsir nokkrum af helstu breytingunum sem eru sýnilegar notendum í Thunderbird útgáfu 102. Nánari upplýsingar um allar breytingarnar má finna í <a href=\"%(release)s\">útgáfuupplýsingum "
-"Thunderbird 102.0 og nýrri</a>."
+
+#: website/thunderbird/102.0/whatsnew/index.html:15
+msgid "Explore the new features and changes in the new release of Thunderbird."
+msgstr ""
 
 #: website/thunderbird/102.0/whatsnew/index.html:20
-msgid "<strong>Thunderbird</strong> is both free and freedom respecting, but we’re also completely funded by donations! <strong>Help us sustain the project and continue to improve.</strong>"
+msgid ""
+"<strong>Thunderbird is completely funded by your donations.</strong> <br> Producing Thunderbird requires software engineers, designers, system administrators and server infrastructure. <strong>Help "
+"us keep Thunderbird alive!</strong>"
 msgstr ""
-"<strong>Thunderbird</strong> er bæði ókeypis og frjálst, en við erum líka algjörlega fjármögnuð með framlögum! <strong>Hjálpaðu okkur að halda verkefninu í gangi og að halda áfram að bæta "
-"okkur.</strong>"
 
-#: website/thunderbird/102.0/whatsnew/index.html:42
+#: website/thunderbird/102.0/whatsnew/index.html:45
 msgid "Message Header Redesign"
 msgstr "Endurhönnun skilaboðahauss"
 
-#: website/thunderbird/102.0/whatsnew/index.html:45
+#: website/thunderbird/102.0/whatsnew/index.html:48
 msgid ""
 "Thunderbird 102 helps you be more productive with less effort. When reading your email, the redesigned message header allows you to focus on what matters as it highlights important information. It’s"
 " also more responsive and easier to navigate. Plus, you can star important messages from the message header itself, and easily convert them into a calendar event or a task."
@@ -1192,11 +1187,11 @@ msgstr ""
 " leggur áherslu á mikilvægar upplýsingar. Hann svarar líka betur og er auðveldara að rata um hann. Auk þess geturðu stjörnumerkt mikilvæg skilaboð í skilaboðahausnum sjálfum og breytt þeim í "
 "dagatalsviðburð eða verkefni á einfaldan máta."
 
-#: website/thunderbird/102.0/whatsnew/index.html:57
+#: website/thunderbird/102.0/whatsnew/index.html:60
 msgid "New Address Book"
 msgstr "Ný nafnaskrá"
 
-#: website/thunderbird/102.0/whatsnew/index.html:60
+#: website/thunderbird/102.0/whatsnew/index.html:63
 msgid ""
 "Thunderbird 102 gives your contacts a serious upgrade! The refreshed design makes it easier to navigate and interact with your contacts, and helps you better understand who you’re communicating "
 "with. The new Address Book has compatibility with vCard specs, meaning if your app can export your existing contacts into vCard format, Thunderbird can import them. Each contact card also acts as a "
@@ -1206,11 +1201,11 @@ msgstr ""
 "samskiptum. Nýja nafnaskráin er samhæfð við vCard-staðla, sem þýðir að ef forritið þitt getur flutt fyrirliggjandi tengiliði yfir á vCard-snið getur Thunderbird flutt þá inn. Hvert tengiliðaspjald "
 "virkar einnig sem stökkpallur fyrir skilaboð, tölvupóst og gerð atburða."
 
-#: website/thunderbird/102.0/whatsnew/index.html:78
+#: website/thunderbird/102.0/whatsnew/index.html:81
 msgid "New Import/Export Wizard"
 msgstr "Nýr inn-/útflutningsleiðarvísir"
 
-#: website/thunderbird/102.0/whatsnew/index.html:81
+#: website/thunderbird/102.0/whatsnew/index.html:84
 msgid ""
 "Thunderbird 102 makes it quick and simple to move your accounts and data around. The new step-by-step wizard provides a guided experience for importing all that data that’s important to you. We’ve "
 "also taken extra precautions to ensure that no data is accidentally duplicated in your profile after an import. Moving from Outlook, SeaMonkey, or another Thunderbird installation is easier than "
@@ -1220,25 +1215,22 @@ msgstr ""
 "fyrir þig. Við höfum líka gripið til auka-varúðarráðstafana til að tryggja að engin gögn séu óvart tvítekin á notandasniðinu þínu eftir innflutning. Að færa sig úr Outlook, SeaMonkey eða annarri "
 "Thunderbird-uppsetningu er auðveldara en nokkru sinni fyrr. Engar viðbætur eru nauðsynlegar!"
 
-#: website/thunderbird/102.0/whatsnew/index.html:93
+#: website/thunderbird/102.0/whatsnew/index.html:96
 msgid "New Spaces Toolbar"
 msgstr "Ný svæða-verkfæraslá"
 
-#: website/thunderbird/102.0/whatsnew/index.html:96
+#: website/thunderbird/102.0/whatsnew/index.html:99
 msgid ""
-"Thunderbird 102 makes navigating the application more intuitive thanks to the the new Spaces Toolbar. Move between all of your activities with ease, whether it’s managing email, working with "
-"contacts through the awesome new address book, using the calendar and tasks functionality, chat, and even add-ons! If you want to save screen real estate, the Spaces Toolbar can be dismissed, and "
-"you can instead navigate the different activities Thunderbird offers with the new Pinned Spaces tab."
+"Thunderbird 102 makes navigating the application more intuitive thanks to the new Spaces Toolbar. Move between all of your activities with ease, whether it’s managing email, working with contacts "
+"through the awesome new address book, using the calendar and tasks functionality, chat, and even add-ons! If you want to save screen real estate, the Spaces Toolbar can be dismissed, and you can "
+"instead navigate the different activities Thunderbird offers with the new Pinned Spaces tab."
 msgstr ""
-"Thunderbird 102 gerir flakk um forritið augljósara þökk sé nýju svæða-stikunni. Farðu á einfaldan máta á milli allra athafna þinna, hvort sem það er að sýsla með tölvupóst, vinna með tengiliði í "
-"gegnum hina frábæru nýju nafnaskrá, nota dagatalið og verkefnalista, spjall og jafnvel forritsviðbætur! Ef þú vilt nýta skjáflötinn sem best er hægt að hafna svæða-stikunni og flakka í staðinn um "
-"mismunandi þætti sem Thunderbird býður upp á með nýja 'Fest svæði'-flipanum."
 
-#: website/thunderbird/102.0/whatsnew/index.html:114
+#: website/thunderbird/102.0/whatsnew/index.html:117
 msgid "New Matrix Chat Support"
 msgstr "Nýkominn stuðningur við Matrix-spjall"
 
-#: website/thunderbird/102.0/whatsnew/index.html:117
+#: website/thunderbird/102.0/whatsnew/index.html:120
 msgid ""
 "Thunderbird 102 offers a new way to chat privately and securely with your colleagues, friends, and family. We’ve added support for the open-source, decentralized chat protocol Matrix, and it’s "
 "usable right out of the box! (As always, we welcome your feedback since it’s an evolving service.)"
@@ -1246,43 +1238,43 @@ msgstr ""
 "Thunderbird 102 býður upp á nýja leið til að spjalla einslega og á öruggan hátt við samstarfsmenn þína, vini og fjölskyldu. Við höfum bætt við stuðningi við Matrix, dreifvinnslu-samskiptamáta fyrir "
 "spjall - með opnum grunnkóða; og er það nothæft beint úr kassanum! (Eins og alltaf fögnum við athugasemdum þínum, þar sem þetta er þjónusta í þróun.)"
 
-#: website/thunderbird/102.0/whatsnew/index.html:127 website/thunderbird/68.0/whatsnew/index.html:67 website/thunderbird/78.0/whatsnew/index.html:81 website/thunderbird/91.0/whatsnew/index.html:168
+#: website/thunderbird/102.0/whatsnew/index.html:130 website/thunderbird/68.0/whatsnew/index.html:67 website/thunderbird/78.0/whatsnew/index.html:81 website/thunderbird/91.0/whatsnew/index.html:168
 msgid "Other Notable Changes"
 msgstr "Aðrar athyglisverðar breytingar"
 
-#: website/thunderbird/102.0/whatsnew/index.html:130
+#: website/thunderbird/102.0/whatsnew/index.html:133
 msgid "There are many other big changes that make Thunderbird 102 a very large release including:"
 msgstr "Það eru margar aðrar stórar breytingar sem gera Thunderbird 102 að mjög veigamikilli útgáfu, þar á meðal:"
 
-#: website/thunderbird/102.0/whatsnew/index.html:133
+#: website/thunderbird/102.0/whatsnew/index.html:136
 msgid "New Icons and Default Folder Colors"
 msgstr "Nýjar táknmyndir og sjálfgefnir litir á möppum"
 
-#: website/thunderbird/102.0/whatsnew/index.html:134
+#: website/thunderbird/102.0/whatsnew/index.html:137
 msgid "Use Thunderbird without an email account (for example, as an RSS reader)"
 msgstr "Notaðu Thunderbird án tölvupóstsreiknings (til dæmis sem RSS-lesara)"
 
-#: website/thunderbird/102.0/whatsnew/index.html:135
+#: website/thunderbird/102.0/whatsnew/index.html:138
 msgid "Numerous OpenPGP improvements"
 msgstr "Fjölmargar OpenPGP-endurbætur"
 
-#: website/thunderbird/102.0/whatsnew/index.html:136
+#: website/thunderbird/102.0/whatsnew/index.html:139
 msgid "CalendarLocal parser converted to javascript"
 msgstr "CalendarLocal-þáttara umbreytt í JavaScript"
 
-#: website/thunderbird/102.0/whatsnew/index.html:137
+#: website/thunderbird/102.0/whatsnew/index.html:140
 msgid "Today Pane calendar UI refresh"
 msgstr "Endurbætur á viðmóti 'Í dag' spjaldsins"
 
-#: website/thunderbird/102.0/whatsnew/index.html:138
+#: website/thunderbird/102.0/whatsnew/index.html:141
 msgid "POP3 implemented in javascript"
 msgstr "POP3 útfært í JavaScript"
 
-#: website/thunderbird/102.0/whatsnew/index.html:139
+#: website/thunderbird/102.0/whatsnew/index.html:142
 msgid "Account settings moved to macOS application menu"
 msgstr "Reikningsstillingar færðar í macOS-forritavalmyndina"
 
-#: website/thunderbird/102.0/whatsnew/index.html:140
+#: website/thunderbird/102.0/whatsnew/index.html:143
 msgid ""
 "Plus: Application-wide font size control, Theme fixes, FileLink fixes, Accessibility fixes, improved vCard integration, improved calendar startup performance, Calendar fixes including correct order "
 "of week view headers and days for right to left locales."
@@ -1290,7 +1282,7 @@ msgstr ""
 "Auk þess: Stýring á leturstærð fyrir allt forritið, lagfæringar á þemum, lagfæringar á FileLink, lagfæringar á aðgengismálum, bætt samþætting vCard, bætt ræsing dagatals, lagfæringar á dagatali, þar"
 " á meðal rétt röð vikuskoðunarhausa og daga fyrir RTL hægri-til-vinstri staðfærslur."
 
-#: website/thunderbird/102.0/whatsnew/index.html:143
+#: website/thunderbird/102.0/whatsnew/index.html:146
 #, python-format
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 102.0 and up</a>."
 msgstr "Þú getur séð nánari upplýsingar um allar breytingar í útgáfuupplýsingum fyrir <a href=\"%(release)s\">Thunderbird 102.0 og nýrri</a>."
@@ -1631,6 +1623,30 @@ msgstr "Útgáfuupplýsingar um hverja útgáfu Thunderbird."
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Útgáfuupplýsingar Thunderbird eru sértækar fyrir hverja útgáfu af forritinu. Veldu útgáfuna þína af listanum hér að neðan til að sjá útgáfuskýringarnar fyrir hana."
+
+#~ msgid "New in Thunderbird 102"
+#~ msgstr "Nýtt í Thunderbird 102"
+
+#~ msgid ""
+#~ "This article describes some of the major changes visible to users in Thunderbird version 102. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird release notes "
+#~ "from 102.0 and up</a>."
+#~ msgstr ""
+#~ "Þessi grein lýsir nokkrum af helstu breytingunum sem eru sýnilegar notendum í Thunderbird útgáfu 102. Nánari upplýsingar um allar breytingarnar má finna í <a href=\"%(release)s\">útgáfuupplýsingum "
+#~ "Thunderbird 102.0 og nýrri</a>."
+
+#~ msgid "<strong>Thunderbird</strong> is both free and freedom respecting, but we’re also completely funded by donations! <strong>Help us sustain the project and continue to improve.</strong>"
+#~ msgstr ""
+#~ "<strong>Thunderbird</strong> er bæði ókeypis og frjálst, en við erum líka algjörlega fjármögnuð með framlögum! <strong>Hjálpaðu okkur að halda verkefninu í gangi og að halda áfram að bæta "
+#~ "okkur.</strong>"
+
+#~ msgid ""
+#~ "Thunderbird 102 makes navigating the application more intuitive thanks to the the new Spaces Toolbar. Move between all of your activities with ease, whether it’s managing email, working with "
+#~ "contacts through the awesome new address book, using the calendar and tasks functionality, chat, and even add-ons! If you want to save screen real estate, the Spaces Toolbar can be dismissed, and "
+#~ "you can instead navigate the different activities Thunderbird offers with the new Pinned Spaces tab."
+#~ msgstr ""
+#~ "Thunderbird 102 gerir flakk um forritið augljósara þökk sé nýju svæða-stikunni. Farðu á einfaldan máta á milli allra athafna þinna, hvort sem það er að sýsla með tölvupóst, vinna með tengiliði í "
+#~ "gegnum hina frábæru nýju nafnaskrá, nota dagatalið og verkefnalista, spjall og jafnvel forritsviðbætur! Ef þú vilt nýta skjáflötinn sem best er hægt að hafna svæða-stikunni og flakka í staðinn um "
+#~ "mismunandi þætti sem Thunderbird býður upp á með nýja 'Fest svæði'-flipanum."
 
 #~ msgid "Welcome to <span>Thunderbird</span>"
 #~ msgstr "Velkomin í <span>Thunderbird</span>"

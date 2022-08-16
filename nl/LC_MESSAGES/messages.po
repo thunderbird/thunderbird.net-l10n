@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-06-30 14:53-0700\n"
+"POT-Creation-Date: 2022-08-16 16:12-0700\n"
 "PO-Revision-Date: 2022-07-01 05:44+0000\n"
 "Last-Translator: Mark Heijl <markh@babelzilla.org>\n"
 "Language-Team: none\n"
@@ -28,7 +28,7 @@ msgid "Support us!"
 msgstr "Steun ons!"
 
 #: start-page/beta/index.html:22 start-page/release/index.html:22 start-page/release/index.html:37 website/base-resp.html:28 website/base-resp.html:52 website/donate-mailing-list.html:17
-#: website/thunderbird/91.0/whatsnew/index.html:22
+#: website/thunderbird/102.0/whatsnew/index.html:24 website/thunderbird/91.0/whatsnew/index.html:22
 msgid "Donate"
 msgstr "Doneren"
 
@@ -749,9 +749,9 @@ msgid ""
 "Flaws are to be expected. High-impact flaws, including data loss, are very rare, but may occur. Protect yourself with <a href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-"
 "data#w_backing-up-a-profile\">backups</a>. Low-impact flaws may not be fixed quickly, because fixes are prioritized based on impact."
 msgstr ""
-"U kunt fouten verwachten. Storingen met een hoge impact, waaronder gegevensverlies, zijn zeer zeldzaam, maar kunnen voorkomen. Bescherm uzelf met <a "
-"href=\"https://support.mozilla.org/nl/kb/profielen-waar-thunderbird-gebruikersgegevens%20bewaart#w_een-back-up-van-een-profiel-maken\">reservekopieën</a>. Fouten met een lage impact worden mogelijk "
-"niet snel verholpen, omdat fixes prioriteit krijgen op basis van impact."
+"U kunt fouten verwachten. Storingen met een hoge impact, waaronder gegevensverlies, zijn zeer zeldzaam, maar kunnen voorkomen. Bescherm uzelf met <a href=\"https://support.mozilla.org/nl/kb"
+"/profielen-waar-thunderbird-gebruikersgegevens%20bewaart#w_een-back-up-van-een-profiel-maken\">reservekopieën</a>. Fouten met een lage impact worden mogelijk niet snel verholpen, omdat fixes "
+"prioriteit krijgen op basis van impact."
 
 #: website/download/beta/index.html:57
 msgid "Expect seven updates per month, one major update per month plus several small updates. This frequency of updates allows us to make fast improvements."
@@ -830,8 +830,8 @@ msgid ""
 " and it will prompt you to define your accounts. If you need to bring some data from your release profile into the beta profile, consult the <a href=\"https://support.mozilla.org/kb/thunderbird-"
 "beta\">beta support article.</a>"
 msgstr ""
-"De <b>Beta</b>-versie van Thunderbird starten (waarbij de releaseversie niet actief is) en deze zal het profiel <b>default-beta</b>gebruiken. Bij het eerste gebruik maakt Thunderbird het profiel "
-"<b>default-beta</b> aan en wordt u gevraagd uw accounts te definiëren. Raadpleeg het <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">Beta-ondersteuningsartikel</a> als u enkele gegevens "
+"De <b>Beta</b>-versie van Thunderbird starten (waarbij de releaseversie niet actief is) en deze zal het profiel <b>default-beta</b>gebruiken. Bij het eerste gebruik maakt Thunderbird het profiel <b"
+">default-beta</b> aan en wordt u gevraagd uw accounts te definiëren. Raadpleeg het <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">Beta-ondersteuningsartikel</a> als u enkele gegevens "
 "van uw releaseprofiel naar het Betaprofiel moet brengen."
 
 #: website/download/beta/index.html:95
@@ -1169,30 +1169,25 @@ msgstr ""
 "toegankelijkheid en actieve gemeenschap van experts zorgen ervoor dat onze producten veiliger zijn en snel worden bijgewerkt. Hierdoor kunnen we ook profiteren van de beste scan- en "
 "evaluatiehulpmiddelen van derden, om daarmee de algehele veiligheid nog verder te versterken."
 
-#: website/thunderbird/102.0/whatsnew/index.html:7
-msgid "New in Thunderbird 102"
-msgstr "Nieuw in Thunderbird 102"
-
-#: website/thunderbird/102.0/whatsnew/index.html:14
-#, python-format
-msgid ""
-"This article describes some of the major changes visible to users in Thunderbird version 102. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird release notes "
-"from 102.0 and up</a>."
+#: website/thunderbird/102.0/whatsnew/index.html:8
+msgid "What’s New in Thunderbird 102"
 msgstr ""
-"Dit artikel beschrijft enkele van de belangrijkste wijzigingen die zichtbaar zijn voor gebruikers in Thunderbird versie 102. Volledige details van alle wijzigingen zijn te vinden in de <a "
-"href=\"%(release)s\">uitgaveopmerkingen van Thunderbird 102.0 en hoger</a>."
+
+#: website/thunderbird/102.0/whatsnew/index.html:15
+msgid "Explore the new features and changes in the new release of Thunderbird."
+msgstr ""
 
 #: website/thunderbird/102.0/whatsnew/index.html:20
-msgid "<strong>Thunderbird</strong> is both free and freedom respecting, but we’re also completely funded by donations! <strong>Help us sustain the project and continue to improve.</strong>"
+msgid ""
+"<strong>Thunderbird is completely funded by your donations.</strong> <br> Producing Thunderbird requires software engineers, designers, system administrators and server infrastructure. <strong>Help "
+"us keep Thunderbird alive!</strong>"
 msgstr ""
-"<strong>Thunderbird</strong> is zowel gratis als met respect voor vrijheid, maar we worden ook volledig gefinancierd door donaties! <strong>Help ons het project te onderhouden en te blijven "
-"verbeteren.</strong>"
 
-#: website/thunderbird/102.0/whatsnew/index.html:42
+#: website/thunderbird/102.0/whatsnew/index.html:45
 msgid "Message Header Redesign"
 msgstr "Vernieuwd ontwerp berichtkop"
 
-#: website/thunderbird/102.0/whatsnew/index.html:45
+#: website/thunderbird/102.0/whatsnew/index.html:48
 msgid ""
 "Thunderbird 102 helps you be more productive with less effort. When reading your email, the redesigned message header allows you to focus on what matters as it highlights important information. It’s"
 " also more responsive and easier to navigate. Plus, you can star important messages from the message header itself, and easily convert them into a calendar event or a task."
@@ -1201,11 +1196,11 @@ msgstr ""
 "belangrijke informatie wordt benadrukt. Het is ook responsiever en gemakkelijker te navigeren. Bovendien kunt u belangrijke berichten vanuit de berichtkop zelf een ster geven, en deze eenvoudig "
 "omzetten in een agenda-item of een taak."
 
-#: website/thunderbird/102.0/whatsnew/index.html:57
+#: website/thunderbird/102.0/whatsnew/index.html:60
 msgid "New Address Book"
 msgstr "Nieuw adresboek"
 
-#: website/thunderbird/102.0/whatsnew/index.html:60
+#: website/thunderbird/102.0/whatsnew/index.html:63
 msgid ""
 "Thunderbird 102 gives your contacts a serious upgrade! The refreshed design makes it easier to navigate and interact with your contacts, and helps you better understand who you’re communicating "
 "with. The new Address Book has compatibility with vCard specs, meaning if your app can export your existing contacts into vCard format, Thunderbird can import them. Each contact card also acts as a "
@@ -1215,11 +1210,11 @@ msgstr ""
 "communiceert. Het nieuwe adresboek is compatibel met vCard-specificaties, wat betekent dat als uw app uw bestaande contacten naar vCard-indeling kan exporteren, Thunderbird ze kan importeren. Elke "
 "contactkaart fungeert ook als startpunt voor chatten, e-mail en het maken van afspraken."
 
-#: website/thunderbird/102.0/whatsnew/index.html:78
+#: website/thunderbird/102.0/whatsnew/index.html:81
 msgid "New Import/Export Wizard"
 msgstr "Nieuwe import-/export-wizard"
 
-#: website/thunderbird/102.0/whatsnew/index.html:81
+#: website/thunderbird/102.0/whatsnew/index.html:84
 msgid ""
 "Thunderbird 102 makes it quick and simple to move your accounts and data around. The new step-by-step wizard provides a guided experience for importing all that data that’s important to you. We’ve "
 "also taken extra precautions to ensure that no data is accidentally duplicated in your profile after an import. Moving from Outlook, SeaMonkey, or another Thunderbird installation is easier than "
@@ -1229,25 +1224,22 @@ msgstr ""
 "belangrijk zijn. We hebben ook extra voorzorgsmaatregelen genomen om te voorkomen dat er per ongeluk gegevens in uw profiel worden gedupliceerd na een import. Overstappen vanuit Outlook, SeaMonkey "
 "of een andere Thunderbird-installatie is eenvoudiger dan ooit. Geen add-ons nodig!"
 
-#: website/thunderbird/102.0/whatsnew/index.html:93
+#: website/thunderbird/102.0/whatsnew/index.html:96
 msgid "New Spaces Toolbar"
 msgstr "Nieuwe taakbalk"
 
-#: website/thunderbird/102.0/whatsnew/index.html:96
+#: website/thunderbird/102.0/whatsnew/index.html:99
 msgid ""
-"Thunderbird 102 makes navigating the application more intuitive thanks to the the new Spaces Toolbar. Move between all of your activities with ease, whether it’s managing email, working with "
-"contacts through the awesome new address book, using the calendar and tasks functionality, chat, and even add-ons! If you want to save screen real estate, the Spaces Toolbar can be dismissed, and "
-"you can instead navigate the different activities Thunderbird offers with the new Pinned Spaces tab."
+"Thunderbird 102 makes navigating the application more intuitive thanks to the new Spaces Toolbar. Move between all of your activities with ease, whether it’s managing email, working with contacts "
+"through the awesome new address book, using the calendar and tasks functionality, chat, and even add-ons! If you want to save screen real estate, the Spaces Toolbar can be dismissed, and you can "
+"instead navigate the different activities Thunderbird offers with the new Pinned Spaces tab."
 msgstr ""
-"Thunderbird 102 maakt het navigeren door de applicatie intuïtiever dankzij de nieuwe Taakbalk. Schakel gemakkelijk tussen al uw activiteiten, of het nu gaat om het beheren van e-mail, het werken met"
-" contacten via het geweldige nieuwe adresboek, het gebruik van de agenda- en takenfunctionaliteit, chatten en zelfs add-ons! Als u schermruimte wilt besparen, kan de Taakbalk worden gesloten en kunt"
-" u in plaats daarvan navigeren door de verschillende activiteiten die Thunderbird aanbiedt met het nieuwe tabblad Vastgemaakte taken."
 
-#: website/thunderbird/102.0/whatsnew/index.html:114
+#: website/thunderbird/102.0/whatsnew/index.html:117
 msgid "New Matrix Chat Support"
 msgstr "Nieuwe Matrix Chat-ondersteuning"
 
-#: website/thunderbird/102.0/whatsnew/index.html:117
+#: website/thunderbird/102.0/whatsnew/index.html:120
 msgid ""
 "Thunderbird 102 offers a new way to chat privately and securely with your colleagues, friends, and family. We’ve added support for the open-source, decentralized chat protocol Matrix, and it’s "
 "usable right out of the box! (As always, we welcome your feedback since it’s an evolving service.)"
@@ -1255,43 +1247,43 @@ msgstr ""
 "Thunderbird 102 biedt een nieuwe manier om privé en veilig te chatten met uw collega’s, vrienden en familie. We hebben ondersteuning toegevoegd voor het opensource, gedecentraliseerde chatprotocol "
 "Matrix, en het is direct bruikbaar! (Zoals altijd verwelkomen we uw feedback aangezien dit een evoluerende service is.)"
 
-#: website/thunderbird/102.0/whatsnew/index.html:127 website/thunderbird/68.0/whatsnew/index.html:67 website/thunderbird/78.0/whatsnew/index.html:81 website/thunderbird/91.0/whatsnew/index.html:168
+#: website/thunderbird/102.0/whatsnew/index.html:130 website/thunderbird/68.0/whatsnew/index.html:67 website/thunderbird/78.0/whatsnew/index.html:81 website/thunderbird/91.0/whatsnew/index.html:168
 msgid "Other Notable Changes"
 msgstr "Andere opvallende wijzigingen"
 
-#: website/thunderbird/102.0/whatsnew/index.html:130
+#: website/thunderbird/102.0/whatsnew/index.html:133
 msgid "There are many other big changes that make Thunderbird 102 a very large release including:"
 msgstr "Er zijn veel andere grote veranderingen die Thunderbird 102 tot een zeer grote uitgave maken, waaronder:"
 
-#: website/thunderbird/102.0/whatsnew/index.html:133
+#: website/thunderbird/102.0/whatsnew/index.html:136
 msgid "New Icons and Default Folder Colors"
 msgstr "Nieuwe pictogrammen en standaardmapkleuren"
 
-#: website/thunderbird/102.0/whatsnew/index.html:134
+#: website/thunderbird/102.0/whatsnew/index.html:137
 msgid "Use Thunderbird without an email account (for example, as an RSS reader)"
 msgstr "Thunderbird gebruiken zonder een e-mailaccount (bijvoorbeeld als RSS-lezer)"
 
-#: website/thunderbird/102.0/whatsnew/index.html:135
+#: website/thunderbird/102.0/whatsnew/index.html:138
 msgid "Numerous OpenPGP improvements"
 msgstr "Talloze OpenPGP-verbeteringen"
 
-#: website/thunderbird/102.0/whatsnew/index.html:136
+#: website/thunderbird/102.0/whatsnew/index.html:139
 msgid "CalendarLocal parser converted to javascript"
 msgstr "CalendarLocal parser is geconverteerd naar javascript"
 
-#: website/thunderbird/102.0/whatsnew/index.html:137
+#: website/thunderbird/102.0/whatsnew/index.html:140
 msgid "Today Pane calendar UI refresh"
 msgstr "Vernieuwde agenda-interface van het paneel Vandaag"
 
-#: website/thunderbird/102.0/whatsnew/index.html:138
+#: website/thunderbird/102.0/whatsnew/index.html:141
 msgid "POP3 implemented in javascript"
 msgstr "POP3 is geïmplementeerd in javascript"
 
-#: website/thunderbird/102.0/whatsnew/index.html:139
+#: website/thunderbird/102.0/whatsnew/index.html:142
 msgid "Account settings moved to macOS application menu"
 msgstr "Accountinstellingen zijn verplaatst naar het macOS-toepassingsmenu"
 
-#: website/thunderbird/102.0/whatsnew/index.html:140
+#: website/thunderbird/102.0/whatsnew/index.html:143
 msgid ""
 "Plus: Application-wide font size control, Theme fixes, FileLink fixes, Accessibility fixes, improved vCard integration, improved calendar startup performance, Calendar fixes including correct order "
 "of week view headers and days for right to left locales."
@@ -1299,7 +1291,7 @@ msgstr ""
 "Plus: toepassingsbrede instelling van de lettergrootte, themacorrecties, FileLink-correcties, toegankelijkheidscorrecties, verbeterde vCard-integratie, verbeterde opstartprestaties van de agenda, "
 "agendacorrecties inclusief correcte volgorde van weekweergavekoppen en dagen voor talen van rechts naar links."
 
-#: website/thunderbird/102.0/whatsnew/index.html:143
+#: website/thunderbird/102.0/whatsnew/index.html:146
 #, python-format
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 102.0 and up</a>."
 msgstr "U kunt details van al onze wijzigingen bekijken in de <a href=\"%(release)s\">uitgaveopmerkingen van Thunderbird 102.0 en hoger</a>."
@@ -1642,6 +1634,30 @@ msgstr "Uitgaveopmerkingen van elke versie van Thunderbird."
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Uitgaveopmerkingen van Thunderbird zijn specifiek voor elke versie van de toepassing. Selecteer uw versie in de onderstaande lijst om de uitgaveopmerkingen ervoor te bekijken."
+
+#~ msgid "New in Thunderbird 102"
+#~ msgstr "Nieuw in Thunderbird 102"
+
+#~ msgid ""
+#~ "This article describes some of the major changes visible to users in Thunderbird version 102. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird release notes "
+#~ "from 102.0 and up</a>."
+#~ msgstr ""
+#~ "Dit artikel beschrijft enkele van de belangrijkste wijzigingen die zichtbaar zijn voor gebruikers in Thunderbird versie 102. Volledige details van alle wijzigingen zijn te vinden in de <a "
+#~ "href=\"%(release)s\">uitgaveopmerkingen van Thunderbird 102.0 en hoger</a>."
+
+#~ msgid "<strong>Thunderbird</strong> is both free and freedom respecting, but we’re also completely funded by donations! <strong>Help us sustain the project and continue to improve.</strong>"
+#~ msgstr ""
+#~ "<strong>Thunderbird</strong> is zowel gratis als met respect voor vrijheid, maar we worden ook volledig gefinancierd door donaties! <strong>Help ons het project te onderhouden en te blijven "
+#~ "verbeteren.</strong>"
+
+#~ msgid ""
+#~ "Thunderbird 102 makes navigating the application more intuitive thanks to the the new Spaces Toolbar. Move between all of your activities with ease, whether it’s managing email, working with "
+#~ "contacts through the awesome new address book, using the calendar and tasks functionality, chat, and even add-ons! If you want to save screen real estate, the Spaces Toolbar can be dismissed, and "
+#~ "you can instead navigate the different activities Thunderbird offers with the new Pinned Spaces tab."
+#~ msgstr ""
+#~ "Thunderbird 102 maakt het navigeren door de applicatie intuïtiever dankzij de nieuwe Taakbalk. Schakel gemakkelijk tussen al uw activiteiten, of het nu gaat om het beheren van e-mail, het werken met"
+#~ " contacten via het geweldige nieuwe adresboek, het gebruik van de agenda- en takenfunctionaliteit, chatten en zelfs add-ons! Als u schermruimte wilt besparen, kan de Taakbalk worden gesloten en kunt"
+#~ " u in plaats daarvan navigeren door de verschillende activiteiten die Thunderbird aanbiedt met het nieuwe tabblad Vastgemaakte taken."
 
 #~ msgid "Welcome to <span>Thunderbird</span>"
 #~ msgstr "Welkom bij <span>Thunderbird</span>"
