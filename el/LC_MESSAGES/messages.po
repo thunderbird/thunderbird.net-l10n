@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-08-16 16:12-0700\n"
-"PO-Revision-Date: 2022-09-05 17:20+0000\n"
+"PO-Revision-Date: 2022-09-06 15:10+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language-Team: none\n"
 "Language: el\n"
@@ -165,6 +165,8 @@ msgid ""
 "Thank you for supporting Thunderbird, which is funded by users like you! Producing Thunderbird requires software engineers, designers, system administrators and server infrastructure. So if you like"
 " Thunderbird, the best way to ensure Thunderbird remains available is to make a donation."
 msgstr ""
+"Σας ευχαριστούμε που υποστηρίζετε το Thunderbird, το οποίο χρηματοδοτείται από χρήστες όπως εσείς! Η παραγωγή του Thunderbird απαιτεί μηχανικούς λογισμικού, σχεδιαστές, διαχειριστές συστημάτων και "
+"υποδομή διακομιστών. Επομένως, αν σας αρέσει το Thunderbird, ο καλύτερος τρόπος για να διασφαλίσετε ότι το Thunderbird θα παραμείνει διαθέσιμο είναι να κάνετε μια δωρεά."
 
 #: start-page/release/index.html:47
 msgid ""
@@ -713,6 +715,8 @@ msgid ""
 "Now is a good time to jump in, because through June 2022 we expect the Thunderbird beta to be more stable than normal. That’s because development is frozen so we can touch up <a "
 "href=\"https://blog.thunderbird.net/2022/05/7-great-new-features-coming-to-thunderbird-102/\">version 102’s new features.</a>"
 msgstr ""
+"Τώρα είναι η κατάλληλη στιγμή να χρησιμοποιήσετε την έκδοση Beta, επειδή μέσα στον Ιούνιο του 2022 αναμένουμε να είναι πιο σταθερή απ' ότι συνήθως. Αυτό συμβαίνει επειδή η ανάπτυξη βρίσκεται σε "
+"παύση, ώστε να τελειοποιήσουμε τις <a href=\"https://blog.thunderbird.net/2022/05/7-great-new-features-coming-to-thunderbird-102/\">νέες δυνατότητες της έκδοσης 102</a>."
 
 #: website/download/beta/index.html:48
 msgid "Important Considerations"
@@ -767,11 +771,15 @@ msgid ""
 "After set up, go to <b>≡ > Account Settings > Server Settings</b> and make sure the <b>\"Leave messages on server\"</b> option is <b>checked</b>, and the <b>\"For at most [X] days\"</b> option is "
 "<b>unchecked</b>."
 msgstr ""
+"Μετά τη ρύθμιση, μεταβείτε στο <b>≡ > Ρυθμίσεις λογαριασμού > Ρυθμίσεις διακομιστή</b> και βεβαιωθείτε ότι η επιλογή <b>«Διατήρηση μηνυμάτων στον διακομιστή»</b> είναι <b>ενεργή</b> και ότι η "
+"επιλογή <b>«Για έως [X] ημέρες»</b> είναι <b>ανενεργή</b>."
 
 #: website/download/beta/index.html:61
 msgid ""
 "Keep the default settings. Messages will be removed from the server 14 days after download, so you will need to either stay on beta, or learn how to move your POP data back to the release profile."
 msgstr ""
+"Διατηρήστε τις προεπιλεγμένες ρυθμίσεις. Τα μηνύματα θα διαγραφούν από τον διακομιστή 14 ημέρες μετά τη λήψη, επομένως θα πρέπει είτε να παραμείνετε στην έκδοση Beta είτε να μάθετε πώς να "
+"μετακινήσετε τα δεδομένα POP σας στο κανονικό προφίλ."
 
 #: website/download/beta/index.html:63
 msgid ""
@@ -786,20 +794,28 @@ msgid ""
 "Add-on authors are not obligated to make their add-ons work in beta. Some or all of your add-ons may not work. Or if they do work today, they may not work tomorrow. Consult the <a "
 "href=\"https://support.mozilla.org/kb/thunderbird-add-ons-frequently-asked-questions#w_what-if-my-add-on-is-broken\">Add-ons FAQ</a> if you have difficulty. "
 msgstr ""
+"Οι δημιουργοί προσθέτων δεν είναι υποχρεωμένοι να συντηρούν τα πρόσθετά τους για τις εκδόσεις Beta. Ορισμένα ή όλα τα πρόσθετά σας ενδέχεται να μην λειτουργούν. Ή εάν λειτουργούν σήμερα, μπορεί να "
+"μην λειτουργούν αύριο. Συμβουλευτείτε τις <a href=\"https://support.mozilla.org/kb/thunderbird-add-ons-frequently-asked-questions#w_what-if-my-add-on-is-broken\">συχνές ερωτήσεις προσθέτων</a> αν "
+"αντιμετωπίζετε δυσκολίες. "
 
 #: website/download/beta/index.html:81
 msgid "You have two choices for installing beta: Option 1 allows you to run the beta alongside the Stable version of Thunderbird, and Option 2 upgrades your existing installation."
 msgstr ""
+"Έχετε δύο επιλογές για την εγκατάσταση της έκδοσης Beta: Η επιλογή 1 σάς επιτρέπει να εκτελείτε την έκδοση Beta παράλληλα με τη σταθερή έκδοση του Thunderbird και η επιλογή 2 αναβαθμίζει την "
+"υπάρχουσα εγκατάστασή σας."
 
 #: website/download/beta/index.html:84
 msgid "Run Stable and Beta side-by-side (recommended)."
-msgstr ""
+msgstr "Παράλληλη εκτέλεση σταθερής έκδοσης και έκδοσης Beta (συνιστάται)."
 
 #: website/download/beta/index.html:86
 msgid ""
 "Thunderbird 102 and newer on Windows will install beta into its own program directory. For older versions on Windows consult the <a href=\"https://support.mozilla.org/en-US/kb/thunderbird-"
 "beta\">beta support article</a>. For other operating systems use an install method appropriate for your OS to target a uniquely named directory."
 msgstr ""
+"Το Thunderbird 102 (και νεότερες εκδόσεις) στα Windows θα εγκαταστήσει την έκδοση Beta στον δικό της κατάλογο προγράμματος. Για παλαιότερες εκδόσεις στα Windows, συμβουλευτείτε το <a "
+"href=\"https://support.mozilla.org/en-US/kb/thunderbird-beta\">άρθρο υποστήριξης Beta</a>. Για άλλα λειτουργικά συστήματα, χρησιμοποιήστε μια κατάλληλη μέθοδο εγκατάστασης για το λειτουργικό σας "
+"σύστημα και δημιουργήστε έναν μοναδικό κατάλογο για την εγκατάσταση."
 
 #: website/download/beta/index.html:89
 msgid ""
