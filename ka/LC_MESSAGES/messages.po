@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-08-16 16:12-0700\n"
-"PO-Revision-Date: 2022-09-16 19:54+0000\n"
+"PO-Revision-Date: 2022-09-16 20:52+0000\n"
 "Last-Translator: G12r <georgianization@outlook.com>\n"
 "Language-Team: none\n"
 "Language: ka\n"
@@ -829,9 +829,9 @@ msgid ""
 " and it will prompt you to define your accounts. If you need to bring some data from your release profile into the beta profile, consult the <a href=\"https://support.mozilla.org/kb/thunderbird-"
 "beta\">beta support article.</a>"
 msgstr ""
-"გაუშვათ <b>Beta</b>-ვერსიის Thunderbird (მდგრადი ვერსიის ჩაურთველად) და გამოიყენებს <b>ნაგულისხმევ-beta</b> პროფილს. Thunderbird-ის პირველი გაშვებისას შეიქმნება <b>ნაგულისხმევი-beta</b> პროფილი და "
-"მოგთხოვთ, გამართოთ თქვენი ანგარიში. თუ გსურთ, გარკვეული მონაცემების გადატანა მდგრადი ვერსიიდან Beta-ს პროფილში, გაეცანით <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">Beta-ს შესახებ "
-"მხარდაჭერის სტატიას.</a>"
+"გაუშვათ <b>Beta</b>-ვერსიის Thunderbird (მდგრადი ვერსიის ჩაურთველად) და გამოიყენებს <b>default-beta</b> დასახელების პროფილს. Thunderbird-ის პირველი გაშვებისას შეიქმნება <b>default-beta</b> პროფილი "
+"და მოგთხოვთ, გამართოთ თქვენი ანგარიში. თუ გსურთ, გარკვეული მონაცემების გადატანა მდგრადი ვერსიიდან Beta-ს პროფილში, გაეცანით <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">Beta-ს შესახებ"
+" მხარდაჭერის სტატიას.</a>"
 
 #: website/download/beta/index.html:95
 msgid "Upgrade your existing Thunderbird installation to beta."
@@ -865,14 +865,17 @@ msgid ""
 " profile per Thunderbird</a>, then start the release version of Thunderbird and it should use your release version profile data. If you no longer want to use the beta version, and do not need any of"
 " the beta data (address books, local folders, pop folders, etc), and wish to remove the beta data and beta program from your system:"
 msgstr ""
+"თუ დააყენეთ Beta პროგრამების საკუთარ საქაღალდეში (1-ელი ხერხით) და იყენებდით <a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-thunderbird-installation\">ცალკე პროფილს თითოეული "
+"Thunderbird-ისთვის</a>, მაშინ გაუშვით მდგრადი ვერსიის Thunderbird და თავისთავად გამოიყენებს საკუთარი პროფილის მონაცემებს. თუ აღარ გსურთ Beta-ვერსიის გამოყენება, აღარ გჭირდებათ მისი მონაცემები "
+"(მისამართების წიგნაკი, საქაღალდეები, POP-ფაილები და სხვა) და გსურთ სისტემიდან მოცილება:"
 
 #: website/download/beta/index.html:121
 msgid "Start the release version of Thunderbird to use the <a href=\"https://support.mozilla.org/kb/profile-manager-create-and-remove-thunderbird-profiles\">profile manager.</a>"
-msgstr ""
+msgstr "გახსენით მდგრადი ვერსიის Thunderbird, რომ გამოიყენოთ <a href=\"https://support.mozilla.org/kb/profile-manager-create-and-remove-thunderbird-profiles\">პროფილების მმართველი.</a>"
 
 #: website/download/beta/index.html:122
 msgid "Find and delete the beta profile, default name is <b>“default-beta”</b>."
-msgstr ""
+msgstr "მონახეთ Beta-პროფილი და წაშალეთ, ნაგულისხმევად უნდა ერქვას <b>„default-beta“</b>."
 
 #: website/download/beta/index.html:123
 msgid "Delete the beta version’s program directory. "
