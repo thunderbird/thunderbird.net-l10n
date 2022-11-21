@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-08-16 16:12-0700\n"
+"POT-Creation-Date: 2022-11-20 21:47-0800\n"
 "PO-Revision-Date: 2022-10-26 09:41+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: none\n"
@@ -222,7 +222,7 @@ msgstr "Thunderbird Vector Wordmark"
 msgid "Features"
 msgstr "Eiginleikar"
 
-#: website/base-resp.html:36 website/download/beta/index.html:65
+#: website/base-resp.html:36 website/download/beta/index.html:62
 msgid "Add-ons"
 msgstr "Viðbætur"
 
@@ -578,8 +578,8 @@ msgid ""
 "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
 "href=\"%(council)s\">on the Thunderbird wiki</a>."
 msgstr ""
-"Thunderbird-verkefninu er stjórnað af sjö ráðsmönnum, kjörnum af virkum þátttakendum Thunderbird samfélagsins. Þú getur séð núverandi kjörna meðlimi Thunderbird-ráðsins á <a "
-"href=\"%(council)s\">wiki-síðu Thunderbird</a>."
+"Thunderbird-verkefninu er stjórnað af sjö ráðsmönnum, kjörnum af virkum þátttakendum Thunderbird samfélagsins. Þú getur séð núverandi kjörna meðlimi Thunderbird-ráðsins á <a href=\"%(council)s"
+"\">wiki-síðu Thunderbird</a>."
 
 #: website/calendar/index.html:7 website/calendar/index.html:22
 msgid "Lightning Calendar"
@@ -687,15 +687,15 @@ msgstr "Niðurhalið ætti að byrja sjálfkrafa. Virkaði það ekki? Prófaðu
 msgid "Should I use Beta?"
 msgstr "Ætti ég að nota Beta-prófunarútgáfuna?"
 
-#: website/download/beta/index.html:18 website/download/beta/index.html:74
+#: website/download/beta/index.html:18 website/download/beta/index.html:71
 msgid "How to install and run Beta"
 msgstr "Hvernig á að setja upp og keyra Beta-prófunarútgáfuna"
 
-#: website/download/beta/index.html:21 website/download/beta/index.html:108
+#: website/download/beta/index.html:21 website/download/beta/index.html:105
 msgid "How do I go back to the regular release version?"
 msgstr "Hvernig fer ég til baka í venjulegu útgáfuna?"
 
-#: website/download/beta/index.html:24 website/download/beta/index.html:131
+#: website/download/beta/index.html:24 website/download/beta/index.html:128
 msgid "Resources and Assistance"
 msgstr "Tilföng og aðstoð"
 
@@ -707,35 +707,27 @@ msgstr ""
 "Viltu hjálpa hinu alþjóðlega Thunderbird-samfélagi með því að finna og tilkynna villur? Þá er beta-prófunarútgáfan frábær kostur fyrir þig, því hún kemur með ýmsar lagfæringar og <a "
 "href=\"https://support.mozilla.org/kb/new-thunderbird-102\">nýja eiginleika</a> löngu áður en þeir koma út!"
 
-#: website/download/beta/index.html:46
-msgid ""
-"Now is a good time to jump in, because through June 2022 we expect the Thunderbird beta to be more stable than normal. That’s because development is frozen so we can touch up <a "
-"href=\"https://blog.thunderbird.net/2022/05/7-great-new-features-coming-to-thunderbird-102/\">version 102’s new features.</a>"
-msgstr ""
-"Núna er góður tími til að leggja hönd á plóginn, því út júní 2022 gerum við ráð fyrir að beta-útgáfa Thunderbird verði stöðugri en venjulega. Það er vegna þess að þróun kóðans hefur verið fryst ,svo"
-" við getum fínpússað nýja eiginleika í <a href=\"https://blog.thunderbird.net/2022/05/7-great-new-features-coming-to-thunderbird-102/\">útgáfu 102.</a>"
-
-#: website/download/beta/index.html:48
+#: website/download/beta/index.html:45
 msgid "Important Considerations"
 msgstr "Mikilvæg umhugsunaratriði"
 
-#: website/download/beta/index.html:50
+#: website/download/beta/index.html:47
 msgid "Before you download and test the beta, there are some important considerations to be aware of:"
 msgstr "Áður en þú sækir og prófar beta-útgáfuna, eru nokkur mikilvæg atriði sem þarf að hafa í huga:"
 
-#: website/download/beta/index.html:53
+#: website/download/beta/index.html:50
 msgid "Beta installation will <u>replace</u> your currently installed program, unless you use the instructions in <a href=\"#howto\">How to install and run Beta</a>."
 msgstr ""
 "Uppsetning Beta-prófunarútgáfunnar mun <u>skipta út</u> forritinu þínu sem nú er uppsett, nema þú farir eftir leiðbeiningunum í <a href=\"#howto\">Hvernig á að setja upp og keyra Beta-"
 "prófunarútgáfuna</a>."
 
-#: website/download/beta/index.html:54
+#: website/download/beta/index.html:51
 msgid "Please do <a href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-data#w_backing-up-a-profile\">regular backups</a> to protect your Thunderbird data profiles."
 msgstr ""
 "Þú ættir endilega að gera <a href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-data#w_backing-up-a-profile\">regluleg öryggisafrit</a> til að vernda Thunderbird-"
 "notendasniðin þín."
 
-#: website/download/beta/index.html:55
+#: website/download/beta/index.html:52
 msgid ""
 "New features may be incomplete works in progress, because some are completed and polished over a period of weeks. The <a href=\"https://thunderbird.topicbox.com/groups/beta\">beta forum</a> may "
 "provide more information on feature progress."
@@ -743,7 +735,7 @@ msgstr ""
 "Nýir eiginleikar gætu verið ófullgerð verk í vinnslu, vegna þess að stundum þarf nokkrar vikur til að fullgera og fínslípa kóðann. <a href=\"https://thunderbird.topicbox.com/groups/beta\">Beta-"
 "spjallsvæðið</a> gæti veitt frekari upplýsingar um framvindu tiltekinna eiginleika."
 
-#: website/download/beta/index.html:56
+#: website/download/beta/index.html:53
 msgid ""
 "Flaws are to be expected. High-impact flaws, including data loss, are very rare, but may occur. Protect yourself with <a href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-"
 "data#w_backing-up-a-profile\">backups</a>. Low-impact flaws may not be fixed quickly, because fixes are prioritized based on impact."
@@ -751,11 +743,11 @@ msgstr ""
 "Búast má við göllum. Gallar sem hafa mikil áhrif, þar með talið gagnatap, eru mjög sjaldgæfir en geta komið fram. Verðu þig með því að taka <a href=\"https://support.mozilla.org/kb/profiles-where-"
 "thunderbird-stores-user-data#w_backing-up-a-profile\">öryggisafrit</a>. Ekki er víst að gallar sem hafa lítil áhrif séu lagaðir fljótt, vegna þess að lagfæringum er forgangsraðað eftir mikilvægi."
 
-#: website/download/beta/index.html:57
+#: website/download/beta/index.html:54
 msgid "Expect seven updates per month, one major update per month plus several small updates. This frequency of updates allows us to make fast improvements."
 msgstr "Búast má við sjö uppfærslum á mánuði, einni meiriháttar uppfærslu á mánuði auk nokkurra smáuppfærslna. Þessi uppfærslutíðni gerir okkur kleift að gera hraðari endurbætur."
 
-#: website/download/beta/index.html:58
+#: website/download/beta/index.html:55
 msgid ""
 "Are you using <a href=\"https://support.mozilla.org/kb/difference-between-imap-and-pop3\">POP accounts</a>? Unlike IMAP accounts, the only copy of your pop mail is in your local Thunderbird profile."
 " If you want to add a POP account to beta, your options are:"
@@ -763,7 +755,7 @@ msgstr ""
 "Ertu að nota <a href=\"https://support.mozilla.org/kb/difference-between-imap-and-pop3\">POP-póstreikninga</a>? Ólíkt IMAP-reikningum er eina afritið af POP-póstinum þínum á staðbundna Thunderbird-"
 "notandasniðinu þínu. Ef þú vilt bæta POP-reikningi við Beta-prófunarútgáfuna, eru valkostir þínir eftirfarandi:"
 
-#: website/download/beta/index.html:60
+#: website/download/beta/index.html:57
 msgid ""
 "After set up, go to <b>≡ > Account Settings > Server Settings</b> and make sure the <b>\"Leave messages on server\"</b> option is <b>checked</b>, and the <b>\"For at most [X] days\"</b> option is "
 "<b>unchecked</b>."
@@ -771,14 +763,14 @@ msgstr ""
 "Eftir uppsetningu, farðu í <b>≡ > Stillingar reiknings > Stillingar netþjóns</b> og gakktu úr skugga um að <b>\"Skilja póst eftir á netþjóni\"</b> sé <b>merkt</b> og valkosturinn <b>„Í allt að [X] "
 "daga“</b> sé <b>afmerkt</b>."
 
-#: website/download/beta/index.html:61
+#: website/download/beta/index.html:58
 msgid ""
 "Keep the default settings. Messages will be removed from the server 14 days after download, so you will need to either stay on beta, or learn how to move your POP data back to the release profile."
 msgstr ""
 "Haltu sjálfgefnum stillingum. Skilaboð verða fjarlægð af þjóninum 14 dögum eftir að þau eru sótt, svo þú þarft annað hvort að vera áfram á beta-útgáfunni eða læra hvernig á að færa POP-gögnin þín "
 "aftur í notandasnið venjulegu útgáfunnar."
 
-#: website/download/beta/index.html:63
+#: website/download/beta/index.html:60
 msgid ""
 "If you have <a href=\"https://support.mozilla.org/kb/organize-your-messages-using-filters\">mail filters</a> that, for example, move mail to local folders, then you must decide where to run filters "
 "- in your beta profile or your other profile."
@@ -786,7 +778,7 @@ msgstr ""
 "Ef þú ert með <a href=\"https://support.mozilla.org/kb/organize-your-messages-using-filters\">póstsíur</a> sem til dæmis flytja póst í staðbundnar möppur, þá verður að ákveða hvar á að keyra síurnar"
 " - á Beta-notandasniðinu þínu eða hinum notendasniðunum þínum."
 
-#: website/download/beta/index.html:67
+#: website/download/beta/index.html:64
 msgid ""
 "Add-on authors are not obligated to make their add-ons work in beta. Some or all of your add-ons may not work. Or if they do work today, they may not work tomorrow. Consult the <a "
 "href=\"https://support.mozilla.org/kb/thunderbird-add-ons-frequently-asked-questions#w_what-if-my-add-on-is-broken\">Add-ons FAQ</a> if you have difficulty. "
@@ -794,23 +786,23 @@ msgstr ""
 "Höfundar viðbóta eru ekki skyldugir til að láta viðbætur sínar virka í Beta-prófunarútgáfum. Sumar eða allar viðbæturnar þínar munu kannski ekki virka. Eða ef þær virka í dag, gætu þær virkað ekki á"
 " morgun. Skoðaðu <a href=\"https://support.mozilla.org/kb/thunderbird-add-ons-frequently-asked-questions#w_what-if-my-add-on-is-broken\">algengar spurningar um viðbætur </a> ef þú átt í erfiðleikum."
 
-#: website/download/beta/index.html:81
+#: website/download/beta/index.html:78
 msgid "You have two choices for installing beta: Option 1 allows you to run the beta alongside the Stable version of Thunderbird, and Option 2 upgrades your existing installation."
 msgstr "Þú hefur tvo kosti til að setja upp Beta-prófunarútgáfu: Valkostur 1 gerir þér kleift að keyra Beta samhliða stöðugri útgáfu af Thunderbird og Valkostur 2 uppfærir fyrirliggjandi uppsetningu."
 
-#: website/download/beta/index.html:84
+#: website/download/beta/index.html:81
 msgid "Run Stable and Beta side-by-side (recommended)."
 msgstr "Keyra stöðugu- og Beta-útgáfurnar hlið við hlið (ráðlagt)."
 
-#: website/download/beta/index.html:86
+#: website/download/beta/index.html:83
 msgid ""
 "Thunderbird 102 and newer on Windows will install beta into its own program directory. For older versions on Windows consult the <a href=\"https://support.mozilla.org/en-US/kb/thunderbird-"
 "beta\">beta support article</a>. For other operating systems use an install method appropriate for your OS to target a uniquely named directory."
 msgstr ""
-"Thunderbird 102 og nýrri á Windows mun setja Beta-prófunarútgáfuna upp í eigin forritamöppu. Fyrir eldri útgáfur á Windows ættirðu að skoða <a href=\"https://support.mozilla.org/en-"
-"US/kb/thunderbird-beta\">aðstoðargreinina um prófunarútgáfur</a>. Fyrir önnur stýrikerfi skaltu nota þá uppsetningaraðferð sem hentar stýrikerfinu þínu til að miða á tiltekna nafngreinda möppu."
+"Thunderbird 102 og nýrri á Windows mun setja Beta-prófunarútgáfuna upp í eigin forritamöppu. Fyrir eldri útgáfur á Windows ættirðu að skoða <a href=\"https://support.mozilla.org/en-US/kb"
+"/thunderbird-beta\">aðstoðargreinina um prófunarútgáfur</a>. Fyrir önnur stýrikerfi skaltu nota þá uppsetningaraðferð sem hentar stýrikerfinu þínu til að miða á tiltekna nafngreinda möppu."
 
-#: website/download/beta/index.html:89
+#: website/download/beta/index.html:86
 msgid ""
 "This choice has the advantage of forcing a <a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-thunderbird-installation\">dedicated profile</a> for each Thunderbird, which allows you to"
 " have both the release version and the beta version operate independently. So you can:"
@@ -818,11 +810,11 @@ msgstr ""
 "Þetta val hefur þann kost að þvinga fram <a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-thunderbird-installation\">sérsniðið notandasnið</a> fyrir hvert tilvik Thunderbird, sem "
 "gerir kleift að þú að bæði venjulega útgáfan og Beta-prófunarútgáfan geti unnið sjálfstætt. Þannig að þú getir:"
 
-#: website/download/beta/index.html:92
+#: website/download/beta/index.html:89
 msgid "Start the <b>release</b> version of Thunderbird (with beta not running) and it will use the <b>\"default\" (or default-release)</b> profile."
 msgstr "Ræst <b>venjulega</b> útgáfu Thunderbird (á meðan Beta-prófunarútgáfan er ekki í gangi) og mun hún nota <b>\"default\" (eða default-release)</b> notandasniðið."
 
-#: website/download/beta/index.html:93
+#: website/download/beta/index.html:90
 msgid ""
 "Start the <b>beta</b> version of Thunderbird (with release version not running) and it will use the <b>default-beta</b> profile. On first use Thunderbird will create the <b>default-beta</b> profile,"
 " and it will prompt you to define your accounts. If you need to bring some data from your release profile into the beta profile, consult the <a href=\"https://support.mozilla.org/kb/thunderbird-"
@@ -832,11 +824,11 @@ msgstr ""
 "beta</b> notandasniðið og muntu verða beðin/n um að skilgreina reikningana þína. Ef þú þarft að flytja gögn úr venjulega notandasniðinu þínu yfir í Beta-notandasniðið, skaltu skoða <a "
 "href=\"https://support.mozilla.org/kb/thunderbird-beta\">aðstoðargreinina um Beta-prófunarútgáfur.</a>"
 
-#: website/download/beta/index.html:95
+#: website/download/beta/index.html:92
 msgid "Upgrade your existing Thunderbird installation to beta."
 msgstr "Uppfæra fyrirliggjandi Thunderbird-uppsetningu þína í Beta-útgáfu."
 
-#: website/download/beta/index.html:97
+#: website/download/beta/index.html:94
 msgid ""
 "Simply install beta over top of your current program directory, using the default installer choices. Beta will then <u>use your current (production) default profile</u>. Because it uses your default"
 " profile, this choice makes it more difficult to switch back to using a release version should you wish to do so in the future. In other words, you should not switch back and forth between beta and "
@@ -846,11 +838,11 @@ msgstr ""
 "notandasniðið þitt</u>. Vegna þess að það notar sjálfgefna notandasniðið, gerir þetta val að verkum að erfiðara verður að skipta aftur yfir í venjulegu útgáfuna, ef þú vilt gera það í framtíðinni. "
 "Með öðrum orðum, þú ættir ekki að skipta fram og til baka á milli Beta-prófunarútgáfna og venjulegra útgáfna alltaf með sama notandasniðið."
 
-#: website/download/beta/index.html:100
+#: website/download/beta/index.html:97
 msgid "For very detailed information about both methods, please check the <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">beta support article.</a>"
 msgstr "Til að sjá mjög nákvæmar upplýsingar um báðar aðferðirnar, skaltu skoða <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">aðstoðargreinina um Beta-útgáfur.</a>"
 
-#: website/download/beta/index.html:115
+#: website/download/beta/index.html:112
 msgid ""
 "If you installed the beta over the top of the release version (choice 2 above), then your process will be more complicated. Please consult this <a href=\"https://support.mozilla.org/kb/thunderbird-"
 "beta\">beta support article.</a>"
@@ -858,7 +850,7 @@ msgstr ""
 "Ef þú settir Beta-útgáfuna upp yfir venjulegu útgáfuna (Valkostur 2 hér að ofan), þá verður ferlið flóknara. Endilega skoðaðu þessa <a href=\"https://support.mozilla.org/kb/thunderbird-"
 "beta\">aðstoðargrein um Beta-prófunarútgáfur.</a>"
 
-#: website/download/beta/index.html:118
+#: website/download/beta/index.html:115
 msgid ""
 "If you installed the beta program into its own program directory (choice 1 above) and you used a <a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-thunderbird-installation\">dedicated"
 " profile per Thunderbird</a>, then start the release version of Thunderbird and it should use your release version profile data. If you no longer want to use the beta version, and do not need any of"
@@ -868,49 +860,49 @@ msgstr ""
 "sérsniðið notandasnið fyrir Thunderbird</a>, þá skaltu ræsa venjulegu útgáfuna af Thunderbird og hún ætti að nota venjulega notandasniðið þitt. Ef þú ætlar ekki lengur nota Beta-prófunarútgáfuna og "
 "þarft ekki nein af gögnunum úr henni (nafnaskrár, staðbundnar möppur, POP-möppur o.s.frv.), og vilt fjarlægja Beta-gögnin og Beta-forritið úr kerfinu þínu:"
 
-#: website/download/beta/index.html:121
+#: website/download/beta/index.html:118
 msgid "Start the release version of Thunderbird to use the <a href=\"https://support.mozilla.org/kb/profile-manager-create-and-remove-thunderbird-profiles\">profile manager.</a>"
 msgstr "Ræstu venjulegu útgáfuna af Thunderbird til að nota <a href=\"https://support.mozilla.org/kb/profile-manager-create-and-remove-thunderbird-profiles\">notendasniðsstjórann.</a>"
 
-#: website/download/beta/index.html:122
+#: website/download/beta/index.html:119
 msgid "Find and delete the beta profile, default name is <b>“default-beta”</b>."
 msgstr "Finndu og eyddu Beta-notandasniðinu, sjálfgefið heiti er <b>„default-beta“</b>."
 
-#: website/download/beta/index.html:123
+#: website/download/beta/index.html:120
 msgid "Delete the beta version’s program directory. "
 msgstr "Eyddu forritamöppu Beta-útgáfunnar."
 
-#: website/download/beta/index.html:125
+#: website/download/beta/index.html:122
 msgid "If you need to copy data from the beta profile to your release profile, please consult the <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">beta support article.</a>"
 msgstr ""
 "Ef þú þarft að afrita gögn úr Beta-notandasniðinu yfir í venjulega notandasniðið þitt skaltu skoða <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">aðstoðargreinina um Beta-útgáfur.</a>"
 
-#: website/download/beta/index.html:138
+#: website/download/beta/index.html:135
 msgid "Open the Thunderbird Help menu to check the useful tools and references. Important items to note:"
 msgstr "Opnaðu hjálparvalmynd Thunderbird til að skoða gagnleg verkfæri og tilvísanir. Mikilvæg atriði til að hafa í huga:"
 
-#: website/download/beta/index.html:141
+#: website/download/beta/index.html:138
 msgid "Release notes are provided for every update in:"
 msgstr "Útgáfuupplýsingar eru veittar fyrir hverja uppfærslu í:"
 
-#: website/download/beta/index.html:143
+#: website/download/beta/index.html:140
 msgid "≡ > Help > About > Release Notes."
 msgstr "≡ > Hjálp > Um hugbúnaðinn > Útgáfuupplýsingar."
 
-#: website/download/beta/index.html:146
+#: website/download/beta/index.html:143
 msgid "Please post questions about normal Thunderbird usage in <a href=\"https://support.mozilla.org/questions/new/thunderbird/form\">Thunderbird support</a>. "
 msgstr "Sendu spurningar um venjulega notkun Thunderbird á <a href=\"https://support.mozilla.org/questions/new/thunderbird/form\">Thunderbird-aðstoðargáttina</a>."
 
-#: website/download/beta/index.html:147
+#: website/download/beta/index.html:144
 msgid ""
 "Ask beta specific assistance questions and comments in <a href=\"https://thunderbird.topicbox.com/groups/beta\">the beta forum</a>, or browse it to see what other beta users are discussing. The "
 "forum operates in English, so if you need assistance in another language please ask for help in <a href=\"https://support.mozilla.org/questions/new/thunderbird/form\">Thunderbird support</a>."
 msgstr ""
 "Spyrðu sértækar spurningar varðandi aðstoð vegna beta-prófana og athugasemda á <a href=\"https://thunderbird.topicbox.com/groups/beta\">beta-spjallborðinu</a>, eða flettu því til að sjá hvað aðrir "
-"beta-notendur eru að ræða. Spjallborðið starfar á ensku, svo ef þú þarft aðstoð á öðru tungumáli skaltu biðja um hjálp á <a "
-"href=\"https://support.mozilla.org/questions/new/thunderbird/form\">Thunderbird-aðstoðargáttinni</a>."
+"beta-notendur eru að ræða. Spjallborðið starfar á ensku, svo ef þú þarft aðstoð á öðru tungumáli skaltu biðja um hjálp á <a href=\"https://support.mozilla.org/questions/new/thunderbird/form"
+"\">Thunderbird-aðstoðargáttinni</a>."
 
-#: website/download/beta/index.html:148
+#: website/download/beta/index.html:145
 msgid ""
 "If you find a problem, try to <a href=\"https://support.mozilla.org/kb/troubleshoot-mode-thunderbird\">reproduce the problem in Troubleshoot Mode</a>, then file a bug report for <a "
 "href=\"https://bugzilla.mozilla.org/enter_bug.cgi?product=Thunderbird\">Thunderbird</a> or <a href=\"https://bugzilla.mozilla.org/enter_bug.cgi?product=Calendar\">Calendar</a>."
@@ -918,11 +910,11 @@ msgstr ""
 "Ef þú finnur vandamál skaltu reyna að <a href=\"https://support.mozilla.org/kb/troubleshoot-mode-thunderbird\">endurtaka vandamálið í úrræðaleitarham</a> og senda síðan villuskýrslu fyrir <a "
 "href=\"https://bugzilla.mozilla.org/enter_bug.cgi?product=Thunderbird\">Thunderbird</a> eða <a href=\"https://bugzilla.mozilla.org/enter_bug.cgi?product=Calendar\">Calendar</a>."
 
-#: website/download/beta/index.html:149
+#: website/download/beta/index.html:146
 msgid "<b>≡ > Tools > Export</b> can be used to backup your profile, or to get to your profile directory quickly."
 msgstr "<b>≡ > Verkfæri > Flytja út</b> er hægt að nota til að taka öryggisafrit af notandasniðinu þínu eða til að komast fljótt í notandasniðsmöppuna þína."
 
-#: website/download/beta/index.html:150
+#: website/download/beta/index.html:147
 msgid "<b>≡ > Go > Mail Start Page (aka Beta Start Page)</b> is a handy reference which documents several of the above items and more."
 msgstr "<b>≡ > Fara > Upphafssíða (eða upphafssíða Beta-prófunarútgáfu)</b> er með handhægar tilvísanir í nokkur af ofangreindum atriðum og fleira."
 
@@ -1159,6 +1151,54 @@ msgstr ""
 "Grunnur Thunderbird er frjáls hugbúnaður sem er þróaður af þúsundum áhugasamra, reyndra, þróunaraðila og öryggissérfræðinga út um allan heim. Okkar frjálsa og virka samfélag sérfræðinga hjálpar við "
 "að tryggja að hugbúnaðurinn okkar sé öruggur og uppfærður mjög fljótt, en leyfir okkur samt sem áður að nota það besta af öryggis- og þróunarforritum frá utanaðkomandi aðilum til að styrkja "
 "heildaröryggið."
+
+#: website/thunderbird/102.0/eoy/index.html:17
+msgid "Help Keep Thunderbird Alive!"
+msgstr ""
+
+#: website/thunderbird/102.0/eoy/index.html:25
+msgid "<span class=\"block font-light\">Help Keep</span> Thunderbird Alive!"
+msgstr ""
+
+#: website/thunderbird/102.0/eoy/index.html:28
+msgid "Did you know that <strong>less than 1%</strong> of Thunderbird users fund all the work we do?"
+msgstr ""
+
+#: website/thunderbird/102.0/eoy/index.html:31
+msgid "<strong>Not too long ago Thunderbird was on the verge of extinction.</strong> It’s because of donations from that small group of users that we are here today!"
+msgstr ""
+
+#: website/thunderbird/102.0/eoy/index.html:34
+msgid "We don’t show advertisements or sell your data and we are completely funded by donations from our community."
+msgstr ""
+
+#: website/thunderbird/102.0/eoy/index.html:53
+msgid "Click here to <strong class=\"block\">Donate!</strong>"
+msgstr ""
+
+#: website/thunderbird/102.0/eoy/index.html:68
+msgid "Help keep <strong class=\"block\">Thunderbird Alive!</strong>"
+msgstr ""
+
+#: website/thunderbird/102.0/eoy/index.html:72
+msgid ""
+"<strong>Thunderbird</strong>’s mission is to offer a time and privacy-respecting, customizable communication experience that gives you control of your data and experience. <strong>Free to "
+"everyone!</strong>"
+msgstr ""
+
+#: website/thunderbird/102.0/eoy/index.html:75
+msgid ""
+"Accomplishing that mission means keeping <strong>Thunderbird</strong> secure, maintaining complex server infrastructure, updating old code, fixing bugs and developing new features. <strong>These "
+"activities aren’t cheap</strong> - requiring talented software engineers and robust infrastructure."
+msgstr ""
+
+#: website/thunderbird/102.0/eoy/index.html:78
+msgid "<strong>So today we’re asking you to help us out.</strong> If you get value from using Thunderbird, please consider giving a donation to support it!"
+msgstr ""
+
+#: website/thunderbird/102.0/eoy/index.html:94
+msgid "The Thunderbird Team"
+msgstr ""
 
 #: website/thunderbird/102.0/whatsnew/index.html:8
 msgid "What’s New in Thunderbird 102"
