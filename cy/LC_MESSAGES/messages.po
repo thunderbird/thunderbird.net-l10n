@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-20 21:47-0800\n"
+"POT-Creation-Date: 2022-12-04 12:35-0800\n"
 "PO-Revision-Date: 2022-11-21 09:44+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language-Team: none\n"
@@ -197,7 +197,7 @@ msgid "If Crash Reporter appears when Thunderbird crashes, please provide as man
 msgstr "Os bydd yr Adroddwr Chwalu'n ymddangos pan fydd Thunderbird wedi chwalu, rhowch ragor o fanylion i helpu datblygwyr."
 
 #: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:149
-#: website/index.html:168 website/site-footer.html:4 website/site-footer.html:48 website/site-prefooter.html:51 website/site-prefooter.html:54
+#: website/index.html:168 website/site-footer.html:4 website/site-footer.html:48 website/site-footer.html:55 website/site-footer.html:62 website/site-prefooter.html:51 website/site-prefooter.html:54
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
@@ -292,7 +292,7 @@ msgstr "Systemau ac Ieithoedd"
 msgid "What’s New"
 msgstr "Be sy'n Newydd"
 
-#: website/download-button.html:72 website/site-footer.html:67
+#: website/download-button.html:72 website/site-footer.html:81
 msgid "Privacy"
 msgstr "Preifatrwydd"
 
@@ -431,30 +431,40 @@ msgstr "Dilynwch %(twitter)s ar Twitter"
 
 #: website/site-footer.html:52
 #, python-format
+msgid "Follow %(youtube)s on YouTube"
+msgstr ""
+
+#: website/site-footer.html:59
+#, python-format
+msgid "Follow %(linkedin)s on LinkedIn"
+msgstr ""
+
+#: website/site-footer.html:66
+#, python-format
 msgid "Follow %(mastodon)s on Mastodon"
 msgstr "Dilynwch %(mastodon)s ar Mastodon"
 
-#: website/site-footer.html:70
+#: website/site-footer.html:84
 msgid "Cookies"
 msgstr "Cwcis"
 
-#: website/site-footer.html:74
+#: website/site-footer.html:88
 msgid "Legal"
 msgstr "Cyfreithiol"
 
-#: website/site-footer.html:78
+#: website/site-footer.html:92
 msgid "Participation Guidelines"
 msgstr "Canllawiau Cyfranogi"
 
-#: website/site-footer.html:82
+#: website/site-footer.html:96
 msgid "Report Trademark or Copyright Infringement"
 msgstr "Adrodd ar Dorri Nodau Masnach neu Hawlfreintiau"
 
-#: website/site-footer.html:86
+#: website/site-footer.html:100
 msgid "Report Misuse of Thunderbird Trademark"
 msgstr "Adrodd ar Gamddefnydd o Nodau Masnach Thunderbird"
 
-#: website/site-footer.html:91
+#: website/site-footer.html:105
 #, python-format
 msgid ""
 "Thunderbird is now part of\n"
@@ -471,11 +481,11 @@ msgstr ""
 "      Mae'r cynnwys ar gael o dan\n"
 "      <a href=\"%(url)s\" class=\"inline-link\">drwydded Creative Commons</a>."
 
-#: website/site-footer.html:102
+#: website/site-footer.html:116
 msgid "Contribute to this site"
 msgstr "Cyfrannwch i'r wefan hon"
 
-#: website/site-footer.html:105
+#: website/site-footer.html:119
 msgid "Translate this site"
 msgstr "Cyfieithwch y wefan hon"
 
@@ -819,8 +829,8 @@ msgid ""
 " and it will prompt you to define your accounts. If you need to bring some data from your release profile into the beta profile, consult the <a href=\"https://support.mozilla.org/kb/thunderbird-"
 "beta\">beta support article.</a>"
 msgstr ""
-"Cychwynnwch y fersiwn <b>beta</b> o Thunderbird (gyda'r fersiwn rhyddhau ddim yn rhedeg) a bydd yn defnyddio'r proffil <b>default-beta</b>. Ar y defnydd cyntaf bydd Thunderbird yn creu'r proffil "
-"<b>default-beta</b>, a bydd yn eich annog i ddiffinio'ch cyfrifon. Os oes angen i chi ddod â rhywfaint o ddata o'ch proffil rhyddhau i'r proffil beta, edrychwch ar yr <a "
+"Cychwynnwch y fersiwn <b>beta</b> o Thunderbird (gyda'r fersiwn rhyddhau ddim yn rhedeg) a bydd yn defnyddio'r proffil <b>default-beta</b>. Ar y defnydd cyntaf bydd Thunderbird yn creu'r proffil <b"
+">default-beta</b>, a bydd yn eich annog i ddiffinio'ch cyfrifon. Os oes angen i chi ddod â rhywfaint o ddata o'ch proffil rhyddhau i'r proffil beta, edrychwch ar yr <a "
 "href=\"https://support.mozilla.org/kb/thunderbird-beta\">erthyglau cymorth ar gyfer y beta.</a>"
 
 #: website/download/beta/index.html:92
@@ -1159,31 +1169,31 @@ msgstr ""
 msgid "Help Keep Thunderbird Alive!"
 msgstr "Helpwch i Gadw Thunderbird yn Fyw!"
 
-#: website/thunderbird/102.0/eoy/index.html:25
+#: website/thunderbird/102.0/eoy/index.html:27
 msgid "<span class=\"block font-light font-4xl\">Help Keep</span> Thunderbird Alive!"
 msgstr "<span class=\"block font-light font-4xl\">Helpwch i Gadw</span> Thunderbird yn Fyw!"
 
-#: website/thunderbird/102.0/eoy/index.html:28
+#: website/thunderbird/102.0/eoy/index.html:30
 msgid "Did you know that <strong>less than 1%</strong> of Thunderbird users fund all the work we do?"
 msgstr "Oeddech chi'n gwybod bod <strong>llai nag 1%</strong> o ddefnyddwyr Thunderbird yn ariannu'r holl waith rydyn ni'n ei wneud?"
 
-#: website/thunderbird/102.0/eoy/index.html:31
+#: website/thunderbird/102.0/eoy/index.html:33
 msgid "<strong>Not too long ago Thunderbird was on the verge of extinction.</strong> It’s because of donations from that small group of users that we are here today!"
 msgstr "<strong>Ddim yn hir iawn yn ôl roedd Thunderbird ar fin diflannu.</strong> Oherwydd rhoddion gan y grŵp bach hwnnw o ddefnyddwyr rydym ni yma heddiw!"
 
-#: website/thunderbird/102.0/eoy/index.html:34
+#: website/thunderbird/102.0/eoy/index.html:36
 msgid "We don’t show advertisements or sell your data and we are completely funded by donations from our community."
 msgstr "Dydy'n ni ddim yn dangos hysbysebion nac yn gwerthu eich data ac rydyn ni'n cael ein hariannu'n llwyr gan roddion gan ein cymuned."
 
-#: website/thunderbird/102.0/eoy/index.html:53
+#: website/thunderbird/102.0/eoy/index.html:52
 msgid "Click here to <strong class=\"block\">Donate!</strong>"
 msgstr "Cliciwch yma i <strong class=\"block\">Roi!</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:68
+#: website/thunderbird/102.0/eoy/index.html:67
 msgid "Help keep <strong class=\"block\">Thunderbird Alive!</strong>"
 msgstr "Helpwch i gadw <strong class=\"block\">Thunderbird yn Fyw!</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:72
+#: website/thunderbird/102.0/eoy/index.html:76
 msgid ""
 "<strong>Thunderbird</strong>’s mission is to offer a time and privacy-respecting, customizable communication experience that gives you control of your data and experience. <strong>Free to "
 "everyone!</strong>"
@@ -1191,7 +1201,7 @@ msgstr ""
 "Cenhadaeth <strong>Thunderbird</strong> yw cynnig profiad cyfathrebu hawdd ei addasu sy'n parchu preifatrwydd ac sy'n rhoi rheolaeth i chi ar eich data a'ch profiad. <strong>Ac am ddim i "
 "bawb!</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:75
+#: website/thunderbird/102.0/eoy/index.html:79
 msgid ""
 "Accomplishing that mission means keeping <strong>Thunderbird</strong> secure, maintaining complex server infrastructure, updating old code, fixing bugs and developing new features. <strong>These "
 "activities aren’t cheap</strong> - requiring talented software engineers and robust infrastructure."
@@ -1199,11 +1209,11 @@ msgstr ""
 "Mae cyflawni'r genhadaeth honno'n golygu cadw <strong>Thunderbird</strong> yn ddiogel, cynnal seilwaith gweinydd cymhleth, diweddaru hen god, cywiro gwallau a datblygu nodweddion newydd. <strong>Nid"
 " yw'r gweithgareddau hyn yn rhad</strong> - mae angen peirianwyr meddalwedd dawnus a seilwaith cadarn."
 
-#: website/thunderbird/102.0/eoy/index.html:78
+#: website/thunderbird/102.0/eoy/index.html:82
 msgid "<strong>So today we’re asking you to help us out.</strong> If you get value from using Thunderbird, please consider giving a donation to support it!"
 msgstr "<strong>Felly heddiw rydyn ni'n gofyn i chi ein helpu ni.</strong> Os ydych chi'n cael gwerth drwy ddefnyddio Thunderbird, ystyriwch roi cyfraniad i'w gefnogi!"
 
-#: website/thunderbird/102.0/eoy/index.html:94
+#: website/thunderbird/102.0/eoy/index.html:98
 msgid "The Thunderbird Team"
 msgstr "Tîm Thunderbird"
 

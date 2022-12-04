@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-20 21:47-0800\n"
+"POT-Creation-Date: 2022-12-04 12:35-0800\n"
 "PO-Revision-Date: 2022-11-21 09:06+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: none\n"
@@ -197,7 +197,7 @@ msgid "If Crash Reporter appears when Thunderbird crashes, please provide as man
 msgstr "Ef hrunskýrsluglugginn birtist þegar Thunderbird hrynur, skaltu endilega gefa upp nánari upplýsingar til að hjálpa forriturunum."
 
 #: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:149
-#: website/index.html:168 website/site-footer.html:4 website/site-footer.html:48 website/site-prefooter.html:51 website/site-prefooter.html:54
+#: website/index.html:168 website/site-footer.html:4 website/site-footer.html:48 website/site-footer.html:55 website/site-footer.html:62 website/site-prefooter.html:51 website/site-prefooter.html:54
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
@@ -292,7 +292,7 @@ msgstr "Stýrikerfi og tungumál"
 msgid "What’s New"
 msgstr "Hvað er nýtt"
 
-#: website/download-button.html:72 website/site-footer.html:67
+#: website/download-button.html:72 website/site-footer.html:81
 msgid "Privacy"
 msgstr "Friðhelgi"
 
@@ -433,30 +433,40 @@ msgstr "Fylgstu með %(twitter)s á Twitter"
 
 #: website/site-footer.html:52
 #, python-format
+msgid "Follow %(youtube)s on YouTube"
+msgstr ""
+
+#: website/site-footer.html:59
+#, python-format
+msgid "Follow %(linkedin)s on LinkedIn"
+msgstr ""
+
+#: website/site-footer.html:66
+#, python-format
 msgid "Follow %(mastodon)s on Mastodon"
 msgstr "Fylgstu með %(mastodon)s á Mastodon"
 
-#: website/site-footer.html:70
+#: website/site-footer.html:84
 msgid "Cookies"
 msgstr "Vefkökur"
 
-#: website/site-footer.html:74
+#: website/site-footer.html:88
 msgid "Legal"
 msgstr "Lagalegt efni"
 
-#: website/site-footer.html:78
+#: website/site-footer.html:92
 msgid "Participation Guidelines"
 msgstr "Leiðbeiningar varðandi þátttöku"
 
-#: website/site-footer.html:82
+#: website/site-footer.html:96
 msgid "Report Trademark or Copyright Infringement"
 msgstr "Tilkynna misnotkun á vörumerki eða höfundarréttarbrot"
 
-#: website/site-footer.html:86
+#: website/site-footer.html:100
 msgid "Report Misuse of Thunderbird Trademark"
 msgstr "Tilkynna misnotkun á Thunderbird-vörumerkinu"
 
-#: website/site-footer.html:91
+#: website/site-footer.html:105
 #, python-format
 msgid ""
 "Thunderbird is now part of\n"
@@ -473,11 +483,11 @@ msgstr ""
 "      þátttakendur. Efnið er aðgengilegt með\n"
 "      <a href=\"%(url)s\" class=\"inline-link\">Creative Commons notkunarleyfi</a>."
 
-#: website/site-footer.html:102
+#: website/site-footer.html:116
 msgid "Contribute to this site"
 msgstr "Bæta við efni á þetta vefsvæði"
 
-#: website/site-footer.html:105
+#: website/site-footer.html:119
 msgid "Translate this site"
 msgstr "Þýða þetta vefsvæði"
 
@@ -578,8 +588,8 @@ msgid ""
 "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
 "href=\"%(council)s\">on the Thunderbird wiki</a>."
 msgstr ""
-"Thunderbird-verkefninu er stjórnað af sjö ráðsmönnum, kjörnum af virkum þátttakendum Thunderbird samfélagsins. Þú getur séð núverandi kjörna meðlimi Thunderbird-ráðsins á <a "
-"href=\"%(council)s\">wiki-síðu Thunderbird</a>."
+"Thunderbird-verkefninu er stjórnað af sjö ráðsmönnum, kjörnum af virkum þátttakendum Thunderbird samfélagsins. Þú getur séð núverandi kjörna meðlimi Thunderbird-ráðsins á <a href=\"%(council)s"
+"\">wiki-síðu Thunderbird</a>."
 
 #: website/calendar/index.html:7 website/calendar/index.html:22
 msgid "Lightning Calendar"
@@ -799,8 +809,8 @@ msgid ""
 "Thunderbird 102 and newer on Windows will install beta into its own program directory. For older versions on Windows consult the <a href=\"https://support.mozilla.org/en-US/kb/thunderbird-"
 "beta\">beta support article</a>. For other operating systems use an install method appropriate for your OS to target a uniquely named directory."
 msgstr ""
-"Thunderbird 102 og nýrri á Windows mun setja Beta-prófunarútgáfuna upp í eigin forritamöppu. Fyrir eldri útgáfur á Windows ættirðu að skoða <a href=\"https://support.mozilla.org/en-"
-"US/kb/thunderbird-beta\">aðstoðargreinina um prófunarútgáfur</a>. Fyrir önnur stýrikerfi skaltu nota þá uppsetningaraðferð sem hentar stýrikerfinu þínu til að miða á tiltekna nafngreinda möppu."
+"Thunderbird 102 og nýrri á Windows mun setja Beta-prófunarútgáfuna upp í eigin forritamöppu. Fyrir eldri útgáfur á Windows ættirðu að skoða <a href=\"https://support.mozilla.org/en-US/kb"
+"/thunderbird-beta\">aðstoðargreinina um prófunarútgáfur</a>. Fyrir önnur stýrikerfi skaltu nota þá uppsetningaraðferð sem hentar stýrikerfinu þínu til að miða á tiltekna nafngreinda möppu."
 
 #: website/download/beta/index.html:86
 msgid ""
@@ -899,8 +909,8 @@ msgid ""
 "forum operates in English, so if you need assistance in another language please ask for help in <a href=\"https://support.mozilla.org/questions/new/thunderbird/form\">Thunderbird support</a>."
 msgstr ""
 "Spyrðu sértækar spurningar varðandi aðstoð vegna beta-prófana og athugasemda á <a href=\"https://thunderbird.topicbox.com/groups/beta\">beta-spjallborðinu</a>, eða flettu því til að sjá hvað aðrir "
-"beta-notendur eru að ræða. Spjallborðið starfar á ensku, svo ef þú þarft aðstoð á öðru tungumáli skaltu biðja um hjálp á <a "
-"href=\"https://support.mozilla.org/questions/new/thunderbird/form\">Thunderbird-aðstoðargáttinni</a>."
+"beta-notendur eru að ræða. Spjallborðið starfar á ensku, svo ef þú þarft aðstoð á öðru tungumáli skaltu biðja um hjálp á <a href=\"https://support.mozilla.org/questions/new/thunderbird/form"
+"\">Thunderbird-aðstoðargáttinni</a>."
 
 #: website/download/beta/index.html:145
 msgid ""
@@ -1156,31 +1166,31 @@ msgstr ""
 msgid "Help Keep Thunderbird Alive!"
 msgstr "Hjálpaðu við að halda Thunderbird í gangi!"
 
-#: website/thunderbird/102.0/eoy/index.html:25
+#: website/thunderbird/102.0/eoy/index.html:27
 msgid "<span class=\"block font-light font-4xl\">Help Keep</span> Thunderbird Alive!"
 msgstr "<span class=\"block font-light font-4xl\">Hjálpaðu til við að halda</span> Thunderbird í gangi!"
 
-#: website/thunderbird/102.0/eoy/index.html:28
+#: website/thunderbird/102.0/eoy/index.html:30
 msgid "Did you know that <strong>less than 1%</strong> of Thunderbird users fund all the work we do?"
 msgstr "Vissir þú að <strong>innan við 1%</strong> af notendum Thunderbird fjármagna alla vinnuna sem við gerum?"
 
-#: website/thunderbird/102.0/eoy/index.html:31
+#: website/thunderbird/102.0/eoy/index.html:33
 msgid "<strong>Not too long ago Thunderbird was on the verge of extinction.</strong> It’s because of donations from that small group of users that we are here today!"
 msgstr "<strong>Það er ekki svo langt síðan Thunderbird var á barmi útrýmingar.</strong> Það er vegna framlaga frá þessum litla hópi notenda sem við erum hér í dag!"
 
-#: website/thunderbird/102.0/eoy/index.html:34
+#: website/thunderbird/102.0/eoy/index.html:36
 msgid "We don’t show advertisements or sell your data and we are completely funded by donations from our community."
 msgstr "Við sýnum ekki auglýsingar eða seljum gögnin þín og við erum að fullu fjármögnuð með framlögum frá samfélaginu okkar."
 
-#: website/thunderbird/102.0/eoy/index.html:53
+#: website/thunderbird/102.0/eoy/index.html:52
 msgid "Click here to <strong class=\"block\">Donate!</strong>"
 msgstr "Smelltu hér til að <strong class=\"block\">styrkja okkur!</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:68
+#: website/thunderbird/102.0/eoy/index.html:67
 msgid "Help keep <strong class=\"block\">Thunderbird Alive!</strong>"
 msgstr "Hjálpaðu til við að halda <strong class=\"block\">Thunderbird í gangi!</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:72
+#: website/thunderbird/102.0/eoy/index.html:76
 msgid ""
 "<strong>Thunderbird</strong>’s mission is to offer a time and privacy-respecting, customizable communication experience that gives you control of your data and experience. <strong>Free to "
 "everyone!</strong>"
@@ -1188,7 +1198,7 @@ msgstr ""
 "Hlutverk <strong>Thunderbird</strong> er að bjóða upp á sérsníðanleg samskipti sem virða tímann þinn og friðhelgi, og sem gefur þér stjórnina á gögnum þínum og vinnuaðferðum. <strong>Ókeypis fyrir "
 "alla!</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:75
+#: website/thunderbird/102.0/eoy/index.html:79
 msgid ""
 "Accomplishing that mission means keeping <strong>Thunderbird</strong> secure, maintaining complex server infrastructure, updating old code, fixing bugs and developing new features. <strong>These "
 "activities aren’t cheap</strong> - requiring talented software engineers and robust infrastructure."
@@ -1196,11 +1206,11 @@ msgstr ""
 "Að ná því markmiði þýðir að halda <strong>Thunderbird</strong> öruggum, viðhalda flóknum innviðum netþjóna, uppfæra gamlan kóða, laga villur og þróa nýja eiginleika. <strong>Þessi starfsemi er ekki "
 "ódýr</strong> - krefst hæfileikaríkra hugbúnaðarverkfræðinga og öflugra innviða."
 
-#: website/thunderbird/102.0/eoy/index.html:78
+#: website/thunderbird/102.0/eoy/index.html:82
 msgid "<strong>So today we’re asking you to help us out.</strong> If you get value from using Thunderbird, please consider giving a donation to support it!"
 msgstr "<strong>Þannig í dag biðjum við þig um að hjálpa okkur.</strong> Ef þú færð eitthvað út úr því að nota Thunderbird skaltu íhuga að leggja þitt af mörkum til að styðja við verkefnið!"
 
-#: website/thunderbird/102.0/eoy/index.html:94
+#: website/thunderbird/102.0/eoy/index.html:98
 msgid "The Thunderbird Team"
 msgstr "Thunderbird-teymið"
 

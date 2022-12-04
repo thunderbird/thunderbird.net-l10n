@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-20 21:47-0800\n"
+"POT-Creation-Date: 2022-12-04 12:35-0800\n"
 "PO-Revision-Date: 2022-11-29 11:43+0000\n"
 "Last-Translator: Abelardo Ayala Rodríguez <abe_aya@hotmail.com>\n"
 "Language-Team: none\n"
@@ -191,7 +191,7 @@ msgid "If Crash Reporter appears when Thunderbird crashes, please provide as man
 msgstr "Osẽramo Crash Reporter Thunderbird ndoikói jave, emombe’uvemi ikatúva guive eipytyvõ hag̃ua mboguataharakuérape."
 
 #: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:149
-#: website/index.html:168 website/site-footer.html:4 website/site-footer.html:48 website/site-prefooter.html:51 website/site-prefooter.html:54
+#: website/index.html:168 website/site-footer.html:4 website/site-footer.html:48 website/site-footer.html:55 website/site-footer.html:62 website/site-prefooter.html:51 website/site-prefooter.html:54
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
@@ -286,7 +286,7 @@ msgstr "Apopyvusu ha Ñe’ẽnguéra"
 msgid "What’s New"
 msgstr "Mba’epyahu"
 
-#: website/download-button.html:72 website/site-footer.html:67
+#: website/download-button.html:72 website/site-footer.html:81
 msgid "Privacy"
 msgstr "Ñemigua"
 
@@ -425,30 +425,40 @@ msgstr "Epytaite %(twitter)s Twitter ndive"
 
 #: website/site-footer.html:52
 #, python-format
+msgid "Follow %(youtube)s on YouTube"
+msgstr ""
+
+#: website/site-footer.html:59
+#, python-format
+msgid "Follow %(linkedin)s on LinkedIn"
+msgstr ""
+
+#: website/site-footer.html:66
+#, python-format
 msgid "Follow %(mastodon)s on Mastodon"
 msgstr "Epytaite %(mastodon)s Mastodon ndive"
 
-#: website/site-footer.html:70
+#: website/site-footer.html:84
 msgid "Cookies"
 msgstr "Kookie"
 
-#: website/site-footer.html:74
+#: website/site-footer.html:88
 msgid "Legal"
 msgstr "Añetegua"
 
-#: website/site-footer.html:78
+#: website/site-footer.html:92
 msgid "Participation Guidelines"
 msgstr "Mba’éichapa eikeva’erã"
 
-#: website/site-footer.html:82
+#: website/site-footer.html:96
 msgid "Report Trademark or Copyright Infringement"
 msgstr "Marandu marka ñemuguáva térã apohára derécho ñembyai"
 
-#: website/site-footer.html:86
+#: website/site-footer.html:100
 msgid "Report Misuse of Thunderbird Trademark"
 msgstr "Emombe’u marka Thunderbird jepuruvai"
 
-#: website/site-footer.html:91
+#: website/site-footer.html:105
 #, python-format
 msgid ""
 "Thunderbird is now part of\n"
@@ -465,11 +475,11 @@ msgstr ""
 "       oipytyvõ tetepy ejuhukuaáva\n"
 "       peteĩ <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a> poguýpe."
 
-#: website/site-footer.html:102
+#: website/site-footer.html:116
 msgid "Contribute to this site"
 msgstr "Eipytyvõ ko tendápe"
 
-#: website/site-footer.html:105
+#: website/site-footer.html:119
 msgid "Translate this site"
 msgstr "Emoñe’ẽasa ko tenda"
 
@@ -1106,47 +1116,47 @@ msgstr "Ayvu ijurujáva"
 msgid "Help Keep Thunderbird Alive!"
 msgstr "¡Eipytyvõ Thunderbird-pe hekoveresãi hag̃ua!"
 
-#: website/thunderbird/102.0/eoy/index.html:25
+#: website/thunderbird/102.0/eoy/index.html:27
 msgid "<span class=\"block font-light font-4xl\">Help Keep</span> Thunderbird Alive!"
 msgstr "<span class=\"block font-light font-4xl\">¡Eipytyvõ</span> Thunderbird-pe hekoveresãi hag̃ua!"
 
-#: website/thunderbird/102.0/eoy/index.html:28
+#: website/thunderbird/102.0/eoy/index.html:30
 msgid "Did you know that <strong>less than 1%</strong> of Thunderbird users fund all the work we do?"
 msgstr "¿Eikuaápa <strong>sa’iveha 1%</strong> Thunderbird puruhára ohepyme’ẽ tembiapo rejapóva?"
 
-#: website/thunderbird/102.0/eoy/index.html:31
+#: website/thunderbird/102.0/eoy/index.html:33
 msgid "<strong>Not too long ago Thunderbird was on the verge of extinction.</strong> It’s because of donations from that small group of users that we are here today!"
 msgstr ""
 
-#: website/thunderbird/102.0/eoy/index.html:34
+#: website/thunderbird/102.0/eoy/index.html:36
 msgid "We don’t show advertisements or sell your data and we are completely funded by donations from our community."
 msgstr ""
 
-#: website/thunderbird/102.0/eoy/index.html:53
+#: website/thunderbird/102.0/eoy/index.html:52
 msgid "Click here to <strong class=\"block\">Donate!</strong>"
 msgstr "Eikutu ápe <strong class=\"block\">¡Eme’ẽ hag̃ua!</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:68
+#: website/thunderbird/102.0/eoy/index.html:67
 msgid "Help keep <strong class=\"block\">Thunderbird Alive!</strong>"
 msgstr "¡Eipytyvõ <strong class=\"block\">Thunderbird-pe hekoveresãi hag̃ua!</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:72
+#: website/thunderbird/102.0/eoy/index.html:76
 msgid ""
 "<strong>Thunderbird</strong>’s mission is to offer a time and privacy-respecting, customizable communication experience that gives you control of your data and experience. <strong>Free to "
 "everyone!</strong>"
 msgstr ""
 
-#: website/thunderbird/102.0/eoy/index.html:75
+#: website/thunderbird/102.0/eoy/index.html:79
 msgid ""
 "Accomplishing that mission means keeping <strong>Thunderbird</strong> secure, maintaining complex server infrastructure, updating old code, fixing bugs and developing new features. <strong>These "
 "activities aren’t cheap</strong> - requiring talented software engineers and robust infrastructure."
 msgstr ""
 
-#: website/thunderbird/102.0/eoy/index.html:78
+#: website/thunderbird/102.0/eoy/index.html:82
 msgid "<strong>So today we’re asking you to help us out.</strong> If you get value from using Thunderbird, please consider giving a donation to support it!"
 msgstr ""
 
-#: website/thunderbird/102.0/eoy/index.html:94
+#: website/thunderbird/102.0/eoy/index.html:98
 msgid "The Thunderbird Team"
 msgstr "Thunderbird mba’apohára"
 

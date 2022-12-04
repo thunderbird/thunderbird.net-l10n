@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-20 21:47-0800\n"
+"POT-Creation-Date: 2022-12-04 12:35-0800\n"
 "PO-Revision-Date: 2022-11-21 13:54+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language-Team: none\n"
@@ -189,7 +189,7 @@ msgid "If Crash Reporter appears when Thunderbird crashes, please provide as man
 msgstr "若在 Thunderbird 發生錯誤（出現錯誤回報員）時，請盡可能提供詳細資訊來協助開發者找出問題。"
 
 #: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:149
-#: website/index.html:168 website/site-footer.html:4 website/site-footer.html:48 website/site-prefooter.html:51 website/site-prefooter.html:54
+#: website/index.html:168 website/site-footer.html:4 website/site-footer.html:48 website/site-footer.html:55 website/site-footer.html:62 website/site-prefooter.html:51 website/site-prefooter.html:54
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
@@ -284,7 +284,7 @@ msgstr "其他系統與語言"
 msgid "What’s New"
 msgstr "新鮮事"
 
-#: website/download-button.html:72 website/site-footer.html:67
+#: website/download-button.html:72 website/site-footer.html:81
 msgid "Privacy"
 msgstr "隱私權"
 
@@ -423,30 +423,40 @@ msgstr "到 Twitter 跟隨 %(twitter)s"
 
 #: website/site-footer.html:52
 #, python-format
+msgid "Follow %(youtube)s on YouTube"
+msgstr ""
+
+#: website/site-footer.html:59
+#, python-format
+msgid "Follow %(linkedin)s on LinkedIn"
+msgstr ""
+
+#: website/site-footer.html:66
+#, python-format
 msgid "Follow %(mastodon)s on Mastodon"
 msgstr "到 Mastodon 跟隨 %(mastodon)s"
 
-#: website/site-footer.html:70
+#: website/site-footer.html:84
 msgid "Cookies"
 msgstr "Cookie"
 
-#: website/site-footer.html:74
+#: website/site-footer.html:88
 msgid "Legal"
 msgstr "法律資訊"
 
-#: website/site-footer.html:78
+#: website/site-footer.html:92
 msgid "Participation Guidelines"
 msgstr "參與準則"
 
-#: website/site-footer.html:82
+#: website/site-footer.html:96
 msgid "Report Trademark or Copyright Infringement"
 msgstr "回報商標或著作權侵權行為"
 
-#: website/site-footer.html:86
+#: website/site-footer.html:100
 msgid "Report Misuse of Thunderbird Trademark"
 msgstr "回報 Thunderbird 商標濫用"
 
-#: website/site-footer.html:91
+#: website/site-footer.html:105
 #, python-format
 msgid ""
 "Thunderbird is now part of\n"
@@ -459,11 +469,11 @@ msgstr ""
 "Thunderbird 已成為 Mozilla Foundation 的全資子公司 <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>。\n"
 "本頁的部分內容著作權為 ©1998–%(current_year)s 由個別貢獻者所有，使用<a href=\"%(url)s\" class=\"inline-link\">創用 CC 授權條款</a>授權大眾使用。"
 
-#: website/site-footer.html:102
+#: website/site-footer.html:116
 msgid "Contribute to this site"
 msgstr "貢獻至此網站"
 
-#: website/site-footer.html:105
+#: website/site-footer.html:119
 msgid "Translate this site"
 msgstr "翻譯此網站"
 
@@ -708,8 +718,8 @@ msgid ""
 "Flaws are to be expected. High-impact flaws, including data loss, are very rare, but may occur. Protect yourself with <a href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-"
 "data#w_backing-up-a-profile\">backups</a>. Low-impact flaws may not be fixed quickly, because fixes are prioritized based on impact."
 msgstr ""
-"可以預期會有些小缺點。不太容易會出現遺失資料之類的大問題，但還是有可能發生。請務必進行<a href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-data#w_backing-up-a-"
-"profile\">備份</a>來保護好資料。由於修復問題的優先度是依照問題本身的影響程度而定，小缺點不一定很快就會被修正。"
+"可以預期會有些小缺點。不太容易會出現遺失資料之類的大問題，但還是有可能發生。請務必進行<a href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-data#w_backing-"
+"up-a-profile\">備份</a>來保護好資料。由於修復問題的優先度是依照問題本身的影響程度而定，小缺點不一定很快就會被修正。"
 
 #: website/download/beta/index.html:54
 msgid "Expect seven updates per month, one major update per month plus several small updates. This frequency of updates allows us to make fast improvements."
@@ -1071,47 +1081,47 @@ msgstr "Thunderbird 的前進動力來自於開放原始碼的研發流程：由
 msgid "Help Keep Thunderbird Alive!"
 msgstr "請幫助我們維持 Thunderbird 開發！"
 
-#: website/thunderbird/102.0/eoy/index.html:25
+#: website/thunderbird/102.0/eoy/index.html:27
 msgid "<span class=\"block font-light font-4xl\">Help Keep</span> Thunderbird Alive!"
 msgstr "<span class=\"block font-light font-4xl\">請幫助</span>我們維持 Thunderbird 開發！"
 
-#: website/thunderbird/102.0/eoy/index.html:28
+#: website/thunderbird/102.0/eoy/index.html:30
 msgid "Did you know that <strong>less than 1%</strong> of Thunderbird users fund all the work we do?"
 msgstr "您知道嗎？我們所做的所有事情，<strong>是由低於 1% 的</strong> Thunderbird 使用者所資助的。"
 
-#: website/thunderbird/102.0/eoy/index.html:31
+#: website/thunderbird/102.0/eoy/index.html:33
 msgid "<strong>Not too long ago Thunderbird was on the verge of extinction.</strong> It’s because of donations from that small group of users that we are here today!"
 msgstr "<strong>才不久之前，Thunderbird 還正瀕臨絕種。</strong>正是由於這一小部分使用者的捐款，我們才能繼續發展至今。"
 
-#: website/thunderbird/102.0/eoy/index.html:34
+#: website/thunderbird/102.0/eoy/index.html:36
 msgid "We don’t show advertisements or sell your data and we are completely funded by donations from our community."
 msgstr "我們完全透過社群資助開發，而不顯示廣告或將您的資料賣給其他人。"
 
-#: website/thunderbird/102.0/eoy/index.html:53
+#: website/thunderbird/102.0/eoy/index.html:52
 msgid "Click here to <strong class=\"block\">Donate!</strong>"
 msgstr "點擊此處即可<strong class=\"block\">捐款！</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:68
+#: website/thunderbird/102.0/eoy/index.html:67
 msgid "Help keep <strong class=\"block\">Thunderbird Alive!</strong>"
 msgstr "請幫助我們維持 <strong class=\"block\">Thunderbird 開發！</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:72
+#: website/thunderbird/102.0/eoy/index.html:76
 msgid ""
 "<strong>Thunderbird</strong>’s mission is to offer a time and privacy-respecting, customizable communication experience that gives you control of your data and experience. <strong>Free to "
 "everyone!</strong>"
 msgstr "<strong>Thunderbird</strong> 的使命是提供一套尊重使用者的時間與隱私，並讓您可自行控制資料與使用體驗的郵件通訊體驗。<strong>對任何人都免費！</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:75
+#: website/thunderbird/102.0/eoy/index.html:79
 msgid ""
 "Accomplishing that mission means keeping <strong>Thunderbird</strong> secure, maintaining complex server infrastructure, updating old code, fixing bugs and developing new features. <strong>These "
 "activities aren’t cheap</strong> - requiring talented software engineers and robust infrastructure."
 msgstr "要完成這個使命，代表要維持 <strong>Thunderbird</strong> 的安全、維護複雜的伺服器基礎架構、更新舊的程式碼、修 Bug 還要開發新功能。<strong>要做到這些事一點都不便宜</strong>，而是需要有才華的軟體工程師與靈活的基礎架構才能達成。"
 
-#: website/thunderbird/102.0/eoy/index.html:78
+#: website/thunderbird/102.0/eoy/index.html:82
 msgid "<strong>So today we’re asking you to help us out.</strong> If you get value from using Thunderbird, please consider giving a donation to support it!"
 msgstr "<strong>所以現在我們請您協助捐款。</strong>若您覺得 Thunderbird 用起來是值得的，請考慮捐款，支持產品的發展！"
 
-#: website/thunderbird/102.0/eoy/index.html:94
+#: website/thunderbird/102.0/eoy/index.html:98
 msgid "The Thunderbird Team"
 msgstr "Thunderbird 團隊"
 

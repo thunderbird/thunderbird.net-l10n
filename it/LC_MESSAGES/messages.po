@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-20 21:47-0800\n"
+"POT-Creation-Date: 2022-12-04 12:35-0800\n"
 "PO-Revision-Date: 2022-11-25 08:32+0000\n"
 "Last-Translator: Francesco Lodolo [:flod] <flod+pontoon@mozilla.com>\n"
 "Language-Team: none\n"
@@ -203,7 +203,7 @@ msgid "If Crash Reporter appears when Thunderbird crashes, please provide as man
 msgstr "Se dopo un arresto anomalo di Thunderbird viene visualizzato Crash Reporter, fornisci quanti più dettagli possibili per aiutare gli sviluppatori."
 
 #: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:149
-#: website/index.html:168 website/site-footer.html:4 website/site-footer.html:48 website/site-prefooter.html:51 website/site-prefooter.html:54
+#: website/index.html:168 website/site-footer.html:4 website/site-footer.html:48 website/site-footer.html:55 website/site-footer.html:62 website/site-prefooter.html:51 website/site-prefooter.html:54
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
@@ -298,7 +298,7 @@ msgstr "Sistemi e lingue"
 msgid "What’s New"
 msgstr "Novità"
 
-#: website/download-button.html:72 website/site-footer.html:67
+#: website/download-button.html:72 website/site-footer.html:81
 msgid "Privacy"
 msgstr "Privacy"
 
@@ -437,30 +437,40 @@ msgstr "Segui %(twitter)s su Twitter"
 
 #: website/site-footer.html:52
 #, python-format
+msgid "Follow %(youtube)s on YouTube"
+msgstr ""
+
+#: website/site-footer.html:59
+#, python-format
+msgid "Follow %(linkedin)s on LinkedIn"
+msgstr ""
+
+#: website/site-footer.html:66
+#, python-format
 msgid "Follow %(mastodon)s on Mastodon"
 msgstr "Segui %(mastodon)s su Mastodon"
 
-#: website/site-footer.html:70
+#: website/site-footer.html:84
 msgid "Cookies"
 msgstr "Cookie"
 
-#: website/site-footer.html:74
+#: website/site-footer.html:88
 msgid "Legal"
 msgstr "Note legali"
 
-#: website/site-footer.html:78
+#: website/site-footer.html:92
 msgid "Participation Guidelines"
 msgstr "Linee guida per la partecipazione"
 
-#: website/site-footer.html:82
+#: website/site-footer.html:96
 msgid "Report Trademark or Copyright Infringement"
 msgstr "Segnala una violazione del marchio o del copyright"
 
-#: website/site-footer.html:86
+#: website/site-footer.html:100
 msgid "Report Misuse of Thunderbird Trademark"
 msgstr "Segnala un uso improprio del marchio Thunderbird"
 
-#: website/site-footer.html:91
+#: website/site-footer.html:105
 #, python-format
 msgid ""
 "Thunderbird is now part of\n"
@@ -473,11 +483,11 @@ msgstr ""
 "Thunderbird è ora parte di <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>, una società sussidiaria interamente controllata da Mozilla Foundation. Parte di questi "
 "contenuti sono ©1998–%(current_year)s di singoli collaboratori. I contenuti sono disponibili secondo la <a href=\"%(url)s\" class=\"inline-link\">licenza Creative Commons</a>."
 
-#: website/site-footer.html:102
+#: website/site-footer.html:116
 msgid "Contribute to this site"
 msgstr "Collabora allo sviluppo del sito"
 
-#: website/site-footer.html:105
+#: website/site-footer.html:119
 msgid "Translate this site"
 msgstr "Traduci questo sito"
 
@@ -855,8 +865,8 @@ msgid ""
 "If you installed the beta over the top of the release version (choice 2 above), then your process will be more complicated. Please consult this <a href=\"https://support.mozilla.org/kb/thunderbird-"
 "beta\">beta support article.</a>"
 msgstr ""
-"Se hai installato la versione beta sopra la versione ufficiale (opzione 2 tra quelle elencate sopra), il processo sarà un po’ più complicato. Consulta questo <a "
-"href=\"https://support.mozilla.org/kb/thunderbird-beta\">articolo di supporto per la versione beta.</a>"
+"Se hai installato la versione beta sopra la versione ufficiale (opzione 2 tra quelle elencate sopra), il processo sarà un po’ più complicato. Consulta questo <a href=\"https://support.mozilla.org/kb"
+"/thunderbird-beta\">articolo di supporto per la versione beta.</a>"
 
 #: website/download/beta/index.html:115
 msgid ""
@@ -1174,31 +1184,31 @@ msgstr ""
 msgid "Help Keep Thunderbird Alive!"
 msgstr "Aiutaci a mantenere in vita Thunderbird!"
 
-#: website/thunderbird/102.0/eoy/index.html:25
+#: website/thunderbird/102.0/eoy/index.html:27
 msgid "<span class=\"block font-light font-4xl\">Help Keep</span> Thunderbird Alive!"
 msgstr "<span class=\"block font-light font-4xl\">Aiutaci a mantenere</span> in vita Thunderbird!"
 
-#: website/thunderbird/102.0/eoy/index.html:28
+#: website/thunderbird/102.0/eoy/index.html:30
 msgid "Did you know that <strong>less than 1%</strong> of Thunderbird users fund all the work we do?"
 msgstr "Sai che <strong>meno dell’1%</strong> degli utenti di Thunderbird supporta economicamente il lavoro che facciamo?"
 
-#: website/thunderbird/102.0/eoy/index.html:31
+#: website/thunderbird/102.0/eoy/index.html:33
 msgid "<strong>Not too long ago Thunderbird was on the verge of extinction.</strong> It’s because of donations from that small group of users that we are here today!"
 msgstr "<strong>Non molto tempo fa Thunderbird era sull’orlo dell’estinzione.</strong> È grazie alle donazioni ricevute da quel piccolo gruppo di utenti che siamo qui ancora oggi."
 
-#: website/thunderbird/102.0/eoy/index.html:34
+#: website/thunderbird/102.0/eoy/index.html:36
 msgid "We don’t show advertisements or sell your data and we are completely funded by donations from our community."
 msgstr "Non mostriamo pubblicità, non vendiamo i tuoi dati e siamo sostenuti interamente dalle donazioni della nostra comunità."
 
-#: website/thunderbird/102.0/eoy/index.html:53
+#: website/thunderbird/102.0/eoy/index.html:52
 msgid "Click here to <strong class=\"block\">Donate!</strong>"
 msgstr "Fai clic qui per <strong class=\"block\">fare una donazione!</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:68
+#: website/thunderbird/102.0/eoy/index.html:67
 msgid "Help keep <strong class=\"block\">Thunderbird Alive!</strong>"
 msgstr "Aiutaci a mantenere <strong class=\"block\">in vita Thunderbird!</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:72
+#: website/thunderbird/102.0/eoy/index.html:76
 msgid ""
 "<strong>Thunderbird</strong>’s mission is to offer a time and privacy-respecting, customizable communication experience that gives you control of your data and experience. <strong>Free to "
 "everyone!</strong>"
@@ -1206,7 +1216,7 @@ msgstr ""
 "La missione di <strong>Thunderbird</strong> è quella di offrire un’esperienza di comunicazione personalizzabile che rispetti il tuo tempo e la tua privacy, per darti il controllo totale sui tuoi "
 "dati e la tua esperienza. <strong>Completamente gratuito per tutti!</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:75
+#: website/thunderbird/102.0/eoy/index.html:79
 msgid ""
 "Accomplishing that mission means keeping <strong>Thunderbird</strong> secure, maintaining complex server infrastructure, updating old code, fixing bugs and developing new features. <strong>These "
 "activities aren’t cheap</strong> - requiring talented software engineers and robust infrastructure."
@@ -1214,12 +1224,12 @@ msgstr ""
 "Per raggiungere questo obiettivo dobbiamo garantire che <strong>Thunderbird</strong> rimanga sicuro, mantenere una complessa infrastruttura di server, aggiornare il codice sorgente, risolvere i "
 "problemi esistenti e sviluppare nuove funzionalità. <strong>Queste attività non sono economiche</strong> e richiedono sviluppatori di talento e una robusta infrastruttura."
 
-#: website/thunderbird/102.0/eoy/index.html:78
+#: website/thunderbird/102.0/eoy/index.html:82
 msgid "<strong>So today we’re asking you to help us out.</strong> If you get value from using Thunderbird, please consider giving a donation to support it!"
 msgstr ""
 "<strong>È per questo che oggi abbiamo deciso di chiedere il tuo aiuto.</strong> Se utilizzi e apprezzi Thunderbird, considera la possibilità di fare una donazione per supportare il nostro lavoro."
 
-#: website/thunderbird/102.0/eoy/index.html:94
+#: website/thunderbird/102.0/eoy/index.html:98
 msgid "The Thunderbird Team"
 msgstr "Il team di Thunderbird"
 
