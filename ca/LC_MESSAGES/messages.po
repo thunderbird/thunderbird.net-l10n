@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-12-06 12:25-0800\n"
+"POT-Creation-Date: 2023-01-24 15:30-0800\n"
 "PO-Revision-Date: 2020-08-10 11:53+0000\n"
 "Last-Translator: Jordi Serratosa <jordis@softcatala.cat>\n"
 "Language-Team: none\n"
@@ -270,6 +270,34 @@ msgstr "La vostra adreça electrònica"
 #: website/donate-mailing-list.html:38
 msgid "Sign me up!"
 msgstr "Subscriu-m'hi"
+
+#: website/donate-modal.html:36
+msgid "Pay What You Want"
+msgstr ""
+
+#: website/donate-modal.html:40
+msgid "Thunderbird is independent, free, and Open Source software sustained by your donations. Help us keep the project alive!"
+msgstr ""
+
+#: website/donate-modal.html:47
+msgid "No Thanks, Download Now!"
+msgstr ""
+
+#: website/donate-modal.html:62
+msgid "Secure"
+msgstr ""
+
+#: website/donate-modal.html:67
+msgid "Privacy Policy"
+msgstr ""
+
+#: website/donate-modal.html:72
+msgid "Other ways to donate"
+msgstr ""
+
+#: website/donate-modal.html:77
+msgid "FAQ"
+msgstr ""
 
 #: website/download-button.html:13 website/download-button.html:60 website/download/index.html:9 website/site-prefooter.html:59
 msgid "Download Thunderbird"
@@ -603,13 +631,9 @@ msgstr "La nostra comunitat"
 #, python-format
 msgid ""
 "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
-"to learn how you can participate on the Thunderbird team. We also have paid staff working full-time on Thunderbird, <a href=\"%(donate)s\">funded by donations</a> from our users. If you’re curious "
-"about who is working on Thunderbird, check out the <a href=\"%(core_team)s\">list of our core contributors</a>."
+"to learn how you can participate on the Thunderbird team. We also have paid staff working full-time on Thunderbird, <a href=\"%(donate)s\" data-donate-btn data-donate-content=\"about\">funded by "
+"donations</a> from our users. If you’re curious about who is working on Thunderbird, check out the <a href=\"%(core_team)s\">list of our core contributors</a>."
 msgstr ""
-"Hi ha un equip apassionat de voluntaris involucrats en el desenvolupament del Thunderbird i a ajudar els usuaris que agrairien la vostra participació. Doneu un cop d'ull a la <a "
-"href=\"%(volunteer)s\">pàgina Col·laboreu-hi</a> per conèixer com podeu participar en l'equip del Thunderbird. També tenim personal remunerat que treballa a temps complet en el Thunderbird, <a "
-"href=\"%(donate)s\">finançat per donacions</a> dels nostres usuaris. Si teniu curiositat sobre qui treballa en el Thunderbird, vegeu la <a href=\"%(core_team)s\">llista dels nostres col·laboradors "
-"principals</a>."
 
 #: website/about/index.html:69
 msgid "Thunderbird Council"
@@ -1620,3 +1644,13 @@ msgstr "Notes de cada versió del Thunderbird."
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Les notes de la versió del Thunderbird són específiques de cada versió de l'aplicació. Trieu la versió que voleu en la llista següent per veure'n les notes de la versió."
+
+#~ msgid ""
+#~ "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
+#~ "to learn how you can participate on the Thunderbird team. We also have paid staff working full-time on Thunderbird, <a href=\"%(donate)s\">funded by donations</a> from our users. If you’re curious "
+#~ "about who is working on Thunderbird, check out the <a href=\"%(core_team)s\">list of our core contributors</a>."
+#~ msgstr ""
+#~ "Hi ha un equip apassionat de voluntaris involucrats en el desenvolupament del Thunderbird i a ajudar els usuaris que agrairien la vostra participació. Doneu un cop d'ull a la <a "
+#~ "href=\"%(volunteer)s\">pàgina Col·laboreu-hi</a> per conèixer com podeu participar en l'equip del Thunderbird. També tenim personal remunerat que treballa a temps complet en el Thunderbird, <a "
+#~ "href=\"%(donate)s\">finançat per donacions</a> dels nostres usuaris. Si teniu curiositat sobre qui treballa en el Thunderbird, vegeu la <a href=\"%(core_team)s\">llista dels nostres col·laboradors "
+#~ "principals</a>."

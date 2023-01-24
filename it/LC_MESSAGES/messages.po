@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-12-06 12:25-0800\n"
+"POT-Creation-Date: 2023-01-24 15:30-0800\n"
 "PO-Revision-Date: 2022-12-07 06:59+0000\n"
 "Last-Translator: Francesco Lodolo [:flod] <flod+pontoon@mozilla.com>\n"
 "Language-Team: none\n"
@@ -267,6 +267,34 @@ msgstr "La tua email"
 #: website/donate-mailing-list.html:38
 msgid "Sign me up!"
 msgstr "Iscrivimi!"
+
+#: website/donate-modal.html:36
+msgid "Pay What You Want"
+msgstr ""
+
+#: website/donate-modal.html:40
+msgid "Thunderbird is independent, free, and Open Source software sustained by your donations. Help us keep the project alive!"
+msgstr ""
+
+#: website/donate-modal.html:47
+msgid "No Thanks, Download Now!"
+msgstr ""
+
+#: website/donate-modal.html:62
+msgid "Secure"
+msgstr ""
+
+#: website/donate-modal.html:67
+msgid "Privacy Policy"
+msgstr ""
+
+#: website/donate-modal.html:72
+msgid "Other ways to donate"
+msgstr ""
+
+#: website/donate-modal.html:77
+msgid "FAQ"
+msgstr ""
 
 #: website/download-button.html:13 website/download-button.html:60 website/download/index.html:9 website/site-prefooter.html:59
 msgid "Download Thunderbird"
@@ -584,13 +612,9 @@ msgstr "La nostra comunità"
 #, python-format
 msgid ""
 "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
-"to learn how you can participate on the Thunderbird team. We also have paid staff working full-time on Thunderbird, <a href=\"%(donate)s\">funded by donations</a> from our users. If you’re curious "
-"about who is working on Thunderbird, check out the <a href=\"%(core_team)s\">list of our core contributors</a>."
+"to learn how you can participate on the Thunderbird team. We also have paid staff working full-time on Thunderbird, <a href=\"%(donate)s\" data-donate-btn data-donate-content=\"about\">funded by "
+"donations</a> from our users. If you’re curious about who is working on Thunderbird, check out the <a href=\"%(core_team)s\">list of our core contributors</a>."
 msgstr ""
-"Lo sviluppo di Thunderbird e l’assistenza ai suoi utenti sono possibili anche grazie a un team di volontari appassionati, sempre entusiasti di accogliere nuovi collaboratori. Consulta la pagina <a "
-"href=\"%(volunteer)s\">Collabora con noi</a> per scoprire come puoi partecipare alle attività del team di Thunderbird. I volontari sono affiancati da dipendenti retribuiti che possono lavorare a "
-"tempo pieno su Thunderbird grazie ai <a href=\"%(donate)s\">fondi delle donazioni</a> elargite dagli utenti. Se sei curioso di conoscere le persone che realizzano Thunderbird, consulta la <a "
-"href=\"%(core_team)s\">lista dei principali collaboratori</a>."
 
 #: website/about/index.html:69
 msgid "Thunderbird Council"
@@ -877,8 +901,8 @@ msgid ""
 "If you installed the beta over the top of the release version (choice 2 above), then your process will be more complicated. Please consult this <a href=\"https://support.mozilla.org/kb/thunderbird-"
 "beta\">beta support article.</a>"
 msgstr ""
-"Se hai installato la versione beta sopra la versione ufficiale (opzione 2 tra quelle elencate sopra), il processo sarà un po’ più complicato. Consulta questo <a "
-"href=\"https://support.mozilla.org/kb/thunderbird-beta\">articolo di supporto per la versione beta.</a>"
+"Se hai installato la versione beta sopra la versione ufficiale (opzione 2 tra quelle elencate sopra), il processo sarà un po’ più complicato. Consulta questo <a href=\"https://support.mozilla.org/kb"
+"/thunderbird-beta\">articolo di supporto per la versione beta.</a>"
 
 #: website/download/beta/index.html:115
 msgid ""
@@ -1720,3 +1744,13 @@ msgstr "Note di versione per ciascuna versione di Thunderbird."
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Le note di versione variano a seconda della versione di Thunderbird. Seleziona la tua versione dalla lista per leggere le relative note di versione."
+
+#~ msgid ""
+#~ "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
+#~ "to learn how you can participate on the Thunderbird team. We also have paid staff working full-time on Thunderbird, <a href=\"%(donate)s\">funded by donations</a> from our users. If you’re curious "
+#~ "about who is working on Thunderbird, check out the <a href=\"%(core_team)s\">list of our core contributors</a>."
+#~ msgstr ""
+#~ "Lo sviluppo di Thunderbird e l’assistenza ai suoi utenti sono possibili anche grazie a un team di volontari appassionati, sempre entusiasti di accogliere nuovi collaboratori. Consulta la pagina <a "
+#~ "href=\"%(volunteer)s\">Collabora con noi</a> per scoprire come puoi partecipare alle attività del team di Thunderbird. I volontari sono affiancati da dipendenti retribuiti che possono lavorare a "
+#~ "tempo pieno su Thunderbird grazie ai <a href=\"%(donate)s\">fondi delle donazioni</a> elargite dagli utenti. Se sei curioso di conoscere le persone che realizzano Thunderbird, consulta la <a "
+#~ "href=\"%(core_team)s\">lista dei principali collaboratori</a>."

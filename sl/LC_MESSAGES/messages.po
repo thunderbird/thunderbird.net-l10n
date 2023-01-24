@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-12-06 12:25-0800\n"
+"POT-Creation-Date: 2023-01-24 15:30-0800\n"
 "PO-Revision-Date: 2022-12-21 18:40+0000\n"
 "Last-Translator: Lan Glad <upwinxp@gmail.com>\n"
 "Language-Team: none\n"
@@ -259,6 +259,34 @@ msgstr "Vaš e-poštni naslov"
 #: website/donate-mailing-list.html:38
 msgid "Sign me up!"
 msgstr "Prijavi me!"
+
+#: website/donate-modal.html:36
+msgid "Pay What You Want"
+msgstr ""
+
+#: website/donate-modal.html:40
+msgid "Thunderbird is independent, free, and Open Source software sustained by your donations. Help us keep the project alive!"
+msgstr ""
+
+#: website/donate-modal.html:47
+msgid "No Thanks, Download Now!"
+msgstr ""
+
+#: website/donate-modal.html:62
+msgid "Secure"
+msgstr ""
+
+#: website/donate-modal.html:67
+msgid "Privacy Policy"
+msgstr ""
+
+#: website/donate-modal.html:72
+msgid "Other ways to donate"
+msgstr ""
+
+#: website/donate-modal.html:77
+msgid "FAQ"
+msgstr ""
 
 #: website/download-button.html:13 website/download-button.html:60 website/download/index.html:9 website/site-prefooter.html:59
 msgid "Download Thunderbird"
@@ -580,12 +608,9 @@ msgstr "Naša skupnost"
 #, python-format
 msgid ""
 "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
-"to learn how you can participate on the Thunderbird team. We also have paid staff working full-time on Thunderbird, <a href=\"%(donate)s\">funded by donations</a> from our users. If you’re curious "
-"about who is working on Thunderbird, check out the <a href=\"%(core_team)s\">list of our core contributors</a>."
+"to learn how you can participate on the Thunderbird team. We also have paid staff working full-time on Thunderbird, <a href=\"%(donate)s\" data-donate-btn data-donate-content=\"about\">funded by "
+"donations</a> from our users. If you’re curious about who is working on Thunderbird, check out the <a href=\"%(core_team)s\">list of our core contributors</a>."
 msgstr ""
-"V razvoj Thunderbirda je vključena strastna skupina prostovoljcev, ki pomaga vsem uporabnikom, ki bi se radi pridružili. Oglejte si našo <a href=\"%(volunteer)s\">stran Pridružite se</a>, če želite "
-"izvedeti, kako lahko sodelujete v ekipi Thunderbird. V ekipi imamo tudi  zaposlene, ki delajo na Thunderbirdu in so <a href=\"%(donate)s\">, financirani s prispevki</a> naših uporabnikov. Če vas "
-"zanima, kdo sodeluje pri razvoju Thunderbirda, si oglejte <a href=\"%(core_team)s\">seznam naših glavnih sodelavcev</a>."
 
 #: website/about/index.html:69
 msgid "Thunderbird Council"
@@ -814,8 +839,8 @@ msgid ""
 "Thunderbird 102 and newer on Windows will install beta into its own program directory. For older versions on Windows consult the <a href=\"https://support.mozilla.org/en-US/kb/thunderbird-"
 "beta\">beta support article</a>. For other operating systems use an install method appropriate for your OS to target a uniquely named directory."
 msgstr ""
-"Thunderbird 102 in novejše različice v sistemu Windows namestijo beta različico v ločeno programsko mapo. O starejših različicah v sistemu Windows se poučite v <a "
-"href=\"https://support.mozilla.org/en-US/kb/thunderbird-beta\">tem članku s podporo</a>. V drugih operacijskih sistemih za namestitev v posebno mapo uporabite metodo, primerno sistemu."
+"Thunderbird 102 in novejše različice v sistemu Windows namestijo beta različico v ločeno programsko mapo. O starejših različicah v sistemu Windows se poučite v <a href=\"https://support.mozilla.org"
+"/en-US/kb/thunderbird-beta\">tem članku s podporo</a>. V drugih operacijskih sistemih za namestitev v posebno mapo uporabite metodo, primerno sistemu."
 
 #: website/download/beta/index.html:86
 msgid ""
@@ -1677,3 +1702,12 @@ msgstr "Opombe ob izdaji za vsako različico Thunderbirda."
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Vsaka različica programa ima svoje opombe ob izdaji. Na spodnjem seznamu izberite svojo različico, da si ogledate njene opombe ob izdaji."
+
+#~ msgid ""
+#~ "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
+#~ "to learn how you can participate on the Thunderbird team. We also have paid staff working full-time on Thunderbird, <a href=\"%(donate)s\">funded by donations</a> from our users. If you’re curious "
+#~ "about who is working on Thunderbird, check out the <a href=\"%(core_team)s\">list of our core contributors</a>."
+#~ msgstr ""
+#~ "V razvoj Thunderbirda je vključena strastna skupina prostovoljcev, ki pomaga vsem uporabnikom, ki bi se radi pridružili. Oglejte si našo <a href=\"%(volunteer)s\">stran Pridružite se</a>, če želite "
+#~ "izvedeti, kako lahko sodelujete v ekipi Thunderbird. V ekipi imamo tudi  zaposlene, ki delajo na Thunderbirdu in so <a href=\"%(donate)s\">, financirani s prispevki</a> naših uporabnikov. Če vas "
+#~ "zanima, kdo sodeluje pri razvoju Thunderbirda, si oglejte <a href=\"%(core_team)s\">seznam naših glavnih sodelavcev</a>."

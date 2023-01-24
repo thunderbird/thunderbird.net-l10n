@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-12-06 12:25-0800\n"
+"POT-Creation-Date: 2023-01-24 15:30-0800\n"
 "PO-Revision-Date: 2022-09-05 06:12+0000\n"
 "Last-Translator: 你我皆凡人 <yuanbingyan@mail.ee>\n"
 "Language-Team: none\n"
@@ -258,6 +258,34 @@ msgstr "您的电子邮件地址"
 #: website/donate-mailing-list.html:38
 msgid "Sign me up!"
 msgstr "我要订阅！"
+
+#: website/donate-modal.html:36
+msgid "Pay What You Want"
+msgstr ""
+
+#: website/donate-modal.html:40
+msgid "Thunderbird is independent, free, and Open Source software sustained by your donations. Help us keep the project alive!"
+msgstr ""
+
+#: website/donate-modal.html:47
+msgid "No Thanks, Download Now!"
+msgstr ""
+
+#: website/donate-modal.html:62
+msgid "Secure"
+msgstr ""
+
+#: website/donate-modal.html:67
+msgid "Privacy Policy"
+msgstr ""
+
+#: website/donate-modal.html:72
+msgid "Other ways to donate"
+msgstr ""
+
+#: website/donate-modal.html:77
+msgid "FAQ"
+msgstr ""
 
 #: website/download-button.html:13 website/download-button.html:60 website/download/index.html:9 website/site-prefooter.html:59
 msgid "Download Thunderbird"
@@ -570,11 +598,9 @@ msgstr "我们的社区"
 #, python-format
 msgid ""
 "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
-"to learn how you can participate on the Thunderbird team. We also have paid staff working full-time on Thunderbird, <a href=\"%(donate)s\">funded by donations</a> from our users. If you’re curious "
-"about who is working on Thunderbird, check out the <a href=\"%(core_team)s\">list of our core contributors</a>."
+"to learn how you can participate on the Thunderbird team. We also have paid staff working full-time on Thunderbird, <a href=\"%(donate)s\" data-donate-btn data-donate-content=\"about\">funded by "
+"donations</a> from our users. If you’re curious about who is working on Thunderbird, check out the <a href=\"%(core_team)s\">list of our core contributors</a>."
 msgstr ""
-"有一群充满激情的志愿者参与 Thunderbird 的开发并帮助用户使用，若您愿意参与亦不胜感激。欢迎查看<a href=\"%(volunteer)s\">参与进来</a>页面了解可协助 Thunderbird 团队做哪些工作。我们也雇佣了全职员工参与 Thunderbird 项目，并<a href=\"%(donate)s\">接受来自用户的捐款</a>。如果您对在 Thunderbird"
-" 团队工作的人感到好奇，请查看<a href=\"%(core_team)s\">我们的核心贡献者列表</a>。"
 
 #: website/about/index.html:69
 msgid "Thunderbird Council"
@@ -1537,3 +1563,11 @@ msgstr "每个版本的 Thunderbird 发行说明。"
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Thunderbird 每个版本均有发行说明。请从下方列表中选择您的版本，阅读该版本的发行说明。"
+
+#~ msgid ""
+#~ "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
+#~ "to learn how you can participate on the Thunderbird team. We also have paid staff working full-time on Thunderbird, <a href=\"%(donate)s\">funded by donations</a> from our users. If you’re curious "
+#~ "about who is working on Thunderbird, check out the <a href=\"%(core_team)s\">list of our core contributors</a>."
+#~ msgstr ""
+#~ "有一群充满激情的志愿者参与 Thunderbird 的开发并帮助用户使用，若您愿意参与亦不胜感激。欢迎查看<a href=\"%(volunteer)s\">参与进来</a>页面了解可协助 Thunderbird 团队做哪些工作。我们也雇佣了全职员工参与 Thunderbird 项目，并<a href=\"%(donate)s\">接受来自用户的捐款</a>。如果您对在 Thunderbird"
+#~ " 团队工作的人感到好奇，请查看<a href=\"%(core_team)s\">我们的核心贡献者列表</a>。"
