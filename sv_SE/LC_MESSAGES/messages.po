@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-02-06 10:19-0800\n"
-"PO-Revision-Date: 2023-02-06 19:05+0000\n"
+"PO-Revision-Date: 2023-02-06 19:12+0000\n"
 "Last-Translator: Andreas Pettersson <az@kth.se>\n"
 "Language-Team: none\n"
 "Language: sv_SE\n"
@@ -111,17 +111,19 @@ msgstr ""
 
 #: faq.py:54
 msgid "Is my gift tax deductible?"
-msgstr ""
+msgstr "Är min gåva avdragsgill?"
 
 #: faq.py:55
 msgid ""
 "Gifts to Thunderbird are not tax-deductible, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-platform email and calendaring client, free "
 "for business and personal use. Your gift will help ensure it stays that way, and will support future development."
 msgstr ""
+"Gåvor till Thunderbird är inte avdragsgilla, men är mycket uppskattade. Att ge till Thunderbird stödjer utvecklingen av vår ledande plattformsoberoende e-post- och kalenderklient med öppen källkod, "
+"gratis för företag och personligt bruk. Din gåva hjälper till att se till att den förblir så och kommer att stödja framtida utveckling."
 
 #: faq.py:58
 msgid "How do I cancel or change my recurring gift?"
-msgstr ""
+msgstr "Hur avbryter eller ändrar jag min återkommande gåva?"
 
 #: faq.py:59
 #, python-format
@@ -130,10 +132,13 @@ msgid ""
 "card, please contact the Donor Care team <a href=\"%(help)s\">via this form</a>. Please include the email address and name you used to make your donation, and they’ll try to help you within two "
 "business days."
 msgstr ""
+"Om du använde PayPal för att skapa en återkommande gåva måste du <a href=\"%(paypal)s\">logga in på ditt PayPal-konto</a> för att göra ändringar eller för att avbryta. Om du gjorde en månadsgåva med"
+" ditt kreditkort, vänligen kontakta Donor Care-teamet <a href=\"%(help)s\">via det här formuläret</a>. Vänligen inkludera e-postadressen och namnet du använde för att göra din donation, så kommer de"
+" att försöka hjälpa dig inom två arbetsdagar."
 
 #: faq.py:63
 msgid "Who can I email directly with questions about giving?"
-msgstr ""
+msgstr "Vem kan jag mejla till med frågor om att donera?"
 
 #: faq.py:64
 #, python-format
@@ -141,6 +146,8 @@ msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. We will do our best to follow-up with you as soon as we can. If you need technical "
 "support, please head over to <a href=\"%(support)s\">Thunderbird Support</a> for assistance."
 msgstr ""
+"Om du har en fråga om att donera till Thunderbird, vänligen kontakta oss via <a href=\"%(help)s\">det här formuläret</a>. Vi kommer att göra vårt bästa för att följa upp dig så snart vi kan. Om du "
+"behöver teknisk support, gå till <a href=\"%(support)s\">Thunderbird Support</a> för hjälp."
 
 #: start-page/beta/index.html:8
 msgid "Welcome to <div class=\"tb-text\">Thunderbird <small class=\"beta-text\">Beta</small></div>"
@@ -608,35 +615,36 @@ msgstr "Skapa en Pull Request eller arkivera en fråga i <a href=\"%(contribute_
 
 #: website/donate/index.html:7
 msgid "Give to Thunderbird"
-msgstr ""
+msgstr "Donera till Thunderbird"
 
 #: website/donate/index.html:17
 msgid "Support Thunderbird"
-msgstr ""
+msgstr "Stöd Thunderbird"
 
 #: website/donate/index.html:20 website/donate/index.html:57
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Vanliga frågor"
 
 #: website/donate/index.html:23 website/donate/index.html:70
 msgid "Other Ways to Give"
-msgstr ""
+msgstr "Andra sätt att donera"
 
 #: website/donate/index.html:36
 msgid "Support Thunderbird!"
-msgstr ""
+msgstr "Stöd Thunderbird!"
 
 #: website/donate/index.html:38
 msgid "Thunderbird is funded by users like you."
-msgstr ""
+msgstr "Thunderbird finansieras av användare som du."
 
 #: website/donate/index.html:43
 msgid "Our mission is to provide an open source email app that is secure, private and free for users around the world. Your donations support this work. Will you give today?"
 msgstr ""
+"Vårt uppdrag är att tillhandahålla en e-postapp med öppen källkod som är säker, privat och gratis för användare över hela världen. Dina donationer stöder detta arbete. Kommer du att donera idag?"
 
 #: website/donate/index.html:46
 msgid "Contributions are not tax-deductible as charitable donations."
-msgstr ""
+msgstr "Bidrag är inte avdragsgilla som donationer till välgörenhet."
 
 #: website/download/index.html:9 website/includes/download-button.html:13 website/includes/download-button.html:60 website/includes/site-prefooter.html:59
 msgid "Download Thunderbird"
@@ -1168,7 +1176,7 @@ msgstr "Thunderbird är oberoende, gratis och öppen källkodsmjukvara som uppr�
 
 #: website/includes/donate-modal.html:50
 msgid "Donate & Download"
-msgstr ""
+msgstr "Donera och ladda ner"
 
 #: website/includes/donate-modal.html:53
 msgid "No Thanks, Download Now!"
@@ -1363,25 +1371,31 @@ msgstr "Hämta Daily"
 
 #: website/includes/ways-to-give.html:6
 msgid "Bank Transfer / SEPA"
-msgstr ""
+msgstr "Banköverföring / SEPA"
 
 #: website/includes/ways-to-give.html:7
 msgid ""
 "We accept contributions in Euros through Single European Payment Area (SEPA)\n"
 "    transfer, and British Pounds through BACS transfer."
 msgstr ""
+"Vi accepterar bidrag i euro genom SEPA-överföring (Single European Payment Area)\n"
+"  och brittiska pund genom BACS-överföring."
 
 #: website/includes/ways-to-give.html:9
 msgid ""
 "Please note that for smaller (under 10 EUR or equivalent) contributions, we request that you contribute via credit card or PayPal to\n"
 "    help reduce our processing fees."
 msgstr ""
+"Observera att för mindre (under 10 EUR eller motsvarande) bidrag ber vi dig att bidra via kreditkort eller PayPal\n"
+"  för att hjälpa till att minska våra behandlingsavgifter."
 
 #: website/includes/ways-to-give.html:11
 msgid ""
 "If your bank requests our physical address, it is 2 Harrison Street, Suite 175, San\n"
 "    Francisco, CA 94105 USA."
 msgstr ""
+"Om din bank begär vår fysiska adress är det 2 Harrison Street, Suite 175,\n"
+"  San Francisco, CA 94105 USA."
 
 #: website/includes/ways-to-give.html:16
 msgid "Euros:"
