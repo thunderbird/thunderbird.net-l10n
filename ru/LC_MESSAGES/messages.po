@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-01-24 15:30-0800\n"
+"POT-Creation-Date: 2023-02-06 10:19-0800\n"
 "PO-Revision-Date: 2023-01-26 15:19+0000\n"
 "Last-Translator: Темак <artemkotlubai@yandex.ru>\n"
 "Language-Team: none\n"
@@ -19,6 +19,122 @@ msgstr ""
 "Generated-By: Babel 2.5.3\n"
 "X-Generator: Pontoon\n"
 
+#: faq.py:14
+msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
+msgstr ""
+
+#: faq.py:15
+msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a wholly owned subsidiary of Mozilla Foundation."
+msgstr ""
+
+#: faq.py:18
+msgid "What are the ways I can give?"
+msgstr ""
+
+#: faq.py:19
+#, python-format
+msgid "<a href=\"%(url)s\">Visit this link to make a secure online donation right now via credit card or PayPal.</a>"
+msgstr ""
+
+#: faq.py:23
+msgid "Why do you need my address in order to process a gift?"
+msgstr ""
+
+#: faq.py:24
+#, python-format
+msgid ""
+"We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
+" to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
+"href=\"%(url)s\">Privacy Policy</a>. If you would rather not fill in your information on our online form, you can mail us a <a href=\"%(check)s\">check</a>."
+msgstr ""
+
+#: faq.py:28
+msgid "Can I give bitcoin?"
+msgstr ""
+
+#: faq.py:29
+msgid "We are not currently accepting bitcoin."
+msgstr ""
+
+#: faq.py:32
+msgid "How can I turn off the appeal on the Thunderbird start page?"
+msgstr ""
+
+#: faq.py:33
+#, python-format
+msgid "To learn how to customize your start page please visit:<br/><a href=\"%(url)s\">%(url)s</a>"
+msgstr ""
+
+#: faq.py:37
+msgid "How will my gift be used?"
+msgstr ""
+
+#: faq.py:38
+msgid ""
+"Thunderbird is the leading open source cross-platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future "
+"development."
+msgstr ""
+
+#: faq.py:41
+msgid "Doesn’t Thunderbird earn income?"
+msgstr ""
+
+#: faq.py:42
+msgid "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird."
+msgstr ""
+
+#: faq.py:45
+msgid "Who gives to Thunderbird?"
+msgstr ""
+
+#: faq.py:46
+msgid "Anyone can give, companies and individuals, to support development of the product now and in the future."
+msgstr ""
+
+#: faq.py:49
+msgid "Does my gift give me access to tech support?"
+msgstr ""
+
+#: faq.py:50
+#, python-format
+msgid ""
+"Anyone can access tech support for Thunderbird by visiting the <a href=\"%(url)s\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial "
+"gifts."
+msgstr ""
+
+#: faq.py:54
+msgid "Is my gift tax deductible?"
+msgstr ""
+
+#: faq.py:55
+msgid ""
+"Gifts to Thunderbird are not tax-deductible, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-platform email and calendaring client, free "
+"for business and personal use. Your gift will help ensure it stays that way, and will support future development."
+msgstr ""
+
+#: faq.py:58
+msgid "How do I cancel or change my recurring gift?"
+msgstr ""
+
+#: faq.py:59
+#, python-format
+msgid ""
+"If you used PayPal to set up a recurring gift, you’ll need to <a href=\"%(paypal)s\">log in to your PayPal account</a> to make changes or to cancel. If you made a monthly gift using your credit "
+"card, please contact the Donor Care team <a href=\"%(help)s\">via this form</a>. Please include the email address and name you used to make your donation, and they’ll try to help you within two "
+"business days."
+msgstr ""
+
+#: faq.py:63
+msgid "Who can I email directly with questions about giving?"
+msgstr ""
+
+#: faq.py:64
+#, python-format
+msgid ""
+"If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. We will do our best to follow-up with you as soon as we can. If you need technical "
+"support, please head over to <a href=\"%(support)s\">Thunderbird Support</a> for assistance."
+msgstr ""
+
 #: start-page/beta/index.html:8
 msgid "Welcome to <div class=\"tb-text\">Thunderbird <small class=\"beta-text\">Beta</small></div>"
 msgstr "Добро пожаловать в <div class=\"tb-text\">Thunderbird <small class=\"beta-text\">Бета</small></div>"
@@ -27,8 +143,8 @@ msgstr "Добро пожаловать в <div class=\"tb-text\">Thunderbird <s
 msgid "Support us!"
 msgstr "Поддержите нас!"
 
-#: start-page/beta/index.html:22 start-page/release/index.html:22 start-page/release/index.html:37 website/base-resp.html:28 website/base-resp.html:52 website/donate-mailing-list.html:17
-#: website/thunderbird/102.0/whatsnew/index.html:24 website/thunderbird/91.0/whatsnew/index.html:22
+#: start-page/beta/index.html:22 start-page/release/index.html:22 start-page/release/index.html:37 website/includes/base-resp.html:30 website/includes/base-resp.html:54
+#: website/includes/donate-mailing-list.html:17 website/thunderbird/102.0/whatsnew/index.html:25 website/thunderbird/91.0/whatsnew/index.html:22
 msgid "Donate"
 msgstr "Пожертвовать"
 
@@ -88,7 +204,8 @@ msgstr ""
 "Хотите помочь?  Вам не нужно быть экспертом, чтобы помогать другим пользователям или вносить предложения по улучшению программы! Присоединяйтесь к нам в этом проекте с открытым исходным кодом, где "
 "каждый может принять участие в сообществе Thunderbird (вам не нужно быть экспертом или уметь программировать)."
 
-#: start-page/beta/index.html:75 start-page/release/index.html:49 website/base-resp.html:39 website/site-footer.html:15 website/site-prefooter.html:9 website/site-prefooter.html:12
+#: start-page/beta/index.html:75 start-page/release/index.html:49 website/includes/base-resp.html:41 website/includes/site-footer.html:15 website/includes/site-prefooter.html:9
+#: website/includes/site-prefooter.html:12
 msgid "Get Involved"
 msgstr "Принять участие"
 
@@ -144,7 +261,7 @@ msgstr "Сообщить"
 msgid "Think you’ve found a new problem or rough edge? Create a bug report so we can make sure it gets solved, resulting in a better Thunderbird experience for all."
 msgstr "Считаете, что нашли новую проблему или недочёт? Создайте сообщение об ошибке, чтобы мы это устранили, что сделает работу с Thunderbird лучше для всех."
 
-#: start-page/beta/index.html:121 start-page/release/index.html:85 website/site-prefooter.html:24
+#: start-page/beta/index.html:121 start-page/release/index.html:85 website/includes/site-prefooter.html:24
 msgid "Report a Bug"
 msgstr "Сообщить об ошибке"
 
@@ -200,8 +317,10 @@ msgstr "Вопросы? Проблемы?"
 msgid "If Crash Reporter appears when Thunderbird crashes, please provide as many details as possible to help developers."
 msgstr "Если появляется окно «Сообщения о падении» при падении Thunderbird, предоставьте как можно больше сведений, чтобы помочь разработчикам."
 
-#: website/404.html:7 website/base-resp.html:20 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/index.html:8 website/index.html:149
-#: website/index.html:168 website/site-footer.html:4 website/site-footer.html:48 website/site-footer.html:55 website/site-footer.html:62 website/site-prefooter.html:51 website/site-prefooter.html:54
+#: website/404.html:7 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/includes/base-resp.html:20 website/includes/bedrock/base-resp.html:19
+#: website/includes/site-footer.html:4 website/includes/site-footer.html:48 website/includes/site-footer.html:55 website/includes/site-footer.html:62 website/includes/site-prefooter.html:51
+#: website/includes/site-prefooter.html:54 website/index.html:8 website/index.html:149 website/index.html:168 website/newsletter/index.html:43 website/newsletter/index.html:50
+#: website/newsletter/index.html:57
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
@@ -218,121 +337,11 @@ msgstr "Страница, которую вы ищете, не существу�
 msgid "Empty nest"
 msgstr "Пустое гнездо"
 
-#: website/base-resp.html:20 website/site-footer.html:5
-msgid "Thunderbird Vector Wordmark"
-msgstr "Векторный товарный знак Thunderbird"
-
-#: website/base-resp.html:33
-msgid "Features"
-msgstr "Возможности"
-
-#: website/base-resp.html:36 website/download/beta/index.html:62
-msgid "Add-ons"
-msgstr "Дополнения"
-
-#: website/base-resp.html:42 website/site-footer.html:21
-msgid "Get Help"
-msgstr "Получить помощь"
-
-#: website/about/index.html:7 website/base-resp.html:45 website/site-footer.html:27
-msgid "About Us"
-msgstr "О нас"
-
-#: website/base-resp.html:48 website/site-footer.html:24
-msgid "Blog"
-msgstr "Блог"
-
-#: website/donate-mailing-list.html:11
-msgid "Thunderbird is funded by users like you"
-msgstr "Thunderbird финансируется такими пользователями, как вы"
-
-#: website/donate-mailing-list.html:14 website/thunderbird/91.0/whatsnew/index.html:17
-msgid "Thunderbird is both free and freedom respecting, but we’re also completely funded by donations! Help us sustain the project and continue to improve."
-msgstr "Thunderbird — свободен и уважает свободу, а также полностью финансируется за счёт пожертвований! Помогите нам продолжать совершенствоваться, поддержав проект."
-
-#: website/donate-mailing-list.html:26
-msgid "Join our Newsletter"
-msgstr "Подпишитесь на нашу рассылку"
-
-#: website/donate-mailing-list.html:29
-msgid "Keep up with the latest and greatest updates on news, features, events, and previews, and get a sneak peek on the upcoming releases."
-msgstr "Будьте в курсе последних новостей, новых функций и событий, а также узнавайте о предстоящих выпусках."
-
-#: website/donate-mailing-list.html:36
-msgid "Your Email"
-msgstr "Ваш адрес эл. почты"
-
-#: website/donate-mailing-list.html:38
-msgid "Sign me up!"
-msgstr "Подписаться!"
-
-#: website/donate-modal.html:36
-msgid "Pay What You Want"
-msgstr "Платите сколько хотите"
-
-#: website/donate-modal.html:40
-msgid "Thunderbird is independent, free, and Open Source software sustained by your donations. Help us keep the project alive!"
-msgstr "Thunderbird — это независимое бесплатное программное обеспечение с открытым исходным кодом, поддерживаемое за счёт ваших пожертвований. Помогите нам сохранить проект!"
-
-#: website/donate-modal.html:47
-msgid "No Thanks, Download Now!"
-msgstr "Нет, спасибо, загрузить сейчас!"
-
-#: website/donate-modal.html:62
-msgid "Secure"
-msgstr "Безопасный"
-
-#: website/donate-modal.html:67
-msgid "Privacy Policy"
-msgstr "Политика конфиденциальности"
-
-#: website/donate-modal.html:72
-msgid "Other ways to donate"
-msgstr "Другие способы пожертвований"
-
-#: website/donate-modal.html:77
-msgid "FAQ"
-msgstr "ЧАВО"
-
-#: website/download-button.html:13 website/download-button.html:60 website/download/index.html:9 website/site-prefooter.html:59
-msgid "Download Thunderbird"
-msgstr "Загрузить Thunderbird"
-
-#: website/download-button.html:38
-#, python-format
-msgid "Your system doesn't meet the <a href=\"%(url)s\">requirements</a> to run Thunderbird."
-msgstr "Ваша система не удовлетворяет <a href=\"%(url)s\">требованиям</a> для запуска Thunderbird."
-
-#: website/download-button.html:41
-#, python-format
-msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
-msgstr "Пожалуйста, следуйте <a href=\"%(url)s\">этим инструкциям</a>, чтобы установить Thunderbird."
-
-#: website/download-button.html:56 website/download/beta/index.html:7 website/site-prefooter.html:66
-msgid "Thunderbird Beta"
-msgstr "Thunderbird Бета"
-
-#: website/download-button.html:58 website/site-prefooter.html:81 website/site-prefooter.html:84
-msgid "Thunderbird Daily"
-msgstr "Thunderbird Daily"
-
-#: website/download-button.html:69
-msgid "Systems &amp; Languages"
-msgstr "Другие системы и языки"
-
-#: website/download-button.html:70
-msgid "What’s New"
-msgstr "Что нового"
-
-#: website/download-button.html:72 website/site-footer.html:81
-msgid "Privacy"
-msgstr "Приватность"
-
 #: website/index.html:9
 msgid "Make Email Easier."
 msgstr "Делает электронную почту проще."
 
-#: website/index.html:10 website/site-prefooter.html:56
+#: website/includes/site-prefooter.html:56 website/index.html:10
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
 msgstr "Thunderbird — это бесплатная почтовая программа, лёгкая в установке и настройке — и имеющая множество великолепных возможностей!"
 
@@ -432,148 +441,9 @@ msgstr "Исследуйте дополнения"
 msgid "Mozilla"
 msgstr "Mozilla"
 
-#: website/lang_switcher.html:10
-msgid "Page language:"
-msgstr "Язык страницы:"
-
-#: website/lang_switcher.html:12
-msgid "Other languages:"
-msgstr "Другие языки:"
-
-#: website/lang_switcher.html:30
-msgid "Go"
-msgstr "Перейти"
-
-#: website/site-footer.html:12
-msgid "For Organizations"
-msgstr "Для организаций"
-
-#: website/site-footer.html:18
-msgid "Careers"
-msgstr "Вакансии"
-
-#: website/site-footer.html:30
-msgid "Contact Us"
-msgstr "Обратная связь"
-
-#: website/site-footer.html:38
-#, python-format
-msgid "Follow %(twitter)s on Twitter"
-msgstr "Подпишитесь на %(twitter)s в Twitter"
-
-#: website/site-footer.html:52
-#, python-format
-msgid "Follow %(youtube)s on YouTube"
-msgstr "Подпишитесь на %(youtube)s на YouTube"
-
-#: website/site-footer.html:59
-#, python-format
-msgid "Follow %(linkedin)s on LinkedIn"
-msgstr "Подпишитесь на %(linkedin)s в LinkedIn"
-
-#: website/site-footer.html:66
-#, python-format
-msgid "Follow %(mastodon)s on Mastodon"
-msgstr "Подпишитесь на %(mastodon)s на Mastodon"
-
-#: website/site-footer.html:84
-msgid "Cookies"
-msgstr "Куки"
-
-#: website/site-footer.html:88
-msgid "Legal"
-msgstr "Юридическая информация"
-
-#: website/site-footer.html:92
-msgid "Participation Guidelines"
-msgstr "Условия участия"
-
-#: website/site-footer.html:96
-msgid "Report Trademark or Copyright Infringement"
-msgstr "Сообщить о нарушении авторских прав или прав на товарный знак"
-
-#: website/site-footer.html:100
-msgid "Report Misuse of Thunderbird Trademark"
-msgstr "Сообщить о злоупотреблении товарным знаком Thunderbird"
-
-#: website/site-footer.html:105
-#, python-format
-msgid ""
-"Thunderbird is now part of\n"
-"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
-"      a wholly owned subsidiary of Mozilla Foundation.\n"
-"      Portions of this content are ©1998–%(current_year)s by individual\n"
-"      contributors. Content available under\n"
-"      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
-msgstr ""
-"Thunderbird теперь является частью <a href=\"%(mzla)s\" class=\"inline-link\">Корпорации MZLA Technologies</a>, полностью дочерней компании Mozilla Foundation. Части этого содержимого созданы "
-"отдельными участниками ©1998–%(current_year)s. Содержимое доступно на условиях <a href=\"%(url)s\" class=\"inline-link\">лицензии Creative Commons</a>."
-
-#: website/site-footer.html:116
-msgid "Contribute to this site"
-msgstr "Внести вклад в этот сайт"
-
-#: website/site-footer.html:119
-msgid "Translate this site"
-msgstr "Перевести этот сайт"
-
-#: website/site-prefooter.html:14
-msgid "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users."
-msgstr ""
-"Thunderbird является проектом с открытым исходным кодом, а это значит, что любой может помогать, предлагая идеи, улучшения дизайна, совершенствования кода, и помогая другим пользователям решать "
-"проблемы."
-
-#: website/site-prefooter.html:17
-msgid "Join Us"
-msgstr "Присоединитесь к нам"
-
-#: website/site-prefooter.html:20
-msgid "Make a Donation"
-msgstr "Сделать пожертвование"
-
-#: website/calendar/index.html:48 website/site-prefooter.html:22
-msgid "Get Support"
-msgstr "Получить поддержку"
-
-#: website/site-prefooter.html:37
-msgid "Release Channel"
-msgstr "Канал Release"
-
-#: website/site-prefooter.html:40
-msgid "Beta Channel"
-msgstr "Канал Beta"
-
-#: website/site-prefooter.html:43
-msgid "Daily Channel"
-msgstr "Канал Daily"
-
-#: website/site-prefooter.html:69
-msgid "The Future of Thunderbird"
-msgstr "Будущее Thunderbird"
-
-#: website/site-prefooter.html:71
-msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
-msgstr "Испытайте передовые возможности. Отправляйте отзывы, чтобы помочь усовершенствовать и отполировать то, что войдёт в финальную версию."
-
-#: website/download/beta/index.html:32 website/site-prefooter.html:74
-msgid "Download Beta"
-msgstr "Загрузить Бету"
-
-#: website/site-prefooter.html:86
-msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Daily channel."
-msgstr "Помогите нам в тестировании ежедневных наработок кода Thunderbird, используя канал обновлений нестабильной Daily."
-
-#: website/site-prefooter.html:90
-msgid "WARNING!"
-msgstr "ПРЕДУПРЕЖДЕНИЕ!"
-
-#: website/site-prefooter.html:92
-msgid "Daily is an unstable testing and development platform, make sure you back up important data regularly!"
-msgstr "Daily — это нестабильная платформа для тестирования и разработки. Убедитесь, что вы регулярно делаете резервные копии важных данных!"
-
-#: website/site-prefooter.html:95
-msgid "Download Daily"
-msgstr "Загрузить Daily"
+#: website/about/index.html:7 website/includes/base-resp.html:47 website/includes/site-footer.html:27
+msgid "About Us"
+msgstr "О нас"
 
 #: website/about/index.html:22
 msgid "What is Thunderbird?"
@@ -648,6 +518,10 @@ msgid ""
 msgstr ""
 "Организуйте своё расписание и важные события жизни в календаре, который полностью интегрирован с вашей электронной почтой Thunderbird. Управляйте несколькими календарями, создавайте ежедневные "
 "списки дел, приглашайте друзей на события и подписывайтесь на публичные календари."
+
+#: website/calendar/index.html:48 website/includes/site-prefooter.html:22
+msgid "Get Support"
+msgstr "Получить поддержку"
 
 #: website/calendar/index.html:50
 msgid "Need help with Lightning?"
@@ -730,9 +604,49 @@ msgstr "Щёлкните правой кнопкой мыши по этому к
 msgid "Create a Pull Request or file an Issue on the <a href=\"%(contribute_url)s\">website repository</a> and attach your holiday file."
 msgstr "Создайте Pull Request или Issue в <a href=\"%(contribute_url)s\">репозитории веб-сайта</a> и приложите ваш файл праздников."
 
+#: website/donate/index.html:7
+msgid "Give to Thunderbird"
+msgstr ""
+
+#: website/donate/index.html:17
+msgid "Support Thunderbird"
+msgstr ""
+
+#: website/donate/index.html:20 website/donate/index.html:57
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: website/donate/index.html:23 website/donate/index.html:70
+msgid "Other Ways to Give"
+msgstr ""
+
+#: website/donate/index.html:36
+msgid "Support Thunderbird!"
+msgstr ""
+
+#: website/donate/index.html:38
+msgid "Thunderbird is funded by users like you."
+msgstr ""
+
+#: website/donate/index.html:43
+msgid "Our mission is to provide an open source email app that is secure, private and free for users around the world. Your donations support this work. Will you give today?"
+msgstr ""
+
+#: website/donate/index.html:46
+msgid "Contributions are not tax-deductible as charitable donations."
+msgstr ""
+
+#: website/download/index.html:9 website/includes/download-button.html:13 website/includes/download-button.html:60 website/includes/site-prefooter.html:59
+msgid "Download Thunderbird"
+msgstr "Загрузить Thunderbird"
+
 #: website/download/index.html:10
 msgid "Your download should begin automatically. Didn’t work? Try the button below!"
 msgstr "Ваша загрузка должна начаться автоматически. Не работает? Попробуйте нажать кнопку ниже!"
+
+#: website/download/beta/index.html:7 website/includes/download-button.html:56 website/includes/site-prefooter.html:66
+msgid "Thunderbird Beta"
+msgstr "Thunderbird Бета"
 
 #: website/download/beta/index.html:15 website/download/beta/index.html:36
 msgid "Should I use Beta?"
@@ -749,6 +663,10 @@ msgstr "Как мне вернуться к обычной версии выпу
 #: website/download/beta/index.html:24 website/download/beta/index.html:128
 msgid "Resources and Assistance"
 msgstr "Ресурсы и помощь"
+
+#: website/download/beta/index.html:32 website/includes/site-prefooter.html:74
+msgid "Download Beta"
+msgstr "Загрузить Бету"
 
 #: website/download/beta/index.html:43
 msgid ""
@@ -781,8 +699,8 @@ msgid ""
 "New features may be incomplete works in progress, because some are completed and polished over a period of weeks. The <a href=\"https://thunderbird.topicbox.com/groups/beta\">beta forum</a> may "
 "provide more information on feature progress."
 msgstr ""
-"Разработка новых функций может быть не завершена, потому что некоторые из них дорабатываются и оттачиваются в течение нескольких недель. На <a "
-"href=\"https://thunderbird.topicbox.com/groups/beta\">бета-форуме</a> может находиться дополнительная информация о процессе разработки функций."
+"Разработка новых функций может быть не завершена, потому что некоторые из них дорабатываются и оттачиваются в течение нескольких недель. На <a href=\"https://thunderbird.topicbox.com/groups/beta"
+"\">бета-форуме</a> может находиться дополнительная информация о процессе разработки функций."
 
 #: website/download/beta/index.html:53
 msgid ""
@@ -827,6 +745,10 @@ msgstr ""
 "Если у вас есть <a href=\"https://support.mozilla.org/kb/organize-your-messages-using-filters\">почтовые фильтры</a>, которые, например, перемещают почту в локальные папки, вы должны решить, где "
 "запускать фильтры - в вашем бета-профиле или другом вашем профиле."
 
+#: website/download/beta/index.html:62 website/includes/base-resp.html:38
+msgid "Add-ons"
+msgstr "Дополнения"
+
 #: website/download/beta/index.html:64
 msgid ""
 "Add-on authors are not obligated to make their add-ons work in beta. Some or all of your add-ons may not work. Or if they do work today, they may not work tomorrow. Consult the <a "
@@ -849,8 +771,8 @@ msgid ""
 "Thunderbird 102 and newer on Windows will install beta into its own program directory. For older versions on Windows consult the <a href=\"https://support.mozilla.org/en-US/kb/thunderbird-"
 "beta\">beta support article</a>. For other operating systems use an install method appropriate for your OS to target a uniquely named directory."
 msgstr ""
-"Thunderbird 102 и новее в Windows будут устанавливать бета-версию в собственную программную папку. По более старым версиям для Windows прочитайте <a href=\"https://support.mozilla.org/en-"
-"US/kb/thunderbird-beta\">статью поддержки бета-тестирования</a>. Для других операционных систем используйте метод установки, подходящий для вашей ОС, чтобы указать папку с уникальным именем."
+"Thunderbird 102 и новее в Windows будут устанавливать бета-версию в собственную программную папку. По более старым версиям для Windows прочитайте <a href=\"https://support.mozilla.org/en-US/kb"
+"/thunderbird-beta\">статью поддержки бета-тестирования</a>. Для других операционных систем используйте метод установки, подходящий для вашей ОС, чтобы указать папку с уникальным именем."
 
 #: website/download/beta/index.html:86
 msgid ""
@@ -1208,6 +1130,330 @@ msgstr ""
 "сообщество экспертов помогают обеспечить повышенную безопасность и быстрое обновление продуктов, а также позволяет пользоваться лучшими сторонними технологиями выявления уязвимостей и инструментами "
 "оценки для дальнейшего укрепления общей безопасности."
 
+#: website/includes/base-resp.html:20 website/includes/base-resp.html:22 website/includes/site-footer.html:5 website/includes/site-footer.html:6
+msgid "Thunderbird Vector Wordmark"
+msgstr "Векторный товарный знак Thunderbird"
+
+#: website/includes/base-resp.html:35
+msgid "Features"
+msgstr "Возможности"
+
+#: website/includes/base-resp.html:44 website/includes/site-footer.html:21
+msgid "Get Help"
+msgstr "Получить помощь"
+
+#: website/includes/base-resp.html:50 website/includes/site-footer.html:24
+msgid "Blog"
+msgstr "Блог"
+
+#: website/includes/donate-mailing-list.html:11
+msgid "Thunderbird is funded by users like you"
+msgstr "Thunderbird финансируется такими пользователями, как вы"
+
+#: website/includes/donate-mailing-list.html:14 website/thunderbird/91.0/whatsnew/index.html:17
+msgid "Thunderbird is both free and freedom respecting, but we’re also completely funded by donations! Help us sustain the project and continue to improve."
+msgstr "Thunderbird — свободен и уважает свободу, а также полностью финансируется за счёт пожертвований! Помогите нам продолжать совершенствоваться, поддержав проект."
+
+#: website/includes/donate-mailing-list.html:26 website/newsletter/index.html:10
+msgid "Join our Newsletter"
+msgstr "Подпишитесь на нашу рассылку"
+
+#: website/includes/donate-mailing-list.html:29
+msgid "Keep up with the latest and greatest updates on news, features, events, and previews, and get a sneak peek on the upcoming releases."
+msgstr "Будьте в курсе последних новостей, новых функций и событий, а также узнавайте о предстоящих выпусках."
+
+#: website/includes/donate-modal.html:36
+msgid "Pay What You Want"
+msgstr "Платите сколько хотите"
+
+#: website/includes/donate-modal.html:40
+msgid "Thunderbird is independent, free, and Open Source software sustained by your donations. Help us keep the project alive!"
+msgstr "Thunderbird — это независимое бесплатное программное обеспечение с открытым исходным кодом, поддерживаемое за счёт ваших пожертвований. Помогите нам сохранить проект!"
+
+#: website/includes/donate-modal.html:50
+msgid "Donate & Download"
+msgstr ""
+
+#: website/includes/donate-modal.html:53
+msgid "No Thanks, Download Now!"
+msgstr "Нет, спасибо, загрузить сейчас!"
+
+#: website/includes/donate-modal.html:68
+msgid "Secure"
+msgstr "Безопасный"
+
+#: website/includes/donate-modal.html:73
+msgid "Privacy Policy"
+msgstr "Политика конфиденциальности"
+
+#: website/includes/donate-modal.html:78
+msgid "Other ways to donate"
+msgstr "Другие способы пожертвований"
+
+#: website/includes/donate-modal.html:83
+msgid "FAQ"
+msgstr "ЧАВО"
+
+#: website/includes/download-button.html:38
+#, python-format
+msgid "Your system doesn't meet the <a href=\"%(url)s\">requirements</a> to run Thunderbird."
+msgstr "Ваша система не удовлетворяет <a href=\"%(url)s\">требованиям</a> для запуска Thunderbird."
+
+#: website/includes/download-button.html:41
+#, python-format
+msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
+msgstr "Пожалуйста, следуйте <a href=\"%(url)s\">этим инструкциям</a>, чтобы установить Thunderbird."
+
+#: website/includes/download-button.html:58 website/includes/site-prefooter.html:81 website/includes/site-prefooter.html:84
+msgid "Thunderbird Daily"
+msgstr "Thunderbird Daily"
+
+#: website/includes/download-button.html:69
+msgid "Systems &amp; Languages"
+msgstr "Другие системы и языки"
+
+#: website/includes/download-button.html:70
+msgid "What’s New"
+msgstr "Что нового"
+
+#: website/includes/download-button.html:72 website/includes/site-footer.html:81
+msgid "Privacy"
+msgstr "Приватность"
+
+#: website/includes/lang_switcher.html:10
+msgid "Page language:"
+msgstr "Язык страницы:"
+
+#: website/includes/lang_switcher.html:12
+msgid "Other languages:"
+msgstr "Другие языки:"
+
+#: website/includes/lang_switcher.html:30
+msgid "Go"
+msgstr "Перейти"
+
+#: website/includes/newsletter-form.html:6
+msgid "Your Email"
+msgstr "Ваш адрес эл. почты"
+
+#: website/includes/newsletter-form.html:7
+msgid "Sign me up!"
+msgstr "Подписаться!"
+
+#: website/includes/site-footer.html:12
+msgid "For Organizations"
+msgstr "Для организаций"
+
+#: website/includes/site-footer.html:18
+msgid "Careers"
+msgstr "Вакансии"
+
+#: website/includes/site-footer.html:30
+msgid "Contact Us"
+msgstr "Обратная связь"
+
+#: website/includes/site-footer.html:38 website/newsletter/index.html:33
+#, python-format
+msgid "Follow %(twitter)s on Twitter"
+msgstr "Подпишитесь на %(twitter)s в Twitter"
+
+#: website/includes/site-footer.html:52 website/newsletter/index.html:47
+#, python-format
+msgid "Follow %(youtube)s on YouTube"
+msgstr "Подпишитесь на %(youtube)s на YouTube"
+
+#: website/includes/site-footer.html:59 website/newsletter/index.html:54
+#, python-format
+msgid "Follow %(linkedin)s on LinkedIn"
+msgstr "Подпишитесь на %(linkedin)s в LinkedIn"
+
+#: website/includes/site-footer.html:66 website/newsletter/index.html:61
+#, python-format
+msgid "Follow %(mastodon)s on Mastodon"
+msgstr "Подпишитесь на %(mastodon)s на Mastodon"
+
+#: website/includes/site-footer.html:84
+msgid "Cookies"
+msgstr "Куки"
+
+#: website/includes/site-footer.html:88
+msgid "Legal"
+msgstr "Юридическая информация"
+
+#: website/includes/site-footer.html:92
+msgid "Participation Guidelines"
+msgstr "Условия участия"
+
+#: website/includes/site-footer.html:96
+msgid "Report Trademark or Copyright Infringement"
+msgstr "Сообщить о нарушении авторских прав или прав на товарный знак"
+
+#: website/includes/site-footer.html:100
+msgid "Report Misuse of Thunderbird Trademark"
+msgstr "Сообщить о злоупотреблении товарным знаком Thunderbird"
+
+#: website/includes/site-footer.html:105
+#, python-format
+msgid ""
+"Thunderbird is now part of\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+"      a wholly owned subsidiary of Mozilla Foundation.\n"
+"      Portions of this content are ©1998–%(current_year)s by individual\n"
+"      contributors. Content available under\n"
+"      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
+msgstr ""
+"Thunderbird теперь является частью <a href=\"%(mzla)s\" class=\"inline-link\">Корпорации MZLA Technologies</a>, полностью дочерней компании Mozilla Foundation. Части этого содержимого созданы "
+"отдельными участниками ©1998–%(current_year)s. Содержимое доступно на условиях <a href=\"%(url)s\" class=\"inline-link\">лицензии Creative Commons</a>."
+
+#: website/includes/site-footer.html:116
+msgid "Contribute to this site"
+msgstr "Внести вклад в этот сайт"
+
+#: website/includes/site-footer.html:119
+msgid "Translate this site"
+msgstr "Перевести этот сайт"
+
+#: website/includes/site-prefooter.html:14
+msgid "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users."
+msgstr ""
+"Thunderbird является проектом с открытым исходным кодом, а это значит, что любой может помогать, предлагая идеи, улучшения дизайна, совершенствования кода, и помогая другим пользователям решать "
+"проблемы."
+
+#: website/includes/site-prefooter.html:17
+msgid "Join Us"
+msgstr "Присоединитесь к нам"
+
+#: website/includes/site-prefooter.html:20
+msgid "Make a Donation"
+msgstr "Сделать пожертвование"
+
+#: website/includes/site-prefooter.html:37
+msgid "Release Channel"
+msgstr "Канал Release"
+
+#: website/includes/site-prefooter.html:40
+msgid "Beta Channel"
+msgstr "Канал Beta"
+
+#: website/includes/site-prefooter.html:43
+msgid "Daily Channel"
+msgstr "Канал Daily"
+
+#: website/includes/site-prefooter.html:69
+msgid "The Future of Thunderbird"
+msgstr "Будущее Thunderbird"
+
+#: website/includes/site-prefooter.html:71
+msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
+msgstr "Испытайте передовые возможности. Отправляйте отзывы, чтобы помочь усовершенствовать и отполировать то, что войдёт в финальную версию."
+
+#: website/includes/site-prefooter.html:86
+msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Daily channel."
+msgstr "Помогите нам в тестировании ежедневных наработок кода Thunderbird, используя канал обновлений нестабильной Daily."
+
+#: website/includes/site-prefooter.html:90
+msgid "WARNING!"
+msgstr "ПРЕДУПРЕЖДЕНИЕ!"
+
+#: website/includes/site-prefooter.html:92
+msgid "Daily is an unstable testing and development platform, make sure you back up important data regularly!"
+msgstr "Daily — это нестабильная платформа для тестирования и разработки. Убедитесь, что вы регулярно делаете резервные копии важных данных!"
+
+#: website/includes/site-prefooter.html:95
+msgid "Download Daily"
+msgstr "Загрузить Daily"
+
+#: website/includes/ways-to-give.html:6
+msgid "Bank Transfer / SEPA"
+msgstr ""
+
+#: website/includes/ways-to-give.html:7
+msgid ""
+"We accept contributions in Euros through Single European Payment Area (SEPA)\n"
+"    transfer, and British Pounds through BACS transfer."
+msgstr ""
+
+#: website/includes/ways-to-give.html:9
+msgid ""
+"Please note that for smaller (under 10 EUR or equivalent) contributions, we request that you contribute via credit card or PayPal to\n"
+"    help reduce our processing fees."
+msgstr ""
+
+#: website/includes/ways-to-give.html:11
+msgid ""
+"If your bank requests our physical address, it is 2 Harrison Street, Suite 175, San\n"
+"    Francisco, CA 94105 USA."
+msgstr ""
+
+#: website/includes/ways-to-give.html:16
+msgid "Euros:"
+msgstr ""
+
+#: website/includes/ways-to-give.html:18 website/includes/ways-to-give.html:31
+msgid "Account Currency:"
+msgstr ""
+
+#: website/includes/ways-to-give.html:19 website/includes/ways-to-give.html:32
+msgid "Receiving Bank (Pay to):"
+msgstr ""
+
+#: website/includes/ways-to-give.html:20 website/includes/ways-to-give.html:33
+msgid "City & Country/Region:"
+msgstr ""
+
+#: website/includes/ways-to-give.html:21 website/includes/ways-to-give.html:38
+msgid "SWIFT/BIC Code:"
+msgstr ""
+
+#: website/includes/ways-to-give.html:22 website/includes/ways-to-give.html:36
+msgid "Beneficiary Name (For credit to):"
+msgstr ""
+
+#: website/includes/ways-to-give.html:23 website/includes/ways-to-give.html:39
+msgid "IBAN:"
+msgstr ""
+
+#: website/includes/ways-to-give.html:24 website/includes/ways-to-give.html:40
+msgid "Memo field:"
+msgstr ""
+
+#: website/includes/ways-to-give.html:29
+msgid "British Pound Sterling:"
+msgstr ""
+
+#: website/includes/ways-to-give.html:34
+msgid "Bank Sort Code:"
+msgstr ""
+
+#: website/includes/ways-to-give.html:35
+msgid "Account Number (8 digits):"
+msgstr ""
+
+#: website/includes/ways-to-give.html:45
+msgid "Check (via postal service)"
+msgstr ""
+
+#: website/includes/ways-to-give.html:47
+#, python-format
+msgid ""
+"MZLA/Thunderbird is happy to accept your donation <span class=\"%(class)s\">(made payable to “MZLA Technologies Corp”)</span> via check;\n"
+"    however please note that we can only accept checks in US dollars drawn on a US bank."
+msgstr ""
+
+#: website/includes/ways-to-give.html:56
+msgid "Please include your email address on the memo line of your check to help us track and attribute your gift."
+msgstr ""
+
+#: website/newsletter/index.html:19
+msgid ""
+"See exciting previews of upcoming features, read the latest desktop Thunderbird and mobile Thunderbird news, and enjoy personalized tips to protect your privacy and maximize your productivity! From "
+"the Thunderbird team directly to your inbox."
+msgstr ""
+
+#: website/newsletter/index.html:27
+msgid "View previous newsletters"
+msgstr ""
+
 #: website/thunderbird/102.0/eoy/index.html:17
 msgid "Help Keep Thunderbird Alive!"
 msgstr "Помогите сохранить Thunderbird!"
@@ -1260,15 +1506,15 @@ msgstr "<strong>Поэтому сегодня мы просим вас помо�
 msgid "The Thunderbird Team"
 msgstr "Команда Thunderbird"
 
-#: website/thunderbird/102.0/whatsnew/index.html:8
+#: website/thunderbird/102.0/whatsnew/index.html:9
 msgid "What’s New in Thunderbird 102"
 msgstr "Что нового в Thunderbird 102"
 
-#: website/thunderbird/102.0/whatsnew/index.html:15
+#: website/thunderbird/102.0/whatsnew/index.html:16
 msgid "Explore the new features and changes in the new release of Thunderbird."
 msgstr "Ознакомьтесь с новыми функциями и изменениями в новой версии Thunderbird."
 
-#: website/thunderbird/102.0/whatsnew/index.html:20
+#: website/thunderbird/102.0/whatsnew/index.html:21
 msgid ""
 "<strong>Thunderbird is completely funded by your donations.</strong> <br> Producing Thunderbird requires software engineers, designers, system administrators and server infrastructure. <strong>Help "
 "us keep Thunderbird alive!</strong>"
@@ -1276,11 +1522,11 @@ msgstr ""
 "<strong>Thunderbird полностью финансируется за счет ваших пожертвований.</strong> <br> Для создания Thunderbird требуются инженеры-программисты, дизайнеры, системные администраторы и серверная "
 "инфраструктура. <strong>Помогите нам сохранить Thunderbird живым!</strong>"
 
-#: website/thunderbird/102.0/whatsnew/index.html:45
+#: website/thunderbird/102.0/whatsnew/index.html:46
 msgid "Message Header Redesign"
 msgstr "Редизайн заголовка сообщения"
 
-#: website/thunderbird/102.0/whatsnew/index.html:48
+#: website/thunderbird/102.0/whatsnew/index.html:49
 msgid ""
 "Thunderbird 102 helps you be more productive with less effort. When reading your email, the redesigned message header allows you to focus on what matters as it highlights important information. It’s"
 " also more responsive and easier to navigate. Plus, you can star important messages from the message header itself, and easily convert them into a calendar event or a task."
@@ -1289,11 +1535,11 @@ msgstr ""
 "поскольку он выделяет важную информацию. Он также более отзывчив и удобен в навигации. Кроме того, вы можете пометить важные сообщения прямо в заголовке сообщения и легко преобразовать их в событие "
 "календаря или задачу."
 
-#: website/thunderbird/102.0/whatsnew/index.html:60
+#: website/thunderbird/102.0/whatsnew/index.html:61
 msgid "New Address Book"
 msgstr "Новая Адресная книга"
 
-#: website/thunderbird/102.0/whatsnew/index.html:63
+#: website/thunderbird/102.0/whatsnew/index.html:64
 msgid ""
 "Thunderbird 102 gives your contacts a serious upgrade! The refreshed design makes it easier to navigate and interact with your contacts, and helps you better understand who you’re communicating "
 "with. The new Address Book has compatibility with vCard specs, meaning if your app can export your existing contacts into vCard format, Thunderbird can import them. Each contact card also acts as a "
@@ -1303,11 +1549,11 @@ msgstr ""
 "адресная книга совместима со спецификациями vCard, то есть если ваше приложение может экспортировать существующие контакты в формат vCard, Thunderbird может их импортировать. Каждая карточка "
 "контакта также выступает в качестве панели запуска для обмена сообщениями, электронной почтой и создания событий."
 
-#: website/thunderbird/102.0/whatsnew/index.html:81
+#: website/thunderbird/102.0/whatsnew/index.html:82
 msgid "New Import/Export Wizard"
 msgstr "Новый мастер импорта/экспорта"
 
-#: website/thunderbird/102.0/whatsnew/index.html:84
+#: website/thunderbird/102.0/whatsnew/index.html:85
 msgid ""
 "Thunderbird 102 makes it quick and simple to move your accounts and data around. The new step-by-step wizard provides a guided experience for importing all that data that’s important to you. We’ve "
 "also taken extra precautions to ensure that no data is accidentally duplicated in your profile after an import. Moving from Outlook, SeaMonkey, or another Thunderbird installation is easier than "
@@ -1317,11 +1563,11 @@ msgstr ""
 "дополнительные меры предосторожности, чтобы исключить случайное дублирование данных в вашем профиле после импорта. Переход с Outlook, SeaMonkey или другой установки Thunderbird стал проще, чем "
 "когда-либо. Никаких дополнений не требуется!"
 
-#: website/thunderbird/102.0/whatsnew/index.html:96
+#: website/thunderbird/102.0/whatsnew/index.html:97
 msgid "New Spaces Toolbar"
 msgstr "Новая панель мест"
 
-#: website/thunderbird/102.0/whatsnew/index.html:99
+#: website/thunderbird/102.0/whatsnew/index.html:100
 msgid ""
 "Thunderbird 102 makes navigating the application more intuitive thanks to the new Spaces Toolbar. Move between all of your activities with ease, whether it’s managing email, working with contacts "
 "through the awesome new address book, using the calendar and tasks functionality, chat, and even add-ons! If you want to save screen real estate, the Spaces Toolbar can be dismissed, and you can "
@@ -1331,11 +1577,11 @@ msgstr ""
 " работой с контактами через потрясающую новую адресную книгу, использованием функций календаря и задач, чатом и даже дополнениями! Если вы хотите сэкономить место на экране, Панель мест можно "
 "скрыть, и вместо этого вы можете перемещаться по различным действиям, предлагаемым Thunderbird, с помощью новой вкладки «Закреплённые места»."
 
-#: website/thunderbird/102.0/whatsnew/index.html:117
+#: website/thunderbird/102.0/whatsnew/index.html:118
 msgid "New Matrix Chat Support"
 msgstr "Поддержка нового чата Matrix"
 
-#: website/thunderbird/102.0/whatsnew/index.html:120
+#: website/thunderbird/102.0/whatsnew/index.html:121
 msgid ""
 "Thunderbird 102 offers a new way to chat privately and securely with your colleagues, friends, and family. We’ve added support for the open-source, decentralized chat protocol Matrix, and it’s "
 "usable right out of the box! (As always, we welcome your feedback since it’s an evolving service.)"
@@ -1343,43 +1589,43 @@ msgstr ""
 "Thunderbird 102 предлагает новый способ конфиденциального и безопасного общения с коллегами, друзьями и семьей. Мы добавили поддержку децентрализованного протокола чата Matrix с открытым исходным "
 "кодом, и его можно использовать прямо из коробки! (Как всегда, мы приветствуем ваши отзывы, поскольку это развивающийся сервис)."
 
-#: website/thunderbird/102.0/whatsnew/index.html:130 website/thunderbird/68.0/whatsnew/index.html:67 website/thunderbird/78.0/whatsnew/index.html:81 website/thunderbird/91.0/whatsnew/index.html:168
+#: website/thunderbird/102.0/whatsnew/index.html:131 website/thunderbird/68.0/whatsnew/index.html:67 website/thunderbird/78.0/whatsnew/index.html:81 website/thunderbird/91.0/whatsnew/index.html:168
 msgid "Other Notable Changes"
 msgstr "Другие значимые изменения"
 
-#: website/thunderbird/102.0/whatsnew/index.html:133
+#: website/thunderbird/102.0/whatsnew/index.html:134
 msgid "There are many other big changes that make Thunderbird 102 a very large release including:"
 msgstr "Есть много других больших изменений, которые делают Thunderbird 102 очень крупным выпуском, в том числе:"
 
-#: website/thunderbird/102.0/whatsnew/index.html:136
+#: website/thunderbird/102.0/whatsnew/index.html:137
 msgid "New Icons and Default Folder Colors"
 msgstr "Новые значки и цвета папок по умолчанию"
 
-#: website/thunderbird/102.0/whatsnew/index.html:137
+#: website/thunderbird/102.0/whatsnew/index.html:138
 msgid "Use Thunderbird without an email account (for example, as an RSS reader)"
 msgstr "Используйте Thunderbird без учётной записи электронной почты (например, в качестве программы для чтения RSS)"
 
-#: website/thunderbird/102.0/whatsnew/index.html:138
+#: website/thunderbird/102.0/whatsnew/index.html:139
 msgid "Numerous OpenPGP improvements"
 msgstr "Многочисленные улучшения OpenPGP"
 
-#: website/thunderbird/102.0/whatsnew/index.html:139
+#: website/thunderbird/102.0/whatsnew/index.html:140
 msgid "CalendarLocal parser converted to javascript"
 msgstr "Парсер CalendarLocal конвертирован на javascript"
 
-#: website/thunderbird/102.0/whatsnew/index.html:140
+#: website/thunderbird/102.0/whatsnew/index.html:141
 msgid "Today Pane calendar UI refresh"
 msgstr "Обновление пользовательского интерфейса панели календаря «Сегодня»"
 
-#: website/thunderbird/102.0/whatsnew/index.html:141
+#: website/thunderbird/102.0/whatsnew/index.html:142
 msgid "POP3 implemented in javascript"
 msgstr "POP3 реализован в javascript"
 
-#: website/thunderbird/102.0/whatsnew/index.html:142
+#: website/thunderbird/102.0/whatsnew/index.html:143
 msgid "Account settings moved to macOS application menu"
 msgstr "Настройки учётной записи перемещены в меню приложений macOS"
 
-#: website/thunderbird/102.0/whatsnew/index.html:143
+#: website/thunderbird/102.0/whatsnew/index.html:144
 msgid ""
 "Plus: Application-wide font size control, Theme fixes, FileLink fixes, Accessibility fixes, improved vCard integration, improved calendar startup performance, Calendar fixes including correct order "
 "of week view headers and days for right to left locales."
@@ -1387,7 +1633,7 @@ msgstr ""
 "Плюс: управление размером шрифта в масштабе всего приложения, исправления темы, исправления FileLink, исправления специальных возможностей, улучшенная интеграция vCard, улучшенная производительность"
 " запуска календаря, исправления Календаря, включая правильный порядок заголовков представления недели и дней для языков с написанием справа налево."
 
-#: website/thunderbird/102.0/whatsnew/index.html:146
+#: website/thunderbird/102.0/whatsnew/index.html:147
 #, python-format
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 102.0 and up</a>."
 msgstr "Подробную информацию обо всех наших изменениях можно найти в примечаниях к выпуску для <a href=\"%(release)s\">Thunderbird 102.0 и выше</a>."
