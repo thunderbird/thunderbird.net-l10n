@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-02-06 10:19-0800\n"
-"PO-Revision-Date: 2023-01-24 23:39+0000\n"
+"PO-Revision-Date: 2023-02-06 19:05+0000\n"
 "Last-Translator: Andreas Pettersson <az@kth.se>\n"
 "Language-Team: none\n"
 "Language: sv_SE\n"
@@ -21,24 +21,24 @@ msgstr ""
 
 #: faq.py:14
 msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
-msgstr ""
+msgstr "Vad är Thunderbirds förhållande till MZLA Technologies Corporation?"
 
 #: faq.py:15
 msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a wholly owned subsidiary of Mozilla Foundation."
-msgstr ""
+msgstr "Thunderbird är ett projekt av MZLA Technologies Corporation, som är ett helägt dotterbolag till Mozilla Foundation."
 
 #: faq.py:18
 msgid "What are the ways I can give?"
-msgstr ""
+msgstr "Vilka sätt kan jag donera?"
 
 #: faq.py:19
 #, python-format
 msgid "<a href=\"%(url)s\">Visit this link to make a secure online donation right now via credit card or PayPal.</a>"
-msgstr ""
+msgstr "<a href=\"%(url)s\">Besök den här länken för att göra en säker onlinedonation via kreditkort eller PayPal.</a>"
 
 #: faq.py:23
 msgid "Why do you need my address in order to process a gift?"
-msgstr ""
+msgstr "Varför behöver du min adress för att behandla en gåva?"
 
 #: faq.py:24
 #, python-format
@@ -47,53 +47,58 @@ msgid ""
 " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
 "href=\"%(url)s\">Privacy Policy</a>. If you would rather not fill in your information on our online form, you can mail us a <a href=\"%(check)s\">check</a>."
 msgstr ""
+"Vi förstår att din integritet är mycket viktig. Vi ber om en minsta mängd information som krävs för att hantera kreditkortsbetalningar, inklusive faktureringsadresser. Detta gör att vår "
+"betalningsprocessor kan verifiera din identitet, behandla din betalning och förhindra bedrägliga debiteringar på ditt kreditkort. Vi håller din information privat — om du har frågor, se vår <a "
+"href=\"%(url)s\">sekretesspolicy</a>. Om du inte vill fylla i din information på vårt onlineformulär kan du skicka oss en <a href=\"%(check)s\">check</a>."
 
 #: faq.py:28
 msgid "Can I give bitcoin?"
-msgstr ""
+msgstr "Kan jag donera bitcoin?"
 
 #: faq.py:29
 msgid "We are not currently accepting bitcoin."
-msgstr ""
+msgstr "Vi accepterar för närvarande inte bitcoin."
 
 #: faq.py:32
 msgid "How can I turn off the appeal on the Thunderbird start page?"
-msgstr ""
+msgstr "Hur kan jag inaktivera donationsförfrågan på Thunderbirds startsida?"
 
 #: faq.py:33
 #, python-format
 msgid "To learn how to customize your start page please visit:<br/><a href=\"%(url)s\">%(url)s</a>"
-msgstr ""
+msgstr "För att lära dig hur du anpassar din startsida besök:<br/><a href=\"%(url)s\">%(url)s</a>"
 
 #: faq.py:37
 msgid "How will my gift be used?"
-msgstr ""
+msgstr "Hur kommer min gåva att användas?"
 
 #: faq.py:38
 msgid ""
 "Thunderbird is the leading open source cross-platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future "
 "development."
 msgstr ""
+"Thunderbird är den ledande plattformsoberoende e-post- och kalenderklienten med öppen källkod, gratis för företag och personligt bruk. Din gåva hjälper till att se till att den förblir så och kommer"
+" att stödja framtida utveckling."
 
 #: faq.py:41
 msgid "Doesn’t Thunderbird earn income?"
-msgstr ""
+msgstr "Genererar inte Thunderbird intäkter?"
 
 #: faq.py:42
 msgid "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird."
-msgstr ""
+msgstr "För närvarande kommer majoriteten av Thunderbirds intäkter från generösa gåvor från användare och vänner till Thunderbird."
 
 #: faq.py:45
 msgid "Who gives to Thunderbird?"
-msgstr ""
+msgstr "Vem donerar till Thunderbird?"
 
 #: faq.py:46
 msgid "Anyone can give, companies and individuals, to support development of the product now and in the future."
-msgstr ""
+msgstr "Vem som helst kan ge, företag och privatpersoner, för att stödja utvecklingen av produkten nu och i framtiden."
 
 #: faq.py:49
 msgid "Does my gift give me access to tech support?"
-msgstr ""
+msgstr "Ger min gåva mig tillgång till teknisk support?"
 
 #: faq.py:50
 #, python-format
@@ -101,6 +106,8 @@ msgid ""
 "Anyone can access tech support for Thunderbird by visiting the <a href=\"%(url)s\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial "
 "gifts."
 msgstr ""
+"Vem som helst kan få tillgång till teknisk support för Thunderbird genom att besöka <a href=\"%(url)s\">supportforumet</a>. Thunderbird tillhandahåller inte teknisk support eller förbättrad teknisk "
+"support i utbyte mot ekonomiska gåvor."
 
 #: faq.py:54
 msgid "Is my gift tax deductible?"
@@ -785,8 +792,8 @@ msgid ""
 " and it will prompt you to define your accounts. If you need to bring some data from your release profile into the beta profile, consult the <a href=\"https://support.mozilla.org/kb/thunderbird-"
 "beta\">beta support article.</a>"
 msgstr ""
-"Starta <b>beta</b>-versionen av Thunderbird (med release-versionen som inte körs) och den kommer att använda <b>default-beta</b>-profilen. Vid första användningen kommer Thunderbird att skapa <b"
-">default-beta</b>-profilen, och den kommer att uppmana dig att definiera dina konton. Om du behöver ta med lite data från din releaseprofil till betaprofilen, läs <a "
+"Starta <b>beta</b>-versionen av Thunderbird (med release-versionen som inte körs) och den kommer att använda <b>default-beta</b>-profilen. Vid första användningen kommer Thunderbird att skapa "
+"<b>default-beta</b>-profilen, och den kommer att uppmana dig att definiera dina konton. Om du behöver ta med lite data från din releaseprofil till betaprofilen, läs <a "
 "href=\"https://support.mozilla.org/kb/thunderbird-beta\">betasupportartikeln.</a>"
 
 #: website/download/beta/index.html:92
@@ -1378,51 +1385,51 @@ msgstr ""
 
 #: website/includes/ways-to-give.html:16
 msgid "Euros:"
-msgstr ""
+msgstr "Euro:"
 
 #: website/includes/ways-to-give.html:18 website/includes/ways-to-give.html:31
 msgid "Account Currency:"
-msgstr ""
+msgstr "Kontovaluta:"
 
 #: website/includes/ways-to-give.html:19 website/includes/ways-to-give.html:32
 msgid "Receiving Bank (Pay to):"
-msgstr ""
+msgstr "Mottagande bank (Betala till):"
 
 #: website/includes/ways-to-give.html:20 website/includes/ways-to-give.html:33
 msgid "City & Country/Region:"
-msgstr ""
+msgstr "Stad och land/region:"
 
 #: website/includes/ways-to-give.html:21 website/includes/ways-to-give.html:38
 msgid "SWIFT/BIC Code:"
-msgstr ""
+msgstr "SWIFT/BIC-kod:"
 
 #: website/includes/ways-to-give.html:22 website/includes/ways-to-give.html:36
 msgid "Beneficiary Name (For credit to):"
-msgstr ""
+msgstr "Mottagarens namn (För kreditering till):"
 
 #: website/includes/ways-to-give.html:23 website/includes/ways-to-give.html:39
 msgid "IBAN:"
-msgstr ""
+msgstr "IBAN:"
 
 #: website/includes/ways-to-give.html:24 website/includes/ways-to-give.html:40
 msgid "Memo field:"
-msgstr ""
+msgstr "Memofält:"
 
 #: website/includes/ways-to-give.html:29
 msgid "British Pound Sterling:"
-msgstr ""
+msgstr "Brittiska pund sterling:"
 
 #: website/includes/ways-to-give.html:34
 msgid "Bank Sort Code:"
-msgstr ""
+msgstr "Clearingnummer:"
 
 #: website/includes/ways-to-give.html:35
 msgid "Account Number (8 digits):"
-msgstr ""
+msgstr "Kontonummer (8 siffror):"
 
 #: website/includes/ways-to-give.html:45
 msgid "Check (via postal service)"
-msgstr ""
+msgstr "Check (via posttjänst)"
 
 #: website/includes/ways-to-give.html:47
 #, python-format
@@ -1430,20 +1437,24 @@ msgid ""
 "MZLA/Thunderbird is happy to accept your donation <span class=\"%(class)s\">(made payable to “MZLA Technologies Corp”)</span> via check;\n"
 "    however please note that we can only accept checks in US dollars drawn on a US bank."
 msgstr ""
+"MZLA/Thunderbird tar gärna emot din donation <span class=\"%(class)s\">(som betalas till “MZLA Technologies Corp”)</span> via check;\n"
+"    Observera dock att vi endast kan acceptera checkar i amerikanska dollar dragna från en amerikansk bank."
 
 #: website/includes/ways-to-give.html:56
 msgid "Please include your email address on the memo line of your check to help us track and attribute your gift."
-msgstr ""
+msgstr "Vänligen inkludera din e-postadress på memoraden i din check för att hjälpa oss spåra och tillskriva din gåva."
 
 #: website/newsletter/index.html:19
 msgid ""
 "See exciting previews of upcoming features, read the latest desktop Thunderbird and mobile Thunderbird news, and enjoy personalized tips to protect your privacy and maximize your productivity! From "
 "the Thunderbird team directly to your inbox."
 msgstr ""
+"Se spännande förhandstittar av kommande funktioner, läs de senaste nyheterna från Thunderbird och mobila Thunderbird, och njut av personliga tips för att skydda din integritet och maximera din "
+"produktivitet! Från Thunderbird-teamet direkt till din inkorg."
 
 #: website/newsletter/index.html:27
 msgid "View previous newsletters"
-msgstr ""
+msgstr "Se tidigare nyhetsbrev"
 
 #: website/thunderbird/102.0/eoy/index.html:17
 msgid "Help Keep Thunderbird Alive!"
