@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-02-06 10:19-0800\n"
-"PO-Revision-Date: 2023-02-06 19:53+0000\n"
+"PO-Revision-Date: 2023-02-06 19:59+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: none\n"
 "Language: is\n"
@@ -34,11 +34,11 @@ msgstr "Á hvaða hátt ég get gefið til verkefnisins?"
 #: faq.py:19
 #, python-format
 msgid "<a href=\"%(url)s\">Visit this link to make a secure online donation right now via credit card or PayPal.</a>"
-msgstr ""
+msgstr "<a href=\"%(url)s\">Farðu á þennan tengil til að gefa öruggt framlag á netinu með kreditkorti eða PayPal.</a>"
 
 #: faq.py:23
 msgid "Why do you need my address in order to process a gift?"
-msgstr ""
+msgstr "Af hverju þarf heimilisfangið mitt til að vinna með styrk?"
 
 #: faq.py:24
 #, python-format
@@ -67,7 +67,7 @@ msgstr ""
 
 #: faq.py:37
 msgid "How will my gift be used?"
-msgstr ""
+msgstr "Hvernig verður styrkurinn frá mér notaður?"
 
 #: faq.py:38
 msgid ""
@@ -77,15 +77,15 @@ msgstr ""
 
 #: faq.py:41
 msgid "Doesn’t Thunderbird earn income?"
-msgstr ""
+msgstr "Aflar Thunderbird ekki tekna?"
 
 #: faq.py:42
 msgid "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird."
-msgstr ""
+msgstr "Sem stendur er meirihluti tekna Thunderbird rausnarlegar gjafir frá notendum og vinum Thunderbird."
 
 #: faq.py:45
 msgid "Who gives to Thunderbird?"
-msgstr ""
+msgstr "Hverjir eru að styrkja Thunderbird?"
 
 #: faq.py:46
 msgid "Anyone can give, companies and individuals, to support development of the product now and in the future."
@@ -1382,39 +1382,39 @@ msgstr ""
 
 #: website/includes/ways-to-give.html:16
 msgid "Euros:"
-msgstr ""
+msgstr "Evrur:"
 
 #: website/includes/ways-to-give.html:18 website/includes/ways-to-give.html:31
 msgid "Account Currency:"
-msgstr ""
+msgstr "Gjaldmiðill reiknings:"
 
 #: website/includes/ways-to-give.html:19 website/includes/ways-to-give.html:32
 msgid "Receiving Bank (Pay to):"
-msgstr ""
+msgstr "Viðtökubanki (borgað til):"
 
 #: website/includes/ways-to-give.html:20 website/includes/ways-to-give.html:33
 msgid "City & Country/Region:"
-msgstr ""
+msgstr "Borg og land/svæði:"
 
 #: website/includes/ways-to-give.html:21 website/includes/ways-to-give.html:38
 msgid "SWIFT/BIC Code:"
-msgstr ""
+msgstr "SWIFT/BIC-kóði:"
 
 #: website/includes/ways-to-give.html:22 website/includes/ways-to-give.html:36
 msgid "Beneficiary Name (For credit to):"
-msgstr ""
+msgstr "Nafn viðtakanda (upphæð gengur til):"
 
 #: website/includes/ways-to-give.html:23 website/includes/ways-to-give.html:39
 msgid "IBAN:"
-msgstr ""
+msgstr "IBAN:"
 
 #: website/includes/ways-to-give.html:24 website/includes/ways-to-give.html:40
 msgid "Memo field:"
-msgstr ""
+msgstr "Minnisreitur:"
 
 #: website/includes/ways-to-give.html:29
 msgid "British Pound Sterling:"
-msgstr ""
+msgstr "Bresk sterlingspund:"
 
 #: website/includes/ways-to-give.html:34
 msgid "Bank Sort Code:"
@@ -1422,7 +1422,7 @@ msgstr ""
 
 #: website/includes/ways-to-give.html:35
 msgid "Account Number (8 digits):"
-msgstr ""
+msgstr "Reikningsnúmer (8 tölustafir):"
 
 #: website/includes/ways-to-give.html:45
 msgid "Check (via postal service)"
@@ -1447,7 +1447,7 @@ msgstr ""
 
 #: website/newsletter/index.html:27
 msgid "View previous newsletters"
-msgstr ""
+msgstr "Skoða fyrri fréttabréf"
 
 #: website/thunderbird/102.0/eoy/index.html:17
 msgid "Help Keep Thunderbird Alive!"
