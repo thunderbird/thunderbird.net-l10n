@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-02-06 10:19-0800\n"
-"PO-Revision-Date: 2023-02-07 03:13+0000\n"
+"PO-Revision-Date: 2023-02-07 03:20+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language-Team: none\n"
 "Language: zh_TW\n"
@@ -65,7 +65,7 @@ msgstr "我要怎麼關掉 Thunderbird 開始頁的募款廣告？"
 #: faq.py:33
 #, python-format
 msgid "To learn how to customize your start page please visit:<br/><a href=\"%(url)s\">%(url)s</a>"
-msgstr ""
+msgstr "請到 <a href=\"%(url)s\">%(url)s</a> 了解如何自定您的開始頁面"
 
 #: faq.py:37
 msgid "How will my gift be used?"
@@ -91,7 +91,7 @@ msgstr "誰能捐款給 Thunderbird？"
 
 #: faq.py:46
 msgid "Anyone can give, companies and individuals, to support development of the product now and in the future."
-msgstr ""
+msgstr "任何人、企業皆可捐款，以支持產品目前與未來的發展。"
 
 #: faq.py:49
 msgid "Does my gift give me access to tech support?"
@@ -609,7 +609,7 @@ msgstr "Thunderbird 是由像您這樣的使用者所贊助發展的。"
 
 #: website/donate/index.html:43
 msgid "Our mission is to provide an open source email app that is secure, private and free for users around the world. Your donations support this work. Will you give today?"
-msgstr ""
+msgstr "我們的使命是為全球的使用打造安全、私密、自由且開放原始碼的電子郵件軟體。透過捐款可幫助我們達到這個目標，您願意幫忙嗎？"
 
 #: website/donate/index.html:46
 msgid "Contributions are not tax-deductible as charitable donations."
@@ -1288,13 +1288,13 @@ msgstr "我們接受透過歐元單一支付區（SEPA）網路的歐元轉帳�
 msgid ""
 "Please note that for smaller (under 10 EUR or equivalent) contributions, we request that you contribute via credit card or PayPal to\n"
 "    help reduce our processing fees."
-msgstr ""
+msgstr "註：對於小額捐款（小於或等於 10 歐元），請透過信用卡或 PayPal 支付，以減少我們所支出的處理費用。"
 
 #: website/includes/ways-to-give.html:11
 msgid ""
 "If your bank requests our physical address, it is 2 Harrison Street, Suite 175, San\n"
 "    Francisco, CA 94105 USA."
-msgstr ""
+msgstr "若您的銀行要求我們的登記地址，地址為：2 Harrison Street, Suite 175, San Francisco, CA 94105 USA。"
 
 #: website/includes/ways-to-give.html:16
 msgid "Euros:"
@@ -1338,32 +1338,32 @@ msgstr "Bank Sort Code："
 
 #: website/includes/ways-to-give.html:35
 msgid "Account Number (8 digits):"
-msgstr ""
+msgstr "帳號（8 位數）："
 
 #: website/includes/ways-to-give.html:45
 msgid "Check (via postal service)"
-msgstr ""
+msgstr "支票（透過美國郵政服務）"
 
 #: website/includes/ways-to-give.html:47
 #, python-format
 msgid ""
 "MZLA/Thunderbird is happy to accept your donation <span class=\"%(class)s\">(made payable to “MZLA Technologies Corp”)</span> via check;\n"
 "    however please note that we can only accept checks in US dollars drawn on a US bank."
-msgstr ""
+msgstr "MZLA/Thunderbird 很願意透過支票接受您的捐款 <span class=\"%(class)s\">（抬頭請開「MZLA Technologies Corp」）</span>但我們僅能接受由美國境內銀行所開出的美元支票。"
 
 #: website/includes/ways-to-give.html:56
 msgid "Please include your email address on the memo line of your check to help us track and attribute your gift."
-msgstr ""
+msgstr "請在支票的備註欄註明您的電子郵件地址，幫助我們能夠更快追蹤您的捐款進度。"
 
 #: website/newsletter/index.html:19
 msgid ""
 "See exciting previews of upcoming features, read the latest desktop Thunderbird and mobile Thunderbird news, and enjoy personalized tips to protect your privacy and maximize your productivity! From "
 "the Thunderbird team directly to your inbox."
-msgstr ""
+msgstr "由 Thunderbird 開發團隊產地直送的新功能預覽、了解最新 Thunderbird 桌面板與行動版的相關資訊，並獲得個人化的使用秘訣以幫助您保護隱私與最大化生產力！"
 
 #: website/newsletter/index.html:27
 msgid "View previous newsletters"
-msgstr ""
+msgstr "檢視先前的電子報"
 
 #: website/thunderbird/102.0/eoy/index.html:17
 msgid "Help Keep Thunderbird Alive!"
