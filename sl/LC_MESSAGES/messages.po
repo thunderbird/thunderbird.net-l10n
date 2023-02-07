@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-02-06 10:19-0800\n"
-"PO-Revision-Date: 2023-01-25 08:47+0000\n"
+"PO-Revision-Date: 2023-02-07 09:33+0000\n"
 "Last-Translator: Lan Glad <upwinxp@gmail.com>\n"
 "Language-Team: none\n"
 "Language: sl\n"
@@ -21,24 +21,24 @@ msgstr ""
 
 #: faq.py:14
 msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
-msgstr ""
+msgstr "Kakšen je odnos med Thunderbirdom in MZLA Technologies Corporation?"
 
 #: faq.py:15
 msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a wholly owned subsidiary of Mozilla Foundation."
-msgstr ""
+msgstr "Thunderbird je projekt MZLA Technologies Corporation, hčerinske družbe v 100-odstotni lasti Mozille Foundation."
 
 #: faq.py:18
 msgid "What are the ways I can give?"
-msgstr ""
+msgstr "Na kakšne načine lahko prispevam?"
 
 #: faq.py:19
 #, python-format
 msgid "<a href=\"%(url)s\">Visit this link to make a secure online donation right now via credit card or PayPal.</a>"
-msgstr ""
+msgstr "<a href=\"%(url)s\">Obiščite to povezavo za varno donacijo prek spleta s kreditno kartico ali PayPalom.</a>"
 
 #: faq.py:23
 msgid "Why do you need my address in order to process a gift?"
-msgstr ""
+msgstr "Zakaj moram v postopku prispevanja navesti svoj naslov?"
 
 #: faq.py:24
 #, python-format
@@ -47,45 +47,50 @@ msgid ""
 " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
 "href=\"%(url)s\">Privacy Policy</a>. If you would rather not fill in your information on our online form, you can mail us a <a href=\"%(check)s\">check</a>."
 msgstr ""
+"Razumemo, da vam zasebnost veliko pomeni. Od vas zahtevamo minimalno količino podatkov, potrebnih za prispevek s kreditno kartico, vključno z vašim naslovom. Tako lahko naš posrednik obdela plačilo,"
+" preveri vašo identiteto in prepreči goljufiva plačila z vašo kartico. Vaše podatke ohranjamo zasebne. Če imate več vprašanj, preberite našo<a href=\"%(url)s\">Politiko zasebnosti</a>. Če raje ne "
+"želite izpolniti svojih podatkov v našem spletnem obrazcu, nam lahko pošljete <a href=\"%(check)s\">ček</a>."
 
 #: faq.py:28
 msgid "Can I give bitcoin?"
-msgstr ""
+msgstr "Ali lahko prispevam v bitcoinu?"
 
 #: faq.py:29
 msgid "We are not currently accepting bitcoin."
-msgstr ""
+msgstr "Valute Bitcoin trenutno ne sprejemamo."
 
 #: faq.py:32
 msgid "How can I turn off the appeal on the Thunderbird start page?"
-msgstr ""
+msgstr "Kako lahko skrijem prošnjo na Thunderbirdovi začetni strani?"
 
 #: faq.py:33
 #, python-format
 msgid "To learn how to customize your start page please visit:<br/><a href=\"%(url)s\">%(url)s</a>"
-msgstr ""
+msgstr "Kako prilagoditi začetno stran, si oglejte na naslednji strani:<br/><a href=\"%(url)s\">%(url)s</a>"
 
 #: faq.py:37
 msgid "How will my gift be used?"
-msgstr ""
+msgstr "Za kaj bo moj prispevek porabljen?"
 
 #: faq.py:38
 msgid ""
 "Thunderbird is the leading open source cross-platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future "
 "development."
 msgstr ""
+"Thunderbird je vodilni odprtokodni večplatformni e-poštni odjemalec, ki je brezplačen tako za poslovno kot za osebno uporabo. Vaš prispevek bo pomagal zagotoviti, da bo tako tudi ostalo, in podprl "
+"nadaljnji razvoj."
 
 #: faq.py:41
 msgid "Doesn’t Thunderbird earn income?"
-msgstr ""
+msgstr "Ali Thunderbird ne ustvarja prihodka?"
 
 #: faq.py:42
 msgid "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird."
-msgstr ""
+msgstr "Trenutno večino Thunderbirdovih prihodkov predstavljajo velikodušni darovi uporabnikov in prijateljev Thunderbirda."
 
 #: faq.py:45
 msgid "Who gives to Thunderbird?"
-msgstr ""
+msgstr "Kdo prispeva Thunderbirdu?"
 
 #: faq.py:46
 msgid "Anyone can give, companies and individuals, to support development of the product now and in the future."
@@ -93,7 +98,7 @@ msgstr ""
 
 #: faq.py:49
 msgid "Does my gift give me access to tech support?"
-msgstr ""
+msgstr "Ali s prispevkom dobim dostop do tehnične podpore?"
 
 #: faq.py:50
 #, python-format
@@ -101,10 +106,11 @@ msgid ""
 "Anyone can access tech support for Thunderbird by visiting the <a href=\"%(url)s\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial "
 "gifts."
 msgstr ""
+"Tehnična podpora za Thunderbird je na voljo vsakomur na <a href=\"%(url)s\">forumu za podporo</a>. Mozilla ne ponuja tehnične podpore ali izboljšane tehnične podpore v zameno za denarne prispevke."
 
 #: faq.py:54
 msgid "Is my gift tax deductible?"
-msgstr ""
+msgstr "Ali se moj prispevek upošteva kot davčna olajšava?"
 
 #: faq.py:55
 msgid ""
@@ -762,8 +768,8 @@ msgid ""
 "Thunderbird 102 and newer on Windows will install beta into its own program directory. For older versions on Windows consult the <a href=\"https://support.mozilla.org/en-US/kb/thunderbird-"
 "beta\">beta support article</a>. For other operating systems use an install method appropriate for your OS to target a uniquely named directory."
 msgstr ""
-"Thunderbird 102 in novejše različice v sistemu Windows namestijo beta različico v ločeno programsko mapo. O starejših različicah v sistemu Windows se poučite v <a href=\"https://support.mozilla.org"
-"/en-US/kb/thunderbird-beta\">tem članku s podporo</a>. V drugih operacijskih sistemih za namestitev v posebno mapo uporabite metodo, primerno sistemu."
+"Thunderbird 102 in novejše različice v sistemu Windows namestijo beta različico v ločeno programsko mapo. O starejših različicah v sistemu Windows se poučite v <a "
+"href=\"https://support.mozilla.org/en-US/kb/thunderbird-beta\">tem članku s podporo</a>. V drugih operacijskih sistemih za namestitev v posebno mapo uporabite metodo, primerno sistemu."
 
 #: website/download/beta/index.html:86
 msgid ""
