@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-02-06 10:19-0800\n"
-"PO-Revision-Date: 2023-02-07 08:44+0000\n"
+"PO-Revision-Date: 2023-02-07 08:52+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: none\n"
 "Language: fr\n"
@@ -47,6 +47,10 @@ msgid ""
 " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
 "href=\"%(url)s\">Privacy Policy</a>. If you would rather not fill in your information on our online form, you can mail us a <a href=\"%(check)s\">check</a>."
 msgstr ""
+"Nous considérons que votre vie privée est de la plus haute importance. Nous demandons uniquement les informations nécessaires au traitement de votre don par carte bancaire, y compris l’adresse de "
+"facturation. Ces informations permettent au système de paiement de vérifier votre identité, de traiter votre paiement et d’empêcher des facturations frauduleuses sur votre carte. Ces informations "
+"restent confidentielles. Si vous avez des questions, veuillez vous référer à notre <a href=\"%(url)s\">Politique de confidentialité</a>. Si vous préférez ne pas renseigner ces informations sur notre"
+" formulaire de don en ligne, vous pouvez aussi faire un don <a href=\"%(check)s\">par chèque</a>."
 
 #: faq.py:28
 msgid "Can I give bitcoin?"
@@ -63,7 +67,7 @@ msgstr "Comment puis-je retirer l’appel aux dons de la page de démarrage de T
 #: faq.py:33
 #, python-format
 msgid "To learn how to customize your start page please visit:<br/><a href=\"%(url)s\">%(url)s</a>"
-msgstr ""
+msgstr "Pour savoir comment personnaliser votre page d’accueil, rendez-vous sur :<br/><a href=\"%(url)s\">%(url)s</a>"
 
 #: faq.py:37
 msgid "How will my gift be used?"
@@ -91,7 +95,7 @@ msgstr "Qui fait des dons à Thunderbird ?"
 
 #: faq.py:46
 msgid "Anyone can give, companies and individuals, to support development of the product now and in the future."
-msgstr ""
+msgstr "Tout le monde peut faire un don, les entreprises comme les particuliers, pour permettre à Thunderbird d’être maintenu et d’évoluer."
 
 #: faq.py:49
 msgid "Does my gift give me access to tech support?"
@@ -103,6 +107,8 @@ msgid ""
 "Anyone can access tech support for Thunderbird by visiting the <a href=\"%(url)s\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial "
 "gifts."
 msgstr ""
+"Tout le monde peut accéder à l’assistance technique pour Thunderbird en visitant <a href=\"%(url)s\">le forum d’assistance</a>. Thunderbird ne fournit pas d’assistance technique ni d’assistance "
+"technique étendue en l’échange de dons."
 
 #: faq.py:54
 msgid "Is my gift tax deductible?"
@@ -127,6 +133,9 @@ msgid ""
 "card, please contact the Donor Care team <a href=\"%(help)s\">via this form</a>. Please include the email address and name you used to make your donation, and they’ll try to help you within two "
 "business days."
 msgstr ""
+"Si vous avez utilisé PayPal pour mettre en place un don récurrent, il vous suffit de <a href=\"%(paypal)s\">vous connecter à votre compte PayPal</a> pour le modifier ou l’arrêter. Si vous avez "
+"accepté de faire un don mensuel par carte bancaire, veuillez contacter notre équipe d’assistance pour les dons via <a href=\"%(help)s\">ce formulaire</a>. Assurez-vous d’indiquer le nom et l’adresse"
+" e-mail utilisés lorsque vous avez fait votre don et nous essaierons de vous aider sous deux jours ouvrés."
 
 #: faq.py:63
 msgid "Who can I email directly with questions about giving?"
@@ -138,6 +147,8 @@ msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. We will do our best to follow-up with you as soon as we can. If you need technical "
 "support, please head over to <a href=\"%(support)s\">Thunderbird Support</a> for assistance."
 msgstr ""
+"Si vous avez une question au sujet des dons envers Thunderbird, vous pouvez nous contacter via <a href=\"%(help)s\">ce formulaire</a>. Nous ferons de notre mieux pour vous répondre dans les "
+"meilleurs délais. Si vous avez besoin d’assistance technique, vous pouvez consulter <a href=\"%(support)s\">l’assistance de Thunderbird</a>."
 
 #: start-page/beta/index.html:8
 msgid "Welcome to <div class=\"tb-text\">Thunderbird <small class=\"beta-text\">Beta</small></div>"
@@ -640,6 +651,8 @@ msgstr "Thunderbird est financé par des utilisateurs et des utilisatrices comme
 #: website/donate/index.html:43
 msgid "Our mission is to provide an open source email app that is secure, private and free for users around the world. Your donations support this work. Will you give today?"
 msgstr ""
+"Notre mission est de proposer un client e-mail sécurisé, confidentiel, libre et gratuit aux utilisateurs et utilisatrices du monde entier. Et vos dons permettent de soutenir notre action. Pouvez-"
+"vous nous aider ?"
 
 #: website/donate/index.html:46
 msgid "Contributions are not tax-deductible as charitable donations."
@@ -1395,13 +1408,13 @@ msgstr "Nous acceptons les dons en euros via des virements au sein de la zone de
 msgid ""
 "Please note that for smaller (under 10 EUR or equivalent) contributions, we request that you contribute via credit card or PayPal to\n"
 "    help reduce our processing fees."
-msgstr ""
+msgstr "Notez que pour les dons plus modestes (moins de 10 EUR ou équivalent), nous vous demandons de faire un don par carte bancaire ou PayPal pour aider à réduire nos frais de traitement."
 
 #: website/includes/ways-to-give.html:11
 msgid ""
 "If your bank requests our physical address, it is 2 Harrison Street, Suite 175, San\n"
 "    Francisco, CA 94105 USA."
-msgstr ""
+msgstr "Si votre banque demande notre adresse postale, indiquez 2 Harrison Street, Suite 175, San Francisco, CA 94105 USA."
 
 #: website/includes/ways-to-give.html:16
 msgid "Euros:"
@@ -1457,6 +1470,8 @@ msgid ""
 "MZLA/Thunderbird is happy to accept your donation <span class=\"%(class)s\">(made payable to “MZLA Technologies Corp”)</span> via check;\n"
 "    however please note that we can only accept checks in US dollars drawn on a US bank."
 msgstr ""
+"MZLA/Thunderbird accepte volontiers votre don <span class=\"%(class)s\">(à l’ordre de « MZLA Technologies Corp »)</span> par chèque ; toutefois, veuillez noter que nous n’acceptons que les chèques "
+"en dollars américains provenant d’une banque américaine."
 
 #: website/includes/ways-to-give.html:56
 msgid "Please include your email address on the memo line of your check to help us track and attribute your gift."
@@ -1470,7 +1485,7 @@ msgstr ""
 
 #: website/newsletter/index.html:27
 msgid "View previous newsletters"
-msgstr ""
+msgstr "Voir les newsletters précédentes"
 
 #: website/thunderbird/102.0/eoy/index.html:17
 msgid "Help Keep Thunderbird Alive!"
