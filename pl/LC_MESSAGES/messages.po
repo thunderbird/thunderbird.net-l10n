@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-02-06 10:19-0800\n"
-"PO-Revision-Date: 2023-02-09 13:23+0000\n"
+"PO-Revision-Date: 2023-02-09 13:31+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: none\n"
 "Language: pl\n"
@@ -1227,7 +1227,7 @@ msgstr "Subskrybuj kanał %(youtube)s na YouTubie"
 #: website/includes/site-footer.html:59 website/newsletter/index.html:54
 #, python-format
 msgid "Follow %(linkedin)s on LinkedIn"
-msgstr ""
+msgstr "Obserwuj projekt %(linkedin)s na LinkedIn"
 
 #: website/includes/site-footer.html:66 website/newsletter/index.html:61
 #, python-format
@@ -1293,15 +1293,15 @@ msgstr "Przekaż datek"
 
 #: website/includes/site-prefooter.html:37
 msgid "Release Channel"
-msgstr ""
+msgstr "Wydanie stabilne"
 
 #: website/includes/site-prefooter.html:40
 msgid "Beta Channel"
-msgstr ""
+msgstr "Wydanie beta"
 
 #: website/includes/site-prefooter.html:43
 msgid "Daily Channel"
-msgstr ""
+msgstr "Wydanie Daily"
 
 #: website/includes/site-prefooter.html:69
 msgid "The Future of Thunderbird"
@@ -1329,73 +1329,79 @@ msgstr "Pobierz Daily"
 
 #: website/includes/ways-to-give.html:6
 msgid "Bank Transfer / SEPA"
-msgstr ""
+msgstr "Przelew bankowy/SEPA"
 
 #: website/includes/ways-to-give.html:7
 msgid ""
 "We accept contributions in Euros through Single European Payment Area (SEPA)\n"
 "    transfer, and British Pounds through BACS transfer."
 msgstr ""
+"Przyjmujemy datki w euro przez przelew SEPA (Jednolity obszar płatności w euro)\n"
+"i w funtach brytyjskich przez przelew BACS."
 
 #: website/includes/ways-to-give.html:9
 msgid ""
 "Please note that for smaller (under 10 EUR or equivalent) contributions, we request that you contribute via credit card or PayPal to\n"
 "    help reduce our processing fees."
 msgstr ""
+"W przypadku mniejszych datków (poniżej 10 euro lub ich równowartości), prosimy o skorzystanie z karty płatniczej lub serwisu PayPal,\n"
+"aby pomóc zmniejszyć ponoszone przez nas opłaty za przetworzenie płatności."
 
 #: website/includes/ways-to-give.html:11
 msgid ""
 "If your bank requests our physical address, it is 2 Harrison Street, Suite 175, San\n"
 "    Francisco, CA 94105 USA."
 msgstr ""
+"Jeśli bank wymaga naszego adresu: 2 Harrison Street, Suite 175,\n"
+"San Francisco, CA 94105 USA."
 
 #: website/includes/ways-to-give.html:16
 msgid "Euros:"
-msgstr ""
+msgstr "Euro:"
 
 #: website/includes/ways-to-give.html:18 website/includes/ways-to-give.html:31
 msgid "Account Currency:"
-msgstr ""
+msgstr "Waluta konta:"
 
 #: website/includes/ways-to-give.html:19 website/includes/ways-to-give.html:32
 msgid "Receiving Bank (Pay to):"
-msgstr ""
+msgstr "Bank odbiorcy (płatność do):"
 
 #: website/includes/ways-to-give.html:20 website/includes/ways-to-give.html:33
 msgid "City & Country/Region:"
-msgstr ""
+msgstr "Miasto i kraj/region:"
 
 #: website/includes/ways-to-give.html:21 website/includes/ways-to-give.html:38
 msgid "SWIFT/BIC Code:"
-msgstr ""
+msgstr "Kod SWIFT/BIC:"
 
 #: website/includes/ways-to-give.html:22 website/includes/ways-to-give.html:36
 msgid "Beneficiary Name (For credit to):"
-msgstr ""
+msgstr "Nazwa odbiorcy:"
 
 #: website/includes/ways-to-give.html:23 website/includes/ways-to-give.html:39
 msgid "IBAN:"
-msgstr ""
+msgstr "IBAN:"
 
 #: website/includes/ways-to-give.html:24 website/includes/ways-to-give.html:40
 msgid "Memo field:"
-msgstr ""
+msgstr "Pole informacji:"
 
 #: website/includes/ways-to-give.html:29
 msgid "British Pound Sterling:"
-msgstr ""
+msgstr "Funt szterling:"
 
 #: website/includes/ways-to-give.html:34
 msgid "Bank Sort Code:"
-msgstr ""
+msgstr "Kod banku:"
 
 #: website/includes/ways-to-give.html:35
 msgid "Account Number (8 digits):"
-msgstr ""
+msgstr "Numer konta (8-cyfrowy):"
 
 #: website/includes/ways-to-give.html:45
 msgid "Check (via postal service)"
-msgstr ""
+msgstr "Czek (pocztą)"
 
 #: website/includes/ways-to-give.html:47
 #, python-format
@@ -1406,7 +1412,7 @@ msgstr ""
 
 #: website/includes/ways-to-give.html:56
 msgid "Please include your email address on the memo line of your check to help us track and attribute your gift."
-msgstr ""
+msgstr "Prosimy podać swój adres e-mail w polu informacji na czeku, aby pomóc nam w śledzeniu i określeniu autorstwa datku."
 
 #: website/newsletter/index.html:19
 msgid ""
@@ -1464,7 +1470,7 @@ msgstr ""
 
 #: website/thunderbird/102.0/eoy/index.html:98
 msgid "The Thunderbird Team"
-msgstr ""
+msgstr "Zespół Thunderbirda"
 
 #: website/thunderbird/102.0/whatsnew/index.html:9
 msgid "What’s New in Thunderbird 102"
