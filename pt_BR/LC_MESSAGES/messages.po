@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-02-06 10:19-0800\n"
-"PO-Revision-Date: 2023-02-10 19:10+0000\n"
+"PO-Revision-Date: 2023-02-10 19:23+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: none\n"
 "Language: pt_BR\n"
@@ -106,6 +106,8 @@ msgid ""
 "Anyone can access tech support for Thunderbird by visiting the <a href=\"%(url)s\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial "
 "gifts."
 msgstr ""
+"Qualquer um pode acessar o suporte técnico do Thunderbird visitando o <a href=\"%(url)s\">fórum de suporte</a>. O Thunderbird não fornece suporte técnico ou suporte técnico avançado em troca de "
+"doações."
 
 #: faq.py:54
 msgid "Is my gift tax deductible?"
@@ -130,10 +132,13 @@ msgid ""
 "card, please contact the Donor Care team <a href=\"%(help)s\">via this form</a>. Please include the email address and name you used to make your donation, and they’ll try to help you within two "
 "business days."
 msgstr ""
+"Se você usou PayPal para configurar uma doação recorrente, precisa <a href=\"%(paypal)s\">entrar na sua conta do PayPal</a> para fazer alterações ou cancelar. Se fez uma doação mensal usando seu "
+"cartão de crédito, entre em contato com a equipe de suporte ao doador <a href=\"%(help)s\">através deste formulário</a>. Inclua o endereço de email e o nome que você usou para fazer a doação e eles "
+"irão tentar te ajudar num prazo de até dois dias úteis."
 
 #: faq.py:63
 msgid "Who can I email directly with questions about giving?"
-msgstr ""
+msgstr "A quem posso enviar um email diretamente com perguntas sobre doação?"
 
 #: faq.py:64
 #, python-format
@@ -141,6 +146,8 @@ msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. We will do our best to follow-up with you as soon as we can. If you need technical "
 "support, please head over to <a href=\"%(support)s\">Thunderbird Support</a> for assistance."
 msgstr ""
+"Se tiver dúvidas sobre doações ao Thunderbird, entre em contato conosco através <a href=\"%(help)s\">deste formulário</a>. Faremos o melhor para responder assim que possível. Se precisar de suporte "
+"técnico, acesse o <a href=\"%(support)s\">Suporte do Thunderbird</a> para obter ajuda."
 
 #: start-page/beta/index.html:8
 msgid "Welcome to <div class=\"tb-text\">Thunderbird <small class=\"beta-text\">Beta</small></div>"
@@ -614,7 +621,7 @@ msgstr "Faça uma doação para o Thunderbird"
 
 #: website/donate/index.html:17
 msgid "Support Thunderbird"
-msgstr ""
+msgstr "Apoie o Thunderbird"
 
 #: website/donate/index.html:20 website/donate/index.html:57
 msgid "Frequently Asked Questions"
