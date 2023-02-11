@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-02-06 10:19-0800\n"
-"PO-Revision-Date: 2023-02-11 14:03+0000\n"
+"PO-Revision-Date: 2023-02-11 14:12+0000\n"
 "Last-Translator: Alexander Slovesnik <unghost@mozilla-russia.org>\n"
 "Language-Team: none\n"
 "Language: ru\n"
@@ -47,53 +47,59 @@ msgid ""
 " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
 "href=\"%(url)s\">Privacy Policy</a>. If you would rather not fill in your information on our online form, you can mail us a <a href=\"%(check)s\">check</a>."
 msgstr ""
+"Мы понимаем, что ваша конфиденциальность очень важна. Мы запрашиваем минимальный объем информации, необходимой для обработки платежей по банковским картам, включая платежные адреса. Это позволяет "
+"нашему обработчику платежей подтвердить вашу личность, обработать ваш платеж и предотвратить мошеннические списания средств с вашей банковской карты. Мы обеспечиваем конфиденциальность вашей "
+"информации. Если у вас есть вопросы, ознакомьтесь с нашей <a href=\"%(url)s\">Политикой конфиденциальности</a>. Если вы не хотите заполнять свою информацию в нашей онлайн-форме, вы можете отправить "
+"нам <a href=\"%(check)s\">чек</a> по обычной почте."
 
 #: faq.py:28
 msgid "Can I give bitcoin?"
-msgstr ""
+msgstr "Могу ли я пожертвовать биткойн?"
 
 #: faq.py:29
 msgid "We are not currently accepting bitcoin."
-msgstr ""
+msgstr "В настоящее время мы не принимаем биткойны."
 
 #: faq.py:32
 msgid "How can I turn off the appeal on the Thunderbird start page?"
-msgstr ""
+msgstr "Как я могу отключить просьбу пожертвовать на начальной странице Thunderbird?"
 
 #: faq.py:33
 #, python-format
 msgid "To learn how to customize your start page please visit:<br/><a href=\"%(url)s\">%(url)s</a>"
-msgstr ""
+msgstr "Чтобы узнать, как настроить стартовую страницу, посетите страницу:<br/><a href=\"%(url)s\">%(url)s</a>"
 
 #: faq.py:37
 msgid "How will my gift be used?"
-msgstr ""
+msgstr "Как моё пожертвование будет использовано?"
 
 #: faq.py:38
 msgid ""
 "Thunderbird is the leading open source cross-platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future "
 "development."
 msgstr ""
+"Thunderbird — это ведущая кроссплатформенная почтовая программа и календарь с открытым исходным кодом, бесплатный для бизнеса и личного использования. Ваше пожертвование поможет обеспечить, что он "
+"останется таким и продолжит дальнейшее развитие."
 
 #: faq.py:41
 msgid "Doesn’t Thunderbird earn income?"
-msgstr ""
+msgstr "Разве Thunderbird не приносит доход?"
 
 #: faq.py:42
 msgid "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird."
-msgstr ""
+msgstr "В настоящее время большая часть доходов Thunderbird поступает от щедрых пожертвований пользователей и друзей Thunderbird."
 
 #: faq.py:45
 msgid "Who gives to Thunderbird?"
-msgstr ""
+msgstr "Кто жертвует Thunderbird?"
 
 #: faq.py:46
 msgid "Anyone can give, companies and individuals, to support development of the product now and in the future."
-msgstr ""
+msgstr "Любой желающий, компании и частные лица, может сделать пожертвование для поддержки разработки продукта сейчас и в будущем."
 
 #: faq.py:49
 msgid "Does my gift give me access to tech support?"
-msgstr ""
+msgstr "Даёт ли моё пожертвование доступ к технической поддержке?"
 
 #: faq.py:50
 #, python-format
@@ -101,20 +107,24 @@ msgid ""
 "Anyone can access tech support for Thunderbird by visiting the <a href=\"%(url)s\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial "
 "gifts."
 msgstr ""
+"Любой может получить доступ к технической поддержке Thunderbird, посетив <a href=\"%(url)s\">форум поддержки</a>. Thunderbird не предоставляет техническую поддержку или расширенную техническую "
+"поддержку в обмен на финансовые пожертвования."
 
 #: faq.py:54
 msgid "Is my gift tax deductible?"
-msgstr ""
+msgstr "Вычитается ли из моих налогов моё пожертвование?"
 
 #: faq.py:55
 msgid ""
 "Gifts to Thunderbird are not tax-deductible, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-platform email and calendaring client, free "
 "for business and personal use. Your gift will help ensure it stays that way, and will support future development."
 msgstr ""
+"Пожертвования Thunderbird не вычитаются из налогов, но очень ценятся. Пожертвование Thunderbird поддерживает разработку нашей ведущей кроссплатформенной почтовой программы и календаря с открытым "
+"исходным кодом, бесплатного для бизнеса и личного использования. Ваше пожертвование поможет обеспечивать, что он останется таким, и поддержит дальнейшее развитие."
 
 #: faq.py:58
 msgid "How do I cancel or change my recurring gift?"
-msgstr ""
+msgstr "Как я могу отменить или изменить моё повторяющееся пожертвование?"
 
 #: faq.py:59
 #, python-format
@@ -123,10 +133,13 @@ msgid ""
 "card, please contact the Donor Care team <a href=\"%(help)s\">via this form</a>. Please include the email address and name you used to make your donation, and they’ll try to help you within two "
 "business days."
 msgstr ""
+"Если вы использовали PayPal для настройки регулярного пожертвования, вам необходимо <a href=\"%(paypal)s\">войти в свою учетную запись PayPal</a>, чтобы внести изменения или отменить. Если вы "
+"сделали ежемесячное пожертвование с помощью кредитной карты, свяжитесь с командой по работе с жертвователями <a href=\"%(help)s\">через эту форму</a>. Пожалуйста, укажите адрес электронной почты и "
+"имя, которые вы использовали для пожертвования, и они постараются помочь вам в течение двух рабочих дней."
 
 #: faq.py:63
 msgid "Who can I email directly with questions about giving?"
-msgstr ""
+msgstr "Кому я могу напрямую написать письмо с вопросами о пожертвованиях?"
 
 #: faq.py:64
 #, python-format
@@ -134,6 +147,8 @@ msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. We will do our best to follow-up with you as soon as we can. If you need technical "
 "support, please head over to <a href=\"%(support)s\">Thunderbird Support</a> for assistance."
 msgstr ""
+"Если у вас есть вопрос о пожертвовании Thunderbird, свяжитесь с нами через <a href=\"%(help)s\">эту форму</a>. Мы сделаем все возможное, чтобы связаться с вами, как только сможем. Если вам нужна "
+"техническая поддержка, обратитесь за помощью в <a href=\"%(support)s\">поддержку Thunderbird</a>."
 
 #: start-page/beta/index.html:8
 msgid "Welcome to <div class=\"tb-text\">Thunderbird <small class=\"beta-text\">Beta</small></div>"
@@ -606,35 +621,37 @@ msgstr "Создайте Pull Request или Issue в <a href=\"%(contribute_url
 
 #: website/donate/index.html:7
 msgid "Give to Thunderbird"
-msgstr ""
+msgstr "Пожертвовать Thunderbird"
 
 #: website/donate/index.html:17
 msgid "Support Thunderbird"
-msgstr ""
+msgstr "Поддержать Thunderbird"
 
 #: website/donate/index.html:20 website/donate/index.html:57
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Часто задаваемые вопросы"
 
 #: website/donate/index.html:23 website/donate/index.html:70
 msgid "Other Ways to Give"
-msgstr ""
+msgstr "Другие способы пожертвовать"
 
 #: website/donate/index.html:36
 msgid "Support Thunderbird!"
-msgstr ""
+msgstr "Поддержите Thunderbird!"
 
 #: website/donate/index.html:38
 msgid "Thunderbird is funded by users like you."
-msgstr ""
+msgstr "Thunderbird финансируется пользователями, такими как вы."
 
 #: website/donate/index.html:43
 msgid "Our mission is to provide an open source email app that is secure, private and free for users around the world. Your donations support this work. Will you give today?"
 msgstr ""
+"Наша миссия — предоставить почтовое приложение с открытым исходным кодом, являющееся безопасным, конфиденциальным и бесплатным для пользователей по всему миру. Ваши пожертвования поддерживают эту "
+"работу. Пожертвуете сегодня?"
 
 #: website/donate/index.html:46
 msgid "Contributions are not tax-deductible as charitable donations."
-msgstr ""
+msgstr "Взносы не вычитаются из налога как благотворительные пожертвования."
 
 #: website/download/index.html:9 website/includes/download-button.html:13 website/includes/download-button.html:60 website/includes/site-prefooter.html:59
 msgid "Download Thunderbird"
@@ -1172,7 +1189,7 @@ msgstr "Thunderbird — это независимое бесплатное пр�
 
 #: website/includes/donate-modal.html:50
 msgid "Donate & Download"
-msgstr ""
+msgstr "Пожертвовать и загрузить"
 
 #: website/includes/donate-modal.html:53
 msgid "No Thanks, Download Now!"
@@ -1365,19 +1382,23 @@ msgstr "Загрузить Daily"
 
 #: website/includes/ways-to-give.html:6
 msgid "Bank Transfer / SEPA"
-msgstr ""
+msgstr "Банковский перевод / ЕЗПЕ (SEPA)"
 
 #: website/includes/ways-to-give.html:7
 msgid ""
 "We accept contributions in Euros through Single European Payment Area (SEPA)\n"
 "    transfer, and British Pounds through BACS transfer."
 msgstr ""
+"Мы принимаем взносы в евро через перевод в Единой зоне платежей в евро (SEPA)\n"
+"    и через перевод в британских фунтах стерлингов через перевод в BACS."
 
 #: website/includes/ways-to-give.html:9
 msgid ""
 "Please note that for smaller (under 10 EUR or equivalent) contributions, we request that you contribute via credit card or PayPal to\n"
 "    help reduce our processing fees."
 msgstr ""
+"Обратите внимание, что для небольших взносов (менее 10 евро или эквивалента) мы просим вас вносить средства с помощью банковской карты или PayPal, чтобы\n"
+"    помочь снизить наши сборы за обработку."
 
 #: website/includes/ways-to-give.html:11
 msgid ""
