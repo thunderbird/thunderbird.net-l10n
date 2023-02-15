@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-02-06 10:19-0800\n"
-"PO-Revision-Date: 2023-02-15 08:11+0000\n"
+"PO-Revision-Date: 2023-02-15 09:40+0000\n"
 "Last-Translator: Ander Elortondo <ander.elor@gmail.com>\n"
 "Language-Team: none\n"
 "Language: eu\n"
@@ -133,10 +133,13 @@ msgid ""
 "card, please contact the Donor Care team <a href=\"%(help)s\">via this form</a>. Please include the email address and name you used to make your donation, and they’ll try to help you within two "
 "business days."
 msgstr ""
+"PayPal erabili baduzu opari errepikari bat egiteko, <a href=\"%(paypal)s\">Saioa hasi PayPal kontuan</a> aldaketak egin edo ezeztatzeko. Zure kreditu-txartelarekin hileroko oparia egin baduzu, "
+"mesedez jarri harremanetan posta elektroniko <a href=\"%(help)s\">honetako</a> laguntza taldearekin. Mesedez, dohaintza egiteko erabili zenuen helbide elektronikoa eta izena sartu, eta bi laneguneko"
+" epean laguntzen saiatuko dira."
 
 #: faq.py:63
 msgid "Who can I email directly with questions about giving?"
-msgstr ""
+msgstr "Nori idatz diezaioket posta elektroniko bat zuzenean dohaintzari buruzko galderekin?"
 
 #: faq.py:64
 #, python-format
@@ -144,6 +147,8 @@ msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. We will do our best to follow-up with you as soon as we can. If you need technical "
 "support, please head over to <a href=\"%(support)s\">Thunderbird Support</a> for assistance."
 msgstr ""
+"Thunderbird dohaintzen inguruko zalantzarik baduzu, jar zaitez gurekin harremanetan, <a href=\"%(help)s\">formulario honen</a> bidez. Ahal dugun guztia egingo dugu zurekin jarraitzeko. Laguntza "
+"teknikoa behar baduzu, joan zaitez <a href=\"%(support)s\">Thunderbird laguntza</a> taldera."
 
 #: start-page/beta/index.html:8
 msgid "Welcome to <div class=\"tb-text\">Thunderbird <small class=\"beta-text\">Beta</small></div>"
@@ -234,6 +239,8 @@ msgstr "Thunderbirden joan laguntza > Arazoak konpontzeko informazio gehiago ata
 #: start-page/beta/index.html:88 start-page/release/index.html:98
 msgid "Click the Bugzilla tab, then click on an existing bug report under \"Related Bugs\" and add a comment to the bug, or click \"Thunderbird\" to submit a new bug report."
 msgstr ""
+"Egin klik Bugzilla fitxan, eta, ondoren, egin klik \"Related Bugs\" atalean dagoen akats-txosten batean, eta gehitu iruzkin bat bug bati, edo sakatu \"Thunderbird\", akats-txosten berri bat "
+"aurkezteko."
 
 #: start-page/beta/index.html:91 start-page/release/index.html:101
 msgid "Crash Reporter"
@@ -493,6 +500,9 @@ msgid ""
 "to learn how you can participate on the Thunderbird team. We also have paid staff working full-time on Thunderbird, <a href=\"%(donate)s\" data-donate-btn data-donate-content=\"about\">funded by "
 "donations</a> from our users. If you’re curious about who is working on Thunderbird, check out the <a href=\"%(core_team)s\">list of our core contributors</a>."
 msgstr ""
+"Pasioz betetako boluntarioen taldea dago Thunderbird garapenean korapilatua eta erabiltzaileei laguntzen, hauek ere ongi etorriak dira taldera. Begiratu gure <a href=\"%(volunteer)s\">Hartu parte! "
+"orria</a> ikasteko nola parte hartu ahal duzun Thunderbird taldean. Lan jardun osoan lanean diharduen ordaindutakoak ere baditugu, <a href=\"%(donate)s\" data-donate-btn data-donate-"
+"content=\"about\">dohaintzekin finantzatuak</a>. Jakin-mina baduzu nork egiten duen lan Thunderbirden begiratu <a href=\"%(core_team)s\">gure kolaboratzaile nagusien zerrenda</a>."
 
 #: website/about/index.html:69
 msgid "Thunderbird Council"
@@ -610,7 +620,7 @@ msgstr "Sortu Pull Request bat edo eman arazo baten berri <a href=\"%(contribute
 
 #: website/donate/index.html:7
 msgid "Give to Thunderbird"
-msgstr ""
+msgstr "Egin dohaintza Thunderbirdi"
 
 #: website/donate/index.html:17
 msgid "Support Thunderbird"
@@ -622,7 +632,7 @@ msgstr "Ohiko galderak"
 
 #: website/donate/index.html:23 website/donate/index.html:70
 msgid "Other Ways to Give"
-msgstr ""
+msgstr "Dohaintzak egiteko bestelako bideak"
 
 #: website/donate/index.html:36
 msgid "Support Thunderbird!"
@@ -635,10 +645,12 @@ msgstr "Thunderbird zuk bezalako erabiltzaileek babestua dago."
 #: website/donate/index.html:43
 msgid "Our mission is to provide an open source email app that is secure, private and free for users around the world. Your donations support this work. Will you give today?"
 msgstr ""
+"Gure misioa posta elektronikoko aplikazio bat eskaintzea da, kode irekikoa, segurua, pribatua eta doakoa mundu osoko erabiltzaileentzat. Zure dohaintzek lan hau babesten dute. Gaur dohaintza emango "
+"duzu?"
 
 #: website/donate/index.html:46
 msgid "Contributions are not tax-deductible as charitable donations."
-msgstr ""
+msgstr "Dohaintzak ez dira zergetan kengarri izango karitatezko emakidak bezala."
 
 #: website/download/index.html:9 website/includes/download-button.html:13 website/includes/download-button.html:60 website/includes/site-prefooter.html:59
 msgid "Download Thunderbird"
