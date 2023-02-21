@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-02-06 10:19-0800\n"
-"PO-Revision-Date: 2023-02-21 13:05+0000\n"
+"PO-Revision-Date: 2023-02-21 13:42+0000\n"
 "Last-Translator: Isidora Jukić <barad.dur@yahoo.com>\n"
 "Language-Team: none\n"
 "Language: sr\n"
@@ -119,7 +119,7 @@ msgstr ""
 
 #: faq.py:58
 msgid "How do I cancel or change my recurring gift?"
-msgstr "Како да откажем или променим свој стални поклон?"
+msgstr "Како да откажем или променим понављајући поклон?"
 
 #: faq.py:59
 #, python-format
@@ -128,10 +128,12 @@ msgid ""
 "card, please contact the Donor Care team <a href=\"%(help)s\">via this form</a>. Please include the email address and name you used to make your donation, and they’ll try to help you within two "
 "business days."
 msgstr ""
+"Ако подесите понављајућу донацију преко PayPal-а, мораћете да се <a href=\"%(paypal)s\">пријавите у ваш PayPal налог</a> да бисте унели промене или отказали. Ако донирате месечно путем кредитне "
+"картице, контактираје тим за подршку донорима <a href=\"%(help)s\">преко овог обрасца</a>. Наведите вашу адресу е-поште и име за вашу донацију и они ће вам помоћи у року од два радна дана."
 
 #: faq.py:63
 msgid "Who can I email directly with questions about giving?"
-msgstr ""
+msgstr "Коме могу да се директно обратим е-поруком са питањима о донирању?"
 
 #: faq.py:64
 #, python-format
@@ -139,6 +141,8 @@ msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. We will do our best to follow-up with you as soon as we can. If you need technical "
 "support, please head over to <a href=\"%(support)s\">Thunderbird Support</a> for assistance."
 msgstr ""
+"Ако имате питања о донирању Thunderbird-у, обратите нам се преко <a href=\"%(help)s\">овог обрасца</a>. Потрудићемо се да вам одговоримо што је пре могуће. Ако вам је потребна техничка подршка, "
+"посетите <a href=\"%(support)s\">Thunderbird подршку</a> за помоћ."
 
 #: start-page/beta/index.html:8
 msgid "Welcome to <div class=\"tb-text\">Thunderbird <small class=\"beta-text\">Beta</small></div>"
@@ -182,6 +186,8 @@ msgid ""
 "Thank you for using Thunderbird Beta. Your experiences with beta are important, so please report rough edges, bugs, and provide feedback in the ways suggested below - to help make the next "
 "Thunderbird release as awesome as possible."
 msgstr ""
+"Хвала вам што користите Thunderbird бета. Ваша искуства са бета софтвером су важна, зато пријавите недостатке или грешке и пружите повратне информације на доле предложен начин - како бисте помогли "
+"да следеће Thunderbird издање буде још боље."
 
 #: start-page/beta/index.html:59
 msgid "Learn and Connect"
@@ -204,6 +210,8 @@ msgid ""
 "Curious about helping?  You don’t need to be an expert to help other users or offer suggestions about improving the experience! Join us in this open source project where anyone can participate in "
 "the Thunderbird community (You don’t need to be an expert, and you don’t need to know how to code)."
 msgstr ""
+"Желите да помогнете?  Не морате да будете стручњак да помогнете другим корисницима или да предложите како да побољшамо корисничко искуство! Придружите нам се у овом пројекту отвореног кода где свако"
+" може да учествује у Thunderbird заједници (не морате бити стручњак или знати да кодирате)."
 
 #: start-page/beta/index.html:75 start-page/release/index.html:49 website/includes/base-resp.html:41 website/includes/site-footer.html:15 website/includes/site-prefooter.html:9
 #: website/includes/site-prefooter.html:12
@@ -212,7 +220,7 @@ msgstr "Укључите се"
 
 #: start-page/beta/index.html:83 start-page/release/index.html:93
 msgid "Crashed?"
-msgstr ""
+msgstr "Програм је пао?"
 
 #: start-page/beta/index.html:85
 msgid "If Crash Reporter appeared (when Thunderbird crashes), please provide more details to help developers"
@@ -228,7 +236,7 @@ msgstr ""
 
 #: start-page/beta/index.html:91 start-page/release/index.html:101
 msgid "Crash Reporter"
-msgstr ""
+msgstr "Слање извештаја о отказивању"
 
 #: start-page/beta/index.html:100
 msgid "Question? Problem?"
