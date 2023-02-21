@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-02-06 10:19-0800\n"
-"PO-Revision-Date: 2023-02-21 19:13+0000\n"
+"PO-Revision-Date: 2023-02-21 19:23+0000\n"
 "Last-Translator: soucet <soucet@centrum.cz>\n"
 "Language-Team: none\n"
 "Language: cs\n"
@@ -128,10 +128,13 @@ msgid ""
 "card, please contact the Donor Care team <a href=\"%(help)s\">via this form</a>. Please include the email address and name you used to make your donation, and they’ll try to help you within two "
 "business days."
 msgstr ""
+"Pokud jste pro opakované zasílání daru použili PayPal, <a href=\"%(paypal)s\">přihlaste se ke svému účtu PayPal</a> a následně proveďte požadované změny nebo pravidelnou platbu zrušte. Pokud máte "
+"nastaveno měsíční strhávání daru z vaší platební karty, kontaktujte prosím tým péče o dárce skrze <a href=\"%(help)s\">tento formulář</a>. Ve zprávě prosím uveďte vaši e-mailovou adresu a jméno, "
+"které jste použili pro zasílání darů a do dvou pracovních dnů se vám pokusí pomoci."
 
 #: faq.py:63
 msgid "Who can I email directly with questions about giving?"
-msgstr ""
+msgstr "Na koho se mohu obrátit s dotazy ohledně darování?"
 
 #: faq.py:64
 #, python-format
@@ -139,6 +142,8 @@ msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. We will do our best to follow-up with you as soon as we can. If you need technical "
 "support, please head over to <a href=\"%(support)s\">Thunderbird Support</a> for assistance."
 msgstr ""
+"Chcete-li se na něco zeptat ohledně poslání daru Thunderbirdu, kontaktujte nás prosím prostřednictvím <a href=\"%(help)s\">tohoto formuláře</a>. Budeme se snažit vás co nejdříve kontaktovat. Pokud "
+"potřebujete technickou podporu, přejděte prosím na <a href=\"%(support)s\">stránky podpory Thunderbirdu</a>, kde vám pomůžeme."
 
 #: start-page/beta/index.html:8
 msgid "Welcome to <div class=\"tb-text\">Thunderbird <small class=\"beta-text\">Beta</small></div>"
@@ -603,27 +608,27 @@ msgstr "Vytvořte Pull request nebo Issue v <a href=\"%(contribute_url)s\">naše
 
 #: website/donate/index.html:7
 msgid "Give to Thunderbird"
-msgstr ""
+msgstr "Pošlete Thunderbirdu dar"
 
 #: website/donate/index.html:17
 msgid "Support Thunderbird"
-msgstr ""
+msgstr "Podpoření Thunderbirdu"
 
 #: website/donate/index.html:20 website/donate/index.html:57
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Často kladené dotazy"
 
 #: website/donate/index.html:23 website/donate/index.html:70
 msgid "Other Ways to Give"
-msgstr ""
+msgstr "Jiné způsoby zaslání daru"
 
 #: website/donate/index.html:36
 msgid "Support Thunderbird!"
-msgstr ""
+msgstr "Podpořte Thunderbird!"
 
 #: website/donate/index.html:38
 msgid "Thunderbird is funded by users like you."
-msgstr ""
+msgstr "Thunderbird je financován uživateli, jako jste vy."
 
 #: website/donate/index.html:43
 msgid "Our mission is to provide an open source email app that is secure, private and free for users around the world. Your donations support this work. Will you give today?"
