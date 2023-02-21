@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-02-06 10:19-0800\n"
-"PO-Revision-Date: 2023-02-21 18:40+0000\n"
+"PO-Revision-Date: 2023-02-21 19:09+0000\n"
 "Last-Translator: Isidora Jukić <barad.dur@yahoo.com>\n"
 "Language-Team: none\n"
 "Language: sr\n"
@@ -717,24 +717,28 @@ msgid ""
 " If you want to add a POP account to beta, your options are:"
 msgstr ""
 "Користите ли <a href=\"https://support.mozilla.org/kb/difference-between-imap-and-pop3\">POP налоге</a>? За разлику од IMAP налога, једина копија ваше е-поште налази се у локалном Thunderbird "
-"профилу. Ако желите да додате POP налог у бета верзију, ваше могућности су:"
+"профилу. Ако желите да додате POP налог у бета верзију, ваше опције су:"
 
 #: website/download/beta/index.html:57
 msgid ""
 "After set up, go to <b>≡ > Account Settings > Server Settings</b> and make sure the <b>\"Leave messages on server\"</b> option is <b>checked</b>, and the <b>\"For at most [X] days\"</b> option is "
 "<b>unchecked</b>."
-msgstr ""
+msgstr "Након постављања, идите на <b>≡ > Подешавања налога > Подешавања сервера</b> и означите опцију <b>„Остави поруке на серверу”</b>, а уклоните ознаку на опцији <b>„Најдуже [X] дана”</b>."
 
 #: website/download/beta/index.html:58
 msgid ""
 "Keep the default settings. Messages will be removed from the server 14 days after download, so you will need to either stay on beta, or learn how to move your POP data back to the release profile."
 msgstr ""
+"Задржите подразумевана подешавања. Поруке ће бити избрисане са сервера 14 дана након преузимања, стога ћете морати или да останете на бета верзији или да научите како да преместите POP податке у "
+"стабилно издање."
 
 #: website/download/beta/index.html:60
 msgid ""
 "If you have <a href=\"https://support.mozilla.org/kb/organize-your-messages-using-filters\">mail filters</a> that, for example, move mail to local folders, then you must decide where to run filters "
 "- in your beta profile or your other profile."
 msgstr ""
+"Ако имате <a href=\"https://support.mozilla.org/kb/organize-your-messages-using-filters\">филтере поште</a> који, на пример, премештају пошту у локалне фасцикле, онда морате да одлучите хоћете ли "
+"исте филтере покретати и у вашем бета профилу или само у вашем другом."
 
 #: website/download/beta/index.html:62 website/includes/base-resp.html:38
 msgid "Add-ons"
@@ -745,6 +749,8 @@ msgid ""
 "Add-on authors are not obligated to make their add-ons work in beta. Some or all of your add-ons may not work. Or if they do work today, they may not work tomorrow. Consult the <a "
 "href=\"https://support.mozilla.org/kb/thunderbird-add-ons-frequently-asked-questions#w_what-if-my-add-on-is-broken\">Add-ons FAQ</a> if you have difficulty. "
 msgstr ""
+"Аутори додатака нису у обавези да направе додатке да правилно раде у бета верзији. Неки или сви ваши додаци можда неће радити. Чак и ако раде данас, нема гаранције да ће радити сутра. Погледајте <a "
+"href=\"https://support.mozilla.org/kb/thunderbird-add-ons-frequently-asked-questions#w_what-if-my-add-on-is-broken\">ЧПП о додацима</a> ако имате тешкоћа."
 
 #: website/download/beta/index.html:78
 msgid "You have two choices for installing beta: Option 1 allows you to run the beta alongside the Stable version of Thunderbird, and Option 2 upgrades your existing installation."
@@ -779,7 +785,7 @@ msgstr ""
 
 #: website/download/beta/index.html:92
 msgid "Upgrade your existing Thunderbird installation to beta."
-msgstr ""
+msgstr "Надоградите вашу постојећу Thunderbird инсталацију на бету."
 
 #: website/download/beta/index.html:94
 msgid ""
