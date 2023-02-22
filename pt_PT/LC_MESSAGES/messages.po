@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-02-06 10:19-0800\n"
-"PO-Revision-Date: 2023-02-22 03:05+0000\n"
+"PO-Revision-Date: 2023-02-22 03:12+0000\n"
 "Last-Translator: Cláudio Esperança <cesperanc@gmail.com>\n"
 "Language-Team: none\n"
 "Language: pt_PT\n"
@@ -47,53 +47,58 @@ msgid ""
 " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
 "href=\"%(url)s\">Privacy Policy</a>. If you would rather not fill in your information on our online form, you can mail us a <a href=\"%(check)s\">check</a>."
 msgstr ""
+"Nós compreendemos a importância da sua privacidade. Nós pedimos o mínimo de informações necessárias para processar os pagamentos via cartão de crédito, incluindo a morada de faturação. Isto permite "
+"ao nosso processador de pagamentos verificar a sua identidade, processar o pagamento e prevenir cobranças fraudulentas no seu cartão de crédito. Nós mantemos as suas informações privadas — se tem "
+"alguma questão, por favor, consulte a nossa <a href=\"%(url)s\">Política de Privacidade</a>. Se preferir não preencher este formulário online, pode remeter-nos um <a href=\"%(check)s\">cheque</a>."
 
 #: faq.py:28
 msgid "Can I give bitcoin?"
-msgstr ""
+msgstr "Posso doar em bitcoin?"
 
 #: faq.py:29
 msgid "We are not currently accepting bitcoin."
-msgstr ""
+msgstr "Não estamos atualmente a aceitar bitcoin."
 
 #: faq.py:32
 msgid "How can I turn off the appeal on the Thunderbird start page?"
-msgstr ""
+msgstr "Como posso desativar o pedido de donativos na página inicial do Thunderbird?"
 
 #: faq.py:33
 #, python-format
 msgid "To learn how to customize your start page please visit:<br/><a href=\"%(url)s\">%(url)s</a>"
-msgstr ""
+msgstr "Para aprender a personalizar a página inicial, por favor visite:<br/><a href=\"%(url)s\">%(url)s</a>"
 
 #: faq.py:37
 msgid "How will my gift be used?"
-msgstr ""
+msgstr "Como é que o meu donativo será utilizado?"
 
 #: faq.py:38
 msgid ""
 "Thunderbird is the leading open source cross-platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future "
 "development."
 msgstr ""
+"O Thunderbird é o cliente de correio eletrónico e calendário, multiplataforma, de código aberto, líder e gratuito para utilização comercial e pessoal. O seu donativo ajudará a garantir que continue "
+"assim e apoiará o desenvolvimento futuro."
 
 #: faq.py:41
 msgid "Doesn’t Thunderbird earn income?"
-msgstr ""
+msgstr "O Thunderbird não tem rendimentos?"
 
 #: faq.py:42
 msgid "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird."
-msgstr ""
+msgstr "Atualmente, a maior parte da receita do Thunderbird vem de donativos generosos dos utilizadores e amigos do Thunderbird."
 
 #: faq.py:45
 msgid "Who gives to Thunderbird?"
-msgstr ""
+msgstr "Quem doa para o Thunderbird?"
 
 #: faq.py:46
 msgid "Anyone can give, companies and individuals, to support development of the product now and in the future."
-msgstr ""
+msgstr "Qualquer um pode contribuir, empresas e indivíduos, para apoiar o desenvolvimento do produto, agora e no futuro."
 
 #: faq.py:49
 msgid "Does my gift give me access to tech support?"
-msgstr ""
+msgstr "O meu donativo dá-me acesso a suporte técnico?"
 
 #: faq.py:50
 #, python-format
@@ -101,20 +106,24 @@ msgid ""
 "Anyone can access tech support for Thunderbird by visiting the <a href=\"%(url)s\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial "
 "gifts."
 msgstr ""
+"Qualquer pessoa pode aceder ao suporte técnico do Thunderbird visitando o <a href=\"%(url)s\">fórum de suporte</a>. O Thunderbird não fornece suporte técnico ou suporte técnico complementar em troca"
+" de contrapartidas financeiras."
 
 #: faq.py:54
 msgid "Is my gift tax deductible?"
-msgstr ""
+msgstr "O meu donativo é dedutível nos impostos?"
 
 #: faq.py:55
 msgid ""
 "Gifts to Thunderbird are not tax-deductible, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-platform email and calendaring client, free "
 "for business and personal use. Your gift will help ensure it stays that way, and will support future development."
 msgstr ""
+"Os donativos para o Thunderbird não são dedutíveis de impostos, mas são muito apreciados. Ao doar para o Thunderbird suporta o desenvolvimento do nosso cliente de correio eletrónico e de calendário,"
+" multiplataforma, de código aberto, gratuito e líder, para utilização comercial e pessoal. O seu donativo ajudará a garantir que continue assim e apoiará o desenvolvimento futuro."
 
 #: faq.py:58
 msgid "How do I cancel or change my recurring gift?"
-msgstr ""
+msgstr "Como é que posso cancelar ou alterar o meu donativo recorrente?"
 
 #: faq.py:59
 #, python-format
@@ -123,10 +132,13 @@ msgid ""
 "card, please contact the Donor Care team <a href=\"%(help)s\">via this form</a>. Please include the email address and name you used to make your donation, and they’ll try to help you within two "
 "business days."
 msgstr ""
+"Se usou o PayPal para configurar uma doação recorrente, terá de <a href=\"%(paypal)s\">entrar na sua conta PayPal</a> para fazer mudanças ou cancelar. Se configurou um donativo mensal usando o "
+"cartão de crédito, por favor, contacte a Equipa de Apoio aos Donativos <a href=\"%(help)s\">através deste formulário</a>. Por favor, inclua o endereço de e-mail e o nome usados para fazer o donativo"
+" e a equipa tentará ajudar dentro de dois dias úteis."
 
 #: faq.py:63
 msgid "Who can I email directly with questions about giving?"
-msgstr ""
+msgstr "A quem posso enviar um e-mail diretamente com questões sobre donativos?"
 
 #: faq.py:64
 #, python-format
@@ -134,6 +146,8 @@ msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. We will do our best to follow-up with you as soon as we can. If you need technical "
 "support, please head over to <a href=\"%(support)s\">Thunderbird Support</a> for assistance."
 msgstr ""
+"Se tem perguntas sobre donativos para o Thunderbird, por favor, contacte-nos através <a href=\"%(help)s\">deste formulário</a>. Faremos o nosso melhor para o acompanhar assim que possível. Se "
+"precisar de apoio técnico, por favor, visite o <a href=\"%(support)s\">Apoio do Thunderbird</a> para ajuda."
 
 #: start-page/beta/index.html:8
 msgid "Welcome to <div class=\"tb-text\">Thunderbird <small class=\"beta-text\">Beta</small></div>"
