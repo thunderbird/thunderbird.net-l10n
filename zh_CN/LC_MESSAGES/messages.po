@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-02-06 10:19-0800\n"
-"PO-Revision-Date: 2023-02-24 15:28+0000\n"
+"PO-Revision-Date: 2023-02-24 15:42+0000\n"
 "Last-Translator: Olvcpr423 <oliverchan86@outlook.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -763,17 +763,17 @@ msgid ""
 "Simply install beta over top of your current program directory, using the default installer choices. Beta will then <u>use your current (production) default profile</u>. Because it uses your default"
 " profile, this choice makes it more difficult to switch back to using a release version should you wish to do so in the future. In other words, you should not switch back and forth between beta and "
 "normal release using the same profile."
-msgstr ""
+msgstr "直接使用安装程序的默认选项，将测试版安装到您当前的程序目录中，测试版将<u>使用您当前的默认配置文件</u>。由于其使用默认配置文件，未来会比较难切换回正式版。换句话说，您不应随意为测试版和正式版使用相同的配置文件。"
 
 #: website/download/beta/index.html:97
 msgid "For very detailed information about both methods, please check the <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">beta support article.</a>"
-msgstr ""
+msgstr "有关上述两种方法的详细信息，请查看此<a href=\"https://support.mozilla.org/kb/thunderbird-beta\">测试版支持文章</a>。"
 
 #: website/download/beta/index.html:112
 msgid ""
 "If you installed the beta over the top of the release version (choice 2 above), then your process will be more complicated. Please consult this <a href=\"https://support.mozilla.org/kb/thunderbird-"
 "beta\">beta support article.</a>"
-msgstr ""
+msgstr "如果您使用测试版覆盖安装正式版（上面的第二种方式），那么操作会复杂一些。请查看此<a href=\"https://support.mozilla.org/kb/thunderbird-beta\">测试版支持文章</a>。"
 
 #: website/download/beta/index.html:115
 msgid ""
@@ -781,6 +781,8 @@ msgid ""
 " profile per Thunderbird</a>, then start the release version of Thunderbird and it should use your release version profile data. If you no longer want to use the beta version, and do not need any of"
 " the beta data (address books, local folders, pop folders, etc), and wish to remove the beta data and beta program from your system:"
 msgstr ""
+"如果您将测试版安装到了单独的程序目录中（上面的第一种方法）并且<a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-thunderbird-installation\">为每个 Thunderbird 使用单独的配置文件</a>，然后启动 Thunderbird "
+"正式版，它应该使用您的正式版配置文件。如果您不再使用测试版，并且不需要测试版中的任何数据（包括地址簿、本地文件夹、POP 文件夹等），希望从系统中删除测试版及其数据："
 
 #: website/download/beta/index.html:118
 msgid "Start the release version of Thunderbird to use the <a href=\"https://support.mozilla.org/kb/profile-manager-create-and-remove-thunderbird-profiles\">profile manager.</a>"
