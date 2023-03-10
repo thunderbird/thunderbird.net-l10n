@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-02-06 10:19-0800\n"
+"POT-Creation-Date: 2023-03-09 17:44-0800\n"
 "PO-Revision-Date: 2023-02-24 07:13+0000\n"
 "Last-Translator: ZiriSut <rgebbid@gmail.com>\n"
 "Language-Team: none\n"
@@ -310,7 +310,7 @@ msgstr "Asteqsi? Uguren?"
 msgid "If Crash Reporter appears when Thunderbird crashes, please provide as many details as possible to help developers."
 msgstr ""
 
-#: website/404.html:7 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/includes/base-resp.html:20 website/includes/bedrock/base-resp.html:19
+#: website/404.html:7 website/download/index.html:8 website/download/index.html:51 website/download/index.html:70 website/includes/base-resp.html:20 website/includes/bedrock/base-resp.html:19
 #: website/includes/site-footer.html:4 website/includes/site-footer.html:48 website/includes/site-footer.html:55 website/includes/site-footer.html:62 website/includes/site-prefooter.html:51
 #: website/includes/site-prefooter.html:54 website/index.html:8 website/index.html:149 website/index.html:168 website/newsletter/index.html:43 website/newsletter/index.html:50
 #: website/newsletter/index.html:57
@@ -338,7 +338,7 @@ msgstr "Err tuzna n yimaylen fessuset."
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
 msgstr "Thunderbird d asnas n yiznan afessas ama di twila neɣ ubeddel n talɣa n wudem-is - daɣen yegber ddeqs n tmahilin i ifazen nezzeh!"
 
-#: website/about/index.html:32 website/download/index.html:19 website/index.html:17
+#: website/about/index.html:32 website/index.html:17
 msgid "Free Download"
 msgstr "Sader baṭel"
 
@@ -350,7 +350,7 @@ msgstr "Tebɣiḍ ad tɛerḍeḍ timahilin timaynutin uqbel wiyiḍ?"
 msgid "Get the beta and be a part of the future of Thunderbird!"
 msgstr "Awi lqem beta, tettekkiḍ deg uzekka n Thunderbird!"
 
-#: website/download/index.html:23 website/index.html:28
+#: website/index.html:28
 msgid "Thunderbird screenshot"
 msgstr "Tuṭṭfiwin n ugdil Thunderbird"
 
@@ -431,7 +431,7 @@ msgstr "Snirem timahilin"
 msgid "Explore Add-ons"
 msgstr "Snirem izegrar"
 
-#: website/download/index.html:35 website/download/index.html:55 website/index.html:154 website/index.html:174
+#: website/download/index.html:56 website/download/index.html:76 website/index.html:154 website/index.html:174
 msgid "Mozilla"
 msgstr "Mozilla"
 
@@ -626,15 +626,48 @@ msgstr ""
 msgid "Contributions are not tax-deductible as charitable donations."
 msgstr ""
 
-#: website/download/index.html:9 website/includes/download-button.html:13 website/includes/download-button.html:60 website/includes/site-prefooter.html:59
+#: website/download/index.html:9 website/includes/download-button.html:14 website/includes/download-button.html:63 website/includes/site-prefooter.html:59
 msgid "Download Thunderbird"
 msgstr "Sader-d Thunderbird"
 
 #: website/download/index.html:10
-msgid "Your download should begin automatically. Didn’t work? Try the button below!"
-msgstr "Asader-ik ilaq ad ibdu s wudem awurman. Ur yeddi ara? Ɛreḍ taqeffalt-agi daw-a!"
+msgid "Thank you for downloading and installing Thunderbird!"
+msgstr ""
 
-#: website/download/beta/index.html:7 website/includes/download-button.html:56 website/includes/site-prefooter.html:66
+#: website/download/index.html:19
+msgid "Your download didn't start automatically?"
+msgstr ""
+
+#: website/download/index.html:24 website/includes/site-prefooter.html:37
+msgid "Release Channel"
+msgstr ""
+
+#: website/download/index.html:25 website/download/index.html:29 website/download/index.html:33
+msgid "Try again"
+msgstr ""
+
+#: website/download/index.html:28 website/includes/site-prefooter.html:40
+msgid "Beta Channel"
+msgstr ""
+
+#: website/download/index.html:32 website/includes/site-prefooter.html:43
+msgid "Daily Channel"
+msgstr ""
+
+#: website/download/index.html:40
+msgid "Just one more step!"
+msgstr ""
+
+#: website/download/index.html:40
+msgid "Finish installing, and start enjoying Thunderbird."
+msgstr ""
+
+#: website/download/index.html:42
+#, python-format
+msgid "Having trouble? <a class=\"inline-link\" href=\"%(url)s\">Get help with your installation.</a>"
+msgstr ""
+
+#: website/download/beta/index.html:7 website/includes/download-button.html:59 website/includes/site-prefooter.html:66
 msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
@@ -1143,29 +1176,29 @@ msgstr ""
 msgid "FAQ"
 msgstr ""
 
-#: website/includes/download-button.html:38
+#: website/includes/download-button.html:39
 #, python-format
 msgid "Your system doesn't meet the <a href=\"%(url)s\">requirements</a> to run Thunderbird."
 msgstr "Anagraw-ik ur igbir ara<a href=\"%(url)s\">ayen iwulmen</a> i useddu n Thunderbird."
 
-#: website/includes/download-button.html:41
+#: website/includes/download-button.html:42
 #, python-format
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
 msgstr "Ma ulac aɣilif ḍfeṛ <a href=\"%(url)s\"> tinaḍin-agi</a> akken ad tesbeddeḍ Thunderbird."
 
-#: website/includes/download-button.html:58 website/includes/site-prefooter.html:81 website/includes/site-prefooter.html:84
+#: website/includes/download-button.html:61 website/includes/site-prefooter.html:81 website/includes/site-prefooter.html:84
 msgid "Thunderbird Daily"
 msgstr "Thunderbird Daily"
 
-#: website/includes/download-button.html:69
+#: website/includes/download-button.html:73
 msgid "Systems &amp; Languages"
 msgstr "Inagrawen d tutlayin"
 
-#: website/includes/download-button.html:70
+#: website/includes/download-button.html:74
 msgid "What’s New"
 msgstr "Amaynut"
 
-#: website/includes/download-button.html:72 website/includes/site-footer.html:81
+#: website/includes/download-button.html:76 website/includes/site-footer.html:81
 msgid "Privacy"
 msgstr "Tudert tabaḍnit"
 
@@ -1277,18 +1310,6 @@ msgstr "Ddu-d ɣur-neɣ"
 #: website/includes/site-prefooter.html:20
 msgid "Make a Donation"
 msgstr "Mudd tawsa"
-
-#: website/includes/site-prefooter.html:37
-msgid "Release Channel"
-msgstr ""
-
-#: website/includes/site-prefooter.html:40
-msgid "Beta Channel"
-msgstr ""
-
-#: website/includes/site-prefooter.html:43
-msgid "Daily Channel"
-msgstr ""
 
 #: website/includes/site-prefooter.html:69
 msgid "The Future of Thunderbird"
@@ -1884,6 +1905,9 @@ msgstr "iwenniten n lqem n yal lqem n Thunderbird."
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Iwenniten n lqem n Thunderbird cudden ar yal lqem n usnas. Fren lqem-ik di tebdart ddaw-a akken ad twaliḍ iwenniten n lqem."
+
+#~ msgid "Your download should begin automatically. Didn’t work? Try the button below!"
+#~ msgstr "Asader-ik ilaq ad ibdu s wudem awurman. Ur yeddi ara? Ɛreḍ taqeffalt-agi daw-a!"
 
 #~ msgid ""
 #~ "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "

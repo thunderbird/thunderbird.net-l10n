@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-02-06 10:19-0800\n"
+"POT-Creation-Date: 2023-03-09 17:44-0800\n"
 "PO-Revision-Date: 2023-02-26 22:04+0000\n"
 "Last-Translator: Isidora Jukić <barad.dur@yahoo.com>\n"
 "Language-Team: none\n"
@@ -320,7 +320,7 @@ msgstr "Питања? Проблеми?"
 msgid "If Crash Reporter appears when Thunderbird crashes, please provide as many details as possible to help developers."
 msgstr "Ако се појавило слање извештаја о отказивању када се Thunderbird срушио, наведите што више детаља да би помогли програмерима."
 
-#: website/404.html:7 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/includes/base-resp.html:20 website/includes/bedrock/base-resp.html:19
+#: website/404.html:7 website/download/index.html:8 website/download/index.html:51 website/download/index.html:70 website/includes/base-resp.html:20 website/includes/bedrock/base-resp.html:19
 #: website/includes/site-footer.html:4 website/includes/site-footer.html:48 website/includes/site-footer.html:55 website/includes/site-footer.html:62 website/includes/site-prefooter.html:51
 #: website/includes/site-prefooter.html:54 website/index.html:8 website/index.html:149 website/index.html:168 website/newsletter/index.html:43 website/newsletter/index.html:50
 #: website/newsletter/index.html:57
@@ -348,7 +348,7 @@ msgstr "Поједноставите употребу е-поште."
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
 msgstr "Thunderbird је бесплатан клијент за е-пошту који је једноставан за постављање и прилагођавање и има одличне могућности!"
 
-#: website/about/index.html:32 website/download/index.html:19 website/index.html:17
+#: website/about/index.html:32 website/index.html:17
 msgid "Free Download"
 msgstr "Бесплатно преузимање"
 
@@ -360,7 +360,7 @@ msgstr "Желите да испробате нове функције рани�
 msgid "Get the beta and be a part of the future of Thunderbird!"
 msgstr "Преузмите бета верзију и постаните део будућности Thunderbird-а!"
 
-#: website/download/index.html:23 website/index.html:28
+#: website/index.html:28
 msgid "Thunderbird screenshot"
 msgstr "Снимак Thunderbird-а"
 
@@ -440,7 +440,7 @@ msgstr "Истражите функције"
 msgid "Explore Add-ons"
 msgstr "Истражите додатке"
 
-#: website/download/index.html:35 website/download/index.html:55 website/index.html:154 website/index.html:174
+#: website/download/index.html:56 website/download/index.html:76 website/index.html:154 website/index.html:174
 msgid "Mozilla"
 msgstr "Mozilla"
 
@@ -639,15 +639,48 @@ msgstr ""
 msgid "Contributions are not tax-deductible as charitable donations."
 msgstr "Донације се не одбијају од пореза као добротворни прилози."
 
-#: website/download/index.html:9 website/includes/download-button.html:13 website/includes/download-button.html:60 website/includes/site-prefooter.html:59
+#: website/download/index.html:9 website/includes/download-button.html:14 website/includes/download-button.html:63 website/includes/site-prefooter.html:59
 msgid "Download Thunderbird"
 msgstr "Преузми Thunderbird"
 
 #: website/download/index.html:10
-msgid "Your download should begin automatically. Didn’t work? Try the button below!"
-msgstr "Ваше преузимање ће почети аутоматски. Ако није почело, кликните на дугме испод!"
+msgid "Thank you for downloading and installing Thunderbird!"
+msgstr ""
 
-#: website/download/beta/index.html:7 website/includes/download-button.html:56 website/includes/site-prefooter.html:66
+#: website/download/index.html:19
+msgid "Your download didn't start automatically?"
+msgstr ""
+
+#: website/download/index.html:24 website/includes/site-prefooter.html:37
+msgid "Release Channel"
+msgstr "Канал издања"
+
+#: website/download/index.html:25 website/download/index.html:29 website/download/index.html:33
+msgid "Try again"
+msgstr ""
+
+#: website/download/index.html:28 website/includes/site-prefooter.html:40
+msgid "Beta Channel"
+msgstr "Бета канал"
+
+#: website/download/index.html:32 website/includes/site-prefooter.html:43
+msgid "Daily Channel"
+msgstr "Дневни канал"
+
+#: website/download/index.html:40
+msgid "Just one more step!"
+msgstr ""
+
+#: website/download/index.html:40
+msgid "Finish installing, and start enjoying Thunderbird."
+msgstr ""
+
+#: website/download/index.html:42
+#, python-format
+msgid "Having trouble? <a class=\"inline-link\" href=\"%(url)s\">Get help with your installation.</a>"
+msgstr ""
+
+#: website/download/beta/index.html:7 website/includes/download-button.html:59 website/includes/site-prefooter.html:66
 msgid "Thunderbird Beta"
 msgstr "Thunderbird Beta"
 
@@ -1185,29 +1218,29 @@ msgstr "Други начини да се допринесе"
 msgid "FAQ"
 msgstr "ЧПП"
 
-#: website/includes/download-button.html:38
+#: website/includes/download-button.html:39
 #, python-format
 msgid "Your system doesn't meet the <a href=\"%(url)s\">requirements</a> to run Thunderbird."
 msgstr "Ваш систем не испуњава <a href=\"%(url)s\">услове</a> да покрене Thunderbird."
 
-#: website/includes/download-button.html:41
+#: website/includes/download-button.html:42
 #, python-format
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
 msgstr "Пратите <a href=\"%(url)s\">ова упутства</a> да инсталирате Thunderbird."
 
-#: website/includes/download-button.html:58 website/includes/site-prefooter.html:81 website/includes/site-prefooter.html:84
+#: website/includes/download-button.html:61 website/includes/site-prefooter.html:81 website/includes/site-prefooter.html:84
 msgid "Thunderbird Daily"
 msgstr "Thunderbird Daily"
 
-#: website/includes/download-button.html:69
+#: website/includes/download-button.html:73
 msgid "Systems &amp; Languages"
 msgstr "Системи и језици"
 
-#: website/includes/download-button.html:70
+#: website/includes/download-button.html:74
 msgid "What’s New"
 msgstr "Шта је ново"
 
-#: website/includes/download-button.html:72 website/includes/site-footer.html:81
+#: website/includes/download-button.html:76 website/includes/site-footer.html:81
 msgid "Privacy"
 msgstr "Приватност"
 
@@ -1319,18 +1352,6 @@ msgstr "Придружите нам се"
 #: website/includes/site-prefooter.html:20
 msgid "Make a Donation"
 msgstr "Донирајте"
-
-#: website/includes/site-prefooter.html:37
-msgid "Release Channel"
-msgstr "Канал издања"
-
-#: website/includes/site-prefooter.html:40
-msgid "Beta Channel"
-msgstr "Бета канал"
-
-#: website/includes/site-prefooter.html:43
-msgid "Daily Channel"
-msgstr "Дневни канал"
 
 #: website/includes/site-prefooter.html:69
 msgid "The Future of Thunderbird"
@@ -1968,6 +1989,9 @@ msgstr "Белешке о издању за сваку верзију Thunderbir
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Thunderbird белешке о издању су посебне за свако издање програма. Изаберите издање из списка испод да бисте видели белешке о том издању."
+
+#~ msgid "Your download should begin automatically. Didn’t work? Try the button below!"
+#~ msgstr "Ваше преузимање ће почети аутоматски. Ако није почело, кликните на дугме испод!"
 
 #~ msgid ""
 #~ "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "

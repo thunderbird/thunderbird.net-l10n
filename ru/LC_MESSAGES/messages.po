@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-02-06 10:19-0800\n"
+"POT-Creation-Date: 2023-03-09 17:44-0800\n"
 "PO-Revision-Date: 2023-02-11 14:16+0000\n"
 "Last-Translator: Alexander Slovesnik <unghost@mozilla-russia.org>\n"
 "Language-Team: none\n"
@@ -332,7 +332,7 @@ msgstr "Вопросы? Проблемы?"
 msgid "If Crash Reporter appears when Thunderbird crashes, please provide as many details as possible to help developers."
 msgstr "Если появляется окно «Сообщения о падении» при падении Thunderbird, предоставьте как можно больше сведений, чтобы помочь разработчикам."
 
-#: website/404.html:7 website/download/index.html:8 website/download/index.html:30 website/download/index.html:49 website/includes/base-resp.html:20 website/includes/bedrock/base-resp.html:19
+#: website/404.html:7 website/download/index.html:8 website/download/index.html:51 website/download/index.html:70 website/includes/base-resp.html:20 website/includes/bedrock/base-resp.html:19
 #: website/includes/site-footer.html:4 website/includes/site-footer.html:48 website/includes/site-footer.html:55 website/includes/site-footer.html:62 website/includes/site-prefooter.html:51
 #: website/includes/site-prefooter.html:54 website/index.html:8 website/index.html:149 website/index.html:168 website/newsletter/index.html:43 website/newsletter/index.html:50
 #: website/newsletter/index.html:57
@@ -360,7 +360,7 @@ msgstr "Делает электронную почту проще."
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
 msgstr "Thunderbird — это бесплатная почтовая программа, лёгкая в установке и настройке — и имеющая множество великолепных возможностей!"
 
-#: website/about/index.html:32 website/download/index.html:19 website/index.html:17
+#: website/about/index.html:32 website/index.html:17
 msgid "Free Download"
 msgstr "Загрузить бесплатно"
 
@@ -372,7 +372,7 @@ msgstr "Хотите попробовать новые функции заран
 msgid "Get the beta and be a part of the future of Thunderbird!"
 msgstr "Получите бета-версию и станьте частью будущего Thunderbird!"
 
-#: website/download/index.html:23 website/index.html:28
+#: website/index.html:28
 msgid "Thunderbird screenshot"
 msgstr "Скриншот Thunderbird"
 
@@ -452,7 +452,7 @@ msgstr "Изучите возможности"
 msgid "Explore Add-ons"
 msgstr "Исследуйте дополнения"
 
-#: website/download/index.html:35 website/download/index.html:55 website/index.html:154 website/index.html:174
+#: website/download/index.html:56 website/download/index.html:76 website/index.html:154 website/index.html:174
 msgid "Mozilla"
 msgstr "Mozilla"
 
@@ -653,15 +653,48 @@ msgstr ""
 msgid "Contributions are not tax-deductible as charitable donations."
 msgstr "Взносы не вычитаются из налога как благотворительные пожертвования."
 
-#: website/download/index.html:9 website/includes/download-button.html:13 website/includes/download-button.html:60 website/includes/site-prefooter.html:59
+#: website/download/index.html:9 website/includes/download-button.html:14 website/includes/download-button.html:63 website/includes/site-prefooter.html:59
 msgid "Download Thunderbird"
 msgstr "Загрузить Thunderbird"
 
 #: website/download/index.html:10
-msgid "Your download should begin automatically. Didn’t work? Try the button below!"
-msgstr "Ваша загрузка должна начаться автоматически. Не работает? Попробуйте нажать кнопку ниже!"
+msgid "Thank you for downloading and installing Thunderbird!"
+msgstr ""
 
-#: website/download/beta/index.html:7 website/includes/download-button.html:56 website/includes/site-prefooter.html:66
+#: website/download/index.html:19
+msgid "Your download didn't start automatically?"
+msgstr ""
+
+#: website/download/index.html:24 website/includes/site-prefooter.html:37
+msgid "Release Channel"
+msgstr "Канал Release"
+
+#: website/download/index.html:25 website/download/index.html:29 website/download/index.html:33
+msgid "Try again"
+msgstr ""
+
+#: website/download/index.html:28 website/includes/site-prefooter.html:40
+msgid "Beta Channel"
+msgstr "Канал Beta"
+
+#: website/download/index.html:32 website/includes/site-prefooter.html:43
+msgid "Daily Channel"
+msgstr "Канал Daily"
+
+#: website/download/index.html:40
+msgid "Just one more step!"
+msgstr ""
+
+#: website/download/index.html:40
+msgid "Finish installing, and start enjoying Thunderbird."
+msgstr ""
+
+#: website/download/index.html:42
+#, python-format
+msgid "Having trouble? <a class=\"inline-link\" href=\"%(url)s\">Get help with your installation.</a>"
+msgstr ""
+
+#: website/download/beta/index.html:7 website/includes/download-button.html:59 website/includes/site-prefooter.html:66
 msgid "Thunderbird Beta"
 msgstr "Thunderbird Бета"
 
@@ -716,8 +749,8 @@ msgid ""
 "New features may be incomplete works in progress, because some are completed and polished over a period of weeks. The <a href=\"https://thunderbird.topicbox.com/groups/beta\">beta forum</a> may "
 "provide more information on feature progress."
 msgstr ""
-"Разработка новых функций может быть не завершена, потому что некоторые из них дорабатываются и оттачиваются в течение нескольких недель. На <a "
-"href=\"https://thunderbird.topicbox.com/groups/beta\">бета-форуме</a> может находиться дополнительная информация о процессе разработки функций."
+"Разработка новых функций может быть не завершена, потому что некоторые из них дорабатываются и оттачиваются в течение нескольких недель. На <a href=\"https://thunderbird.topicbox.com/groups/beta"
+"\">бета-форуме</a> может находиться дополнительная информация о процессе разработки функций."
 
 #: website/download/beta/index.html:53
 msgid ""
@@ -788,8 +821,8 @@ msgid ""
 "Thunderbird 102 and newer on Windows will install beta into its own program directory. For older versions on Windows consult the <a href=\"https://support.mozilla.org/en-US/kb/thunderbird-"
 "beta\">beta support article</a>. For other operating systems use an install method appropriate for your OS to target a uniquely named directory."
 msgstr ""
-"Thunderbird 102 и новее в Windows будут устанавливать бета-версию в собственную программную папку. По более старым версиям для Windows прочитайте <a href=\"https://support.mozilla.org/en-"
-"US/kb/thunderbird-beta\">статью поддержки бета-тестирования</a>. Для других операционных систем используйте метод установки, подходящий для вашей ОС, чтобы указать папку с уникальным именем."
+"Thunderbird 102 и новее в Windows будут устанавливать бета-версию в собственную программную папку. По более старым версиям для Windows прочитайте <a href=\"https://support.mozilla.org/en-US/kb"
+"/thunderbird-beta\">статью поддержки бета-тестирования</a>. Для других операционных систем используйте метод установки, подходящий для вашей ОС, чтобы указать папку с уникальным именем."
 
 #: website/download/beta/index.html:86
 msgid ""
@@ -1211,29 +1244,29 @@ msgstr "Другие способы пожертвований"
 msgid "FAQ"
 msgstr "ЧАВО"
 
-#: website/includes/download-button.html:38
+#: website/includes/download-button.html:39
 #, python-format
 msgid "Your system doesn't meet the <a href=\"%(url)s\">requirements</a> to run Thunderbird."
 msgstr "Ваша система не удовлетворяет <a href=\"%(url)s\">требованиям</a> для запуска Thunderbird."
 
-#: website/includes/download-button.html:41
+#: website/includes/download-button.html:42
 #, python-format
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
 msgstr "Пожалуйста, следуйте <a href=\"%(url)s\">этим инструкциям</a>, чтобы установить Thunderbird."
 
-#: website/includes/download-button.html:58 website/includes/site-prefooter.html:81 website/includes/site-prefooter.html:84
+#: website/includes/download-button.html:61 website/includes/site-prefooter.html:81 website/includes/site-prefooter.html:84
 msgid "Thunderbird Daily"
 msgstr "Thunderbird Daily"
 
-#: website/includes/download-button.html:69
+#: website/includes/download-button.html:73
 msgid "Systems &amp; Languages"
 msgstr "Другие системы и языки"
 
-#: website/includes/download-button.html:70
+#: website/includes/download-button.html:74
 msgid "What’s New"
 msgstr "Что нового"
 
-#: website/includes/download-button.html:72 website/includes/site-footer.html:81
+#: website/includes/download-button.html:76 website/includes/site-footer.html:81
 msgid "Privacy"
 msgstr "Приватность"
 
@@ -1343,18 +1376,6 @@ msgstr "Присоединитесь к нам"
 #: website/includes/site-prefooter.html:20
 msgid "Make a Donation"
 msgstr "Сделать пожертвование"
-
-#: website/includes/site-prefooter.html:37
-msgid "Release Channel"
-msgstr "Канал Release"
-
-#: website/includes/site-prefooter.html:40
-msgid "Beta Channel"
-msgstr "Канал Beta"
-
-#: website/includes/site-prefooter.html:43
-msgid "Daily Channel"
-msgstr "Канал Daily"
 
 #: website/includes/site-prefooter.html:69
 msgid "The Future of Thunderbird"
@@ -2004,6 +2025,9 @@ msgstr "Примечания к выпуску для каждой версии 
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Примечания к выпуску Thunderbird специфичны для каждой версии приложения. Выберите свою версию из списка ниже, чтобы просмотреть примечания к её выпуску."
+
+#~ msgid "Your download should begin automatically. Didn’t work? Try the button below!"
+#~ msgstr "Ваша загрузка должна начаться автоматически. Не работает? Попробуйте нажать кнопку ниже!"
 
 #~ msgid ""
 #~ "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
