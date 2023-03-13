@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-03-09 17:44-0800\n"
-"PO-Revision-Date: 2023-03-10 09:54+0000\n"
+"PO-Revision-Date: 2023-03-13 22:36+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language-Team: none\n"
 "Language: el\n"
@@ -95,7 +95,7 @@ msgstr "Ποιος δωρίζει στο Thunderbird;"
 
 #: faq.py:46
 msgid "Anyone can give, companies and individuals, to support development of the product now and in the future."
-msgstr ""
+msgstr "Όλοι, ιδιώτες και επιχειρήσεις, μπορούν να δωρίσουν για την υποστήριξη της ανάπτυξης του προϊόντος, τώρα και στο μέλλον."
 
 #: faq.py:49
 msgid "Does my gift give me access to tech support?"
@@ -134,10 +134,13 @@ msgid ""
 "card, please contact the Donor Care team <a href=\"%(help)s\">via this form</a>. Please include the email address and name you used to make your donation, and they’ll try to help you within two "
 "business days."
 msgstr ""
+"Αν χρησιμοποιήσατε το PayPal για να ρυθμίσετε μια επαναλαμβανόμενη δωρεά, θα πρέπει να <a href=\"%(paypal)s\">συνδεθείτε στον λογαριασμό PayPal σας</a> για να κάνετε αλλαγές ή ακύρωση. Αν κάνατε "
+"μηνιαία δωρεά με πιστωτική κάρτα, παρακαλούμε επικοινωνήστε με την ομάδα υποστήριξης δωρητών <a href=\"%(help)s\">μέσω αυτής της φόρμας</a>. Παρακαλούμε παραθέστε τη διεύθυνση email και το όνομα που"
+" χρησιμοποιήσατε για τη δωρεά σας και η ομάδα μας θα προσπαθήσει να σας βοηθήσει εντός δύο εργάσιμων ημερών."
 
 #: faq.py:63
 msgid "Who can I email directly with questions about giving?"
-msgstr ""
+msgstr "Σε ποιον μπορώ να στείλω απευθείας email με ερωτήσεις σχετικά με τις δωρεές;"
 
 #: faq.py:64
 #, python-format
@@ -145,6 +148,8 @@ msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. We will do our best to follow-up with you as soon as we can. If you need technical "
 "support, please head over to <a href=\"%(support)s\">Thunderbird Support</a> for assistance."
 msgstr ""
+"Εάν έχετε κάποια απορία σχετικά με τις δωρεές στο Thunderbird, παρακαλούμε επικοινωνήστε μαζί μας μέσω <a href=\"%(help)s\">αυτής της φόρμας</a>. Θα καταβάλουμε κάθε δυνατή προσπάθεια για να σας "
+"απαντήσουμε το συντομότερο δυνατό. Αν χρειάζεστε τεχνική υποστήριξη, παρακαλούμε μεταβείτε στην <a href=\"%(support)s\">Υποστήριξη Thunderbird</a> για βοήθεια."
 
 #: start-page/beta/index.html:8
 msgid "Welcome to <div class=\"tb-text\">Thunderbird <small class=\"beta-text\">Beta</small></div>"
@@ -496,6 +501,10 @@ msgid ""
 "to learn how you can participate on the Thunderbird team. We also have paid staff working full-time on Thunderbird, <a href=\"%(donate)s\" data-donate-btn data-donate-content=\"about\">funded by "
 "donations</a> from our users. If you’re curious about who is working on Thunderbird, check out the <a href=\"%(core_team)s\">list of our core contributors</a>."
 msgstr ""
+"Υπάρχει μια παθιασμένη ομάδα εθελοντών που συμμετέχουν στην ανάπτυξη του Thunderbird και την προσφορά βοήθειας στους χρήστες, που θα εκτιμούσαν τη συνεισφορά σας. Ελέγξτε τη <a "
+"href=\"%(volunteer)s\">σελίδα συμμετοχής</a> για να μάθετε πώς μπορείτε να γίνετε μέλος της ομάδας του Thunderbird. Διαθέτουμε επίσης προσωπικό πλήρους απασχόλησης για το Thunderbird, <a "
+"href=\"%(donate)s\" data-donate-btn data-donate-content=\"about\">με τη βοήθεια δωρεών</a> από τους χρήστες μας. Αν έχετε περιέργεια να μάθετε ποια είναι τα άτομα που εργάζονται πάνω στο "
+"Thunderbird, δείτε τη <a href=\"%(core_team)s\">λίστα των βασικών εθελοντών μας</a>."
 
 #: website/about/index.html:69
 msgid "Thunderbird Council"
@@ -617,7 +626,7 @@ msgstr "Δωρεά στο Thunderbird"
 
 #: website/donate/index.html:17
 msgid "Support Thunderbird"
-msgstr ""
+msgstr "Υποστήριξη Thunderbird"
 
 #: website/donate/index.html:20 website/donate/index.html:57
 msgid "Frequently Asked Questions"
@@ -625,15 +634,15 @@ msgstr "Συχνές ερωτήσεις"
 
 #: website/donate/index.html:23 website/donate/index.html:70
 msgid "Other Ways to Give"
-msgstr ""
+msgstr "Άλλοι τρόποι δωρεάς"
 
 #: website/donate/index.html:36
 msgid "Support Thunderbird!"
-msgstr ""
+msgstr "Υποστηρίξτε το Thunderbird!"
 
 #: website/donate/index.html:38
 msgid "Thunderbird is funded by users like you."
-msgstr ""
+msgstr "Το Thunderbird χρηματοδοτείται από χρήστες σαν κι εσάς."
 
 #: website/donate/index.html:43
 msgid "Our mission is to provide an open source email app that is secure, private and free for users around the world. Your donations support this work. Will you give today?"
@@ -649,11 +658,11 @@ msgstr "Λήψη του Thunderbird"
 
 #: website/download/index.html:10
 msgid "Thank you for downloading and installing Thunderbird!"
-msgstr ""
+msgstr "Σας ευχαριστούμε για τη λήψη και την εγκατάσταση του Thunderbird!"
 
 #: website/download/index.html:19
 msgid "Your download didn't start automatically?"
-msgstr ""
+msgstr "Δεν ξεκίνησε αυτόματα η λήψη σας;"
 
 #: website/download/index.html:24 website/includes/site-prefooter.html:37
 msgid "Release Channel"
@@ -661,7 +670,7 @@ msgstr "Κανάλι Release"
 
 #: website/download/index.html:25 website/download/index.html:29 website/download/index.html:33
 msgid "Try again"
-msgstr ""
+msgstr "Δοκιμή ξανά"
 
 #: website/download/index.html:28 website/includes/site-prefooter.html:40
 msgid "Beta Channel"
@@ -673,7 +682,7 @@ msgstr "Κανάλι Daily"
 
 #: website/download/index.html:40
 msgid "Just one more step!"
-msgstr ""
+msgstr "Απομένει μόνο ένα βήμα!"
 
 #: website/download/index.html:40
 msgid "Finish installing, and start enjoying Thunderbird."
@@ -1216,7 +1225,7 @@ msgstr "Ενημερωθείτε σχετικά με τις τελευταίες
 
 #: website/includes/donate-modal.html:36
 msgid "Pay What You Want"
-msgstr ""
+msgstr "Πληρώστε ό,τι θέλετε"
 
 #: website/includes/donate-modal.html:40
 msgid "Thunderbird is independent, free, and Open Source software sustained by your donations. Help us keep the project alive!"
@@ -1484,7 +1493,7 @@ msgstr ""
 
 #: website/includes/ways-to-give.html:56
 msgid "Please include your email address on the memo line of your check to help us track and attribute your gift."
-msgstr ""
+msgstr "Παρακαλούμε γράψτε τη διεύθυνση email σας στη γραμμή υπομνήματος της επιταγής σας, ώστε να μας βοηθήσετε να εντοπίσουμε και να αναγνωρίσουμε τη δωρεά σας."
 
 #: website/newsletter/index.html:19
 msgid ""
