@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-03-09 17:44-0800\n"
-"PO-Revision-Date: 2023-03-27 11:43+0000\n"
+"PO-Revision-Date: 2023-03-28 10:06+0000\n"
 "Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
 "Language-Team: none\n"
 "Language: sq\n"
@@ -47,6 +47,10 @@ msgid ""
 " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
 "href=\"%(url)s\">Privacy Policy</a>. If you would rather not fill in your information on our online form, you can mail us a <a href=\"%(check)s\">check</a>."
 msgstr ""
+"E kuptojmë që privatësia juaj është shumë e rëndësishme. Ne kërkojmë një sasi minimale hollësish të domosdoshme për përmbushjen e dhurimeve me kartë krediti, përfshi adresa faturimi. Kjo i lejon "
+"përpunuesit tonë të pagesave të verifikojë identitetin tuaj, të kryejë pagesën tuaj dhe të pengojë faturime mashtrim në kartën tuaj të kreditit. Hollësitë tuaja i ruajmë private — nëse keni pyetje, "
+"ju lutemi, shihni te <a href=\"%(url)s\">Rregullat tona të Privatësisë</a>. Nëse nuk do të donit të plotësonit hollësitë tuaja në formularin tonë të dhurimeve internetore, mund të na dërgoni me "
+"postë një <a href=\"%(check)s\">çek</a>."
 
 #: faq.py:28
 msgid "Can I give bitcoin?"
@@ -63,7 +67,7 @@ msgstr "Si ta çaktivizoj thirrjen te faqja e fillimit të Thunderbird-it?"
 #: faq.py:33
 #, python-format
 msgid "To learn how to customize your start page please visit:<br/><a href=\"%(url)s\">%(url)s</a>"
-msgstr ""
+msgstr "Që të mësoni se si të përshtatni faqen tuaj të fillimit, ju lutemi, vizitoni:<br/><a href=\"%(url)s\">%(url)s</a>"
 
 #: faq.py:37
 msgid "How will my gift be used?"
@@ -103,6 +107,8 @@ msgid ""
 "Anyone can access tech support for Thunderbird by visiting the <a href=\"%(url)s\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial "
 "gifts."
 msgstr ""
+"Asistencë teknike për Thunderbird-in mund të ketë cilido, duke vizituar <a href=\"%(url)s\">forumin e asistencës</a>. Thunderbird-i nuk ofron asistencë teknike, apo asistencë të thelluar teknike, në"
+" shkëmbim të dhuratave financiare."
 
 #: faq.py:54
 msgid "Is my gift tax deductible?"
@@ -127,6 +133,9 @@ msgid ""
 "card, please contact the Donor Care team <a href=\"%(help)s\">via this form</a>. Please include the email address and name you used to make your donation, and they’ll try to help you within two "
 "business days."
 msgstr ""
+"Nëse përdorët PayPal-in që të ujdisni një dhuratë periodike, do t’ju duhet të <a href=\"%(paypal)s\">bëni hyrjen te llogaria juaj PayPal</a>, që të bëni ndryshime në të, apo ta anuloni. Nëse bëtë "
+"një dhuratë të përmuajshme përmes karte krediti, ju lutemi, lidhuni me ekipin tonë Kujdesi për Dhuruesit, përmes <a href=\"%(help)s\">këtij formulari</a>. Ju lutemi, përfshini në të adresën email "
+"dhe emrin që përdorët për të bërë dhuratën tuaj dhe do të përpiqen t’ju ndihmojnë brenda dy ditësh pune."
 
 #: faq.py:63
 msgid "Who can I email directly with questions about giving?"
@@ -138,6 +147,8 @@ msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. We will do our best to follow-up with you as soon as we can. If you need technical "
 "support, please head over to <a href=\"%(support)s\">Thunderbird Support</a> for assistance."
 msgstr ""
+"Nëse keni një pyetje rreth dhurimesh për Thunderbird-in, ju lutemi, lidhuni me përmes <a href=\"%(help)s\">këtij formulari</a>. Do të bëjmë ç’të mundeni për ta ndjekur sa më shpejt të jetë e mundur."
+" Nëse ju duhet asistencë teknike, drejtohuni për ndihmë te <a href=\"%(support)s\">Asistencë për Thunderbird-in</a>."
 
 #: start-page/beta/index.html:8
 msgid "Welcome to <div class=\"tb-text\">Thunderbird <small class=\"beta-text\">Beta</small></div>"
@@ -635,6 +646,7 @@ msgstr "Thunderbird-i financohet nga përdorues si ju."
 #: website/donate/index.html:43
 msgid "Our mission is to provide an open source email app that is secure, private and free for users around the world. Your donations support this work. Will you give today?"
 msgstr ""
+"Misioni ynë është të japim një aplikacion email-esh me burim të hapët, që është i siguruar, privat dhe i lirë për përdorues anembanë botës. Dhurimet tuaja ndihmojnë punon tonë. A do të dhuroni sot?"
 
 #: website/donate/index.html:46
 msgid "Contributions are not tax-deductible as charitable donations."
@@ -674,7 +686,7 @@ msgstr "Edhe një hap!"
 
 #: website/download/index.html:40
 msgid "Finish installing, and start enjoying Thunderbird."
-msgstr ""
+msgstr "Përfundojeni instalimin dhe filloni të shijoni Thunderbird-in."
 
 #: website/download/index.html:42
 #, python-format
