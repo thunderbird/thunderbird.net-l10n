@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-03-09 17:44-0800\n"
-"PO-Revision-Date: 2023-04-26 17:05+0000\n"
+"PO-Revision-Date: 2023-04-27 18:37+0000\n"
 "Last-Translator: Jiri Grönroos <jiri.gronroos@iki.fi>\n"
 "Language-Team: none\n"
 "Language: fi\n"
@@ -38,7 +38,7 @@ msgstr ""
 
 #: faq.py:23
 msgid "Why do you need my address in order to process a gift?"
-msgstr ""
+msgstr "Miksi tarvitsette osoitteeni lahjan käsittelyyn?"
 
 #: faq.py:24
 #, python-format
@@ -67,7 +67,7 @@ msgstr ""
 
 #: faq.py:37
 msgid "How will my gift be used?"
-msgstr ""
+msgstr "Miten lahjani käytetään?"
 
 #: faq.py:38
 msgid ""
@@ -93,7 +93,7 @@ msgstr ""
 
 #: faq.py:49
 msgid "Does my gift give me access to tech support?"
-msgstr ""
+msgstr "Saanko lahjani myötä pääsyn tekniseen tukeen?"
 
 #: faq.py:50
 #, python-format
@@ -104,7 +104,7 @@ msgstr ""
 
 #: faq.py:54
 msgid "Is my gift tax deductible?"
-msgstr ""
+msgstr "Onko lahja verotuksessa vähennyskelpoinen?"
 
 #: faq.py:55
 msgid ""
@@ -250,16 +250,12 @@ msgid "Beta Forum"
 msgstr "Beetafoorumi"
 
 #: start-page/beta/index.html:117 start-page/release/index.html:81
-#, fuzzy
 msgid "Report"
 msgstr "Ilmoita virheestä"
 
 #: start-page/beta/index.html:119 start-page/release/index.html:83
-#, fuzzy
 msgid "Think you’ve found a new problem or rough edge? Create a bug report so we can make sure it gets solved, resulting in a better Thunderbird experience for all."
-msgstr ""
-"Uskotko löytäneesi ongelman Thunderbirdistä? <a href=\"%(bug)s\">Luo virheraportti</a>, jotta voimme korjata mahdolliset ongelmat. Ongelmien tunnistaminen ja korjaaminen tekee Thunderbirdistä "
-"paremman kaikille."
+msgstr "Uskotko löytäneesi ongelman Thunderbirdistä? Luo virheraportti, jotta voimme korjata mahdolliset ongelmat. Ongelmien tunnistaminen ja korjaaminen tekee Thunderbirdistä paremman kaikille."
 
 #: start-page/beta/index.html:121 start-page/release/index.html:85 website/includes/site-prefooter.html:24
 msgid "Report a Bug"
@@ -602,7 +598,7 @@ msgstr "Voit luoda ns. pull requestin (vetopyynnön) tai avata tiketin <a href=\
 
 #: website/donate/index.html:7
 msgid "Give to Thunderbird"
-msgstr ""
+msgstr "Anna Thunderbirdille"
 
 #: website/donate/index.html:17
 msgid "Support Thunderbird"
@@ -709,7 +705,7 @@ msgstr "Tärkeitä huomioita"
 
 #: website/download/beta/index.html:47
 msgid "Before you download and test the beta, there are some important considerations to be aware of:"
-msgstr ""
+msgstr "Ennen kuin lataat ja testaat esiversiota, sinun on huomioitava muutama tärkeä seikka:"
 
 #: website/download/beta/index.html:50
 msgid "Beta installation will <u>replace</u> your currently installed program, unless you use the instructions in <a href=\"#howto\">How to install and run Beta</a>."
@@ -751,6 +747,7 @@ msgstr ""
 msgid ""
 "Keep the default settings. Messages will be removed from the server 14 days after download, so you will need to either stay on beta, or learn how to move your POP data back to the release profile."
 msgstr ""
+"Säilytä oletusasetukset. Viestit poistetaan palvelimelta 14 päivän kuluttua latauksesta, joten sinun on joko pysyttävä esiversiossa tai opittava siirtämään POP-tietosi takaisin julkaisuprofiiliin."
 
 #: website/download/beta/index.html:60
 msgid ""
@@ -1246,12 +1243,12 @@ msgstr "Seuraa %(twitter)siä Twitterissä"
 #: website/includes/site-footer.html:52 website/newsletter/index.html:47
 #, python-format
 msgid "Follow %(youtube)s on YouTube"
-msgstr ""
+msgstr "Seuraa %(youtube)s YouTubessa"
 
 #: website/includes/site-footer.html:59 website/newsletter/index.html:54
 #, python-format
 msgid "Follow %(linkedin)s on LinkedIn"
-msgstr ""
+msgstr "Seuraa %(linkedin)s LinkedInissä"
 
 #: website/includes/site-footer.html:66 website/newsletter/index.html:61
 #, python-format
@@ -1558,7 +1555,7 @@ msgstr "Uudet kuvakkeet ja oletuskansiovärit"
 
 #: website/thunderbird/102.0/whatsnew/index.html:138
 msgid "Use Thunderbird without an email account (for example, as an RSS reader)"
-msgstr ""
+msgstr "Käytä Thunderbirdiä ilman sähköpostitiliä (esimerkiksi RSS-lukijana)"
 
 #: website/thunderbird/102.0/whatsnew/index.html:139
 msgid "Numerous OpenPGP improvements"
@@ -1784,7 +1781,7 @@ msgstr ""
 
 #: website/thunderbird/91.0/whatsnew/index.html:79
 msgid "UI Density Control"
-msgstr ""
+msgstr "Käyttöliittymän tiheyden säätö"
 
 #: website/thunderbird/91.0/whatsnew/index.html:82
 msgid ""
