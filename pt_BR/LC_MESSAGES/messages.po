@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-03-09 17:44-0800\n"
+"POT-Creation-Date: 2023-05-12 22:50-0700\n"
 "PO-Revision-Date: 2023-03-13 20:24+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: none\n"
@@ -28,19 +28,10 @@ msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a who
 msgstr "Thunderbird é um projeto da MZLA Technologies Corporation, subsidiária exclusiva da Fundação Mozilla."
 
 #: faq.py:18
-msgid "What are the ways I can give?"
-msgstr "Quais são as maneiras de doar?"
-
-#: faq.py:19
-#, python-format
-msgid "<a href=\"%(url)s\">Visit this link to make a secure online donation right now via credit card or PayPal.</a>"
-msgstr "<a href=\"%(url)s\">Visite este link para fazer uma doação online segura via cartão de crédito ou PayPal.</a>"
-
-#: faq.py:23
 msgid "Why do you need my address in order to process a gift?"
 msgstr "Por que vocês precisam do meu endereço para processar uma doação?"
 
-#: faq.py:24
+#: faq.py:19
 #, python-format
 msgid ""
 "We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
@@ -51,28 +42,28 @@ msgstr ""
 "permite ao nosso processador de pagamentos verificar sua identidade, processar seu pagamento e evitar cobranças fraudulentas no seu cartão de crédito. Mantemos suas informações privativas. Se tiver "
 "dúvidas, consulte nossa <a href=\"%(url)s\">política de privacidade</a>. Se preferir não preencher suas informações em nosso formulário online, pode nos enviar um <a href=\"%(check)s\">cheque</a>."
 
-#: faq.py:28
+#: faq.py:23
 msgid "Can I give bitcoin?"
 msgstr "Posso doar bitcoin?"
 
-#: faq.py:29
+#: faq.py:24
 msgid "We are not currently accepting bitcoin."
 msgstr "Atualmente não estamos aceitando bitcoin."
 
-#: faq.py:32
+#: faq.py:27
 msgid "How can I turn off the appeal on the Thunderbird start page?"
 msgstr "Como posso desativar o pedido na página inicial do Thunderbird?"
 
-#: faq.py:33
+#: faq.py:28
 #, python-format
 msgid "To learn how to customize your start page please visit:<br/><a href=\"%(url)s\">%(url)s</a>"
 msgstr "Para saber como personalizar sua página inicial, visite:<br/><a href=\"%(url)s\">%(url)s</a>"
 
-#: faq.py:37
+#: faq.py:32
 msgid "How will my gift be used?"
 msgstr "Como minha doação será usada?"
 
-#: faq.py:38
+#: faq.py:33
 msgid ""
 "Thunderbird is the leading open source cross-platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future "
 "development."
@@ -80,27 +71,27 @@ msgstr ""
 "O Thunderbird é o principal cliente de email e agenda multiplataforma de código aberto, livre para uso comercial e pessoal. Sua doação ajudará a garantir que continue assim e apoiará "
 "desenvolvimentos futuros."
 
-#: faq.py:41
+#: faq.py:36
 msgid "Doesn’t Thunderbird earn income?"
 msgstr "O Thunderbird não gera renda?"
 
-#: faq.py:42
+#: faq.py:37
 msgid "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird."
 msgstr "Atualmente, a maior parte da receita do Thunderbird vem de doações de generosos amigos e usuários do Thunderbird."
 
-#: faq.py:45
+#: faq.py:40
 msgid "Who gives to Thunderbird?"
 msgstr "Quem doa ao Thunderbird?"
 
-#: faq.py:46
+#: faq.py:41
 msgid "Anyone can give, companies and individuals, to support development of the product now and in the future."
 msgstr "Qualquer um, empresa ou pessoa, pode doar para apoiar o desenvolvimento do produto, agora e no futuro."
 
-#: faq.py:49
+#: faq.py:44
 msgid "Does my gift give me access to tech support?"
 msgstr "Minha doação me dá acesso a suporte técnico?"
 
-#: faq.py:50
+#: faq.py:45
 #, python-format
 msgid ""
 "Anyone can access tech support for Thunderbird by visiting the <a href=\"%(url)s\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial "
@@ -109,11 +100,11 @@ msgstr ""
 "Qualquer um pode acessar o suporte técnico do Thunderbird visitando o <a href=\"%(url)s\">fórum de suporte</a>. O Thunderbird não fornece suporte técnico ou suporte técnico avançado em troca de "
 "doações."
 
-#: faq.py:54
+#: faq.py:49
 msgid "Is my gift tax deductible?"
 msgstr "Minha doação é dedutível de impostos?"
 
-#: faq.py:55
+#: faq.py:50
 msgid ""
 "Gifts to Thunderbird are not tax-deductible, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-platform email and calendaring client, free "
 "for business and personal use. Your gift will help ensure it stays that way, and will support future development."
@@ -121,11 +112,11 @@ msgstr ""
 "Doações ao Thunderbird não são dedutíveis de impostos, mas são muito valorizadas. Doar ao Thunderbird apoia o desenvolvimento do principal cliente de email e agenda multiplataforma de código aberto,"
 " livre para uso comercial e pessoal. Sua doação ajudará a garantir que continue assim e apoiará futuros desenvolvimentos."
 
-#: faq.py:58
+#: faq.py:53
 msgid "How do I cancel or change my recurring gift?"
 msgstr "Como cancelar ou alterar minha doação recorrente?"
 
-#: faq.py:59
+#: faq.py:54
 #, python-format
 msgid ""
 "If you used PayPal to set up a recurring gift, you’ll need to <a href=\"%(paypal)s\">log in to your PayPal account</a> to make changes or to cancel. If you made a monthly gift using your credit "
@@ -136,11 +127,11 @@ msgstr ""
 "cartão de crédito, entre em contato com a equipe de suporte ao doador <a href=\"%(help)s\">através deste formulário</a>. Inclua o endereço de email e o nome que você usou para fazer a doação e eles "
 "irão tentar te ajudar num prazo de até dois dias úteis."
 
-#: faq.py:63
+#: faq.py:58
 msgid "Who can I email directly with questions about giving?"
 msgstr "A quem posso enviar um email diretamente com perguntas sobre doação?"
 
-#: faq.py:64
+#: faq.py:59
 #, python-format
 msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. We will do our best to follow-up with you as soon as we can. If you need technical "
@@ -332,7 +323,7 @@ msgstr "Se aparecer o relator de travamentos quando o Thunderbird travar, forne�
 #: website/404.html:7 website/download/index.html:8 website/download/index.html:51 website/download/index.html:70 website/includes/base-resp.html:20 website/includes/bedrock/base-resp.html:19
 #: website/includes/site-footer.html:4 website/includes/site-footer.html:48 website/includes/site-footer.html:55 website/includes/site-footer.html:62 website/includes/site-prefooter.html:51
 #: website/includes/site-prefooter.html:54 website/index.html:8 website/index.html:149 website/index.html:168 website/newsletter/index.html:43 website/newsletter/index.html:50
-#: website/newsletter/index.html:57
+#: website/newsletter/index.html:57 website/thunderbird/102.0/beta-appeal/index.html:106
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
@@ -675,7 +666,7 @@ msgstr "Canal Beta"
 msgid "Daily Channel"
 msgstr "Canal Daily"
 
-#: website/download/index.html:40
+#: website/download/index.html:40 website/thunderbird/102.0/beta-appeal/index.html:47
 msgid "Just one more step!"
 msgstr "Só mais uma coisa!"
 
@@ -683,7 +674,7 @@ msgstr "Só mais uma coisa!"
 msgid "Finish installing, and start enjoying Thunderbird."
 msgstr "Conclua a instalação e comece a desfrutar do Thunderbird."
 
-#: website/download/index.html:42
+#: website/download/index.html:42 website/thunderbird/102.0/beta-appeal/index.html:49
 #, python-format
 msgid "Having trouble? <a class=\"inline-link\" href=\"%(url)s\">Get help with your installation.</a>"
 msgstr "Está com problemas? <a class=\"inline-link\" href=\"%(url)s\">Peça ajuda para sua instalação.</a>"
@@ -717,8 +708,8 @@ msgid ""
 "Do you want to help the global Thunderbird community by discovering and reporting bugs? Then beta is a great choice for you, because it gets fixes and <a href=\"https://support.mozilla.org/kb/new-"
 "thunderbird-102\">new features</a> long before they reach release!"
 msgstr ""
-"Quer ajudar a comunidade global do Thunderbird descobrindo e relatando bugs? Então a versão beta é uma ótima opção para você, porque ela recebe correções e <a "
-"href=\"https://support.mozilla.org/kb/new-thunderbird-102\">novos recursos</a> muito antes de ser lançados na versão estável!"
+"Quer ajudar a comunidade global do Thunderbird descobrindo e relatando bugs? Então a versão beta é uma ótima opção para você, porque ela recebe correções e <a href=\"https://support.mozilla.org/kb"
+"/new-thunderbird-102\">novos recursos</a> muito antes de ser lançados na versão estável!"
 
 #: website/download/beta/index.html:45
 msgid "Important Considerations"
@@ -815,9 +806,9 @@ msgid ""
 "Thunderbird 102 and newer on Windows will install beta into its own program directory. For older versions on Windows consult the <a href=\"https://support.mozilla.org/en-US/kb/thunderbird-"
 "beta\">beta support article</a>. For other operating systems use an install method appropriate for your OS to target a uniquely named directory."
 msgstr ""
-"O Thunderbird 102 em diante no Windows instala a versão beta em seu próprio diretório de programa. Em versões mais antigas no Windows, consulte o <a "
-"href=\"https://support.mozilla.org/kb/thunderbird-beta\">artigo de suporte do beta</a>. Em outros sistemas operacionais, use um método de instalação adequado para seu sistema operacional, "
-"direcionando a instalação para um diretório com nome exclusivo."
+"O Thunderbird 102 em diante no Windows instala a versão beta em seu próprio diretório de programa. Em versões mais antigas no Windows, consulte o <a href=\"https://support.mozilla.org/kb"
+"/thunderbird-beta\">artigo de suporte do beta</a>. Em outros sistemas operacionais, use um método de instalação adequado para seu sistema operacional, direcionando a instalação para um diretório com"
+" nome exclusivo."
 
 #: website/download/beta/index.html:86
 msgid ""
@@ -1170,7 +1161,8 @@ msgstr ""
 "nossa abertura e a ativa comunidade de especialistas ajudam a garantir que nossos produtos sejam mais seguros e rapidamente atualizados, permitindo ainda nos beneficiar das melhores ferramentas de "
 "análise e avaliação de terceiros para melhorar ainda mais a segurança geral."
 
-#: website/includes/base-resp.html:20 website/includes/base-resp.html:22 website/includes/site-footer.html:5 website/includes/site-footer.html:6
+#: website/includes/base-resp.html:20 website/includes/base-resp.html:22 website/includes/site-footer.html:5 website/includes/site-footer.html:6 website/thunderbird/102.0/beta-appeal/index.html:107
+#: website/thunderbird/102.0/beta-appeal/index.html:108
 msgid "Thunderbird Vector Wordmark"
 msgstr "Logotipo vetorial do Thunderbird"
 
@@ -1394,76 +1386,10 @@ msgid "Download Daily"
 msgstr "Baixar o Daily"
 
 #: website/includes/ways-to-give.html:6
-msgid "Bank Transfer / SEPA"
-msgstr "Transferência bancária / SEPA"
-
-#: website/includes/ways-to-give.html:7
-msgid ""
-"We accept contributions in Euros through Single European Payment Area (SEPA)\n"
-"    transfer, and British Pounds through BACS transfer."
-msgstr "Aceitamos contribuições em euros através de transferência via Single European Payment Area (SEPA) e libras esterlinas via transferência BACS."
-
-#: website/includes/ways-to-give.html:9
-msgid ""
-"Please note that for smaller (under 10 EUR or equivalent) contributions, we request that you contribute via credit card or PayPal to\n"
-"    help reduce our processing fees."
-msgstr "Note que, para contribuições menores (abaixo de 10 euros ou equivalente), solicitamos que você contribua via cartão de crédito ou PayPal para ajudar a reduzir nossas taxas de processamento."
-
-#: website/includes/ways-to-give.html:11
-msgid ""
-"If your bank requests our physical address, it is 2 Harrison Street, Suite 175, San\n"
-"    Francisco, CA 94105 USA."
-msgstr "Caso seu banco solicite nosso endereço físico, é 2 Harrison Street, Suite 175, San Francisco, CA 94105 USA."
-
-#: website/includes/ways-to-give.html:16
-msgid "Euros:"
-msgstr "Euros:"
-
-#: website/includes/ways-to-give.html:18 website/includes/ways-to-give.html:31
-msgid "Account Currency:"
-msgstr "Moeda da conta:"
-
-#: website/includes/ways-to-give.html:19 website/includes/ways-to-give.html:32
-msgid "Receiving Bank (Pay to):"
-msgstr "Banco recebedor (pagar para):"
-
-#: website/includes/ways-to-give.html:20 website/includes/ways-to-give.html:33
-msgid "City & Country/Region:"
-msgstr "Cidade e país / região:"
-
-#: website/includes/ways-to-give.html:21 website/includes/ways-to-give.html:38
-msgid "SWIFT/BIC Code:"
-msgstr "Código SWIFT/BIC:"
-
-#: website/includes/ways-to-give.html:22 website/includes/ways-to-give.html:36
-msgid "Beneficiary Name (For credit to):"
-msgstr "Nome do beneficiário (para crédito de):"
-
-#: website/includes/ways-to-give.html:23 website/includes/ways-to-give.html:39
-msgid "IBAN:"
-msgstr "IBAN:"
-
-#: website/includes/ways-to-give.html:24 website/includes/ways-to-give.html:40
-msgid "Memo field:"
-msgstr "Campo de anotação:"
-
-#: website/includes/ways-to-give.html:29
-msgid "British Pound Sterling:"
-msgstr "Libra esterlina britânica:"
-
-#: website/includes/ways-to-give.html:34
-msgid "Bank Sort Code:"
-msgstr "Código do banco:"
-
-#: website/includes/ways-to-give.html:35
-msgid "Account Number (8 digits):"
-msgstr "Número da conta (8 dígitos):"
-
-#: website/includes/ways-to-give.html:45
 msgid "Check (via postal service)"
 msgstr "Cheque (via correios)"
 
-#: website/includes/ways-to-give.html:47
+#: website/includes/ways-to-give.html:8
 #, python-format
 msgid ""
 "MZLA/Thunderbird is happy to accept your donation <span class=\"%(class)s\">(made payable to “MZLA Technologies Corp”)</span> via check;\n"
@@ -1472,7 +1398,7 @@ msgstr ""
 "A MZLA/Thunderbird fica feliz em aceitar sua doação <span class=\"%(class)s\">(em nome de “MZLA Technologies Corp”)</span> via cheque. No entanto, note que só podemos aceitar cheques em dólares "
 "americanos que possam ser sacados em um banco nos Estados Unidos."
 
-#: website/includes/ways-to-give.html:56
+#: website/includes/ways-to-give.html:17
 msgid "Please include your email address on the memo line of your check to help us track and attribute your gift."
 msgstr "Por favor, inclua seu endereço de email na linha de memorando de seu cheque para nos ajudar a acompanhar e atribuir sua oferta."
 
@@ -1487,6 +1413,84 @@ msgstr ""
 #: website/newsletter/index.html:27
 msgid "View previous newsletters"
 msgstr "Ver boletins anteriores"
+
+#: website/thunderbird/102.0/beta-appeal/index.html:9
+msgid "Experience The Future Of Thunderbird"
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:27
+#, python-format
+msgid ""
+"Join the Beta today, and enjoy an exciting preview of the new features and visual enhancements coming to Thunderbird 115 Supernova. You can still run Thunderbird 102 after installing Beta on Windows"
+" with no special settings, unless you are using POP mail accounts. See details in the <a href=\"%(beta_kb_url)s\">beta knowledge base</a>."
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:31
+#, python-format
+msgid ""
+"Thunderbird Beta is early access software, so please report the rough edges using the Help menu. You can find assistance via “Get Help” and “Share Ideas and Feedback” as well as the <a "
+"href=\"%(beta_topicbox_url)s\">Beta Topicbox</a> forum."
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:36
+msgid "Install now!"
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:47
+msgid "Finish installing, and start enjoying Thunderbird Beta."
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:57
+msgid "Learn more about Thunderbird 115 Supernova"
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:62 website/thunderbird/102.0/beta-appeal/index.html:63
+msgid "Thunderbird 115 Supernova Preview: The New Folder Pane"
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:67
+msgid ""
+"Thunderbird 115 \"Supernova\" will be intuitive and welcoming to new users, while remaining familiar and comfortable for veteran users. See how we're accomplishing that balance with a preview of the"
+" new Folder Pane."
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:70
+msgid "February 14, 2023"
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:71
+msgid "Continue Reading "
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:75 website/thunderbird/102.0/beta-appeal/index.html:76
+msgid "Why We’re Rebuilding The Thunderbird Interface From Scratch"
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:80
+msgid "Why does Thunderbird look so old, and why does it take so long to change?\" Let's answer that burning question with some important history, and a look into the future."
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:83
+msgid "February 9, 2023"
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:84 website/thunderbird/102.0/beta-appeal/index.html:97
+msgid "Continue Reading"
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:88 website/thunderbird/102.0/beta-appeal/index.html:89
+msgid "Thunderbird Supernova Preview: The New Calendar Design"
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:93
+msgid ""
+"Life gets busy. That's why the new  calendar in Thunderbird Supernova is being designed to look and feel comfortable. It will help you more efficiently sift, sort, and digest all the crucial details"
+" of your day."
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:96
+msgid "November 9, 2022"
+msgstr ""
 
 #: website/thunderbird/102.0/eoy/index.html:17
 msgid "Help Keep Thunderbird Alive!"
@@ -2008,6 +2012,63 @@ msgstr "Notas de atualização de cada versão do Thunderbird."
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "As notas de atualização do Thunderbird são específicas para cada versão. Selecione sua versão na lista abaixo para ver as notas de atualização."
+
+#~ msgid "What are the ways I can give?"
+#~ msgstr "Quais são as maneiras de doar?"
+
+#~ msgid "<a href=\"%(url)s\">Visit this link to make a secure online donation right now via credit card or PayPal.</a>"
+#~ msgstr "<a href=\"%(url)s\">Visite este link para fazer uma doação online segura via cartão de crédito ou PayPal.</a>"
+
+#~ msgid "Bank Transfer / SEPA"
+#~ msgstr "Transferência bancária / SEPA"
+
+#~ msgid ""
+#~ "We accept contributions in Euros through Single European Payment Area (SEPA)\n"
+#~ "    transfer, and British Pounds through BACS transfer."
+#~ msgstr "Aceitamos contribuições em euros através de transferência via Single European Payment Area (SEPA) e libras esterlinas via transferência BACS."
+
+#~ msgid ""
+#~ "Please note that for smaller (under 10 EUR or equivalent) contributions, we request that you contribute via credit card or PayPal to\n"
+#~ "    help reduce our processing fees."
+#~ msgstr "Note que, para contribuições menores (abaixo de 10 euros ou equivalente), solicitamos que você contribua via cartão de crédito ou PayPal para ajudar a reduzir nossas taxas de processamento."
+
+#~ msgid ""
+#~ "If your bank requests our physical address, it is 2 Harrison Street, Suite 175, San\n"
+#~ "    Francisco, CA 94105 USA."
+#~ msgstr "Caso seu banco solicite nosso endereço físico, é 2 Harrison Street, Suite 175, San Francisco, CA 94105 USA."
+
+#~ msgid "Euros:"
+#~ msgstr "Euros:"
+
+#~ msgid "Account Currency:"
+#~ msgstr "Moeda da conta:"
+
+#~ msgid "Receiving Bank (Pay to):"
+#~ msgstr "Banco recebedor (pagar para):"
+
+#~ msgid "City & Country/Region:"
+#~ msgstr "Cidade e país / região:"
+
+#~ msgid "SWIFT/BIC Code:"
+#~ msgstr "Código SWIFT/BIC:"
+
+#~ msgid "Beneficiary Name (For credit to):"
+#~ msgstr "Nome do beneficiário (para crédito de):"
+
+#~ msgid "IBAN:"
+#~ msgstr "IBAN:"
+
+#~ msgid "Memo field:"
+#~ msgstr "Campo de anotação:"
+
+#~ msgid "British Pound Sterling:"
+#~ msgstr "Libra esterlina britânica:"
+
+#~ msgid "Bank Sort Code:"
+#~ msgstr "Código do banco:"
+
+#~ msgid "Account Number (8 digits):"
+#~ msgstr "Número da conta (8 dígitos):"
 
 #~ msgid "Your download should begin automatically. Didn’t work? Try the button below!"
 #~ msgstr "Seu download deve começar automaticamente. Se não funcionar, use o botão abaixo!"

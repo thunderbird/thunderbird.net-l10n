@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-03-09 17:44-0800\n"
+"POT-Creation-Date: 2023-05-12 22:50-0700\n"
 "PO-Revision-Date: 2023-03-10 03:25+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language-Team: none\n"
@@ -28,19 +28,10 @@ msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a who
 msgstr "MZLA Technologies Corporation 是 Mozilla Foundation 的全資子公司，而 Thunderbird 是由 MZLA Technologies Corporation 營運的軟體專案。"
 
 #: faq.py:18
-msgid "What are the ways I can give?"
-msgstr "有哪些捐款方式？"
-
-#: faq.py:19
-#, python-format
-msgid "<a href=\"%(url)s\">Visit this link to make a secure online donation right now via credit card or PayPal.</a>"
-msgstr "<a href=\"%(url)s\">請到此鏈結來使用信用卡或 PayPal 進行安全線上捐款。</a>"
-
-#: faq.py:23
 msgid "Why do you need my address in order to process a gift?"
 msgstr "為什麼您們需要我的地址才能處理捐款？"
 
-#: faq.py:24
+#: faq.py:19
 #, python-format
 msgid ""
 "We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
@@ -50,75 +41,75 @@ msgstr ""
 "我們了解您的隱私非常重要。我們只會針對處理您的信用卡交易要求取得最少量的資訊，包含帳單地址等。這些資料讓我們的金流廠商能夠確認您的身分、處理付款，並避免您的信用卡遭受盜刷。我們會確保您的資料隱私，若有任何相關問題，請參考我們的<a href=\"%(url)s\">隱私權保護政策</a>。若您不想要在線上捐款表單填寫您的資料，也可以郵寄<a "
 "href=\"%(check)s\">支票</a>給我們。"
 
-#: faq.py:28
+#: faq.py:23
 msgid "Can I give bitcoin?"
 msgstr "我可以捐比特幣嗎？"
 
-#: faq.py:29
+#: faq.py:24
 msgid "We are not currently accepting bitcoin."
 msgstr "目前暫不接受比特幣捐款。"
 
-#: faq.py:32
+#: faq.py:27
 msgid "How can I turn off the appeal on the Thunderbird start page?"
 msgstr "我要怎麼關掉 Thunderbird 開始頁的募款廣告？"
 
-#: faq.py:33
+#: faq.py:28
 #, python-format
 msgid "To learn how to customize your start page please visit:<br/><a href=\"%(url)s\">%(url)s</a>"
 msgstr "請到 <a href=\"%(url)s\">%(url)s</a> 了解如何自定您的開始頁面"
 
-#: faq.py:37
+#: faq.py:32
 msgid "How will my gift be used?"
 msgstr "我的捐款會被如何運用？"
 
-#: faq.py:38
+#: faq.py:33
 msgid ""
 "Thunderbird is the leading open source cross-platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future "
 "development."
 msgstr "Thunderbird 是業界領先，開放原始碼、跨平台的電子郵件與行事曆軟體，個人與商業上皆可免費使用。您的捐款可幫助我們持續發展。"
 
-#: faq.py:41
+#: faq.py:36
 msgid "Doesn’t Thunderbird earn income?"
 msgstr "Thunderbird 不賺錢嗎？"
 
-#: faq.py:42
+#: faq.py:37
 msgid "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird."
 msgstr "目前 Thunderbird 的收入大部分都來自於使用者與 Thunderbird 之友的慷慨捐款。"
 
-#: faq.py:45
+#: faq.py:40
 msgid "Who gives to Thunderbird?"
 msgstr "誰能捐款給 Thunderbird？"
 
-#: faq.py:46
+#: faq.py:41
 msgid "Anyone can give, companies and individuals, to support development of the product now and in the future."
 msgstr "任何人、企業皆可捐款，以支持產品目前與未來的發展。"
 
-#: faq.py:49
+#: faq.py:44
 msgid "Does my gift give me access to tech support?"
 msgstr "我捐款之後能獲得技術支援嗎？"
 
-#: faq.py:50
+#: faq.py:45
 #, python-format
 msgid ""
 "Anyone can access tech support for Thunderbird by visiting the <a href=\"%(url)s\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial "
 "gifts."
 msgstr "任何人都可以透過<a href=\"%(url)s\">技術支援討論區</a>得到 Thunderbird 技術支援。Thunderbird 並不會特別為捐款者提供更多的技術支援。"
 
-#: faq.py:54
+#: faq.py:49
 msgid "Is my gift tax deductible?"
 msgstr "我的捐款能抵稅嗎？"
 
-#: faq.py:55
+#: faq.py:50
 msgid ""
 "Gifts to Thunderbird are not tax-deductible, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-platform email and calendaring client, free "
 "for business and personal use. Your gift will help ensure it stays that way, and will support future development."
 msgstr "對 Thunderbird 的捐款無法抵稅，但仍不勝感激。捐款給 Thunderbird 可支持我們在業界領先的開放原始碼跨平台電子郵件與行事曆軟體的開發（且不論是企業或個人使用皆自由免費）。您的捐款可確保其能持續運作，並支持未來的發展。"
 
-#: faq.py:58
+#: faq.py:53
 msgid "How do I cancel or change my recurring gift?"
 msgstr "我要如何取消或變更我的定期捐款設定？"
 
-#: faq.py:59
+#: faq.py:54
 #, python-format
 msgid ""
 "If you used PayPal to set up a recurring gift, you’ll need to <a href=\"%(paypal)s\">log in to your PayPal account</a> to make changes or to cancel. If you made a monthly gift using your credit "
@@ -126,11 +117,11 @@ msgid ""
 "business days."
 msgstr "若您使用 PayPal 設定了定期捐款，需要<a href=\"%(paypal)s\">登入 PayPal 帳號</a>才能進行變更或取消。若您曾透過您的信用卡設定每月定期捐款，請填寫<a href=\"%(help)s\">這份表單</a>聯絡我們的 Donor Care 團隊。請在表單中註明您用來捐款的電子郵件地址與姓名，我們會在兩個工作天內回覆處理。"
 
-#: faq.py:63
+#: faq.py:58
 msgid "Who can I email directly with questions about giving?"
 msgstr "我還有其他捐款問題，可以寄信給誰直接問問題？"
 
-#: faq.py:64
+#: faq.py:59
 #, python-format
 msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. We will do our best to follow-up with you as soon as we can. If you need technical "
@@ -310,7 +301,7 @@ msgstr "若在 Thunderbird 發生錯誤（出現錯誤回報員）時，請盡�
 #: website/404.html:7 website/download/index.html:8 website/download/index.html:51 website/download/index.html:70 website/includes/base-resp.html:20 website/includes/bedrock/base-resp.html:19
 #: website/includes/site-footer.html:4 website/includes/site-footer.html:48 website/includes/site-footer.html:55 website/includes/site-footer.html:62 website/includes/site-prefooter.html:51
 #: website/includes/site-prefooter.html:54 website/index.html:8 website/index.html:149 website/index.html:168 website/newsletter/index.html:43 website/newsletter/index.html:50
-#: website/newsletter/index.html:57
+#: website/newsletter/index.html:57 website/thunderbird/102.0/beta-appeal/index.html:106
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
@@ -643,7 +634,7 @@ msgstr "Beta 頻道"
 msgid "Daily Channel"
 msgstr "Daily 頻道"
 
-#: website/download/index.html:40
+#: website/download/index.html:40 website/thunderbird/102.0/beta-appeal/index.html:47
 msgid "Just one more step!"
 msgstr "剩下最後一步！"
 
@@ -651,7 +642,7 @@ msgstr "剩下最後一步！"
 msgid "Finish installing, and start enjoying Thunderbird."
 msgstr "完成安裝，開始享用 Thunderbird。"
 
-#: website/download/index.html:42
+#: website/download/index.html:42 website/thunderbird/102.0/beta-appeal/index.html:49
 #, python-format
 msgid "Having trouble? <a class=\"inline-link\" href=\"%(url)s\">Get help with your installation.</a>"
 msgstr "遇到問題嗎？<a class=\"inline-link\" href=\"%(url)s\">獲得安裝協助</a>。"
@@ -713,8 +704,8 @@ msgid ""
 "Flaws are to be expected. High-impact flaws, including data loss, are very rare, but may occur. Protect yourself with <a href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-"
 "data#w_backing-up-a-profile\">backups</a>. Low-impact flaws may not be fixed quickly, because fixes are prioritized based on impact."
 msgstr ""
-"可以預期會有些小缺點。不太容易會出現遺失資料之類的大問題，但還是有可能發生。請務必進行<a href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-data#w_backing-up-a-"
-"profile\">備份</a>來保護好資料。由於修復問題的優先度是依照問題本身的影響程度而定，小缺點不一定很快就會被修正。"
+"可以預期會有些小缺點。不太容易會出現遺失資料之類的大問題，但還是有可能發生。請務必進行<a href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-data#w_backing-"
+"up-a-profile\">備份</a>來保護好資料。由於修復問題的優先度是依照問題本身的影響程度而定，小缺點不一定很快就會被修正。"
 
 #: website/download/beta/index.html:54
 msgid "Expect seven updates per month, one major update per month plus several small updates. This frequency of updates allows us to make fast improvements."
@@ -1076,7 +1067,8 @@ msgid ""
 "further bolster overall security."
 msgstr "Thunderbird 的前進動力來自於開放原始碼的研發流程：由成千上萬分散於世界各地，擁有熱情與經驗的程式開發者與安全專家共同參與。我們的社群開放而活躍，由專家協助打造更安全的產品、更快的進行程式更新，我們同時也能受惠於第三方的安全檢測工具，進一步強化整體安全性。"
 
-#: website/includes/base-resp.html:20 website/includes/base-resp.html:22 website/includes/site-footer.html:5 website/includes/site-footer.html:6
+#: website/includes/base-resp.html:20 website/includes/base-resp.html:22 website/includes/site-footer.html:5 website/includes/site-footer.html:6 website/thunderbird/102.0/beta-appeal/index.html:107
+#: website/thunderbird/102.0/beta-appeal/index.html:108
 msgid "Thunderbird Vector Wordmark"
 msgstr "Thunderbird 向量文字商標"
 
@@ -1296,83 +1288,17 @@ msgid "Download Daily"
 msgstr "下載 Daily"
 
 #: website/includes/ways-to-give.html:6
-msgid "Bank Transfer / SEPA"
-msgstr "歐元單一支付區銀行轉帳"
-
-#: website/includes/ways-to-give.html:7
-msgid ""
-"We accept contributions in Euros through Single European Payment Area (SEPA)\n"
-"    transfer, and British Pounds through BACS transfer."
-msgstr "我們接受透過歐元單一支付區（SEPA）網路的歐元轉帳與 BACS 網路的英鎊轉帳捐款。"
-
-#: website/includes/ways-to-give.html:9
-msgid ""
-"Please note that for smaller (under 10 EUR or equivalent) contributions, we request that you contribute via credit card or PayPal to\n"
-"    help reduce our processing fees."
-msgstr "註：對於小額捐款（小於或等於 10 歐元），請透過信用卡或 PayPal 支付，以減少我們所支出的處理費用。"
-
-#: website/includes/ways-to-give.html:11
-msgid ""
-"If your bank requests our physical address, it is 2 Harrison Street, Suite 175, San\n"
-"    Francisco, CA 94105 USA."
-msgstr "若您的銀行要求我們的登記地址，地址為：2 Harrison Street, Suite 175, San Francisco, CA 94105 USA。"
-
-#: website/includes/ways-to-give.html:16
-msgid "Euros:"
-msgstr "歐元："
-
-#: website/includes/ways-to-give.html:18 website/includes/ways-to-give.html:31
-msgid "Account Currency:"
-msgstr "帳戶幣別："
-
-#: website/includes/ways-to-give.html:19 website/includes/ways-to-give.html:32
-msgid "Receiving Bank (Pay to):"
-msgstr "收款行（Pay to）:"
-
-#: website/includes/ways-to-give.html:20 website/includes/ways-to-give.html:33
-msgid "City & Country/Region:"
-msgstr "城市、國家："
-
-#: website/includes/ways-to-give.html:21 website/includes/ways-to-give.html:38
-msgid "SWIFT/BIC Code:"
-msgstr "SWIFT/BIC Code："
-
-#: website/includes/ways-to-give.html:22 website/includes/ways-to-give.html:36
-msgid "Beneficiary Name (For credit to):"
-msgstr "收款人姓名（For credit to）："
-
-#: website/includes/ways-to-give.html:23 website/includes/ways-to-give.html:39
-msgid "IBAN:"
-msgstr "IBAN："
-
-#: website/includes/ways-to-give.html:24 website/includes/ways-to-give.html:40
-msgid "Memo field:"
-msgstr "記事欄："
-
-#: website/includes/ways-to-give.html:29
-msgid "British Pound Sterling:"
-msgstr "英鎊："
-
-#: website/includes/ways-to-give.html:34
-msgid "Bank Sort Code:"
-msgstr "Bank Sort Code："
-
-#: website/includes/ways-to-give.html:35
-msgid "Account Number (8 digits):"
-msgstr "帳號（8 位數）："
-
-#: website/includes/ways-to-give.html:45
 msgid "Check (via postal service)"
 msgstr "支票（透過美國郵政服務）"
 
-#: website/includes/ways-to-give.html:47
+#: website/includes/ways-to-give.html:8
 #, python-format
 msgid ""
 "MZLA/Thunderbird is happy to accept your donation <span class=\"%(class)s\">(made payable to “MZLA Technologies Corp”)</span> via check;\n"
 "    however please note that we can only accept checks in US dollars drawn on a US bank."
 msgstr "MZLA/Thunderbird 很願意透過支票接受您的捐款 <span class=\"%(class)s\">（抬頭請開「MZLA Technologies Corp」）</span>但我們僅能接受由美國境內銀行所開出的美元支票。"
 
-#: website/includes/ways-to-give.html:56
+#: website/includes/ways-to-give.html:17
 msgid "Please include your email address on the memo line of your check to help us track and attribute your gift."
 msgstr "請在支票的備註欄註明您的電子郵件地址，幫助我們能夠更快追蹤您的捐款進度。"
 
@@ -1385,6 +1311,84 @@ msgstr "由 Thunderbird 開發團隊產地直送的新功能預覽、了解最�
 #: website/newsletter/index.html:27
 msgid "View previous newsletters"
 msgstr "檢視先前的電子報"
+
+#: website/thunderbird/102.0/beta-appeal/index.html:9
+msgid "Experience The Future Of Thunderbird"
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:27
+#, python-format
+msgid ""
+"Join the Beta today, and enjoy an exciting preview of the new features and visual enhancements coming to Thunderbird 115 Supernova. You can still run Thunderbird 102 after installing Beta on Windows"
+" with no special settings, unless you are using POP mail accounts. See details in the <a href=\"%(beta_kb_url)s\">beta knowledge base</a>."
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:31
+#, python-format
+msgid ""
+"Thunderbird Beta is early access software, so please report the rough edges using the Help menu. You can find assistance via “Get Help” and “Share Ideas and Feedback” as well as the <a "
+"href=\"%(beta_topicbox_url)s\">Beta Topicbox</a> forum."
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:36
+msgid "Install now!"
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:47
+msgid "Finish installing, and start enjoying Thunderbird Beta."
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:57
+msgid "Learn more about Thunderbird 115 Supernova"
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:62 website/thunderbird/102.0/beta-appeal/index.html:63
+msgid "Thunderbird 115 Supernova Preview: The New Folder Pane"
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:67
+msgid ""
+"Thunderbird 115 \"Supernova\" will be intuitive and welcoming to new users, while remaining familiar and comfortable for veteran users. See how we're accomplishing that balance with a preview of the"
+" new Folder Pane."
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:70
+msgid "February 14, 2023"
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:71
+msgid "Continue Reading "
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:75 website/thunderbird/102.0/beta-appeal/index.html:76
+msgid "Why We’re Rebuilding The Thunderbird Interface From Scratch"
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:80
+msgid "Why does Thunderbird look so old, and why does it take so long to change?\" Let's answer that burning question with some important history, and a look into the future."
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:83
+msgid "February 9, 2023"
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:84 website/thunderbird/102.0/beta-appeal/index.html:97
+msgid "Continue Reading"
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:88 website/thunderbird/102.0/beta-appeal/index.html:89
+msgid "Thunderbird Supernova Preview: The New Calendar Design"
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:93
+msgid ""
+"Life gets busy. That's why the new  calendar in Thunderbird Supernova is being designed to look and feel comfortable. It will help you more efficiently sift, sort, and digest all the crucial details"
+" of your day."
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:96
+msgid "November 9, 2022"
+msgstr ""
 
 #: website/thunderbird/102.0/eoy/index.html:17
 msgid "Help Keep Thunderbird Alive!"
@@ -1842,6 +1846,63 @@ msgstr "每個版本的 Thunderbird 的發行公告。"
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Thunderbird 每個版本都會有發行公告。請從下列清單中選擇您的版本，閱讀該版本的發行公告。"
+
+#~ msgid "What are the ways I can give?"
+#~ msgstr "有哪些捐款方式？"
+
+#~ msgid "<a href=\"%(url)s\">Visit this link to make a secure online donation right now via credit card or PayPal.</a>"
+#~ msgstr "<a href=\"%(url)s\">請到此鏈結來使用信用卡或 PayPal 進行安全線上捐款。</a>"
+
+#~ msgid "Bank Transfer / SEPA"
+#~ msgstr "歐元單一支付區銀行轉帳"
+
+#~ msgid ""
+#~ "We accept contributions in Euros through Single European Payment Area (SEPA)\n"
+#~ "    transfer, and British Pounds through BACS transfer."
+#~ msgstr "我們接受透過歐元單一支付區（SEPA）網路的歐元轉帳與 BACS 網路的英鎊轉帳捐款。"
+
+#~ msgid ""
+#~ "Please note that for smaller (under 10 EUR or equivalent) contributions, we request that you contribute via credit card or PayPal to\n"
+#~ "    help reduce our processing fees."
+#~ msgstr "註：對於小額捐款（小於或等於 10 歐元），請透過信用卡或 PayPal 支付，以減少我們所支出的處理費用。"
+
+#~ msgid ""
+#~ "If your bank requests our physical address, it is 2 Harrison Street, Suite 175, San\n"
+#~ "    Francisco, CA 94105 USA."
+#~ msgstr "若您的銀行要求我們的登記地址，地址為：2 Harrison Street, Suite 175, San Francisco, CA 94105 USA。"
+
+#~ msgid "Euros:"
+#~ msgstr "歐元："
+
+#~ msgid "Account Currency:"
+#~ msgstr "帳戶幣別："
+
+#~ msgid "Receiving Bank (Pay to):"
+#~ msgstr "收款行（Pay to）:"
+
+#~ msgid "City & Country/Region:"
+#~ msgstr "城市、國家："
+
+#~ msgid "SWIFT/BIC Code:"
+#~ msgstr "SWIFT/BIC Code："
+
+#~ msgid "Beneficiary Name (For credit to):"
+#~ msgstr "收款人姓名（For credit to）："
+
+#~ msgid "IBAN:"
+#~ msgstr "IBAN："
+
+#~ msgid "Memo field:"
+#~ msgstr "記事欄："
+
+#~ msgid "British Pound Sterling:"
+#~ msgstr "英鎊："
+
+#~ msgid "Bank Sort Code:"
+#~ msgstr "Bank Sort Code："
+
+#~ msgid "Account Number (8 digits):"
+#~ msgstr "帳號（8 位數）："
 
 #~ msgid "Your download should begin automatically. Didn’t work? Try the button below!"
 #~ msgstr "將自動開始下載。沒有開始嗎？請點擊下面的按鈕！"

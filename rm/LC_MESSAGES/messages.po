@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-03-09 17:44-0800\n"
+"POT-Creation-Date: 2023-05-12 22:50-0700\n"
 "PO-Revision-Date: 2022-08-26 08:27+0000\n"
 "Last-Translator: Martin <mcmartin@gmx.ch>\n"
 "Language-Team: none\n"
@@ -28,19 +28,10 @@ msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a who
 msgstr ""
 
 #: faq.py:18
-msgid "What are the ways I can give?"
-msgstr ""
-
-#: faq.py:19
-#, python-format
-msgid "<a href=\"%(url)s\">Visit this link to make a secure online donation right now via credit card or PayPal.</a>"
-msgstr ""
-
-#: faq.py:23
 msgid "Why do you need my address in order to process a gift?"
 msgstr ""
 
-#: faq.py:24
+#: faq.py:19
 #, python-format
 msgid ""
 "We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
@@ -48,75 +39,75 @@ msgid ""
 "href=\"%(url)s\">Privacy Policy</a>. If you would rather not fill in your information on our online form, you can mail us a <a href=\"%(check)s\">check</a>."
 msgstr ""
 
-#: faq.py:28
+#: faq.py:23
 msgid "Can I give bitcoin?"
 msgstr ""
 
-#: faq.py:29
+#: faq.py:24
 msgid "We are not currently accepting bitcoin."
 msgstr ""
 
-#: faq.py:32
+#: faq.py:27
 msgid "How can I turn off the appeal on the Thunderbird start page?"
 msgstr ""
 
-#: faq.py:33
+#: faq.py:28
 #, python-format
 msgid "To learn how to customize your start page please visit:<br/><a href=\"%(url)s\">%(url)s</a>"
 msgstr ""
 
-#: faq.py:37
+#: faq.py:32
 msgid "How will my gift be used?"
 msgstr ""
 
-#: faq.py:38
+#: faq.py:33
 msgid ""
 "Thunderbird is the leading open source cross-platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future "
 "development."
 msgstr ""
 
-#: faq.py:41
+#: faq.py:36
 msgid "Doesn’t Thunderbird earn income?"
 msgstr ""
 
-#: faq.py:42
+#: faq.py:37
 msgid "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird."
 msgstr ""
 
-#: faq.py:45
+#: faq.py:40
 msgid "Who gives to Thunderbird?"
 msgstr ""
 
-#: faq.py:46
+#: faq.py:41
 msgid "Anyone can give, companies and individuals, to support development of the product now and in the future."
 msgstr ""
 
-#: faq.py:49
+#: faq.py:44
 msgid "Does my gift give me access to tech support?"
 msgstr ""
 
-#: faq.py:50
+#: faq.py:45
 #, python-format
 msgid ""
 "Anyone can access tech support for Thunderbird by visiting the <a href=\"%(url)s\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial "
 "gifts."
 msgstr ""
 
-#: faq.py:54
+#: faq.py:49
 msgid "Is my gift tax deductible?"
 msgstr ""
 
-#: faq.py:55
+#: faq.py:50
 msgid ""
 "Gifts to Thunderbird are not tax-deductible, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-platform email and calendaring client, free "
 "for business and personal use. Your gift will help ensure it stays that way, and will support future development."
 msgstr ""
 
-#: faq.py:58
+#: faq.py:53
 msgid "How do I cancel or change my recurring gift?"
 msgstr ""
 
-#: faq.py:59
+#: faq.py:54
 #, python-format
 msgid ""
 "If you used PayPal to set up a recurring gift, you’ll need to <a href=\"%(paypal)s\">log in to your PayPal account</a> to make changes or to cancel. If you made a monthly gift using your credit "
@@ -124,11 +115,11 @@ msgid ""
 "business days."
 msgstr ""
 
-#: faq.py:63
+#: faq.py:58
 msgid "Who can I email directly with questions about giving?"
 msgstr ""
 
-#: faq.py:64
+#: faq.py:59
 #, python-format
 msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. We will do our best to follow-up with you as soon as we can. If you need technical "
@@ -332,7 +323,7 @@ msgstr ""
 #: website/404.html:7 website/download/index.html:8 website/download/index.html:51 website/download/index.html:70 website/includes/base-resp.html:20 website/includes/bedrock/base-resp.html:19
 #: website/includes/site-footer.html:4 website/includes/site-footer.html:48 website/includes/site-footer.html:55 website/includes/site-footer.html:62 website/includes/site-prefooter.html:51
 #: website/includes/site-prefooter.html:54 website/index.html:8 website/index.html:149 website/index.html:168 website/newsletter/index.html:43 website/newsletter/index.html:50
-#: website/newsletter/index.html:57
+#: website/newsletter/index.html:57 website/thunderbird/102.0/beta-appeal/index.html:106
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
@@ -677,7 +668,7 @@ msgstr ""
 msgid "Daily Channel"
 msgstr ""
 
-#: website/download/index.html:40
+#: website/download/index.html:40 website/thunderbird/102.0/beta-appeal/index.html:47
 msgid "Just one more step!"
 msgstr ""
 
@@ -685,7 +676,7 @@ msgstr ""
 msgid "Finish installing, and start enjoying Thunderbird."
 msgstr ""
 
-#: website/download/index.html:42
+#: website/download/index.html:42 website/thunderbird/102.0/beta-appeal/index.html:49
 #, python-format
 msgid "Having trouble? <a class=\"inline-link\" href=\"%(url)s\">Get help with your installation.</a>"
 msgstr ""
@@ -1132,7 +1123,8 @@ msgstr ""
 "Thunderbird è il resultat dad in project dad «open source» che vegn sustegni da millis sviluppaders ed experts da segirezza passiunads e versads da tut il mund. Nossa avertadad ed il team activ dad "
 "experts gida da garantir che noss products èn pli segirs e vegnan actualisads regularmain."
 
-#: website/includes/base-resp.html:20 website/includes/base-resp.html:22 website/includes/site-footer.html:5 website/includes/site-footer.html:6
+#: website/includes/base-resp.html:20 website/includes/base-resp.html:22 website/includes/site-footer.html:5 website/includes/site-footer.html:6 website/thunderbird/102.0/beta-appeal/index.html:107
+#: website/thunderbird/102.0/beta-appeal/index.html:108
 msgid "Thunderbird Vector Wordmark"
 msgstr "Logo vectorial da Thunderbird"
 
@@ -1356,83 +1348,17 @@ msgid "Download Daily"
 msgstr "Telechargiar Daily"
 
 #: website/includes/ways-to-give.html:6
-msgid "Bank Transfer / SEPA"
-msgstr ""
-
-#: website/includes/ways-to-give.html:7
-msgid ""
-"We accept contributions in Euros through Single European Payment Area (SEPA)\n"
-"    transfer, and British Pounds through BACS transfer."
-msgstr ""
-
-#: website/includes/ways-to-give.html:9
-msgid ""
-"Please note that for smaller (under 10 EUR or equivalent) contributions, we request that you contribute via credit card or PayPal to\n"
-"    help reduce our processing fees."
-msgstr ""
-
-#: website/includes/ways-to-give.html:11
-msgid ""
-"If your bank requests our physical address, it is 2 Harrison Street, Suite 175, San\n"
-"    Francisco, CA 94105 USA."
-msgstr ""
-
-#: website/includes/ways-to-give.html:16
-msgid "Euros:"
-msgstr ""
-
-#: website/includes/ways-to-give.html:18 website/includes/ways-to-give.html:31
-msgid "Account Currency:"
-msgstr ""
-
-#: website/includes/ways-to-give.html:19 website/includes/ways-to-give.html:32
-msgid "Receiving Bank (Pay to):"
-msgstr ""
-
-#: website/includes/ways-to-give.html:20 website/includes/ways-to-give.html:33
-msgid "City & Country/Region:"
-msgstr ""
-
-#: website/includes/ways-to-give.html:21 website/includes/ways-to-give.html:38
-msgid "SWIFT/BIC Code:"
-msgstr ""
-
-#: website/includes/ways-to-give.html:22 website/includes/ways-to-give.html:36
-msgid "Beneficiary Name (For credit to):"
-msgstr ""
-
-#: website/includes/ways-to-give.html:23 website/includes/ways-to-give.html:39
-msgid "IBAN:"
-msgstr ""
-
-#: website/includes/ways-to-give.html:24 website/includes/ways-to-give.html:40
-msgid "Memo field:"
-msgstr ""
-
-#: website/includes/ways-to-give.html:29
-msgid "British Pound Sterling:"
-msgstr ""
-
-#: website/includes/ways-to-give.html:34
-msgid "Bank Sort Code:"
-msgstr ""
-
-#: website/includes/ways-to-give.html:35
-msgid "Account Number (8 digits):"
-msgstr ""
-
-#: website/includes/ways-to-give.html:45
 msgid "Check (via postal service)"
 msgstr ""
 
-#: website/includes/ways-to-give.html:47
+#: website/includes/ways-to-give.html:8
 #, python-format
 msgid ""
 "MZLA/Thunderbird is happy to accept your donation <span class=\"%(class)s\">(made payable to “MZLA Technologies Corp”)</span> via check;\n"
 "    however please note that we can only accept checks in US dollars drawn on a US bank."
 msgstr ""
 
-#: website/includes/ways-to-give.html:56
+#: website/includes/ways-to-give.html:17
 msgid "Please include your email address on the memo line of your check to help us track and attribute your gift."
 msgstr ""
 
@@ -1444,6 +1370,84 @@ msgstr ""
 
 #: website/newsletter/index.html:27
 msgid "View previous newsletters"
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:9
+msgid "Experience The Future Of Thunderbird"
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:27
+#, python-format
+msgid ""
+"Join the Beta today, and enjoy an exciting preview of the new features and visual enhancements coming to Thunderbird 115 Supernova. You can still run Thunderbird 102 after installing Beta on Windows"
+" with no special settings, unless you are using POP mail accounts. See details in the <a href=\"%(beta_kb_url)s\">beta knowledge base</a>."
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:31
+#, python-format
+msgid ""
+"Thunderbird Beta is early access software, so please report the rough edges using the Help menu. You can find assistance via “Get Help” and “Share Ideas and Feedback” as well as the <a "
+"href=\"%(beta_topicbox_url)s\">Beta Topicbox</a> forum."
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:36
+msgid "Install now!"
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:47
+msgid "Finish installing, and start enjoying Thunderbird Beta."
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:57
+msgid "Learn more about Thunderbird 115 Supernova"
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:62 website/thunderbird/102.0/beta-appeal/index.html:63
+msgid "Thunderbird 115 Supernova Preview: The New Folder Pane"
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:67
+msgid ""
+"Thunderbird 115 \"Supernova\" will be intuitive and welcoming to new users, while remaining familiar and comfortable for veteran users. See how we're accomplishing that balance with a preview of the"
+" new Folder Pane."
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:70
+msgid "February 14, 2023"
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:71
+msgid "Continue Reading "
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:75 website/thunderbird/102.0/beta-appeal/index.html:76
+msgid "Why We’re Rebuilding The Thunderbird Interface From Scratch"
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:80
+msgid "Why does Thunderbird look so old, and why does it take so long to change?\" Let's answer that burning question with some important history, and a look into the future."
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:83
+msgid "February 9, 2023"
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:84 website/thunderbird/102.0/beta-appeal/index.html:97
+msgid "Continue Reading"
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:88 website/thunderbird/102.0/beta-appeal/index.html:89
+msgid "Thunderbird Supernova Preview: The New Calendar Design"
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:93
+msgid ""
+"Life gets busy. That's why the new  calendar in Thunderbird Supernova is being designed to look and feel comfortable. It will help you more efficiently sift, sort, and digest all the crucial details"
+" of your day."
+msgstr ""
+
+#: website/thunderbird/102.0/beta-appeal/index.html:96
+msgid "November 9, 2022"
 msgstr ""
 
 #: website/thunderbird/102.0/eoy/index.html:17
