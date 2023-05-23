@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-05-15 15:35-0700\n"
+"POT-Creation-Date: 2023-05-23 10:15-0700\n"
 "PO-Revision-Date: 2023-05-17 07:59+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: none\n"
@@ -649,6 +649,32 @@ msgstr ""
 msgid "Contributions are not tax-deductible as charitable donations."
 msgstr "Non assimilables à des dons en faveur d’organismes de charité, vos contributions ne sont pas déductibles fiscalement."
 
+#: website/donate/help/index.html:7 website/donate/help/thank-you/index.html:7
+msgid "Donor Help"
+msgstr ""
+
+#: website/donate/help/index.html:27
+msgid "If you need help with a contribution to MZLA/Thunderbird, please fill out this form and a Thunderbird donor care representative will get back to you as soon as possible."
+msgstr ""
+
+#: website/donate/help/index.html:30
+#, python-format
+msgid ""
+"Unfortunately, donor care representatives are unable to offer support or help with Thunderbird technical issues. For technical support, please visit our <a href=\"%(support_url)s\">support page.</a>"
+msgstr ""
+
+#: website/donate/help/thank-you/index.html:20
+msgid "Thank you for contacting us. A case has been created for your issue and we will be in touch shortly."
+msgstr ""
+
+#: website/donate/help/thank-you/index.html:23
+msgid "We will get back to you soon."
+msgstr ""
+
+#: website/donate/help/thank-you/index.html:26
+msgid "Return to Thunderbird.net"
+msgstr ""
+
 #: website/download/index.html:9 website/includes/download-button.html:14 website/includes/download-button.html:63 website/includes/site-prefooter.html:59
 msgid "Download Thunderbird"
 msgstr "Télécharger Thunderbird"
@@ -869,8 +895,8 @@ msgid ""
 "If you installed the beta over the top of the release version (choice 2 above), then your process will be more complicated. Please consult this <a href=\"https://support.mozilla.org/kb/thunderbird-"
 "beta\">beta support article.</a>"
 msgstr ""
-"Si vous avez installé la version bêta par-dessus l’installation existante (option 2 ci-dessus), l’opération s’avère plus compliquée. Pour cela, consultez cet <a "
-"href=\"https://support.mozilla.org/kb/thunderbird-beta\">article d’aide sur la bêta.</a>"
+"Si vous avez installé la version bêta par-dessus l’installation existante (option 2 ci-dessus), l’opération s’avère plus compliquée. Pour cela, consultez cet <a href=\"https://support.mozilla.org/kb"
+"/thunderbird-beta\">article d’aide sur la bêta.</a>"
 
 #: website/download/beta/index.html:115
 msgid ""
@@ -1424,6 +1450,108 @@ msgstr ""
 msgid "Please include your email address on the memo line of your check to help us track and attribute your gift."
 msgstr "Veuillez inclure votre adresse e-mail sur la ligne mémo de votre chèque pour nous aider à suivre et à attribuer votre don."
 
+#: website/includes/donor-contact/fa-body.html:14
+msgid "Contact Name"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:19
+msgid "Email"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:23
+msgid "Language"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:25
+msgid "Please select..."
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:26
+msgid "Chinese Simplified"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:27
+msgid "Czech"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:28
+msgid "Danish"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:29
+msgid "Dutch"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:30
+msgid "English"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:31
+msgid "French"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:32
+msgid "German"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:33
+msgid "Italian"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:34
+msgid "Japanese"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:35
+msgid "Other"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:36
+msgid "Polish"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:37
+msgid "Portuguese"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:38
+msgid "Russian"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:39
+msgid "Spanish"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:43
+msgid "Subject"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:49
+msgid "Description"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:55
+#, python-format
+msgid ""
+"Mozilla will only use your submitted information for purposes of\n"
+"            communicating with you about your request. See our <a href=\"%(privacy)s\">privacy\n"
+"              policy</a> for further information."
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:69
+msgid "reCAPTCHA helps prevent automated form spam."
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:71
+msgid ""
+"The submit button will be\n"
+"                disabled until you complete the CAPTCHA."
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:76
+msgid "Submit"
+msgstr ""
+
 #: website/newsletter/index.html:19
 msgid ""
 "See exciting previews of upcoming features, read the latest desktop Thunderbird and mobile Thunderbird news, and enjoy personalized tips to protect your privacy and maximize your productivity! From "
@@ -1456,8 +1584,8 @@ msgid ""
 "Thunderbird Beta is early access software, so please report the rough edges using the Help menu. You can find assistance via “Get Help” and “Share Ideas and Feedback” as well as the <a "
 "href=\"%(beta_topicbox_url)s\">Beta Topicbox</a> forum."
 msgstr ""
-"Thunderbird Bêta est un logiciel en accès anticipé. Aussi, veuillez nous en signaler les défauts en passant par le menu Aide. Vous pouvez obtenir de l’assistance via « Obtenir de l’aide » et "
-"« Partager des idées et des commentaires », mais également sur le forum <a href=\"%(beta_topicbox_url)s\">Beta Topicbox</a>."
+"Thunderbird Bêta est un logiciel en accès anticipé. Aussi, veuillez nous en signaler les défauts en passant par le menu Aide. Vous pouvez obtenir de l’assistance via « Obtenir de l’aide » et « "
+"Partager des idées et des commentaires », mais également sur le forum <a href=\"%(beta_topicbox_url)s\">Beta Topicbox</a>."
 
 #: website/thunderbird/102.0/beta-appeal/index.html:36
 msgid "Install now!"

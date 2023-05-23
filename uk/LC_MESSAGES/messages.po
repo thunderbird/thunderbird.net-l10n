@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-05-15 15:35-0700\n"
+"POT-Creation-Date: 2023-05-23 10:15-0700\n"
 "PO-Revision-Date: 2023-05-16 22:35+0000\n"
 "Last-Translator: Іhor Hordiichuk <igor_ck@outlook.com>\n"
 "Language-Team: none\n"
@@ -639,6 +639,32 @@ msgstr "Наша місія — надати безпечну, приватну 
 msgid "Contributions are not tax-deductible as charitable donations."
 msgstr "Внески не підлягають оподаткуванню як благодійна допомога."
 
+#: website/donate/help/index.html:7 website/donate/help/thank-you/index.html:7
+msgid "Donor Help"
+msgstr ""
+
+#: website/donate/help/index.html:27
+msgid "If you need help with a contribution to MZLA/Thunderbird, please fill out this form and a Thunderbird donor care representative will get back to you as soon as possible."
+msgstr ""
+
+#: website/donate/help/index.html:30
+#, python-format
+msgid ""
+"Unfortunately, donor care representatives are unable to offer support or help with Thunderbird technical issues. For technical support, please visit our <a href=\"%(support_url)s\">support page.</a>"
+msgstr ""
+
+#: website/donate/help/thank-you/index.html:20
+msgid "Thank you for contacting us. A case has been created for your issue and we will be in touch shortly."
+msgstr ""
+
+#: website/donate/help/thank-you/index.html:23
+msgid "We will get back to you soon."
+msgstr ""
+
+#: website/donate/help/thank-you/index.html:26
+msgid "Return to Thunderbird.net"
+msgstr ""
+
 #: website/download/index.html:9 website/includes/download-button.html:14 website/includes/download-button.html:63 website/includes/site-prefooter.html:59
 msgid "Download Thunderbird"
 msgstr "Завантажити Thunderbird"
@@ -743,9 +769,9 @@ msgid ""
 "Flaws are to be expected. High-impact flaws, including data loss, are very rare, but may occur. Protect yourself with <a href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-"
 "data#w_backing-up-a-profile\">backups</a>. Low-impact flaws may not be fixed quickly, because fixes are prioritized based on impact."
 msgstr ""
-"Слід очікувати недоліків. Вади з сильним впливом, включно з втратою даних, зустрічаються дуже рідко, але можуть виникати. Захистіть себе за допомогою <a "
-"href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-data#w_backing-up-a-profile\">резервних копій</a>. Недоліки з низьким рівнем впливу не можуть бути виправлені швидко, "
-"оскільки пріоритети виправлень визначаються на основі впливу."
+"Слід очікувати недоліків. Вади з сильним впливом, включно з втратою даних, зустрічаються дуже рідко, але можуть виникати. Захистіть себе за допомогою <a href=\"https://support.mozilla.org/kb"
+"/profiles-where-thunderbird-stores-user-data#w_backing-up-a-profile\">резервних копій</a>. Недоліки з низьким рівнем впливу не можуть бути виправлені швидко, оскільки пріоритети виправлень "
+"визначаються на основі впливу."
 
 #: website/download/beta/index.html:54
 msgid "Expect seven updates per month, one major update per month plus several small updates. This frequency of updates allows us to make fast improvements."
@@ -807,8 +833,8 @@ msgid ""
 "Thunderbird 102 and newer on Windows will install beta into its own program directory. For older versions on Windows consult the <a href=\"https://support.mozilla.org/en-US/kb/thunderbird-"
 "beta\">beta support article</a>. For other operating systems use an install method appropriate for your OS to target a uniquely named directory."
 msgstr ""
-"Thunderbird 102 і новіші для Windows встановлять бета-версію у власний каталог програми. Щоб дізнатися про старіші версії Windows, перегляньте <a href=\"https://support.mozilla.org/en-"
-"US/kb/thunderbird-beta\">статтю підтримки бета-версії</a>. Для інших операційних систем використовуйте метод встановлення, відповідний для вашої ОС, щоб націлити його на каталог з унікальною назвою."
+"Thunderbird 102 і новіші для Windows встановлять бета-версію у власний каталог програми. Щоб дізнатися про старіші версії Windows, перегляньте <a href=\"https://support.mozilla.org/en-US/kb"
+"/thunderbird-beta\">статтю підтримки бета-версії</a>. Для інших операційних систем використовуйте метод встановлення, відповідний для вашої ОС, щоб націлити його на каталог з унікальною назвою."
 
 #: website/download/beta/index.html:86
 msgid ""
@@ -1407,6 +1433,108 @@ msgstr ""
 #: website/includes/ways-to-give.html:17
 msgid "Please include your email address on the memo line of your check to help us track and attribute your gift."
 msgstr "Будь ласка, введіть свою адресу електронної пошти в рядок примітки вашого чека, щоб допомогти нам відстежувати та позначити ваш подарунок."
+
+#: website/includes/donor-contact/fa-body.html:14
+msgid "Contact Name"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:19
+msgid "Email"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:23
+msgid "Language"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:25
+msgid "Please select..."
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:26
+msgid "Chinese Simplified"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:27
+msgid "Czech"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:28
+msgid "Danish"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:29
+msgid "Dutch"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:30
+msgid "English"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:31
+msgid "French"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:32
+msgid "German"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:33
+msgid "Italian"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:34
+msgid "Japanese"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:35
+msgid "Other"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:36
+msgid "Polish"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:37
+msgid "Portuguese"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:38
+msgid "Russian"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:39
+msgid "Spanish"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:43
+msgid "Subject"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:49
+msgid "Description"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:55
+#, python-format
+msgid ""
+"Mozilla will only use your submitted information for purposes of\n"
+"            communicating with you about your request. See our <a href=\"%(privacy)s\">privacy\n"
+"              policy</a> for further information."
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:69
+msgid "reCAPTCHA helps prevent automated form spam."
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:71
+msgid ""
+"The submit button will be\n"
+"                disabled until you complete the CAPTCHA."
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:76
+msgid "Submit"
+msgstr ""
 
 #: website/newsletter/index.html:19
 msgid ""
