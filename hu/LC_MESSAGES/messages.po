@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-05-23 10:15-0700\n"
-"PO-Revision-Date: 2023-05-17 11:14+0000\n"
+"PO-Revision-Date: 2023-05-24 12:42+0000\n"
 "Last-Translator: Balázs Meskó <meskobalazs@mailbox.org>\n"
 "Language-Team: none\n"
 "Language: hu\n"
@@ -646,29 +646,33 @@ msgstr "Az adományok nem vonhatók le az adóból karitatív adományként."
 
 #: website/donate/help/index.html:7 website/donate/help/thank-you/index.html:7
 msgid "Donor Help"
-msgstr ""
+msgstr "Támogatói súgó"
 
 #: website/donate/help/index.html:27
 msgid "If you need help with a contribution to MZLA/Thunderbird, please fill out this form and a Thunderbird donor care representative will get back to you as soon as possible."
 msgstr ""
+"Ha segítségre van szüksége a MZLA/Thunderbirdnek küldendő támogatással, akkor töltse ki ezt az űrlapot, és a Thunderbird egy adománygondozó képviselője a lehető leghamarabb felveszi Önnel a "
+"kapcsolatot."
 
 #: website/donate/help/index.html:30
 #, python-format
 msgid ""
 "Unfortunately, donor care representatives are unable to offer support or help with Thunderbird technical issues. For technical support, please visit our <a href=\"%(support_url)s\">support page.</a>"
 msgstr ""
+"Sajnos az adománygondozó képviselők nem tudnak támogatást vagy segítséget nyújtani a Thunderbird műszaki problémáival kapcsolatban. Műszaki támogatásért keresse fel a <a "
+"href=\"%(support_url)s\">támogatási oldalt</a>."
 
 #: website/donate/help/thank-you/index.html:20
 msgid "Thank you for contacting us. A case has been created for your issue and we will be in touch shortly."
-msgstr ""
+msgstr "Köszönjük, hogy kapcsolatba lépett velünk. Készült egy esetleírás a kérdéséhez, és hamarosan felvesszük Önnel a kapcsolatot."
 
 #: website/donate/help/thank-you/index.html:23
 msgid "We will get back to you soon."
-msgstr ""
+msgstr "Hamarosan kapcsolatba lépünk Önnel."
 
 #: website/donate/help/thank-you/index.html:26
 msgid "Return to Thunderbird.net"
-msgstr ""
+msgstr "Visszatérés a Thunderbird.net oldalra"
 
 #: website/download/index.html:9 website/includes/download-button.html:14 website/includes/download-button.html:63 website/includes/site-prefooter.html:59
 msgid "Download Thunderbird"
@@ -1440,83 +1444,83 @@ msgstr "Kérjük, adja meg e-mail-címét a csekk emlékeztető sorában, hogy s
 
 #: website/includes/donor-contact/fa-body.html:14
 msgid "Contact Name"
-msgstr ""
+msgstr "Kapcsolattartó neve"
 
 #: website/includes/donor-contact/fa-body.html:19
 msgid "Email"
-msgstr ""
+msgstr "E-mail"
 
 #: website/includes/donor-contact/fa-body.html:23
 msgid "Language"
-msgstr ""
+msgstr "Nyelv"
 
 #: website/includes/donor-contact/fa-body.html:25
 msgid "Please select..."
-msgstr ""
+msgstr "Válasszon…"
 
 #: website/includes/donor-contact/fa-body.html:26
 msgid "Chinese Simplified"
-msgstr ""
+msgstr "Egyszerűsített kínai"
 
 #: website/includes/donor-contact/fa-body.html:27
 msgid "Czech"
-msgstr ""
+msgstr "Cseh"
 
 #: website/includes/donor-contact/fa-body.html:28
 msgid "Danish"
-msgstr ""
+msgstr "Dán"
 
 #: website/includes/donor-contact/fa-body.html:29
 msgid "Dutch"
-msgstr ""
+msgstr "Holland"
 
 #: website/includes/donor-contact/fa-body.html:30
 msgid "English"
-msgstr ""
+msgstr "Angol"
 
 #: website/includes/donor-contact/fa-body.html:31
 msgid "French"
-msgstr ""
+msgstr "Francia"
 
 #: website/includes/donor-contact/fa-body.html:32
 msgid "German"
-msgstr ""
+msgstr "Német"
 
 #: website/includes/donor-contact/fa-body.html:33
 msgid "Italian"
-msgstr ""
+msgstr "Olasz"
 
 #: website/includes/donor-contact/fa-body.html:34
 msgid "Japanese"
-msgstr ""
+msgstr "Japán"
 
 #: website/includes/donor-contact/fa-body.html:35
 msgid "Other"
-msgstr ""
+msgstr "Egyéb"
 
 #: website/includes/donor-contact/fa-body.html:36
 msgid "Polish"
-msgstr ""
+msgstr "Lengyel"
 
 #: website/includes/donor-contact/fa-body.html:37
 msgid "Portuguese"
-msgstr ""
+msgstr "Portugál"
 
 #: website/includes/donor-contact/fa-body.html:38
 msgid "Russian"
-msgstr ""
+msgstr "Orosz"
 
 #: website/includes/donor-contact/fa-body.html:39
 msgid "Spanish"
-msgstr ""
+msgstr "Spanyol"
 
 #: website/includes/donor-contact/fa-body.html:43
 msgid "Subject"
-msgstr ""
+msgstr "Tárgy"
 
 #: website/includes/donor-contact/fa-body.html:49
 msgid "Description"
-msgstr ""
+msgstr "Leírás"
 
 #: website/includes/donor-contact/fa-body.html:55
 #, python-format
@@ -1525,6 +1529,9 @@ msgid ""
 "            communicating with you about your request. See our <a href=\"%(privacy)s\">privacy\n"
 "              policy</a> for further information."
 msgstr ""
+"A Mozilla a benyújtott információkat csak az Ön kérésével kapcsolatos\n"
+"kommunikációra használja. További információkért tekintse meg az \n"
+"<a href=\"%(privacy_policy)s\">adatvédelmi irányelveinket</a>."
 
 #: website/includes/donor-contact/fa-body.html:69
 msgid "reCAPTCHA helps prevent automated form spam."
