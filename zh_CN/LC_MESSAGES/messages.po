@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-05-29 10:19-0700\n"
+"POT-Creation-Date: 2023-06-20 02:29+0000\n"
 "PO-Revision-Date: 2023-05-23 23:13+0000\n"
 "Last-Translator: wxie <xiewensheng@hotmail.com>\n"
 "Language-Team: none\n"
@@ -393,7 +393,7 @@ msgstr "阅读博客"
 msgid "Thunderbird Calendar screenshot"
 msgstr "Thunderbird 日历截图"
 
-#: website/index.html:127
+#: website/calendar/index.html:7 website/calendar/index.html:22 website/index.html:127
 msgid "Calendar"
 msgstr "日历"
 
@@ -440,8 +440,8 @@ msgid ""
 msgstr "Thunderbird 是一款免费开源的电子邮件、新闻订阅、即时通信、日历客户端，配置简单，定制自由。Thunderbird 的核心准则之一是使用和推广开放标准——重点就是拒绝世界上我们无法相互通信的封闭平台和服务。我们希望我们的用户在沟通方式上拥有自由和选择。"
 
 #: website/about/index.html:37 website/calendar/index.html:35
-msgid "Lightning Calendar screenshot"
-msgstr "Lightning 日历截图"
+msgid "Calendar screenshot"
+msgstr ""
 
 #: website/about/index.html:46
 msgid "Who We Are"
@@ -451,11 +451,11 @@ msgstr "我们是谁"
 msgid "We are a community making communication free and open."
 msgstr "我们是一个致力于让沟通更自由开放的社区。"
 
-#: website/about/index.html:62
+#: website/about/index.html:63
 msgid "Our Community"
 msgstr "我们的社区"
 
-#: website/about/index.html:64
+#: website/about/index.html:65
 #, python-format
 msgid ""
 "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
@@ -465,20 +465,39 @@ msgstr ""
 "Thunderbird 的开发和用户支持团队是一些富有激情的志愿者，他们时刻帮助欢迎您的参与。请查看我们的<a href=\"%(volunteer)s\">参与页面</a>，了解如何加入 Thunderbird 团队。我们还聘请了 Thunderbird 的全职员工，<a href=\"%(donate)s\" data-donate-btn data-donate-"
 "content=\"about\">由我们用户的捐款资助</a>。如果您想知道谁在为 Thunderbird 工作，请查看<a href=\"%(core_team)s\">我们的核心贡献者名单</a>。"
 
-#: website/about/index.html:69
+#: website/about/index.html:70
 msgid "Thunderbird Council"
 msgstr "Thunderbird 委员会"
 
-#: website/about/index.html:71
+#: website/about/index.html:72
 #, python-format
 msgid ""
 "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
 "href=\"%(council)s\">on the Thunderbird wiki</a>."
 msgstr "Thunderbird 项目由七人委员会管理，成员从 Thunderbird 社区的活跃贡献者中选出。您可以在 <a href=\"%(council)s\">Thunderbird wiki</a> 上看到目前当选的 Thunderbird 委员会成员。"
 
-#: website/calendar/index.html:7 website/calendar/index.html:22
-msgid "Lightning Calendar"
-msgstr "Lightning 日历"
+#: website/about/index.html:79
+msgid "Our Mission"
+msgstr ""
+
+#: website/about/index.html:81
+msgid ""
+"Email has been and continues to be the fundamental communication tool\n"
+"                  and a significant driver of freedoms on the Internet. But it is also\n"
+"                  threatened by new non-standards-based, closed and centralized messaging\n"
+"                  platforms. To prevent this erosion, the public deserves an alternative that is secure and reliable,\n"
+"                  while  protecting our privacy, enhancing our productivity and serving as a\n"
+"                  platform for current and future forms of messaging."
+msgstr ""
+
+#: website/about/index.html:90
+msgid ""
+"Thunderbird facilitates cross platform, decentralized, open-standard\n"
+"                  communication, which puts the user in control of their data and workflow.\n"
+"                  We aspire to offer an interoperable and extensible open-source\n"
+"                  platform for messaging and managing personal information, such as email,\n"
+"                  contacts, and appointments."
+msgstr ""
 
 #: website/calendar/index.html:8
 msgid "Organize your life — it&rsquo;s about time!"
@@ -495,8 +514,8 @@ msgid "Get Support"
 msgstr "获取支持"
 
 #: website/calendar/index.html:50
-msgid "Need help with Lightning?"
-msgstr "Lightning 使用方面需要帮助吗？"
+msgid "Need help with Calendar?"
+msgstr ""
 
 #: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:62
 msgid "Holiday Calendars"
@@ -523,15 +542,15 @@ msgid "Want to make a difference? Fix a bug that fits your interests."
 msgstr "想要有所行动？修复让您在意的的缺陷（bug）。"
 
 #: website/calendar/holidays/index.html:24
-msgid "Add your nation’s holidays to Lightning!"
-msgstr "将全国性节假日安排加入 Lightning！"
+msgid "Add your nation’s holidays to Calendar!"
+msgstr ""
 
 #: website/calendar/holidays/index.html:29
 #, python-format
 msgid ""
-"We’ve got some holiday calendar files available for download. You can either download and then import them into Lightning or you can just subscribe to these calendars by copying their URL and then "
+"We’ve got some holiday calendar files available for download. You can either download and then import them into Calendar or you can just subscribe to these calendars by copying their URL and then "
 "adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
-msgstr "我们有一些节假日日历可供下载。您可以将其导入到 Lightning；也可以复制网址，作为远程日历文件直接订阅。有关如何安装假日日历的更多信息，请参阅<a href=\"%s\">添加假日日历</a>这篇文章。"
+msgstr ""
 
 #: website/calendar/holidays/index.html:32
 #, python-format
@@ -1972,6 +1991,24 @@ msgstr "每个版本的 Thunderbird 发行说明。"
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Thunderbird 每个版本均有发行说明。请从下方列表中选择您的版本，阅读该版本的发行说明。"
+
+#~ msgid "Lightning Calendar screenshot"
+#~ msgstr "Lightning 日历截图"
+
+#~ msgid "Lightning Calendar"
+#~ msgstr "Lightning 日历"
+
+#~ msgid "Need help with Lightning?"
+#~ msgstr "Lightning 使用方面需要帮助吗？"
+
+#~ msgid "Add your nation’s holidays to Lightning!"
+#~ msgstr "将全国性节假日安排加入 Lightning！"
+
+#, python-format
+#~ msgid ""
+#~ "We’ve got some holiday calendar files available for download. You can either download and then import them into Lightning or you can just subscribe to these calendars by copying their URL and then "
+#~ "adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
+#~ msgstr "我们有一些节假日日历可供下载。您可以将其导入到 Lightning；也可以复制网址，作为远程日历文件直接订阅。有关如何安装假日日历的更多信息，请参阅<a href=\"%s\">添加假日日历</a>这篇文章。"
 
 #~ msgid "What are the ways I can give?"
 #~ msgstr "有哪些捐款方式？"

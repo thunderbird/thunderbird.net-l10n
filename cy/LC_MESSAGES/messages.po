@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-05-29 10:19-0700\n"
+"POT-Creation-Date: 2023-06-20 02:29+0000\n"
 "PO-Revision-Date: 2023-05-31 10:33+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language-Team: none\n"
@@ -414,7 +414,7 @@ msgstr "Darllenwch y Blog"
 msgid "Thunderbird Calendar screenshot"
 msgstr "Llun sgrin Calendr Thunderbird"
 
-#: website/index.html:127
+#: website/calendar/index.html:7 website/calendar/index.html:22 website/index.html:127
 msgid "Calendar"
 msgstr "Calendr"
 
@@ -464,8 +464,8 @@ msgstr ""
 "cyfathrebu."
 
 #: website/about/index.html:37 website/calendar/index.html:35
-msgid "Lightning Calendar screenshot"
-msgstr "Llun sgrin o Galendr Lightning"
+msgid "Calendar screenshot"
+msgstr ""
 
 #: website/about/index.html:46
 msgid "Who We Are"
@@ -475,11 +475,11 @@ msgstr "Pwy Ydym Ni"
 msgid "We are a community making communication free and open."
 msgstr "Rydym yn gymuned sy'n gwneud cyfathrebu'n rhydd ac yn agored."
 
-#: website/about/index.html:62
+#: website/about/index.html:63
 msgid "Our Community"
 msgstr "Ein Cymuned"
 
-#: website/about/index.html:64
+#: website/about/index.html:65
 #, python-format
 msgid ""
 "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
@@ -491,11 +491,11 @@ msgstr ""
 "href=\"%(donate)s\">sy'n cael ei ariannu gan roddion</a> gan ein defnyddwyr. Os hoffech chi wybod pwy sy'n gweithio ar Thunderbird, edrychwch ar y rhestr o'n <a href=\"%(core_team)s\">cyfranwyr "
 "craidd</a>."
 
-#: website/about/index.html:69
+#: website/about/index.html:70
 msgid "Thunderbird Council"
 msgstr "Cyngor Thunderbird"
 
-#: website/about/index.html:71
+#: website/about/index.html:72
 #, python-format
 msgid ""
 "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
@@ -504,9 +504,28 @@ msgstr ""
 "Mae prosiect Thunderbird yn cael ei lywodraethu gan saith cynghorydd, wedi'u hethol gan gyfranwyr gweithredol cymuned Thunderbird. Gallwch weld aelodau etholedig presennol Cyngor Thunderbird <a "
 "href=\"%(council)s\">ar wiki Thunderbird</a>."
 
-#: website/calendar/index.html:7 website/calendar/index.html:22
-msgid "Lightning Calendar"
-msgstr "Calendr Lightning"
+#: website/about/index.html:79
+msgid "Our Mission"
+msgstr ""
+
+#: website/about/index.html:81
+msgid ""
+"Email has been and continues to be the fundamental communication tool\n"
+"                  and a significant driver of freedoms on the Internet. But it is also\n"
+"                  threatened by new non-standards-based, closed and centralized messaging\n"
+"                  platforms. To prevent this erosion, the public deserves an alternative that is secure and reliable,\n"
+"                  while  protecting our privacy, enhancing our productivity and serving as a\n"
+"                  platform for current and future forms of messaging."
+msgstr ""
+
+#: website/about/index.html:90
+msgid ""
+"Thunderbird facilitates cross platform, decentralized, open-standard\n"
+"                  communication, which puts the user in control of their data and workflow.\n"
+"                  We aspire to offer an interoperable and extensible open-source\n"
+"                  platform for messaging and managing personal information, such as email,\n"
+"                  contacts, and appointments."
+msgstr ""
 
 #: website/calendar/index.html:8
 msgid "Organize your life — it&rsquo;s about time!"
@@ -525,8 +544,8 @@ msgid "Get Support"
 msgstr "Derbyn Cefnogaeth"
 
 #: website/calendar/index.html:50
-msgid "Need help with Lightning?"
-msgstr "Angen cymorth gyda Lightning?"
+msgid "Need help with Calendar?"
+msgstr ""
 
 #: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:62
 msgid "Holiday Calendars"
@@ -553,17 +572,15 @@ msgid "Want to make a difference? Fix a bug that fits your interests."
 msgstr "Am wneud gwahaniaeth? Beth am gywiro gwall sydd o ddiddordeb i chi."
 
 #: website/calendar/holidays/index.html:24
-msgid "Add your nation’s holidays to Lightning!"
-msgstr "Ychwanegwch wyliau eich gwlad i Lightning!"
+msgid "Add your nation’s holidays to Calendar!"
+msgstr ""
 
 #: website/calendar/holidays/index.html:29
 #, python-format
 msgid ""
-"We’ve got some holiday calendar files available for download. You can either download and then import them into Lightning or you can just subscribe to these calendars by copying their URL and then "
+"We’ve got some holiday calendar files available for download. You can either download and then import them into Calendar or you can just subscribe to these calendars by copying their URL and then "
 "adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
 msgstr ""
-"Mae gennym rai ffeiliau calendr gwyliau ar gael i'w llwytho i lawr. Gallwch naill ai eu llwytho i lawr ac yna eu mewnforio i Lightning neu gallwch danysgrifio i'r calendrau hyn trwy gopïo eu URL ac "
-"yna eu hychwanegu fel ffeiliau calendr pell newydd. Mae mwy o wybodaeth am osod calendr gwyliau i'w gweld yn yr <a href=\"%s\">erthygl Ychwanegu calendr gwyliau </a>."
 
 #: website/calendar/holidays/index.html:32
 #, python-format
@@ -2160,6 +2177,26 @@ msgstr "Nodiadau ryddhau ar gyfer pob fersiwn o Thunderbird."
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Mae nodiadau rhyddhau Thunderbird yn benodol i bob fersiwn o'r rhaglen. Dewiswch eich fersiwn chi o'r rhestr isod i weld y nodiadau rhyddhau ar ei gyfer."
+
+#~ msgid "Lightning Calendar screenshot"
+#~ msgstr "Llun sgrin o Galendr Lightning"
+
+#~ msgid "Lightning Calendar"
+#~ msgstr "Calendr Lightning"
+
+#~ msgid "Need help with Lightning?"
+#~ msgstr "Angen cymorth gyda Lightning?"
+
+#~ msgid "Add your nation’s holidays to Lightning!"
+#~ msgstr "Ychwanegwch wyliau eich gwlad i Lightning!"
+
+#, python-format
+#~ msgid ""
+#~ "We’ve got some holiday calendar files available for download. You can either download and then import them into Lightning or you can just subscribe to these calendars by copying their URL and then "
+#~ "adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
+#~ msgstr ""
+#~ "Mae gennym rai ffeiliau calendr gwyliau ar gael i'w llwytho i lawr. Gallwch naill ai eu llwytho i lawr ac yna eu mewnforio i Lightning neu gallwch danysgrifio i'r calendrau hyn trwy gopïo eu URL ac "
+#~ "yna eu hychwanegu fel ffeiliau calendr pell newydd. Mae mwy o wybodaeth am osod calendr gwyliau i'w gweld yn yr <a href=\"%s\">erthygl Ychwanegu calendr gwyliau </a>."
 
 #~ msgid "What are the ways I can give?"
 #~ msgstr "Beth yw'r ffyrdd y gallaf i wneud rhodd iddo?"

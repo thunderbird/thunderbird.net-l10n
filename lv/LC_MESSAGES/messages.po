@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-05-29 10:19-0700\n"
+"POT-Creation-Date: 2023-06-20 02:29+0000\n"
 "PO-Revision-Date: 2020-11-29 13:52+0000\n"
 "Last-Translator: Valdis Vitolins <valdis.vitolins@odo.lv>\n"
 "Language-Team: none\n"
@@ -408,7 +408,7 @@ msgstr "Lasiet emuāru"
 msgid "Thunderbird Calendar screenshot"
 msgstr "Thunderbird ekrānattēls"
 
-#: website/index.html:127
+#: website/calendar/index.html:7 website/calendar/index.html:22 website/index.html:127
 #, fuzzy
 msgid "Calendar"
 msgstr "Brīvdienu kalendāri"
@@ -460,8 +460,8 @@ msgstr ""
 "veida izvēle."
 
 #: website/about/index.html:37 website/calendar/index.html:35
-msgid "Lightning Calendar screenshot"
-msgstr "Lightning kalendāra ekrānuzņēmums"
+msgid "Calendar screenshot"
+msgstr ""
 
 #: website/about/index.html:46
 msgid "Who We Are"
@@ -471,11 +471,11 @@ msgstr "Kas mēs esam"
 msgid "We are a community making communication free and open."
 msgstr "Mēs esam kopiena, kas padara saziņu brīvu un atvērtu."
 
-#: website/about/index.html:62
+#: website/about/index.html:63
 msgid "Our Community"
 msgstr "Mūsu kopiena"
 
-#: website/about/index.html:64
+#: website/about/index.html:65
 #, python-format
 msgid ""
 "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
@@ -483,11 +483,11 @@ msgid ""
 "donations</a> from our users. If you’re curious about who is working on Thunderbird, check out the <a href=\"%(core_team)s\">list of our core contributors</a>."
 msgstr ""
 
-#: website/about/index.html:69
+#: website/about/index.html:70
 msgid "Thunderbird Council"
 msgstr "Thunderbird padome"
 
-#: website/about/index.html:71
+#: website/about/index.html:72
 #, python-format
 msgid ""
 "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
@@ -496,9 +496,28 @@ msgstr ""
 "Thunderbird projektu vada septiņi padomnieki, kurus ievēlējuši Thunderbird kopienas aktīvie līdzstrādnieki. Pašreizējos ievēlētos Thunderbird padomes locekļus var redzēt <a "
 "href=\"%(council)s\">Thunderbird wiki</a>."
 
-#: website/calendar/index.html:7 website/calendar/index.html:22
-msgid "Lightning Calendar"
-msgstr "Lightning kalendārs"
+#: website/about/index.html:79
+msgid "Our Mission"
+msgstr ""
+
+#: website/about/index.html:81
+msgid ""
+"Email has been and continues to be the fundamental communication tool\n"
+"                  and a significant driver of freedoms on the Internet. But it is also\n"
+"                  threatened by new non-standards-based, closed and centralized messaging\n"
+"                  platforms. To prevent this erosion, the public deserves an alternative that is secure and reliable,\n"
+"                  while  protecting our privacy, enhancing our productivity and serving as a\n"
+"                  platform for current and future forms of messaging."
+msgstr ""
+
+#: website/about/index.html:90
+msgid ""
+"Thunderbird facilitates cross platform, decentralized, open-standard\n"
+"                  communication, which puts the user in control of their data and workflow.\n"
+"                  We aspire to offer an interoperable and extensible open-source\n"
+"                  platform for messaging and managing personal information, such as email,\n"
+"                  contacts, and appointments."
+msgstr ""
 
 #: website/calendar/index.html:8
 msgid "Organize your life — it&rsquo;s about time!"
@@ -518,8 +537,8 @@ msgid "Get Support"
 msgstr "Atbalsts"
 
 #: website/calendar/index.html:50
-msgid "Need help with Lightning?"
-msgstr "Vai nepieciešama palīdzība ar Lightning?"
+msgid "Need help with Calendar?"
+msgstr ""
 
 #: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:62
 msgid "Holiday Calendars"
@@ -546,17 +565,15 @@ msgid "Want to make a difference? Fix a bug that fits your interests."
 msgstr "Vēlaties ko mainīt? Izlabojiet jūs interesējošu kļūdu."
 
 #: website/calendar/holidays/index.html:24
-msgid "Add your nation’s holidays to Lightning!"
-msgstr "Pievienojiet Lightning savas valsts brīvdienas!"
+msgid "Add your nation’s holidays to Calendar!"
+msgstr ""
 
 #: website/calendar/holidays/index.html:29
 #, python-format
 msgid ""
-"We’ve got some holiday calendar files available for download. You can either download and then import them into Lightning or you can just subscribe to these calendars by copying their URL and then "
+"We’ve got some holiday calendar files available for download. You can either download and then import them into Calendar or you can just subscribe to these calendars by copying their URL and then "
 "adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
 msgstr ""
-"Mums ir daži lejuplādējami brīvdienu kalendāra faili. Varat tos lejuplādēt vai importēt Lightning, vai arī vienkārši abonēt šos kalendārus, nokopējot to URL un pēc tam pievienojot tos kā jaunus "
-"attālos kalendāra failus. Plašāka informācija par svētku kalendāra uzstādīšanu ir atrodama rakstā <a href=\"%s\">Svētku kalendāra pievienošana</a>."
 
 #: website/calendar/holidays/index.html:32
 #, python-format
@@ -2046,6 +2063,26 @@ msgstr "Katras Thunderbird versijas laidiena piezīmes."
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Thunderbird laidiena piezīmes ir atsevišķi katrai lietotnes versijai. Zemāk esošajā sarakstā atlasiet savu versiju, lai skatītu tās laidiena piezīmes."
+
+#~ msgid "Lightning Calendar screenshot"
+#~ msgstr "Lightning kalendāra ekrānuzņēmums"
+
+#~ msgid "Lightning Calendar"
+#~ msgstr "Lightning kalendārs"
+
+#~ msgid "Need help with Lightning?"
+#~ msgstr "Vai nepieciešama palīdzība ar Lightning?"
+
+#~ msgid "Add your nation’s holidays to Lightning!"
+#~ msgstr "Pievienojiet Lightning savas valsts brīvdienas!"
+
+#, python-format
+#~ msgid ""
+#~ "We’ve got some holiday calendar files available for download. You can either download and then import them into Lightning or you can just subscribe to these calendars by copying their URL and then "
+#~ "adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
+#~ msgstr ""
+#~ "Mums ir daži lejuplādējami brīvdienu kalendāra faili. Varat tos lejuplādēt vai importēt Lightning, vai arī vienkārši abonēt šos kalendārus, nokopējot to URL un pēc tam pievienojot tos kā jaunus "
+#~ "attālos kalendāra failus. Plašāka informācija par svētku kalendāra uzstādīšanu ir atrodama rakstā <a href=\"%s\">Svētku kalendāra pievienošana</a>."
 
 #~ msgid "Your download should begin automatically. Didn’t work? Try the button below!"
 #~ msgstr "Lejuplādei būtu jāsākas automātiski. Nestrādāja? Izmēģiniet zemāk redzamo pogu!"

@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-05-29 10:19-0700\n"
+"POT-Creation-Date: 2023-06-20 02:29+0000\n"
 "PO-Revision-Date: 2023-06-07 14:03+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: none\n"
@@ -423,7 +423,7 @@ msgstr "Lire le blog"
 msgid "Thunderbird Calendar screenshot"
 msgstr "Capture d’écran de l’agenda de Thunderbird"
 
-#: website/index.html:127
+#: website/calendar/index.html:7 website/calendar/index.html:22 website/index.html:127
 msgid "Calendar"
 msgstr "Agenda"
 
@@ -473,8 +473,8 @@ msgstr ""
 "que nos utilisateurs aient la liberté et le choix dans la façon dont ils communiquent."
 
 #: website/about/index.html:37 website/calendar/index.html:35
-msgid "Lightning Calendar screenshot"
-msgstr "Capture d’écran de l’agenda Lightning"
+msgid "Calendar screenshot"
+msgstr ""
 
 #: website/about/index.html:46
 msgid "Who We Are"
@@ -484,11 +484,11 @@ msgstr "Qui sommes-nous ?"
 msgid "We are a community making communication free and open."
 msgstr "Nous sommes une communauté qui veut que la communication soit libre et ouverte."
 
-#: website/about/index.html:62
+#: website/about/index.html:63
 msgid "Our Community"
 msgstr "Notre communauté"
 
-#: website/about/index.html:64
+#: website/about/index.html:65
 #, python-format
 msgid ""
 "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
@@ -500,11 +500,11 @@ msgstr ""
 "Thunderbird, <a href=\"%(donate)s\" data-donate-btn data-donate-content=\"about\">financé par les dons</a> de nos utilisateurs et utilisatrices. Si vous souhaitez savoir qui travaille sur "
 "Thunderbird, consultez la <a href=\"%(core_team)s\">liste de nos principaux contributeurs et contributrices</a>."
 
-#: website/about/index.html:69
+#: website/about/index.html:70
 msgid "Thunderbird Council"
 msgstr "Conseil Thunderbird"
 
-#: website/about/index.html:71
+#: website/about/index.html:72
 #, python-format
 msgid ""
 "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
@@ -513,9 +513,28 @@ msgstr ""
 "Le projet Thunderbird est dirigé par sept conseillères ou conseillers, élus par les membres de la communauté Thunderbird ayant activement contribué. Vous pouvez voir les membres de l’actuel conseil "
 "de Thunderbird <a href=\"%(council)s\">sur le wiki de Thunderbird</a>."
 
-#: website/calendar/index.html:7 website/calendar/index.html:22
-msgid "Lightning Calendar"
-msgstr "Agenda Lightning"
+#: website/about/index.html:79
+msgid "Our Mission"
+msgstr ""
+
+#: website/about/index.html:81
+msgid ""
+"Email has been and continues to be the fundamental communication tool\n"
+"                  and a significant driver of freedoms on the Internet. But it is also\n"
+"                  threatened by new non-standards-based, closed and centralized messaging\n"
+"                  platforms. To prevent this erosion, the public deserves an alternative that is secure and reliable,\n"
+"                  while  protecting our privacy, enhancing our productivity and serving as a\n"
+"                  platform for current and future forms of messaging."
+msgstr ""
+
+#: website/about/index.html:90
+msgid ""
+"Thunderbird facilitates cross platform, decentralized, open-standard\n"
+"                  communication, which puts the user in control of their data and workflow.\n"
+"                  We aspire to offer an interoperable and extensible open-source\n"
+"                  platform for messaging and managing personal information, such as email,\n"
+"                  contacts, and appointments."
+msgstr ""
 
 #: website/calendar/index.html:8
 msgid "Organize your life — it&rsquo;s about time!"
@@ -534,8 +553,8 @@ msgid "Get Support"
 msgstr "Assistance"
 
 #: website/calendar/index.html:50
-msgid "Need help with Lightning?"
-msgstr "Besoin d’aide avec Lightning ?"
+msgid "Need help with Calendar?"
+msgstr ""
 
 #: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:62
 msgid "Holiday Calendars"
@@ -562,18 +581,15 @@ msgid "Want to make a difference? Fix a bug that fits your interests."
 msgstr "Vous souhaitez faire la différence ? Corrigez un bug qui correspond à vos centres d’intérêt."
 
 #: website/calendar/holidays/index.html:24
-msgid "Add your nation’s holidays to Lightning!"
-msgstr "Ajoutez les jours fériés de votre pays à Lightning !"
+msgid "Add your nation’s holidays to Calendar!"
+msgstr ""
 
 #: website/calendar/holidays/index.html:29
 #, python-format
 msgid ""
-"We’ve got some holiday calendar files available for download. You can either download and then import them into Lightning or you can just subscribe to these calendars by copying their URL and then "
+"We’ve got some holiday calendar files available for download. You can either download and then import them into Calendar or you can just subscribe to these calendars by copying their URL and then "
 "adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
 msgstr ""
-"Voici quelques fichiers d’agendas de jours fériés officiels. Vous pouvez soit les télécharger puis les importer dans Lightning, soit simplement vous y abonner en copiant leur URL, puis en les "
-"ajoutant en tant que nouveaux fichiers d’agenda distant. Pour plus d’informations sur l’installation d’un agenda de jours fériés, consultez l’article <a href=\"%s\">Ajout d’un agenda des jours "
-"fériés</a>."
 
 #: website/calendar/holidays/index.html:32
 #, python-format
@@ -2187,6 +2203,27 @@ msgstr "Notes de version pour chaque version de Thunderbird."
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Les notes de version de Thunderbird sont spécifiques à chaque version de l’application. Sélectionnez votre version dans la liste ci-dessous pour consulter les notes de cette version."
+
+#~ msgid "Lightning Calendar screenshot"
+#~ msgstr "Capture d’écran de l’agenda Lightning"
+
+#~ msgid "Lightning Calendar"
+#~ msgstr "Agenda Lightning"
+
+#~ msgid "Need help with Lightning?"
+#~ msgstr "Besoin d’aide avec Lightning ?"
+
+#~ msgid "Add your nation’s holidays to Lightning!"
+#~ msgstr "Ajoutez les jours fériés de votre pays à Lightning !"
+
+#, python-format
+#~ msgid ""
+#~ "We’ve got some holiday calendar files available for download. You can either download and then import them into Lightning or you can just subscribe to these calendars by copying their URL and then "
+#~ "adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
+#~ msgstr ""
+#~ "Voici quelques fichiers d’agendas de jours fériés officiels. Vous pouvez soit les télécharger puis les importer dans Lightning, soit simplement vous y abonner en copiant leur URL, puis en les "
+#~ "ajoutant en tant que nouveaux fichiers d’agenda distant. Pour plus d’informations sur l’installation d’un agenda de jours fériés, consultez l’article <a href=\"%s\">Ajout d’un agenda des jours "
+#~ "fériés</a>."
 
 #~ msgid "What are the ways I can give?"
 #~ msgstr "Quels sont les différents moyens de faire un don ?"

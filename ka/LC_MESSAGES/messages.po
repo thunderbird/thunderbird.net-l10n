@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-05-29 10:19-0700\n"
+"POT-Creation-Date: 2023-06-20 02:29+0000\n"
 "PO-Revision-Date: 2023-06-11 20:10+0000\n"
 "Last-Translator: G12r <georgianization@outlook.com>\n"
 "Language-Team: none\n"
@@ -422,7 +422,7 @@ msgstr "გაეცანით სვეტს"
 msgid "Thunderbird Calendar screenshot"
 msgstr "Thunderbird-ის კალენდრის სურათები"
 
-#: website/index.html:127
+#: website/calendar/index.html:7 website/calendar/index.html:22 website/index.html:127
 msgid "Calendar"
 msgstr "კალენდარი"
 
@@ -472,8 +472,8 @@ msgstr ""
 "გვსურს, მომხმარებლებს მივანიჭოთ თავისუფლება და არჩევანის შესაძლებლობა სურვილისამებრ ურთიერთობისთვის."
 
 #: website/about/index.html:37 website/calendar/index.html:35
-msgid "Lightning Calendar screenshot"
-msgstr "Lightning კალენდრის სურათი"
+msgid "Calendar screenshot"
+msgstr ""
 
 #: website/about/index.html:46
 msgid "Who We Are"
@@ -483,11 +483,11 @@ msgstr "ვინ ვართ ჩვენ"
 msgid "We are a community making communication free and open."
 msgstr "ჩვენ ვართ ერთობა, ურთიერთკავშირის თავისუფლებისა და საყოველთაო გახსნილობის უზრუნველსაყოფად."
 
-#: website/about/index.html:62
+#: website/about/index.html:63
 msgid "Our Community"
 msgstr "ჩვენი ერთობა"
 
-#: website/about/index.html:64
+#: website/about/index.html:65
 #, python-format
 msgid ""
 "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
@@ -499,11 +499,11 @@ msgstr ""
 "donate-btn data-donate-content=\"about\">ფინანსდებიან შემოწირულობებით</a> ჩვენი მომხმარებლებისგან. თუ გსურთ გაეცნოთ Thunderbird-ზე მომუშავეთა გუნდს, იხილეთ <a href=\"%(core_team)s\">ჩვენი წვლილის "
 "შემტანთა სია</a>."
 
-#: website/about/index.html:69
+#: website/about/index.html:70
 msgid "Thunderbird Council"
 msgstr "Thunderbird-წარმომადგენელი"
 
-#: website/about/index.html:71
+#: website/about/index.html:72
 #, python-format
 msgid ""
 "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
@@ -512,9 +512,28 @@ msgstr ""
 "Thunderbird-პროექტი იმართება შვიდი წარმომადგენლის მიერ, რომლებსაც ირჩევენ Thunderbird-ის ერთობის მოქმედი წევრები. Thunderbird-ის ამჟამად არჩეულ წარმომადგენელთა სია შეგიძლიათ იხილოთ <a "
 "href=\"%(council)s\">Thunderbird-ის ვიკიზე</a>."
 
-#: website/calendar/index.html:7 website/calendar/index.html:22
-msgid "Lightning Calendar"
-msgstr "Lightning კალენდარი"
+#: website/about/index.html:79
+msgid "Our Mission"
+msgstr ""
+
+#: website/about/index.html:81
+msgid ""
+"Email has been and continues to be the fundamental communication tool\n"
+"                  and a significant driver of freedoms on the Internet. But it is also\n"
+"                  threatened by new non-standards-based, closed and centralized messaging\n"
+"                  platforms. To prevent this erosion, the public deserves an alternative that is secure and reliable,\n"
+"                  while  protecting our privacy, enhancing our productivity and serving as a\n"
+"                  platform for current and future forms of messaging."
+msgstr ""
+
+#: website/about/index.html:90
+msgid ""
+"Thunderbird facilitates cross platform, decentralized, open-standard\n"
+"                  communication, which puts the user in control of their data and workflow.\n"
+"                  We aspire to offer an interoperable and extensible open-source\n"
+"                  platform for messaging and managing personal information, such as email,\n"
+"                  contacts, and appointments."
+msgstr ""
 
 #: website/calendar/index.html:8
 msgid "Organize your life — it&rsquo;s about time!"
@@ -533,8 +552,8 @@ msgid "Get Support"
 msgstr "მხარდაჭერა"
 
 #: website/calendar/index.html:50
-msgid "Need help with Lightning?"
-msgstr "დახმარება გჭირდებათ Lightning-ზე?"
+msgid "Need help with Calendar?"
+msgstr ""
 
 #: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:62
 msgid "Holiday Calendars"
@@ -561,17 +580,15 @@ msgid "Want to make a difference? Fix a bug that fits your interests."
 msgstr "გსურთ რამე განსხვავებული გააკეთოთ? შეასწორეთ შეცდომა, რომელიც თქვენთვის საინტერესოა."
 
 #: website/calendar/holidays/index.html:24
-msgid "Add your nation’s holidays to Lightning!"
-msgstr "დაამატეთ თქვენი ერის უქმე დღეები Lightning-ს!"
+msgid "Add your nation’s holidays to Calendar!"
+msgstr ""
 
 #: website/calendar/holidays/index.html:29
 #, python-format
 msgid ""
-"We’ve got some holiday calendar files available for download. You can either download and then import them into Lightning or you can just subscribe to these calendars by copying their URL and then "
+"We’ve got some holiday calendar files available for download. You can either download and then import them into Calendar or you can just subscribe to these calendars by copying their URL and then "
 "adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
 msgstr ""
-"ჩვენ უკვე გვაქვს, უქმე დღეებისთვის არაერთი კალენდარი, რომლებიც ხელმისაწვდომია ჩამოსატვირთად. შეგიძლიათ პირდაპირ ჩამოტვირთოთ და შეიტანოთ Lightning-ში, ან უბრალოდ გამოიწეროთ აღნიშნული კალენდრები და "
-"შესაბამისი ბმულის მეშვეობით, დაამატოთ გარე კალენდრის სახით. ვრცლად უქმე დღეების კალენდრის დაყენების შესახებ, იხილეთ <a href=\"%s\">უქმეების კალენდრის დამატების სტატია</a>."
 
 #: website/calendar/holidays/index.html:32
 #, python-format
@@ -2161,6 +2178,26 @@ msgstr "გამოშვების მონაცემები, Thunderbi
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Thunderbird-ის გამოშვებების მონაცემები განსხვავებულია პროგრამის თითოეული ვერსიისთვის. მიუთითეთ თქვენი ვერსია ქვემოთ არსებული ჩამონათვლიდან, შესაბამისი გამოშვების მონაცემების სანახავად."
+
+#~ msgid "Lightning Calendar screenshot"
+#~ msgstr "Lightning კალენდრის სურათი"
+
+#~ msgid "Lightning Calendar"
+#~ msgstr "Lightning კალენდარი"
+
+#~ msgid "Need help with Lightning?"
+#~ msgstr "დახმარება გჭირდებათ Lightning-ზე?"
+
+#~ msgid "Add your nation’s holidays to Lightning!"
+#~ msgstr "დაამატეთ თქვენი ერის უქმე დღეები Lightning-ს!"
+
+#, python-format
+#~ msgid ""
+#~ "We’ve got some holiday calendar files available for download. You can either download and then import them into Lightning or you can just subscribe to these calendars by copying their URL and then "
+#~ "adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
+#~ msgstr ""
+#~ "ჩვენ უკვე გვაქვს, უქმე დღეებისთვის არაერთი კალენდარი, რომლებიც ხელმისაწვდომია ჩამოსატვირთად. შეგიძლიათ პირდაპირ ჩამოტვირთოთ და შეიტანოთ Lightning-ში, ან უბრალოდ გამოიწეროთ აღნიშნული კალენდრები და "
+#~ "შესაბამისი ბმულის მეშვეობით, დაამატოთ გარე კალენდრის სახით. ვრცლად უქმე დღეების კალენდრის დაყენების შესახებ, იხილეთ <a href=\"%s\">უქმეების კალენდრის დამატების სტატია</a>."
 
 #~ msgid "What are the ways I can give?"
 #~ msgstr "რა გზებით შემიძლია შემოწირულობის გაღება?"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-05-29 10:19-0700\n"
+"POT-Creation-Date: 2023-06-20 02:29+0000\n"
 "PO-Revision-Date: 2023-03-11 03:02+0000\n"
 "Last-Translator: Hyeonseok Shin <hyeonseok@gmail.com>\n"
 "Language-Team: none\n"
@@ -398,7 +398,7 @@ msgstr "Blog 보기"
 msgid "Thunderbird Calendar screenshot"
 msgstr "Thunderbird 캘린더 스크린샷"
 
-#: website/index.html:127
+#: website/calendar/index.html:7 website/calendar/index.html:22 website/index.html:127
 msgid "Calendar"
 msgstr "캘린더"
 
@@ -448,8 +448,8 @@ msgstr ""
 " 자유와 선택권이 있기를 바랍니다."
 
 #: website/about/index.html:37 website/calendar/index.html:35
-msgid "Lightning Calendar screenshot"
-msgstr "Lightning Calendar 스크린샷"
+msgid "Calendar screenshot"
+msgstr ""
 
 #: website/about/index.html:46
 msgid "Who We Are"
@@ -459,11 +459,11 @@ msgstr "만드는 사람들"
 msgid "We are a community making communication free and open."
 msgstr "우리는 자유롭고 열린 의사소통을 만들어가는 커뮤니티입니다."
 
-#: website/about/index.html:62
+#: website/about/index.html:63
 msgid "Our Community"
 msgstr "커뮤니티"
 
-#: website/about/index.html:64
+#: website/about/index.html:65
 #, python-format
 msgid ""
 "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
@@ -471,20 +471,39 @@ msgid ""
 "donations</a> from our users. If you’re curious about who is working on Thunderbird, check out the <a href=\"%(core_team)s\">list of our core contributors</a>."
 msgstr ""
 
-#: website/about/index.html:69
+#: website/about/index.html:70
 msgid "Thunderbird Council"
 msgstr "Thunderbird 이사회"
 
-#: website/about/index.html:71
+#: website/about/index.html:72
 #, python-format
 msgid ""
 "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
 "href=\"%(council)s\">on the Thunderbird wiki</a>."
 msgstr "Thunderbird 프로젝트는 Thunderbird 커뮤니티의 중요 기여자가 선출한 7명의 위원이 운영합니다. <a href=\"%(council)s\">Thunderbird 위키</a>에서 현재 선출된 Thunderbird 위원을 확인할 수 있습니다."
 
-#: website/calendar/index.html:7 website/calendar/index.html:22
-msgid "Lightning Calendar"
-msgstr "Lightning Calendar"
+#: website/about/index.html:79
+msgid "Our Mission"
+msgstr ""
+
+#: website/about/index.html:81
+msgid ""
+"Email has been and continues to be the fundamental communication tool\n"
+"                  and a significant driver of freedoms on the Internet. But it is also\n"
+"                  threatened by new non-standards-based, closed and centralized messaging\n"
+"                  platforms. To prevent this erosion, the public deserves an alternative that is secure and reliable,\n"
+"                  while  protecting our privacy, enhancing our productivity and serving as a\n"
+"                  platform for current and future forms of messaging."
+msgstr ""
+
+#: website/about/index.html:90
+msgid ""
+"Thunderbird facilitates cross platform, decentralized, open-standard\n"
+"                  communication, which puts the user in control of their data and workflow.\n"
+"                  We aspire to offer an interoperable and extensible open-source\n"
+"                  platform for messaging and managing personal information, such as email,\n"
+"                  contacts, and appointments."
+msgstr ""
 
 #: website/calendar/index.html:8
 msgid "Organize your life — it&rsquo;s about time!"
@@ -501,8 +520,8 @@ msgid "Get Support"
 msgstr "도움 받기"
 
 #: website/calendar/index.html:50
-msgid "Need help with Lightning?"
-msgstr "도움이 필요하신가요?"
+msgid "Need help with Calendar?"
+msgstr ""
 
 #: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:62
 msgid "Holiday Calendars"
@@ -529,15 +548,15 @@ msgid "Want to make a difference? Fix a bug that fits your interests."
 msgstr "변화를 원하십니까? 관심사에 맞는 버그를 수정하십시오."
 
 #: website/calendar/holidays/index.html:24
-msgid "Add your nation’s holidays to Lightning!"
-msgstr "Lightning 에 국가 공휴일을 추가하십시오!"
+msgid "Add your nation’s holidays to Calendar!"
+msgstr ""
 
 #: website/calendar/holidays/index.html:29
 #, python-format
 msgid ""
-"We’ve got some holiday calendar files available for download. You can either download and then import them into Lightning or you can just subscribe to these calendars by copying their URL and then "
+"We’ve got some holiday calendar files available for download. You can either download and then import them into Calendar or you can just subscribe to these calendars by copying their URL and then "
 "adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
-msgstr "다운로드 할 수 있는 공휴일 캘린더 파일이 있습니다. 다운로드 한 다음 Lightning으로 가져 오거나 해당 URL을 복사 한 다음 새 원격 달력 파일로 추가하여 이러한 달력을 구독 할 수 있습니다. 공휴일 캘린더 설치에 대한 자세한 내용은 <a href=\"%s\">공휴일 캘린더 추가 도움말</a>에서 확인할 수 있습니다."
+msgstr ""
 
 #: website/calendar/holidays/index.html:32
 #, python-format
@@ -1973,6 +1992,24 @@ msgstr "각 버전의 Thunderbird 출시 기록"
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Thunderbird 출시 기록은 특정 버전의 애플리케이션에만 해당됩니다. 사용하고 계신 버전을 목록에서 찾아 출시 기록을 확인하세요."
+
+#~ msgid "Lightning Calendar screenshot"
+#~ msgstr "Lightning Calendar 스크린샷"
+
+#~ msgid "Lightning Calendar"
+#~ msgstr "Lightning Calendar"
+
+#~ msgid "Need help with Lightning?"
+#~ msgstr "도움이 필요하신가요?"
+
+#~ msgid "Add your nation’s holidays to Lightning!"
+#~ msgstr "Lightning 에 국가 공휴일을 추가하십시오!"
+
+#, python-format
+#~ msgid ""
+#~ "We’ve got some holiday calendar files available for download. You can either download and then import them into Lightning or you can just subscribe to these calendars by copying their URL and then "
+#~ "adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
+#~ msgstr "다운로드 할 수 있는 공휴일 캘린더 파일이 있습니다. 다운로드 한 다음 Lightning으로 가져 오거나 해당 URL을 복사 한 다음 새 원격 달력 파일로 추가하여 이러한 달력을 구독 할 수 있습니다. 공휴일 캘린더 설치에 대한 자세한 내용은 <a href=\"%s\">공휴일 캘린더 추가 도움말</a>에서 확인할 수 있습니다."
 
 #~ msgid "Your download should begin automatically. Didn’t work? Try the button below!"
 #~ msgstr "다운로드가 자동으로 시작됩니다. 작동하지 않나요? 하단 버튼을 눌러주세요!"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-05-29 10:19-0700\n"
+"POT-Creation-Date: 2023-06-20 02:29+0000\n"
 "PO-Revision-Date: 2023-03-28 10:14+0000\n"
 "Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
 "Language-Team: none\n"
@@ -418,7 +418,7 @@ msgstr "Lexoni Blogun"
 msgid "Thunderbird Calendar screenshot"
 msgstr "Foto ekrani nga Kalendari i Thunderbird-it"
 
-#: website/index.html:127
+#: website/calendar/index.html:7 website/calendar/index.html:22 website/index.html:127
 msgid "Calendar"
 msgstr "Kalendar"
 
@@ -468,8 +468,8 @@ msgstr ""
 "me njëra-tjetrën. Duam që përdoruesit tanë të kenë liri dhe mundësi zgjedhjeje lidhur me rrugën se si komunikojnë."
 
 #: website/about/index.html:37 website/calendar/index.html:35
-msgid "Lightning Calendar screenshot"
-msgstr "Foto ekrani nga Kalendari Lightning"
+msgid "Calendar screenshot"
+msgstr ""
 
 #: website/about/index.html:46
 msgid "Who We Are"
@@ -479,11 +479,11 @@ msgstr "Cilët Jemi"
 msgid "We are a community making communication free and open."
 msgstr "Jemi një bashkësi që e bën komunikimin të lirë dhe të hapët."
 
-#: website/about/index.html:62
+#: website/about/index.html:63
 msgid "Our Community"
 msgstr "Bashkësia Jonë"
 
-#: website/about/index.html:64
+#: website/about/index.html:65
 #, python-format
 msgid ""
 "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
@@ -495,11 +495,11 @@ msgstr ""
 "href=\"%(donate)s\" data-donate-btn data-donate-content=\"about\">financuar nga dhurime</a> prej përdoruesve tanë. Nëse jeni kureshtar se cilët merren me Thunderbird-in, shihni <a "
 "href=\"%(core_team)s\">listën e kontribuesve tanë bazë</a>."
 
-#: website/about/index.html:69
+#: website/about/index.html:70
 msgid "Thunderbird Council"
 msgstr "Këshilli i Thunderbird-it"
 
-#: website/about/index.html:71
+#: website/about/index.html:72
 #, python-format
 msgid ""
 "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
@@ -508,9 +508,28 @@ msgstr ""
 "Projekti Thunderbird drejtohet nga shtatë këshilltarë, të zgjedhur nga pjesëmarrësit aktivë të bashkësisë së Thunderbird-it. Anëtarët e tanishëm të zgjedhur për Këshillin e Thunderbird-it mund t’i "
 "shihni <a href=\"%(council)s\">te wiki e Thunderbird-it</a>."
 
-#: website/calendar/index.html:7 website/calendar/index.html:22
-msgid "Lightning Calendar"
-msgstr "Kalendari Lightning"
+#: website/about/index.html:79
+msgid "Our Mission"
+msgstr ""
+
+#: website/about/index.html:81
+msgid ""
+"Email has been and continues to be the fundamental communication tool\n"
+"                  and a significant driver of freedoms on the Internet. But it is also\n"
+"                  threatened by new non-standards-based, closed and centralized messaging\n"
+"                  platforms. To prevent this erosion, the public deserves an alternative that is secure and reliable,\n"
+"                  while  protecting our privacy, enhancing our productivity and serving as a\n"
+"                  platform for current and future forms of messaging."
+msgstr ""
+
+#: website/about/index.html:90
+msgid ""
+"Thunderbird facilitates cross platform, decentralized, open-standard\n"
+"                  communication, which puts the user in control of their data and workflow.\n"
+"                  We aspire to offer an interoperable and extensible open-source\n"
+"                  platform for messaging and managing personal information, such as email,\n"
+"                  contacts, and appointments."
+msgstr ""
 
 #: website/calendar/index.html:8
 msgid "Organize your life — it&rsquo;s about time!"
@@ -529,8 +548,8 @@ msgid "Get Support"
 msgstr "Merrni Asistencë"
 
 #: website/calendar/index.html:50
-msgid "Need help with Lightning?"
-msgstr "Ju duhet ndihmë me Lightning?"
+msgid "Need help with Calendar?"
+msgstr ""
 
 #: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:62
 msgid "Holiday Calendars"
@@ -557,18 +576,15 @@ msgid "Want to make a difference? Fix a bug that fits your interests."
 msgstr "Doni të sillni një ndryshim? Ndreqni një të metë që lidhet me interesat tuaja."
 
 #: website/calendar/holidays/index.html:24
-msgid "Add your nation’s holidays to Lightning!"
-msgstr "Shtoni te Lightning ditët tuaja të festave kombëtare!"
+msgid "Add your nation’s holidays to Calendar!"
+msgstr ""
 
 #: website/calendar/holidays/index.html:29
 #, python-format
 msgid ""
-"We’ve got some holiday calendar files available for download. You can either download and then import them into Lightning or you can just subscribe to these calendars by copying their URL and then "
+"We’ve got some holiday calendar files available for download. You can either download and then import them into Calendar or you can just subscribe to these calendars by copying their URL and then "
 "adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
 msgstr ""
-"Kemi disa kartela të gatshme kalendarësh ditësh festash. Mundeni ose t’i shkarkoni dhe mandej t’i importoni në Lightning, ose thjesht mund të pajtoheni në këta kalendarë duke kopjuar URL-në "
-"përkatëse dhe mandej t’i shtoni si kartela kalendarësh të rinj të largët. Më tepër informacion mbi instalimin e një kalendari ditësh feshtash mund të gjeni te <a href=\"%s\">artikulli mbi Shtim "
-"kalendari ditësh festash</a>."
 
 #: website/calendar/holidays/index.html:32
 #, python-format
@@ -2160,6 +2176,27 @@ msgstr "Shënime versioni për çdo hedhje në qarkullim të Thunderbird-it."
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Shënimet e versionit për Thunderbird-in janë specifike për çdo version të aplikacionit. Që të shihni shënimet për një version, përzgjidhni prej listës më poshtë versionin tuaj."
+
+#~ msgid "Lightning Calendar screenshot"
+#~ msgstr "Foto ekrani nga Kalendari Lightning"
+
+#~ msgid "Lightning Calendar"
+#~ msgstr "Kalendari Lightning"
+
+#~ msgid "Need help with Lightning?"
+#~ msgstr "Ju duhet ndihmë me Lightning?"
+
+#~ msgid "Add your nation’s holidays to Lightning!"
+#~ msgstr "Shtoni te Lightning ditët tuaja të festave kombëtare!"
+
+#, python-format
+#~ msgid ""
+#~ "We’ve got some holiday calendar files available for download. You can either download and then import them into Lightning or you can just subscribe to these calendars by copying their URL and then "
+#~ "adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
+#~ msgstr ""
+#~ "Kemi disa kartela të gatshme kalendarësh ditësh festash. Mundeni ose t’i shkarkoni dhe mandej t’i importoni në Lightning, ose thjesht mund të pajtoheni në këta kalendarë duke kopjuar URL-në "
+#~ "përkatëse dhe mandej t’i shtoni si kartela kalendarësh të rinj të largët. Më tepër informacion mbi instalimin e një kalendari ditësh feshtash mund të gjeni te <a href=\"%s\">artikulli mbi Shtim "
+#~ "kalendari ditësh festash</a>."
 
 #~ msgid "What are the ways I can give?"
 #~ msgstr "Cilat janë rrugët nëpërmjet të cilave mund të dhuroj?"
