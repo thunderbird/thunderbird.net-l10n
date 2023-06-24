@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-06-23 23:37+0000\n"
-"PO-Revision-Date: 2023-06-24 16:53+0000\n"
+"PO-Revision-Date: 2023-06-24 17:01+0000\n"
 "Last-Translator: Valery Ledovskoy <valery@ledovskoy.com>\n"
 "Language-Team: none\n"
 "Language: ru\n"
@@ -1242,7 +1242,7 @@ msgstr ""
 
 #: website/includes/faq.html:78
 msgid "How can I get a business receipt?"
-msgstr ""
+msgstr "Как получить коммерческую квитанцию?"
 
 #: website/includes/faq.html:81
 #, python-format
@@ -1250,10 +1250,12 @@ msgid ""
 "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box 'Donate as an Organization' and include your company name. The receipt you receive to the email address used to "
 "make your contribution will include your business information."
 msgstr ""
+"Когда вы делаете пожертвование через нашу <a href=\"%(donate)s\">онлайн-форму</a>, просто установите флажок \"Пожертвовать как организация\" и укажите название своей компании. Квитанция, которую вы "
+"получите на адрес электронной почты, использованный для внесения вашего вклада, будет содержать информацию о вашей компании."
 
 #: website/includes/faq.html:92
 msgid "Is my donation secure?"
-msgstr ""
+msgstr "Безопасно ли мое пожертвование?"
 
 #: website/includes/faq.html:95
 #, python-format
@@ -1262,6 +1264,9 @@ msgid ""
 "Your sensitive financial information never touches our servers. We send all data directly to Stripe's PCI-compliant servers through SSL. We understand that your privacy is very important. For "
 "complete information please refer to the <a href=\"%(privacy)s\">Mozilla Privacy Policy</a>."
 msgstr ""
+"Да, мы используем стандартную технологию SSL для обеспечения безопасности вашей информации. Мы сотрудничаем со Stripe, известным в отрасли платежным процессором, которому доверяют некоторые "
+"крупнейшие глобальные компании. Ваша конфиденциальная финансовая информация никогда не проходит через наши сервера. Мы отправляем все данные напрямую на серверы Stripe, удовлетворяющие требованиям "
+"PCI, через SSL. Мы понимаем, что ваша конфиденциальность очень важна. Полную информацию читайте в <a href=\"%(privacy)s\">Политике конфиденциальности Mozilla</a>."
 
 #: website/includes/faq.html:107
 msgid "Why do you need my address in order to process a gift?"
@@ -1281,7 +1286,7 @@ msgstr ""
 
 #: website/includes/faq.html:123
 msgid "Are there additional fees on my donation?"
-msgstr ""
+msgstr "Взимаются ли дополнительные сборы за мое пожертвование?"
 
 #: website/includes/faq.html:126
 msgid ""
@@ -1289,10 +1294,13 @@ msgid ""
 "costs on your donation. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to "
 "research any additional external taxes or fees that may be applied by regulators such as your bank or tax authority."
 msgstr ""
+"Мы не взимаем никаких дополнительных сборов или налогов. Когда вы делаете пожертвование в местной валюте, с вашей кредитной карты не взимается комиссия за конвертацию. При желании вы можете покрыть "
+"наши транзакционные издержки за счет вашего пожертвования. Это совершенно добровольно, и вы можете это принять или отказаться, установив флажок в нашей форме пожертвования. Наша организация "
+"находится в США. Мы призываем доноров изучить любые дополнительные внешние налоги или сборы, которые могут применяться регулирующими органами, такими как ваш банк или налоговый орган."
 
 #: website/includes/faq.html:138
 msgid "What are your transaction costs on donations?"
-msgstr ""
+msgstr "Каковы ваши транзакционные издержки на пожертвования?"
 
 #: website/includes/faq.html:141
 msgid ""
@@ -1301,14 +1309,19 @@ msgid ""
 "ensure we can accept a wide range of currencies/payment methods and remain PCI compliant in all of the countries that we accept gifts from. The transaction costs donors may choose to cover are based"
 " on an estimate of our overall costs. Due to many factors actual costs may fluctuate."
 msgstr ""
+"Когда вы решаете покрыть наши транзакционные издержки, вы покрываете как наши расходы на обработку, так и расходы на платформу пожертвований. Затраты, связанные с нашей надежной системой онлайн-"
+"пожертвований, позволяют нам продолжать устойчивое масштабирование по мере роста нашей базы сторонников. Наша платформа для пожертвований и партнеры по обработке платежей сокращают внутренние "
+"расходы, связанные с поддержкой нашей собственной системы с нуля. Наши партнеры гарантируют, что мы можем принимать широкий спектр валют/способов оплаты и оставаться совместимыми с требованиями PCI "
+"во всех странах, из которых мы принимаем пожертвования. Операционные издержки, которые доноры могут выбрать для покрытия, основаны на оценке наших общих затрат. Фактические затраты из-за многих "
+"факторов могут колебаться."
 
 #: website/includes/faq.html:154
 msgid "Can I give in cryptocurrencies?"
-msgstr ""
+msgstr "Могу ли я пожертвовать в криптовалютах?"
 
 #: website/includes/faq.html:157
 msgid "<strong>No.</strong> We are not currently accepting cryptocurrency gifts."
-msgstr ""
+msgstr "<strong>Нет.</strong> В настоящее время мы не принимаем пожертвования в криптовалюте."
 
 #: website/includes/faq.html:165
 msgid "How will my gift be used?"
@@ -1339,6 +1352,8 @@ msgid ""
 "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird. Companies and individuals support the development of the product now and in the "
 "future."
 msgstr ""
+"В настоящее время большая часть доходов Thunderbird поступает от щедрых пожертвований от пользователей и друзей Thunderbird. Компании и частные лица поддерживают разработку продукта сейчас и в "
+"будущем."
 
 #: website/includes/faq.html:201
 msgid "Who can I email directly with questions about giving?"
@@ -1350,6 +1365,8 @@ msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. If you need technical support, please head over to <a href=\"%(support)s\">Thunderbird "
 "Support</a> for assistance."
 msgstr ""
+"Если у вас есть вопрос о пожертвованиях Thunderbird, свяжитесь с нами через <a href=\"%(help)s\">эту форму</a>. Если вам нужна техническая поддержка, обратитесь за помощью в <a "
+"href=\"%(support)s\">поддержку Thunderbird</a>."
 
 #: website/includes/lang_switcher.html:10
 msgid "Page language:"
