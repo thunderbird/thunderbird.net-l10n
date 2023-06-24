@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-06-23 23:37+0000\n"
-"PO-Revision-Date: 2023-06-21 16:55+0000\n"
+"PO-Revision-Date: 2023-06-24 16:53+0000\n"
 "Last-Translator: Valery Ledovskoy <valery@ledovskoy.com>\n"
 "Language-Team: none\n"
 "Language: ru\n"
@@ -486,7 +486,7 @@ msgstr "Вы можете также найти календари для под
 #: website/calendar/holidays/index.html:59
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
 
 #: website/calendar/holidays/index.html:61
 #, python-format
@@ -1185,10 +1185,15 @@ msgid ""
 "<strong>Additionally you can</strong> give offline in USD by <a href=\"%(check)s\">mailing a check or money order</a>.<br/> <strong>Give the gift of your time!</strong> If you would like to learn "
 "how to contribute to Thunderbird in other ways such as coding, translating or testing, please visit our <a href=\"%(ways_to_help)s\">Get Involved</a> page."
 msgstr ""
+"Вы можете безопасно <a href=\"%(donate)s\">пожертвовать онлайн</a> с помощью кредитной карты или PayPal. Google Pay, Apple Pay и банковские переводы через SEPA, iDEAL и ACH также доступны "
+"онлайн.<br/> <strong>Пожертвуйте в местной валюте!</strong> В <a href=\"%(donate)s\">нашей онлайн-форме</a> используйте раскрывающееся меню рядом с суммой. Плата будет взиматься в той валюте, "
+"которую вы выберете для пожертвования.<br/> <strong>Кроме того, вы можете</strong> пожертвовать в офлайн режиме в долларах США, <a href=\"%(check)s\">отправив по почте чек или денежный перевод "
+"</a>.<br/> <strong>Подарите свое время!</strong> Если вы хотите узнать, как внести свой вклад в Thunderbird другими способами, такими как разработка, перевод или тестирование, посетите нашу страницу"
+" <a href=\"%(ways_to_help)s\">Принять участие</a>."
 
 #: website/includes/faq.html:26
 msgid "How do I cancel or change my recurring gift? Can I change my payment method or my donation frequency?"
-msgstr ""
+msgstr "Как отменить или изменить повторяющееся пожертвование? Могу ли я изменить способ оплаты или частоту пожертвований?"
 
 #: website/includes/faq.html:29
 #, python-format
@@ -1196,6 +1201,9 @@ msgid ""
 "Access your donation account settings using the 'Manage My Donation' button on your recent donation confirmation email. There you can change the amount, frequency, payment method and charge date. "
 "You can also cancel your recurring donation plan. If you run into any issues you can always <a href=\"%(help)s\">contact us</a>!"
 msgstr ""
+"Получите доступ к настройкам своего аккаунта пожертвований, нажав кнопку «Управление моими пожертвованиями» в вашем последнем электронном письме с подтверждением пожертвования. Там вы можете "
+"изменить сумму, частоту, способ оплаты и дату списания. Вы также можете отменить план повторяющихся пожертвований. Если у вас возникнут какие-либо проблемы, вы всегда можете <a "
+"href=\"%(help)s\">связаться с нами</a>!"
 
 #: website/includes/faq.html:41
 msgid "Does my gift give me access to tech support?"
@@ -1212,7 +1220,7 @@ msgstr ""
 
 #: website/includes/faq.html:53
 msgid "How can I turn off the donation message on the Thunderbird start page?"
-msgstr ""
+msgstr "Как отключить сообщение о пожертвовании на стартовой странице Thunderbird?"
 
 #: website/includes/faq.html:56
 #, python-format
@@ -1228,6 +1236,9 @@ msgid ""
 "Gifts to Thunderbird are <strong>not tax-deductible as charitable gifts</strong>, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-"
 "platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future development."
 msgstr ""
+"Пожертвования Thunderbird <strong>не вычитаются из налогов, как благотворительные подарки</strong>, но очень ценятся. Пожертвования Thunderbird поддерживает разработку нашего ведущего "
+"кроссплатформенного клиента электронной почты и календаря с открытым исходным кодом, бесплатного для бизнеса и личного использования. Ваше пожертвование поможет гарантировать, что он останется "
+"таким, и поддержит его дальнейшее развитие."
 
 #: website/includes/faq.html:78
 msgid "How can I get a business receipt?"
@@ -2246,7 +2257,6 @@ msgstr "Примечания к выпуску Thunderbird специфичны 
 #~ msgid "How do I cancel or change my recurring gift?"
 #~ msgstr "Как я могу отменить или изменить моё повторяющееся пожертвование?"
 
-#, python-format
 #~ msgid ""
 #~ "If you used PayPal to set up a recurring gift, you’ll need to <a href=\"%(paypal)s\">log in to your PayPal account</a> to make changes or to cancel. If you made a monthly gift using your credit "
 #~ "card, please contact the Donor Care team <a href=\"%(help)s\">via this form</a>. Please include the email address and name you used to make your donation, and they’ll try to help you within two "
@@ -2256,7 +2266,6 @@ msgstr "Примечания к выпуску Thunderbird специфичны 
 #~ "сделали ежемесячное пожертвование с помощью кредитной карты, свяжитесь с командой по работе с жертвователями <a href=\"%(help)s\">через эту форму</a>. Пожалуйста, укажите адрес электронной почты и "
 #~ "имя, которые вы использовали для пожертвования, и они постараются помочь вам в течение двух рабочих дней."
 
-#, python-format
 #~ msgid ""
 #~ "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. We will do our best to follow-up with you as soon as we can. If you need technical "
 #~ "support, please head over to <a href=\"%(support)s\">Thunderbird Support</a> for assistance."
@@ -2264,7 +2273,6 @@ msgstr "Примечания к выпуску Thunderbird специфичны 
 #~ "Если у вас есть вопрос о пожертвовании Thunderbird, свяжитесь с нами через <a href=\"%(help)s\">эту форму</a>. Мы сделаем все возможное, чтобы связаться с вами, как только сможем. Если вам нужна "
 #~ "техническая поддержка, обратитесь за помощью в <a href=\"%(support)s\">поддержку Thunderbird</a>."
 
-#, python-format
 #~ msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, thanks to %(authors)s"
 #~ msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, создано %(authors)s"
 
@@ -2283,7 +2291,6 @@ msgstr "Примечания к выпуску Thunderbird специфичны 
 #~ msgid "Right-click on this calendar and choose \"Export Calendar\". Please use the iCalendar (ics) format."
 #~ msgstr "Щёлкните правой кнопкой мыши по этому календарю и выберите \"Экспортировать календарь\". Пожалуйста, используйте формат iCalendar (ics)."
 
-#, python-format
 #~ msgid "Create a Pull Request or file an Issue on the <a href=\"%(contribute_url)s\">website repository</a> and attach your holiday file."
 #~ msgstr "Создайте Pull Request или Issue в <a href=\"%(contribute_url)s\">репозитории веб-сайта</a> и приложите ваш файл праздников."
 
