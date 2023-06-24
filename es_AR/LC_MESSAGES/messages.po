@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-06-23 23:37+0000\n"
-"PO-Revision-Date: 2023-06-20 05:23+0000\n"
+"PO-Revision-Date: 2023-06-24 05:43+0000\n"
 "Last-Translator: Marcelo Poli <enzomatrix@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es_AR\n"
@@ -488,7 +488,7 @@ msgstr "También podés encontrar calendarios para suscribirte en <a href=\"%s\"
 #: website/calendar/holidays/index.html:59
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
 
 #: website/calendar/holidays/index.html:61
 #, python-format
@@ -2251,7 +2251,6 @@ msgstr "Las notas de lanzamiento de Thunderbird son específicas para cada versi
 #~ msgid "How do I cancel or change my recurring gift?"
 #~ msgstr "¿Cómo puedo cancelar o cambiar mí donación recurrente?"
 
-#, python-format
 #~ msgid ""
 #~ "If you used PayPal to set up a recurring gift, you’ll need to <a href=\"%(paypal)s\">log in to your PayPal account</a> to make changes or to cancel. If you made a monthly gift using your credit "
 #~ "card, please contact the Donor Care team <a href=\"%(help)s\">via this form</a>. Please include the email address and name you used to make your donation, and they’ll try to help you within two "
@@ -2261,7 +2260,6 @@ msgstr "Las notas de lanzamiento de Thunderbird son específicas para cada versi
 #~ " tarjeta de crédito, comunicate con el equipo de Cuidados al donante <a href=\"%(help)s\">a través de este formulario</a>. Incluí la dirección de correo electrónico y el nombre que usaste para hacer"
 #~ " tu donación, y ellos intentarán ayudarte dentro de dos días hábiles."
 
-#, python-format
 #~ msgid ""
 #~ "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. We will do our best to follow-up with you as soon as we can. If you need technical "
 #~ "support, please head over to <a href=\"%(support)s\">Thunderbird Support</a> for assistance."
@@ -2269,7 +2267,6 @@ msgstr "Las notas de lanzamiento de Thunderbird son específicas para cada versi
 #~ "Si tenés alguna pregunta sobre donaciones a Thunderbird, comunicate con nosotros a través de <a href=\"%(help)s\">este formulario</a>. Haremos todo lo posible para darte una respuesta lo antes "
 #~ "posible Si necesitás asistencia técnica, dirigite a <a href=\"%(support)s\">Asistencia de Thunderbird</a> para obtener ayuda."
 
-#, python-format
 #~ msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, thanks to %(authors)s"
 #~ msgstr "%(title)s <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>, gracias a %(authors)s"
 
@@ -2288,7 +2285,6 @@ msgstr "Las notas de lanzamiento de Thunderbird son específicas para cada versi
 #~ msgid "Right-click on this calendar and choose \"Export Calendar\". Please use the iCalendar (ics) format."
 #~ msgstr "Botón derecho en este calendario y seleccionar \"Exportar calendario\". Hay que usar el formato iCalendar (ics)."
 
-#, python-format
 #~ msgid "Create a Pull Request or file an Issue on the <a href=\"%(contribute_url)s\">website repository</a> and attach your holiday file."
 #~ msgstr "Crear un Pull Requesto o abrir Issue en el <a href=\"%(contribute_url)s\">repositorio del sitio web</a> y adjuntar el archivo de feriados."
 
