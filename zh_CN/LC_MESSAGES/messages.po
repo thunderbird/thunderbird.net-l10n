@@ -3,14 +3,14 @@
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
 # taotieren <admin@taotieren.com>, 2019.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-06-23 23:37+0000\n"
-"PO-Revision-Date: 2023-06-23 08:05+0000\n"
-"Last-Translator: Olvcpr423 <oliverchan86@outlook.com>\n"
+"PO-Revision-Date: 2023-06-24 02:28+0000\n"
+"Last-Translator: wxie <xiewensheng@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -460,7 +460,7 @@ msgstr "您也可以到 <a href=\"%s\">iCalShare.com</a> 寻找要订阅的日�
 #: website/calendar/holidays/index.html:59
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
 
 #: website/calendar/holidays/index.html:61
 #, python-format
@@ -1088,10 +1088,13 @@ msgid ""
 "<strong>Additionally you can</strong> give offline in USD by <a href=\"%(check)s\">mailing a check or money order</a>.<br/> <strong>Give the gift of your time!</strong> If you would like to learn "
 "how to contribute to Thunderbird in other ways such as coding, translating or testing, please visit our <a href=\"%(ways_to_help)s\">Get Involved</a> page."
 msgstr ""
+"您可以通过信用卡或 PayPal 安全地<a href=\"%(donate)s\">在线捐赠</a>。 Google Pay、Apple Pay 以及通过 SEPA、iDEAL 和 ACH 进行的银行转账也可在线进行。<br/><strong>捐赠可以使用您的当地货币！</strong>填写<a "
+"href=\"%(donate)s\">在线表格</a>时，请使用金额旁边的下拉菜单选择货币。我们将获得您以该货币为单位的捐赠。<br/> <strong>此外，您还可以</strong>通过<a href=\"%(check)s\">邮寄支票或汇票以美元进行离线捐赠</a>。<br/> <strong>捐献您宝贵的时间！</strong>如果您想了解如何以其他方式（例如写代码、翻译或测试）为"
+" Thunderbird 做出贡献，请访问我们的<a href=\"%(ways_to_help)s\">参与贡献</a>页面。"
 
 #: website/includes/faq.html:26
 msgid "How do I cancel or change my recurring gift? Can I change my payment method or my donation frequency?"
-msgstr ""
+msgstr "如何取消或更改定期捐赠？我可以更改付款方式或捐赠频率吗？"
 
 #: website/includes/faq.html:29
 #, python-format
@@ -1113,7 +1116,7 @@ msgstr "任何人都可以访问<a href=\"%(url)s\">支持论坛</a>获取 Thund
 
 #: website/includes/faq.html:53
 msgid "How can I turn off the donation message on the Thunderbird start page?"
-msgstr ""
+msgstr "如何关闭 Thunderbird 开始页面上的捐赠消息？"
 
 #: website/includes/faq.html:56
 #, python-format
@@ -1128,22 +1131,22 @@ msgstr "我的捐款可以抵税吗？"
 msgid ""
 "Gifts to Thunderbird are <strong>not tax-deductible as charitable gifts</strong>, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-"
 "platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future development."
-msgstr ""
+msgstr "虽然捐给 Thunderbird 的礼品<strong>不能作为慈善礼物免税</strong>，但是我们仍然非常欢迎这样的捐赠。向 Thunderbird 捐赠就是支持我们开发领先的开源跨平台电子邮件和日历客户端，让它供企业和个人自由使用。您的礼物将有助于我们立足当下，并支持我们发展未来。"
 
 #: website/includes/faq.html:78
 msgid "How can I get a business receipt?"
-msgstr ""
+msgstr "如何获得商业收据？"
 
 #: website/includes/faq.html:81
 #, python-format
 msgid ""
 "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box 'Donate as an Organization' and include your company name. The receipt you receive to the email address used to "
 "make your contribution will include your business information."
-msgstr ""
+msgstr "当您通过填写<a href=\"%(donate)s\">在线表格</a>捐款时，只需选中“作为组织捐款”框并注明公司名称即可。您用于捐款的邮箱将收到包含业务信息的收据。"
 
 #: website/includes/faq.html:92
 msgid "Is my donation secure?"
-msgstr ""
+msgstr "我的捐款安全吗？"
 
 #: website/includes/faq.html:95
 #, python-format
@@ -1152,6 +1155,8 @@ msgid ""
 "Your sensitive financial information never touches our servers. We send all data directly to Stripe's PCI-compliant servers through SSL. We understand that your privacy is very important. For "
 "complete information please refer to the <a href=\"%(privacy)s\">Mozilla Privacy Policy</a>."
 msgstr ""
+"是的，我们使用行业标准的 SSL 技术来保证您的信息安全。我们与 Stripe 合作。Stripe 是业界知名的支付处理商，受到一些全球最大公司的信赖。您的敏感财务信息永远不会接触我们的服务器。我们通过 SSL 将所有数据直接发送到 Stripe 的 PCI 兼容服务器。我们认为您的隐私非常重要，更完整的信息，请参阅 <a href=\"%(privacy)s\">Mozilla "
+"隐私政策</a>。"
 
 #: website/includes/faq.html:107
 msgid "Why do you need my address in order to process a gift?"
@@ -1167,7 +1172,7 @@ msgstr "我们理解您的隐私权十分重要。我们只会请求账单地址
 
 #: website/includes/faq.html:123
 msgid "Are there additional fees on my donation?"
-msgstr ""
+msgstr "捐款需要额外付费吗？"
 
 #: website/includes/faq.html:126
 msgid ""
@@ -2052,20 +2057,17 @@ msgstr "Thunderbird 每个版本均有发行说明。请从下方列表中选择
 #~ msgid "How do I cancel or change my recurring gift?"
 #~ msgstr "如何取消或更改我的定期捐款？"
 
-#, python-format
 #~ msgid ""
 #~ "If you used PayPal to set up a recurring gift, you’ll need to <a href=\"%(paypal)s\">log in to your PayPal account</a> to make changes or to cancel. If you made a monthly gift using your credit "
 #~ "card, please contact the Donor Care team <a href=\"%(help)s\">via this form</a>. Please include the email address and name you used to make your donation, and they’ll try to help you within two "
 #~ "business days."
 #~ msgstr "如果您使用 PayPal 设定定期捐款，您需要<a href=\"%(paypal)s\">登录您的 PayPal 账户</a>进行更改或取消。如果您使用信用卡每月捐款，请<a href=\"%(help)s\">通过此表单</a>与捐赠关怀团队联系。请写入您用于捐款的电子邮件地址和姓名，他们将于两个工作日内协助您办理。"
 
-#, python-format
 #~ msgid ""
 #~ "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. We will do our best to follow-up with you as soon as we can. If you need technical "
 #~ "support, please head over to <a href=\"%(support)s\">Thunderbird Support</a> for assistance."
 #~ msgstr "如果您就捐款给 Thunderbird 有疑问，请通过<a href=\"%(help)s\">此表单</a>与我们联系。我们将尽快答复您。如果您需要技术支持，请访问<a href=\"%(support)s\">Thunderbird 用户支持</a>寻求帮助。"
 
-#, python-format
 #~ msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, thanks to %(authors)s"
 #~ msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s，感谢 %(authors)s 提供"
 
@@ -2084,7 +2086,6 @@ msgstr "Thunderbird 每个版本均有发行说明。请从下方列表中选择
 #~ msgid "Right-click on this calendar and choose \"Export Calendar\". Please use the iCalendar (ics) format."
 #~ msgstr "右键点击日历，点击“导出日历”。请使用 iCalendar（ics）格式。"
 
-#, python-format
 #~ msgid "Create a Pull Request or file an Issue on the <a href=\"%(contribute_url)s\">website repository</a> and attach your holiday file."
 #~ msgstr "到<a href=\"%(contribute_url)s\">网站仓库</a>发起 Pull 请求或提交 Issue，并附上您的节假日日历文件。"
 
