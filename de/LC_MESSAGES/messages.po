@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-06-23 23:37+0000\n"
-"PO-Revision-Date: 2023-06-20 15:11+0000\n"
+"PO-Revision-Date: 2023-06-24 04:12+0000\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language-Team: none\n"
 "Language: de\n"
@@ -493,7 +493,7 @@ msgstr "Unter <a href=\"%s\">iCalShare.com</a> finden Sie ebenfalls Kalender, di
 #: website/calendar/holidays/index.html:59
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
 
 #: website/calendar/holidays/index.html:61
 #, python-format
@@ -1207,10 +1207,15 @@ msgid ""
 "<strong>Additionally you can</strong> give offline in USD by <a href=\"%(check)s\">mailing a check or money order</a>.<br/> <strong>Give the gift of your time!</strong> If you would like to learn "
 "how to contribute to Thunderbird in other ways such as coding, translating or testing, please visit our <a href=\"%(ways_to_help)s\">Get Involved</a> page."
 msgstr ""
+"Sie können sicher mit Kreditkarte oder PayPal <a href=\"%(donate)s\">online spenden</a>. Google Pay, Apple Pay und Überweisungen per SEPA, iDEAL und ACH sind ebenfalls online verfügbar.<br/> "
+"<strong>Spenden Sie in Ihrer lokalen Währung!</strong> Verwenden Sie in <a href=\"%(donate)s\"> unserem Online-Formular</a> das Aufklappfeld neben dem Betrag. Die Abrechnung wird in der Währung "
+"durchgeführt, die Sie spenden.<br/> <strong>Darüber hinaus können Sie offline in US-Dollar</strong> spenden, indem Sie <a href=\"%(check)s\">einen Scheck oder eine Zahlungsanweisung senden "
+"</a>.<br/> <strong>Verschenken Sie Ihre Zeit!</strong> Wenn Sie erfahren möchten, wie Sie auf andere Weise zu Thunderbird beitragen können, wie z. B. Programmieren, Übersetzen oder Testen, besuchen "
+"Sie bitte unsere <a href=\"%(ways_to_help)s\">Mitmachen</a>-Seite."
 
 #: website/includes/faq.html:26
 msgid "How do I cancel or change my recurring gift? Can I change my payment method or my donation frequency?"
-msgstr ""
+msgstr "Wie kann ich meine regelmäßige Spende stornieren oder ändern? Kann ich meine Zahlungsmethode oder meine Spendenhäufigkeit ändern?"
 
 #: website/includes/faq.html:29
 #, python-format
@@ -1218,6 +1223,9 @@ msgid ""
 "Access your donation account settings using the 'Manage My Donation' button on your recent donation confirmation email. There you can change the amount, frequency, payment method and charge date. "
 "You can also cancel your recurring donation plan. If you run into any issues you can always <a href=\"%(help)s\">contact us</a>!"
 msgstr ""
+"Über die Schaltfläche „Meine Spende verwalten“ in Ihrer letzten Spendenbestätigungs-E-Mail auf Ihre Spendenkontoeinstellungen können Sie auf Ihre Spendenkontoeinstellungen zugreifen. Dort können Sie"
+" Betrag, Häufigkeit, Zahlungsmethode und Datum der Abbuchung ändern. Sie können Ihren Plan für regelmäßige Spenden auch stornieren. Wenn Sie auf Probleme stoßen, können Sie <a href=\"%(help)s\">uns "
+"kontaktieren</a>!"
 
 #: website/includes/faq.html:41
 msgid "Does my gift give me access to tech support?"
@@ -1234,7 +1242,7 @@ msgstr ""
 
 #: website/includes/faq.html:53
 msgid "How can I turn off the donation message on the Thunderbird start page?"
-msgstr ""
+msgstr "Wie kann ich die Spendennachricht auf der Thunderbird-Startseite deaktivieren?"
 
 #: website/includes/faq.html:56
 #, python-format
@@ -1250,10 +1258,13 @@ msgid ""
 "Gifts to Thunderbird are <strong>not tax-deductible as charitable gifts</strong>, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-"
 "platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future development."
 msgstr ""
+"Spenden an Thunderbird sind <strong>nicht als wohltätige Spenden steuerlich absetzbar</strong>, werden aber sehr geschätzt. Spenden an Thunderbird unterstützen die Entwicklung unseres führenden "
+"plattformübergreifenden, quelloffenen E-Mail- und Kalenderprogramms, das für den geschäftlichen und privaten Gebrauch kostenlos ist. Ihre Spende wird dazu beitragen, dass dies auch so bleibt, und "
+"die zukünftige Entwicklung unterstützen."
 
 #: website/includes/faq.html:78
 msgid "How can I get a business receipt?"
-msgstr ""
+msgstr "Wie kann ich eine Geschäftsquittung erhalten?"
 
 #: website/includes/faq.html:81
 #, python-format
@@ -1261,10 +1272,12 @@ msgid ""
 "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box 'Donate as an Organization' and include your company name. The receipt you receive to the email address used to "
 "make your contribution will include your business information."
 msgstr ""
+"Wenn Sie über unser <a href=\"%(donate)s\">Online-Formular</a> spenden, aktivieren Sie einfach das Kontrollkästchen „Als Organisation spenden“ und geben Sie den Namen Ihrer Firma an. Die Quittung, "
+"die Sie an die E-Mail-Adresse erhalten, mit der Sie Ihre Spende geleistet haben, enthält Ihre Geschäftsdaten."
 
 #: website/includes/faq.html:92
 msgid "Is my donation secure?"
-msgstr ""
+msgstr "Ist meine Spende sicher?"
 
 #: website/includes/faq.html:95
 #, python-format
@@ -1273,6 +1286,9 @@ msgid ""
 "Your sensitive financial information never touches our servers. We send all data directly to Stripe's PCI-compliant servers through SSL. We understand that your privacy is very important. For "
 "complete information please refer to the <a href=\"%(privacy)s\">Mozilla Privacy Policy</a>."
 msgstr ""
+"Ja, wir verwenden die SSL-Technologie nach Industriestandard, um Ihre Daten zu schützen. Wir arbeiten mit Stripe zusammen, dem etablierten Zahlungsdienstleister der Branche, dem einige der weltweit "
+"größten Unternehmen vertrauen. Ihre sensiblen Finanzdaten berühren niemals unsere Server. Wir senden alle Daten per SSL direkt an die PCI-konformen Server von Stripe. Wir verstehen, dass Ihre "
+"Privatsphäre sehr wichtig ist. Vollständige Informationen finden Sie in der <a href=\"%(privacy)s\">Mozilla-Datenschutzerklärung</a>."
 
 #: website/includes/faq.html:107
 msgid "Why do you need my address in order to process a gift?"
@@ -1292,7 +1308,7 @@ msgstr ""
 
 #: website/includes/faq.html:123
 msgid "Are there additional fees on my donation?"
-msgstr ""
+msgstr "Fallen für meine Spende zusätzliche Gebühren an?"
 
 #: website/includes/faq.html:126
 msgid ""
@@ -1300,10 +1316,14 @@ msgid ""
 "costs on your donation. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to "
 "research any additional external taxes or fees that may be applied by regulators such as your bank or tax authority."
 msgstr ""
+"Wir erheben keine zusätzlichen Gebühren oder Steuern. Wenn Sie in Ihrer lokalen Währung spenden, wird Ihre Kreditkarte nicht mit einer Umrechnungsgebühr belastet. Optional können Sie unsere "
+"Transaktionsgebühren durch Ihre Spende decken. Dies ist komplett freiwillig und Sie können das Kontrollkästchen in unserem Spendenformular aktivieren oder deaktivieren. Unsere Organisation hat ihren"
+" Sitz in den Vereinigten Staaten. Wir empfehlen Spendern, sich über zusätzliche externe Steuern oder Gebühren zu informieren, die von Aufsichtsbehörden wie Ihrer Bank oder Ihrer Steuerbehörde "
+"erhoben werden können."
 
 #: website/includes/faq.html:138
 msgid "What are your transaction costs on donations?"
-msgstr ""
+msgstr "Wie hoch sind Ihre Transaktionsgebühren für Spenden?"
 
 #: website/includes/faq.html:141
 msgid ""
@@ -1312,14 +1332,19 @@ msgid ""
 "ensure we can accept a wide range of currencies/payment methods and remain PCI compliant in all of the countries that we accept gifts from. The transaction costs donors may choose to cover are based"
 " on an estimate of our overall costs. Due to many factors actual costs may fluctuate."
 msgstr ""
+"Wenn Sie sich dafür entscheiden, unsere Transaktionsgebühren zu tragen, decken Sie sowohl die Kosten für unsere Verarbeitung als auch die Spendenplattform. Die Kosten, die mit unserem robusten "
+"Online-Spendensystem verbunden sind, ermöglichen es uns, weiter nachhaltig zu skalieren, wenn unsere Unterstützerbasis wächst. Unsere Spendenplattform und unsere Partner als Zahlungsdienstleister "
+"reduzieren die internen Kosten, die mit der Wartung unseres eigenen Systems verbunden sind. Unsere Partner stellen sicher, dass wir eine Vielzahl von Währungen/Zahlungmethoden akzeptieren und in "
+"allen Ländern, aus denen wir Geschenke annehmen, PC-konform bleiben. Die Transaktionskosten, die Spender übernehmen können, basieren auf einer abgeschätzten unserer Gesamtkosten. Aufgrund vieler "
+"Faktoren können die tatsächlichen Kosten variieren."
 
 #: website/includes/faq.html:154
 msgid "Can I give in cryptocurrencies?"
-msgstr ""
+msgstr "Kann ich Kryptowährungen spenden?"
 
 #: website/includes/faq.html:157
 msgid "<strong>No.</strong> We are not currently accepting cryptocurrency gifts."
-msgstr ""
+msgstr "<strong>Nein.</strong> Wir akzeptieren derzeit keine Spenden in Kryptowährung."
 
 #: website/includes/faq.html:165
 msgid "How will my gift be used?"
@@ -1350,6 +1375,8 @@ msgid ""
 "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird. Companies and individuals support the development of the product now and in the "
 "future."
 msgstr ""
+"Derzeit stammt der Großteil der Einnahmen von Thunderbird aus großzügigen Spenden von Nutzern und Freunden von Thunderbird. Unternehmen und Einzelpersonen unterstützen jetzt und in Zukunft die "
+"Entwicklung des Produkts."
 
 #: website/includes/faq.html:201
 msgid "Who can I email directly with questions about giving?"
@@ -1361,6 +1388,8 @@ msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. If you need technical support, please head over to <a href=\"%(support)s\">Thunderbird "
 "Support</a> for assistance."
 msgstr ""
+"Wenn Sie Fragen zu Spenden an Thunderbird haben, kontaktieren Sie uns bitte über <a href=\"%(help)s\">dieses Formular</a>. Wenn Sie technischen Support benötigen, wenden Sie sich an die <a "
+"href=\"%(support)s\">Thunderbird-Hilfe</a>, um Unterstützung zu erhalten."
 
 #: website/includes/lang_switcher.html:10
 msgid "Page language:"
@@ -2273,7 +2302,6 @@ msgstr "Die Versionshinweise zu Thunderbird betreffen immer eine bestimmte Versi
 #~ msgid "How do I cancel or change my recurring gift?"
 #~ msgstr "Wie kann ich meine regelmäßige Spende stornieren oder ändern?"
 
-#, python-format
 #~ msgid ""
 #~ "If you used PayPal to set up a recurring gift, you’ll need to <a href=\"%(paypal)s\">log in to your PayPal account</a> to make changes or to cancel. If you made a monthly gift using your credit "
 #~ "card, please contact the Donor Care team <a href=\"%(help)s\">via this form</a>. Please include the email address and name you used to make your donation, and they’ll try to help you within two "
@@ -2283,7 +2311,6 @@ msgstr "Die Versionshinweise zu Thunderbird betreffen immer eine bestimmte Versi
 #~ "Kreditkarte eine monatliche Spende geleistet haben, schicken Sie bitte über <a href=\"%(help)s\">dieses Formular</a> eine E-Mail an das Spendenteam. Geben Sie die bei der Spende verwendete E-Mail-"
 #~ "Adresse und den Namen an, und das Team versucht dann, Ihnen innerhalb von zwei Geschäftstagen zu helfen."
 
-#, python-format
 #~ msgid ""
 #~ "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. We will do our best to follow-up with you as soon as we can. If you need technical "
 #~ "support, please head over to <a href=\"%(support)s\">Thunderbird Support</a> for assistance."
@@ -2291,7 +2318,6 @@ msgstr "Die Versionshinweise zu Thunderbird betreffen immer eine bestimmte Versi
 #~ "Wenn Sie Fragen zu Spenden an Thunderbird haben, kontaktieren Sie uns bitte über <a href=\"%(help)s\">dieses Formular</a>. Wir werden unser Bestes tun, um uns so schnell wie möglich mit Ihnen in "
 #~ "Verbindung zu setzen. Wenn Sie technischen Support benötigen, wenden Sie sich an die <a href=\"%(support)s\">Thunderbird-Hilfe</a>, um Unterstützung zu erhalten."
 
-#, python-format
 #~ msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, thanks to %(authors)s"
 #~ msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, mit Dank an %(authors)s"
 
@@ -2310,7 +2336,6 @@ msgstr "Die Versionshinweise zu Thunderbird betreffen immer eine bestimmte Versi
 #~ msgid "Right-click on this calendar and choose \"Export Calendar\". Please use the iCalendar (ics) format."
 #~ msgstr "Klicken Sie mit der rechten Maustaste auf diesen Kalender und wählen Sie „Kalender exportieren“. Bitte verwenden Sie das iCalendar-Format (ics)."
 
-#, python-format
 #~ msgid "Create a Pull Request or file an Issue on the <a href=\"%(contribute_url)s\">website repository</a> and attach your holiday file."
 #~ msgstr "Erstellen Sie eine Pull-Anfrage oder erstellen Sie einen Fehlerbericht im <a href=\"%(contribute_url)s\">Website-Repository</a> und hängen Sie Ihre Urlaubsdatei an."
 
