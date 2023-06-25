@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-06-23 23:37+0000\n"
-"PO-Revision-Date: 2023-06-25 15:44+0000\n"
+"PO-Revision-Date: 2023-06-25 15:49+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: none\n"
 "Language: pl\n"
@@ -468,7 +468,7 @@ msgstr "Kalendarze do subskrybowania można znaleźć także na stronie <a href=
 #: website/calendar/holidays/index.html:59
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
 
 #: website/calendar/holidays/index.html:61
 #, python-format
@@ -509,29 +509,31 @@ msgstr "Datków nie można odliczać od podatku jako datki na cele charytatywne.
 
 #: website/donate/help/index.html:7 website/donate/help/thank-you/index.html:7
 msgid "Donor Help"
-msgstr ""
+msgstr "Pomoc dla darczyńców"
 
 #: website/donate/help/index.html:27
 msgid "If you need help with a contribution to MZLA/Thunderbird, please fill out this form and a Thunderbird donor care representative will get back to you as soon as possible."
-msgstr ""
+msgstr "Jeśli potrzebujesz pomocy w sprawie datku na rzecz MZLA/Thunderbirda, wypełnij ten formularz, a przedstawiciel ds. datków Thunderbirda skontaktuje się z Tobą tak szybko, jak to możliwe."
 
 #: website/donate/help/index.html:30
 #, python-format
 msgid ""
 "Unfortunately, donor care representatives are unable to offer support or help with Thunderbird technical issues. For technical support, please visit our <a href=\"%(support_url)s\">support page.</a>"
 msgstr ""
+"Niestety przedstawiciele ds. datków nie są w stanie zaoferować wsparcia ani pomocy przy technicznych problemach z Thunderbirdem. Jeśli potrzebujesz pomocy technicznej, przejdź do <a "
+"href=\"%(support_url)s\">strony pomocy</a>."
 
 #: website/donate/help/thank-you/index.html:20
 msgid "Thank you for contacting us. A case has been created for your issue and we will be in touch shortly."
-msgstr ""
+msgstr "Dziękujemy za kontakt. Utworzyliśmy zgłoszenie i wkrótce się do Ciebie odezwiemy."
 
 #: website/donate/help/thank-you/index.html:23
 msgid "We will get back to you soon."
-msgstr ""
+msgstr "Niedługo wyślemy odpowiedź."
 
 #: website/donate/help/thank-you/index.html:26
 msgid "Return to Thunderbird.net"
-msgstr ""
+msgstr "Wróć do witryny Thunderbird.net"
 
 #: website/download/index.html:9 website/includes/download-button.html:14 website/includes/download-button.html:63 website/includes/site-prefooter.html:59
 msgid "Download Thunderbird"
@@ -539,11 +541,11 @@ msgstr "Pobierz Thunderbirda"
 
 #: website/download/index.html:10
 msgid "Thank you for downloading and installing Thunderbird!"
-msgstr ""
+msgstr "Dziękujemy za pobranie i zainstalowanie Thunderbirda!"
 
 #: website/download/index.html:19
 msgid "Your download didn't start automatically?"
-msgstr ""
+msgstr "Pobieranie nie rozpoczęło się automatycznie?"
 
 #: website/download/index.html:24 website/includes/site-prefooter.html:37
 msgid "Release Channel"
@@ -551,7 +553,7 @@ msgstr "Wydanie stabilne"
 
 #: website/download/index.html:25 website/download/index.html:29 website/download/index.html:33
 msgid "Try again"
-msgstr ""
+msgstr "Spróbuj ponownie"
 
 #: website/download/index.html:28 website/includes/site-prefooter.html:40
 msgid "Beta Channel"
@@ -563,16 +565,16 @@ msgstr "Wydanie Daily"
 
 #: website/download/index.html:40 website/thunderbird/102.0/beta-appeal/index.html:47
 msgid "Just one more step!"
-msgstr ""
+msgstr "Jeszcze tylko jeden krok!"
 
 #: website/download/index.html:40
 msgid "Finish installing, and start enjoying Thunderbird."
-msgstr ""
+msgstr "Dokończ instalację i zacznij cieszyć się Thunderbirdem."
 
 #: website/download/index.html:42 website/thunderbird/102.0/beta-appeal/index.html:49
 #, python-format
 msgid "Having trouble? <a class=\"inline-link\" href=\"%(url)s\">Get help with your installation.</a>"
-msgstr ""
+msgstr "Masz problem? <a class=\"inline-link\" href=\"%(url)s\">Przeczytaj pomoc na temat instalacji</a>."
 
 #: website/download/beta/index.html:7 website/includes/download-button.html:59 website/includes/site-prefooter.html:66
 msgid "Thunderbird Beta"
@@ -1143,7 +1145,7 @@ msgstr "Wszyscy mają dostęp do pomocy technicznej dla Thunderbirda pod <a href
 
 #: website/includes/faq.html:53
 msgid "How can I turn off the donation message on the Thunderbird start page?"
-msgstr ""
+msgstr "Jak pozbyć się prośby o datki na stronie startowej Thunderbirda?"
 
 #: website/includes/faq.html:56
 #, python-format
@@ -1159,6 +1161,8 @@ msgid ""
 "Gifts to Thunderbird are <strong>not tax-deductible as charitable gifts</strong>, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-"
 "platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future development."
 msgstr ""
+"Datki na rzecz Thunderbirda <strong>nie podlegają odliczeniu od podatku jako datki charytatywne</strong>, ale bardzo za nie dziękujemy. Wspierasz w ten sposób rozwój naszego wiodącego klienta poczty"
+" i kalendarza open source dla wielu systemów, bezpłatnego do użytku komercyjnego i osobistego. Datki pomagają nam to utrzymać i wspierać dalszy rozwój."
 
 #: website/includes/faq.html:78
 msgid "How can I get a business receipt?"
@@ -1223,11 +1227,11 @@ msgstr ""
 
 #: website/includes/faq.html:154
 msgid "Can I give in cryptocurrencies?"
-msgstr ""
+msgstr "Czy mogę wesprzeć kryptowalutami?"
 
 #: website/includes/faq.html:157
 msgid "<strong>No.</strong> We are not currently accepting cryptocurrency gifts."
-msgstr ""
+msgstr "<strong>Nie.</strong> Obecnie nie przyjmujemy datków w postaci kryptowalut."
 
 #: website/includes/faq.html:165
 msgid "How will my gift be used?"
@@ -1267,6 +1271,8 @@ msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. If you need technical support, please head over to <a href=\"%(support)s\">Thunderbird "
 "Support</a> for assistance."
 msgstr ""
+"Jeśli masz pytanie dotyczące przekazywania datków na rzecz Thunderbirda, skontaktuj się z nami za pomocą <a href=\"%(help)s\">tego formularza</a>. Jeśli potrzebujesz pomocy technicznej, przejdź do "
+"<a href=\"%(support)s\">pomocy Thunderbirda</a>."
 
 #: website/includes/lang_switcher.html:10
 msgid "Page language:"
@@ -1554,7 +1560,7 @@ msgstr ""
 
 #: website/thunderbird/102.0/beta-appeal/index.html:47
 msgid "Finish installing, and start enjoying Thunderbird Beta."
-msgstr ""
+msgstr "Dokończ instalację i zacznij cieszyć się Thunderbirdem Beta."
 
 #: website/thunderbird/102.0/beta-appeal/index.html:57
 msgid "Learn more about Thunderbird 115 Supernova"
