@@ -2,14 +2,14 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-06-23 23:37+0000\n"
-"PO-Revision-Date: 2023-06-20 08:00+0000\n"
-"Last-Translator: Mark Heijl <markh@babelzilla.org>\n"
+"PO-Revision-Date: 2023-06-26 13:13+0000\n"
+"Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
 "Language-Team: none\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -486,7 +486,7 @@ msgstr "U kunt ook agenda’s waarop u zich kunt abonneren vinden op <a href=\"%
 #: website/calendar/holidays/index.html:59
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
 
 #: website/calendar/holidays/index.html:61
 #, python-format
@@ -1184,10 +1184,14 @@ msgid ""
 "<strong>Additionally you can</strong> give offline in USD by <a href=\"%(check)s\">mailing a check or money order</a>.<br/> <strong>Give the gift of your time!</strong> If you would like to learn "
 "how to contribute to Thunderbird in other ways such as coding, translating or testing, please visit our <a href=\"%(ways_to_help)s\">Get Involved</a> page."
 msgstr ""
+"U kunt veilig <a href=\"%(donate)s\">online doneren</a> met creditcard of PayPal. Google Pay, Apple Pay en bankoverschrijvingen via SEPA, iDEAL en ACH zijn ook online beschikbaar.<br/> "
+"<strong>Doneer in uw lokale valuta!</strong> Gebruik op <a href=\"%(donate)s\"> ons onlineformulier</a> het vervolgkeuzemenu naast het bedrag. U wordt gefactureerd in de door u gekozen valuta.<br/> "
+"<strong>Daarnaast kunt u</strong> offline geven in USD door <a href=\"%(check)s\">een cheque of postwissel te sturen </a>.<br/> <strong>Geef uw tijd cadeau!</strong> Als u meer info wilt over hoe u "
+"op andere manieren kunt bijdragen aan Thunderbird, zoals code schrijven, vertalen of testen, bezoek dan onze pagina <a href=\"%(ways_to_help)s\">Meedoen</a>."
 
 #: website/includes/faq.html:26
 msgid "How do I cancel or change my recurring gift? Can I change my payment method or my donation frequency?"
-msgstr ""
+msgstr "Hoe annuleer of wijzig ik mijn periodieke gift? Kan ik mijn betaalmethode of mijn donatiefrequentie wijzigen?"
 
 #: website/includes/faq.html:29
 #, python-format
@@ -1195,6 +1199,8 @@ msgid ""
 "Access your donation account settings using the 'Manage My Donation' button on your recent donation confirmation email. There you can change the amount, frequency, payment method and charge date. "
 "You can also cancel your recurring donation plan. If you run into any issues you can always <a href=\"%(help)s\">contact us</a>!"
 msgstr ""
+"Ga naar de donatie-instellingen van uw account met behulp van de knop ‘Mijn donatie beheren’ in uw recente donatiebevestigingsmail. Daar kunt u het bedrag, de frequentie, de betalingswijze en de "
+"afschrijvingsdatum wijzigen. U kunt uw periodieke donatieplan ook annuleren. Als u tegen problemen aanloopt, kunt u altijd <a href=\"%(help)s\">contact met ons opnemen</a>!"
 
 #: website/includes/faq.html:41
 msgid "Does my gift give me access to tech support?"
@@ -1211,7 +1217,7 @@ msgstr ""
 
 #: website/includes/faq.html:53
 msgid "How can I turn off the donation message on the Thunderbird start page?"
-msgstr ""
+msgstr "Hoe kan ik het donatiebericht op de Thunderbird-startpagina uitzetten?"
 
 #: website/includes/faq.html:56
 #, python-format
@@ -1227,10 +1233,13 @@ msgid ""
 "Gifts to Thunderbird are <strong>not tax-deductible as charitable gifts</strong>, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-"
 "platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future development."
 msgstr ""
+"Giften aan Thunderbird zijn <strong>niet fiscaal aftrekbaar als schenking aan een goed doel</strong>, maar worden zeer op prijs gesteld. Schenken aan Thunderbird ondersteunt de ontwikkeling van onze"
+" toonaangevende open source platformonafhankelijke e-mail- en agendaclient, die gratis is voor zakelijk en persoonlijk gebruik. Uw gift helpt ervoor te zorgen dat dit zo blijft en ondersteunt "
+"toekomstige ontwikkeling."
 
 #: website/includes/faq.html:78
 msgid "How can I get a business receipt?"
-msgstr ""
+msgstr "Hoe kom ik aan een zakelijk ontvangstbewijs?"
 
 #: website/includes/faq.html:81
 #, python-format
@@ -1238,10 +1247,12 @@ msgid ""
 "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box 'Donate as an Organization' and include your company name. The receipt you receive to the email address used to "
 "make your contribution will include your business information."
 msgstr ""
+"Wanneer u doneert via ons <a href=\"%(donate)s\">online formulier</a>, vinkt u gewoon het vakje ‘Doneren als organisatie’ aan en vermeldt u uw bedrijfsnaam. Op het ontvangstbewijs dat u ontvangt op "
+"het e-mailadres waarmee u uw bijdrage heeft gedaan, staan uw bedrijfsgegevens."
 
 #: website/includes/faq.html:92
 msgid "Is my donation secure?"
-msgstr ""
+msgstr "Is mijn donatie veilig?"
 
 #: website/includes/faq.html:95
 #, python-format
@@ -1250,6 +1261,9 @@ msgid ""
 "Your sensitive financial information never touches our servers. We send all data directly to Stripe's PCI-compliant servers through SSL. We understand that your privacy is very important. For "
 "complete information please refer to the <a href=\"%(privacy)s\">Mozilla Privacy Policy</a>."
 msgstr ""
+"Ja, we gebruiken industriestandaard SSL-technologie om uw gegevens veilig te houden. We werken samen met Stripe, de gevestigde betalingsverwerker in de branche die wordt vertrouwd door enkele van ’s"
+" werelds grootste bedrijven. Uw gevoelige financiële informatie raakt nooit onze servers. We sturen alle gegevens rechtstreeks naar de PCI-compatibele servers van Stripe via SSL. We begrijpen dat uw"
+" privacy erg belangrijk is. Raadpleeg voor volledige informatie het <a href=\"%(privacy)s\">Privacybeleid van Mozilla</a>."
 
 #: website/includes/faq.html:107
 msgid "Why do you need my address in order to process a gift?"
@@ -1268,7 +1282,7 @@ msgstr ""
 
 #: website/includes/faq.html:123
 msgid "Are there additional fees on my donation?"
-msgstr ""
+msgstr "Zijn er extra kosten verbonden aan mijn donatie?"
 
 #: website/includes/faq.html:126
 msgid ""
@@ -2244,7 +2258,6 @@ msgstr "Uitgaveopmerkingen van Thunderbird zijn specifiek voor elke versie van d
 #~ msgid "How do I cancel or change my recurring gift?"
 #~ msgstr "Hoe kan ik mijn periodieke gift annuleren of wijzigen?"
 
-#, python-format
 #~ msgid ""
 #~ "If you used PayPal to set up a recurring gift, you’ll need to <a href=\"%(paypal)s\">log in to your PayPal account</a> to make changes or to cancel. If you made a monthly gift using your credit "
 #~ "card, please contact the Donor Care team <a href=\"%(help)s\">via this form</a>. Please include the email address and name you used to make your donation, and they’ll try to help you within two "
@@ -2254,7 +2267,6 @@ msgstr "Uitgaveopmerkingen van Thunderbird zijn specifiek voor elke versie van d
 #~ "maandelijkse gift hebt aangemaakt via een creditcard, neem dan contact op met het Donor Care-team <a href=\"%(help)s\">via dit formulier</a>. Voeg het e-mailadres en de naam bij die u hebt gebruikt "
 #~ "om uw donatie te doen toe, en ze proberen u binnen twee werkdagen te helpen."
 
-#, python-format
 #~ msgid ""
 #~ "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. We will do our best to follow-up with you as soon as we can. If you need technical "
 #~ "support, please head over to <a href=\"%(support)s\">Thunderbird Support</a> for assistance."
@@ -2262,7 +2274,6 @@ msgstr "Uitgaveopmerkingen van Thunderbird zijn specifiek voor elke versie van d
 #~ "Als u een vraag hebt over schenken aan Thunderbird, neem dan contact met ons op via <a href=\"%(help)s\">dit formulier</a>. We zullen ons best doen om zo snel mogelijk contact met u op te nemen. Als"
 #~ " u technische ondersteuning nodig hebt, ga dan naar <a href=\"%(support)s\">Thunderbird-ondersteuning</a> voor hulp."
 
-#, python-format
 #~ msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, thanks to %(authors)s"
 #~ msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, met dank aan %(authors)s"
 
@@ -2281,7 +2292,6 @@ msgstr "Uitgaveopmerkingen van Thunderbird zijn specifiek voor elke versie van d
 #~ msgid "Right-click on this calendar and choose \"Export Calendar\". Please use the iCalendar (ics) format."
 #~ msgstr "Klik met de rechtermuisknop op deze kalender en kies ‘Agenda exporteren’. Gebruik de iCalendar (ics)-opmaak."
 
-#, python-format
 #~ msgid "Create a Pull Request or file an Issue on the <a href=\"%(contribute_url)s\">website repository</a> and attach your holiday file."
 #~ msgstr "Maak een pull request of dien een probleem in op de <a href=\"%(contribute_url)s\">website-repository</a> en voeg uw feestdagenbestand toe."
 
