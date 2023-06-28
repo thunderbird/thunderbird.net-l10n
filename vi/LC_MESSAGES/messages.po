@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-06-23 23:37+0000\n"
-"PO-Revision-Date: 2023-06-28 17:12+0000\n"
+"PO-Revision-Date: 2023-06-28 17:24+0000\n"
 "Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
 "Language-Team: none\n"
 "Language: vi\n"
@@ -1172,10 +1172,15 @@ msgid ""
 "<strong>Additionally you can</strong> give offline in USD by <a href=\"%(check)s\">mailing a check or money order</a>.<br/> <strong>Give the gift of your time!</strong> If you would like to learn "
 "how to contribute to Thunderbird in other ways such as coding, translating or testing, please visit our <a href=\"%(ways_to_help)s\">Get Involved</a> page."
 msgstr ""
+"Bạn có thể <a href=\"%(donate)s\">quyên góp trực tuyến</a> an toàn bằng thẻ tín dụng hoặc PayPal. Google Pay, Apple Pay, và chuyển khoản qua ngân hàng SEPA, iDEAL và ACH cũng có sẵn trực tuyến.<br/>"
+" <strong>Quyên tặng tiền tệ địa phương của bạn!</strong> Trên <a href=\"%(donate)s\">biểu mẫu trực tuyến của chúng tôi</a>, sử dụng trình đơn thả xuống bên cạnh số tiền. Bạn sẽ bị tính phí bằng đơn "
+"vị tiền tệ bạn chọn cung cấp.<br/> <strong>Ngoài ra bạn có thể</strong> quyên góp bằng USD bằng cách <a href=\"%(check)s\">gửi séc hoặc lệnh chuyển tiền</a>.<br/> <strong>Quyên góp quỹ thời gian của"
+" bạn!</strong> Nếu bạn muốn tìm hiểu cách đóng góp cho Thunderbird theo những cách khác như viết mã, dịch hoặc thử nghiệm, vui lòng truy cập trang <a href=\"%(ways_to_help)s\">Tham gia</a> của chúng"
+" tôi."
 
 #: website/includes/faq.html:26
 msgid "How do I cancel or change my recurring gift? Can I change my payment method or my donation frequency?"
-msgstr ""
+msgstr "Làm cách nào để hủy hoặc thay đổi quyên góp định kỳ của tôi? Tôi có thể thay đổi phương thức thanh toán hoặc tần suất quyên góp của mình không?"
 
 #: website/includes/faq.html:29
 #, python-format
@@ -1183,6 +1188,8 @@ msgid ""
 "Access your donation account settings using the 'Manage My Donation' button on your recent donation confirmation email. There you can change the amount, frequency, payment method and charge date. "
 "You can also cancel your recurring donation plan. If you run into any issues you can always <a href=\"%(help)s\">contact us</a>!"
 msgstr ""
+"Truy cập cài đặt tài khoản quyên góp của bạn bằng cách sử dụng nút 'Quản lý quyên góp của tôi' trên email xác nhận quyên góp gần đây của bạn. Ở đó bạn có thể thay đổi số tiền, tần suất, phương thức "
+"thanh toán và ngày tính phí. Bạn cũng có thể hủy kế hoạch quyên góp định kỳ của mình. Nếu bạn gặp phải bất kỳ vấn đề nào, bạn luôn có thể <a href=\"%(help)s\">liên hệ với chúng tôi</a>!"
 
 #: website/includes/faq.html:41
 msgid "Does my gift give me access to tech support?"
@@ -1199,7 +1206,7 @@ msgstr ""
 
 #: website/includes/faq.html:53
 msgid "How can I turn off the donation message on the Thunderbird start page?"
-msgstr ""
+msgstr "Làm cách nào để tắt thông báo quyên góp trên trang bắt đầu Thunderbird?"
 
 #: website/includes/faq.html:56
 #, python-format
@@ -1215,10 +1222,12 @@ msgid ""
 "Gifts to Thunderbird are <strong>not tax-deductible as charitable gifts</strong>, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-"
 "platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future development."
 msgstr ""
+"Quà tặng cho Thunderbird <strong>không được khấu trừ thuế như quà tặng từ thiện</strong>, nhưng được đánh giá rất cao. Cung cấp cho Thunderbird hỗ trợ phát triển ứng dụng lập lịch và email đa nền "
+"tảng mã nguồn mở hàng đầu của chúng tôi, miễn phí cho mục đích sử dụng cá nhân và doanh nghiệp. Món quà của bạn sẽ giúp đảm bảo nó luôn như vậy và sẽ hỗ trợ sự phát triển trong tương lai."
 
 #: website/includes/faq.html:78
 msgid "How can I get a business receipt?"
-msgstr ""
+msgstr "Làm thế nào tôi có thể nhận được biên lai kinh doanh?"
 
 #: website/includes/faq.html:81
 #, python-format
@@ -1226,10 +1235,12 @@ msgid ""
 "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box 'Donate as an Organization' and include your company name. The receipt you receive to the email address used to "
 "make your contribution will include your business information."
 msgstr ""
+"Khi bạn quyên góp qua <a href=\"%(donate)s\">biểu mẫu trực tuyến</a> của chúng tôi, chỉ cần đánh dấu vào hộp kiểm 'Quyên góp với tư cách là tổ chức' và bao gồm tên công ty của bạn. Biên lai bạn nhận"
+" được đến địa chỉ email được sử dụng để đóng góp sẽ bao gồm thông tin doanh nghiệp của bạn."
 
 #: website/includes/faq.html:92
 msgid "Is my donation secure?"
-msgstr ""
+msgstr "Đóng góp của tôi có an toàn không?"
 
 #: website/includes/faq.html:95
 #, python-format
@@ -1238,6 +1249,9 @@ msgid ""
 "Your sensitive financial information never touches our servers. We send all data directly to Stripe's PCI-compliant servers through SSL. We understand that your privacy is very important. For "
 "complete information please refer to the <a href=\"%(privacy)s\">Mozilla Privacy Policy</a>."
 msgstr ""
+"Có, chúng tôi sử dụng công nghệ SSL tiêu chuẩn của ngành để bảo mật thông tin của bạn. Chúng tôi hợp tác với Stripe, bộ xử lý thanh toán lâu đời của ngành được một số công ty lớn nhất thế giới tin "
+"cậy. Thông tin tài chính nhạy cảm của bạn sẽ không bao giờ được lưu vào máy chủ của chúng tôi. Chúng tôi gửi trực tiếp tất cả dữ liệu đến các máy chủ tuân thủ PCI của Stripe thông qua SSL. Chúng tôi"
+" hiểu rằng sự riêng tư của bạn là rất quan trọng. Để biết thông tin đầy đủ, vui lòng tham khảo <a href=\"%(privacy)s\">chính sách riêng tư của Mozilla</a>."
 
 #: website/includes/faq.html:107
 msgid "Why do you need my address in order to process a gift?"
@@ -1257,7 +1271,7 @@ msgstr ""
 
 #: website/includes/faq.html:123
 msgid "Are there additional fees on my donation?"
-msgstr ""
+msgstr "Có phí bổ sung cho khoản đóng góp của tôi hay không?"
 
 #: website/includes/faq.html:126
 msgid ""
@@ -1265,10 +1279,14 @@ msgid ""
 "costs on your donation. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to "
 "research any additional external taxes or fees that may be applied by regulators such as your bank or tax authority."
 msgstr ""
+"Chúng tôi không thu thêm bất kỳ khoản phí hoặc thuế nào. Khi bạn quyên góp bằng tiền tệ địa phương của mình, bạn sẽ không bị tính phí chuyển đổi bằng thẻ tín dụng của mình. Theo tùy chọn, bạn có thể"
+" chọn trang trải chi phí giao dịch của chúng tôi cho khoản đóng góp của mình. Điều này là hoàn toàn tự nguyện và bạn có thể chọn tham gia hoặc không tham gia bằng cách sử dụng hộp kiểm trên biểu mẫu"
+" quyên góp của chúng tôi. Tổ chức của chúng tôi có trụ sở tại Hoa Kỳ. Chúng tôi khuyến khích các nhà tài trợ nghiên cứu bất kỳ loại thuế hoặc phí bên ngoài bổ sung nào có thể được áp dụng bởi các cơ"
+" quan quản lý như ngân hàng hoặc cơ quan thuế của bạn."
 
 #: website/includes/faq.html:138
 msgid "What are your transaction costs on donations?"
-msgstr ""
+msgstr "Chi phí giao dịch của bạn đối với các khoản đóng góp là gì?"
 
 #: website/includes/faq.html:141
 msgid ""
@@ -1277,14 +1295,19 @@ msgid ""
 "ensure we can accept a wide range of currencies/payment methods and remain PCI compliant in all of the countries that we accept gifts from. The transaction costs donors may choose to cover are based"
 " on an estimate of our overall costs. Due to many factors actual costs may fluctuate."
 msgstr ""
+"Khi bạn chọn thanh toán chi phí giao dịch của chúng tôi, bạn sẽ thanh toán cả chi phí nền tảng xử lý và quyên góp của chúng tôi. Chi phí liên quan đến hệ thống quyên góp trực tuyến mạnh mẽ của chúng"
+" tôi cho phép chúng tôi tiếp tục mở rộng quy mô một cách bền vững khi cơ sở người ủng hộ của chúng tôi phát triển. Nền tảng quyên góp và các đối tác xử lý thanh toán của chúng tôi giảm chi phí nội "
+"bộ liên quan đến việc duy trì hệ thống của chính chúng tôi từ đầu. Các đối tác của chúng tôi đảm bảo rằng chúng tôi có thể chấp nhận nhiều loại tiền tệ/phương thức thanh toán và vẫn tuân thủ PCI ở "
+"tất cả các quốc gia mà nơi chúng tôi chấp nhận quà. Chi phí giao dịch mà các nhà tài trợ có thể chọn chi trả dựa trên ước tính tổng chi phí của chúng tôi. Do nhiều yếu tố chi phí thực tế có thể dao "
+"động."
 
 #: website/includes/faq.html:154
 msgid "Can I give in cryptocurrencies?"
-msgstr ""
+msgstr "Tôi có thể quyên góp tiền điện tử không?"
 
 #: website/includes/faq.html:157
 msgid "<strong>No.</strong> We are not currently accepting cryptocurrency gifts."
-msgstr ""
+msgstr "<strong>Không.</strong> Chúng tôi hiện không chấp nhận quà tặng bằng tiền điện tử."
 
 #: website/includes/faq.html:165
 msgid "How will my gift be used?"
@@ -1315,6 +1338,8 @@ msgid ""
 "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird. Companies and individuals support the development of the product now and in the "
 "future."
 msgstr ""
+"Hiện tại, phần lớn doanh thu của Thunderbird đến từ những món quà hào phóng từ người dùng và bạn bè của Thunderbird. Các công ty và cá nhân hỗ trợ sự phát triển của sản phẩm hiện tại và trong tương "
+"lai."
 
 #: website/includes/faq.html:201
 msgid "Who can I email directly with questions about giving?"
@@ -1326,6 +1351,8 @@ msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. If you need technical support, please head over to <a href=\"%(support)s\">Thunderbird "
 "Support</a> for assistance."
 msgstr ""
+"Nếu bạn có câu hỏi về việc quyên góp cho Thunderbird, vui lòng liên hệ với chúng tôi qua <a href=\"%(help)s\">biểu mẫu này</a>. Nếu bạn cần hỗ trợ kỹ thuật, vui lòng truy cập <a "
+"href=\"%(support)s\">hỗ trợ Thunderbird</a> để được hỗ trợ."
 
 #: website/includes/lang_switcher.html:10
 msgid "Page language:"
