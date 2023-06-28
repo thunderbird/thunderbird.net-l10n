@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-06-23 23:37+0000\n"
-"PO-Revision-Date: 2023-04-18 15:02+0000\n"
+"PO-Revision-Date: 2023-06-28 18:13+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: none\n"
 "Language: is\n"
@@ -345,7 +345,7 @@ msgstr ""
 
 #: website/about/index.html:37 website/calendar/index.html:35
 msgid "Calendar screenshot"
-msgstr ""
+msgstr "Skjámynd af dagatali"
 
 #: website/about/index.html:46
 msgid "Who We Are"
@@ -386,7 +386,7 @@ msgstr ""
 
 #: website/about/index.html:79
 msgid "Our Mission"
-msgstr ""
+msgstr "Markmið okkar"
 
 #: website/about/index.html:81
 msgid ""
@@ -425,7 +425,7 @@ msgstr "Fá aðstoð"
 
 #: website/calendar/index.html:50
 msgid "Need help with Calendar?"
-msgstr ""
+msgstr "Þarftu hjálp með dagatalið?"
 
 #: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:62
 msgid "Holiday Calendars"
@@ -453,7 +453,7 @@ msgstr "Viltu skipta máli? Lagfærðu villur sem henta þínum áhugasviðum."
 
 #: website/calendar/holidays/index.html:24
 msgid "Add your nation’s holidays to Calendar!"
-msgstr ""
+msgstr "Bættu frídögum þjóðar þinnar við dagatalið!"
 
 #: website/calendar/holidays/index.html:29
 #, python-format
@@ -461,6 +461,9 @@ msgid ""
 "We’ve got some holiday calendar files available for download. You can either download and then import them into Calendar or you can just subscribe to these calendars by copying their URL and then "
 "adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
 msgstr ""
+"Við erum með nokkrar frídagatalsskrár sem hægt er að sækja. Þú getur annað hvort sótt þær yfir á tölvuna þína og síðan flutt þær inn í dagatalið eða þú getur einfaldlega gerst áskrifandi að þessum "
+"dagatölum með því að afrita slóðina þeirra og bæta þeim svo við sem nýjum utanaðkomandi dagatalsskrám. Frekari upplýsingar um uppsetningu á frídagatali má finna í greininni <a href=\"%s\">Bæta við "
+"frídagatali</a>."
 
 #: website/calendar/holidays/index.html:32
 #, python-format
@@ -470,7 +473,7 @@ msgstr "Þú finnur líka dagatöl til að gerast áskrifandi að á <a href=\"%
 #: website/calendar/holidays/index.html:59
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
 
 #: website/calendar/holidays/index.html:61
 #, python-format
@@ -531,11 +534,11 @@ msgstr ""
 
 #: website/donate/help/thank-you/index.html:23
 msgid "We will get back to you soon."
-msgstr ""
+msgstr "Við munum hafa samband við þig fljótlega."
 
 #: website/donate/help/thank-you/index.html:26
 msgid "Return to Thunderbird.net"
-msgstr ""
+msgstr "Fara aftur á Thunderbird.net"
 
 #: website/download/index.html:9 website/includes/download-button.html:14 website/includes/download-button.html:63 website/includes/site-prefooter.html:59
 msgid "Download Thunderbird"
@@ -1189,7 +1192,7 @@ msgstr ""
 
 #: website/includes/faq.html:53
 msgid "How can I turn off the donation message on the Thunderbird start page?"
-msgstr ""
+msgstr "Hvernig get ég slökkt á styrkáskoruninni á upphafssíðu Thunderbird?"
 
 #: website/includes/faq.html:56
 #, python-format
@@ -1205,10 +1208,12 @@ msgid ""
 "Gifts to Thunderbird are <strong>not tax-deductible as charitable gifts</strong>, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-"
 "platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future development."
 msgstr ""
+"Gjafir til Thunderbird eru <strong>ekki frádráttarbærar frá skatti</strong>, en eru mjög vel þegnar. Styrkir til Thunderbird styðja þróun á leiðandi tölvupóst- og dagatalskerfum okkar, með opinn "
+"grunnkóða og ókeypis fyrir fyrirtæki og einkanotkun. Gjöfin þín mun hjálpa til við að tryggja að þetta haldist þannig áfram og mun styðja við framtíðarþróun."
 
 #: website/includes/faq.html:78
 msgid "How can I get a business receipt?"
-msgstr ""
+msgstr "Hvernig get ég fengið viðskiptakvittun?"
 
 #: website/includes/faq.html:81
 #, python-format
@@ -1219,7 +1224,7 @@ msgstr ""
 
 #: website/includes/faq.html:92
 msgid "Is my donation secure?"
-msgstr ""
+msgstr "Er framlag mitt öruggt?"
 
 #: website/includes/faq.html:95
 #, python-format
@@ -2208,7 +2213,6 @@ msgstr "Útgáfuupplýsingar Thunderbird eru sértækar fyrir hverja útgáfu af
 #~ msgid "How do I cancel or change my recurring gift?"
 #~ msgstr "Hvernig hætti ég við eða breyti endurtekinni gjöf?"
 
-#, python-format
 #~ msgid ""
 #~ "If you used PayPal to set up a recurring gift, you’ll need to <a href=\"%(paypal)s\">log in to your PayPal account</a> to make changes or to cancel. If you made a monthly gift using your credit "
 #~ "card, please contact the Donor Care team <a href=\"%(help)s\">via this form</a>. Please include the email address and name you used to make your donation, and they’ll try to help you within two "
@@ -2218,7 +2222,6 @@ msgstr "Útgáfuupplýsingar Thunderbird eru sértækar fyrir hverja útgáfu af
 #~ "mánaðarlegan styrk með kreditkortinu þínu, skaltu hafa samband við Donor Care teymið <a href=\"%(help)s\">í gegnum þetta innfyllingarform</a>. Láttu fylgja með tölvupóstfangið og nafnið sem þú "
 #~ "notaðir við framlag þitt, og þau munu reyna að hjálpa þér innan tveggja virkra daga."
 
-#, python-format
 #~ msgid ""
 #~ "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. We will do our best to follow-up with you as soon as we can. If you need technical "
 #~ "support, please head over to <a href=\"%(support)s\">Thunderbird Support</a> for assistance."
@@ -2226,7 +2229,6 @@ msgstr "Útgáfuupplýsingar Thunderbird eru sértækar fyrir hverja útgáfu af
 #~ "Ef þú hefur spurningar varðandi gjafir eða styrki til Thunderbird, skaltu hafa samband við okkur í gegnum <a href=\"%(help)s\">þetta innfyllingarform</a>. Við munum gera okkar besta til að svara þér"
 #~ " eins fljótt og við getum. Ef þú þarft tæknilega aðstoð, skaltu fara á <a href=\"%(support)s\">Thunderbird aðstoðargáttina</a> til að fá hjálp."
 
-#, python-format
 #~ msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, thanks to %(authors)s"
 #~ msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, þökk sé %(authors)s"
 
@@ -2245,7 +2247,6 @@ msgstr "Útgáfuupplýsingar Thunderbird eru sértækar fyrir hverja útgáfu af
 #~ msgid "Right-click on this calendar and choose \"Export Calendar\". Please use the iCalendar (ics) format."
 #~ msgstr "Hægrismelltu á þetta dagatal og veldu „Flytja út dagatal“. Notaðu iCalendar (ics) sniðið."
 
-#, python-format
 #~ msgid "Create a Pull Request or file an Issue on the <a href=\"%(contribute_url)s\">website repository</a> and attach your holiday file."
 #~ msgstr "Útbúðu Pull-beiðni eða sendu inn verkbeiðni á <a href=\"%(contribute_url)s\">vefsvæði kóðasafnsins</a> og hengdu frídagatalsskrána þína við."
 
@@ -2261,7 +2262,6 @@ msgstr "Útgáfuupplýsingar Thunderbird eru sértækar fyrir hverja útgáfu af
 #~ msgid "Add your nation’s holidays to Lightning!"
 #~ msgstr "Bættu frídögum þjóðar þinnar við Lightning!"
 
-#, python-format
 #~ msgid ""
 #~ "We’ve got some holiday calendar files available for download. You can either download and then import them into Lightning or you can just subscribe to these calendars by copying their URL and then "
 #~ "adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
