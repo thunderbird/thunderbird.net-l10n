@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-06-23 23:37+0000\n"
-"PO-Revision-Date: 2023-07-03 17:42+0000\n"
+"PO-Revision-Date: 2023-07-03 17:48+0000\n"
 "Last-Translator: wladow <valastiak@mozilla.sk>\n"
 "Language-Team: none\n"
 "Language: sk\n"
@@ -1170,6 +1170,10 @@ msgid ""
 "<strong>Additionally you can</strong> give offline in USD by <a href=\"%(check)s\">mailing a check or money order</a>.<br/> <strong>Give the gift of your time!</strong> If you would like to learn "
 "how to contribute to Thunderbird in other ways such as coding, translating or testing, please visit our <a href=\"%(ways_to_help)s\">Get Involved</a> page."
 msgstr ""
+"Môžete <a href=\"%(donate)s\">darovať online</a> bezpečne kreditnou kartou alebo cez služby PayPal. Google Pay, Apple Pay a bankové prevody cez SEPA, iDEAL a ACH.<br/> <strong>Darujte vo svojej "
+"lokálnej mene!</strong> V <a href=\"%(donate)s\">našom online formulári</a> použite rozbaľovaciu ponuku vedľa sumy. Daná suma vám bude účtovaná v mene, ktorú si vyberiete.<br/> <strong>Navyše "
+"môžete</strong> darovať offline v mene USD <a href=\"%(check)s\">zaslaním šeku alebo peňažného poukazu</a>.<br/> <strong>Darujte svoj čas!</strong> Ak by ste sa chceli dozvedieť, ako prispieť do "
+"Thunderbirdu inými spôsobmi, ako je programovanie, preklad alebo testovanie, navštívte naše stránky <a href=\"%(ways_to_help)s\">Zapojte sa</a>."
 
 #: website/includes/faq.html:26
 msgid "How do I cancel or change my recurring gift? Can I change my payment method or my donation frequency?"
@@ -1220,7 +1224,7 @@ msgstr ""
 
 #: website/includes/faq.html:78
 msgid "How can I get a business receipt?"
-msgstr ""
+msgstr "Ako môžem získať daňový doklad?"
 
 #: website/includes/faq.html:81
 #, python-format
@@ -1228,10 +1232,12 @@ msgid ""
 "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box 'Donate as an Organization' and include your company name. The receipt you receive to the email address used to "
 "make your contribution will include your business information."
 msgstr ""
+"Keď prispejete prostredníctvom nášho <a href=\"%(donate)s\">online formulára</a>, jednoducho začiarknite políčko „Darovať ako organizácia“ a uveďte názov svojej spoločnosti. Potvrdenie, ktoré "
+"dostanete na e-mailovú adresu použitú na odoslanie príspevku, bude obsahovať informácie o vašej firme."
 
 #: website/includes/faq.html:92
 msgid "Is my donation secure?"
-msgstr ""
+msgstr "Je môj dar bezpečný?"
 
 #: website/includes/faq.html:95
 #, python-format
@@ -1240,6 +1246,9 @@ msgid ""
 "Your sensitive financial information never touches our servers. We send all data directly to Stripe's PCI-compliant servers through SSL. We understand that your privacy is very important. For "
 "complete information please refer to the <a href=\"%(privacy)s\">Mozilla Privacy Policy</a>."
 msgstr ""
+"Áno, na zabezpečenie vašich informácií používame štandardnú technológiu SSL. Spolupracujeme so spoločnosťou Stripe, etablovaným spracovateľom platieb v tomto odvetví, ktorému dôverujú niektoré z "
+"najväčších svetových spoločností. Vaše citlivé finančné informácie sa nikdy nedotknú našich serverov. Všetky údaje posielame priamo na servery Stripe kompatibilné s PCI cez SSL. Chápeme, že vaše "
+"súkromie je veľmi dôležité. Úplné informácie nájdete v <a href=\"%(privacy)s\">Zásadách ochrany osobných údajov Mozilly</a>."
 
 #: website/includes/faq.html:107
 msgid "Why do you need my address in order to process a gift?"
@@ -1258,7 +1267,7 @@ msgstr ""
 
 #: website/includes/faq.html:123
 msgid "Are there additional fees on my donation?"
-msgstr ""
+msgstr "Sú za môj dar účtované ďalšie poplatky?"
 
 #: website/includes/faq.html:126
 msgid ""
@@ -1266,6 +1275,9 @@ msgid ""
 "costs on your donation. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to "
 "research any additional external taxes or fees that may be applied by regulators such as your bank or tax authority."
 msgstr ""
+"Nevyberáme žiadne ďalšie poplatky ani dane. Keď darujete vo svojej lokálnej mene, z vašej kreditnej karty sa vám neúčtuje poplatok za konverziu. Voliteľne sa môžete rozhodnúť pokryť naše transakčné "
+"náklady z vášho daru. Je to úplne dobrovoľné a môžete sa prihlásiť alebo odhlásiť pomocou začiarkavacieho políčka na našom darcovskom formulári. Naša organizácia sídli v Spojených štátoch "
+"amerických. Odporúčame darcom, aby preskúmali akékoľvek dodatočné externé dane alebo poplatky, ktoré môžu uplatňovať regulačné orgány, ako je vaša banka alebo daňový úrad."
 
 #: website/includes/faq.html:138
 msgid "What are your transaction costs on donations?"
