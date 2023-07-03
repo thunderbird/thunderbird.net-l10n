@@ -1193,6 +1193,11 @@ msgid ""
 "<strong>Additionally you can</strong> give offline in USD by <a href=\"%(check)s\">mailing a check or money order</a>.<br/> <strong>Give the gift of your time!</strong> If you would like to learn "
 "how to contribute to Thunderbird in other ways such as coding, translating or testing, please visit our <a href=\"%(ways_to_help)s\">Get Involved</a> page."
 msgstr ""
+"Puoi fare una <a href=\"%(donate)s\">donazione online</a> in modo sicuro tramite carta di credito o PayPal. Sono disponibili online anche Google Pay, Apple Pay e trasferimenti bancari tramite SEPA, "
+"iDEAL e ACH.<br/> <strong>Effettua la donazione nella tua valuta locale.</strong> Nel <a href=\"%(donate)s\">nostro modulo online</a>, utilizza il menu a tendina accanto all’importo e ti verrà "
+"addebitato l’importo nella valuta in cui hai deciso di donare.<br/> <strong>Puoi anche</strong> effettuare una donazione senza Internet in USD <a href=\"%(check)s\">inviando un assegno o un vaglia "
+"postale</a>.<br/> <strong>Donaci il tuo tempo.</strong> Se vuoi scoprire come contribuire alla crescita di Thunderbird in altri modi, partecipando ad esempio allo sviluppo del codice, alla "
+"localizzazione o ai test, visita la pagina <a href=\"%(ways_to_help)s\">Collabora con noi</a>."
 
 #: website/includes/faq.html:26
 msgid "How do I cancel or change my recurring gift? Can I change my payment method or my donation frequency?"
@@ -1204,6 +1209,8 @@ msgid ""
 "Access your donation account settings using the 'Manage My Donation' button on your recent donation confirmation email. There you can change the amount, frequency, payment method and charge date. "
 "You can also cancel your recurring donation plan. If you run into any issues you can always <a href=\"%(help)s\">contact us</a>!"
 msgstr ""
+"Accedi alle impostazioni del tuo account per le donazioni utilizzando il pulsante “Gestisci la mia donazione” presente nell’email di conferma della donazione. Da qui, puoi modificare l’importo, la "
+"frequenza, il metodo di pagamento e la data di addebito. Puoi anche annullare il tuo piano di donazioni periodiche. In caso di problemi puoi sempre <a href=\"%(help)s\">contattarci</a>."
 
 #: website/includes/faq.html:41
 msgid "Does my gift give me access to tech support?"
@@ -1242,7 +1249,7 @@ msgstr ""
 
 #: website/includes/faq.html:78
 msgid "How can I get a business receipt?"
-msgstr ""
+msgstr "Come posso ricevere una fattura commerciale?"
 
 #: website/includes/faq.html:81
 #, python-format
@@ -1264,6 +1271,9 @@ msgid ""
 "Your sensitive financial information never touches our servers. We send all data directly to Stripe's PCI-compliant servers through SSL. We understand that your privacy is very important. For "
 "complete information please refer to the <a href=\"%(privacy)s\">Mozilla Privacy Policy</a>."
 msgstr ""
+"Sì, utilizziamo la tecnologia SSL standard del settore per mantenere le tue informazioni al sicuro. Collaboriamo con Stripe, un popolare sistema di elaborazione di pagamenti a cui si affidano alcune"
+" delle più grandi aziende del mondo. I tuoi dati finanziari sensibili non vengono mai elaborati nei nostri server. Inviamo tutti i dati direttamente ai server di Stripe tramite SSL, in conformità "
+"alla normativa PCI. Siamo consapevoli che la tua privacy è molto importante. Per maggiori dettagli, fai riferimento all’<a href=\"%(privacy)s\">Informativa sulla privacy di Mozilla</a>."
 
 #: website/includes/faq.html:107
 msgid "Why do you need my address in order to process a gift?"
@@ -1291,6 +1301,10 @@ msgid ""
 "costs on your donation. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to "
 "research any additional external taxes or fees that may be applied by regulators such as your bank or tax authority."
 msgstr ""
+"Non sono presenti costi o tasse aggiuntivi. Quando effettui una donazione nella tua valuta locale, la carta di credito non addebita alcuna commissione di cambio. In alternativa, puoi scegliere di "
+"coprire i nostri costi di transazione con la tua donazione. Si tratta di un’opzione del tutto volontaria, che può essere selezionata tramite la casella di spunta presente nel modulo di donazione. La"
+" nostra organizzazione ha sede negli Stati Uniti. Invitiamo chiunque voglia effettuare una donazione a informarsi su eventuali tasse o commissioni esterne aggiuntive che potrebbero essere applicate "
+"da enti regolatori come banche o autorità fiscali."
 
 #: website/includes/faq.html:138
 msgid "What are your transaction costs on donations?"
@@ -1303,6 +1317,11 @@ msgid ""
 "ensure we can accept a wide range of currencies/payment methods and remain PCI compliant in all of the countries that we accept gifts from. The transaction costs donors may choose to cover are based"
 " on an estimate of our overall costs. Due to many factors actual costs may fluctuate."
 msgstr ""
+"Se scegli di coprire i costi di transazione, stai coprendo sia i costi di elaborazione dei pagamenti sia quelli della piattaforma per le donazioni. I costi relativi al nostro solido sistema di "
+"donazioni online ci consentono di continuare a crescere in modo sostenibile man mano che la nostra base di sostenitori cresce. La piattaforma per le donazioni e il sistema di elaborazione dei "
+"pagamenti ci permettono di ridurre i costi interni rispetto a quelli che dovremmo sostenere per creare e mantenere lo stesso sistema partendo da zero. I nostri partner ci permettono di accettare "
+"un’ampia gamma di valute e metodi di pagamento e di rimanere conformi alla normativa PCI in tutti i Paesi da cui accettiamo donazioni. I costi di transazione che volontariamente possono essere "
+"coperti con le donazioni si basano su una stima dei costi complessivi. A causa di molti fattori, i costi effettivi possono variare."
 
 #: website/includes/faq.html:154
 msgid "Can I give in cryptocurrencies?"
