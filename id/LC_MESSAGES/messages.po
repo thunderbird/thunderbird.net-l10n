@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-06-23 23:37+0000\n"
+"POT-Creation-Date: 2023-07-07 00:30+0000\n"
 "PO-Revision-Date: 2022-08-15 15:54+0000\n"
 "Last-Translator: Benny Chandra <bennychandra@gmail.com>\n"
 "Language-Team: none\n"
@@ -1617,7 +1617,7 @@ msgstr ""
 msgid "November 9, 2022"
 msgstr ""
 
-#: website/thunderbird/102.0/eoy/index.html:17
+#: website/thunderbird/102.0/eoy/index.html:17 website/thunderbird/115.0/appeal/index.html:17
 msgid "Help Keep Thunderbird Alive!"
 msgstr ""
 
@@ -1637,11 +1637,11 @@ msgstr ""
 msgid "We don’t show advertisements or sell your data and we are completely funded by donations from our community."
 msgstr ""
 
-#: website/thunderbird/102.0/eoy/index.html:52
+#: website/thunderbird/102.0/eoy/index.html:52 website/thunderbird/115.0/appeal/index.html:41
 msgid "Click here to <strong class=\"block\">Donate!</strong>"
 msgstr ""
 
-#: website/thunderbird/102.0/eoy/index.html:67
+#: website/thunderbird/102.0/eoy/index.html:67 website/thunderbird/115.0/appeal/index.html:56
 msgid "Help keep <strong class=\"block\">Thunderbird Alive!</strong>"
 msgstr ""
 
@@ -1661,7 +1661,7 @@ msgstr ""
 msgid "<strong>So today we’re asking you to help us out.</strong> If you get value from using Thunderbird, please consider giving a donation to support it!"
 msgstr ""
 
-#: website/thunderbird/102.0/eoy/index.html:98
+#: website/thunderbird/102.0/eoy/index.html:98 website/thunderbird/115.0/appeal/index.html:95
 msgid "The Thunderbird Team"
 msgstr ""
 
@@ -1780,6 +1780,185 @@ msgstr ""
 #, fuzzy, python-format
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 102.0 and up</a>."
 msgstr "Ada banyak pembaruan lain dalam rilis ini, Anda dapat melihat daftar semuanya di <a href=\"%(release)s\">catatan rilis Thunderbird 68</a>."
+
+#: website/thunderbird/115.0/appeal/index.html:24
+msgid ""
+"Help Keep\n"
+"      <br>\n"
+"      <span class=\"tb-title\">Thunderbird</span>\n"
+"      <span class=\"alive\">Alive</span>"
+msgstr ""
+
+#: website/thunderbird/115.0/appeal/index.html:66
+msgid ""
+"Thunderbird’s mission is to give you the best privacy-respecting, customizable communication experience possible.\n"
+"        Free for everyone to install and enjoy!"
+msgstr ""
+
+#: website/thunderbird/115.0/appeal/index.html:70
+msgid ""
+"Accomplishing that mission means maintaining expensive servers, fixing bugs, developing useful new features, and\n"
+"        hiring talented engineers to improve the software."
+msgstr ""
+
+#: website/thunderbird/115.0/appeal/index.html:74
+msgid ""
+"Thunderbird is proud to be funded exclusively by our community, not by selling personal data or displaying ads in\n"
+"        your inbox."
+msgstr ""
+
+#: website/thunderbird/115.0/appeal/index.html:78
+msgid ""
+"So today we’re asking for your help to keep Thunderbird alive and thriving. If you get value from using\n"
+"        Thunderbird, please consider giving a donation to support it!"
+msgstr ""
+
+#: website/thunderbird/115.0/whatsnew/index.html:11
+msgid "What’s New in Thunderbird 115"
+msgstr ""
+
+#: website/thunderbird/115.0/whatsnew/index.html:17
+msgid ""
+"What’s New in\n"
+"        <br>\n"
+"        <span class=\"tb-title\">Thunderbird</span>\n"
+"        <span class=\"version\">115</span>"
+msgstr ""
+
+#: website/thunderbird/115.0/whatsnew/index.html:47
+msgid "Dynamic Unified Toolbar"
+msgstr ""
+
+#: website/thunderbird/115.0/whatsnew/index.html:50
+msgid ""
+"Supernova features a single dynamic toolbar, presenting frequently used and contextual options based on the tab\n"
+"          or Space that is currently active. Take full control by customizing the toolbar and window layout to perfectly fit your\n"
+"          workflow."
+msgstr ""
+
+#: website/thunderbird/115.0/whatsnew/index.html:68
+msgid "Beautiful Iconography"
+msgstr ""
+
+#: website/thunderbird/115.0/whatsnew/index.html:71
+msgid ""
+"More than just a refreshed set of graphics, Supernova introduces beautiful icons with a more consistent visual\n"
+"          style unique to Thunderbird. Our new designs remain sharp and pixel-perfect at any density setting."
+msgstr ""
+
+#: website/thunderbird/115.0/whatsnew/index.html:88
+msgid "Easy Density Control"
+msgstr ""
+
+#: website/thunderbird/115.0/whatsnew/index.html:91
+msgid ""
+"Working with multiple monitors and display resolutions? Supernova lets you dial in the perfect density settings\n"
+"          and font sizes for the entire application, with just a single click from the App Menu."
+msgstr ""
+
+#: website/thunderbird/115.0/whatsnew/index.html:122
+msgid "Intuitive App Menu"
+msgstr ""
+
+#: website/thunderbird/115.0/whatsnew/index.html:125
+msgid ""
+"The new Application Menu (≡) in Supernova is now keyboard-accessible, and redesigned for faster, easier\n"
+"          navigation. Fewer submenus, persistent global options, and consistent iconography combine to create a much\n"
+"          more intuitive experience."
+msgstr ""
+
+#: website/thunderbird/115.0/whatsnew/index.html:144
+msgid "New + Sortable Folder Modes"
+msgstr ""
+
+#: website/thunderbird/115.0/whatsnew/index.html:147
+msgid ""
+"Supernova gives you more control by introducing sortable Folder Modes. Display all of your Tags in the Folder\n"
+"            Pane, turn on and off Local Folders, or move your favorite Folder Mode sections up and down with one click. Less\n"
+"            scrolling, more productivity."
+msgstr ""
+
+#: website/thunderbird/115.0/whatsnew/index.html:156
+msgid "Eye-Catching Tags View"
+msgstr ""
+
+#: website/thunderbird/115.0/whatsnew/index.html:159
+msgid ""
+"Tags are a familiar and powerful part of your workflow, so Supernova adds an eye-catching “Tags” view to the\n"
+"            Folder Pane. Quickly jump to your custom, color-coded tag categories to find and filter your messages even faster."
+msgstr ""
+
+#: website/thunderbird/115.0/whatsnew/index.html:178
+msgid "Modernized Cards View"
+msgstr ""
+
+#: website/thunderbird/115.0/whatsnew/index.html:181
+msgid ""
+"Supernova’s new Card View is our version of the well-known vertical layout for the Message List, perfect for\n"
+"          people used to modern webmail. Card View emulates a mobile interface list with multi-line support, offering a more\n"
+"          comfortable appearance to reduce cognitive burden."
+msgstr ""
+
+#: website/thunderbird/115.0/whatsnew/index.html:203
+msgid "Improved Address Book"
+msgstr ""
+
+#: website/thunderbird/115.0/whatsnew/index.html:206
+msgid ""
+"Supernova continues to iterate on the modernized Address Book introduced in Thunderbird 102. You’ll enjoy a new\n"
+"          tabular view, an improved Edit view, delete buttons, and better accessibility."
+msgstr ""
+
+#: website/thunderbird/115.0/whatsnew/index.html:223
+msgid "Expanded Accessability"
+msgstr ""
+
+#: website/thunderbird/115.0/whatsnew/index.html:226
+msgid ""
+"Supernova substantially improves Thunderbird’s keyboard navigation and screen reader accessibility across the\n"
+"          entire application. We’ve also greatly expanded the ability to navigate Mail content and buttons using the TAB and\n"
+"          arrow keys."
+msgstr ""
+
+#: website/thunderbird/115.0/whatsnew/index.html:233
+msgid "Button"
+msgstr ""
+
+#: website/thunderbird/115.0/whatsnew/index.html:235
+msgid "Button 1"
+msgstr ""
+
+#: website/thunderbird/115.0/whatsnew/index.html:236
+msgid "Button 2"
+msgstr ""
+
+#: website/thunderbird/115.0/whatsnew/index.html:237
+msgid "Button 3"
+msgstr ""
+
+#: website/thunderbird/115.0/whatsnew/index.html:238
+msgid "Button 4"
+msgstr ""
+
+#: website/thunderbird/115.0/whatsnew/index.html:257
+msgid "Improved Calendar Design"
+msgstr ""
+
+#: website/thunderbird/115.0/whatsnew/index.html:260
+msgid ""
+"As part of an ongoing effort to modernize and upgrade Thunderbird’s Calendar, Supernova introduces an improved\n"
+"          “mini-month” layout, improvements to the day/week/month grid, a pleasing color palette, and several more minor changes."
+msgstr ""
+
+#: website/thunderbird/115.0/whatsnew/index.html:274
+msgid "More to come!"
+msgstr ""
+
+#: website/thunderbird/115.0/whatsnew/index.html:276
+msgid ""
+"Supernova is constantly evolving. Throughout the next year, we’ll deliver many improvements to existing Supernova\n"
+"        features and introduce brand new ones. Upgrade to version 115 and experience the future of Thunderbird!"
+msgstr ""
 
 #: website/thunderbird/68.0/whatsnew/index.html:7
 msgid "New in Thunderbird 68"
