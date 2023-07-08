@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-07-07 01:11+0000\n"
-"PO-Revision-Date: 2022-12-19 13:03+0000\n"
+"PO-Revision-Date: 2023-07-08 10:31+0000\n"
 "Last-Translator: Mikeyy <mihovil@miho.im>\n"
 "Language-Team: none\n"
 "Language: hr\n"
@@ -347,7 +347,7 @@ msgstr ""
 
 #: website/about/index.html:37 website/calendar/index.html:35
 msgid "Calendar screenshot"
-msgstr ""
+msgstr "Snimka zaslona kalendara"
 
 #: website/about/index.html:46
 msgid "Who We Are"
@@ -368,6 +368,10 @@ msgid ""
 "to learn how you can participate on the Thunderbird team. We also have paid staff working full-time on Thunderbird, <a href=\"%(donate)s\" data-donate-btn data-donate-content=\"about\">funded by "
 "donations</a> from our users. If you’re curious about who is working on Thunderbird, check out the <a href=\"%(core_team)s\">list of our core contributors</a>."
 msgstr ""
+"Postoji strastveni tim volontera koji sudjeluju u razvoju Thunderbirda i pomaganju korisnicima, a koji će pozdraviti tvoju odluku o sudjelovanju. Pogledaj našu stranicu <a "
+"href=\"%(volunteer)s\">Uključi se</a> i saznaj mugućnosti sudjelovanja u Thunderbird timu. Također imamo i plaćeno osoblje koje radi puno radno vrijeme na Thunderbirdu, a <a href=\"%(donate)s\" "
+"data-donate-btn data-donate-content=\"about\">financira se donacijama</a> naših korisnika. Ako te zanima tko radi na Thunderbirdu, pogledaj <a href=\"%(core_team)s\">popis naših glavnih "
+"suradnika</a>."
 
 #: website/about/index.html:70
 msgid "Thunderbird Council"
@@ -384,7 +388,7 @@ msgstr ""
 
 #: website/about/index.html:79
 msgid "Our Mission"
-msgstr ""
+msgstr "Naša misija"
 
 #: website/about/index.html:81
 msgid ""
@@ -423,7 +427,7 @@ msgstr "Podrška"
 
 #: website/calendar/index.html:50
 msgid "Need help with Calendar?"
-msgstr ""
+msgstr "Trebate li pomoć s kalendarom?"
 
 #: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:62
 msgid "Holiday Calendars"
@@ -451,7 +455,7 @@ msgstr "Želiš pripomoći? Ispravi grešku koja odgovara tvojim interesima."
 
 #: website/calendar/holidays/index.html:24
 msgid "Add your nation’s holidays to Calendar!"
-msgstr ""
+msgstr "Dodajte državne praznike u kalendar!"
 
 #: website/calendar/holidays/index.html:29
 #, python-format
@@ -468,7 +472,7 @@ msgstr "Kalendare na koje se možeš pretplatiti, možeš pronaći i na <a href=
 #: website/calendar/holidays/index.html:59
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
 
 #: website/calendar/holidays/index.html:61
 #, python-format
@@ -477,27 +481,27 @@ msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> praz
 
 #: website/donate/index.html:7
 msgid "Give to Thunderbird"
-msgstr ""
+msgstr "Doniraj Thunderbirdu"
 
 #: website/donate/index.html:17
 msgid "Support Thunderbird"
-msgstr ""
+msgstr "Podržite Thunderbird"
 
 #: website/donate/index.html:20 website/donate/index.html:57
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Često postavljena pitanja"
 
 #: website/donate/index.html:23 website/donate/index.html:70
 msgid "Other Ways to Give"
-msgstr ""
+msgstr "Drugi načini na koje možete sudjelovati"
 
 #: website/donate/index.html:36
 msgid "Support Thunderbird!"
-msgstr ""
+msgstr "Podržite Thunderbird!"
 
 #: website/donate/index.html:38
 msgid "Thunderbird is funded by users like you."
-msgstr ""
+msgstr "Thunderbird financiraju korisnici poput vas."
 
 #: website/donate/index.html:43
 msgid "Our mission is to provide an open source email app that is secure, private and free for users around the world. Your donations support this work. Will you give today?"
@@ -551,7 +555,7 @@ msgstr "Kanal izdanja"
 
 #: website/download/index.html:25 website/download/index.html:29 website/download/index.html:33
 msgid "Try again"
-msgstr ""
+msgstr "Pokušaj ponovno"
 
 #: website/download/index.html:28 website/includes/site-prefooter.html:40
 msgid "Beta Channel"
@@ -1113,7 +1117,7 @@ msgstr ""
 
 #: website/includes/donate-modal.html:83
 msgid "FAQ"
-msgstr ""
+msgstr "Često postavljana pitanja"
 
 #: website/includes/download-button.html:39
 #, python-format
@@ -2375,7 +2379,6 @@ msgstr "Napomene o izdanju za svaku Thunderbird verziju."
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Napomene o izdanju su specifične za svaku Thunderbird verziju. Za prikaz napomena, odaberi svoju verziju iz donjeg popisa."
 
-#, python-format
 #~ msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, thanks to %(authors)s"
 #~ msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, zahvaljujući %(authors)s"
 
@@ -2394,7 +2397,6 @@ msgstr "Napomene o izdanju su specifične za svaku Thunderbird verziju. Za prika
 #~ msgid "Right-click on this calendar and choose \"Export Calendar\". Please use the iCalendar (ics) format."
 #~ msgstr "Pritisni ovaj kalendar desnom tipkom miša i odaberi „Izvezi kalenda”. Koristi iCalendar (ics) format."
 
-#, python-format
 #~ msgid "Create a Pull Request or file an Issue on the <a href=\"%(contribute_url)s\">website repository</a> and attach your holiday file."
 #~ msgstr "Pošalji zahtjev za povlačenje ili prijavi problem u <a href=\"%(contribute_url)s\">repozitoriju web-stranice</a> i priloži datoteku praznika."
 
@@ -2410,7 +2412,6 @@ msgstr "Napomene o izdanju su specifične za svaku Thunderbird verziju. Za prika
 #~ msgid "Add your nation’s holidays to Lightning!"
 #~ msgstr "Dodaj državne praznike u Lightning!"
 
-#, python-format
 #~ msgid ""
 #~ "We’ve got some holiday calendar files available for download. You can either download and then import them into Lightning or you can just subscribe to these calendars by copying their URL and then "
 #~ "adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
