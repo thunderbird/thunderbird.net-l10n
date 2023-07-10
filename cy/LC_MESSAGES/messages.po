@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-07-07 01:11+0000\n"
-"PO-Revision-Date: 2023-07-10 09:50+0000\n"
+"PO-Revision-Date: 2023-07-10 10:03+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language-Team: none\n"
 "Language: cy\n"
@@ -1177,10 +1177,14 @@ msgid ""
 "<strong>Additionally you can</strong> give offline in USD by <a href=\"%(check)s\">mailing a check or money order</a>.<br/> <strong>Give the gift of your time!</strong> If you would like to learn "
 "how to contribute to Thunderbird in other ways such as coding, translating or testing, please visit our <a href=\"%(ways_to_help)s\">Get Involved</a> page."
 msgstr ""
+"Gallwch <a href=\"%(donate)s\">rhoi ar-lein</a> yn ddiogel gyda cherdyn credyd neu PayPal. Mae Google Pay, Apple Pay, a throsglwyddiadau banc trwy SEPA, iDEAL ac ACH hefyd ar gael ar-lein.<br/> "
+"<strong>Rhowch yn eich arian lleol!</strong> ar <a href=\"%(donate)s\"> ein ffurflen ar-lein</a>, defnyddiwch y gwymplen wrth ymyl y swm. Codir tâl arnoch yn yr arian cyfred y dewiswch ei roi ag "
+"ef.<br/> <strong>Hefyd, gallwch</strong> roi all-lein yn USD trwy <a href=\"%(check)s\">bostio siec neu archeb arian </a>.<br/> <strong>Rhowch anrheg o'ch amser!</strong> Os hoffech chi ddysgu sut i"
+" gyfrannu at Thunderbird mewn ffyrdd eraill fel codio, cyfieithu neu brofi, ewch i'n <a href=\"%(ways_to_help)s\">Cymryd Rhan</a> tudalen."
 
 #: website/includes/faq.html:26
 msgid "How do I cancel or change my recurring gift? Can I change my payment method or my donation frequency?"
-msgstr ""
+msgstr "Sut mae diddymu neu newid fy anrheg cylchol? A allaf newid fy null talu neu amlder fy rhodd?"
 
 #: website/includes/faq.html:29
 #, python-format
@@ -1188,6 +1192,8 @@ msgid ""
 "Access your donation account settings using the 'Manage My Donation' button on your recent donation confirmation email. There you can change the amount, frequency, payment method and charge date. "
 "You can also cancel your recurring donation plan. If you run into any issues you can always <a href=\"%(help)s\">contact us</a>!"
 msgstr ""
+"Ewch at osodiadau eich cyfrif rhodd gan ddefnyddio'r botwm 'Rheoli Fy Rhodd' ar eich e-bost cadarnhau rhodd diweddar. Yno gallwch newid y swm, amlder, dull talu a dyddiad codi tâl. Gallwch hefyd "
+"diddymu eich cynllun rhoddion cylchol. Os ydych chi'n dod ar draws unrhyw broblemau gallwch chi bob amser <a href=\"%(help)s\">cysylltu â ni</a>!"
 
 #: website/includes/faq.html:41
 msgid "Does my gift give me access to tech support?"
@@ -1204,7 +1210,7 @@ msgstr ""
 
 #: website/includes/faq.html:53
 msgid "How can I turn off the donation message on the Thunderbird start page?"
-msgstr ""
+msgstr "A oes modd i mi i ddiffodd yr apêl ar dudalen gychwyn Thunderbird?"
 
 #: website/includes/faq.html:56
 #, python-format
@@ -1220,10 +1226,12 @@ msgid ""
 "Gifts to Thunderbird are <strong>not tax-deductible as charitable gifts</strong>, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-"
 "platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future development."
 msgstr ""
+"Nid oes modd <strong>tynnu treth o roddion</strong> i Thunderbird, ond maen nhw'n cael eu gwerthfawrogi yn fawr. Mae rhoi i Thunderbird yn cefnogi datblygiad ein rhaglen e-bost a chalendrau traws-"
+"lwyfan cod agored blaengar, sydd am ddim at ddefnydd busnes a phersonol. Bydd eich rhodd yn helpu i sicrhau ei fod yn aros felly, a bydd yn cefnogi ei ddatblygiad i'r dyfodol."
 
 #: website/includes/faq.html:78
 msgid "How can I get a business receipt?"
-msgstr ""
+msgstr "Sut ga i dderbynneb busnes?"
 
 #: website/includes/faq.html:81
 #, python-format
@@ -1231,10 +1239,12 @@ msgid ""
 "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box 'Donate as an Organization' and include your company name. The receipt you receive to the email address used to "
 "make your contribution will include your business information."
 msgstr ""
+"Pan fyddwch yn rhoi drwy ein <a href=\"%(donate)s\">ffurflen ar-lein</a>, ticiwch y blwch 'Donate as an Organisation' a chynnwys enw eich cwmni. Bydd y dderbynneb a gewch i'r cyfeiriad e-bost a "
+"ddefnyddiwyd i wneud eich cyfraniad yn cynnwys manylion eich busnes."
 
 #: website/includes/faq.html:92
 msgid "Is my donation secure?"
-msgstr ""
+msgstr "A yw fy rhodd yn ddiogel?"
 
 #: website/includes/faq.html:95
 #, python-format
@@ -1243,6 +1253,9 @@ msgid ""
 "Your sensitive financial information never touches our servers. We send all data directly to Stripe's PCI-compliant servers through SSL. We understand that your privacy is very important. For "
 "complete information please refer to the <a href=\"%(privacy)s\">Mozilla Privacy Policy</a>."
 msgstr ""
+"Ydy, rydym yn defnyddio technoleg SSL safon y diwydiant i gadw'ch manylion yn ddiogel. Rydym yn bartner gyda Stripe, prosesydd taliadau sefydledig y diwydiant y mae rhai o gwmnïau mwyaf y byd yn "
+"ymddiried ynddo. Nid yw eich manylion ariannol sensitif byth yn cyffwrdd â'n gweinyddion. Rydym yn anfon yr holl ddata yn uniongyrchol i weinyddion sy'n cydymffurfio â PCI Stripe trwy SSL. Rydym yn "
+"deall bod eich preifatrwydd yn bwysig iawn. Am wybodaeth bellach cyfeiriwch at <a href=\"%(privacy)s\">Bolisi Preifatrwydd Mozilla</a>."
 
 #: website/includes/faq.html:107
 msgid "Why do you need my address in order to process a gift?"
@@ -1261,7 +1274,7 @@ msgstr ""
 
 #: website/includes/faq.html:123
 msgid "Are there additional fees on my donation?"
-msgstr ""
+msgstr "A oes ffioedd ychwanegol at fy rhodd?"
 
 #: website/includes/faq.html:126
 msgid ""
