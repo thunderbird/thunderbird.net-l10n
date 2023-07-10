@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-07-07 01:11+0000\n"
-"PO-Revision-Date: 2023-07-10 12:13+0000\n"
+"PO-Revision-Date: 2023-07-10 13:02+0000\n"
 "Last-Translator: Balázs Meskó <meskobalazs@mailbox.org>\n"
 "Language-Team: none\n"
 "Language: hu\n"
@@ -1246,6 +1246,9 @@ msgid ""
 "Your sensitive financial information never touches our servers. We send all data directly to Stripe's PCI-compliant servers through SSL. We understand that your privacy is very important. For "
 "complete information please refer to the <a href=\"%(privacy)s\">Mozilla Privacy Policy</a>."
 msgstr ""
+"Igen, iparági szabványnak megfelelő SSL technológiát használunk, hogy biztonságban tartsuk az adatait. Együttműködünk a Stripe-pal, az iparág bevált fizetésfeldolgozójával, amelyben a világ "
+"legnagyobb vállalatai megbíznak. Az érzékeny pénzügyi adatai sosem érintik a kiszolgálóinkat. Minden adatot közvetlenül a Stripe PCI-kompatibilis kiszolgálóinak küldünk SSL-en keresztül. Megértjük, "
+"hogy az adatvédelme nagyon fontos. A teljes részletességű információkért lásd a <a href=\"%(privacy)s\">Mozilla adatvédelmi irányelveit</a>."
 
 #: website/includes/faq.html:107
 msgid "Why do you need my address in order to process a gift?"
@@ -1265,7 +1268,7 @@ msgstr ""
 
 #: website/includes/faq.html:123
 msgid "Are there additional fees on my donation?"
-msgstr ""
+msgstr "Vannak-e további díjai az adományozásnak?"
 
 #: website/includes/faq.html:126
 msgid ""
@@ -1276,7 +1279,7 @@ msgstr ""
 
 #: website/includes/faq.html:138
 msgid "What are your transaction costs on donations?"
-msgstr ""
+msgstr "Milyen tranzakciós költségei vannak az adományozásnak?"
 
 #: website/includes/faq.html:141
 msgid ""
@@ -1288,11 +1291,11 @@ msgstr ""
 
 #: website/includes/faq.html:154
 msgid "Can I give in cryptocurrencies?"
-msgstr ""
+msgstr "Adományozhat kriptovalutában?"
 
 #: website/includes/faq.html:157
 msgid "<strong>No.</strong> We are not currently accepting cryptocurrency gifts."
-msgstr ""
+msgstr "<strong>Nem.</strong> Jelenleg nem fogadunk el kriptovalutát."
 
 #: website/includes/faq.html:165
 msgid "How will my gift be used?"
