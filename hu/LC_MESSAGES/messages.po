@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-07-10 22:59+0000\n"
-"PO-Revision-Date: 2023-07-11 14:21+0000\n"
+"PO-Revision-Date: 2023-07-11 14:33+0000\n"
 "Last-Translator: Balázs Meskó <meskobalazs@mailbox.org>\n"
 "Language-Team: none\n"
 "Language: hu\n"
@@ -705,6 +705,8 @@ msgid ""
 "                  platform for messaging and managing personal information, such as email,\n"
 "                  contacts, and appointments."
 msgstr ""
+"A Thunderbird keresztplatformos, decentralizált, nyílt szabványú kommunikációt tesz lehetővé, amely a felhasználó kezébe adja az adatai és munkafolyamatai feletti rendelkezést. Arra türkeszük, hogy "
+"interoperábilis és bővíthető nyílt forráskódú platformot kínáljunk az üzenetküldéshez és a személyes információk kezeléséhez, például az e-mailezéshez, a névjegyekhez és a találkozókhoz."
 
 #: website/calendar/index.html:8
 msgid "Organize your life — it&rsquo;s about time!"
@@ -1472,10 +1474,14 @@ msgid ""
 "<strong>Additionally you can</strong> give offline in USD by <a href=\"%(check)s\">mailing a check or money order</a>.<br/> <strong>Give the gift of your time!</strong> If you would like to learn "
 "how to contribute to Thunderbird in other ways such as coding, translating or testing, please visit our <a href=\"%(ways_to_help)s\">Get Involved</a> page."
 msgstr ""
+"Biztonságosan <a href=\"%(donate)s\">adományozhat online</a>: bankkártyával vagy PayPallal. A Google Pay, az Apple Pay, valamint a SEPA, iDEAL és ACH általi online banki átutalás is elérhető.<br/> "
+"<strong>Adakozzon a helyi pénznemében!</strong> Az <a href=\"%(donate)s\">online űrlapunkon</a> használja az összeg melletti legördülő menüt. A kiválasztott pénznemben lesz megterhelve.<br/> "
+"<strong>Továbbá</strong> USD-ben is adományozhat internetkapcsolat nélkül, <a href=\"%(check)s\">csekk vagy átutalási megbízás segítségével </a>.<br/> <strong>Ajánlja fel az idejét!</strong> Ha "
+"szeretné megtanulni, hogyan közreműködjön a Thunderbirdben más módon, például kódolással, fordítással vagy teszteléssel, akkor keresse fel a <a href=\"%(ways_to_help)s\">Vegyen részt</a> oldalt."
 
 #: website/includes/faq.html:26
 msgid "How do I cancel or change my recurring gift? Can I change my payment method or my donation frequency?"
-msgstr ""
+msgstr "Hogyan mondhatja le az ismétlődő adományát? Módosíthatja a fizetési módját vagy az adományozási gyakoriságát?"
 
 #: website/includes/faq.html:29
 #, python-format
