@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-07-10 22:59+0000\n"
-"PO-Revision-Date: 2023-07-15 17:32+0000\n"
+"PO-Revision-Date: 2023-07-15 17:38+0000\n"
 "Last-Translator: Cláudio Esperança <cesperanc@gmail.com>\n"
 "Language-Team: none\n"
 "Language: pt_PT\n"
@@ -359,6 +359,10 @@ msgid ""
 "              preferences. It is loaded with unique and powerful features. Here are just a few that people love:\n"
 "              "
 msgstr ""
+"\n"
+"              O Thunderbird é simples e elegante por predefinição, mas facilmente personalizável para corresponder com o seu ritmo de trabalho e\n"
+"              preferências visuais. Este está carregado com funcionalidades poderosas e únicas. Aqui estão apenas algumas que as pessoas adoram:\n"
+"              "
 
 #: website/index.html:184
 msgid ""
@@ -374,11 +378,11 @@ msgstr "imagem de perfil"
 
 #: website/index.html:200
 msgid "Software Developer, Austria"
-msgstr ""
+msgstr "Programador de software, Áustria"
 
 #: website/index.html:207
 msgid "unified inbox"
-msgstr ""
+msgstr "caixa de entrada unificada"
 
 #: website/index.html:214
 msgid ""
@@ -386,10 +390,13 @@ msgid ""
 "              I love the <strong>tag feature</strong>. I tag something important and find it quickly.\n"
 "              "
 msgstr ""
+"\n"
+"              Eu adoro a <strong>funcionalidade de etiquetagem</strong>. Eu marco algo como importante e consigo encontrá-lo rapidamente.\n"
+"              "
 
 #: website/index.html:229
 msgid "Computer Scientist, USA"
-msgstr ""
+msgstr "Cientista da Computação, EUA"
 
 #: website/index.html:236
 msgid ""
@@ -398,10 +405,14 @@ msgid ""
 "              <strong>Windows</strong> / <strong>Mac</strong> and <strong>Linux</strong>.\n"
 "              "
 msgstr ""
+"\n"
+"              É o primeiro programa que eu instalo em qualquer PC que eu utilizo/tenho... Eu utilizo-o no\n"
+"              <strong>Windows</strong> / <strong>Mac</strong> e <strong>Linux</strong>.\n"
+"              "
 
 #: website/index.html:252
 msgid "I.T. Manager, UK"
-msgstr ""
+msgstr "Gestor de TI, Reino Unido"
 
 #: website/index.html:259
 msgid ""
@@ -412,7 +423,7 @@ msgstr ""
 
 #: website/index.html:274
 msgid "Web Developer, Costa Rica"
-msgstr ""
+msgstr "Programador Web, Costa Rica"
 
 #: website/index.html:281
 msgid ""
@@ -423,7 +434,7 @@ msgstr ""
 
 #: website/index.html:296
 msgid "Engineer, USA"
-msgstr ""
+msgstr "Engenheiro, EUA"
 
 #: website/index.html:303
 msgid ""
@@ -434,23 +445,23 @@ msgstr ""
 
 #: website/index.html:318
 msgid "Student, UK"
-msgstr ""
+msgstr "Estudante, Reino Unido"
 
 #: website/index.html:325
 msgid "extensions"
-msgstr ""
+msgstr "extensões"
 
 #: website/index.html:332
 msgid "Explore More Features"
-msgstr ""
+msgstr "Explorar Mais Funcionalidades"
 
 #: website/index.html:343
 msgid "Are you ready to love email again?"
-msgstr ""
+msgstr "Está pronto para gostar novamente do e-mail?"
 
 #: website/index.html:372
 msgid "<span class=\"txt-gradient\">Learn</span> What’s Next"
-msgstr ""
+msgstr "<span class=\"txt-gradient\">Saiba</span> o Que Vem a Seguir"
 
 #: website/index.html:374
 msgid ""
@@ -462,7 +473,7 @@ msgstr ""
 
 #: website/index.html:385
 msgid "Subscribe"
-msgstr ""
+msgstr "Subscrever"
 
 #: website/includes/site-footer.html:66 website/index.html:394 website/newsletter/index.html:61
 #, python-format
@@ -486,11 +497,11 @@ msgstr "Siga %(linkedin)s no LinkedIn"
 
 #: website/index.html:416
 msgid "Visit Our Blog"
-msgstr ""
+msgstr "Visitar o Nosso Blogue"
 
 #: website/index.html:422
 msgid "smartphone"
-msgstr ""
+msgstr "telemóvel"
 
 #: website/old-index.html:9
 msgid "Make Email Easier."
@@ -619,7 +630,7 @@ msgstr ""
 
 #: website/about/index.html:37 website/calendar/index.html:35
 msgid "Calendar screenshot"
-msgstr ""
+msgstr "Captura de ecrã do calendário"
 
 #: website/about/index.html:46
 msgid "Who We Are"
@@ -786,12 +797,16 @@ msgstr "Ajuda ao doador"
 #: website/donate/help/index.html:27
 msgid "If you need help with a contribution to MZLA/Thunderbird, please fill out this form and a Thunderbird donor care representative will get back to you as soon as possible."
 msgstr ""
+"Se precisar de ajuda com uma contribuição para Thunderbird/MZLA Technologies, por favor, preencha este formulário e um representante da assistência ao doador do Thunderbird irá contactá-lo assim que"
+" possível."
 
 #: website/donate/help/index.html:30
 #, python-format
 msgid ""
 "Unfortunately, donor care representatives are unable to offer support or help with Thunderbird technical issues. For technical support, please visit our <a href=\"%(support_url)s\">support page.</a>"
 msgstr ""
+"Infelizmente, os representantes de assistência aos doadores não podem fornecer suporte ou ajuda com problemas técnicos do Thunderbird. Para suporte técnico, por favor, visite a nossa <a "
+"href=\"%(support_url)s\">página de apoio.</a>"
 
 #: website/donate/help/thank-you/index.html:20
 msgid "Thank you for contacting us. A case has been created for your issue and we will be in touch shortly."
@@ -844,7 +859,7 @@ msgstr "Conclua a instalação e comece a desfrutar do Thunderbird."
 #: website/download/index.html:42 website/thunderbird/102.0/beta-appeal/index.html:49
 #, python-format
 msgid "Having trouble? <a class=\"inline-link\" href=\"%(url)s\">Get help with your installation.</a>"
-msgstr ""
+msgstr "Está a ter problemas? <a class=\"inline-link\" href=\"%(url)s\">Obtenha ajuda com a sua instalação.</a>"
 
 #: website/download/beta/index.html:7 website/includes/download-button.html:59 website/includes/site-prefooter.html:66
 msgid "Thunderbird Beta"
@@ -875,6 +890,8 @@ msgid ""
 "Do you want to help the global Thunderbird community by discovering and reporting bugs? Then beta is a great choice for you, because it gets fixes and <a href=\"https://support.mozilla.org/kb/new-"
 "thunderbird-102\">new features</a> long before they reach release!"
 msgstr ""
+"Quer ajudar a comunidade global do Thunderbird descobrindo e reportando bugs? Então a versão beta é uma ótima escolha para si, porque recebe correções e <a href=\"https://support.mozilla.org/kb/new-"
+"thunderbird-102\">novos recursos</a> muito antes destes serem lançados!"
 
 #: website/download/beta/index.html:45
 msgid "Important Considerations"
@@ -1349,7 +1366,7 @@ msgstr "Não obrigado, descarregar agora!"
 
 #: website/includes/donate-modal.html:68
 msgid "Secure"
-msgstr ""
+msgstr "Seguro"
 
 #: website/includes/donate-modal.html:73
 msgid "Privacy Policy"
@@ -1357,7 +1374,7 @@ msgstr "Política de privacidade"
 
 #: website/includes/donate-modal.html:78
 msgid "Other ways to donate"
-msgstr ""
+msgstr "Outras formas para doar"
 
 #: website/includes/donate-modal.html:83
 msgid "FAQ"
@@ -1685,83 +1702,83 @@ msgstr "Por favor, inclua o seu endereço de e-mail na linha de notas do seu che
 
 #: website/includes/donor-contact/fa-body.html:14
 msgid "Contact Name"
-msgstr ""
+msgstr "Nome de Contacto"
 
 #: website/includes/donor-contact/fa-body.html:19
 msgid "Email"
-msgstr ""
+msgstr "E-mail"
 
 #: website/includes/donor-contact/fa-body.html:23
 msgid "Language"
-msgstr ""
+msgstr "Idioma"
 
 #: website/includes/donor-contact/fa-body.html:25
 msgid "Please select..."
-msgstr ""
+msgstr "Por favor, selecione..."
 
 #: website/includes/donor-contact/fa-body.html:26
 msgid "Chinese Simplified"
-msgstr ""
+msgstr "Chinês Simplificado"
 
 #: website/includes/donor-contact/fa-body.html:27
 msgid "Czech"
-msgstr ""
+msgstr "Checo"
 
 #: website/includes/donor-contact/fa-body.html:28
 msgid "Danish"
-msgstr ""
+msgstr "Dinamarquês"
 
 #: website/includes/donor-contact/fa-body.html:29
 msgid "Dutch"
-msgstr ""
+msgstr "Holandês"
 
 #: website/includes/donor-contact/fa-body.html:30
 msgid "English"
-msgstr ""
+msgstr "Inglês"
 
 #: website/includes/donor-contact/fa-body.html:31
 msgid "French"
-msgstr ""
+msgstr "Francês"
 
 #: website/includes/donor-contact/fa-body.html:32
 msgid "German"
-msgstr ""
+msgstr "Alemão"
 
 #: website/includes/donor-contact/fa-body.html:33
 msgid "Italian"
-msgstr ""
+msgstr "Italiano"
 
 #: website/includes/donor-contact/fa-body.html:34
 msgid "Japanese"
-msgstr ""
+msgstr "Japonês"
 
 #: website/includes/donor-contact/fa-body.html:35
 msgid "Other"
-msgstr ""
+msgstr "Outros"
 
 #: website/includes/donor-contact/fa-body.html:36
 msgid "Polish"
-msgstr ""
+msgstr "Polaco"
 
 #: website/includes/donor-contact/fa-body.html:37
 msgid "Portuguese"
-msgstr ""
+msgstr "Português"
 
 #: website/includes/donor-contact/fa-body.html:38
 msgid "Russian"
-msgstr ""
+msgstr "Russo"
 
 #: website/includes/donor-contact/fa-body.html:39
 msgid "Spanish"
-msgstr ""
+msgstr "Espanhol"
 
 #: website/includes/donor-contact/fa-body.html:43
 msgid "Subject"
-msgstr ""
+msgstr "Assunto"
 
 #: website/includes/donor-contact/fa-body.html:49
 msgid "Description"
-msgstr ""
+msgstr "Descrição"
 
 #: website/includes/donor-contact/fa-body.html:55
 #, python-format
@@ -1783,15 +1800,15 @@ msgstr ""
 
 #: website/includes/donor-contact/fa-body.html:76
 msgid "Submit"
-msgstr ""
+msgstr "Submeter"
 
 #: website/includes/new/site-footer.html:27
 msgid "Send DMCA Notice"
-msgstr ""
+msgstr "Enviar Aviso de DMCA"
 
 #: website/includes/new/site-footer.html:29
 msgid "Report Fraud"
-msgstr ""
+msgstr "Denunciar Fraude"
 
 #: website/includes/new/site-footer.html:34
 msgid ""
@@ -1834,7 +1851,7 @@ msgstr ""
 
 #: website/thunderbird/102.0/beta-appeal/index.html:36
 msgid "Install now!"
-msgstr ""
+msgstr "Instalar agora!"
 
 #: website/thunderbird/102.0/beta-appeal/index.html:47
 msgid "Finish installing, and start enjoying Thunderbird Beta."
@@ -1856,11 +1873,11 @@ msgstr ""
 
 #: website/thunderbird/102.0/beta-appeal/index.html:70
 msgid "February 14, 2023"
-msgstr ""
+msgstr "14 de fevereiro de 2023"
 
 #: website/thunderbird/102.0/beta-appeal/index.html:71
 msgid "Continue Reading "
-msgstr ""
+msgstr "Continuar a ler"
 
 #: website/thunderbird/102.0/beta-appeal/index.html:75 website/thunderbird/102.0/beta-appeal/index.html:76
 msgid "Why We’re Rebuilding The Thunderbird Interface From Scratch"
