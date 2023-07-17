@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-07-10 22:59+0000\n"
-"PO-Revision-Date: 2023-07-17 10:00+0000\n"
+"PO-Revision-Date: 2023-07-17 12:33+0000\n"
 "Last-Translator: Mikeyy <mihovil@miho.im>\n"
 "Language-Team: none\n"
 "Language: hr\n"
@@ -1520,10 +1520,12 @@ msgid ""
 "Gifts to Thunderbird are <strong>not tax-deductible as charitable gifts</strong>, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-"
 "platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future development."
 msgstr ""
+"Donacije za Thunderbird <strong>ne mogu se odbiti od poreza kao dobrotvorni darovi</strong>, ali su jako cijenjeni. Doniranje Thunderbirdu podržava razvoj vodećeg višeplatformskog klijenta otvorenog"
+" koda za e-poštu i kalendare, besplatnog za poslovnu i osobnu upotrebu. Vaš će dar pomoći da tako i ostane, te će podržat će budući razvoj."
 
 #: website/includes/faq.html:78
 msgid "How can I get a business receipt?"
-msgstr ""
+msgstr "Kako mogu dobiti račun?"
 
 #: website/includes/faq.html:81
 #, python-format
@@ -1531,10 +1533,12 @@ msgid ""
 "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box 'Donate as an Organization' and include your company name. The receipt you receive to the email address used to "
 "make your contribution will include your business information."
 msgstr ""
+"Kada donirate putem našeg <a href=\"%(donate)s\">obrasca</a>, jednostavno potvrdite okvir 'Doniraj kao organizacija' i upišite naziv svoje tvrtke. Potvrda koju primite na adresu e-pošte koju ste "
+"koristili za svoj doprinos uključivat će vaše poslovne podatke."
 
 #: website/includes/faq.html:92
 msgid "Is my donation secure?"
-msgstr ""
+msgstr "Je li moja donacija sigurna?"
 
 #: website/includes/faq.html:95
 #, python-format
@@ -1543,10 +1547,13 @@ msgid ""
 "Your sensitive financial information never touches our servers. We send all data directly to Stripe's PCI-compliant servers through SSL. We understand that your privacy is very important. For "
 "complete information please refer to the <a href=\"%(privacy)s\">Mozilla Privacy Policy</a>."
 msgstr ""
+"Da, koristimo standardnu SSL tehnologiju za zaštitu vaših podataka. Partneri smo sa Stripeom, etabliranim procesorom plaćanja u industriji kojem vjeruju neke od najvećih tvrtki. Vaši osjetljivi "
+"financijski podaci nikada se ne prenose na naše poslužitelje. Sve podatke šaljemo izravno na Stripeove PCI-kompatibilne poslužitelje putem SSL-a. Shvaćamo da je vaša privatnost vrlo važna. Za "
+"potpune informacije pogledajte <a href=\"%(privacy)s\">Mozilla politika privatnosti</a>."
 
 #: website/includes/faq.html:107
 msgid "Why do you need my address in order to process a gift?"
-msgstr ""
+msgstr "Zašto trebate moju adresu kako biste procesirali donaciju?"
 
 #: website/includes/faq.html:110
 #, python-format
@@ -1555,6 +1562,9 @@ msgid ""
 " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
 "href=\"%(url)s\">Privacy Policy</a>. If you would rather not fill in your information on our online form, you can mail us a <a href=\"%(check)s\">check</a>."
 msgstr ""
+"Mi razumijemo da je vaša privatnost vrlo važna. Tražimo minimalnu količinu informacija potrebnih da obradimo donacije putem kartice, uključujući i adresu za naplatu. To dopušta našem procesoru "
+"plaćanja da potvrdi vaš identitet, obradi uplatu, i spriječi prijevare. Vaše podatke držimo privatnima — ako imate pitanja, proučite našu <a href=\"%(url)s\">politiku privatnosti</a>. Ako ne želite "
+"unijeti vaše podatke u naš obrazac za donacije, možete nam poštom poslati <a href=\"%(check)s\">ček</a>."
 
 #: website/includes/faq.html:123
 msgid "Are there additional fees on my donation?"
