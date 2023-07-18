@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-07-10 22:59+0000\n"
-"PO-Revision-Date: 2023-07-18 11:31+0000\n"
+"PO-Revision-Date: 2023-07-18 11:44+0000\n"
 "Last-Translator: Mikeyy <mihovil@miho.im>\n"
 "Language-Team: none\n"
 "Language: hr\n"
@@ -1626,17 +1626,17 @@ msgstr "Thunderbird je projekt MZLA Technologies Corporation, koja je podružnic
 
 #: website/includes/faq.html:189
 msgid "Doesn’t Thunderbird earn income?"
-msgstr ""
+msgstr "Zar Thunderbird ne zarađuje?"
 
 #: website/includes/faq.html:192
 msgid ""
 "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird. Companies and individuals support the development of the product now and in the "
 "future."
-msgstr ""
+msgstr "Trenutno većina prihoda dolazi od velikodušnih darova korisnika i prijatelja Thunderbirda. Tvrtke i pojedinci podržavaju razvoj proizvoda sada i u budućnosti."
 
 #: website/includes/faq.html:201
 msgid "Who can I email directly with questions about giving?"
-msgstr ""
+msgstr "Koga mogu kontaktirati e-poštom s pitanjima o doniranju?"
 
 #: website/includes/faq.html:204
 #, python-format
@@ -1644,6 +1644,8 @@ msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. If you need technical support, please head over to <a href=\"%(support)s\">Thunderbird "
 "Support</a> for assistance."
 msgstr ""
+"Ukoliko imate pitanja o doniranju Thunderbirdu, obratite nam se putem <a href=\"%(help)s\">ovog obrasca</a>. Ako trebate tehničku podršku, obratite se <a href=\"%(support)s\">Thunderbird podršci</a>"
+" za pomoć."
 
 #: website/includes/lang_switcher.html:10
 msgid "Page language:"
@@ -1760,7 +1762,7 @@ msgstr "Preuzmi Daily"
 
 #: website/includes/ways-to-give.html:6
 msgid "Check (via postal service)"
-msgstr ""
+msgstr "Ček (putem poštanske usluge)"
 
 #: website/includes/ways-to-give.html:8
 #, python-format
@@ -1768,90 +1770,92 @@ msgid ""
 "MZLA/Thunderbird is happy to accept your donation <span class=\"%(class)s\">(made payable to “MZLA Technologies Corp”)</span> via check;\n"
 "    however please note that we can only accept checks in US dollars drawn on a US bank."
 msgstr ""
+"MZLA/Thunderbird sa zadovoljstvom prihvaća vašu donaciju <span class=\"%(class)s\">(isplativu “MZLA Technologies Corp”)</span> putem čeka;\n"
+"    međutim, imajte na umu da možemo prihvatiti samo čekove u američkim dolarima podignute u američkim bankama."
 
 #: website/includes/ways-to-give.html:17
 msgid "Please include your email address on the memo line of your check to help us track and attribute your gift."
-msgstr ""
+msgstr "Uključite svoju adresu e-pošte u bilješku vašeg čeka kako biste nam pomogli da pratimo i pripišemo vaš dar."
 
 #: website/includes/donor-contact/fa-body.html:14
 msgid "Contact Name"
-msgstr ""
+msgstr "Ime kontakta"
 
 #: website/includes/donor-contact/fa-body.html:19
 msgid "Email"
-msgstr ""
+msgstr "E-pošta"
 
 #: website/includes/donor-contact/fa-body.html:23
 msgid "Language"
-msgstr ""
+msgstr "Jezik"
 
 #: website/includes/donor-contact/fa-body.html:25
 msgid "Please select..."
-msgstr ""
+msgstr "Molimo odaberite..."
 
 #: website/includes/donor-contact/fa-body.html:26
 msgid "Chinese Simplified"
-msgstr ""
+msgstr "Pojednostavljeni kineski"
 
 #: website/includes/donor-contact/fa-body.html:27
 msgid "Czech"
-msgstr ""
+msgstr "Češki"
 
 #: website/includes/donor-contact/fa-body.html:28
 msgid "Danish"
-msgstr ""
+msgstr "Danski"
 
 #: website/includes/donor-contact/fa-body.html:29
 msgid "Dutch"
-msgstr ""
+msgstr "Nizozemski"
 
 #: website/includes/donor-contact/fa-body.html:30
 msgid "English"
-msgstr ""
+msgstr "Engleski"
 
 #: website/includes/donor-contact/fa-body.html:31
 msgid "French"
-msgstr ""
+msgstr "Francuski"
 
 #: website/includes/donor-contact/fa-body.html:32
 msgid "German"
-msgstr ""
+msgstr "Njemački"
 
 #: website/includes/donor-contact/fa-body.html:33
 msgid "Italian"
-msgstr ""
+msgstr "Talijanski"
 
 #: website/includes/donor-contact/fa-body.html:34
 msgid "Japanese"
-msgstr ""
+msgstr "Japanski"
 
 #: website/includes/donor-contact/fa-body.html:35
 msgid "Other"
-msgstr ""
+msgstr "Ostalo"
 
 #: website/includes/donor-contact/fa-body.html:36
 msgid "Polish"
-msgstr ""
+msgstr "Poljski"
 
 #: website/includes/donor-contact/fa-body.html:37
 msgid "Portuguese"
-msgstr ""
+msgstr "Portugalski"
 
 #: website/includes/donor-contact/fa-body.html:38
 msgid "Russian"
-msgstr ""
+msgstr "Ruski"
 
 #: website/includes/donor-contact/fa-body.html:39
 msgid "Spanish"
-msgstr ""
+msgstr "Španjolski"
 
 #: website/includes/donor-contact/fa-body.html:43
 msgid "Subject"
-msgstr ""
+msgstr "Naslov"
 
 #: website/includes/donor-contact/fa-body.html:49
 msgid "Description"
-msgstr ""
+msgstr "Opis"
 
 #: website/includes/donor-contact/fa-body.html:55
 #, python-format
@@ -1860,28 +1864,33 @@ msgid ""
 "            communicating with you about your request. See our <a href=\"%(privacy)s\">privacy\n"
 "              policy</a> for further information."
 msgstr ""
+"Mozilla će tvoje poslane podatke koristiti samo u svrhu komunikacije\n"
+"            s vama o vašem zahtjevu. Pogledajte našu <a href=\"%(privacy)s\">politiku\n"
+"              privatnosti</a> za dodatne informacije."
 
 #: website/includes/donor-contact/fa-body.html:69
 msgid "reCAPTCHA helps prevent automated form spam."
-msgstr ""
+msgstr "reCAPTCHA pomaže u sprječavanju neželjenog automatskog popunjavanja obrasca."
 
 #: website/includes/donor-contact/fa-body.html:71
 msgid ""
 "The submit button will be\n"
 "                disabled until you complete the CAPTCHA."
 msgstr ""
+"Tipka za slanje bit će\n"
+"                onemogućena dok ne dovršite CAPTCHA."
 
 #: website/includes/donor-contact/fa-body.html:76
 msgid "Submit"
-msgstr ""
+msgstr "Pošalji"
 
 #: website/includes/new/site-footer.html:27
 msgid "Send DMCA Notice"
-msgstr ""
+msgstr "Pošalji DMCA obavijest"
 
 #: website/includes/new/site-footer.html:29
 msgid "Report Fraud"
-msgstr ""
+msgstr "Prijavi prijevaru"
 
 #: website/includes/new/site-footer.html:34
 msgid ""
@@ -1893,20 +1902,29 @@ msgid ""
 "        </small>\n"
 "        "
 msgstr ""
+"\n"
+"        <small>\n"
+"          Thunderbird je sada dio <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a>, podružnice u potpunom vlasništvu Mozilla Foundation.\n"
+"          Dijelovi ovog sadržaja su ©1998–2023 od strane individualnih suradnika. Sadržaj dostupan pod\n"
+"          <a href=\"https://www.mozilla.org/foundation/licensing/website-content/\">Creative Commons licencom</a>.\n"
+"        </small>\n"
+"        "
 
 #: website/newsletter/index.html:19
 msgid ""
 "See exciting previews of upcoming features, read the latest desktop Thunderbird and mobile Thunderbird news, and enjoy personalized tips to protect your privacy and maximize your productivity! From "
 "the Thunderbird team directly to your inbox."
 msgstr ""
+"Pregledajte uzbudljive preglede nadolazećih značajki, pročitajte najnovije vijesti o Thunderbirdu za desktop i mobilne uređaje i uživajte u personaliziranim savjetima za zaštitu vaše privatnosti i "
+"povećanje produktivnosti! Od Thunderbird tima izravno u vaš sandučić e-pošte."
 
 #: website/newsletter/index.html:27
 msgid "View previous newsletters"
-msgstr ""
+msgstr "Pogledajte prethodne biltene"
 
 #: website/thunderbird/102.0/beta-appeal/index.html:9
 msgid "Experience The Future Of Thunderbird"
-msgstr ""
+msgstr "Doživite budućnost Thunderbirda"
 
 #: website/thunderbird/102.0/beta-appeal/index.html:27
 #, python-format
