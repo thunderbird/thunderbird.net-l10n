@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-07-10 22:59+0000\n"
-"PO-Revision-Date: 2023-08-20 17:16+0000\n"
+"PO-Revision-Date: 2023-08-24 20:05+0000\n"
 "Last-Translator: Artem Polivanchuk <a.polivanchuk@outlook.com>\n"
 "Language-Team: none\n"
 "Language: uk\n"
@@ -481,6 +481,10 @@ msgid ""
 "              informed.\n"
 "              "
 msgstr ""
+"\n"
+"              Thunderbird продовжує вдосконалюватись. Підпишіться на нашу розсилку та стежте за нами в соціальних мережах,\n"
+"              щоб бути в курсі подій.\n"
+"              "
 
 #: website/index.html:385
 msgid "Subscribe"
@@ -1492,6 +1496,8 @@ msgid ""
 "Access your donation account settings using the 'Manage My Donation' button on your recent donation confirmation email. There you can change the amount, frequency, payment method and charge date. "
 "You can also cancel your recurring donation plan. If you run into any issues you can always <a href=\"%(help)s\">contact us</a>!"
 msgstr ""
+"Отримайте доступ до налаштувань свого облікового запису помічника, натиснувши кнопку \"Керувати внесками\" у вашому останньому електронному листі з підтвердженням внеску. Там ви можете змінити суму,"
+" періодичність, спосіб оплати та дату платежу. Ви також можете скасувати свій регулярний план внесків. Якщо у вас виникнуть проблеми, ви завжди можете <a href=\"%(help)s\">зв'язатися з нами</a>!"
 
 #: website/includes/faq.html:41
 msgid "Does my gift give me access to tech support?"
@@ -1508,7 +1514,7 @@ msgstr ""
 
 #: website/includes/faq.html:53
 msgid "How can I turn off the donation message on the Thunderbird start page?"
-msgstr ""
+msgstr "Як мені вимкнути повідомлення про внесок на початковій сторінці Thunderbird?"
 
 #: website/includes/faq.html:56
 #, python-format
@@ -1524,10 +1530,12 @@ msgid ""
 "Gifts to Thunderbird are <strong>not tax-deductible as charitable gifts</strong>, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-"
 "platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future development."
 msgstr ""
+"Внески на користь Thunderbird <strong>не оподатковуються</strong>, але дуже цінуються нами. Ваші внески для Thunderbird підтримують розробку нашого провідного клієнта електронної пошти та календаря "
+"з відкритим програмним кодом для різних платформ, безплатного для бізнесу та особистого користування. Ваш внесок допоможе забезпечити його збереження та підтримає подальший розвиток."
 
 #: website/includes/faq.html:78
 msgid "How can I get a business receipt?"
-msgstr ""
+msgstr "Як я можу отримати квитанцію для бізнесу?"
 
 #: website/includes/faq.html:81
 #, python-format
@@ -1535,10 +1543,12 @@ msgid ""
 "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box 'Donate as an Organization' and include your company name. The receipt you receive to the email address used to "
 "make your contribution will include your business information."
 msgstr ""
+"Коли ви робите внесок через нашу <a href=\"%(donate)s\">онлайн-форму</a>, просто встановіть прапорець \"Внесок від організації\" та вкажіть назву своєї компанії. Квитанція, яку ви отримаєте на "
+"адресу електронної пошти, яку використовували для здійснення внеску, міститиме інформацію про вашу компанію."
 
 #: website/includes/faq.html:92
 msgid "Is my donation secure?"
-msgstr ""
+msgstr "Чи безпечний мій внесок?"
 
 #: website/includes/faq.html:95
 #, python-format
@@ -1547,6 +1557,9 @@ msgid ""
 "Your sensitive financial information never touches our servers. We send all data directly to Stripe's PCI-compliant servers through SSL. We understand that your privacy is very important. For "
 "complete information please refer to the <a href=\"%(privacy)s\">Mozilla Privacy Policy</a>."
 msgstr ""
+"Так, ми використовуємо стандартну технологію SSL для захисту вашої інформації. Ми співпрацюємо зі Stripe, відомим у галузі обробником платежів, якому довіряють одні з найбільших компаній світу. Ваша"
+" конфіденційна фінансова інформація ніколи не торкається наших серверів. Ми надсилаємо всі дані безпосередньо на PCI-сумісні сервери Stripe через SSL. Ми розуміємо, що ваша приватність дуже важлива."
+" Щоб отримати повну інформацію, перегляньте <a href=\"%(privacy)s\">Політику приватності Mozilla</a>."
 
 #: website/includes/faq.html:107
 msgid "Why do you need my address in order to process a gift?"
@@ -1566,7 +1579,7 @@ msgstr ""
 
 #: website/includes/faq.html:123
 msgid "Are there additional fees on my donation?"
-msgstr ""
+msgstr "Чи стягуються додаткові збори за мій внесок?"
 
 #: website/includes/faq.html:126
 msgid ""
@@ -1574,10 +1587,13 @@ msgid ""
 "costs on your donation. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to "
 "research any additional external taxes or fees that may be applied by regulators such as your bank or tax authority."
 msgstr ""
+"Ми не стягуємо жодних додаткових зборів чи податків. Коли ви робите внесок у своїй місцевій валюті, з вашої кредитної картки не стягується комісія за конвертування. За бажанням ви можете покрити "
+"наші трансакційні витрати своїм внеском. Це цілком добровільно, і ви можете погодитись або відмовитися, поставивши прапорець у формі внеску. Наша організація знаходиться в Сполучених Штатах. Ми "
+"заохочуємо донорів ознайомитися з будь-якими додатковими зовнішніми податками чи зборами, які можуть застосовуватися регуляторними органами, як-от вашим банком або податковою установою."
 
 #: website/includes/faq.html:138
 msgid "What are your transaction costs on donations?"
-msgstr ""
+msgstr "Які ваші трансакційні витрати на внески?"
 
 #: website/includes/faq.html:141
 msgid ""
@@ -2213,7 +2229,7 @@ msgstr ""
 
 #: website/thunderbird/115.0/whatsnew/index.html:11
 msgid "What’s New in Thunderbird 115"
-msgstr ""
+msgstr "Що нового в Thunderbird 115"
 
 #: website/thunderbird/115.0/whatsnew/index.html:17
 msgid ""
@@ -2223,20 +2239,25 @@ msgid ""
 "        <span class=\"version\">115</span>\n"
 "        <span class=\"sr-only\">Supernova</span>"
 msgstr ""
+"Що нового в\n"
+"        <br>\n"
+"        <span class=\"tb-title\">Thunderbird</span>\n"
+"        <span class=\"version\">115</span>\n"
+"        <span class=\"sr-only\">Supernova</span>"
 
 #: website/thunderbird/115.0/whatsnew/index.html:23
 msgid "Supernova wordmark"
-msgstr ""
+msgstr "Словесний знак Supernova"
 
 #: website/thunderbird/115.0/whatsnew/index.html:41 website/thunderbird/115.0/whatsnew/index.html:62 website/thunderbird/115.0/whatsnew/index.html:82 website/thunderbird/115.0/whatsnew/index.html:116
 #: website/thunderbird/115.0/whatsnew/index.html:137 website/thunderbird/115.0/whatsnew/index.html:172 website/thunderbird/115.0/whatsnew/index.html:197
 #: website/thunderbird/115.0/whatsnew/index.html:217 website/thunderbird/115.0/whatsnew/index.html:251 website/thunderbird/115.0/whatsnew/index.html:271
 msgid "A nebula of stars"
-msgstr ""
+msgstr "Скупчення зірок"
 
 #: website/thunderbird/115.0/whatsnew/index.html:48
 msgid "Dynamic Unified Toolbar"
-msgstr ""
+msgstr "Динамічна уніфікована панель інструментів"
 
 #: website/thunderbird/115.0/whatsnew/index.html:51
 msgid ""
