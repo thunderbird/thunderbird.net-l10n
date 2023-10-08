@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-07-10 22:59+0000\n"
-"PO-Revision-Date: 2023-10-08 20:53+0000\n"
+"PO-Revision-Date: 2023-10-08 20:58+0000\n"
 "Last-Translator: jlG <jlg.l10n.es@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es_ES\n"
@@ -1438,6 +1438,11 @@ msgid ""
 "<strong>Additionally you can</strong> give offline in USD by <a href=\"%(check)s\">mailing a check or money order</a>.<br/> <strong>Give the gift of your time!</strong> If you would like to learn "
 "how to contribute to Thunderbird in other ways such as coding, translating or testing, please visit our <a href=\"%(ways_to_help)s\">Get Involved</a> page."
 msgstr ""
+"Puedes <a href=\"%(donate)s\">donar en línea</a> de forma segura mediante tarjeta de crédito o PayPal. Google Pay, Apple Pay y las transferencias bancarias a través de SEPA, iDEAL y ACH también "
+"están disponibles en línea.<br/> <strong>¡Dona en tu moneda local!</strong> En <a href=\"%(donate)s\"> nuestro formulario en línea</a>, utiliza el menú desplegable al lado de la cantidad. Se te "
+"cobrará en la moneda que elijas donar.<br/> <strong>Además,</strong> puedes donar sin conexión en USD <a href=\"%(check)s\">enviando por correo un cheque o giro postal. </a>.<br/> <strong>¡Regala tu"
+" tiempo!</strong> Si deseas aprender cómo contribuir a Thunderbird de otras maneras, como programar, traducir o realizar pruebas, visita nuestra página web <a "
+"href=\"%(ways_to_help)s\">Participa</a>."
 
 #: website/includes/faq.html:26
 msgid "How do I cancel or change my recurring gift? Can I change my payment method or my donation frequency?"
@@ -1452,7 +1457,7 @@ msgstr ""
 
 #: website/includes/faq.html:41
 msgid "Does my gift give me access to tech support?"
-msgstr ""
+msgstr "¿Mi donación me da acceso a soporte técnico?"
 
 #: website/includes/faq.html:44
 #, python-format
@@ -1472,7 +1477,7 @@ msgstr ""
 
 #: website/includes/faq.html:64
 msgid "Is my gift tax deductible?"
-msgstr ""
+msgstr "¿Mi regalo es deducible de impuestos?"
 
 #: website/includes/faq.html:67
 msgid ""
@@ -1493,7 +1498,7 @@ msgstr ""
 
 #: website/includes/faq.html:92
 msgid "Is my donation secure?"
-msgstr ""
+msgstr "¿Mí donación es segura?"
 
 #: website/includes/faq.html:95
 #, python-format
@@ -1502,10 +1507,13 @@ msgid ""
 "Your sensitive financial information never touches our servers. We send all data directly to Stripe's PCI-compliant servers through SSL. We understand that your privacy is very important. For "
 "complete information please refer to the <a href=\"%(privacy)s\">Mozilla Privacy Policy</a>."
 msgstr ""
+"Sí, utilizamos tecnología SSL estándar de la industria para mantener segura tu información. Nos asociamos con Stripe, el procesador de pagos establecido en la industria en el que confían algunas de "
+"las empresas más grandes del mundo. Tu información financiera confidencial nunca toca nuestros servidores. Enviamos todos los datos directamente a los servidores compatibles con PCI de Stripe a "
+"través de SSL. Entendemos que tu privacidad es muy importante. Para obtener información completa, consulta la <a href=\"%(privacy)s\">Política de privacidad de Mozilla</a>."
 
 #: website/includes/faq.html:107
 msgid "Why do you need my address in order to process a gift?"
-msgstr ""
+msgstr "¿Por qué necesitan mi dirección para procesar una donación?"
 
 #: website/includes/faq.html:110
 #, python-format
@@ -1514,6 +1522,9 @@ msgid ""
 " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
 "href=\"%(url)s\">Privacy Policy</a>. If you would rather not fill in your information on our online form, you can mail us a <a href=\"%(check)s\">check</a>."
 msgstr ""
+"Entendemos que tu privacidad es muy importante. Solicitamos una cantidad mínima de información necesaria para procesar los pagos con tarjeta de crédito, incluidas las direcciones de facturación.  "
+"Esto permite a nuestro procesador de pagos verificar tu identidad, procesar tu pago y evitar cargos fraudulentos en tu tarjeta de crédito. Si tienes alguna duda, consulta nuestra Política de "
+"privacidad. Si prefieres no rellenar tus datos en nuestro formulario en línea, puedes enviarnos un cheque por correo."
 
 #: website/includes/faq.html:123
 msgid "Are there additional fees on my donation?"
@@ -1548,7 +1559,7 @@ msgstr ""
 
 #: website/includes/faq.html:165
 msgid "How will my gift be used?"
-msgstr ""
+msgstr "¿Cómo se utilizará mi donación?"
 
 #: website/includes/faq.html:168
 msgid ""
@@ -1558,11 +1569,11 @@ msgstr ""
 
 #: website/includes/faq.html:177
 msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
-msgstr ""
+msgstr "¿Cual es la relación de Thuntherbird con MZLA Technologies Corporation?"
 
 #: website/includes/faq.html:180
 msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a wholly owned subsidiary of Mozilla Foundation."
-msgstr ""
+msgstr "Thunderbird es un proyecto de MZLA Technologies Corporation, la cual, es una empresa subsidiaria y que pertenece completamente a Mozilla Foundation."
 
 #: website/includes/faq.html:189
 msgid "Doesn’t Thunderbird earn income?"
@@ -1719,79 +1730,79 @@ msgstr ""
 
 #: website/includes/donor-contact/fa-body.html:19
 msgid "Email"
-msgstr ""
+msgstr "Correo electrónico"
 
 #: website/includes/donor-contact/fa-body.html:23
 msgid "Language"
-msgstr ""
+msgstr "Idioma"
 
 #: website/includes/donor-contact/fa-body.html:25
 msgid "Please select..."
-msgstr ""
+msgstr "Por favor selecciona uno…"
 
 #: website/includes/donor-contact/fa-body.html:26
 msgid "Chinese Simplified"
-msgstr ""
+msgstr "Chino simplificado"
 
 #: website/includes/donor-contact/fa-body.html:27
 msgid "Czech"
-msgstr ""
+msgstr "Checo"
 
 #: website/includes/donor-contact/fa-body.html:28
 msgid "Danish"
-msgstr ""
+msgstr "Danés"
 
 #: website/includes/donor-contact/fa-body.html:29
 msgid "Dutch"
-msgstr ""
+msgstr "Neerlandés"
 
 #: website/includes/donor-contact/fa-body.html:30
 msgid "English"
-msgstr ""
+msgstr "Inglés"
 
 #: website/includes/donor-contact/fa-body.html:31
 msgid "French"
-msgstr ""
+msgstr "Francés"
 
 #: website/includes/donor-contact/fa-body.html:32
 msgid "German"
-msgstr ""
+msgstr "Alemán"
 
 #: website/includes/donor-contact/fa-body.html:33
 msgid "Italian"
-msgstr ""
+msgstr "Italiano"
 
 #: website/includes/donor-contact/fa-body.html:34
 msgid "Japanese"
-msgstr ""
+msgstr "Japonés"
 
 #: website/includes/donor-contact/fa-body.html:35
 msgid "Other"
-msgstr ""
+msgstr "Otro"
 
 #: website/includes/donor-contact/fa-body.html:36
 msgid "Polish"
-msgstr ""
+msgstr "Polaco"
 
 #: website/includes/donor-contact/fa-body.html:37
 msgid "Portuguese"
-msgstr ""
+msgstr "Portugués"
 
 #: website/includes/donor-contact/fa-body.html:38
 msgid "Russian"
-msgstr ""
+msgstr "Ruso"
 
 #: website/includes/donor-contact/fa-body.html:39
 msgid "Spanish"
-msgstr ""
+msgstr "Español"
 
 #: website/includes/donor-contact/fa-body.html:43
 msgid "Subject"
-msgstr ""
+msgstr "Asunto"
 
 #: website/includes/donor-contact/fa-body.html:49
 msgid "Description"
-msgstr ""
+msgstr "Descripción"
 
 #: website/includes/donor-contact/fa-body.html:55
 #, python-format
@@ -1813,15 +1824,15 @@ msgstr ""
 
 #: website/includes/donor-contact/fa-body.html:76
 msgid "Submit"
-msgstr ""
+msgstr "Enviar"
 
 #: website/includes/new/site-footer.html:27
 msgid "Send DMCA Notice"
-msgstr ""
+msgstr "Enviar un aviso DMCA"
 
 #: website/includes/new/site-footer.html:29
 msgid "Report Fraud"
-msgstr ""
+msgstr "Denunciar fraude"
 
 #: website/includes/new/site-footer.html:34
 msgid ""
@@ -1846,7 +1857,7 @@ msgstr ""
 
 #: website/thunderbird/102.0/beta-appeal/index.html:9
 msgid "Experience The Future Of Thunderbird"
-msgstr ""
+msgstr "Experimenta el futuro de Thunderbird"
 
 #: website/thunderbird/102.0/beta-appeal/index.html:27
 #, python-format
@@ -1872,25 +1883,27 @@ msgstr ""
 
 #: website/thunderbird/102.0/beta-appeal/index.html:57
 msgid "Learn more about Thunderbird 115 Supernova"
-msgstr ""
+msgstr "Más información sobre Thunderbird 115 Supernova"
 
 #: website/thunderbird/102.0/beta-appeal/index.html:62 website/thunderbird/102.0/beta-appeal/index.html:63
 msgid "Thunderbird 115 Supernova Preview: The New Folder Pane"
-msgstr ""
+msgstr "Vista previa de Thunderbird 115 Supernova: el nuevo panel de carpetas"
 
 #: website/thunderbird/102.0/beta-appeal/index.html:67
 msgid ""
 "Thunderbird 115 \"Supernova\" will be intuitive and welcoming to new users, while remaining familiar and comfortable for veteran users. See how we're accomplishing that balance with a preview of the"
 " new Folder Pane."
 msgstr ""
+"Thunderbird 115 \"Supernova\" será intuitivo y acogedor para los nuevos usuarios, sin dejar de ser familiar y cómodo para los usuarios veteranos. Mira cómo estamos logrando ese equilibrio con una "
+"vista previa del nuevo panel de carpetas."
 
 #: website/thunderbird/102.0/beta-appeal/index.html:70
 msgid "February 14, 2023"
-msgstr ""
+msgstr "14 de febrero de 2023"
 
 #: website/thunderbird/102.0/beta-appeal/index.html:71
 msgid "Continue Reading "
-msgstr ""
+msgstr "Seguir leyendo"
 
 #: website/thunderbird/102.0/beta-appeal/index.html:75 website/thunderbird/102.0/beta-appeal/index.html:76
 msgid "Why We’re Rebuilding The Thunderbird Interface From Scratch"
@@ -1902,15 +1915,15 @@ msgstr ""
 
 #: website/thunderbird/102.0/beta-appeal/index.html:83
 msgid "February 9, 2023"
-msgstr ""
+msgstr "9 de febrero de 2023"
 
 #: website/thunderbird/102.0/beta-appeal/index.html:84 website/thunderbird/102.0/beta-appeal/index.html:97
 msgid "Continue Reading"
-msgstr ""
+msgstr "Seguir leyendo"
 
 #: website/thunderbird/102.0/beta-appeal/index.html:88 website/thunderbird/102.0/beta-appeal/index.html:89
 msgid "Thunderbird Supernova Preview: The New Calendar Design"
-msgstr ""
+msgstr "Avance de Thunderbird Supernova: el nuevo diseño del calendario"
 
 #: website/thunderbird/102.0/beta-appeal/index.html:93
 msgid ""
@@ -1920,7 +1933,7 @@ msgstr ""
 
 #: website/thunderbird/102.0/beta-appeal/index.html:96
 msgid "November 9, 2022"
-msgstr ""
+msgstr "9 de noviembre de 2022"
 
 #: website/thunderbird/102.0/eoy/index.html:17 website/thunderbird/115.0/appeal/index.html:17
 msgid "Help Keep Thunderbird Alive!"
