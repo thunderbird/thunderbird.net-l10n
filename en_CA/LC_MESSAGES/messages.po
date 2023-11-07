@@ -2,13 +2,13 @@
 # Copyright (C) 2019 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-10-12 15:23-0700\n"
+"POT-Creation-Date: 2023-11-07 18:34+0000\n"
 "PO-Revision-Date: 2023-10-27 16:16+0000\n"
 "Last-Translator: pdehaan <pdehaan@mozilla.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,7 +30,7 @@ msgstr "Support us!"
 
 #: start-page/beta/index.html:22 start-page/release/index.html:22 start-page/release/index.html:37 website/includes/base-resp.html:30 website/includes/base-resp.html:54
 #: website/includes/donate-mailing-list.html:17 website/includes/new/page.html:26 website/includes/new/site-footer.html:12 website/index.html:41 website/index.html:361
-#: website/thunderbird/102.0/whatsnew/index.html:25 website/thunderbird/91.0/whatsnew/index.html:22
+#: website/thunderbird/102.0/whatsnew/index.html:25 website/thunderbird/115.0/eoy/index.html:34 website/thunderbird/91.0/whatsnew/index.html:22
 msgid "Donate"
 msgstr "Donate"
 
@@ -829,11 +829,11 @@ msgstr "Contributions are not tax-deductible as charitable donations."
 msgid "Donor Help"
 msgstr "Donor Help"
 
-#: website/donate/help/index.html:27
+#: website/donate/help/index.html:30
 msgid "If you need help with a contribution to MZLA/Thunderbird, please fill out this form and a Thunderbird donor care representative will get back to you as soon as possible."
 msgstr "If you need help with a contribution to MZLA/Thunderbird, please fill out this form and a Thunderbird donor care representative will get back to you as soon as possible."
 
-#: website/donate/help/index.html:30
+#: website/donate/help/index.html:33
 #, python-format
 msgid ""
 "Unfortunately, donor care representatives are unable to offer support or help with Thunderbird technical issues. For technical support, please visit our <a href=\"%(support_url)s\">support page.</a>"
@@ -1775,110 +1775,213 @@ msgstr ""
 msgid "Please include your email address on the memo line of your check to help us track and attribute your gift."
 msgstr "Please include your email address on the memo line of your cheque to help us track and attribute your gift."
 
-#: website/includes/donor-contact/fa-body.html:14
-msgid "Contact Name"
-msgstr "Contact Name"
+#: website/includes/donor-contact/fa-body.html:92 website/includes/donor-contact/fa-body.html:96
+msgid "I need"
+msgstr ""
 
-#: website/includes/donor-contact/fa-body.html:19
-msgid "Email"
-msgstr "Email"
-
-#: website/includes/donor-contact/fa-body.html:23
-msgid "Language"
-msgstr "Language"
-
-#: website/includes/donor-contact/fa-body.html:25
+#: website/includes/donor-contact/fa-body.html:98 website/includes/donor-contact/fa-body.html:244
 msgid "Please select..."
 msgstr "Please select..."
 
-#: website/includes/donor-contact/fa-body.html:26
+#: website/includes/donor-contact/fa-body.html:101
+msgid "Help with the donation form"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:104
+msgid "To change or cancel my monthly recurring donation"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:107
+msgid "To update my email address or contact info"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:110
+msgid "Help donating by bank transfer (SEPA/IBAN)"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:113
+msgid "Help donating with another currency or payment method"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:116
+msgid "A copy of my donation receipt"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:119
+msgid "A year-end donation summary"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:122
+msgid "My donation refunded"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:125
+msgid "Help with an unauthorized or fraudulent donation"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:128
+msgid "Technical support for Thunderbird"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:131
+msgid "To request a feature for Thunderbird"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:134
+msgid "To submit feedback"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:137
+msgid "Help with something else"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:145
+msgid ""
+"We truly appreciate your generous support and are happy to now offer an easier way for you to give through online bank transfer. We can accept donations via direct debit in Euros through Single "
+"European Payment Area (SEPA) transfer."
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:150
+msgid "Visit our secure online donation page to make your donation"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:153 website/includes/donor-contact/fa-body.html:161
+msgid "Still have questions? Contact us by submitting a case."
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:159
+msgid ""
+"Access your donation account settings using the '<b>Manage My Donation</b>' button on your recent donation confirmation email. There you can change the amount, frequency, payment method and charge "
+"date. You can also cancel your recurring donation plan."
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:165 website/includes/donor-contact/fa-body.html:167
+msgid "Any other details that might help"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:172 website/includes/donor-contact/fa-body.html:176
+msgid "Add a screenshot to help us with your request (optional)"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:178
+msgid "JPG, PNG and BMP files only"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:185 website/includes/donor-contact/fa-body.html:187
+msgid "Name"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:191 website/includes/donor-contact/fa-body.html:193
+msgid "Email"
+msgstr "Email"
+
+#: website/includes/donor-contact/fa-body.html:199
+#, python-format
+msgid "Thunderbird will only use your submitted information for purposes of communicating with you about your request. See our <a href=\"%(url)s\">privacy policy</a> for further information."
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:206
+msgid "We are unable to offer help with Thunderbird technical issues through the Donor Help form."
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:209
+#, python-format
+msgid "Our <a href=\"%(url)s\" target=\"_blank\">knowledge base</a> and active user community can help!"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:214
+msgid "Visit our technical support site to get more help"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:223
+#, python-format
+msgid "<a href=\"%(url)s\" target=\"_blank\">Mozilla Connect</a> is a collaborative space for ideas, feedback, and discussions that will help shape future Thunderbird product releases."
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:224
+#, python-format
+msgid "<a href=\"%(url)s\" target=\"_blank\">Submit your idea</a> and be sure to tag Thunderbird so others can find and vote on your suggestion."
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:228
+#, python-format
+msgid "For product technical support, please visit our <a href=\"%(url)s\" target=\"_blank\">support page</a>."
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:233
+#, python-format
+msgid "<a href=\"%(url)s\" target=\"_blank\">Visit Mozilla Connect to submit your idea for Thunderbird</a>"
+msgstr ""
+
+#: website/includes/donor-contact/fa-body.html:241 website/includes/donor-contact/fa-body.html:243
+msgid "Language"
+msgstr "Language"
+
+#: website/includes/donor-contact/fa-body.html:245
 msgid "Chinese Simplified"
 msgstr "Chinese Simplified"
 
-#: website/includes/donor-contact/fa-body.html:27
+#: website/includes/donor-contact/fa-body.html:246
 msgid "Czech"
 msgstr "Czech"
 
-#: website/includes/donor-contact/fa-body.html:28
+#: website/includes/donor-contact/fa-body.html:247
 msgid "Danish"
 msgstr "Danish"
 
-#: website/includes/donor-contact/fa-body.html:29
+#: website/includes/donor-contact/fa-body.html:248
 msgid "Dutch"
 msgstr "Dutch"
 
-#: website/includes/donor-contact/fa-body.html:30
+#: website/includes/donor-contact/fa-body.html:249
 msgid "English"
 msgstr "English"
 
-#: website/includes/donor-contact/fa-body.html:31
+#: website/includes/donor-contact/fa-body.html:250
 msgid "French"
 msgstr "French"
 
-#: website/includes/donor-contact/fa-body.html:32
+#: website/includes/donor-contact/fa-body.html:251
 msgid "German"
 msgstr "German"
 
-#: website/includes/donor-contact/fa-body.html:33
+#: website/includes/donor-contact/fa-body.html:252
 msgid "Italian"
 msgstr "Italian"
 
-#: website/includes/donor-contact/fa-body.html:34
+#: website/includes/donor-contact/fa-body.html:253
 msgid "Japanese"
 msgstr "Japanese"
 
-#: website/includes/donor-contact/fa-body.html:35
+#: website/includes/donor-contact/fa-body.html:254
 msgid "Other"
 msgstr "Other"
 
-#: website/includes/donor-contact/fa-body.html:36
+#: website/includes/donor-contact/fa-body.html:255
 msgid "Polish"
 msgstr "Polish"
 
-#: website/includes/donor-contact/fa-body.html:37
+#: website/includes/donor-contact/fa-body.html:256
 msgid "Portuguese"
 msgstr "Portuguese"
 
-#: website/includes/donor-contact/fa-body.html:38
+#: website/includes/donor-contact/fa-body.html:257
 msgid "Russian"
 msgstr "Russian"
 
-#: website/includes/donor-contact/fa-body.html:39
+#: website/includes/donor-contact/fa-body.html:258
 msgid "Spanish"
 msgstr "Spanish"
 
-#: website/includes/donor-contact/fa-body.html:43
-msgid "Subject"
-msgstr "Subject"
-
-#: website/includes/donor-contact/fa-body.html:49
-msgid "Description"
-msgstr "Description"
-
-#: website/includes/donor-contact/fa-body.html:55
-#, python-format
-msgid ""
-"Mozilla will only use your submitted information for purposes of\n"
-"            communicating with you about your request. See our <a href=\"%(privacy)s\">privacy\n"
-"              policy</a> for further information."
-msgstr ""
-"Mozilla will only use your submitted information for purposes of\n"
-"            communicating with you about your request. See our <a href=\"%(privacy)s\">privacy\n"
-"              policy</a> for further information."
-
-#: website/includes/donor-contact/fa-body.html:69
+#: website/includes/donor-contact/fa-body.html:271
 msgid "reCAPTCHA helps prevent automated form spam."
 msgstr "reCAPTCHA helps prevent automated form spam."
 
-#: website/includes/donor-contact/fa-body.html:71
-msgid ""
-"The submit button will be\n"
-"                disabled until you complete the CAPTCHA."
+#: website/includes/donor-contact/fa-body.html:274
+msgid "The submit button will be disabled until you complete the CAPTCHA."
 msgstr ""
-"The submit button will be\n"
-"                disabled until you complete the CAPTCHA."
 
-#: website/includes/donor-contact/fa-body.html:76
+#: website/includes/donor-contact/fa-body.html:278
 msgid "Submit"
 msgstr "Submit"
 
@@ -2236,6 +2339,49 @@ msgid ""
 msgstr ""
 "So today we’re asking for your help to keep Thunderbird alive and thriving. If you get value from using\n"
 "        Thunderbird, please consider giving a donation to support it!"
+
+#: website/thunderbird/115.0/eoy/index.html:17
+msgid "Thunderbird Everywhere!"
+msgstr ""
+
+#: website/thunderbird/115.0/eoy/index.html:26
+msgid ""
+"<span class=\"title\">Thunderbird</span>\n"
+"        <span class=\"everywhere\">Everywhere!</span>"
+msgstr ""
+
+#: website/thunderbird/115.0/eoy/index.html:29
+msgid "Help us bring Thunderbird to <span class=\"platform-gradient\">Android</span> and <span class=\"platform-gradient\">iOS.</span>"
+msgstr ""
+
+#: website/thunderbird/115.0/eoy/index.html:30
+msgid ""
+"Did you know that <strong>less than 1%</strong> of Thunderbird users fund all the work we do? We don’t show advertisements or sell your data, and we are completely funded by donations from our "
+"community."
+msgstr ""
+
+#: website/thunderbird/115.0/eoy/index.html:54
+msgid "You kept us alive - now help us thrive!"
+msgstr ""
+
+#: website/thunderbird/115.0/eoy/index.html:57
+#, python-format
+msgid ""
+"This year, we delivered outstanding visual changes in Thunderbird 115 and <a href=\"%(url)s\">other major improvements</a>. In 2024, we want to make our privacy-respecting email software available "
+"to billions. Imagine Thunderbird on your <strong>Android</strong> and <strong>iOS</strong> devices!"
+msgstr ""
+
+#: website/thunderbird/115.0/eoy/index.html:58
+msgid "<strong>We can’t do this without you!</strong> If you get value from using Thunderbird, please consider giving a donation to support this goal."
+msgstr ""
+
+#: website/thunderbird/115.0/eoy/index.html:61
+msgid "An illustration of Thunderbird on a phone, a desktop, and a tablet."
+msgstr ""
+
+#: website/thunderbird/115.0/eoy/index.html:71
+msgid "The <strong>Thunderbird</strong> Team"
+msgstr ""
 
 #: website/thunderbird/115.0/whatsnew/index.html:11
 msgid "What’s New in Thunderbird 115"
@@ -2809,6 +2955,32 @@ msgstr "Release notes for each version of Thunderbird."
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
+
+#~ msgid "Contact Name"
+#~ msgstr "Contact Name"
+
+#~ msgid "Subject"
+#~ msgstr "Subject"
+
+#~ msgid "Description"
+#~ msgstr "Description"
+
+#, python-format
+#~ msgid ""
+#~ "Mozilla will only use your submitted information for purposes of\n"
+#~ "            communicating with you about your request. See our <a href=\"%(privacy)s\">privacy\n"
+#~ "              policy</a> for further information."
+#~ msgstr ""
+#~ "Mozilla will only use your submitted information for purposes of\n"
+#~ "            communicating with you about your request. See our <a href=\"%(privacy)s\">privacy\n"
+#~ "              policy</a> for further information."
+
+#~ msgid ""
+#~ "The submit button will be\n"
+#~ "                disabled until you complete the CAPTCHA."
+#~ msgstr ""
+#~ "The submit button will be\n"
+#~ "                disabled until you complete the CAPTCHA."
 
 #~ msgid "Welcome to <div class=\"tb-text\">Thunderbird <small class=\"beta-text\">Beta</small></div>"
 #~ msgstr "Welcome to <div class=\"tb-text\">Thunderbird <small class=\"beta-text\">Beta</small></div>"
