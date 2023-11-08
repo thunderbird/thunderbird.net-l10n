@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-11-07 18:34+0000\n"
-"PO-Revision-Date: 2023-11-08 17:52+0000\n"
+"PO-Revision-Date: 2023-11-08 17:59+0000\n"
 "Last-Translator: wladow <valastiak@mozilla.sk>\n"
 "Language-Team: none\n"
 "Language: sk\n"
@@ -1822,22 +1822,24 @@ msgid ""
 "Access your donation account settings using the '<b>Manage My Donation</b>' button on your recent donation confirmation email. There you can change the amount, frequency, payment method and charge "
 "date. You can also cancel your recurring donation plan."
 msgstr ""
+"Pomocou tlačidla „<b>Spravovať môj dar</b>“ v nedávnom e‑maile s potvrdením o darovaní prejdite na nastavenia svojho darcovského účtu. Tu môžete zmeniť sumu, frekvenciu, spôsob platby a dátum "
+"účtovania. Môžete tiež zrušiť svoj plán opakovaného darovania."
 
 #: website/includes/donor-contact/fa-body.html:165 website/includes/donor-contact/fa-body.html:167
 msgid "Any other details that might help"
-msgstr ""
+msgstr "Akékoľvek ďalšie podrobnosti, ktoré by mohli pomôcť"
 
 #: website/includes/donor-contact/fa-body.html:172 website/includes/donor-contact/fa-body.html:176
 msgid "Add a screenshot to help us with your request (optional)"
-msgstr ""
+msgstr "Pridajte snímku obrazovky, ktorá nám pomôže s vašou požiadavkou (voliteľné)"
 
 #: website/includes/donor-contact/fa-body.html:178
 msgid "JPG, PNG and BMP files only"
-msgstr ""
+msgstr "Iba súbory JPG, PNG a BMP"
 
 #: website/includes/donor-contact/fa-body.html:185 website/includes/donor-contact/fa-body.html:187
 msgid "Name"
-msgstr ""
+msgstr "Meno"
 
 #: website/includes/donor-contact/fa-body.html:191 website/includes/donor-contact/fa-body.html:193
 msgid "Email"
@@ -1846,40 +1848,40 @@ msgstr "E‑mailová adresa"
 #: website/includes/donor-contact/fa-body.html:199
 #, python-format
 msgid "Thunderbird will only use your submitted information for purposes of communicating with you about your request. See our <a href=\"%(url)s\">privacy policy</a> for further information."
-msgstr ""
+msgstr "Thunderbird použije vyplnené údaje len pre účely komunikácie s vami ohľadom vašej žiadosti. Ďalšie informácie nájdete v <a href=\"%(url)s\">Zásadách ochrany osobných údajov</a>."
 
 #: website/includes/donor-contact/fa-body.html:206
 msgid "We are unable to offer help with Thunderbird technical issues through the Donor Help form."
-msgstr ""
+msgstr "Nie sme schopní ponúknuť pomoc s technickými problémami Thunderbirdu prostredníctvom formulára pomoci pre darcov."
 
 #: website/includes/donor-contact/fa-body.html:209
 #, python-format
 msgid "Our <a href=\"%(url)s\" target=\"_blank\">knowledge base</a> and active user community can help!"
-msgstr ""
+msgstr "Naša <a href=\"%(url)s\" target=\"_blank\">databáza znalostí</a> a aktívna komunita používateľov vám môžu pomôcť!"
 
 #: website/includes/donor-contact/fa-body.html:214
 msgid "Visit our technical support site to get more help"
-msgstr ""
+msgstr "Navštívte našu stránku technickej podpory a získajte ďalšiu pomoc"
 
 #: website/includes/donor-contact/fa-body.html:223
 #, python-format
 msgid "<a href=\"%(url)s\" target=\"_blank\">Mozilla Connect</a> is a collaborative space for ideas, feedback, and discussions that will help shape future Thunderbird product releases."
-msgstr ""
+msgstr "<a href=\"%(url)s\" target=\"_blank\">Mozilla Connect</a> je priestor na spoluprácu pre nápady, spätnú väzbu a diskusie, ktoré pomôžu formovať budúce vydania Thunderbirdu."
 
 #: website/includes/donor-contact/fa-body.html:224
 #, python-format
 msgid "<a href=\"%(url)s\" target=\"_blank\">Submit your idea</a> and be sure to tag Thunderbird so others can find and vote on your suggestion."
-msgstr ""
+msgstr "<a href=\"%(url)s\" target=\"_blank\">Odošlite svoj nápad</a> a nezabudnite označiť Thunderbird, aby ostatní mohli nájsť váš návrh a hlasovať o ňom."
 
 #: website/includes/donor-contact/fa-body.html:228
 #, python-format
 msgid "For product technical support, please visit our <a href=\"%(url)s\" target=\"_blank\">support page</a>."
-msgstr ""
+msgstr "Technickú podporu produktu nájdete na našej <a href=\"%(url)s\" target=\"_blank\">stránke podpory</a>."
 
 #: website/includes/donor-contact/fa-body.html:233
 #, python-format
 msgid "<a href=\"%(url)s\" target=\"_blank\">Visit Mozilla Connect to submit your idea for Thunderbird</a>"
-msgstr ""
+msgstr "<a href=\"%(url)s\" target=\"_blank\">Navštívte Mozilla Connect a odošlite svoj nápad týkajúci sa Thunderbirdu</a>."
 
 #: website/includes/donor-contact/fa-body.html:241 website/includes/donor-contact/fa-body.html:243
 msgid "Language"
@@ -1947,7 +1949,7 @@ msgstr "reCAPTCHA pomáha predchádzať automatizovanému spamovaniu cez formul�
 
 #: website/includes/donor-contact/fa-body.html:274
 msgid "The submit button will be disabled until you complete the CAPTCHA."
-msgstr ""
+msgstr "Tlačidlo Odoslať nebude dostupné, kým nedokončíte CAPTCHA."
 
 #: website/includes/donor-contact/fa-body.html:278
 msgid "Submit"
@@ -2298,27 +2300,31 @@ msgstr "Takže dnes vás žiadame o pomoc, aby Thunderbird zostal nažive a pros
 
 #: website/thunderbird/115.0/eoy/index.html:17
 msgid "Thunderbird Everywhere!"
-msgstr ""
+msgstr "Thunderbird všade!"
 
 #: website/thunderbird/115.0/eoy/index.html:26
 msgid ""
 "<span class=\"title\">Thunderbird</span>\n"
 "        <span class=\"everywhere\">Everywhere!</span>"
 msgstr ""
+"<span class=\"title\">Thunderbird</span>\n"
+"        <span class=\"everywhere\">všade!</span>"
 
 #: website/thunderbird/115.0/eoy/index.html:29
 msgid "Help us bring Thunderbird to <span class=\"platform-gradient\">Android</span> and <span class=\"platform-gradient\">iOS.</span>"
-msgstr ""
+msgstr "Pomôžte nám uviesť Thunderbird do systémov <span class=\"platform-gradient\">Android</span> a <span class=\"platform-gradient\">iOS</span>."
 
 #: website/thunderbird/115.0/eoy/index.html:30
 msgid ""
 "Did you know that <strong>less than 1%</strong> of Thunderbird users fund all the work we do? We don’t show advertisements or sell your data, and we are completely funded by donations from our "
 "community."
 msgstr ""
+"Vedeli ste, že <strong>menej ako 1 %</strong> používateľov Thunderbirdu financuje všetku prácu, ktorú robíme? Nezobrazujeme reklamy ani nepredávame vaše údaje a sme úplne financovaní z darov našej "
+"komunity."
 
 #: website/thunderbird/115.0/eoy/index.html:54
 msgid "You kept us alive - now help us thrive!"
-msgstr ""
+msgstr "Udržali ste nás nažive – teraz nám pomôžte prosperovať!"
 
 #: website/thunderbird/115.0/eoy/index.html:57
 #, python-format
@@ -2326,10 +2332,12 @@ msgid ""
 "This year, we delivered outstanding visual changes in Thunderbird 115 and <a href=\"%(url)s\">other major improvements</a>. In 2024, we want to make our privacy-respecting email software available "
 "to billions. Imagine Thunderbird on your <strong>Android</strong> and <strong>iOS</strong> devices!"
 msgstr ""
+"Tento rok sme sprístupnili vynikajúce vizuálne zmeny a <a href=\"%(url)s\">iné významné vylepšenia</a> v Thunderbirde 115. V roku 2024 chceme náš e‑mailový softvér rešpektujúci súkromie sprístupniť "
+"miliardám ľudí. Predstavte si Thunderbird na svojich zariadeniach <strong>Android</strong> a <strong>iOS</strong>!"
 
 #: website/thunderbird/115.0/eoy/index.html:58
 msgid "<strong>We can’t do this without you!</strong> If you get value from using Thunderbird, please consider giving a donation to support this goal."
-msgstr ""
+msgstr "<strong>Bez vás to však nedokážeme!</strong> Ak máte z používania Thunderbirdu hodnotu, zvážte darovanie príspevku na podporu tohto cieľa."
 
 #: website/thunderbird/115.0/eoy/index.html:61
 msgid "An illustration of Thunderbird on a phone, a desktop, and a tablet."
