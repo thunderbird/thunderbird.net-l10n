@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-11-07 18:34+0000\n"
-"PO-Revision-Date: 2023-11-16 11:50+0000\n"
+"PO-Revision-Date: 2023-11-16 12:00+0000\n"
 "Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
 "Language-Team: none\n"
 "Language: sq\n"
@@ -702,6 +702,13 @@ msgid ""
 "                  while  protecting our privacy, enhancing our productivity and serving as a\n"
 "                  platform for current and future forms of messaging."
 msgstr ""
+"Email-i ka qenë dhe vazhdon të jetë mjeti themelor i komunikimit\n"
+"                  dhe një shtyrë domethënëse e lirive në Internet. Por është gjithashtu\n"
+"                  i kërcënuar nga platforma të reja mesazhesh, jo të bazuara në standarde,\n"
+"                  të mbyllura dhe të centralizuara. Për të penguar këtë erozion, publiku meriton\n"
+"                  një alternativë që është e siguruar dhe e besueshme,\n"
+"                  teksa mbron privatësinë tonë, zgjeron aftësitë tona produktive dhe shërben si\n"
+"                  një platformë për format e tanishme dhe të ardhshme të shkëmbimit të mesazheve."
 
 #: website/about/index.html:90
 msgid ""
@@ -775,7 +782,7 @@ msgstr "Kalendarë për t’u pajtuar mund të gjeni edhe te <a href=\"%s\">iCal
 #: website/calendar/holidays/index.html:59
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
 
 #: website/calendar/holidays/index.html:61
 #, python-format
@@ -1479,10 +1486,15 @@ msgid ""
 "<strong>Additionally you can</strong> give offline in USD by <a href=\"%(check)s\">mailing a check or money order</a>.<br/> <strong>Give the gift of your time!</strong> If you would like to learn "
 "how to contribute to Thunderbird in other ways such as coding, translating or testing, please visit our <a href=\"%(ways_to_help)s\">Get Involved</a> page."
 msgstr ""
+"Mund të <a href=\"%(donate)s\">dhuroni në internet</a>, në mënyrë të siguruar, me kartë krediti, ose PayPal. Google Pay, Apple Pay dhe janë të mundshme në internet shpërnguljet bankare përmes SEPA, "
+"iDEAL dhea ACH.<br/> <strong>Jepni në monedhën tuaj vendore!</strong> Te <a href=\"%(donate)s\">formulari ynë internetor</a>, përdorni menunë hap-mbyll në krah të sasisë. Faturimi do t’ju bëhet në "
+"monedhën që zgjidhni.<br/> <strong>Veç këtyre, mundeni të </strong> dhuroni jashtë interneti,  në dollarë amerikanë, duke <a href=\"%(check)s\">na postuar një çek, ose një dërgesë postare</a>.<br/> "
+"<strong>Give the gift of your time!</strong> Nëse do të donit të mësonit si të kontribuoni në Thunderbird në rrugë të tjera, f.v., kodim, përkthim, ose testim, vizitoni faqen tonë <a "
+"href=\"%(ways_to_help)s\">Përfshihuni</a>."
 
 #: website/includes/faq.html:26
 msgid "How do I cancel or change my recurring gift? Can I change my payment method or my donation frequency?"
-msgstr ""
+msgstr "Si mund ta anuloj, apo ta ndryshoj dhurimin tim ripërsëritës? A mund të ndryshoj metodë pagese, apo shpeshti dhurimi?"
 
 #: website/includes/faq.html:29
 #, python-format
@@ -1525,7 +1537,7 @@ msgstr ""
 
 #: website/includes/faq.html:78
 msgid "How can I get a business receipt?"
-msgstr ""
+msgstr "Si mund të marr një dëftesë biznesi?"
 
 #: website/includes/faq.html:81
 #, python-format
