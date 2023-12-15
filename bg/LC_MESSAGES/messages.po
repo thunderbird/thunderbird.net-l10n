@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-11-07 18:34+0000\n"
-"PO-Revision-Date: 2023-12-13 08:40+0000\n"
+"PO-Revision-Date: 2023-12-15 07:28+0000\n"
 "Last-Translator: Bogomil Shopov - Бого <shopov.bogomil@gmail.com>\n"
 "Language-Team: none\n"
 "Language: bg\n"
@@ -1036,10 +1036,12 @@ msgid ""
 "This choice has the advantage of forcing a <a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-thunderbird-installation\">dedicated profile</a> for each Thunderbird, which allows you to"
 " have both the release version and the beta version operate independently. So you can:"
 msgstr ""
+"Този избор има предимството да налага <a href=\"https://support.mozilla.org/bg/kb/dedicated-profile-thunderbird-installation\">специален профил</a> за всеки Thunderbird, което позволява да накарате "
+"и стабилната версия, и бета версията да работят независимо, като:"
 
 #: website/download/beta/index.html:89
 msgid "Start the <b>release</b> version of Thunderbird (with beta not running) and it will use the <b>\"default\" (or default-release)</b> profile."
-msgstr ""
+msgstr "Стартирайте <b>стабилната</b> версия на Thunderbird (с бета версия, която не работи) и тя ще използва профила <b>\"по подразбиране\" </b>."
 
 #: website/download/beta/index.html:90
 msgid ""
@@ -1047,10 +1049,13 @@ msgid ""
 " and it will prompt you to define your accounts. If you need to bring some data from your release profile into the beta profile, consult the <a href=\"https://support.mozilla.org/kb/thunderbird-"
 "beta\">beta support article.</a>"
 msgstr ""
+"Стартирайте <b>бета</b> версията на Thunderbird (със стабилна версия, която не работи) и тя ще използва профила <b>default-beta</b>. При първо използване Thunderbird ще създаде <b>default-beta</b> и"
+" ще ви подкани да дефинирате вашите регистрации. Ако трябва да пренесете някои данни от вашия профил на версия в бета профила, вижте <a href=\"https://support.mozilla.org/kb/thunderbird-"
+"beta\">статията за поддръжка на бета.</a>"
 
 #: website/download/beta/index.html:92
 msgid "Upgrade your existing Thunderbird installation to beta."
-msgstr ""
+msgstr "Надстройте вашата съществуваща инсталация на Thunderbird до бета."
 
 #: website/download/beta/index.html:94
 msgid ""
@@ -1058,16 +1063,21 @@ msgid ""
 " profile, this choice makes it more difficult to switch back to using a release version should you wish to do so in the future. In other words, you should not switch back and forth between beta and "
 "normal release using the same profile."
 msgstr ""
+"Просто инсталирайте бета версията върху текущата си програмна директория, като използвате опциите за инсталиране по подразбиране. Тогава бета ще <u>използва текущия ви (производствен) профил по "
+"подразбиране</u>. Тъй като използва вашия профил по подразбиране, този избор прави по-трудно превключването към използване на стабилното издание, ако искате да го направите в бъдеще. С други думи, "
+"не трябва да превключвате напред и назад между бета и нормално издание, като използвате един и същ профил."
 
 #: website/download/beta/index.html:97
 msgid "For very detailed information about both methods, please check the <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">beta support article.</a>"
-msgstr ""
+msgstr "За много подробна информация и за двата метода, моля, проверете <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">статията за бета поддръжка.</a>"
 
 #: website/download/beta/index.html:112
 msgid ""
 "If you installed the beta over the top of the release version (choice 2 above), then your process will be more complicated. Please consult this <a href=\"https://support.mozilla.org/kb/thunderbird-"
 "beta\">beta support article.</a>"
 msgstr ""
+"Ако сте инсталирали бета версията върху стабилната версия (избор 2 по-горе), тогава вашият процес ще бъде по-сложен. Моля, направете справка с тази <a "
+"href=\"https://support.mozilla.org/kb/thunderbird-beta\">статия за бета поддръжка.</a>"
 
 #: website/download/beta/index.html:115
 msgid ""
@@ -1075,6 +1085,9 @@ msgid ""
 " profile per Thunderbird</a>, then start the release version of Thunderbird and it should use your release version profile data. If you no longer want to use the beta version, and do not need any of"
 " the beta data (address books, local folders, pop folders, etc), and wish to remove the beta data and beta program from your system:"
 msgstr ""
+"Ако сте инсталирали бета програмата в нейната собствена програмна директория (избор 1 по-горе) и сте използвали <a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-thunderbird-"
+"installation\"> специален профил за Thunderbird</a>, можете да стартирате изданието  на Thunderbird, което да използва данните от профила на вашата версия. Ако вече не искате да използвате бета "
+"версията и не се нуждаете от бета данните (адресни книги, локални папки, изскачащи папки и т.н.) и искате да премахнете бета данните и бета програмата от вашата система, направете следното:"
 
 #: website/download/beta/index.html:118
 msgid "Start the release version of Thunderbird to use the <a href=\"https://support.mozilla.org/kb/profile-manager-create-and-remove-thunderbird-profiles\">profile manager.</a>"
