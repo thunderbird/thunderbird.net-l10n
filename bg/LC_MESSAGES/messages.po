@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-11-07 18:34+0000\n"
-"PO-Revision-Date: 2023-12-27 11:20+0000\n"
+"PO-Revision-Date: 2023-12-27 12:50+0000\n"
 "Last-Translator: Bogomil Shopov - Бого <shopov.bogomil@gmail.com>\n"
 "Language-Team: none\n"
 "Language: bg\n"
@@ -1420,7 +1420,7 @@ msgstr "Бъдете в крак с последните новости, въз�
 
 #: website/includes/donate-modal.html:36
 msgid "Pay What You Want"
-msgstr ""
+msgstr "Платете, колкото искате"
 
 #: website/includes/donate-modal.html:40
 msgid "Thunderbird is independent, free, and Open Source software sustained by your donations. Help us keep the project alive!"
@@ -1428,27 +1428,27 @@ msgstr "Thunderbird е независим, свободен софтуер с о
 
 #: website/includes/donate-modal.html:50
 msgid "Donate & Download"
-msgstr ""
+msgstr "Дарете и изтеглете"
 
 #: website/includes/donate-modal.html:53
 msgid "No Thanks, Download Now!"
-msgstr ""
+msgstr "Не, благодаря! Сега само ще изтегля!"
 
 #: website/includes/donate-modal.html:68
 msgid "Secure"
-msgstr ""
+msgstr "Защитен"
 
 #: website/includes/donate-modal.html:73
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Политика за поверителност"
 
 #: website/includes/donate-modal.html:78
 msgid "Other ways to donate"
-msgstr ""
+msgstr "Други начини за дарение"
 
 #: website/includes/donate-modal.html:83
 msgid "FAQ"
-msgstr ""
+msgstr "Въпроси и отговори"
 
 #: website/includes/download-button.html:39
 #, python-format
@@ -1478,7 +1478,7 @@ msgstr "Лични данни"
 
 #: website/includes/faq.html:7
 msgid "What are the ways I can give?"
-msgstr ""
+msgstr "Какви са начините, по които мога да даря?"
 
 #: website/includes/faq.html:10
 #, python-format
@@ -1543,7 +1543,7 @@ msgstr ""
 
 #: website/includes/faq.html:78
 msgid "How can I get a business receipt?"
-msgstr ""
+msgstr "Как мога да получа бизнес разписка?"
 
 #: website/includes/faq.html:81
 #, python-format
@@ -1551,6 +1551,8 @@ msgid ""
 "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box 'Donate as an Organization' and include your company name. The receipt you receive to the email address used to "
 "make your contribution will include your business information."
 msgstr ""
+"Когато дарите чрез нашия <a href=\"%(donate)s\">онлайн формуляр</a>, просто поставете отметка в квадратчето „Дарете като организация“ и включете името на вашата компания. Разписката, която "
+"получавате на имейл адреса, използван, за да направите своя принос, ще включва всичко необходимо."
 
 #: website/includes/faq.html:92
 msgid "Is my donation secure?"
@@ -1563,6 +1565,9 @@ msgid ""
 "Your sensitive financial information never touches our servers. We send all data directly to Stripe's PCI-compliant servers through SSL. We understand that your privacy is very important. For "
 "complete information please refer to the <a href=\"%(privacy)s\">Mozilla Privacy Policy</a>."
 msgstr ""
+"Да, ние използваме стандартна за индустрията SSL технология, за да защитим вашата информация. Партнираме си със Stripe, утвърден от индустрията процесор за обработка на плащания,   на който се "
+"доверяват някои от най-големите компании в света.  Вашата чувствителна финансова информация никога не се обработва от нашите сървъри. Ние изпращаме всички данни директно към PCI-съвместимите сървъри"
+" на Stripe чрез SSL. Разбираме, че вашата поверителност е много важна. За пълна информация, моля, вижте <a href=\"%(privacy)s\">Декларацията за поверителност на Mozilla</a>."
 
 #: website/includes/faq.html:107
 msgid "Why do you need my address in order to process a gift?"
