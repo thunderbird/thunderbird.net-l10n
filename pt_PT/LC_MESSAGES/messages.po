@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-11-07 18:34+0000\n"
-"PO-Revision-Date: 2023-12-30 21:27+0000\n"
+"PO-Revision-Date: 2023-12-30 21:40+0000\n"
 "Last-Translator: Cláudio Esperança <cesperanc@gmail.com>\n"
 "Language-Team: none\n"
 "Language: pt_PT\n"
@@ -1029,16 +1029,21 @@ msgid ""
 "Thunderbird 102 and newer on Windows will install beta into its own program directory. For older versions on Windows consult the <a href=\"https://support.mozilla.org/en-US/kb/thunderbird-"
 "beta\">beta support article</a>. For other operating systems use an install method appropriate for your OS to target a uniquely named directory."
 msgstr ""
+"O Thunderbird 102 e as versões mais recentes no Windows serão instalados no seu próprio diretório da aplicação. Para versões mais antigas no Windows, consulte o <a "
+"href=\"https://support.mozilla.org/en-US/kb/thunderbird-beta\">artigo de suporte beta</a>. Para outros sistemas operativos, utilize um método de instalação apropriado para o seu SO para apontar para"
+" um diretório com um nome único."
 
 #: website/download/beta/index.html:86
 msgid ""
 "This choice has the advantage of forcing a <a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-thunderbird-installation\">dedicated profile</a> for each Thunderbird, which allows you to"
 " have both the release version and the beta version operate independently. So you can:"
 msgstr ""
+"Esta opção tem a vantagem de forçar um <a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-thunderbird-installation\">perfil dedicado</a> para cada Thunderbird, o que permite que tenha "
+"a versão de lançamento e a versão beta a funcionar de forma independente. Então você pode:"
 
 #: website/download/beta/index.html:89
 msgid "Start the <b>release</b> version of Thunderbird (with beta not running) and it will use the <b>\"default\" (or default-release)</b> profile."
-msgstr ""
+msgstr "Inicie a versão de <b>lançamento</b> do Thunderbird (sem a beta em execução) e esta utilizará o perfil <b>\"default\" (ou default-release)</b>."
 
 #: website/download/beta/index.html:90
 msgid ""
@@ -1046,6 +1051,9 @@ msgid ""
 " and it will prompt you to define your accounts. If you need to bring some data from your release profile into the beta profile, consult the <a href=\"https://support.mozilla.org/kb/thunderbird-"
 "beta\">beta support article.</a>"
 msgstr ""
+"Inicie a versão <b>beta</b> do Thunderbird (sem que a versão de lançamento esteja em execução) e esta irá utilizar o perfil <b>default-beta</b>. Na primeira utilização, o Thunderbird criará o perfil"
+" <b>default-beta</b> e solicitará que você defina as suas contas. Se precisar de migrar alguns dados do seu perfil de lançamento para o perfil beta, consulte o <a "
+"href=\"https://support.mozilla.org/kb/thunderbird-beta\">artigo de suporte beta.</a>"
 
 #: website/download/beta/index.html:92
 msgid "Upgrade your existing Thunderbird installation to beta."
@@ -1057,16 +1065,21 @@ msgid ""
 " profile, this choice makes it more difficult to switch back to using a release version should you wish to do so in the future. In other words, you should not switch back and forth between beta and "
 "normal release using the same profile."
 msgstr ""
+"Simplesmente instale o beta por cima do seu diretório de programa atual, utilizando as escolhas predefinidas do instalador. O beta irá então <u>utilizar o seu perfil predefinido atual (de "
+"produção)</u>. Devido à utilização do seu perfil predefinido, esta escolha torna mais difícil voltar a usar uma versão de lançamento caso deseje fazê-lo no futuro. Por outras palavras, não deve "
+"alternar entre o beta e a versão normal de lançamento usando o mesmo perfil."
 
 #: website/download/beta/index.html:97
 msgid "For very detailed information about both methods, please check the <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">beta support article.</a>"
-msgstr ""
+msgstr "Para obter informações detalhadas sobre ambos os métodos, consulte o <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">artigo de suporte beta.</a>"
 
 #: website/download/beta/index.html:112
 msgid ""
 "If you installed the beta over the top of the release version (choice 2 above), then your process will be more complicated. Please consult this <a href=\"https://support.mozilla.org/kb/thunderbird-"
 "beta\">beta support article.</a>"
 msgstr ""
+"Se você instalou o beta por cima da versão de lançamento (opção 2 acima), então o seu processo será mais complicado. Consulte este <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">artigo "
+"de suporte beta.</a>"
 
 #: website/download/beta/index.html:115
 msgid ""
@@ -2507,11 +2520,11 @@ msgstr ""
 
 #: website/thunderbird/115.0/whatsnew/index.html:269
 msgid "The improved calendar"
-msgstr ""
+msgstr "O calendário melhorado"
 
 #: website/thunderbird/115.0/whatsnew/index.html:278
 msgid "More to come!"
-msgstr ""
+msgstr "Mais por vir!"
 
 #: website/thunderbird/115.0/whatsnew/index.html:280
 msgid ""
