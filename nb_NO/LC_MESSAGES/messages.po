@@ -2,14 +2,14 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-11-07 18:34+0000\n"
-"PO-Revision-Date: 2022-10-25 12:33+0000\n"
-"Last-Translator: Håvar Henriksen <havar@firefox.no>\n"
+"PO-Revision-Date: 2023-10-06 12:28+0000\n"
+"Last-Translator: Rune Pune <rune.h.beisland@gmail.com>\n"
 "Language-Team: none\n"
 "Language: nb_NO\n"
 "MIME-Version: 1.0\n"
@@ -24,9 +24,8 @@ msgid "Welcome to <div class=\"tb-text\">Thunderbird <small class=\"accent-text\
 msgstr ""
 
 #: start-page/beta/index.html:19 start-page/release/index.html:19
-#, fuzzy
 msgid "Support us!"
-msgstr "Få hjelp"
+msgstr "Støtt oss!"
 
 #: start-page/beta/index.html:22 start-page/release/index.html:22 start-page/release/index.html:37 website/includes/base-resp.html:30 website/includes/base-resp.html:54
 #: website/includes/donate-mailing-list.html:17 website/includes/new/page.html:26 website/includes/new/site-footer.html:12 website/index.html:41 website/index.html:361
@@ -36,11 +35,11 @@ msgstr "Donasjon"
 
 #: start-page/beta/index.html:31
 msgid "Warning!"
-msgstr ""
+msgstr "Advarsel!"
 
 #: start-page/beta/index.html:32
 msgid "Beta can be unstable, and there is potential to lose data."
-msgstr ""
+msgstr "Beta kan være ustabil, og du kan miste data."
 
 #: start-page/beta/index.html:36
 msgid "Protect your data and other best practices."
@@ -78,9 +77,8 @@ msgid "Beta Discussion Group"
 msgstr ""
 
 #: start-page/beta/index.html:72 start-page/release/index.html:45
-#, fuzzy
 msgid "Help"
-msgstr "Få hjelp"
+msgstr "Hjelp"
 
 #: start-page/beta/index.html:74
 msgid ""
@@ -2741,7 +2739,6 @@ msgstr "Versjonsnotat for hver versjon av Thunderbird."
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Thunderbird-versjonsnotater er spesifikke for hver versjon av programmet. Velg din versjon fra listen nedenfor for å se versjonsnotatene for den."
 
-#, python-format
 #~ msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, thanks to %(authors)s"
 #~ msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> %(title)s, takk til %(authors)s"
 
@@ -2760,7 +2757,6 @@ msgstr "Thunderbird-versjonsnotater er spesifikke for hver versjon av programmet
 #~ msgid "Right-click on this calendar and choose \"Export Calendar\". Please use the iCalendar (ics) format."
 #~ msgstr "Høyreklikk på denne kalenderen og velg «Eksporter kalender». Bruk iCalendar-formatet (ics)."
 
-#, python-format
 #~ msgid "Create a Pull Request or file an Issue on the <a href=\"%(contribute_url)s\">website repository</a> and attach your holiday file."
 #~ msgstr "Opprett en pull-forespørsel eller opprett en feilrapport i <a href=\"%(contribute_url)s\">nettstedets kodelager</a> og legg til filen med helligdager."
 
@@ -2776,7 +2772,6 @@ msgstr "Thunderbird-versjonsnotater er spesifikke for hver versjon av programmet
 #~ msgid "Add your nation’s holidays to Lightning!"
 #~ msgstr "Legg til helligdagskalender for ditt land i Lightning!"
 
-#, python-format
 #~ msgid ""
 #~ "We’ve got some holiday calendar files available for download. You can either download and then import them into Lightning or you can just subscribe to these calendars by copying their URL and then "
 #~ "adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
