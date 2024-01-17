@@ -3,14 +3,14 @@
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
 # taotieren <admin@taotieren.com>, 2019.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-17 15:07-0800\n"
-"PO-Revision-Date: 2024-01-14 14:23+0000\n"
-"Last-Translator: Olvcpr423 <oliverchan86@outlook.com>\n"
+"PO-Revision-Date: 2024-01-17 23:17+0000\n"
+"Last-Translator: Google Translate <pontoon-gt@example.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -1375,6 +1375,8 @@ msgid ""
 "to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
 "Communications & Cookies Privacy Notice</a>."
 msgstr ""
+"我们理解您的隐私非常重要 -- 我们对此深信不疑这是我们 Thunderbird 和 Mozilla 的核心价值观。您的地址是我们在<a href=\"%(url)s\">隐私政策</a>中列出的付款处理、联系方式和捐赠信息的一部分。此数据用于付款处理、交易收据、欺诈检测和记录目的。如果您想了解我们会收到哪些个人信息、我们信任哪些第三方供应商以及我们将您的数据保留多久请参阅我们的<a "
+"href=\"%(website_privacy)s\">网站、通信和服务Cookie 隐私声明</a>。"
 
 #: website/includes/faq.html:56
 msgid "Does my gift give me access to tech support?"
@@ -1458,14 +1460,14 @@ msgstr ""
 
 #: website/includes/faq.html:153
 msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
-msgstr ""
+msgstr "为什么单次捐款在 SEPA 命令中显示为重复发生"
 
 #: website/includes/faq.html:156
 msgid ""
 "When making a one-time gift through SEPA direct debit, you may notice a mention of recurrent transactions. This is because our payment processor Stripe only supports recurring transactions for this "
 "type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
 "official donation receipt that will clearly reflect the one-time donation."
-msgstr ""
+msgstr "在通过 SEPA 直接付款一次性捐赠时您可能会注意到对重复交易的提及。这是因为我们的支付处理商 Stripe 仅支持此类支付的重复交易。无论怎样我们只会向您收费一次并且不会在未经您授权的情况下通过您的账户进一步付款。授权完成后您将收到正式的捐款收据其中将清楚反映出您的一次性捐款。"
 
 #: website/includes/faq.html:164
 msgid "Can I give in cryptocurrencies?"
@@ -1636,15 +1638,15 @@ msgstr "请在支票备注栏注明您的电子邮件地址，以帮助我们能
 
 #: website/includes/ways-to-give.html:20
 msgid "IBAN (via SEPA bank transfer)"
-msgstr ""
+msgstr "IBAN通过 SEPA 银行转账"
 
 #: website/includes/ways-to-give.html:43
 msgid "Minimum donation amount: €20"
-msgstr ""
+msgstr "最低捐款金额20 欧元"
 
 #: website/includes/ways-to-give.html:44
 msgid "Please note that due to the limited contact information we receive during the transfer process, we are unable to issue donation receipts."
-msgstr ""
+msgstr "请注意由于转账过程中我们收到的联系信息有限我们无法开具捐款收据。"
 
 #: website/includes/donor-contact/fa-body.html:92 website/includes/donor-contact/fa-body.html:96
 msgid "I need"
@@ -2721,7 +2723,6 @@ msgstr "每个版本的 Thunderbird 发行说明。"
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Thunderbird 每个版本均有发行说明。请从下方列表中选择您的版本，阅读该版本的发行说明。"
 
-#, python-format
 #~ msgid ""
 #~ "We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
 #~ " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
