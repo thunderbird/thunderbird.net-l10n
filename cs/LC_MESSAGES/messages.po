@@ -2,14 +2,14 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-17 15:07-0800\n"
-"PO-Revision-Date: 2023-11-08 19:43+0000\n"
-"Last-Translator: Pavel Cvrček <jasnapaka@jasnapaka.com>\n"
+"PO-Revision-Date: 2024-01-17 23:18+0000\n"
+"Last-Translator: Google Translate <pontoon-gt@example.com>\n"
 "Language-Team: none\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -1461,6 +1461,10 @@ msgid ""
 "to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
 "Communications & Cookies Privacy Notice</a>."
 msgstr ""
+"Chápeme, že vaše soukromí je velmi důležité -- souhlasíme a to je v Thunderbirdu a Mozille hlavní hodnotou. Vaše adresa je součástí našich kontaktních údajů pro zpracování plateb, darů a údajů, "
+"které jsou součástí našich <a href=\"%(url)s\">zásadami ochrany osobních údajů</a>. Tato data jsou používána pro účely zpracování plateb, stvrzení o transakcích, odhalování podvodů a pro účely "
+"vedení záznamů. Pokud chcete vědět více o tom, jaké osobní údaje získáváme, jaké třetí strany nám poskytují společnosti, kterým věříme, a jak dlouho vaše údaje uchováváme, podívejte se na naše <a "
+"href=\"%(website_privacy)s\">webové stránky v sekci Sdělení Zásady ochrany osobních údajů v cookies</a>."
 
 #: website/includes/faq.html:56
 msgid "Does my gift give me access to tech support?"
@@ -1554,7 +1558,7 @@ msgstr ""
 
 #: website/includes/faq.html:153
 msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
-msgstr ""
+msgstr "Proč se jednorázové dary v rámci SEPA zmocnění objevují jako opakované?"
 
 #: website/includes/faq.html:156
 msgid ""
@@ -1562,6 +1566,9 @@ msgid ""
 "type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
 "official donation receipt that will clearly reflect the one-time donation."
 msgstr ""
+"Při jednorázovém daru prostřednictvím SEPA inkasa si můžete všimnout zmínky o opakovaných transakcích. Náš zpracovatel plateb Stripe totiž u tohoto typu plateb podporuje pouze opakované transakce. "
+"Nicméně platbu vám naúčtujeme pouze jednou a bez vaší autorizace už na vašem účtu nebudeme provádět další platby. Po zmocnění obdržíte oficiální potvrzení o jednorázovém daru, na kterém bude jasně "
+"uvedeno, že jde o jednorázový příspěvek."
 
 #: website/includes/faq.html:164
 msgid "Can I give in cryptocurrencies?"
@@ -1736,15 +1743,15 @@ msgstr "Abychom vám mohli přisoudit váš dar, vepište prosím na šeku do po
 
 #: website/includes/ways-to-give.html:20
 msgid "IBAN (via SEPA bank transfer)"
-msgstr ""
+msgstr "IBAN (bankovní převod SEPA)"
 
 #: website/includes/ways-to-give.html:43
 msgid "Minimum donation amount: €20"
-msgstr ""
+msgstr "Minimální částka pro příspěvek: 20 €"
 
 #: website/includes/ways-to-give.html:44
 msgid "Please note that due to the limited contact information we receive during the transfer process, we are unable to issue donation receipts."
-msgstr ""
+msgstr "Vezměte prosím na vědomí, že vzhledem k omezenému počtu kontaktních informací, které dostáváme v procesu převodu, nemůžeme vydat potvrzení o daru."
 
 #: website/includes/donor-contact/fa-body.html:92 website/includes/donor-contact/fa-body.html:96
 msgid "I need"
@@ -2920,7 +2927,6 @@ msgstr "Informace o změnách v každé verzi Thunderbirdu."
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Informace o vydáních Thunderbirdu se vždy vztahují ke konkrétní verzi aplikace. V seznamu níže vyberte svou verzi."
 
-#, python-format
 #~ msgid ""
 #~ "We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
 #~ " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
