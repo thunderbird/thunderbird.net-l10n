@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
 # taotieren <admin@taotieren.com>, 2019.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-11-07 18:34+0000\n"
+"POT-Creation-Date: 2024-01-17 15:07-0800\n"
 "PO-Revision-Date: 2024-01-14 14:23+0000\n"
 "Last-Translator: Olvcpr423 <oliverchan86@outlook.com>\n"
 "Language-Team: none\n"
@@ -30,7 +30,7 @@ msgstr "支持我们！"
 
 #: start-page/beta/index.html:22 start-page/release/index.html:22 start-page/release/index.html:37 website/includes/base-resp.html:30 website/includes/base-resp.html:54
 #: website/includes/donate-mailing-list.html:17 website/includes/new/page.html:26 website/includes/new/site-footer.html:12 website/index.html:41 website/index.html:361
-#: website/thunderbird/102.0/whatsnew/index.html:25 website/thunderbird/115.0/eoy/index.html:34 website/thunderbird/91.0/whatsnew/index.html:22
+#: website/thunderbird/102.0/whatsnew/index.html:25 website/thunderbird/115.0/eoy/index.html:35 website/thunderbird/91.0/whatsnew/index.html:22
 msgid "Donate"
 msgstr "捐赠"
 
@@ -192,7 +192,7 @@ msgid "If Crash Reporter appears when Thunderbird crashes, please provide as man
 msgstr "如果 Thunderbird 崩溃时出现崩溃报告程序，请尽量多提供崩溃信息以帮助开发人员解决问题。"
 
 #: website/404.html:7 website/download/index.html:8 website/download/index.html:51 website/download/index.html:70 website/includes/base-resp.html:20 website/includes/bedrock/base-resp.html:19
-#: website/includes/new/base.html:19 website/includes/new/page.html:18 website/includes/product-metadata.html:2 website/includes/product-metadata.html:21 website/includes/site-footer.html:4
+#: website/includes/new/base.html:24 website/includes/new/page.html:18 website/includes/product-metadata.html:2 website/includes/product-metadata.html:21 website/includes/site-footer.html:4
 #: website/includes/site-footer.html:48 website/includes/site-footer.html:55 website/includes/site-footer.html:62 website/includes/site-prefooter.html:51 website/includes/site-prefooter.html:54
 #: website/index.html:8 website/newsletter/index.html:43 website/newsletter/index.html:50 website/newsletter/index.html:57 website/old-index.html:8 website/old-index.html:154
 #: website/old-index.html:173 website/thunderbird/102.0/beta-appeal/index.html:106
@@ -1364,51 +1364,64 @@ msgid ""
 msgstr "在您最近收到的捐款确认邮件中点击“管理捐款”按钮，即可查看您的捐款账户设置。您可在其中更改捐款金额、频率、付款方式和收费日期，也可以取消定期捐款计划。如果遇到问题，可以随时<a href=\"%(help)s\">联系我们</a>！"
 
 #: website/includes/faq.html:41
+msgid "Why do you need my address in order to process a gift?"
+msgstr "为什么你们需要我的地址才能处理捐款？"
+
+#: website/includes/faq.html:44
+#, python-format
+msgid ""
+"We understand that your privacy is very important -- we agree, and that's a core value of ours at Thunderbird and Mozilla. Your address is part of our Payment Processing, Contact and Donation "
+"Information that we outline in our <a href=\"%(url)s\">Privacy Policy</a>. This data is used for payment processing, transactional receipts, fraud detection and record-keeping purposes. If you want "
+"to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
+"Communications & Cookies Privacy Notice</a>."
+msgstr ""
+
+#: website/includes/faq.html:56
 msgid "Does my gift give me access to tech support?"
 msgstr "我的捐款能给我带来技术支持吗？"
 
-#: website/includes/faq.html:44
+#: website/includes/faq.html:59
 #, python-format
 msgid ""
 "Anyone can access tech support for Thunderbird by visiting the <a href=\"%(url)s\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial "
 "gifts."
 msgstr "任何人都可以访问<a href=\"%(url)s\">支持论坛</a>获取 Thunderbird 产品的技术支持。Thunderbird 不提供技术支持或增强技术支持以换取捐款。"
 
-#: website/includes/faq.html:53
+#: website/includes/faq.html:68
 msgid "How can I turn off the donation message on the Thunderbird start page?"
 msgstr "如何关闭 Thunderbird 开始页面上的捐赠消息？"
 
-#: website/includes/faq.html:56
+#: website/includes/faq.html:71
 #, python-format
 msgid "To learn how to customize your start page please visit:<br/><a href=\"%(url)s\">%(url)s</a>"
 msgstr "要了解如何自定义起始页，请访问：<br/><a href=\"%(url)s\">%(url)s</a>"
 
-#: website/includes/faq.html:64
+#: website/includes/faq.html:79
 msgid "Is my gift tax deductible?"
 msgstr "我的捐款可以抵税吗？"
 
-#: website/includes/faq.html:67
+#: website/includes/faq.html:82
 msgid ""
 "Gifts to Thunderbird are <strong>not tax-deductible as charitable gifts</strong>, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-"
 "platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future development."
 msgstr "虽然捐给 Thunderbird 的礼品<strong>不能作为慈善礼物免税</strong>，但是我们仍然非常欢迎这样的捐赠。向 Thunderbird 捐赠就是支持我们开发领先的开源跨平台电子邮件和日历客户端，让它供企业和个人自由使用。您的礼物将有助于我们立足当下，并支持我们发展未来。"
 
-#: website/includes/faq.html:78
+#: website/includes/faq.html:93
 msgid "How can I get a business receipt?"
 msgstr "如何获得商业收据？"
 
-#: website/includes/faq.html:81
+#: website/includes/faq.html:96
 #, python-format
 msgid ""
 "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box 'Donate as an Organization' and include your company name. The receipt you receive to the email address used to "
 "make your contribution will include your business information."
 msgstr "当您通过填写<a href=\"%(donate)s\">在线表格</a>捐款时，只需选中“作为组织捐款”框并注明公司名称即可。您用于捐款的邮箱将收到包含业务信息的收据。"
 
-#: website/includes/faq.html:92
+#: website/includes/faq.html:107
 msgid "Is my donation secure?"
 msgstr "我的捐款安全吗？"
 
-#: website/includes/faq.html:95
+#: website/includes/faq.html:110
 #, python-format
 msgid ""
 "Yes, we use industry-standard SSL technology to keep your information secure. We partner with Stripe, the industry's established payment processor trusted by some of the world's largest companies. "
@@ -1418,34 +1431,22 @@ msgstr ""
 "是的，我们使用行业标准的 SSL 技术来保证您的信息安全。我们与 Stripe 合作。Stripe 是业界知名的支付处理商，受到一些全球最大公司的信赖。您的敏感财务信息永远不会接触我们的服务器。我们通过 SSL 将所有数据直接发送到 Stripe 的 PCI 兼容服务器。我们认为您的隐私非常重要，更完整的信息，请参阅 <a href=\"%(privacy)s\">Mozilla "
 "隐私政策</a>。"
 
-#: website/includes/faq.html:107
-msgid "Why do you need my address in order to process a gift?"
-msgstr "为什么你们需要我的地址才能处理捐款？"
-
-#: website/includes/faq.html:110
-#, python-format
-msgid ""
-"We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
-" to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
-"href=\"%(url)s\">Privacy Policy</a>. If you would rather not fill in your information on our online form, you can mail us a <a href=\"%(check)s\">check</a>."
-msgstr "我们理解您的隐私权十分重要。我们只会请求账单地址等处理信用卡捐款时所必需的最少信息，以便付款处理商核实您的身份，处理捐款，并防止信用卡盗用。我们会对您的信息保密，若您有任何疑问，请参阅我们的<a href=\"%(url)s\">隐私政策</a>。如果您不想在网上表单中填写个人信息，可以选择邮寄<a href=\"%(check)s\">支票</a>。"
-
-#: website/includes/faq.html:123
+#: website/includes/faq.html:122
 msgid "Are there additional fees on my donation?"
 msgstr "捐款需要额外付费吗？"
 
-#: website/includes/faq.html:126
+#: website/includes/faq.html:125
 msgid ""
 "We do not collect any additional fees or taxes. When you donate in your local currency you are not charged a conversion fee by your credit card. Optionally, you can choose to cover our transaction "
 "costs on your donation. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to "
 "research any additional external taxes or fees that may be applied by regulators such as your bank or tax authority."
 msgstr "我们不收取任何额外费用和税费。当您以当地货币捐款时，信用卡组织不会向您收取货币兑换费。不过，您也可以选择增加一部分捐款金额，以抵消我们需要被收取的手续费。这完全是自愿的，您可以通过捐赠表格的复选框选择增加与否。我们的组织总部设在美国，我们鼓励捐赠者了解银行和税务机关等管理机构可能征收的外部附加税费和费用。"
 
-#: website/includes/faq.html:138
+#: website/includes/faq.html:137
 msgid "What are your transaction costs on donations?"
 msgstr "捐赠交易费用是多少？"
 
-#: website/includes/faq.html:141
+#: website/includes/faq.html:140
 msgid ""
 "When you opt to cover our transaction costs, you're covering both our processing and donation platform costs. The costs associated with our robust online donation system allows us to continue "
 "scaling sustainably as our supporter-base grows. Our donation platform and payment processor partners reduce internal costs associated with maintaining our own system from scratch. Our partners "
@@ -1455,47 +1456,58 @@ msgstr ""
 "当您选择承担交易费用时，您将同时承担处理费用和捐赠平台费用。稳定的在线捐赠系统让我们能够随着支持者基数的增长而继续可持续地扩大规模。捐赠平台和支付处理合作伙伴降低了从头开始维护我们自己系统的内部成本。我们的合作伙伴确保我们可以接受多种货币/支付方式，并在我们接受礼物的所有国家/地区保持 PCI "
 "合规性。交易成本有助于这一切。捐助者可能会选择承担交易成本是基于我们对总体成本的估计。由于多种因素，实际成本可能会有所波动。"
 
-#: website/includes/faq.html:154
+#: website/includes/faq.html:153
+msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
+msgstr ""
+
+#: website/includes/faq.html:156
+msgid ""
+"When making a one-time gift through SEPA direct debit, you may notice a mention of recurrent transactions. This is because our payment processor Stripe only supports recurring transactions for this "
+"type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
+"official donation receipt that will clearly reflect the one-time donation."
+msgstr ""
+
+#: website/includes/faq.html:164
 msgid "Can I give in cryptocurrencies?"
 msgstr "可以捐赠加密货币吗？"
 
-#: website/includes/faq.html:157
+#: website/includes/faq.html:167
 msgid "<strong>No.</strong> We are not currently accepting cryptocurrency gifts."
 msgstr "<strong>不。</strong>我们目前不接受加密货币捐赠。"
 
-#: website/includes/faq.html:165
+#: website/includes/faq.html:175
 msgid "How will my gift be used?"
 msgstr "我的捐款将如何使用？"
 
-#: website/includes/faq.html:168
+#: website/includes/faq.html:178
 msgid ""
 "Thunderbird is the leading open source cross-platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future "
 "development."
 msgstr "Thunderbird 是业界领先的开源跨平台电子邮件与日历客户端，对商业和个人用途均免费。您的捐款将帮助我们持续生存与发展。"
 
-#: website/includes/faq.html:177
+#: website/includes/faq.html:187
 msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
 msgstr "Thunderbird 与 MZLA 科技公司之间是什么关系？"
 
-#: website/includes/faq.html:180
+#: website/includes/faq.html:190
 msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a wholly owned subsidiary of Mozilla Foundation."
 msgstr "Thunderbird 是 MZLA 科技公司的一个项目，该公司是 Mozilla 基金会的全资子公司。"
 
-#: website/includes/faq.html:189
+#: website/includes/faq.html:199
 msgid "Doesn’t Thunderbird earn income?"
 msgstr "Thunderbird 不赚钱吗？"
 
-#: website/includes/faq.html:192
+#: website/includes/faq.html:202
 msgid ""
 "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird. Companies and individuals support the development of the product now and in the "
 "future."
 msgstr "目前，Thunderbird 的大部分收入来自用户和朋友的慷慨捐赠。这些公司和个人支持着我们产品的当下和未来的开发。"
 
-#: website/includes/faq.html:201
+#: website/includes/faq.html:211
 msgid "Who can I email directly with questions about giving?"
 msgstr "如何用电子邮件询问捐赠有关问题？"
 
-#: website/includes/faq.html:204
+#: website/includes/faq.html:214
 #, python-format
 msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. If you need technical support, please head over to <a href=\"%(support)s\">Thunderbird "
@@ -1618,9 +1630,21 @@ msgstr ""
 "MZLA/Thunderbird 很乐意通过支票接受您的捐款<span class=\"%(class)s\">（开给“MZLA Technologies Corp”）</span>，\n"
 "    但请注意，我们只能接受由美国银行开具的美元支票。"
 
-#: website/includes/ways-to-give.html:17
+#: website/includes/ways-to-give.html:16
 msgid "Please include your email address on the memo line of your check to help us track and attribute your gift."
 msgstr "请在支票备注栏注明您的电子邮件地址，以帮助我们能够更好地追踪并处理您的捐款。"
+
+#: website/includes/ways-to-give.html:20
+msgid "IBAN (via SEPA bank transfer)"
+msgstr ""
+
+#: website/includes/ways-to-give.html:43
+msgid "Minimum donation amount: €20"
+msgstr ""
+
+#: website/includes/ways-to-give.html:44
+msgid "Please note that due to the limited contact information we receive during the transfer process, we are unable to issue donation receipts."
+msgstr ""
 
 #: website/includes/donor-contact/fa-body.html:92 website/includes/donor-contact/fa-body.html:96
 msgid "I need"
@@ -1941,51 +1965,51 @@ msgstr "生活节奏催人跑。为此，我们给 Thunderbird Supernova 设计�
 msgid "November 9, 2022"
 msgstr "2022 年 11 月 9 日"
 
-#: website/thunderbird/102.0/eoy/index.html:17 website/thunderbird/115.0/appeal/index.html:17
+#: website/thunderbird/102.0/eoy/index.html:17 website/thunderbird/115.0/appeal/index.html:17 website/thunderbird/115.0/holidayeoy/index.html:17
 msgid "Help Keep Thunderbird Alive!"
 msgstr "支持 Thunderbird 走得更远！"
 
-#: website/thunderbird/102.0/eoy/index.html:27
+#: website/thunderbird/102.0/eoy/index.html:27 website/thunderbird/115.0/holidayeoy/index.html:27
 msgid "<span class=\"block font-light font-4xl\">Help Keep</span> Thunderbird Alive!"
 msgstr "<span class=\"block font-light font-4xl\">支持 Thunderbird</span>走得更远！"
 
-#: website/thunderbird/102.0/eoy/index.html:30
+#: website/thunderbird/102.0/eoy/index.html:30 website/thunderbird/115.0/holidayeoy/index.html:30
 msgid "Did you know that <strong>less than 1%</strong> of Thunderbird users fund all the work we do?"
 msgstr "您知道吗？只有<strong>不到 1%</strong>的 Thunderbird 用户资助我们的工作。"
 
-#: website/thunderbird/102.0/eoy/index.html:33
+#: website/thunderbird/102.0/eoy/index.html:33 website/thunderbird/115.0/holidayeoy/index.html:33
 msgid "<strong>Not too long ago Thunderbird was on the verge of extinction.</strong> It’s because of donations from that small group of users that we are here today!"
 msgstr "<strong>不久前，Thunderbird 还濒临灭亡。</strong>若是没有那一小群用户的捐助，我们今天就无法相遇于此！"
 
-#: website/thunderbird/102.0/eoy/index.html:36
+#: website/thunderbird/102.0/eoy/index.html:36 website/thunderbird/115.0/holidayeoy/index.html:36
 msgid "We don’t show advertisements or sell your data and we are completely funded by donations from our community."
 msgstr "我们不放置广告，也不出卖数据。我们的资金完全来自社区的捐款。"
 
-#: website/thunderbird/102.0/eoy/index.html:52 website/thunderbird/115.0/appeal/index.html:41
+#: website/thunderbird/102.0/eoy/index.html:52 website/thunderbird/115.0/appeal/index.html:41 website/thunderbird/115.0/holidayeoy/index.html:52
 msgid "Click here to <strong class=\"block\">Donate!</strong>"
 msgstr "单击此处<strong class=\"block\">捐赠！</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:67 website/thunderbird/115.0/appeal/index.html:56
+#: website/thunderbird/102.0/eoy/index.html:67 website/thunderbird/115.0/appeal/index.html:56 website/thunderbird/115.0/holidayeoy/index.html:67
 msgid "Help keep <strong class=\"block\">Thunderbird Alive!</strong>"
 msgstr "支持 Thunderbird<strong class=\"block\">走得更远！</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:76
+#: website/thunderbird/102.0/eoy/index.html:76 website/thunderbird/115.0/holidayeoy/index.html:76
 msgid ""
 "<strong>Thunderbird</strong>’s mission is to offer a time and privacy-respecting, customizable communication experience that gives you control of your data and experience. <strong>Free to "
 "everyone!</strong>"
 msgstr "<strong>Thunderbird</strong> 的使命是提供一套尊重用户时间和隐私的可定制化通信体验，让您可以控制自己的数据和体验。 <strong>人人皆可免费使用！</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:79
+#: website/thunderbird/102.0/eoy/index.html:79 website/thunderbird/115.0/holidayeoy/index.html:79
 msgid ""
 "Accomplishing that mission means keeping <strong>Thunderbird</strong> secure, maintaining complex server infrastructure, updating old code, fixing bugs and developing new features. <strong>These "
 "activities aren’t cheap</strong> - requiring talented software engineers and robust infrastructure."
 msgstr "想要完成这一使命，就需要保持 <strong>Thunderbird</strong> 的安全性、维护复杂的服务器基础架构、更新旧代码、修复缺陷还有开发新功能。<strong>要做到这些一点也不轻松</strong>，需要一批才华横溢的的软件工程师和强大的基础架构支持。"
 
-#: website/thunderbird/102.0/eoy/index.html:82
+#: website/thunderbird/102.0/eoy/index.html:82 website/thunderbird/115.0/holidayeoy/index.html:82
 msgid "<strong>So today we’re asking you to help us out.</strong> If you get value from using Thunderbird, please consider giving a donation to support it!"
 msgstr "<strong>所以现在我们想请您帮助我们。</strong>如果您觉得 Thunderbird 好用，请考虑捐款支持它！"
 
-#: website/thunderbird/102.0/eoy/index.html:98 website/thunderbird/115.0/appeal/index.html:95
+#: website/thunderbird/102.0/eoy/index.html:98 website/thunderbird/115.0/appeal/index.html:95 website/thunderbird/115.0/holidayeoy/index.html:98
 msgid "The Thunderbird Team"
 msgstr "Thunderbird 团队"
 
@@ -2167,26 +2191,26 @@ msgid ""
 "community."
 msgstr "您知道吗，我们的工作全部由<strong>不到 1%</strong> 的 Thunderbird 用户资助着。我们不放置广告，也不出卖数据，我们的资金完全来自社区的捐款。"
 
-#: website/thunderbird/115.0/eoy/index.html:54
+#: website/thunderbird/115.0/eoy/index.html:56
 msgid "You kept us alive - now help us thrive!"
 msgstr "您帮我们渡过难关，也请助我们走得更远！"
 
-#: website/thunderbird/115.0/eoy/index.html:57
+#: website/thunderbird/115.0/eoy/index.html:59
 #, python-format
 msgid ""
 "This year, we delivered outstanding visual changes in Thunderbird 115 and <a href=\"%(url)s\">other major improvements</a>. In 2024, we want to make our privacy-respecting email software available "
 "to billions. Imagine Thunderbird on your <strong>Android</strong> and <strong>iOS</strong> devices!"
 msgstr "今年我们为 Thunderbird 115 焕新界面设计，并带来<a href=\"%(url)s\">诸多重磅改进</a>。到 2024 年，我们希望这个尊重隐私的邮箱软件能够惠及数十亿人。在 <strong>Android</strong> 和 <strong>iOS</strong> 设备上使用 Thunderbird 多值得期待！"
 
-#: website/thunderbird/115.0/eoy/index.html:58
+#: website/thunderbird/115.0/eoy/index.html:60
 msgid "<strong>We can’t do this without you!</strong> If you get value from using Thunderbird, please consider giving a donation to support this goal."
 msgstr "<strong>达成此目标离不开您的帮助！</strong>如果您觉得 Thunderbird 好用，请考虑捐款支持它。"
 
-#: website/thunderbird/115.0/eoy/index.html:61
+#: website/thunderbird/115.0/eoy/index.html:63
 msgid "An illustration of Thunderbird on a phone, a desktop, and a tablet."
 msgstr "一幅插图，图中 Thunderbird 显示在手机、台式电脑和平板上。"
 
-#: website/thunderbird/115.0/eoy/index.html:71
+#: website/thunderbird/115.0/eoy/index.html:73
 msgid "The <strong>Thunderbird</strong> Team"
 msgstr "<strong>Thunderbird</strong> 团队"
 
@@ -2696,6 +2720,13 @@ msgstr "每个版本的 Thunderbird 发行说明。"
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Thunderbird 每个版本均有发行说明。请从下方列表中选择您的版本，阅读该版本的发行说明。"
+
+#, python-format
+#~ msgid ""
+#~ "We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
+#~ " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
+#~ "href=\"%(url)s\">Privacy Policy</a>. If you would rather not fill in your information on our online form, you can mail us a <a href=\"%(check)s\">check</a>."
+#~ msgstr "我们理解您的隐私权十分重要。我们只会请求账单地址等处理信用卡捐款时所必需的最少信息，以便付款处理商核实您的身份，处理捐款，并防止信用卡盗用。我们会对您的信息保密，若您有任何疑问，请参阅我们的<a href=\"%(url)s\">隐私政策</a>。如果您不想在网上表单中填写个人信息，可以选择邮寄<a href=\"%(check)s\">支票</a>。"
 
 #~ msgid "Contact Name"
 #~ msgstr "联系人名称"

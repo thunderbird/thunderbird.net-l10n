@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-11-07 18:34+0000\n"
+"POT-Creation-Date: 2024-01-17 15:07-0800\n"
 "PO-Revision-Date: 2024-01-12 14:08+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language-Team: none\n"
@@ -29,7 +29,7 @@ msgstr "Pódpěrajśo nas!"
 
 #: start-page/beta/index.html:22 start-page/release/index.html:22 start-page/release/index.html:37 website/includes/base-resp.html:30 website/includes/base-resp.html:54
 #: website/includes/donate-mailing-list.html:17 website/includes/new/page.html:26 website/includes/new/site-footer.html:12 website/index.html:41 website/index.html:361
-#: website/thunderbird/102.0/whatsnew/index.html:25 website/thunderbird/115.0/eoy/index.html:34 website/thunderbird/91.0/whatsnew/index.html:22
+#: website/thunderbird/102.0/whatsnew/index.html:25 website/thunderbird/115.0/eoy/index.html:35 website/thunderbird/91.0/whatsnew/index.html:22
 msgid "Donate"
 msgstr "Pósćiś"
 
@@ -201,7 +201,7 @@ msgid "If Crash Reporter appears when Thunderbird crashes, please provide as man
 msgstr "Jolic rozpšawjak wowalenjow se zjawijo gaž Thunderbird spadnjo, sćelśo tak wjele drobnostkow ako móžno, aby wuwijarjam pomagał."
 
 #: website/404.html:7 website/download/index.html:8 website/download/index.html:51 website/download/index.html:70 website/includes/base-resp.html:20 website/includes/bedrock/base-resp.html:19
-#: website/includes/new/base.html:19 website/includes/new/page.html:18 website/includes/product-metadata.html:2 website/includes/product-metadata.html:21 website/includes/site-footer.html:4
+#: website/includes/new/base.html:24 website/includes/new/page.html:18 website/includes/product-metadata.html:2 website/includes/product-metadata.html:21 website/includes/site-footer.html:4
 #: website/includes/site-footer.html:48 website/includes/site-footer.html:55 website/includes/site-footer.html:62 website/includes/site-prefooter.html:51 website/includes/site-prefooter.html:54
 #: website/index.html:8 website/newsletter/index.html:43 website/newsletter/index.html:50 website/newsletter/index.html:57 website/old-index.html:8 website/old-index.html:154
 #: website/old-index.html:173 website/thunderbird/102.0/beta-appeal/index.html:106
@@ -1485,10 +1485,23 @@ msgid ""
 msgstr ""
 
 #: website/includes/faq.html:41
+msgid "Why do you need my address in order to process a gift?"
+msgstr "Cogodla jo mója adresa trěbna za pśeźěłowanje pósćiwanki?"
+
+#: website/includes/faq.html:44
+#, python-format
+msgid ""
+"We understand that your privacy is very important -- we agree, and that's a core value of ours at Thunderbird and Mozilla. Your address is part of our Payment Processing, Contact and Donation "
+"Information that we outline in our <a href=\"%(url)s\">Privacy Policy</a>. This data is used for payment processing, transactional receipts, fraud detection and record-keeping purposes. If you want "
+"to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
+"Communications & Cookies Privacy Notice</a>."
+msgstr ""
+
+#: website/includes/faq.html:56
 msgid "Does my gift give me access to tech support?"
 msgstr "Dostanu technisku pódpěru za móju pósćiwanku?"
 
-#: website/includes/faq.html:44
+#: website/includes/faq.html:59
 #, python-format
 msgid ""
 "Anyone can access tech support for Thunderbird by visiting the <a href=\"%(url)s\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial "
@@ -1497,20 +1510,20 @@ msgstr ""
 "Kuždy móžo technisku pódpěru za Thunderbird dostaś, gaž woglědujo se do <a href=\"%(url)s\">foruma pomocy</a>. Thunderbird technisku pódpěru abo rozšyrjonu technisku pódpěru ako zarownańske wugbaśe "
 "za financielne pósćiwanki njebitujo."
 
-#: website/includes/faq.html:53
+#: website/includes/faq.html:68
 msgid "How can I turn off the donation message on the Thunderbird start page?"
 msgstr "Kak móžom pósćiwańsku powěźeńku na startowem boku Thunderbird znjemóžniś?"
 
-#: website/includes/faq.html:56
+#: website/includes/faq.html:71
 #, python-format
 msgid "To learn how to customize your start page please visit:<br/><a href=\"%(url)s\">%(url)s</a>"
 msgstr "Aby zgónił, kak móžośo swój startowy bok pśiměriś, woglědajśo se pšosym k: <br/><a href=\"%(url)s\">%(url)s</a>"
 
-#: website/includes/faq.html:64
+#: website/includes/faq.html:79
 msgid "Is my gift tax deductible?"
 msgstr "Dajo se mója pósćiwanka wót danka wótsajźiś?"
 
-#: website/includes/faq.html:67
+#: website/includes/faq.html:82
 msgid ""
 "Gifts to Thunderbird are <strong>not tax-deductible as charitable gifts</strong>, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-"
 "platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future development."
@@ -1518,22 +1531,22 @@ msgstr ""
 "Pósćiwanki za Thunderbird <strong>njedaju se ako dobrotne dary wót dankow wótsajźiś</strong>, ale su wjelgin lubo witane. Pósćiwanki za Thunderbird wuwiśe našogo wjeducego platformu pśesegajucego "
 "e-mailowego a kalendrowego programa pódpěraju, kótaryž jo dermotny za wobchodniske a wósobinske wužyśe. Waša pósćiwanka buźo pomagaś zawěsćiś, až to tak wóstawa, a buźo pśichodne wuwiś pódpěraś."
 
-#: website/includes/faq.html:78
+#: website/includes/faq.html:93
 msgid "How can I get a business receipt?"
 msgstr "Kak mógu wobchodowu kwitowanku dostaś?"
 
-#: website/includes/faq.html:81
+#: website/includes/faq.html:96
 #, python-format
 msgid ""
 "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box 'Donate as an Organization' and include your company name. The receipt you receive to the email address used to "
 "make your contribution will include your business information."
 msgstr ""
 
-#: website/includes/faq.html:92
+#: website/includes/faq.html:107
 msgid "Is my donation secure?"
 msgstr "Jo mój dar wěsty?"
 
-#: website/includes/faq.html:95
+#: website/includes/faq.html:110
 #, python-format
 msgid ""
 "Yes, we use industry-standard SSL technology to keep your information secure. We partner with Stripe, the industry's established payment processor trusted by some of the world's largest companies. "
@@ -1541,37 +1554,22 @@ msgid ""
 "complete information please refer to the <a href=\"%(privacy)s\">Mozilla Privacy Policy</a>."
 msgstr ""
 
-#: website/includes/faq.html:107
-msgid "Why do you need my address in order to process a gift?"
-msgstr "Cogodla jo mója adresa trěbna za pśeźěłowanje pósćiwanki?"
-
-#: website/includes/faq.html:110
-#, python-format
-msgid ""
-"We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
-" to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
-"href=\"%(url)s\">Privacy Policy</a>. If you would rather not fill in your information on our online form, you can mail us a <a href=\"%(check)s\">check</a>."
-msgstr ""
-"Rozmějomy, až waša priwatnosć jo wjelgin wažna. Pšašamy se za minimumom informacijow, kótarež su trěbne za pśeźěłowanje płaśenja pśez kreditowe kórty, mjazy nimi adrese zliceńkow. To nam dowólujo, "
-"wašu identitu pśespytowaś. wašo płaśenje pśeźěłowaś a wobšudnym wobśěženjam wašeje kreditoweje kórty zajźowaś. Šćitamy waše priwatne daty -- jolic pšašenja maśo, cytajśo naše <a "
-"href=\"%(url)s\">pšawidła priwatnosći</a>. Jolic njocośo swóje daty do našogo formulara online zapisaś, móžośo nam <a href=\"%(check)s\">šek</a> pśez post pósłaś."
-
-#: website/includes/faq.html:123
+#: website/includes/faq.html:122
 msgid "Are there additional fees on my donation?"
 msgstr "Nastawaju pśidatne płaśonki za mój dar?"
 
-#: website/includes/faq.html:126
+#: website/includes/faq.html:125
 msgid ""
 "We do not collect any additional fees or taxes. When you donate in your local currency you are not charged a conversion fee by your credit card. Optionally, you can choose to cover our transaction "
 "costs on your donation. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to "
 "research any additional external taxes or fees that may be applied by regulators such as your bank or tax authority."
 msgstr ""
 
-#: website/includes/faq.html:138
+#: website/includes/faq.html:137
 msgid "What are your transaction costs on donations?"
 msgstr "Kak wusoke su transakciske płaśonki za dary?"
 
-#: website/includes/faq.html:141
+#: website/includes/faq.html:140
 msgid ""
 "When you opt to cover our transaction costs, you're covering both our processing and donation platform costs. The costs associated with our robust online donation system allows us to continue "
 "scaling sustainably as our supporter-base grows. Our donation platform and payment processor partners reduce internal costs associated with maintaining our own system from scratch. Our partners "
@@ -1579,19 +1577,30 @@ msgid ""
 " on an estimate of our overall costs. Due to many factors actual costs may fluctuate."
 msgstr ""
 
-#: website/includes/faq.html:154
+#: website/includes/faq.html:153
+msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
+msgstr ""
+
+#: website/includes/faq.html:156
+msgid ""
+"When making a one-time gift through SEPA direct debit, you may notice a mention of recurrent transactions. This is because our payment processor Stripe only supports recurring transactions for this "
+"type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
+"official donation receipt that will clearly reflect the one-time donation."
+msgstr ""
+
+#: website/includes/faq.html:164
 msgid "Can I give in cryptocurrencies?"
 msgstr "Mógu kryptopjenjeze pósćiś?"
 
-#: website/includes/faq.html:157
+#: website/includes/faq.html:167
 msgid "<strong>No.</strong> We are not currently accepting cryptocurrency gifts."
 msgstr "<strong>Ně.</strong> Tuchylu dary w kryptopjenjezach njeakceptěrujomy."
 
-#: website/includes/faq.html:165
+#: website/includes/faq.html:175
 msgid "How will my gift be used?"
 msgstr "Kak se mója pósćiwanka wužywa?"
 
-#: website/includes/faq.html:168
+#: website/includes/faq.html:178
 msgid ""
 "Thunderbird is the leading open source cross-platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future "
 "development."
@@ -1599,29 +1608,29 @@ msgstr ""
 "Thunderbird jo wjeducy program wótwórjonego žrědła za e-mail a kalendarje na někotarych platformach, dermotny za komercielne a priwatne wužywanje. Waš dar buźo nam pomagas, áž to tak wóstawa a "
 "pódpěra dalšne wuwijanje."
 
-#: website/includes/faq.html:177
+#: website/includes/faq.html:187
 msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
 msgstr "W kótarem póśěgu Thunderbird z pśedewześim MZLA Technologies Corporation stoj?"
 
-#: website/includes/faq.html:180
+#: website/includes/faq.html:190
 msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a wholly owned subsidiary of Mozilla Foundation."
 msgstr "Thunderbird jo projekt pśedewześa MZLA Technologies Corporation, kótarež jo stoprocentojska filialna firma załožby Mozilla Foundation."
 
-#: website/includes/faq.html:189
+#: website/includes/faq.html:199
 msgid "Doesn’t Thunderbird earn income?"
 msgstr "Njama Thunderbird nabranki?"
 
-#: website/includes/faq.html:192
+#: website/includes/faq.html:202
 msgid ""
 "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird. Companies and individuals support the development of the product now and in the "
 "future."
 msgstr ""
 
-#: website/includes/faq.html:201
+#: website/includes/faq.html:211
 msgid "Who can I email directly with questions about giving?"
 msgstr "Komu mógu pšašanja wó pósćiwanju páez mejlku słaś?"
 
-#: website/includes/faq.html:204
+#: website/includes/faq.html:214
 #, python-format
 msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. If you need technical support, please head over to <a href=\"%(support)s\">Thunderbird "
@@ -1750,9 +1759,21 @@ msgid ""
 "    however please note that we can only accept checks in US dollars drawn on a US bank."
 msgstr ""
 
-#: website/includes/ways-to-give.html:17
+#: website/includes/ways-to-give.html:16
 msgid "Please include your email address on the memo line of your check to help us track and attribute your gift."
 msgstr "Pšosym zapódajśo swóju e-mailowu adresu do wužywańskego zaměra swójogo šeka, aby nam pomagał, waš dar slědowaś a pśipokazaś."
+
+#: website/includes/ways-to-give.html:20
+msgid "IBAN (via SEPA bank transfer)"
+msgstr ""
+
+#: website/includes/ways-to-give.html:43
+msgid "Minimum donation amount: €20"
+msgstr ""
+
+#: website/includes/ways-to-give.html:44
+msgid "Please note that due to the limited contact information we receive during the transfer process, we are unable to issue donation receipts."
+msgstr ""
 
 #: website/includes/donor-contact/fa-body.html:92 website/includes/donor-contact/fa-body.html:96
 msgid "I need"
@@ -2078,35 +2099,35 @@ msgstr ""
 msgid "November 9, 2022"
 msgstr "9. nowembra 2022"
 
-#: website/thunderbird/102.0/eoy/index.html:17 website/thunderbird/115.0/appeal/index.html:17
+#: website/thunderbird/102.0/eoy/index.html:17 website/thunderbird/115.0/appeal/index.html:17 website/thunderbird/115.0/holidayeoy/index.html:17
 msgid "Help Keep Thunderbird Alive!"
 msgstr "Pomagajśo Thunderbird pśi žywjenju źaržaś!"
 
-#: website/thunderbird/102.0/eoy/index.html:27
+#: website/thunderbird/102.0/eoy/index.html:27 website/thunderbird/115.0/holidayeoy/index.html:27
 msgid "<span class=\"block font-light font-4xl\">Help Keep</span> Thunderbird Alive!"
 msgstr "<span class=\"block font-light font-4xl\">Pomagajśo</span> Thunderbird pśi žywjenju źaržaś!"
 
-#: website/thunderbird/102.0/eoy/index.html:30
+#: website/thunderbird/102.0/eoy/index.html:30 website/thunderbird/115.0/holidayeoy/index.html:30
 msgid "Did you know that <strong>less than 1%</strong> of Thunderbird users fund all the work we do?"
 msgstr "Sćo wěźeł, až <strong>mjenjej ako 1 %</strong> wužywarjow Thunderbird źěło financěrujo, kótarež cynimy?"
 
-#: website/thunderbird/102.0/eoy/index.html:33
+#: website/thunderbird/102.0/eoy/index.html:33 website/thunderbird/115.0/holidayeoy/index.html:33
 msgid "<strong>Not too long ago Thunderbird was on the verge of extinction.</strong> It’s because of donations from that small group of users that we are here today!"
 msgstr "<strong>Hyšći pśed krotkim Thunderbird jo był pśed zginjenim.</strong> Dla darow toś teje małeje kupki wužywarjow hyšći smy!"
 
-#: website/thunderbird/102.0/eoy/index.html:36
+#: website/thunderbird/102.0/eoy/index.html:36 website/thunderbird/115.0/holidayeoy/index.html:36
 msgid "We don’t show advertisements or sell your data and we are completely funded by donations from our community."
 msgstr "Njepokazujomy wabjenje a njepśedawamy waše daty a financěrujomy se dopołnje pśez dary ze zgromaźeństwa."
 
-#: website/thunderbird/102.0/eoy/index.html:52 website/thunderbird/115.0/appeal/index.html:41
+#: website/thunderbird/102.0/eoy/index.html:52 website/thunderbird/115.0/appeal/index.html:41 website/thunderbird/115.0/holidayeoy/index.html:52
 msgid "Click here to <strong class=\"block\">Donate!</strong>"
 msgstr "Klikniśo how, aby <strong class=\"block\">pósćił!</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:67 website/thunderbird/115.0/appeal/index.html:56
+#: website/thunderbird/102.0/eoy/index.html:67 website/thunderbird/115.0/appeal/index.html:56 website/thunderbird/115.0/holidayeoy/index.html:67
 msgid "Help keep <strong class=\"block\">Thunderbird Alive!</strong>"
 msgstr "Pomagajśo <strong class=\"block\">Thunderbird pśi žywjenju źaržaś!</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:76
+#: website/thunderbird/102.0/eoy/index.html:76 website/thunderbird/115.0/holidayeoy/index.html:76
 msgid ""
 "<strong>Thunderbird</strong>’s mission is to offer a time and privacy-respecting, customizable communication experience that gives you control of your data and experience. <strong>Free to "
 "everyone!</strong>"
@@ -2114,7 +2135,7 @@ msgstr ""
 "Misija <strong>Thunderbird</strong> jo, pśiměrjujobne komunikaciske dožywjenje póbitowaś, kótarež jo cas žarjece a priwatnosć respektěrujo a wam kontrolu nad wašymi datami a dožywjenim "
 "dawa.<strong>Dermotny za kuždego!</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:79
+#: website/thunderbird/102.0/eoy/index.html:79 website/thunderbird/115.0/holidayeoy/index.html:79
 msgid ""
 "Accomplishing that mission means keeping <strong>Thunderbird</strong> secure, maintaining complex server infrastructure, updating old code, fixing bugs and developing new features. <strong>These "
 "activities aren’t cheap</strong> - requiring talented software engineers and robust infrastructure."
@@ -2122,11 +2143,11 @@ msgstr ""
 "Gaž toś tu misiju docynjamy, musymy <strong>Thunderbird</strong> wěsty źaržaś, kompleksnu serwerowu infrastrukturu wótwardowaś, stary kod aktualizěrowaś, programowe zmólki rozwězaś a nowe funkcije "
 "wuwijaś. <strong>Toś te aktiwity njejsu tunje</strong> – pominaju se softwarowe wuwijarje a robustnu infrastrukturu."
 
-#: website/thunderbird/102.0/eoy/index.html:82
+#: website/thunderbird/102.0/eoy/index.html:82 website/thunderbird/115.0/holidayeoy/index.html:82
 msgid "<strong>So today we’re asking you to help us out.</strong> If you get value from using Thunderbird, please consider giving a donation to support it!"
 msgstr "<strong>Togodla pšosymy was, aby nam wupomagał.</strong> Jolic z wužywanja profitěrujośo, rozwažćo pšosym dar, aby jen pódpěrał!"
 
-#: website/thunderbird/102.0/eoy/index.html:98 website/thunderbird/115.0/appeal/index.html:95
+#: website/thunderbird/102.0/eoy/index.html:98 website/thunderbird/115.0/appeal/index.html:95 website/thunderbird/115.0/holidayeoy/index.html:98
 msgid "The Thunderbird Team"
 msgstr "Team Thunderbird"
 
@@ -2317,11 +2338,11 @@ msgstr ""
 "Sćo wěźeł, až <strong>mjenjej ako 1 %</strong> wužywarjow Thunderbird cełe źěło, kótarež cynimy, financěrujo? Njepokazujomy wabjenje abo njepśedawamy waše daty, a financěrujomy se dopołnje pśez dary"
 " ze swójogo zgromaźeństwa."
 
-#: website/thunderbird/115.0/eoy/index.html:54
+#: website/thunderbird/115.0/eoy/index.html:56
 msgid "You kept us alive - now help us thrive!"
 msgstr "Sćo zdźaržał nas pśi žywjenju – pomagajśo něnto nas pógóniś!"
 
-#: website/thunderbird/115.0/eoy/index.html:57
+#: website/thunderbird/115.0/eoy/index.html:59
 #, python-format
 msgid ""
 "This year, we delivered outstanding visual changes in Thunderbird 115 and <a href=\"%(url)s\">other major improvements</a>. In 2024, we want to make our privacy-respecting email software available "
@@ -2330,15 +2351,15 @@ msgstr ""
 "Lětosa smy stajili wjelicne wizuelne změny w Thunderbird 115 a <a href=\"%(url)s\">druge wětše pólěpšenja</a> k dispoziciji. W lěśe 2024 comy našu priwatnosć respektěrujucu e-mailowu software "
 "miliardam wužywarjow k dispoziciji stajiś. Pśedstajśo se Thunderbird na swójich rědach <strong>Android</strong> a <strong>iOS</strong>!"
 
-#: website/thunderbird/115.0/eoy/index.html:58
+#: website/thunderbird/115.0/eoy/index.html:60
 msgid "<strong>We can’t do this without you!</strong> If you get value from using Thunderbird, please consider giving a donation to support this goal."
 msgstr "<strong>Njamóžomo to bźez was gótowaś.</strong> Jolic z wužywanja profitěrujośo, rozwažćo pšosym dar, aby ten zaměr pódpěrał."
 
-#: website/thunderbird/115.0/eoy/index.html:61
+#: website/thunderbird/115.0/eoy/index.html:63
 msgid "An illustration of Thunderbird on a phone, a desktop, and a tablet."
 msgstr "Ilustracija Thunderbird na telefonje, desktopje a tableśe."
 
-#: website/thunderbird/115.0/eoy/index.html:71
+#: website/thunderbird/115.0/eoy/index.html:73
 msgid "The <strong>Thunderbird</strong> Team"
 msgstr "Team <strong>Thunderbird</strong>"
 
@@ -2867,6 +2888,16 @@ msgstr "Wersijowe informacije kuždeje wersije Thunderbird."
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Wersijowe informacije Thunderbird pśecej wěstu wersiju nałoženja nastupaju. Wubjeŕśo swóju wersiju ze slědujuceje lisćiny, aby se jeje wersijowe informacije woglědał."
+
+#, python-format
+#~ msgid ""
+#~ "We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
+#~ " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
+#~ "href=\"%(url)s\">Privacy Policy</a>. If you would rather not fill in your information on our online form, you can mail us a <a href=\"%(check)s\">check</a>."
+#~ msgstr ""
+#~ "Rozmějomy, až waša priwatnosć jo wjelgin wažna. Pšašamy se za minimumom informacijow, kótarež su trěbne za pśeźěłowanje płaśenja pśez kreditowe kórty, mjazy nimi adrese zliceńkow. To nam dowólujo, "
+#~ "wašu identitu pśespytowaś. wašo płaśenje pśeźěłowaś a wobšudnym wobśěženjam wašeje kreditoweje kórty zajźowaś. Šćitamy waše priwatne daty -- jolic pšašenja maśo, cytajśo naše <a "
+#~ "href=\"%(url)s\">pšawidła priwatnosći</a>. Jolic njocośo swóje daty do našogo formulara online zapisaś, móžośo nam <a href=\"%(check)s\">šek</a> pśez post pósłaś."
 
 #~ msgid "Contact Name"
 #~ msgstr "Kontaktowe mě"

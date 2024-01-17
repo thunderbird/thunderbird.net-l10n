@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-11-07 18:34+0000\n"
+"POT-Creation-Date: 2024-01-17 15:07-0800\n"
 "PO-Revision-Date: 2023-11-08 07:07+0000\n"
 "Last-Translator: Mark Heijl <markh@babelzilla.org>\n"
 "Language-Team: none\n"
@@ -29,7 +29,7 @@ msgstr "Steun ons!"
 
 #: start-page/beta/index.html:22 start-page/release/index.html:22 start-page/release/index.html:37 website/includes/base-resp.html:30 website/includes/base-resp.html:54
 #: website/includes/donate-mailing-list.html:17 website/includes/new/page.html:26 website/includes/new/site-footer.html:12 website/index.html:41 website/index.html:361
-#: website/thunderbird/102.0/whatsnew/index.html:25 website/thunderbird/115.0/eoy/index.html:34 website/thunderbird/91.0/whatsnew/index.html:22
+#: website/thunderbird/102.0/whatsnew/index.html:25 website/thunderbird/115.0/eoy/index.html:35 website/thunderbird/91.0/whatsnew/index.html:22
 msgid "Donate"
 msgstr "Doneren"
 
@@ -202,7 +202,7 @@ msgid "If Crash Reporter appears when Thunderbird crashes, please provide as man
 msgstr "Als Crashreporter verschijnt wanneer Thunderbird crasht, geef dan zo veel mogelijk details om ontwikkelaars te helpen."
 
 #: website/404.html:7 website/download/index.html:8 website/download/index.html:51 website/download/index.html:70 website/includes/base-resp.html:20 website/includes/bedrock/base-resp.html:19
-#: website/includes/new/base.html:19 website/includes/new/page.html:18 website/includes/product-metadata.html:2 website/includes/product-metadata.html:21 website/includes/site-footer.html:4
+#: website/includes/new/base.html:24 website/includes/new/page.html:18 website/includes/product-metadata.html:2 website/includes/product-metadata.html:21 website/includes/site-footer.html:4
 #: website/includes/site-footer.html:48 website/includes/site-footer.html:55 website/includes/site-footer.html:62 website/includes/site-prefooter.html:51 website/includes/site-prefooter.html:54
 #: website/index.html:8 website/newsletter/index.html:43 website/newsletter/index.html:50 website/newsletter/index.html:57 website/old-index.html:8 website/old-index.html:154
 #: website/old-index.html:173 website/thunderbird/102.0/beta-appeal/index.html:106
@@ -1508,10 +1508,23 @@ msgstr ""
 "afschrijvingsdatum wijzigen. U kunt uw periodieke donatieplan ook annuleren. Als u tegen problemen aanloopt, kunt u altijd <a href=\"%(help)s\">contact met ons opnemen</a>!"
 
 #: website/includes/faq.html:41
+msgid "Why do you need my address in order to process a gift?"
+msgstr "Waarom is mijn adres nodig om een schenking te kunnen verwerken?"
+
+#: website/includes/faq.html:44
+#, python-format
+msgid ""
+"We understand that your privacy is very important -- we agree, and that's a core value of ours at Thunderbird and Mozilla. Your address is part of our Payment Processing, Contact and Donation "
+"Information that we outline in our <a href=\"%(url)s\">Privacy Policy</a>. This data is used for payment processing, transactional receipts, fraud detection and record-keeping purposes. If you want "
+"to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
+"Communications & Cookies Privacy Notice</a>."
+msgstr ""
+
+#: website/includes/faq.html:56
 msgid "Does my gift give me access to tech support?"
 msgstr "Zorgt mijn gift voor toegang tot technische ondersteuning?"
 
-#: website/includes/faq.html:44
+#: website/includes/faq.html:59
 #, python-format
 msgid ""
 "Anyone can access tech support for Thunderbird by visiting the <a href=\"%(url)s\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial "
@@ -1520,20 +1533,20 @@ msgstr ""
 "Iedereen heeft toegang tot technische ondersteuning voor Thunderbird door het <a href=\"%(url)s\">ondersteuningsforum</a> te bezoeken. Thunderbird biedt geen technische ondersteuning of uitgebreide "
 "technische ondersteuning in ruil voor financiële schenkingen."
 
-#: website/includes/faq.html:53
+#: website/includes/faq.html:68
 msgid "How can I turn off the donation message on the Thunderbird start page?"
 msgstr "Hoe kan ik het donatiebericht op de Thunderbird-startpagina uitzetten?"
 
-#: website/includes/faq.html:56
+#: website/includes/faq.html:71
 #, python-format
 msgid "To learn how to customize your start page please visit:<br/><a href=\"%(url)s\">%(url)s</a>"
 msgstr "Bezoek voor meer info over het aanpassen van uw startpagina <br/><a href=\"%(url)s\">%(url)s</a>"
 
-#: website/includes/faq.html:64
+#: website/includes/faq.html:79
 msgid "Is my gift tax deductible?"
 msgstr "Is mijn gift fiscaal aftrekbaar?"
 
-#: website/includes/faq.html:67
+#: website/includes/faq.html:82
 msgid ""
 "Gifts to Thunderbird are <strong>not tax-deductible as charitable gifts</strong>, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-"
 "platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future development."
@@ -1542,11 +1555,11 @@ msgstr ""
 " toonaangevende open source platformonafhankelijke e-mail- en agendaclient, die gratis is voor zakelijk en persoonlijk gebruik. Uw gift helpt ervoor te zorgen dat dit zo blijft en ondersteunt "
 "toekomstige ontwikkeling."
 
-#: website/includes/faq.html:78
+#: website/includes/faq.html:93
 msgid "How can I get a business receipt?"
 msgstr "Hoe kom ik aan een zakelijk ontvangstbewijs?"
 
-#: website/includes/faq.html:81
+#: website/includes/faq.html:96
 #, python-format
 msgid ""
 "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box 'Donate as an Organization' and include your company name. The receipt you receive to the email address used to "
@@ -1555,11 +1568,11 @@ msgstr ""
 "Wanneer u doneert via ons <a href=\"%(donate)s\">online formulier</a>, vinkt u gewoon het vakje ‘Doneren als organisatie’ aan en vermeldt u uw bedrijfsnaam. Op het ontvangstbewijs dat u ontvangt op "
 "het e-mailadres waarmee u uw bijdrage heeft gedaan, staan uw bedrijfsgegevens."
 
-#: website/includes/faq.html:92
+#: website/includes/faq.html:107
 msgid "Is my donation secure?"
 msgstr "Is mijn donatie veilig?"
 
-#: website/includes/faq.html:95
+#: website/includes/faq.html:110
 #, python-format
 msgid ""
 "Yes, we use industry-standard SSL technology to keep your information secure. We partner with Stripe, the industry's established payment processor trusted by some of the world's largest companies. "
@@ -1570,26 +1583,11 @@ msgstr ""
 " werelds grootste bedrijven. Uw gevoelige financiële informatie raakt nooit onze servers. We sturen alle gegevens rechtstreeks naar de PCI-compatibele servers van Stripe via SSL. We begrijpen dat uw"
 " privacy erg belangrijk is. Raadpleeg voor volledige informatie het <a href=\"%(privacy)s\">Privacybeleid van Mozilla</a>."
 
-#: website/includes/faq.html:107
-msgid "Why do you need my address in order to process a gift?"
-msgstr "Waarom is mijn adres nodig om een schenking te kunnen verwerken?"
-
-#: website/includes/faq.html:110
-#, python-format
-msgid ""
-"We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
-" to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
-"href=\"%(url)s\">Privacy Policy</a>. If you would rather not fill in your information on our online form, you can mail us a <a href=\"%(check)s\">check</a>."
-msgstr ""
-"We begrijpen dat uw privacy zeer belangrijk is. Daarom vragen we om een minimale hoeveelheid aan gegevens die nodig zijn om creditcarddonaties te verwerken, waaronder factureringsadressen. Hierdoor "
-"kan onze betalingsverwerker uw identiteit verifiëren, uw betaling verwerken, en frauduleuze kosten voor uw creditcard voorkomen. Uw gegevens worden privé gehouden – als u vragen hebt, wend u dan tot"
-" ons <a href=\"%(url)s\">Privacybeleid</a>. Als u liever niet uw gegevens op ons online formulier invult, kunt u een <a href=\"%(check)s\">cheque</a> toesturen."
-
-#: website/includes/faq.html:123
+#: website/includes/faq.html:122
 msgid "Are there additional fees on my donation?"
 msgstr "Zijn er extra kosten verbonden aan mijn donatie?"
 
-#: website/includes/faq.html:126
+#: website/includes/faq.html:125
 msgid ""
 "We do not collect any additional fees or taxes. When you donate in your local currency you are not charged a conversion fee by your credit card. Optionally, you can choose to cover our transaction "
 "costs on your donation. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to "
@@ -1600,11 +1598,11 @@ msgstr ""
 "de Verenigde Staten. We moedigen donateurs aan om onderzoek te doen naar eventuele aanvullende externe belastingen of kosten die kunnen worden toegepast door toezichthouders, zoals uw bank of "
 "belastingdienst."
 
-#: website/includes/faq.html:138
+#: website/includes/faq.html:137
 msgid "What are your transaction costs on donations?"
 msgstr "Wat zijn jullie transactiekosten op donaties?"
 
-#: website/includes/faq.html:141
+#: website/includes/faq.html:140
 msgid ""
 "When you opt to cover our transaction costs, you're covering both our processing and donation platform costs. The costs associated with our robust online donation system allows us to continue "
 "scaling sustainably as our supporter-base grows. Our donation platform and payment processor partners reduce internal costs associated with maintaining our own system from scratch. Our partners "
@@ -1616,19 +1614,30 @@ msgstr ""
 "onderhouden van ons eigen systeem. Onze partners zorgen ervoor dat we een breed scala aan valuta’s/betaalmethoden kunnen accepteren en PCI-compatibel kunnen blijven in alle landen waaruit we "
 "donaties accepteren. De transactiekosten die donateurs eventueel willen dekken, zijn gebaseerd op een schatting van onze totale kosten. Door vele factoren kunnen de werkelijke kosten fluctueren."
 
-#: website/includes/faq.html:154
+#: website/includes/faq.html:153
+msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
+msgstr ""
+
+#: website/includes/faq.html:156
+msgid ""
+"When making a one-time gift through SEPA direct debit, you may notice a mention of recurrent transactions. This is because our payment processor Stripe only supports recurring transactions for this "
+"type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
+"official donation receipt that will clearly reflect the one-time donation."
+msgstr ""
+
+#: website/includes/faq.html:164
 msgid "Can I give in cryptocurrencies?"
 msgstr "Kan ik cryptovaluta doneren?"
 
-#: website/includes/faq.html:157
+#: website/includes/faq.html:167
 msgid "<strong>No.</strong> We are not currently accepting cryptocurrency gifts."
 msgstr "<strong>Nee.</strong> We accepteren momenteel geen cryptocurrency-donaties."
 
-#: website/includes/faq.html:165
+#: website/includes/faq.html:175
 msgid "How will my gift be used?"
 msgstr "Hoe wordt mijn gift gebruikt?"
 
-#: website/includes/faq.html:168
+#: website/includes/faq.html:178
 msgid ""
 "Thunderbird is the leading open source cross-platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future "
 "development."
@@ -1636,19 +1645,19 @@ msgstr ""
 "Thunderbird is de leidende open source, platformonafhankelijke e-mail- en agendaclient, gratis voor zakelijk en persoonlijk gebruik. Uw gift helpt ervoor te zorgen dat dit zo blijft, en steunt "
 "toekomstige ontwikkeling."
 
-#: website/includes/faq.html:177
+#: website/includes/faq.html:187
 msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
 msgstr "Wat is de relatie van Thunderbird met MZLA Technologies Corporation?"
 
-#: website/includes/faq.html:180
+#: website/includes/faq.html:190
 msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a wholly owned subsidiary of Mozilla Foundation."
 msgstr "Thunderbird is een project van MZLA Technologies Corporation, een volledige dochteronderneming van Mozilla Foundation."
 
-#: website/includes/faq.html:189
+#: website/includes/faq.html:199
 msgid "Doesn’t Thunderbird earn income?"
 msgstr "Verwerft Thunderbird geen inkomsten?"
 
-#: website/includes/faq.html:192
+#: website/includes/faq.html:202
 msgid ""
 "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird. Companies and individuals support the development of the product now and in the "
 "future."
@@ -1656,11 +1665,11 @@ msgstr ""
 "Momenteel komt het grootste deel van de inkomsten van Thunderbird uit genereuze giften van gebruikers en vrienden van Thunderbird. Bedrijven en particulieren ondersteunen de ontwikkeling van het "
 "product nu en in de toekomst."
 
-#: website/includes/faq.html:201
+#: website/includes/faq.html:211
 msgid "Who can I email directly with questions about giving?"
 msgstr "Met wie kan ik rechtstreeks contact opnemen via e-mail met vragen over schenken?"
 
-#: website/includes/faq.html:204
+#: website/includes/faq.html:214
 #, python-format
 msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. If you need technical support, please head over to <a href=\"%(support)s\">Thunderbird "
@@ -1791,9 +1800,21 @@ msgstr ""
 "MZLA/Thunderbird accepteert graag uw donatie <span class=\"%(class)s\">(betaalbaar aan ‘MZLA Technologies Corp’)</span> via cheque;\n"
 "Houd er echter rekening mee dat we alleen cheques in Amerikaanse dollars die afkomstig zijn van een Amerikaanse bank kunnen accepteren."
 
-#: website/includes/ways-to-give.html:17
+#: website/includes/ways-to-give.html:16
 msgid "Please include your email address on the memo line of your check to help us track and attribute your gift."
 msgstr "Vermeld uw e-mailadres in de memoregel van uw cheque, om ons te helpen uw gift te volgen en toe te schrijven."
+
+#: website/includes/ways-to-give.html:20
+msgid "IBAN (via SEPA bank transfer)"
+msgstr ""
+
+#: website/includes/ways-to-give.html:43
+msgid "Minimum donation amount: €20"
+msgstr ""
+
+#: website/includes/ways-to-give.html:44
+msgid "Please note that due to the limited contact information we receive during the transfer process, we are unable to issue donation receipts."
+msgstr ""
 
 #: website/includes/donor-contact/fa-body.html:92 website/includes/donor-contact/fa-body.html:96
 msgid "I need"
@@ -2133,35 +2154,35 @@ msgstr ""
 msgid "November 9, 2022"
 msgstr "9 november 2022"
 
-#: website/thunderbird/102.0/eoy/index.html:17 website/thunderbird/115.0/appeal/index.html:17
+#: website/thunderbird/102.0/eoy/index.html:17 website/thunderbird/115.0/appeal/index.html:17 website/thunderbird/115.0/holidayeoy/index.html:17
 msgid "Help Keep Thunderbird Alive!"
 msgstr "Help Thunderbird in leven te houden!"
 
-#: website/thunderbird/102.0/eoy/index.html:27
+#: website/thunderbird/102.0/eoy/index.html:27 website/thunderbird/115.0/holidayeoy/index.html:27
 msgid "<span class=\"block font-light font-4xl\">Help Keep</span> Thunderbird Alive!"
 msgstr "<span class=\"block font-light font-4xl\">Help</span> Thunderbird in leven te houden!"
 
-#: website/thunderbird/102.0/eoy/index.html:30
+#: website/thunderbird/102.0/eoy/index.html:30 website/thunderbird/115.0/holidayeoy/index.html:30
 msgid "Did you know that <strong>less than 1%</strong> of Thunderbird users fund all the work we do?"
 msgstr "Wist u dat <strong>minder dan 1%</strong> van de Thunderbird-gebruikers al het werk dat we doen financiert?"
 
-#: website/thunderbird/102.0/eoy/index.html:33
+#: website/thunderbird/102.0/eoy/index.html:33 website/thunderbird/115.0/holidayeoy/index.html:33
 msgid "<strong>Not too long ago Thunderbird was on the verge of extinction.</strong> It’s because of donations from that small group of users that we are here today!"
 msgstr "<strong>Niet zo lang geleden stond Thunderbird op het punt van uitsterven.</strong> Het is dankzij de donaties van die kleine groep gebruikers dat we vandaag nog bestaan!"
 
-#: website/thunderbird/102.0/eoy/index.html:36
+#: website/thunderbird/102.0/eoy/index.html:36 website/thunderbird/115.0/holidayeoy/index.html:36
 msgid "We don’t show advertisements or sell your data and we are completely funded by donations from our community."
 msgstr "We tonen geen advertenties of verkopen uw gegevens niet en we worden volledig gefinancierd door donaties vanuit onze gemeenschap."
 
-#: website/thunderbird/102.0/eoy/index.html:52 website/thunderbird/115.0/appeal/index.html:41
+#: website/thunderbird/102.0/eoy/index.html:52 website/thunderbird/115.0/appeal/index.html:41 website/thunderbird/115.0/holidayeoy/index.html:52
 msgid "Click here to <strong class=\"block\">Donate!</strong>"
 msgstr "Klik hier om te <strong class=\"block\">doneren!</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:67 website/thunderbird/115.0/appeal/index.html:56
+#: website/thunderbird/102.0/eoy/index.html:67 website/thunderbird/115.0/appeal/index.html:56 website/thunderbird/115.0/holidayeoy/index.html:67
 msgid "Help keep <strong class=\"block\">Thunderbird Alive!</strong>"
 msgstr "Help <strong class=\"block\">Thunderbird in leven te houden!</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:76
+#: website/thunderbird/102.0/eoy/index.html:76 website/thunderbird/115.0/holidayeoy/index.html:76
 msgid ""
 "<strong>Thunderbird</strong>’s mission is to offer a time and privacy-respecting, customizable communication experience that gives you control of your data and experience. <strong>Free to "
 "everyone!</strong>"
@@ -2169,7 +2190,7 @@ msgstr ""
 "De missie van <strong>Thunderbird</strong> is het bieden van een tijd en privacy respecterende, aanpasbare communicatie-ervaring die u controle geeft over uw gegevens en ervaring. <strong>Gratis "
 "voor iedereen!</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:79
+#: website/thunderbird/102.0/eoy/index.html:79 website/thunderbird/115.0/holidayeoy/index.html:79
 msgid ""
 "Accomplishing that mission means keeping <strong>Thunderbird</strong> secure, maintaining complex server infrastructure, updating old code, fixing bugs and developing new features. <strong>These "
 "activities aren’t cheap</strong> - requiring talented software engineers and robust infrastructure."
@@ -2177,11 +2198,11 @@ msgstr ""
 "Het bereiken van die missie betekent het veilig houden van <strong>Thunderbird</strong>, het onderhouden van een complexe serverinfrastructuur, het bijwerken van oude code, het oplossen van bugs en "
 "het ontwikkelen van nieuwe functies. <strong>Deze activiteiten zijn niet goedkoop</strong> – ze vereisen getalenteerde software-engineers en een robuuste infrastructuur."
 
-#: website/thunderbird/102.0/eoy/index.html:82
+#: website/thunderbird/102.0/eoy/index.html:82 website/thunderbird/115.0/holidayeoy/index.html:82
 msgid "<strong>So today we’re asking you to help us out.</strong> If you get value from using Thunderbird, please consider giving a donation to support it!"
 msgstr "<strong>Vandaag vragen we u dus om ons te helpen.</strong> Als u waarde haalt uit het gebruik van Thunderbird, overweeg dan om een donatie te doen om het te ondersteunen!"
 
-#: website/thunderbird/102.0/eoy/index.html:98 website/thunderbird/115.0/appeal/index.html:95
+#: website/thunderbird/102.0/eoy/index.html:98 website/thunderbird/115.0/appeal/index.html:95 website/thunderbird/115.0/holidayeoy/index.html:98
 msgid "The Thunderbird Team"
 msgstr "Het Thunderbird-team"
 
@@ -2389,11 +2410,11 @@ msgstr ""
 "Wist u dat <strong>minder dan 1%</strong> van de Thunderbird-gebruikers al het werk dat we doen financiert? We tonen geen advertenties of verkopen uw gegevens niet, en we worden volledig "
 "gefinancierd door donaties vanuit onze gemeenschap."
 
-#: website/thunderbird/115.0/eoy/index.html:54
+#: website/thunderbird/115.0/eoy/index.html:56
 msgid "You kept us alive - now help us thrive!"
 msgstr "U hebt ons in leven gehouden – help ons nu te gedijen!"
 
-#: website/thunderbird/115.0/eoy/index.html:57
+#: website/thunderbird/115.0/eoy/index.html:59
 #, python-format
 msgid ""
 "This year, we delivered outstanding visual changes in Thunderbird 115 and <a href=\"%(url)s\">other major improvements</a>. In 2024, we want to make our privacy-respecting email software available "
@@ -2402,15 +2423,15 @@ msgstr ""
 "Dit jaar hebben we uitstekende visuele wijzigingen in Thunderbird 115 en <a href=\"%(url)s\">andere grote verbeteringen</a> doorgevoerd. In 2024 willen we onze privacyrespecterende e-mailsoftware "
 "beschikbaar maken voor miljarden mensen. Stelt u zich Thunderbird eens voor op uw <strong>Android</strong>- en <strong>iOS</strong>-apparaten!"
 
-#: website/thunderbird/115.0/eoy/index.html:58
+#: website/thunderbird/115.0/eoy/index.html:60
 msgid "<strong>We can’t do this without you!</strong> If you get value from using Thunderbird, please consider giving a donation to support this goal."
 msgstr "<strong>We kunnen dit niet zonder u!</strong> Als u waarde haalt uit het gebruik van Thunderbird, overweeg dan om een donatie te doen om dit doel te ondersteunen."
 
-#: website/thunderbird/115.0/eoy/index.html:61
+#: website/thunderbird/115.0/eoy/index.html:63
 msgid "An illustration of Thunderbird on a phone, a desktop, and a tablet."
 msgstr "Een afbeelding van Thunderbird op een telefoon, een desktop en een tablet."
 
-#: website/thunderbird/115.0/eoy/index.html:71
+#: website/thunderbird/115.0/eoy/index.html:73
 msgid "The <strong>Thunderbird</strong> Team"
 msgstr "Het <strong>Thunderbird</strong>-team"
 
@@ -2991,6 +3012,16 @@ msgstr "Uitgaveopmerkingen van elke versie van Thunderbird."
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Uitgaveopmerkingen van Thunderbird zijn specifiek voor elke versie van de toepassing. Selecteer uw versie in de onderstaande lijst om de uitgaveopmerkingen ervoor te bekijken."
+
+#, python-format
+#~ msgid ""
+#~ "We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
+#~ " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
+#~ "href=\"%(url)s\">Privacy Policy</a>. If you would rather not fill in your information on our online form, you can mail us a <a href=\"%(check)s\">check</a>."
+#~ msgstr ""
+#~ "We begrijpen dat uw privacy zeer belangrijk is. Daarom vragen we om een minimale hoeveelheid aan gegevens die nodig zijn om creditcarddonaties te verwerken, waaronder factureringsadressen. Hierdoor "
+#~ "kan onze betalingsverwerker uw identiteit verifiëren, uw betaling verwerken, en frauduleuze kosten voor uw creditcard voorkomen. Uw gegevens worden privé gehouden – als u vragen hebt, wend u dan tot"
+#~ " ons <a href=\"%(url)s\">Privacybeleid</a>. Als u liever niet uw gegevens op ons online formulier invult, kunt u een <a href=\"%(check)s\">cheque</a> toesturen."
 
 #~ msgid "Contact Name"
 #~ msgstr "Contactnaam"

@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-11-07 18:34+0000\n"
+"POT-Creation-Date: 2024-01-17 15:07-0800\n"
 "PO-Revision-Date: 2023-12-19 17:16+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language-Team: none\n"
@@ -29,7 +29,7 @@ msgstr "Υποστηρίξτε μας!"
 
 #: start-page/beta/index.html:22 start-page/release/index.html:22 start-page/release/index.html:37 website/includes/base-resp.html:30 website/includes/base-resp.html:54
 #: website/includes/donate-mailing-list.html:17 website/includes/new/page.html:26 website/includes/new/site-footer.html:12 website/index.html:41 website/index.html:361
-#: website/thunderbird/102.0/whatsnew/index.html:25 website/thunderbird/115.0/eoy/index.html:34 website/thunderbird/91.0/whatsnew/index.html:22
+#: website/thunderbird/102.0/whatsnew/index.html:25 website/thunderbird/115.0/eoy/index.html:35 website/thunderbird/91.0/whatsnew/index.html:22
 msgid "Donate"
 msgstr "Δωρεά"
 
@@ -203,7 +203,7 @@ msgid "If Crash Reporter appears when Thunderbird crashes, please provide as man
 msgstr "Εάν εμφανιστεί η Αναφορά καταρρεύσεων όταν καταρρεύσει το Thunderbird, παρακαλούμε μοιραστείτε όσο το δυνατόν περισσότερες λεπτομέρειες για να βοηθήσετε τους προγραμματιστές."
 
 #: website/404.html:7 website/download/index.html:8 website/download/index.html:51 website/download/index.html:70 website/includes/base-resp.html:20 website/includes/bedrock/base-resp.html:19
-#: website/includes/new/base.html:19 website/includes/new/page.html:18 website/includes/product-metadata.html:2 website/includes/product-metadata.html:21 website/includes/site-footer.html:4
+#: website/includes/new/base.html:24 website/includes/new/page.html:18 website/includes/product-metadata.html:2 website/includes/product-metadata.html:21 website/includes/site-footer.html:4
 #: website/includes/site-footer.html:48 website/includes/site-footer.html:55 website/includes/site-footer.html:62 website/includes/site-prefooter.html:51 website/includes/site-prefooter.html:54
 #: website/index.html:8 website/newsletter/index.html:43 website/newsletter/index.html:50 website/newsletter/index.html:57 website/old-index.html:8 website/old-index.html:154
 #: website/old-index.html:173 website/thunderbird/102.0/beta-appeal/index.html:106
@@ -1525,10 +1525,23 @@ msgstr ""
 " href=\"%(help)s\">επικοινωνήσετε μαζί μας</a>!"
 
 #: website/includes/faq.html:41
+msgid "Why do you need my address in order to process a gift?"
+msgstr "Γιατί χρειάζεστε τη διεύθυνσή μου για την επεξεργασία της δωρεάς;"
+
+#: website/includes/faq.html:44
+#, python-format
+msgid ""
+"We understand that your privacy is very important -- we agree, and that's a core value of ours at Thunderbird and Mozilla. Your address is part of our Payment Processing, Contact and Donation "
+"Information that we outline in our <a href=\"%(url)s\">Privacy Policy</a>. This data is used for payment processing, transactional receipts, fraud detection and record-keeping purposes. If you want "
+"to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
+"Communications & Cookies Privacy Notice</a>."
+msgstr ""
+
+#: website/includes/faq.html:56
 msgid "Does my gift give me access to tech support?"
 msgstr "Εξασφαλίζει η δωρεά μου πρόσβαση σε τεχνική υποστήριξη;"
 
-#: website/includes/faq.html:44
+#: website/includes/faq.html:59
 #, python-format
 msgid ""
 "Anyone can access tech support for Thunderbird by visiting the <a href=\"%(url)s\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial "
@@ -1537,20 +1550,20 @@ msgstr ""
 "Όλοι έχουν πρόσβαση στην τεχνική υποστήριξη του Thunderbird, με μια επίσκεψη στο <a href=\"%(url)s\">φόρουμ υποστήριξης</a>. To Thunderbird δεν παρέχει τεχνική υποστήριξη ή ενισχυμένη τεχνική "
 "υποστήριξη με αντάλλαγμα τις δωρεές."
 
-#: website/includes/faq.html:53
+#: website/includes/faq.html:68
 msgid "How can I turn off the donation message on the Thunderbird start page?"
 msgstr "Πώς μπορώ να απενεργοποιήσω το μήνυμα για δωρεά στην αρχική σελίδα του Thunderbird;"
 
-#: website/includes/faq.html:56
+#: website/includes/faq.html:71
 #, python-format
 msgid "To learn how to customize your start page please visit:<br/><a href=\"%(url)s\">%(url)s</a>"
 msgstr "Για να μάθετε πώς να προσαρμόσετε την αρχική σας σελίδα, παρακαλώ επισκεφτείτε το:<br/><a href=\"%(url)s\">%(url)s</a>"
 
-#: website/includes/faq.html:64
+#: website/includes/faq.html:79
 msgid "Is my gift tax deductible?"
 msgstr "Εκπίπτει η δωρεά μου από τη φορολογία;"
 
-#: website/includes/faq.html:67
+#: website/includes/faq.html:82
 msgid ""
 "Gifts to Thunderbird are <strong>not tax-deductible as charitable gifts</strong>, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-"
 "platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future development."
@@ -1559,11 +1572,11 @@ msgstr ""
 "προγράμματος email και ημερολογίου για πολλαπλές πλατφόρμες, το οποίο διατίθεται δωρεάν για επαγγελματική και προσωπική χρήση. Η δωρεά σας θα μας βοηθήσει να διασφαλίσουμε ότι θα παραμείνει έτσι και"
 " θα υποστηρίξει τη μελλοντική του ανάπτυξη."
 
-#: website/includes/faq.html:78
+#: website/includes/faq.html:93
 msgid "How can I get a business receipt?"
 msgstr "Πώς μπορώ να λάβω απόδειξη επιχείρησης;"
 
-#: website/includes/faq.html:81
+#: website/includes/faq.html:96
 #, python-format
 msgid ""
 "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box 'Donate as an Organization' and include your company name. The receipt you receive to the email address used to "
@@ -1572,11 +1585,11 @@ msgstr ""
 "Όταν κάνετε τη δωρεά σας μέσω της <a href=\"%(donate)s\">διαδικτυακής φόρμας</a> μας, επιλέξτε απλώς το «Δωρεά ως οργανισμός» και συμπεριλάβετε το όνομα της εταιρείας σας. Η απόδειξη που θα λάβετε "
 "στη διεύθυνση email που χρησιμοποιήθηκε για τη συνεισφορά σας, θα συμπεριλαμβάνει τα στοιχεία της επιχείρησής σας."
 
-#: website/includes/faq.html:92
+#: website/includes/faq.html:107
 msgid "Is my donation secure?"
 msgstr "Είναι ασφαλής η δωρεά μου;"
 
-#: website/includes/faq.html:95
+#: website/includes/faq.html:110
 #, python-format
 msgid ""
 "Yes, we use industry-standard SSL technology to keep your information secure. We partner with Stripe, the industry's established payment processor trusted by some of the world's largest companies. "
@@ -1587,27 +1600,11 @@ msgstr ""
 "εταιρείες στον κόσμο. Οι ευαίσθητες χρηματοοικονομικές πληροφορίες σας δεν φθάνουν ποτέ στους διακομιστές μας. Αποστέλλουμε όλα τα δεδομένα απευθείας στους διακομιστές της Stripe σύμφωνα με το "
 "πρότυπο PCI μέσω SSL. Κατανοούμε ότι το απόρρητό σας είναι πολύ σημαντικό. Για περισσότερες πληροφορίες, ανατρέξτε στην <a href=\"%(privacy)s\">Πολιτική απορρήτου της Mozilla</a>."
 
-#: website/includes/faq.html:107
-msgid "Why do you need my address in order to process a gift?"
-msgstr "Γιατί χρειάζεστε τη διεύθυνσή μου για την επεξεργασία της δωρεάς;"
-
-#: website/includes/faq.html:110
-#, python-format
-msgid ""
-"We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
-" to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
-"href=\"%(url)s\">Privacy Policy</a>. If you would rather not fill in your information on our online form, you can mail us a <a href=\"%(check)s\">check</a>."
-msgstr ""
-"Κατανοούμε ότι το απόρρητό σας είναι πολύ σημαντικό. Ζητούμε την ελάχιστη ποσότητα πληροφοριών που απαιτούνται για την επεξεργασία δωρεών μέσω πιστωτικής κάρτας, συμπεριλαμβανομένων και των "
-"διευθύνσεων χρέωσης. Αυτό επιτρέπει στο σύστημα πληρωμών μας να επαληθεύσει την ταυτότητά σας, να επεξεργαστεί την πληρωμή σας και να εμποδίσει μη εγκεκριμένες χρεώσεις στην πιστωτική σας κάρτα. "
-"Διατηρούμε τις πληροφορίες σας ιδιωτικές — αν έχετε απορίες, παρακαλούμε ανατρέξτε στην <a href=\"%(url)s\">Πολιτική απορρήτου</a> μας. Αν προτιμάτε να μη συμπληρώσετε τις πληροφορίες σας στη "
-"διαδικτυακή φόρμα μας, μπορείτε να μας στείλετε ταχυδρομικώς μια <a href=\"%(check)s\">επιταγή</a>."
-
-#: website/includes/faq.html:123
+#: website/includes/faq.html:122
 msgid "Are there additional fees on my donation?"
 msgstr "Υπάρχουν επιπλέον χρεώσεις για τη δωρεά μου;"
 
-#: website/includes/faq.html:126
+#: website/includes/faq.html:125
 msgid ""
 "We do not collect any additional fees or taxes. When you donate in your local currency you are not charged a conversion fee by your credit card. Optionally, you can choose to cover our transaction "
 "costs on your donation. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to "
@@ -1617,11 +1614,11 @@ msgstr ""
 "μας με τη δωρεά σας. Αυτό είναι καθαρά εθελοντικό και μπορείτε να ορίσετε την επιλογή σας χρησιμοποιώντας το πλαίσιο ελέγχου στη φόρμα δωρεάς μας. Ο οργανισμός μας εδρεύει στις Ηνωμένες Πολιτείες. "
 "Ενθαρρύνουμε τους δωρητές να ερευνήσουν τυχόν πρόσθετους εξωτερικούς φόρους ή τέλη που ενδέχεται να εφαρμοστούν από ρυθμιστικές αρχές, όπως η τράπεζά σας ή η φορολογική αρχή σας."
 
-#: website/includes/faq.html:138
+#: website/includes/faq.html:137
 msgid "What are your transaction costs on donations?"
 msgstr "Ποιο είναι το κόστος συναλλαγής σας για τις δωρεές;"
 
-#: website/includes/faq.html:141
+#: website/includes/faq.html:140
 msgid ""
 "When you opt to cover our transaction costs, you're covering both our processing and donation platform costs. The costs associated with our robust online donation system allows us to continue "
 "scaling sustainably as our supporter-base grows. Our donation platform and payment processor partners reduce internal costs associated with maintaining our own system from scratch. Our partners "
@@ -1634,19 +1631,30 @@ msgstr ""
 "παραμείνουμε συμβατοί με το PCI σε όλες τις χώρες από τις οποίες δεχόμαστε δωρεές. Το κόστος συναλλαγής που μπορούν να καλύψουν οι δωρητές βασίζεται σε μια εκτίμηση των συνολικών εξόδων μας. Λόγω "
 "πολλών παραγόντων, τα πραγματικά έξοδα ενδέχεται να διαφέρουν."
 
-#: website/includes/faq.html:154
+#: website/includes/faq.html:153
+msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
+msgstr ""
+
+#: website/includes/faq.html:156
+msgid ""
+"When making a one-time gift through SEPA direct debit, you may notice a mention of recurrent transactions. This is because our payment processor Stripe only supports recurring transactions for this "
+"type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
+"official donation receipt that will clearly reflect the one-time donation."
+msgstr ""
+
+#: website/includes/faq.html:164
 msgid "Can I give in cryptocurrencies?"
 msgstr "Μπορώ να κάνω δωρεά σε κρυπτονομίσματα;"
 
-#: website/includes/faq.html:157
+#: website/includes/faq.html:167
 msgid "<strong>No.</strong> We are not currently accepting cryptocurrency gifts."
 msgstr "<strong>Όχι.</strong> Προς το παρόν, δεν δεχόμαστε δωρεές σε κρυπτονομίσματα."
 
-#: website/includes/faq.html:165
+#: website/includes/faq.html:175
 msgid "How will my gift be used?"
 msgstr "Πώς θα χρησιμοποιηθεί η δωρεά μου;"
 
-#: website/includes/faq.html:168
+#: website/includes/faq.html:178
 msgid ""
 "Thunderbird is the leading open source cross-platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future "
 "development."
@@ -1654,19 +1662,19 @@ msgstr ""
 "Το Thunderbird αποτελεί την κορυφαία, ανοικτού κώδικα, εφαρμογή email και ημερολογίου για πολλαπλές πλατφόρμες, ενώ διατίθεται δωρεάν για εταιρική και προσωπική χρήση. Η δωρεά σας θα βοηθήσει ώστε "
 "να μείνουν όλα όπως είναι και θα συνεισφέρει στη μελλοντική ανάπτυξη."
 
-#: website/includes/faq.html:177
+#: website/includes/faq.html:187
 msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
 msgstr "Ποια είναι η σχέση του Thunderbird με τη MZLA Technologies Corporation;"
 
-#: website/includes/faq.html:180
+#: website/includes/faq.html:190
 msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a wholly owned subsidiary of Mozilla Foundation."
 msgstr "Το Thunderbird είναι ένα έργο της MZLA Technologies Corporation, η οποία ανήκει εξ ολοκλήρου στο Mozilla Foundation."
 
-#: website/includes/faq.html:189
+#: website/includes/faq.html:199
 msgid "Doesn’t Thunderbird earn income?"
 msgstr "Δεν λαμβάνει έσοδα το Thunderbird;"
 
-#: website/includes/faq.html:192
+#: website/includes/faq.html:202
 msgid ""
 "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird. Companies and individuals support the development of the product now and in the "
 "future."
@@ -1674,11 +1682,11 @@ msgstr ""
 "Επί του παρόντος, το μεγαλύτερο μέρος των εσόδων του Thunderbird προέρχεται από γενναιόδωρες δωρεές από τους χρήστες και τους φίλους του Thunderbird. Εταιρείες και ιδιώτες υποστηρίζουν την ανάπτυξη "
 "του προϊόντος τώρα και στο μέλλον."
 
-#: website/includes/faq.html:201
+#: website/includes/faq.html:211
 msgid "Who can I email directly with questions about giving?"
 msgstr "Σε ποιον μπορώ να στείλω απευθείας email με ερωτήσεις σχετικά με τις δωρεές;"
 
-#: website/includes/faq.html:204
+#: website/includes/faq.html:214
 #, python-format
 msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. If you need technical support, please head over to <a href=\"%(support)s\">Thunderbird "
@@ -1809,9 +1817,21 @@ msgstr ""
 "Το MZLA/Thunderbird δέχεται με χαρά τη δωρεά σας <span class=\"%(class)s\">(που καταβάλλεται στη «MZLA Technologies Corp»)</span> μέσω επιταγής·\n"
 "    παρακαλούμε σημειώστε ότι μπορούμε να δεχτούμε επιταγές μόνο σε δολάρια ΗΠΑ, σε τράπεζα των ΗΠΑ."
 
-#: website/includes/ways-to-give.html:17
+#: website/includes/ways-to-give.html:16
 msgid "Please include your email address on the memo line of your check to help us track and attribute your gift."
 msgstr "Παρακαλούμε γράψτε τη διεύθυνση email σας στη γραμμή υπομνήματος της επιταγής σας, ώστε να μας βοηθήσετε να εντοπίσουμε και να αναγνωρίσουμε τη δωρεά σας."
+
+#: website/includes/ways-to-give.html:20
+msgid "IBAN (via SEPA bank transfer)"
+msgstr ""
+
+#: website/includes/ways-to-give.html:43
+msgid "Minimum donation amount: €20"
+msgstr ""
+
+#: website/includes/ways-to-give.html:44
+msgid "Please note that due to the limited contact information we receive during the transfer process, we are unable to issue donation receipts."
+msgstr ""
 
 #: website/includes/donor-contact/fa-body.html:92 website/includes/donor-contact/fa-body.html:96
 msgid "I need"
@@ -2154,35 +2174,35 @@ msgstr ""
 msgid "November 9, 2022"
 msgstr "9 Νοεμβρίου 2022"
 
-#: website/thunderbird/102.0/eoy/index.html:17 website/thunderbird/115.0/appeal/index.html:17
+#: website/thunderbird/102.0/eoy/index.html:17 website/thunderbird/115.0/appeal/index.html:17 website/thunderbird/115.0/holidayeoy/index.html:17
 msgid "Help Keep Thunderbird Alive!"
 msgstr "Βοηθήστε το Thunderbird να επιβιώσει!"
 
-#: website/thunderbird/102.0/eoy/index.html:27
+#: website/thunderbird/102.0/eoy/index.html:27 website/thunderbird/115.0/holidayeoy/index.html:27
 msgid "<span class=\"block font-light font-4xl\">Help Keep</span> Thunderbird Alive!"
 msgstr "<span class=\"block font-light font-4xl\">Βοηθήστε το</span> Thunderbird να επιβιώσει!"
 
-#: website/thunderbird/102.0/eoy/index.html:30
+#: website/thunderbird/102.0/eoy/index.html:30 website/thunderbird/115.0/holidayeoy/index.html:30
 msgid "Did you know that <strong>less than 1%</strong> of Thunderbird users fund all the work we do?"
 msgstr "Γνωρίζατε ότι <strong>λιγότερο από το 1%</strong> των χρηστών του Thunderbird χρηματοδοτούν όλο το έργο μας;"
 
-#: website/thunderbird/102.0/eoy/index.html:33
+#: website/thunderbird/102.0/eoy/index.html:33 website/thunderbird/115.0/holidayeoy/index.html:33
 msgid "<strong>Not too long ago Thunderbird was on the verge of extinction.</strong> It’s because of donations from that small group of users that we are here today!"
 msgstr "<strong>Όχι πολύ καιρό πριν, το Thunderbird βρισκόταν στα πρόθυρα της εξαφάνισης.</strong> Ο λόγος που βρισκόμαστε εδώ σήμερα είναι οι δωρεές αυτής της μικρής ομάδας!"
 
-#: website/thunderbird/102.0/eoy/index.html:36
+#: website/thunderbird/102.0/eoy/index.html:36 website/thunderbird/115.0/holidayeoy/index.html:36
 msgid "We don’t show advertisements or sell your data and we are completely funded by donations from our community."
 msgstr "Δεν προβάλλουμε διαφημίσεις ούτε πωλούμε τα δεδομένα σας και χρηματοδοτούμαστε αποκλειστικά από την κοινότητά μας."
 
-#: website/thunderbird/102.0/eoy/index.html:52 website/thunderbird/115.0/appeal/index.html:41
+#: website/thunderbird/102.0/eoy/index.html:52 website/thunderbird/115.0/appeal/index.html:41 website/thunderbird/115.0/holidayeoy/index.html:52
 msgid "Click here to <strong class=\"block\">Donate!</strong>"
 msgstr "Κάντε κλικ εδώ για <strong class=\"block\">Δωρεά!</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:67 website/thunderbird/115.0/appeal/index.html:56
+#: website/thunderbird/102.0/eoy/index.html:67 website/thunderbird/115.0/appeal/index.html:56 website/thunderbird/115.0/holidayeoy/index.html:67
 msgid "Help keep <strong class=\"block\">Thunderbird Alive!</strong>"
 msgstr "Βοηθήστε το <strong class=\"block\">Thunderbird να επιβιώσει!</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:76
+#: website/thunderbird/102.0/eoy/index.html:76 website/thunderbird/115.0/holidayeoy/index.html:76
 msgid ""
 "<strong>Thunderbird</strong>’s mission is to offer a time and privacy-respecting, customizable communication experience that gives you control of your data and experience. <strong>Free to "
 "everyone!</strong>"
@@ -2190,7 +2210,7 @@ msgstr ""
 "Αποστολή του <strong>Thunderbird</strong> είναι η παροχή μιας προσαρμόσιμης εμπειρίας επικοινωνίας που σέβεται τον χρόνο και το απόρρητο και σας δίνει τον έλεγχο των δεδομένων και της εμπειρίας σας."
 " <strong>Δωρεάν για όλους!</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:79
+#: website/thunderbird/102.0/eoy/index.html:79 website/thunderbird/115.0/holidayeoy/index.html:79
 msgid ""
 "Accomplishing that mission means keeping <strong>Thunderbird</strong> secure, maintaining complex server infrastructure, updating old code, fixing bugs and developing new features. <strong>These "
 "activities aren’t cheap</strong> - requiring talented software engineers and robust infrastructure."
@@ -2198,11 +2218,11 @@ msgstr ""
 "Η εκπλήρωση αυτής της αποστολής σημαίνει διατήρηση της ασφάλειας του <strong>Thunderbird</strong>, διατήρηση της περίπλοκης υποδομής διακομιστών, ενημέρωση του παλαιού κώδικα, διόρθωση των σφαλμάτων"
 " και ανάπτυξη νέων δυνατοτήτων. <strong>Αυτές οι δραστηριότητες δεν είναι φθηνές</strong> - απαιτούνται ταλαντούχοι μηχανικοί λογισμικού και ισχυρή υποδομή."
 
-#: website/thunderbird/102.0/eoy/index.html:82
+#: website/thunderbird/102.0/eoy/index.html:82 website/thunderbird/115.0/holidayeoy/index.html:82
 msgid "<strong>So today we’re asking you to help us out.</strong> If you get value from using Thunderbird, please consider giving a donation to support it!"
 msgstr "<strong>Σήμερα λοιπόν σας ζητάμε να μας βοηθήσετε.</strong> Εάν χρησιμοποιείτε και εκτιμάτε το Thunderbird, σκεφτείτε να κάνετε μια δωρεά για να το υποστηρίξετε!"
 
-#: website/thunderbird/102.0/eoy/index.html:98 website/thunderbird/115.0/appeal/index.html:95
+#: website/thunderbird/102.0/eoy/index.html:98 website/thunderbird/115.0/appeal/index.html:95 website/thunderbird/115.0/holidayeoy/index.html:98
 msgid "The Thunderbird Team"
 msgstr "Η ομάδα του Thunderbird"
 
@@ -2410,11 +2430,11 @@ msgstr ""
 "Γνωρίζατε ότι <strong>λιγότερο από το 1%</strong> των χρηστών του Thunderbird χρηματοδοτούν όλη τη δουλειά που κάνουμε; Δεν προβάλλουμε διαφημίσεις ούτε πουλάμε τα δεδομένα σας και χρηματοδοτούμαστε"
 " αποκλειστικά από τις δωρεές της κοινότητάς μας."
 
-#: website/thunderbird/115.0/eoy/index.html:54
+#: website/thunderbird/115.0/eoy/index.html:56
 msgid "You kept us alive - now help us thrive!"
 msgstr "Επιβιώσαμε χάρη σε εσάς, βοηθήστε μας τώρα να ευδοκιμήσουμε!"
 
-#: website/thunderbird/115.0/eoy/index.html:57
+#: website/thunderbird/115.0/eoy/index.html:59
 #, python-format
 msgid ""
 "This year, we delivered outstanding visual changes in Thunderbird 115 and <a href=\"%(url)s\">other major improvements</a>. In 2024, we want to make our privacy-respecting email software available "
@@ -2423,15 +2443,15 @@ msgstr ""
 "Φέτος, προσφέραμε εξαιρετικές οπτικές αλλαγές και <a href=\"%(url)s\">άλλες μεγάλες βελτιώσεις</a> στο Thunderbird 115. Το 2024, θέλουμε να διαθέσουμε το λογισμικό email μας, που σέβεται το απόρρητό"
 " σας, σε δισεκατομμύρια χρήστες. Φανταστείτε το Thunderbird στις συσκευές σας με <strong>Android</strong> και <strong>iOS</strong>!"
 
-#: website/thunderbird/115.0/eoy/index.html:58
+#: website/thunderbird/115.0/eoy/index.html:60
 msgid "<strong>We can’t do this without you!</strong> If you get value from using Thunderbird, please consider giving a donation to support this goal."
 msgstr "<strong>Αυτό δεν μπορούμε να το κάνουμε χωρίς εσάς!</strong> Εάν χρησιμοποιείτε και εκτιμάτε το Thunderbird, σκεφτείτε να κάνετε μια δωρεά για να το υποστηρίξετε αυτόν τον στόχο."
 
-#: website/thunderbird/115.0/eoy/index.html:61
+#: website/thunderbird/115.0/eoy/index.html:63
 msgid "An illustration of Thunderbird on a phone, a desktop, and a tablet."
 msgstr "Μια απεικόνιση του Thunderbird σε ένα τηλέφωνο, έναν επιτραπέζιο υπολογιστή και ένα tablet."
 
-#: website/thunderbird/115.0/eoy/index.html:71
+#: website/thunderbird/115.0/eoy/index.html:73
 msgid "The <strong>Thunderbird</strong> Team"
 msgstr "Η ομάδα του <strong>Thunderbird</strong>"
 
@@ -3015,6 +3035,17 @@ msgstr "Σημειώσεις έκδοσης για κάθε έκδοση του 
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Οι σημειώσεις έκδοσης του Thunderbird είναι συγκεκριμένες για κάθε έκδοση της εφαρμογής. Επιλέξτε την έκδοσή σας από την παρακάτω λίστα για να δείτε τις αντίστοιχες σημειώσεις έκδοσης."
+
+#, python-format
+#~ msgid ""
+#~ "We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
+#~ " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
+#~ "href=\"%(url)s\">Privacy Policy</a>. If you would rather not fill in your information on our online form, you can mail us a <a href=\"%(check)s\">check</a>."
+#~ msgstr ""
+#~ "Κατανοούμε ότι το απόρρητό σας είναι πολύ σημαντικό. Ζητούμε την ελάχιστη ποσότητα πληροφοριών που απαιτούνται για την επεξεργασία δωρεών μέσω πιστωτικής κάρτας, συμπεριλαμβανομένων και των "
+#~ "διευθύνσεων χρέωσης. Αυτό επιτρέπει στο σύστημα πληρωμών μας να επαληθεύσει την ταυτότητά σας, να επεξεργαστεί την πληρωμή σας και να εμποδίσει μη εγκεκριμένες χρεώσεις στην πιστωτική σας κάρτα. "
+#~ "Διατηρούμε τις πληροφορίες σας ιδιωτικές — αν έχετε απορίες, παρακαλούμε ανατρέξτε στην <a href=\"%(url)s\">Πολιτική απορρήτου</a> μας. Αν προτιμάτε να μη συμπληρώσετε τις πληροφορίες σας στη "
+#~ "διαδικτυακή φόρμα μας, μπορείτε να μας στείλετε ταχυδρομικώς μια <a href=\"%(check)s\">επιταγή</a>."
 
 #~ msgid "Contact Name"
 #~ msgstr "Όνομα επικοινωνίας"

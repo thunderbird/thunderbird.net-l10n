@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-11-07 18:34+0000\n"
+"POT-Creation-Date: 2024-01-17 15:07-0800\n"
 "PO-Revision-Date: 2023-11-08 12:24+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language-Team: none\n"
@@ -29,7 +29,7 @@ msgstr "Cefnogwch ni!"
 
 #: start-page/beta/index.html:22 start-page/release/index.html:22 start-page/release/index.html:37 website/includes/base-resp.html:30 website/includes/base-resp.html:54
 #: website/includes/donate-mailing-list.html:17 website/includes/new/page.html:26 website/includes/new/site-footer.html:12 website/index.html:41 website/index.html:361
-#: website/thunderbird/102.0/whatsnew/index.html:25 website/thunderbird/115.0/eoy/index.html:34 website/thunderbird/91.0/whatsnew/index.html:22
+#: website/thunderbird/102.0/whatsnew/index.html:25 website/thunderbird/115.0/eoy/index.html:35 website/thunderbird/91.0/whatsnew/index.html:22
 msgid "Donate"
 msgstr "Cyfrannwch"
 
@@ -199,7 +199,7 @@ msgid "If Crash Reporter appears when Thunderbird crashes, please provide as man
 msgstr "Os bydd yr Adroddwr Chwalu'n ymddangos pan fydd Thunderbird wedi chwalu, rhowch ragor o fanylion i helpu datblygwyr."
 
 #: website/404.html:7 website/download/index.html:8 website/download/index.html:51 website/download/index.html:70 website/includes/base-resp.html:20 website/includes/bedrock/base-resp.html:19
-#: website/includes/new/base.html:19 website/includes/new/page.html:18 website/includes/product-metadata.html:2 website/includes/product-metadata.html:21 website/includes/site-footer.html:4
+#: website/includes/new/base.html:24 website/includes/new/page.html:18 website/includes/product-metadata.html:2 website/includes/product-metadata.html:21 website/includes/site-footer.html:4
 #: website/includes/site-footer.html:48 website/includes/site-footer.html:55 website/includes/site-footer.html:62 website/includes/site-prefooter.html:51 website/includes/site-prefooter.html:54
 #: website/index.html:8 website/newsletter/index.html:43 website/newsletter/index.html:50 website/newsletter/index.html:57 website/old-index.html:8 website/old-index.html:154
 #: website/old-index.html:173 website/thunderbird/102.0/beta-appeal/index.html:106
@@ -1502,10 +1502,23 @@ msgstr ""
 "diddymu eich cynllun rhoddion cylchol. Os ydych chi'n dod ar draws unrhyw broblemau gallwch chi bob amser <a href=\"%(help)s\">cysylltu â ni</a>!"
 
 #: website/includes/faq.html:41
+msgid "Why do you need my address in order to process a gift?"
+msgstr "Pam mae angen fy nghyfeiriad arnoch er mwyn prosesu rhodd?"
+
+#: website/includes/faq.html:44
+#, python-format
+msgid ""
+"We understand that your privacy is very important -- we agree, and that's a core value of ours at Thunderbird and Mozilla. Your address is part of our Payment Processing, Contact and Donation "
+"Information that we outline in our <a href=\"%(url)s\">Privacy Policy</a>. This data is used for payment processing, transactional receipts, fraud detection and record-keeping purposes. If you want "
+"to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
+"Communications & Cookies Privacy Notice</a>."
+msgstr ""
+
+#: website/includes/faq.html:56
 msgid "Does my gift give me access to tech support?"
 msgstr "A yw fy rhodd yn rhoi mynediad i gefnogaeth dechnegol i mi?"
 
-#: website/includes/faq.html:44
+#: website/includes/faq.html:59
 #, python-format
 msgid ""
 "Anyone can access tech support for Thunderbird by visiting the <a href=\"%(url)s\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial "
@@ -1514,20 +1527,20 @@ msgstr ""
 "Gall unrhyw un gael cymorth technoleg ar gyfer Thunderbird trwy fynd i'r <a href=\"%(url)s\">fforwm cymorth</a>. Nid yw Thunderbird yn darparu cymorth technolegol na chymorth technolegol uwch yn "
 "gyfnewid am roddion ariannol."
 
-#: website/includes/faq.html:53
+#: website/includes/faq.html:68
 msgid "How can I turn off the donation message on the Thunderbird start page?"
 msgstr "A oes modd i mi i ddiffodd yr apêl ar dudalen gychwyn Thunderbird?"
 
-#: website/includes/faq.html:56
+#: website/includes/faq.html:71
 #, python-format
 msgid "To learn how to customize your start page please visit:<br/><a href=\"%(url)s\">%(url)s</a>"
 msgstr "I weld sut i gyfaddasu eich tudalen gychwyn ewch i:<br/><a href=\"%(url)s\">%(url)s</a>"
 
-#: website/includes/faq.html:64
+#: website/includes/faq.html:79
 msgid "Is my gift tax deductible?"
 msgstr "A oes modd tynnu treth o fy rhodd?"
 
-#: website/includes/faq.html:67
+#: website/includes/faq.html:82
 msgid ""
 "Gifts to Thunderbird are <strong>not tax-deductible as charitable gifts</strong>, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-"
 "platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future development."
@@ -1535,11 +1548,11 @@ msgstr ""
 "Nid oes modd <strong>tynnu treth o roddion</strong> i Thunderbird, ond maen nhw'n cael eu gwerthfawrogi yn fawr. Mae rhoi i Thunderbird yn cefnogi datblygiad ein rhaglen e-bost a chalendrau traws-"
 "lwyfan cod agored blaengar, sydd am ddim at ddefnydd busnes a phersonol. Bydd eich rhodd yn helpu i sicrhau ei fod yn aros felly, a bydd yn cefnogi ei ddatblygiad i'r dyfodol."
 
-#: website/includes/faq.html:78
+#: website/includes/faq.html:93
 msgid "How can I get a business receipt?"
 msgstr "Sut ga i dderbynneb busnes?"
 
-#: website/includes/faq.html:81
+#: website/includes/faq.html:96
 #, python-format
 msgid ""
 "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box 'Donate as an Organization' and include your company name. The receipt you receive to the email address used to "
@@ -1548,11 +1561,11 @@ msgstr ""
 "Pan fyddwch yn rhoi drwy ein <a href=\"%(donate)s\">ffurflen ar-lein</a>, ticiwch y blwch 'Donate as an Organisation' a chynnwys enw eich cwmni. Bydd y dderbynneb a gewch i'r cyfeiriad e-bost a "
 "ddefnyddiwyd i wneud eich cyfraniad yn cynnwys manylion eich busnes."
 
-#: website/includes/faq.html:92
+#: website/includes/faq.html:107
 msgid "Is my donation secure?"
 msgstr "A yw fy rhodd yn ddiogel?"
 
-#: website/includes/faq.html:95
+#: website/includes/faq.html:110
 #, python-format
 msgid ""
 "Yes, we use industry-standard SSL technology to keep your information secure. We partner with Stripe, the industry's established payment processor trusted by some of the world's largest companies. "
@@ -1563,26 +1576,11 @@ msgstr ""
 "ymddiried ynddo. Nid yw eich manylion ariannol sensitif byth yn cyffwrdd â'n gweinyddion. Rydym yn anfon yr holl ddata yn uniongyrchol i weinyddion sy'n cydymffurfio â PCI Stripe trwy SSL. Rydym yn "
 "deall bod eich preifatrwydd yn bwysig iawn. Am wybodaeth bellach cyfeiriwch at <a href=\"%(privacy)s\">Bolisi Preifatrwydd Mozilla</a>."
 
-#: website/includes/faq.html:107
-msgid "Why do you need my address in order to process a gift?"
-msgstr "Pam mae angen fy nghyfeiriad arnoch er mwyn prosesu rhodd?"
-
-#: website/includes/faq.html:110
-#, python-format
-msgid ""
-"We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
-" to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
-"href=\"%(url)s\">Privacy Policy</a>. If you would rather not fill in your information on our online form, you can mail us a <a href=\"%(check)s\">check</a>."
-msgstr ""
-"Rydym yn deall bod eich preifatrwydd yn bwysig iawn. Gofynnwn am yr isafswm o wybodaeth sydd ei hangen i brosesu taliadau cerdyn credyd, gan gynnwys cyfeiriadau bilio. Mae hyn yn caniatáu i'n "
-"prosesydd taliadau wirio pwy ydych chi, prosesu'ch taliad, ac atal taliadau twyllodrus i'ch cerdyn credyd. Rydym yn cadw eich gwybodaeth yn breifat - os oes gennych gwestiynau, cyfeiriwch at ein <a "
-"href=\"%(url)s\">Polisi Preifatrwydd</a>. Os byddai'n well gennych beidio â llenwi'ch manylion ar ein ffurflen ar-lein, gallwch bostio <a href=\"%(check)s\">siec</a> atom."
-
-#: website/includes/faq.html:123
+#: website/includes/faq.html:122
 msgid "Are there additional fees on my donation?"
 msgstr "A oes ffioedd ychwanegol at fy rhodd?"
 
-#: website/includes/faq.html:126
+#: website/includes/faq.html:125
 msgid ""
 "We do not collect any additional fees or taxes. When you donate in your local currency you are not charged a conversion fee by your credit card. Optionally, you can choose to cover our transaction "
 "costs on your donation. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to "
@@ -1592,11 +1590,11 @@ msgstr ""
 "costau trafodion yn eich rhodd. Mae hyn yn gwbl wirfoddol a gallwch optio i mewn neu allan gan ddefnyddio'r blwch ticio ar ein ffurflen gyfrannu. Mae ein sefydliad wedi'i leoli yn yr Unol "
 "Daleithiau. Rydym yn annog rhoddwyr i ymchwilio i unrhyw drethi neu ffioedd allanol ychwanegol y mae modd eu cymhwyso gan reoleiddwyr fel eich banc neu awdurdod treth."
 
-#: website/includes/faq.html:138
+#: website/includes/faq.html:137
 msgid "What are your transaction costs on donations?"
 msgstr "Beth yw eich costau trafodion ar roddion?"
 
-#: website/includes/faq.html:141
+#: website/includes/faq.html:140
 msgid ""
 "When you opt to cover our transaction costs, you're covering both our processing and donation platform costs. The costs associated with our robust online donation system allows us to continue "
 "scaling sustainably as our supporter-base grows. Our donation platform and payment processor partners reduce internal costs associated with maintaining our own system from scratch. Our partners "
@@ -1608,19 +1606,30 @@ msgstr ""
 "ein hunain o'r dechrau. Mae ein partneriaid yn sicrhau y gallwn dderbyn ystod eang o arian cyfred/dulliau talu ac yn parhau i gydymffurfio â PCI ym mhob un o'r gwledydd yr ydym yn derbyn rhoddion "
 "oddi wrthynt. Mae'r costau trafodion y gall rhoddwyr ddewis eu talu yn seiliedig ar amcangyfrif o'n costau cyffredinol. Oherwydd llawer o ffactorau gall costau gwirioneddol amrywio."
 
-#: website/includes/faq.html:154
+#: website/includes/faq.html:153
+msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
+msgstr ""
+
+#: website/includes/faq.html:156
+msgid ""
+"When making a one-time gift through SEPA direct debit, you may notice a mention of recurrent transactions. This is because our payment processor Stripe only supports recurring transactions for this "
+"type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
+"official donation receipt that will clearly reflect the one-time donation."
+msgstr ""
+
+#: website/includes/faq.html:164
 msgid "Can I give in cryptocurrencies?"
 msgstr "A allaf roi arian cyfred digidol i mewn?"
 
-#: website/includes/faq.html:157
+#: website/includes/faq.html:167
 msgid "<strong>No.</strong> We are not currently accepting cryptocurrency gifts."
 msgstr "<strong>Na.</strong> Nid ydym yn derbyn rhoddion arian cyfred digidol ar hyn o bryd."
 
-#: website/includes/faq.html:165
+#: website/includes/faq.html:175
 msgid "How will my gift be used?"
 msgstr "Sut fydd fy rhodd yn cael ei defnyddio?"
 
-#: website/includes/faq.html:168
+#: website/includes/faq.html:178
 msgid ""
 "Thunderbird is the leading open source cross-platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future "
 "development."
@@ -1628,29 +1637,29 @@ msgstr ""
 "Thunderbird yw'r prif rhaglen e-bost a chalendr traws-blatfform cod agored, am ddim at ddefnydd busnes a phersonol. Bydd eich rhodd yn helpu i sicrhau ei fod yn aros felly ac yn cyfrannu at "
 "ddatblygiad yn y dyfodol."
 
-#: website/includes/faq.html:177
+#: website/includes/faq.html:187
 msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
 msgstr "Beth yw perthynas Thunderbird â MZLA Technologies Corporation?"
 
-#: website/includes/faq.html:180
+#: website/includes/faq.html:190
 msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a wholly owned subsidiary of Mozilla Foundation."
 msgstr "Mae Thunderbird yn broject sy'n perthyn i MZLA Technologies Corporation, sef is-gwmni sy'n eiddo llwyr i Mozilla Foundation."
 
-#: website/includes/faq.html:189
+#: website/includes/faq.html:199
 msgid "Doesn’t Thunderbird earn income?"
 msgstr "Onid yw Thunderbird yn ennill incwm?"
 
-#: website/includes/faq.html:192
+#: website/includes/faq.html:202
 msgid ""
 "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird. Companies and individuals support the development of the product now and in the "
 "future."
 msgstr "Ar hyn o bryd, mae mwyafrif refeniw Thunderbird yn dod o roddion hael gan ddefnyddwyr a ffrindiau Thunderbird. Mae cwmnïau ac unigolion yn cefnogi datblygiad y cynnyrch nawr ac i'r dyfodol."
 
-#: website/includes/faq.html:201
+#: website/includes/faq.html:211
 msgid "Who can I email directly with questions about giving?"
 msgstr "At bwy y gallaf anfon e-bost yn uniongyrchol gyda chwestiynau am roi?"
 
-#: website/includes/faq.html:204
+#: website/includes/faq.html:214
 #, python-format
 msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. If you need technical support, please head over to <a href=\"%(support)s\">Thunderbird "
@@ -1781,9 +1790,21 @@ msgstr ""
 "Mae MZLA/Thunderbird yn hapus i dderbyn eich rhodd <span class=\"%(class)s\">(yn daladwy i “MZLA Technologies Corp”)</span> trwy siec;\n"
 "    fodd bynnag nodwch mai dim ond sieciau mewn doleri yr UDA sy'n cael ei dynnu ar fanc yn yr UDA y gallwn eu derbyn."
 
-#: website/includes/ways-to-give.html:17
+#: website/includes/ways-to-give.html:16
 msgid "Please include your email address on the memo line of your check to help us track and attribute your gift."
 msgstr "Cofiwch gynnwys eich cyfeiriad e-bost ar linell memo eich siec i'n helpu i olrhain a phriodoli'ch rhodd."
+
+#: website/includes/ways-to-give.html:20
+msgid "IBAN (via SEPA bank transfer)"
+msgstr ""
+
+#: website/includes/ways-to-give.html:43
+msgid "Minimum donation amount: €20"
+msgstr ""
+
+#: website/includes/ways-to-give.html:44
+msgid "Please note that due to the limited contact information we receive during the transfer process, we are unable to issue donation receipts."
+msgstr ""
 
 #: website/includes/donor-contact/fa-body.html:92 website/includes/donor-contact/fa-body.html:96
 msgid "I need"
@@ -2125,35 +2146,35 @@ msgstr ""
 msgid "November 9, 2022"
 msgstr "Tachwedd 9, 2022"
 
-#: website/thunderbird/102.0/eoy/index.html:17 website/thunderbird/115.0/appeal/index.html:17
+#: website/thunderbird/102.0/eoy/index.html:17 website/thunderbird/115.0/appeal/index.html:17 website/thunderbird/115.0/holidayeoy/index.html:17
 msgid "Help Keep Thunderbird Alive!"
 msgstr "Helpwch i Gadw Thunderbird yn Fyw!"
 
-#: website/thunderbird/102.0/eoy/index.html:27
+#: website/thunderbird/102.0/eoy/index.html:27 website/thunderbird/115.0/holidayeoy/index.html:27
 msgid "<span class=\"block font-light font-4xl\">Help Keep</span> Thunderbird Alive!"
 msgstr "<span class=\"block font-light font-4xl\">Helpwch i Gadw</span> Thunderbird yn Fyw!"
 
-#: website/thunderbird/102.0/eoy/index.html:30
+#: website/thunderbird/102.0/eoy/index.html:30 website/thunderbird/115.0/holidayeoy/index.html:30
 msgid "Did you know that <strong>less than 1%</strong> of Thunderbird users fund all the work we do?"
 msgstr "Oeddech chi'n gwybod bod <strong>llai nag 1%</strong> o ddefnyddwyr Thunderbird yn ariannu'r holl waith rydyn ni'n ei wneud?"
 
-#: website/thunderbird/102.0/eoy/index.html:33
+#: website/thunderbird/102.0/eoy/index.html:33 website/thunderbird/115.0/holidayeoy/index.html:33
 msgid "<strong>Not too long ago Thunderbird was on the verge of extinction.</strong> It’s because of donations from that small group of users that we are here today!"
 msgstr "<strong>Ddim yn hir iawn yn ôl roedd Thunderbird ar fin diflannu.</strong> Oherwydd rhoddion gan y grŵp bach hwnnw o ddefnyddwyr rydym ni yma heddiw!"
 
-#: website/thunderbird/102.0/eoy/index.html:36
+#: website/thunderbird/102.0/eoy/index.html:36 website/thunderbird/115.0/holidayeoy/index.html:36
 msgid "We don’t show advertisements or sell your data and we are completely funded by donations from our community."
 msgstr "Dydy'n ni ddim yn dangos hysbysebion nac yn gwerthu eich data ac rydyn ni'n cael ein hariannu'n llwyr gan roddion gan ein cymuned."
 
-#: website/thunderbird/102.0/eoy/index.html:52 website/thunderbird/115.0/appeal/index.html:41
+#: website/thunderbird/102.0/eoy/index.html:52 website/thunderbird/115.0/appeal/index.html:41 website/thunderbird/115.0/holidayeoy/index.html:52
 msgid "Click here to <strong class=\"block\">Donate!</strong>"
 msgstr "Cliciwch yma i <strong class=\"block\">Roi!</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:67 website/thunderbird/115.0/appeal/index.html:56
+#: website/thunderbird/102.0/eoy/index.html:67 website/thunderbird/115.0/appeal/index.html:56 website/thunderbird/115.0/holidayeoy/index.html:67
 msgid "Help keep <strong class=\"block\">Thunderbird Alive!</strong>"
 msgstr "Helpwch i gadw <strong class=\"block\">Thunderbird yn Fyw!</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:76
+#: website/thunderbird/102.0/eoy/index.html:76 website/thunderbird/115.0/holidayeoy/index.html:76
 msgid ""
 "<strong>Thunderbird</strong>’s mission is to offer a time and privacy-respecting, customizable communication experience that gives you control of your data and experience. <strong>Free to "
 "everyone!</strong>"
@@ -2161,7 +2182,7 @@ msgstr ""
 "Cenhadaeth <strong>Thunderbird</strong> yw cynnig profiad cyfathrebu hawdd ei addasu sy'n parchu preifatrwydd ac sy'n rhoi rheolaeth i chi ar eich data a'ch profiad. <strong>Ac am ddim i "
 "bawb!</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:79
+#: website/thunderbird/102.0/eoy/index.html:79 website/thunderbird/115.0/holidayeoy/index.html:79
 msgid ""
 "Accomplishing that mission means keeping <strong>Thunderbird</strong> secure, maintaining complex server infrastructure, updating old code, fixing bugs and developing new features. <strong>These "
 "activities aren’t cheap</strong> - requiring talented software engineers and robust infrastructure."
@@ -2169,11 +2190,11 @@ msgstr ""
 "Mae cyflawni'r genhadaeth honno'n golygu cadw <strong>Thunderbird</strong> yn ddiogel, cynnal seilwaith gweinydd cymhleth, diweddaru hen god, cywiro gwallau a datblygu nodweddion newydd. <strong>Nid"
 " yw'r gweithgareddau hyn yn rhad</strong> - mae angen peirianwyr meddalwedd dawnus a seilwaith cadarn."
 
-#: website/thunderbird/102.0/eoy/index.html:82
+#: website/thunderbird/102.0/eoy/index.html:82 website/thunderbird/115.0/holidayeoy/index.html:82
 msgid "<strong>So today we’re asking you to help us out.</strong> If you get value from using Thunderbird, please consider giving a donation to support it!"
 msgstr "<strong>Felly heddiw rydyn ni'n gofyn i chi ein helpu ni.</strong> Os ydych chi'n cael gwerth drwy ddefnyddio Thunderbird, ystyriwch roi cyfraniad i'w gefnogi!"
 
-#: website/thunderbird/102.0/eoy/index.html:98 website/thunderbird/115.0/appeal/index.html:95
+#: website/thunderbird/102.0/eoy/index.html:98 website/thunderbird/115.0/appeal/index.html:95 website/thunderbird/115.0/holidayeoy/index.html:98
 msgid "The Thunderbird Team"
 msgstr "Tîm Thunderbird"
 
@@ -2381,11 +2402,11 @@ msgstr ""
 "Oeddech chi'n gwybod bod <strong>llai nag 1%</strong> o ddefnyddwyr Thunderbird yn ariannu'r holl waith rydyn ni'n ei wneud? Nid ydym yn dangos hysbysebion nac yn gwerthu eich data, ac rydym yn cael"
 " ein hariannu'n llwyr gan roddion gan ein cymuned."
 
-#: website/thunderbird/115.0/eoy/index.html:54
+#: website/thunderbird/115.0/eoy/index.html:56
 msgid "You kept us alive - now help us thrive!"
 msgstr "Chi sydd wedi'n cadw ni'n fyw - nawr helpwch ni i ffynnu!"
 
-#: website/thunderbird/115.0/eoy/index.html:57
+#: website/thunderbird/115.0/eoy/index.html:59
 #, python-format
 msgid ""
 "This year, we delivered outstanding visual changes in Thunderbird 115 and <a href=\"%(url)s\">other major improvements</a>. In 2024, we want to make our privacy-respecting email software available "
@@ -2394,15 +2415,15 @@ msgstr ""
 "Eleni, rydym wedi cyflawni newidiadau gweledol rhagorol yn Thunderbird 115 a <a href=\"%(url)s\">gwelliannau mawr eraill</a>. Yn 2024, rydym am sicrhau bod ein meddalwedd e-bost sy'n parchu "
 "preifatrwydd ar gael i filiynau. Dychmygwch Thunderbird ar eich dyfeisiau <strong>Android</strong> ac <strong>iOS</strong>!"
 
-#: website/thunderbird/115.0/eoy/index.html:58
+#: website/thunderbird/115.0/eoy/index.html:60
 msgid "<strong>We can’t do this without you!</strong> If you get value from using Thunderbird, please consider giving a donation to support this goal."
 msgstr "<strong>Allwn ni ddim gwneud hyn heboch chi!</strong> Os ydych chi'n cael gwerth o ddefnyddio Thunderbird, ystyriwch roi cyfraniad i gefnogi'r nod hwn."
 
-#: website/thunderbird/115.0/eoy/index.html:61
+#: website/thunderbird/115.0/eoy/index.html:63
 msgid "An illustration of Thunderbird on a phone, a desktop, and a tablet."
 msgstr "Darlun o Thunderbird ar ffôn, bwrdd gwaith, a thabled."
 
-#: website/thunderbird/115.0/eoy/index.html:71
+#: website/thunderbird/115.0/eoy/index.html:73
 msgid "The <strong>Thunderbird</strong> Team"
 msgstr "Tîm <strong>Thunderbird</strong>"
 
@@ -2984,6 +3005,16 @@ msgstr "Nodiadau ryddhau ar gyfer pob fersiwn o Thunderbird."
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Mae nodiadau rhyddhau Thunderbird yn benodol i bob fersiwn o'r rhaglen. Dewiswch eich fersiwn chi o'r rhestr isod i weld y nodiadau rhyddhau ar ei gyfer."
+
+#, python-format
+#~ msgid ""
+#~ "We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
+#~ " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
+#~ "href=\"%(url)s\">Privacy Policy</a>. If you would rather not fill in your information on our online form, you can mail us a <a href=\"%(check)s\">check</a>."
+#~ msgstr ""
+#~ "Rydym yn deall bod eich preifatrwydd yn bwysig iawn. Gofynnwn am yr isafswm o wybodaeth sydd ei hangen i brosesu taliadau cerdyn credyd, gan gynnwys cyfeiriadau bilio. Mae hyn yn caniatáu i'n "
+#~ "prosesydd taliadau wirio pwy ydych chi, prosesu'ch taliad, ac atal taliadau twyllodrus i'ch cerdyn credyd. Rydym yn cadw eich gwybodaeth yn breifat - os oes gennych gwestiynau, cyfeiriwch at ein <a "
+#~ "href=\"%(url)s\">Polisi Preifatrwydd</a>. Os byddai'n well gennych beidio â llenwi'ch manylion ar ein ffurflen ar-lein, gallwch bostio <a href=\"%(check)s\">siec</a> atom."
 
 #~ msgid "Contact Name"
 #~ msgstr "Enw Cyswllt"

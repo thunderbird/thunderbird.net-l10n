@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-11-07 18:34+0000\n"
+"POT-Creation-Date: 2024-01-17 15:07-0800\n"
 "PO-Revision-Date: 2023-12-15 09:53+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: none\n"
@@ -29,7 +29,7 @@ msgstr "Styddu okkur!"
 
 #: start-page/beta/index.html:22 start-page/release/index.html:22 start-page/release/index.html:37 website/includes/base-resp.html:30 website/includes/base-resp.html:54
 #: website/includes/donate-mailing-list.html:17 website/includes/new/page.html:26 website/includes/new/site-footer.html:12 website/index.html:41 website/index.html:361
-#: website/thunderbird/102.0/whatsnew/index.html:25 website/thunderbird/115.0/eoy/index.html:34 website/thunderbird/91.0/whatsnew/index.html:22
+#: website/thunderbird/102.0/whatsnew/index.html:25 website/thunderbird/115.0/eoy/index.html:35 website/thunderbird/91.0/whatsnew/index.html:22
 msgid "Donate"
 msgstr "Styrktu verkefnið"
 
@@ -199,7 +199,7 @@ msgid "If Crash Reporter appears when Thunderbird crashes, please provide as man
 msgstr "Ef hrunskýrsluglugginn birtist þegar Thunderbird hrynur, skaltu endilega gefa upp nánari upplýsingar til að hjálpa forriturunum."
 
 #: website/404.html:7 website/download/index.html:8 website/download/index.html:51 website/download/index.html:70 website/includes/base-resp.html:20 website/includes/bedrock/base-resp.html:19
-#: website/includes/new/base.html:19 website/includes/new/page.html:18 website/includes/product-metadata.html:2 website/includes/product-metadata.html:21 website/includes/site-footer.html:4
+#: website/includes/new/base.html:24 website/includes/new/page.html:18 website/includes/product-metadata.html:2 website/includes/product-metadata.html:21 website/includes/site-footer.html:4
 #: website/includes/site-footer.html:48 website/includes/site-footer.html:55 website/includes/site-footer.html:62 website/includes/site-prefooter.html:51 website/includes/site-prefooter.html:54
 #: website/index.html:8 website/newsletter/index.html:43 website/newsletter/index.html:50 website/newsletter/index.html:57 website/old-index.html:8 website/old-index.html:154
 #: website/old-index.html:173 website/thunderbird/102.0/beta-appeal/index.html:106
@@ -1492,10 +1492,23 @@ msgid ""
 msgstr ""
 
 #: website/includes/faq.html:41
+msgid "Why do you need my address in order to process a gift?"
+msgstr "Af hverju þarf heimilisfangið mitt til að vinna með styrk?"
+
+#: website/includes/faq.html:44
+#, python-format
+msgid ""
+"We understand that your privacy is very important -- we agree, and that's a core value of ours at Thunderbird and Mozilla. Your address is part of our Payment Processing, Contact and Donation "
+"Information that we outline in our <a href=\"%(url)s\">Privacy Policy</a>. This data is used for payment processing, transactional receipts, fraud detection and record-keeping purposes. If you want "
+"to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
+"Communications & Cookies Privacy Notice</a>."
+msgstr ""
+
+#: website/includes/faq.html:56
 msgid "Does my gift give me access to tech support?"
 msgstr "Veitir styrkurinn minn mér aðgang að tæknilegri aðstoð?"
 
-#: website/includes/faq.html:44
+#: website/includes/faq.html:59
 #, python-format
 msgid ""
 "Anyone can access tech support for Thunderbird by visiting the <a href=\"%(url)s\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial "
@@ -1504,20 +1517,20 @@ msgstr ""
 "Hver sem er getur fengið aðgang að tækniaðstoð fyrir Thunderbird með því að fara á <a href=\"%(url)s\">aðstoðarvefinn</a>. Thunderbird veitir sjálft ekki tækniaðstoð eða aukna tækniaðstoð í skiptum "
 "fyrir fjárhagslegan stuðning."
 
-#: website/includes/faq.html:53
+#: website/includes/faq.html:68
 msgid "How can I turn off the donation message on the Thunderbird start page?"
 msgstr "Hvernig get ég slökkt á styrkáskoruninni á upphafssíðu Thunderbird?"
 
-#: website/includes/faq.html:56
+#: website/includes/faq.html:71
 #, python-format
 msgid "To learn how to customize your start page please visit:<br/><a href=\"%(url)s\">%(url)s</a>"
 msgstr "Til að sjá hvernig hægt er að sérsníða upphafssíðuna þína skaltu fara á:<br/><a href=\"%(url)s\">%(url)s</a>"
 
-#: website/includes/faq.html:64
+#: website/includes/faq.html:79
 msgid "Is my gift tax deductible?"
 msgstr "Er styrkurinn frá mér frádráttarbær frá skatti?"
 
-#: website/includes/faq.html:67
+#: website/includes/faq.html:82
 msgid ""
 "Gifts to Thunderbird are <strong>not tax-deductible as charitable gifts</strong>, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-"
 "platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future development."
@@ -1525,22 +1538,22 @@ msgstr ""
 "Gjafir til Thunderbird eru <strong>ekki frádráttarbærar frá skatti</strong>, en eru mjög vel þegnar. Styrkir til Thunderbird styðja þróun á leiðandi tölvupóst- og dagatalskerfum okkar, með opinn "
 "grunnkóða og ókeypis fyrir fyrirtæki og einkanotkun. Gjöfin þín mun hjálpa til við að tryggja að þetta haldist þannig áfram og mun styðja við framtíðarþróun."
 
-#: website/includes/faq.html:78
+#: website/includes/faq.html:93
 msgid "How can I get a business receipt?"
 msgstr "Hvernig get ég fengið viðskiptakvittun?"
 
-#: website/includes/faq.html:81
+#: website/includes/faq.html:96
 #, python-format
 msgid ""
 "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box 'Donate as an Organization' and include your company name. The receipt you receive to the email address used to "
 "make your contribution will include your business information."
 msgstr ""
 
-#: website/includes/faq.html:92
+#: website/includes/faq.html:107
 msgid "Is my donation secure?"
 msgstr "Er framlag mitt öruggt?"
 
-#: website/includes/faq.html:95
+#: website/includes/faq.html:110
 #, python-format
 msgid ""
 "Yes, we use industry-standard SSL technology to keep your information secure. We partner with Stripe, the industry's established payment processor trusted by some of the world's largest companies. "
@@ -1548,38 +1561,22 @@ msgid ""
 "complete information please refer to the <a href=\"%(privacy)s\">Mozilla Privacy Policy</a>."
 msgstr ""
 
-#: website/includes/faq.html:107
-msgid "Why do you need my address in order to process a gift?"
-msgstr "Af hverju þarf heimilisfangið mitt til að vinna með styrk?"
-
-#: website/includes/faq.html:110
-#, python-format
-msgid ""
-"We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
-" to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
-"href=\"%(url)s\">Privacy Policy</a>. If you would rather not fill in your information on our online form, you can mail us a <a href=\"%(check)s\">check</a>."
-msgstr ""
-"Við skiljum að friðhelgi þín er þér mjög mikilvæg. Við biðjum aðeins um lágmarksupplýsingar sem þarf til að afgreiða kortagreiðslur, þar með talin heimilisföng. Þetta gerir greiðslumiðlun okkar "
-"kleift að sannreyna hver þú sért, að vinna úr greiðslunni þinni og að koma í veg fyrir falsaðar kröfur á kreditkortið þitt. Við höldum upplýsingum þínum leyndum - ef þú ert með einhverjar "
-"spurningar, þá skaltu skoða <a href=\"%(url)s\">persónuverndarstefnu</a> okkar. Ef þú vilt helst ekki fylla út upplýsingarnar þínar á netforminu okkar geturðu sent okkur <a "
-"href=\"%(check)s\">ávísun</a>."
-
-#: website/includes/faq.html:123
+#: website/includes/faq.html:122
 msgid "Are there additional fees on my donation?"
 msgstr "Eru einhver aukagjöld lögð á fjárframlög?"
 
-#: website/includes/faq.html:126
+#: website/includes/faq.html:125
 msgid ""
 "We do not collect any additional fees or taxes. When you donate in your local currency you are not charged a conversion fee by your credit card. Optionally, you can choose to cover our transaction "
 "costs on your donation. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to "
 "research any additional external taxes or fees that may be applied by regulators such as your bank or tax authority."
 msgstr ""
 
-#: website/includes/faq.html:138
+#: website/includes/faq.html:137
 msgid "What are your transaction costs on donations?"
 msgstr "Hver er færslukostnaður ykkar á framlögum?"
 
-#: website/includes/faq.html:141
+#: website/includes/faq.html:140
 msgid ""
 "When you opt to cover our transaction costs, you're covering both our processing and donation platform costs. The costs associated with our robust online donation system allows us to continue "
 "scaling sustainably as our supporter-base grows. Our donation platform and payment processor partners reduce internal costs associated with maintaining our own system from scratch. Our partners "
@@ -1587,19 +1584,30 @@ msgid ""
 " on an estimate of our overall costs. Due to many factors actual costs may fluctuate."
 msgstr ""
 
-#: website/includes/faq.html:154
+#: website/includes/faq.html:153
+msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
+msgstr ""
+
+#: website/includes/faq.html:156
+msgid ""
+"When making a one-time gift through SEPA direct debit, you may notice a mention of recurrent transactions. This is because our payment processor Stripe only supports recurring transactions for this "
+"type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
+"official donation receipt that will clearly reflect the one-time donation."
+msgstr ""
+
+#: website/includes/faq.html:164
 msgid "Can I give in cryptocurrencies?"
 msgstr "Get ég gefið í rafmyntum?"
 
-#: website/includes/faq.html:157
+#: website/includes/faq.html:167
 msgid "<strong>No.</strong> We are not currently accepting cryptocurrency gifts."
 msgstr "<strong>Nei.</strong> Við tökum ekki við gjöfum í rafmyntum eins og er."
 
-#: website/includes/faq.html:165
+#: website/includes/faq.html:175
 msgid "How will my gift be used?"
 msgstr "Hvernig verður styrkurinn frá mér notaður?"
 
-#: website/includes/faq.html:168
+#: website/includes/faq.html:178
 msgid ""
 "Thunderbird is the leading open source cross-platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future "
 "development."
@@ -1607,29 +1615,29 @@ msgstr ""
 "Thunderbird er með opinn kóða og fremst í flokki fyrir tölvupóstforrit og dagatal fyrir allar gerðir tölva og er ókeypis fyrir einstaklinga og fyrirtæki. Styrkurinn frá þér hjálpar til við að "
 "tryggja að svo verði áfram og styðji einnig við áframhaldandi þróun hugbúnaðarins."
 
-#: website/includes/faq.html:177
+#: website/includes/faq.html:187
 msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
 msgstr "Hver eru tengsl Thunderbird við MZLA Technologies Corporation?"
 
-#: website/includes/faq.html:180
+#: website/includes/faq.html:190
 msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a wholly owned subsidiary of Mozilla Foundation."
 msgstr "Thunderbird er verkefni hjá MZLA Technologies Corporation, sem er dótturfélag að fullu í eigu Mozilla Foundation."
 
-#: website/includes/faq.html:189
+#: website/includes/faq.html:199
 msgid "Doesn’t Thunderbird earn income?"
 msgstr "Aflar Thunderbird ekki tekna?"
 
-#: website/includes/faq.html:192
+#: website/includes/faq.html:202
 msgid ""
 "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird. Companies and individuals support the development of the product now and in the "
 "future."
 msgstr "Sem stendur kemur meirihluti tekna Thunderbird sem rausnarlegar gjafir frá notendum og vinum Thunderbird. Fyrirtæki og einstaklingar styðja nú við þróun hugbúnaðarins, sem og í framtíðinni."
 
-#: website/includes/faq.html:201
+#: website/includes/faq.html:211
 msgid "Who can I email directly with questions about giving?"
 msgstr "Hverjum get ég sent beint tölvupóst með spurningum varðandi styrki eða gjafir?"
 
-#: website/includes/faq.html:204
+#: website/includes/faq.html:214
 #, python-format
 msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. If you need technical support, please head over to <a href=\"%(support)s\">Thunderbird "
@@ -1760,9 +1768,21 @@ msgstr ""
 "MZLA/Thunderbird tekur við framlagi frá þér með ávísun <span class=\"%(class)s\">(stílaðri á „MZLA Technologies Corp“)</span>;\n"
 "    en athugaðu að við getum aðeins tekið við ávísunum í Bandaríkjadölum sem greiðist í bandarískum banka."
 
-#: website/includes/ways-to-give.html:17
+#: website/includes/ways-to-give.html:16
 msgid "Please include your email address on the memo line of your check to help us track and attribute your gift."
 msgstr "Hafðu tölvupóstfangið þitt með á athugasemdalínu á ávísuninni þinni til að hjálpa okkur að rekja og eigna þér styrkinn."
+
+#: website/includes/ways-to-give.html:20
+msgid "IBAN (via SEPA bank transfer)"
+msgstr ""
+
+#: website/includes/ways-to-give.html:43
+msgid "Minimum donation amount: €20"
+msgstr ""
+
+#: website/includes/ways-to-give.html:44
+msgid "Please note that due to the limited contact information we receive during the transfer process, we are unable to issue donation receipts."
+msgstr ""
 
 #: website/includes/donor-contact/fa-body.html:92 website/includes/donor-contact/fa-body.html:96
 msgid "I need"
@@ -2094,35 +2114,35 @@ msgstr ""
 msgid "November 9, 2022"
 msgstr "9. nóvember 2022"
 
-#: website/thunderbird/102.0/eoy/index.html:17 website/thunderbird/115.0/appeal/index.html:17
+#: website/thunderbird/102.0/eoy/index.html:17 website/thunderbird/115.0/appeal/index.html:17 website/thunderbird/115.0/holidayeoy/index.html:17
 msgid "Help Keep Thunderbird Alive!"
 msgstr "Hjálpaðu við að halda Thunderbird í gangi!"
 
-#: website/thunderbird/102.0/eoy/index.html:27
+#: website/thunderbird/102.0/eoy/index.html:27 website/thunderbird/115.0/holidayeoy/index.html:27
 msgid "<span class=\"block font-light font-4xl\">Help Keep</span> Thunderbird Alive!"
 msgstr "<span class=\"block font-light font-4xl\">Hjálpaðu til við að halda</span> Thunderbird í gangi!"
 
-#: website/thunderbird/102.0/eoy/index.html:30
+#: website/thunderbird/102.0/eoy/index.html:30 website/thunderbird/115.0/holidayeoy/index.html:30
 msgid "Did you know that <strong>less than 1%</strong> of Thunderbird users fund all the work we do?"
 msgstr "Vissir þú að <strong>innan við 1%</strong> af notendum Thunderbird fjármagna alla vinnuna sem við gerum?"
 
-#: website/thunderbird/102.0/eoy/index.html:33
+#: website/thunderbird/102.0/eoy/index.html:33 website/thunderbird/115.0/holidayeoy/index.html:33
 msgid "<strong>Not too long ago Thunderbird was on the verge of extinction.</strong> It’s because of donations from that small group of users that we are here today!"
 msgstr "<strong>Það er ekki svo langt síðan Thunderbird var á barmi útrýmingar.</strong> Það er vegna framlaga frá þessum litla hópi notenda sem við erum hér í dag!"
 
-#: website/thunderbird/102.0/eoy/index.html:36
+#: website/thunderbird/102.0/eoy/index.html:36 website/thunderbird/115.0/holidayeoy/index.html:36
 msgid "We don’t show advertisements or sell your data and we are completely funded by donations from our community."
 msgstr "Við sýnum ekki auglýsingar eða seljum gögnin þín og við erum að fullu fjármögnuð með framlögum frá samfélaginu okkar."
 
-#: website/thunderbird/102.0/eoy/index.html:52 website/thunderbird/115.0/appeal/index.html:41
+#: website/thunderbird/102.0/eoy/index.html:52 website/thunderbird/115.0/appeal/index.html:41 website/thunderbird/115.0/holidayeoy/index.html:52
 msgid "Click here to <strong class=\"block\">Donate!</strong>"
 msgstr "Smelltu hér til að <strong class=\"block\">styrkja okkur!</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:67 website/thunderbird/115.0/appeal/index.html:56
+#: website/thunderbird/102.0/eoy/index.html:67 website/thunderbird/115.0/appeal/index.html:56 website/thunderbird/115.0/holidayeoy/index.html:67
 msgid "Help keep <strong class=\"block\">Thunderbird Alive!</strong>"
 msgstr "Hjálpaðu til við að halda <strong class=\"block\">Thunderbird í gangi!</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:76
+#: website/thunderbird/102.0/eoy/index.html:76 website/thunderbird/115.0/holidayeoy/index.html:76
 msgid ""
 "<strong>Thunderbird</strong>’s mission is to offer a time and privacy-respecting, customizable communication experience that gives you control of your data and experience. <strong>Free to "
 "everyone!</strong>"
@@ -2130,7 +2150,7 @@ msgstr ""
 "Hlutverk <strong>Thunderbird</strong> er að bjóða upp á sérsníðanleg samskipti sem virða tímann þinn og friðhelgi, og sem gefur þér stjórnina á gögnum þínum og vinnuaðferðum. <strong>Ókeypis fyrir "
 "alla!</strong>"
 
-#: website/thunderbird/102.0/eoy/index.html:79
+#: website/thunderbird/102.0/eoy/index.html:79 website/thunderbird/115.0/holidayeoy/index.html:79
 msgid ""
 "Accomplishing that mission means keeping <strong>Thunderbird</strong> secure, maintaining complex server infrastructure, updating old code, fixing bugs and developing new features. <strong>These "
 "activities aren’t cheap</strong> - requiring talented software engineers and robust infrastructure."
@@ -2138,11 +2158,11 @@ msgstr ""
 "Að ná því markmiði þýðir að halda <strong>Thunderbird</strong> öruggum, viðhalda flóknum innviðum netþjóna, uppfæra gamlan kóða, laga villur og þróa nýja eiginleika. <strong>Þessi starfsemi er ekki "
 "ódýr</strong> - krefst hæfileikaríkra hugbúnaðarverkfræðinga og öflugra innviða."
 
-#: website/thunderbird/102.0/eoy/index.html:82
+#: website/thunderbird/102.0/eoy/index.html:82 website/thunderbird/115.0/holidayeoy/index.html:82
 msgid "<strong>So today we’re asking you to help us out.</strong> If you get value from using Thunderbird, please consider giving a donation to support it!"
 msgstr "<strong>Þannig í dag biðjum við þig um að hjálpa okkur.</strong> Ef þú færð eitthvað út úr því að nota Thunderbird skaltu íhuga að leggja þitt af mörkum til að styðja við verkefnið!"
 
-#: website/thunderbird/102.0/eoy/index.html:98 website/thunderbird/115.0/appeal/index.html:95
+#: website/thunderbird/102.0/eoy/index.html:98 website/thunderbird/115.0/appeal/index.html:95 website/thunderbird/115.0/holidayeoy/index.html:98
 msgid "The Thunderbird Team"
 msgstr "Thunderbird-teymið"
 
@@ -2350,26 +2370,26 @@ msgstr ""
 "Vissir þú að <strong>innan við 1%</strong> af notendum Thunderbird fjármagna alla vinnuna okkar? Við birtum ekki auglýsingar eða seljum gögnin þín og erum að fullu fjármögnuð með framlögum frá "
 "samfélaginu okkar."
 
-#: website/thunderbird/115.0/eoy/index.html:54
+#: website/thunderbird/115.0/eoy/index.html:56
 msgid "You kept us alive - now help us thrive!"
 msgstr "Þú hélst okkur á lífi - hjálpaðu okkur nú að dafna!"
 
-#: website/thunderbird/115.0/eoy/index.html:57
+#: website/thunderbird/115.0/eoy/index.html:59
 #, python-format
 msgid ""
 "This year, we delivered outstanding visual changes in Thunderbird 115 and <a href=\"%(url)s\">other major improvements</a>. In 2024, we want to make our privacy-respecting email software available "
 "to billions. Imagine Thunderbird on your <strong>Android</strong> and <strong>iOS</strong> devices!"
 msgstr ""
 
-#: website/thunderbird/115.0/eoy/index.html:58
+#: website/thunderbird/115.0/eoy/index.html:60
 msgid "<strong>We can’t do this without you!</strong> If you get value from using Thunderbird, please consider giving a donation to support this goal."
 msgstr "<strong>Við getum ekki gert þetta án þín!</strong> Ef þú færð eitthvað út úr því að nota Thunderbird skaltu íhuga að leggja þitt af mörkum til að styðja við verkefnið."
 
-#: website/thunderbird/115.0/eoy/index.html:61
+#: website/thunderbird/115.0/eoy/index.html:63
 msgid "An illustration of Thunderbird on a phone, a desktop, and a tablet."
 msgstr "Teikning af Thunderbird á síma, borðtölvu og spjaldtölvu."
 
-#: website/thunderbird/115.0/eoy/index.html:71
+#: website/thunderbird/115.0/eoy/index.html:73
 msgid "The <strong>Thunderbird</strong> Team"
 msgstr "<strong>Thunderbird</strong> teymið"
 
@@ -2942,6 +2962,17 @@ msgstr "Útgáfuupplýsingar um hverja útgáfu Thunderbird."
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Útgáfuupplýsingar Thunderbird eru sértækar fyrir hverja útgáfu af forritinu. Veldu útgáfuna þína af listanum hér að neðan til að sjá útgáfuskýringarnar fyrir hana."
+
+#, python-format
+#~ msgid ""
+#~ "We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
+#~ " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
+#~ "href=\"%(url)s\">Privacy Policy</a>. If you would rather not fill in your information on our online form, you can mail us a <a href=\"%(check)s\">check</a>."
+#~ msgstr ""
+#~ "Við skiljum að friðhelgi þín er þér mjög mikilvæg. Við biðjum aðeins um lágmarksupplýsingar sem þarf til að afgreiða kortagreiðslur, þar með talin heimilisföng. Þetta gerir greiðslumiðlun okkar "
+#~ "kleift að sannreyna hver þú sért, að vinna úr greiðslunni þinni og að koma í veg fyrir falsaðar kröfur á kreditkortið þitt. Við höldum upplýsingum þínum leyndum - ef þú ert með einhverjar "
+#~ "spurningar, þá skaltu skoða <a href=\"%(url)s\">persónuverndarstefnu</a> okkar. Ef þú vilt helst ekki fylla út upplýsingarnar þínar á netforminu okkar geturðu sent okkur <a "
+#~ "href=\"%(check)s\">ávísun</a>."
 
 #~ msgid "Contact Name"
 #~ msgstr "Nafn tengiliðar"
