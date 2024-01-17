@@ -2,14 +2,14 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-17 15:07-0800\n"
-"PO-Revision-Date: 2023-12-04 16:29+0000\n"
-"Last-Translator: Lan Glad <upwinxp@gmail.com>\n"
+"PO-Revision-Date: 2024-01-17 23:18+0000\n"
+"Last-Translator: Google Translate <pontoon-gt@example.com>\n"
 "Language-Team: none\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
@@ -1509,6 +1509,10 @@ msgid ""
 "to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
 "Communications & Cookies Privacy Notice</a>."
 msgstr ""
+"Zavedamo se, da je vaša zasebnost zelo pomembna -- strinjamo se, in to je naša temeljna vrednota pri Thunderbirdu in Mozilli. Vaš naslov je del naših podatkov za obdelavo plačil, stikov in donacij, "
+"ki so opisani v našem <a href=\"%(url)s\">pravilniku o zasebnosti</a>. Ti podatki se uporabljajo za obdelavo plačil, prejeme transakcij, odkrivanje goljufij in vodenje evidenc. Če želite izvedeti "
+"več o tem, katere osebne podatke prejemamo, tretjih ponudnikih, ki jim zaupamo, in o tem, kako dolgo hranimo vaše podatke, si oglejte naše <a href=\"%(website_privacy)s\">Spletna mesta, komunikacije"
+" in Obvestilo o zasebnosti za piškotke</a>."
 
 #: website/includes/faq.html:56
 msgid "Does my gift give me access to tech support?"
@@ -1603,7 +1607,7 @@ msgstr ""
 
 #: website/includes/faq.html:153
 msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
-msgstr ""
+msgstr "Zakaj so enkratne donacije v pooblastilih SEPA prikazane kot ponavljajoče se?"
 
 #: website/includes/faq.html:156
 msgid ""
@@ -1611,6 +1615,9 @@ msgid ""
 "type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
 "official donation receipt that will clearly reflect the one-time donation."
 msgstr ""
+"Pri enkratnem darilu z direktno bremenitvijo SEPA boste morda opazili ponavljajoče se transakcije. To je zato, ker naš plačilni procesor Stripe podpira samo ponavljajoče se transakcije za to vrsto "
+"plačila. Ne glede na to vas bomo bremenili samo enkrat in vam brez vašega dovoljenja ne bomo več naplačevali sredstev. Po pooblastilu boste prejeli uradno potrdilo o donaciji, iz katerega bo jasno "
+"razvidna enkratna donacija."
 
 #: website/includes/faq.html:164
 msgid "Can I give in cryptocurrencies?"
@@ -1791,15 +1798,15 @@ msgstr "V vrstico za opombe na čeku vpišite svoj e-poštni naslov in nam pomag
 
 #: website/includes/ways-to-give.html:20
 msgid "IBAN (via SEPA bank transfer)"
-msgstr ""
+msgstr "IBAN (prek bančnega nakazila SEPA)"
 
 #: website/includes/ways-to-give.html:43
 msgid "Minimum donation amount: €20"
-msgstr ""
+msgstr "Minimalni znesek donacije: 20 €"
 
 #: website/includes/ways-to-give.html:44
 msgid "Please note that due to the limited contact information we receive during the transfer process, we are unable to issue donation receipts."
-msgstr ""
+msgstr "Upoštevajte, da zaradi omejenega števila kontaktnih podatkov, ki jih prejmemo med postopkom prenosa, ne moremo izdajati potrdil o donacijah."
 
 #: website/includes/donor-contact/fa-body.html:92 website/includes/donor-contact/fa-body.html:96
 msgid "I need"
@@ -2991,7 +2998,6 @@ msgstr "Opombe ob izdaji za vsako različico Thunderbirda."
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Vsaka različica programa ima svoje opombe ob izdaji. Na spodnjem seznamu izberite svojo različico, da si ogledate njene opombe ob izdaji."
 
-#, python-format
 #~ msgid ""
 #~ "We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
 #~ " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
