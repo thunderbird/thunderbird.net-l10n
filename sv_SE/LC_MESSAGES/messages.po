@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-17 15:07-0800\n"
-"PO-Revision-Date: 2023-11-08 21:22+0000\n"
+"PO-Revision-Date: 2024-01-17 23:53+0000\n"
 "Last-Translator: Andreas Pettersson <az@kth.se>\n"
 "Language-Team: none\n"
 "Language: sv_SE\n"
@@ -1507,6 +1507,10 @@ msgid ""
 "to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
 "Communications & Cookies Privacy Notice</a>."
 msgstr ""
+"Vi förstår att din integritet är mycket viktig -- vi är överens och det är ett kärnvärde för oss på Thunderbird och Mozilla. Din adress är en del av vår betalningshantering, kontakt- och "
+"donationsinformation som vi beskriver i vår <a href=\"%(url)s\">sekretesspolicy</a>. Dessa uppgifter används för betalningshantering, transaktionskvitton, bedrägeriupptäckt och registerföring. Om du"
+" vill veta mer om den personliga information vi får, vilka tredjepartsleverantörer vi litar på och hur länge vi sparar dina uppgifter, se våra <a href=\"%(website_privacy)s\">webbplatser, "
+"kommunikation & sekretesspolicy för kakor</a>."
 
 #: website/includes/faq.html:56
 msgid "Does my gift give me access to tech support?"
@@ -1602,7 +1606,7 @@ msgstr ""
 
 #: website/includes/faq.html:153
 msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
-msgstr ""
+msgstr "Varför visas engångsdonationer som återkommande i SEPA-mandaten?"
 
 #: website/includes/faq.html:156
 msgid ""
@@ -1610,6 +1614,9 @@ msgid ""
 "type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
 "official donation receipt that will clearly reflect the one-time donation."
 msgstr ""
+"När du gör en engångsgåva genom SEPA autogiro, kanske du märker ett omnämnande av återkommande transaktioner. Detta då vår betalningsprocessor Stripe endast stöder återkommande transaktioner för "
+"denna typ av betalning. Oavsett detta debiterar vi dig endast en gång och vi kommer inte att göra några ytterligare betalningar på ditt konto utan ditt tillstånd. Efter medgivandet får du ett "
+"officiellt donationskvitto som tydligt återspeglar engångsdonationen."
 
 #: website/includes/faq.html:164
 msgid "Can I give in cryptocurrencies?"
@@ -1792,7 +1799,7 @@ msgstr "Vänligen inkludera din e-postadress på memoraden i din check för att 
 
 #: website/includes/ways-to-give.html:20
 msgid "IBAN (via SEPA bank transfer)"
-msgstr ""
+msgstr "IBAN (via SEPA banköverföring)"
 
 #: website/includes/ways-to-give.html:43
 msgid "Minimum donation amount: €20"
@@ -2996,7 +3003,6 @@ msgstr "Versionsfakta för varje version av Thunderbird."
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Thunderbird versionsfakta är specifik för varje version av programmet. Välj din version från listan nedan för att se versionsfakta för den."
 
-#, python-format
 #~ msgid ""
 #~ "We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
 #~ " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
