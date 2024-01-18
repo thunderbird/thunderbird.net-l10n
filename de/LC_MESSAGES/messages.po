@@ -2,14 +2,14 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-17 15:07-0800\n"
-"PO-Revision-Date: 2023-11-22 22:44+0000\n"
-"Last-Translator: Alexander Ihrig <webmaster@thunderbird-mail.de>\n"
+"PO-Revision-Date: 2024-01-18 22:47+0000\n"
+"Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language-Team: none\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -1506,6 +1506,10 @@ msgid ""
 "to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
 "Communications & Cookies Privacy Notice</a>."
 msgstr ""
+"Wir verstehen, dass Ihre Privatsphäre sehr wichtig ist – wir sehen das genauso und das ist ein zentraler Wert von uns bei Thunderbird und Mozilla. Ihre Adresse ist Teil unserer Zahlungsabwicklungs-,"
+" Kontakt- und Spendeninformationen, die wir in unserer <a href=\"%(url)s\">Datenschutzerklärung</a> beschreiben. Diese Daten werden für die Zahlungsabwicklung, Transaktionsquittung, Betrugserkennung"
+" und Aufzeichnungen verwendet. Wenn Sie mehr über die personenbezogenen Daten erfahren möchten, die wir erhalten, die Drittanbieter, denen wir vertrauen und wie lange wir Ihre Daten aufbewahren, "
+"lesen Sie bitte unseren <a href=\"%(website_privacy)s\">Datenschutzhinweis zu Websites, Mitteilungen & Cookies</a>."
 
 #: website/includes/faq.html:56
 msgid "Does my gift give me access to tech support?"
@@ -1604,7 +1608,7 @@ msgstr ""
 
 #: website/includes/faq.html:153
 msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
-msgstr ""
+msgstr "Warum werden einmalige Spenden in den SEPA-Mandaten als wiederkehrende Spenden angezeigt?"
 
 #: website/includes/faq.html:156
 msgid ""
@@ -1612,6 +1616,9 @@ msgid ""
 "type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
 "official donation receipt that will clearly reflect the one-time donation."
 msgstr ""
+"Wenn Sie ein einmaliges Spende per SEPA-Lastschrift leisten, werden Ihnen möglicherweise wiederkehrende Transaktionen angezeigt. Dies liegt daran, dass unser Zahlungsdienstleister Stripe nur "
+"wiederkehrende Transaktionen für diese Zahlungsart unterstützt. Unabhängig davon wird Ihr Konto nur einmal belastet und ohne Ihre Autorisierung keine weiteren Zahlungen auf Ihrem Konto vorgenommen. "
+"Im Anschluss an die Beauftragung erhalten Sie eine offizielle Spendenquittung, aus der Ihre einmalige Spende deutlich hervorgeht."
 
 #: website/includes/faq.html:164
 msgid "Can I give in cryptocurrencies?"
@@ -1798,15 +1805,15 @@ msgstr "Bitte geben Sie Ihre E-Mail-Adresse im Verwendungszweck Ihres Schecks an
 
 #: website/includes/ways-to-give.html:20
 msgid "IBAN (via SEPA bank transfer)"
-msgstr ""
+msgstr "IBAN (per SEPA-Überweisung)"
 
 #: website/includes/ways-to-give.html:43
 msgid "Minimum donation amount: €20"
-msgstr ""
+msgstr "Mindestspendenbetrag: 20 €"
 
 #: website/includes/ways-to-give.html:44
 msgid "Please note that due to the limited contact information we receive during the transfer process, we are unable to issue donation receipts."
-msgstr ""
+msgstr "Bitte beachten Sie, dass wir aufgrund der begrenzten Kontaktinformationen, die wir während des Überweisungsvorgangs erhalten, keine Spendenquittung ausstellen können."
 
 #: website/includes/donor-contact/fa-body.html:92 website/includes/donor-contact/fa-body.html:96
 msgid "I need"
@@ -2989,7 +2996,6 @@ msgstr "Versionshinweise zu allen Versionen von Mozilla Thunderbird."
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Die Versionshinweise zu Thunderbird betreffen immer eine bestimmte Version der Anwendung. Wählen Sie aus der folgenden Liste Ihre Version aus, um die passenden Versionshinweise anzusehen."
 
-#, python-format
 #~ msgid ""
 #~ "We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
 #~ " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
