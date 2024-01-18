@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-17 15:07-0800\n"
-"PO-Revision-Date: 2023-11-08 12:24+0000\n"
+"PO-Revision-Date: 2024-01-18 16:23+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language-Team: none\n"
 "Language: cy\n"
@@ -1513,6 +1513,10 @@ msgid ""
 "to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
 "Communications & Cookies Privacy Notice</a>."
 msgstr ""
+"Rydym yn deall bod eich preifatrwydd yn bwysig iawn -- rydym yn cytuno, ac mae hynny'n un o'n gwerthoedd craidd ni yn Thunderbird ac yn Mozilla. Mae eich cyfeiriad yn rhan o'n Manylion Prosesu Talu,"
+" Cyswllt a Rhoi rydym yn ei hamlinellu yn ein <a href=\"%(url)s\">Polisi Preifatrwydd</a>. Mae'r data hwn yn cael ei ddefnyddio at ddibenion prosesu taliadau, derbynebau trafodion, canfod twyll a "
+"chadw cofnodion. Os hoffech wybod mwy am y data manylion personol rydym yn ei dderbyn, y gwerthwyr trydydd parti rydym yn ymddiried ynddyn nhw, a pha mor hir rydym yn cadw eich data, cyfeiriwch at "
+"ein <a href=\"%(website_privacy)s\">Hysbysiad Preifatrwydd Gwefannau, Cyfathrebu a Chwcis</a>."
 
 #: website/includes/faq.html:56
 msgid "Does my gift give me access to tech support?"
@@ -1608,7 +1612,7 @@ msgstr ""
 
 #: website/includes/faq.html:153
 msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
-msgstr ""
+msgstr "Pam mae rhoddion un-tro yn ymddangos fel rhai cylchol yng ngorchymyn SEPA?"
 
 #: website/includes/faq.html:156
 msgid ""
@@ -1616,6 +1620,9 @@ msgid ""
 "type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
 "official donation receipt that will clearly reflect the one-time donation."
 msgstr ""
+"Wrth wneud rhodd un-tro trwy ddebyd uniongyrchol SEPA, efallai y byddwch yn sylwi ar yr awgrym am drafodion rheolaidd. Mae hyn oherwydd bod ein prosesydd taliadau Stripe dim ond yn cefnogi trafodion"
+" cylchol ar gyfer y math hwn o daliad. Beth bynnag am hyn, dim ond unwaith y byddwn yn codi tâl arnoch ac ni fyddwn yn gwneud unrhyw daliadau pellach ar eich cyfrif heb eich awdurdodiad. Yn dilyn y "
+"mandad, byddwch yn derbyn derbynneb rhodd swyddogol a fydd yn dangos yn glir y rhodd un-tro."
 
 #: website/includes/faq.html:164
 msgid "Can I give in cryptocurrencies?"
@@ -1796,15 +1803,15 @@ msgstr "Cofiwch gynnwys eich cyfeiriad e-bost ar linell memo eich siec i'n helpu
 
 #: website/includes/ways-to-give.html:20
 msgid "IBAN (via SEPA bank transfer)"
-msgstr ""
+msgstr "IBAN (trwy drosglwyddiad banc SEPA)"
 
 #: website/includes/ways-to-give.html:43
 msgid "Minimum donation amount: €20"
-msgstr ""
+msgstr "Isafswm rhodd: €20"
 
 #: website/includes/ways-to-give.html:44
 msgid "Please note that due to the limited contact information we receive during the transfer process, we are unable to issue donation receipts."
-msgstr ""
+msgstr "Sylwch, oherwydd y wybodaeth gyswllt gyfyngedig a gawn yn ystod y broses drosglwyddo, ni allwn roi derbynebau rhodd."
 
 #: website/includes/donor-contact/fa-body.html:92 website/includes/donor-contact/fa-body.html:96
 msgid "I need"
@@ -3006,7 +3013,6 @@ msgstr "Nodiadau ryddhau ar gyfer pob fersiwn o Thunderbird."
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Mae nodiadau rhyddhau Thunderbird yn benodol i bob fersiwn o'r rhaglen. Dewiswch eich fersiwn chi o'r rhestr isod i weld y nodiadau rhyddhau ar ei gyfer."
 
-#, python-format
 #~ msgid ""
 #~ "We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
 #~ " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
