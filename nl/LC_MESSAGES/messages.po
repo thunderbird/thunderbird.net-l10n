@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-17 15:07-0800\n"
-"PO-Revision-Date: 2023-11-08 07:07+0000\n"
+"PO-Revision-Date: 2024-01-18 06:50+0000\n"
 "Last-Translator: Mark Heijl <markh@babelzilla.org>\n"
 "Language-Team: none\n"
 "Language: nl\n"
@@ -1519,6 +1519,10 @@ msgid ""
 "to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
 "Communications & Cookies Privacy Notice</a>."
 msgstr ""
+"We begrijpen dat uw privacy erg belangrijk is – we vinden dat ook, en dat is een van onze kernwaarden bij Thunderbird en Mozilla. Uw adres maakt deel uit van onze betalingsverwerkings-, contact- en "
+"donatiegegevens die we uiteenzetten in ons <a href=\"%(url)s\">Privacybeleid</a>. Deze gegevens worden gebruikt voor betalingsverwerking, betalingsbewijzen, fraudedetectie en archivering. Als u meer"
+" wilt weten over de persoonlijke informatie die we ontvangen, de externe leveranciers die we vertrouwen en hoe lang we uw gegevens bewaren, ga dan naar onze <a "
+"href=\"%(website_privacy)s\">Privacyverklaring inzake websites, communicatie & cookies</a>."
 
 #: website/includes/faq.html:56
 msgid "Does my gift give me access to tech support?"
@@ -1616,7 +1620,7 @@ msgstr ""
 
 #: website/includes/faq.html:153
 msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
-msgstr ""
+msgstr "Waarom verschijnen eenmalige donaties als periodiek in de SEPA-mandaten?"
 
 #: website/includes/faq.html:156
 msgid ""
@@ -1624,6 +1628,9 @@ msgid ""
 "type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
 "official donation receipt that will clearly reflect the one-time donation."
 msgstr ""
+"Wanneer u een eenmalige gift doet via een automatische incasso met SEPA, ziet u mogelijk een melding van periodieke transacties. Dit komt omdat onze betalingsverwerker Stripe alleen terugkerende "
+"transacties voor dit type betaling ondersteunt. Desondanks zullen we u slechts eenmalig een bedrag afschrijven en zullen we geen verdere betalingen van uw account incasseren zonder uw toestemming. "
+"Na de machtiging ontvangt u een officieel donatiebewijs waarop de eenmalige donatie duidelijk staat vermeld."
 
 #: website/includes/faq.html:164
 msgid "Can I give in cryptocurrencies?"
@@ -1806,15 +1813,15 @@ msgstr "Vermeld uw e-mailadres in de memoregel van uw cheque, om ons te helpen u
 
 #: website/includes/ways-to-give.html:20
 msgid "IBAN (via SEPA bank transfer)"
-msgstr ""
+msgstr "IBAN (via SEPA-bankoverschrijving)"
 
 #: website/includes/ways-to-give.html:43
 msgid "Minimum donation amount: €20"
-msgstr ""
+msgstr "Minimum donatiebedrag: €20"
 
 #: website/includes/ways-to-give.html:44
 msgid "Please note that due to the limited contact information we receive during the transfer process, we are unable to issue donation receipts."
-msgstr ""
+msgstr "Houd er rekening mee dat we, vanwege de beperkte contactgegevens die we tijdens het overdrachtsproces ontvangen, geen donatiebewijzen kunnen uitgeven."
 
 #: website/includes/donor-contact/fa-body.html:92 website/includes/donor-contact/fa-body.html:96
 msgid "I need"
@@ -3013,7 +3020,6 @@ msgstr "Uitgaveopmerkingen van elke versie van Thunderbird."
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Uitgaveopmerkingen van Thunderbird zijn specifiek voor elke versie van de toepassing. Selecteer uw versie in de onderstaande lijst om de uitgaveopmerkingen ervoor te bekijken."
 
-#, python-format
 #~ msgid ""
 #~ "We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
 #~ " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
