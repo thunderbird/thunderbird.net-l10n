@@ -2,14 +2,14 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-17 15:07-0800\n"
-"PO-Revision-Date: 2023-11-15 16:01+0000\n"
-"Last-Translator: Nicole <nicolecosen@gmail.com>\n"
+"PO-Revision-Date: 2024-01-18 07:20+0000\n"
+"Last-Translator: Francesco Lodolo [:flod] <flod+pontoon@mozilla.com>\n"
 "Language-Team: none\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -1504,6 +1504,10 @@ msgid ""
 "to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
 "Communications & Cookies Privacy Notice</a>."
 msgstr ""
+"Siamo consapevoli che la tua privacy è importante, per questo il rispetto della privacy è uno dei valori fondamentali di Thunderbird e Mozilla. Il tuo indirizzo è incluso nelle sezioni “Elaborazione"
+" pagamenti\" e “Informazioni di contatto e sulle donazioni” della nostra <a href=\"%(url)s\">informativa sulla privacy</a>. Questi dati vengono utilizzati per l’elaborazione dei pagamenti, la "
+"generazione di ricevute per le transazioni, il rilevamento di frodi e l’archiviazione di documenti. Per ulteriori informazioni sulle informazioni personali che riceviamo, sui fornitori di terze "
+"parti di cui ci fidiamo e per quanto tempo conserviamo i tuoi dati, consulta la pagina <a href=\"%(website_privacy)s\">Siti web, comunicazioni e Informativa sulla privacy e sui cookie</a>."
 
 #: website/includes/faq.html:56
 msgid "Does my gift give me access to tech support?"
@@ -1602,7 +1606,7 @@ msgstr ""
 
 #: website/includes/faq.html:153
 msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
-msgstr ""
+msgstr "Perché le donazioni una tantum compaiono come ricorrenti nei mandati SEPA?"
 
 #: website/includes/faq.html:156
 msgid ""
@@ -1788,15 +1792,15 @@ msgstr "Includi il tuo indirizzo email nel campo “memo” del tuo assegno per 
 
 #: website/includes/ways-to-give.html:20
 msgid "IBAN (via SEPA bank transfer)"
-msgstr ""
+msgstr "IBAN (tramite bonifico SEPA)"
 
 #: website/includes/ways-to-give.html:43
 msgid "Minimum donation amount: €20"
-msgstr ""
+msgstr "Importo minimo per la donazione: 20 €"
 
 #: website/includes/ways-to-give.html:44
 msgid "Please note that due to the limited contact information we receive during the transfer process, we are unable to issue donation receipts."
-msgstr ""
+msgstr "È importante notare che, a causa delle informazioni di contatto limitate che riceviamo durante il processo di trasferimento, non siamo in grado di emettere ricevute per le donazioni."
 
 #: website/includes/donor-contact/fa-body.html:92 website/includes/donor-contact/fa-body.html:96
 msgid "I need"
@@ -2994,7 +2998,6 @@ msgstr "Note di versione per ciascuna versione di Thunderbird."
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Le note di versione variano a seconda della versione di Thunderbird. Seleziona la tua versione dalla lista per leggere le relative note di versione."
 
-#, python-format
 #~ msgid ""
 #~ "We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
 #~ " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
