@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-17 15:07-0800\n"
-"PO-Revision-Date: 2023-11-21 14:30+0000\n"
+"PO-Revision-Date: 2024-01-18 16:32+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: none\n"
 "Language: fr\n"
@@ -1492,6 +1492,11 @@ msgid ""
 "to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
 "Communications & Cookies Privacy Notice</a>."
 msgstr ""
+"Nous comprenons que le respect de votre vie privée est très important. Nous sommes d’accord et il est au cœur de nos valeurs chez Thunderbird et Mozilla. Votre adresse fait partie de nos traitements"
+" des paiements ainsi que des Informations de contact et de dons que nous détaillons dans notre <a href=\"%(url)s\">Politique de confidentialité</a>. Ces données sont utilisées pour le traitement des"
+" paiements, les reçus des transactions, la détection des fraudes et à fin d’archivage. Si vous souhaitez en savoir plus sur les données d’informations personnelles que nous recevons, les "
+"prestataires tiers auxquels nous accordons notre confiance et la durée de conservation de vos données, veuillez vous reporter à notre <a href=\"%(website_privacy)s\">Politique de confidentialité "
+"relative aux sites Web, aux communications et aux cookies</a>."
 
 #: website/includes/faq.html:56
 msgid "Does my gift give me access to tech support?"
@@ -1590,7 +1595,7 @@ msgstr ""
 
 #: website/includes/faq.html:153
 msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
-msgstr ""
+msgstr "Pourquoi les dons ponctuels apparaissent-ils comme récurrents dans les mandats SEPA ?"
 
 #: website/includes/faq.html:156
 msgid ""
@@ -1598,6 +1603,9 @@ msgid ""
 "type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
 "official donation receipt that will clearly reflect the one-time donation."
 msgstr ""
+"Quand vous procédez à un don ponctuel par prélèvement SEPA, vous remarquerez peut-être la mention de transactions récurrentes. Cela est dû à Stripe, notre système de paiement, qui ne prend en charge"
+" que des transactions récurrentes pour ce type de paiement. Quoi qu’il en soit, nous ne vous débiterons qu’une seule fois et nous ne procéderons à aucun autre prélèvement futur sans votre "
+"autorisation. À la suite du mandat, vous recevrez un reçu officiel de don qui montrera clairement qu’il s’agit d’un don unique."
 
 #: website/includes/faq.html:164
 msgid "Can I give in cryptocurrencies?"
@@ -1778,11 +1786,11 @@ msgstr "Veuillez inclure votre adresse e-mail sur la ligne mémo de votre chèqu
 
 #: website/includes/ways-to-give.html:20
 msgid "IBAN (via SEPA bank transfer)"
-msgstr ""
+msgstr "IBAN (par virement bancaire SEPA)"
 
 #: website/includes/ways-to-give.html:43
 msgid "Minimum donation amount: €20"
-msgstr ""
+msgstr "Montant minimum du don : 20 €"
 
 #: website/includes/ways-to-give.html:44
 msgid "Please note that due to the limited contact information we receive during the transfer process, we are unable to issue donation receipts."
@@ -2986,7 +2994,6 @@ msgstr "Notes de version pour chaque version de Thunderbird."
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Les notes de version de Thunderbird sont spécifiques à chaque version de l’application. Sélectionnez votre version dans la liste ci-dessous pour consulter les notes de cette version."
 
-#, python-format
 #~ msgid ""
 #~ "We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
 #~ " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
