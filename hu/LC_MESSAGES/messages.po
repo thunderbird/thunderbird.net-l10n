@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-17 15:07-0800\n"
-"PO-Revision-Date: 2024-01-19 15:21+0000\n"
+"PO-Revision-Date: 2024-01-19 15:25+0000\n"
 "Last-Translator: Balázs Meskó <meskobalazs@mailbox.org>\n"
 "Language-Team: none\n"
 "Language: hu\n"
@@ -1609,7 +1609,7 @@ msgstr ""
 
 #: website/includes/faq.html:153
 msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
-msgstr "Az egyszeri adományozások miért jelennek meg ismétlődőként a SEPA-megbízásokban?"
+msgstr "Az egyszeri adományozások miért jelennek meg ismétlődőként a SEPA megbízásokban?"
 
 #: website/includes/faq.html:156
 msgid ""
@@ -1617,6 +1617,9 @@ msgid ""
 "type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
 "official donation receipt that will clearly reflect the one-time donation."
 msgstr ""
+"Amikor egyszeri adományt tesznek közvetlen SEPA megbízással, akkor észreveheti, hogy ismétlődő tranzakciók vannak említve. Ennek az oka, hogy a fizetésfeldolgozónk, a Stripe, csak az ismétlődő "
+"tranzakciókat támogatja ennél a fizetési módnál. Ettől függetlenül csak egyszer terheljük meg a számláját, és további utalásokat nem teszünk az engedélye nélkül. A megbízás után hivatalos "
+"adományozási bizonylatot fog kapni, amelyen egyértelműen egyszeri adomány szerepel."
 
 #: website/includes/faq.html:164
 msgid "Can I give in cryptocurrencies?"
@@ -1795,7 +1798,7 @@ msgstr "Kérjük, adja meg e-mail-címét a csekk emlékeztető sorában, hogy s
 
 #: website/includes/ways-to-give.html:20
 msgid "IBAN (via SEPA bank transfer)"
-msgstr ""
+msgstr "IBAN (SEPA banki átutalással)"
 
 #: website/includes/ways-to-give.html:43
 msgid "Minimum donation amount: €20"
