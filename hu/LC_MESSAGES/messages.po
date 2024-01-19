@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-17 15:07-0800\n"
-"PO-Revision-Date: 2023-12-05 14:52+0000\n"
+"PO-Revision-Date: 2024-01-19 15:21+0000\n"
 "Last-Translator: Balázs Meskó <meskobalazs@mailbox.org>\n"
 "Language-Team: none\n"
 "Language: hu\n"
@@ -1510,6 +1510,10 @@ msgid ""
 "to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
 "Communications & Cookies Privacy Notice</a>."
 msgstr ""
+"Megértjük, hogy az adatvédelme nagyon fontos – egyetértünk, ez az egyik legfontosabb értékünk a Thunderbirdnél és a Mozillánál. A címe része a fizetésfeldolgozási, kapcsolati és adományozási "
+"információknak, melyet az <a href=\"%(url)s\">Adatvédelmi nyilatkozatban</a> vázolunk. Ez az adat fizetésfeldolgozási, tranzakció-ellenőrzési, csalásészlelési és nyilvántartási célokhoz használatos."
+" Ha többet szeretne megtudni az általunk fogadott személyes információkról, az általunk megbízott külső szolgáltatókról és az adatai tárolásának hosszáról, akkor tekintse meg a <a "
+"href=\"%(website_privacy)s\">weboldalakra, kommunikációra és a sütikre vonatkozó adatvédelmi nyilatkozatunkat</a>."
 
 #: website/includes/faq.html:56
 msgid "Does my gift give me access to tech support?"
@@ -1605,7 +1609,7 @@ msgstr ""
 
 #: website/includes/faq.html:153
 msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
-msgstr ""
+msgstr "Az egyszeri adományozások miért jelennek meg ismétlődőként a SEPA-megbízásokban?"
 
 #: website/includes/faq.html:156
 msgid ""
@@ -2986,7 +2990,6 @@ msgstr "Kiadási megjegyzések a Thunderbird minden verziójához."
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "A Thunderbird kiadási megjegyzései minden verzióhoz egyediek. Válassza ki az Ön verzióját az alábbi listából, és nézze meg a kiadási megjegyzéseket."
 
-#, python-format
 #~ msgid ""
 #~ "We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
 #~ " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
