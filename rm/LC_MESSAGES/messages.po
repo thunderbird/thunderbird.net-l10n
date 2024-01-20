@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-17 15:07-0800\n"
-"PO-Revision-Date: 2024-01-05 12:49+0000\n"
+"PO-Revision-Date: 2024-01-19 09:51+0000\n"
 "Last-Translator: Martin <mcmartin@gmx.ch>\n"
 "Language-Team: none\n"
 "Language: rm\n"
@@ -1520,6 +1520,11 @@ msgid ""
 "to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
 "Communications & Cookies Privacy Notice</a>."
 msgstr ""
+"Nus chapin che tia sfera privata è fitg impurtanta – nus essan dal medem avis e quai è ina da nossas valurs centralas tar Thunderbird e Mozilla. Tia adressa fa part da noss process da pajament, sco "
+"era da las infurmaziuns da contact e da donaziuns che nus descrivain en nossas <a href=\"%(url)s\">directivas per la protecziun da datas</a>. Questas datas vegnan utilisadas per elavurar il "
+"pajament, per quittanzas da transacziun, per scuvrir engions e per intents d’archivaziun. Sche ti vuls vegnir a savair dapli davart las datas persunalas che nus retschavain, las terzas partidas da "
+"las qualas nus ans fidain, e quant ditg che nus preservain tias datas, consultescha per plaschair nossa <a href=\"%(website_privacy)s\">decleraziun da protecziun da datas en connex cun websites, "
+"communicaziuns e cookies</a>."
 
 #: website/includes/faq.html:56
 msgid "Does my gift give me access to tech support?"
@@ -1619,7 +1624,7 @@ msgstr ""
 
 #: website/includes/faq.html:153
 msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
-msgstr ""
+msgstr "Pertge cumparan donaziuns unicas sco donaziuns periodicas en ils mandats SEPA?"
 
 #: website/includes/faq.html:156
 msgid ""
@@ -1627,6 +1632,9 @@ msgid ""
 "type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
 "official donation receipt that will clearly reflect the one-time donation."
 msgstr ""
+"Cun far ina donaziun unica via debitaziun directa SEPA, fas ti forsa stim ch’i vegnan menziunadas transacziuns periodicas. Il motiv è che noss sistem da pajament Stripe sustegna mo transacziuns "
+"periodicas per quest tip da pajament. Independentamain da questa limitaziun debitain nus mo ina giada la summa e nus na faschain nagins ulteriurs pajaments cun tes conto senza tia autorisaziun. "
+"Suenter avair dà l’incumbensa, survegns ti ina quittanza uffiziala per la donaziun che mussa cleramain ch’i sa tracta dad ina donaziun unica."
 
 #: website/includes/faq.html:164
 msgid "Can I give in cryptocurrencies?"
@@ -1809,15 +1817,17 @@ msgstr "Inditgescha per plaschair tia adressa dad e-mail en il champ «memo» da
 
 #: website/includes/ways-to-give.html:20
 msgid "IBAN (via SEPA bank transfer)"
-msgstr ""
+msgstr "IBAN (via transfer bancar SEPA)"
 
 #: website/includes/ways-to-give.html:43
 msgid "Minimum donation amount: €20"
-msgstr ""
+msgstr "Summa minimala da la donaziun: €20"
 
 #: website/includes/ways-to-give.html:44
 msgid "Please note that due to the limited contact information we receive during the transfer process, we are unable to issue donation receipts."
 msgstr ""
+"Resguarda per plaschair che nus na pudain betg trametter attests da donaziun perquai che nus na retschavain durant il process dad assegnaziun betg las infurmaziuns da contact necessarias per quest "
+"intent."
 
 #: website/includes/donor-contact/fa-body.html:92 website/includes/donor-contact/fa-body.html:96
 msgid "I need"
@@ -3014,7 +3024,6 @@ msgstr "Remartgas davart mintga versiun da Thunderbird."
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Las remartgas davart la versiun reguardan adina ina tscherta versiun da l'applicaziun. Tscherna tia versiun en la glista sutvart per leger las remartgas davart la versiun correspundentas."
 
-#, python-format
 #~ msgid ""
 #~ "We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
 #~ " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
