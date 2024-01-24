@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-17 15:07-0800\n"
-"PO-Revision-Date: 2024-01-19 11:22+0000\n"
+"PO-Revision-Date: 2024-01-24 11:10+0000\n"
 "Last-Translator: ravmn <ravmn@ravmn.cl>\n"
 "Language-Team: none\n"
 "Language: es_CL\n"
@@ -1510,6 +1510,10 @@ msgid ""
 "to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
 "Communications & Cookies Privacy Notice</a>."
 msgstr ""
+"Entendemos que tu privacidad es muy importante; estamos de acuerdo y ese es uno de nuestros valores fundamentales en Thunderbird y Mozilla. Tu dirección forma parte de nuestra información de "
+"procesamiento de pagos, contacto y donaciones que describimos en nuestra <a href=\"%(url)s\">Política de privacidad</a>. Estos datos se usan para el procesamiento de pagos, recibos de transacciones,"
+" detección de fraude y mantenimiento de registros. Si quieres saber más acerca de la información personal que recibimos, los proveedores externos en los que confiamos y durante cuánto tiempo "
+"conservamos tus datos, consulta nuestro <a href=\"%(website_privacy)s\">Aviso de privacidad de Sitios Web, Comunicaciones y Cookies</a>."
 
 #: website/includes/faq.html:56
 msgid "Does my gift give me access to tech support?"
@@ -1606,7 +1610,7 @@ msgstr ""
 
 #: website/includes/faq.html:153
 msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
-msgstr ""
+msgstr "¿Por qué las donaciones únicas aparecen como recurrentes en los mandatos de la SEPA?"
 
 #: website/includes/faq.html:156
 msgid ""
@@ -1614,6 +1618,9 @@ msgid ""
 "type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
 "official donation receipt that will clearly reflect the one-time donation."
 msgstr ""
+"Al realizar una donación de una sola vez mediante débito directo SEPA, es posible que se observe una mención de transacciones recurrentes. Esto se debe a que nuestro procesador de pagos Stripe solo "
+"admite transacciones recurrentes para este tipo de pago. Independientemente de esto, solo te cobraremos una vez y no realizaremos ningún cargo adicional en tu cuenta sin tu autorización. Siguiendo "
+"el mandato, recibirás un recibo de donación oficial que reflejará claramente la donación única."
 
 #: website/includes/faq.html:164
 msgid "Can I give in cryptocurrencies?"
