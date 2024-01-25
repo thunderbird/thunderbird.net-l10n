@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-17 15:07-0800\n"
-"PO-Revision-Date: 2024-01-17 09:16+0000\n"
+"PO-Revision-Date: 2024-01-25 09:54+0000\n"
 "Last-Translator: Bogomil Shopov - Бого <shopov.bogomil@gmail.com>\n"
 "Language-Team: none\n"
 "Language: bg\n"
@@ -1499,6 +1499,10 @@ msgid ""
 "to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
 "Communications & Cookies Privacy Notice</a>."
 msgstr ""
+"Разбираме, че вашата поверителност е много важна - сме съгласни с това и това е наша основна ценност в Thunderbird и Mozilla. Адресът ви е част от нашата информация за обработка на плащане, връзка и"
+" дарения, която описваме в нашата <a href=\"%(url)s\">Декларация за поверителност</a>. Тези данни се използват за обработка на плащания, разписки за транзакции, разпознаване на измами и водене на "
+"регистри. Ако искате да знаете повече за личната информация, която получаваме, доставчиците трети страни, на които вярваме и колко дълго съхраняваме данните ви, моля, вижте информацията за <a "
+"href=\"%(website_privacy)s\">нашите сайтове, комуникации и политика за поверителност на бисквитките</a>."
 
 #: website/includes/faq.html:56
 msgid "Does my gift give me access to tech support?"
@@ -1595,7 +1599,7 @@ msgstr ""
 
 #: website/includes/faq.html:153
 msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
-msgstr ""
+msgstr "Защо еднократните дарения се появяват като повтарящи се в SEPA?"
 
 #: website/includes/faq.html:156
 msgid ""
@@ -1603,6 +1607,9 @@ msgid ""
 "type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
 "official donation receipt that will clearly reflect the one-time donation."
 msgstr ""
+"Когато правите еднократно дарение чрез SEPA директен дебит, може да забележите повтарящи се транзакции. Това е така, защото нашият платежен процесор Stripe поддържа само повтарящи се транзакции за "
+"този тип плащане. Независимо от това, ние ще ви таксуваме само веднъж и няма да правим повече плащания по вашата сметка без вашето разрешение. След транзакцията ще получите официална разписка за "
+"дарение, която ясно ще отразява еднократното дарение."
 
 #: website/includes/faq.html:164
 msgid "Can I give in cryptocurrencies?"
@@ -1778,11 +1785,11 @@ msgstr "Моля, включете своя имейл адрес в реда з
 
 #: website/includes/ways-to-give.html:20
 msgid "IBAN (via SEPA bank transfer)"
-msgstr ""
+msgstr "IBAN (чрез SEPA банков превод)"
 
 #: website/includes/ways-to-give.html:43
 msgid "Minimum donation amount: €20"
-msgstr ""
+msgstr "Минимална сума за дарение: €20"
 
 #: website/includes/ways-to-give.html:44
 msgid "Please note that due to the limited contact information we receive during the transfer process, we are unable to issue donation receipts."
@@ -2972,7 +2979,6 @@ msgstr "Бележки към всяко издание на Thunderbird."
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Бележките към изданията на Thunderbird са специфични за всяко едно. Изберете номера на издание от списъка и вижте бележките към него."
 
-#, python-format
 #~ msgid ""
 #~ "We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
 #~ " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
