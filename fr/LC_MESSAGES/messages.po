@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-29 09:42-0800\n"
-"PO-Revision-Date: 2024-01-23 14:13+0000\n"
+"PO-Revision-Date: 2024-01-29 18:00+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: none\n"
 "Language: fr\n"
@@ -1720,6 +1720,8 @@ msgid ""
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
+"Thunderbird fait partie de <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>, une filiale détenue à 100 %% par la Fondation Mozilla. Des portions de ce contenu sont "
+"©1998-%(current_year)s par des contributeurs individuels. Le contenu est disponible sous une <a href=\"%(url)s\" class=\"inline-link\">licence Creative Commons</a>."
 
 #: website/includes/new/site-footer.html:43 website/includes/site-footer.html:116
 msgid "Contribute to this site"
@@ -2032,6 +2034,9 @@ msgid ""
 "        </small>\n"
 "        "
 msgstr ""
+"<small>Thunderbird fait partie de <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a>, une filiale détenue par la Fondation Mozilla. Certaines "
+"parties de ce contenu sont ©1998–2023 par les contributeurs individuels. Le contenu est disponible sous <a href=\"https://www.mozilla.org/foundation/licensing/website-content/\">licence Creative "
+"Commons</a>.</small>"
 
 #: website/newsletter/index.html:19
 msgid ""
@@ -2994,7 +2999,6 @@ msgstr "Les notes de version de Thunderbird sont spécifiques à chaque version 
 #~ msgid "<b>≡ > Go > Mail Start Page (aka Beta Start Page)</b> is a handy reference which documents several of the above items and more."
 #~ msgstr "La commande <b>≡ > Aller à > Page de démarrage</b> est une référence très utile pour obtenir des informations sur les points abordés ci-dessus et bien plus."
 
-#, python-format
 #~ msgid ""
 #~ "Thunderbird is now part of\n"
 #~ "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
