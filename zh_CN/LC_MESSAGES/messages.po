@@ -3,14 +3,14 @@
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
 # taotieren <admin@taotieren.com>, 2019.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-29 09:42-0800\n"
-"PO-Revision-Date: 2024-01-29 08:23+0000\n"
-"Last-Translator: Olvcpr423 <oliverchan86@outlook.com>\n"
+"PO-Revision-Date: 2024-01-29 17:46+0000\n"
+"Last-Translator: Google Translate <pontoon-gt@example.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -1044,7 +1044,7 @@ msgstr "您可以在 <b>≡ > 工具 > 导出</b> 备份您的个人资料，或
 msgid ""
 "<b> Invoke the Mail Start Page (aka Beta Start Page)</b> with the shortcut listed <a href=\"https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_moving-around-thunderbird\">here</a> to "
 "open a handy reference that documents several of the above items and more."
-msgstr ""
+msgstr "<b> 调用邮件起始页Beta 版起始页</b> 列出了快捷键 <a href=\"https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_moving-around-thunderbird \">在这里</a>打开一个方便的参考文档找到上述几点及更多内容。"
 
 #: website/features/index.html:7
 msgid "Thunderbird Features"
@@ -1576,6 +1576,12 @@ msgid ""
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
+"Thunderbird 是其中的一部分\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA 科技公司</a>\n"
+"      Mozilla 基金会的全资子公司。\n"
+"      上述内容中的某些部分系 ©1998–%(current_year)s 版权所有\n"
+"      contributors.contributor内容位于\n"
+"      <a href=\"%(url)s\" class=\"inline-link\">知识共享许可协议</a>。"
 
 #: website/includes/new/site-footer.html:43 website/includes/site-footer.html:116
 msgid "Contribute to this site"
@@ -1878,6 +1884,13 @@ msgid ""
 "        </small>\n"
 "        "
 msgstr ""
+"\n"
+"        <小>\n"
+"          Thunderbird 是 <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a> 的一部分后者是 Mozilla 基金会的全资子公司。\n"
+"          此内容的部分版权所有©1998–2023 由各个贡献者提供。下可用的内容\n"
+"          <a href=\"https://www.mozilla.org/foundation/licensing/website-content/\">知识共享许可协议</a>。\n"
+"        </small>\n"
+"        "
 
 #: website/newsletter/index.html:19
 msgid ""
@@ -2726,7 +2739,6 @@ msgstr "Thunderbird 每个版本均有发行说明。请从下方列表中选择
 #~ msgid "<b>≡ > Go > Mail Start Page (aka Beta Start Page)</b> is a handy reference which documents several of the above items and more."
 #~ msgstr "<b>≡ > 转到 > 邮件起始页（又称测试版起始页）</b>中可以找到上述项目及其他方面的文档，可作方便的参考。"
 
-#, python-format
 #~ msgid ""
 #~ "Thunderbird is now part of\n"
 #~ "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
