@@ -2,14 +2,14 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-29 09:42-0800\n"
-"PO-Revision-Date: 2024-01-27 11:01+0000\n"
-"Last-Translator: Pavel Cvrček <jasnapaka@jasnapaka.com>\n"
+"PO-Revision-Date: 2024-01-29 17:47+0000\n"
+"Last-Translator: Google Translate <pontoon-gt@example.com>\n"
 "Language-Team: none\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -1092,6 +1092,8 @@ msgid ""
 "<b> Invoke the Mail Start Page (aka Beta Start Page)</b> with the shortcut listed <a href=\"https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_moving-around-thunderbird\">here</a> to "
 "open a handy reference that documents several of the above items and more."
 msgstr ""
+"<b> Vyvolejte úvodní stránku e-mailu (tzv. Úvodní stránka betaverze)</b> s použitím uvedené zkratky <a href=\"https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_moving-around-"
+"thunderbird \">zde</a> a otevřít tak praktickou příručku, která dokumentuje některé z výše uvedených bodů a další věci."
 
 #: website/features/index.html:7
 msgid "Thunderbird Features"
@@ -1679,6 +1681,12 @@ msgid ""
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
+"Thunderbird je součástí\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+"      stoprocentní dceřiná společnost Mozilla Foundation.\n"
+"      Části tohoto obsahu jsou ©1998–%(current_year)s jednotlivci\n"
+"      přispěvatelů. Obsah dostupný pod\n"
+"      <a href=\"%(url)s\" class=\"inline-link\">licence Creative Commons</a>."
 
 #: website/includes/new/site-footer.html:43 website/includes/site-footer.html:116
 msgid "Contribute to this site"
@@ -1985,6 +1993,13 @@ msgid ""
 "        </small>\n"
 "        "
 msgstr ""
+"\n"
+"        <small>\n"
+"          Thunderbird je součástí <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a>, která je stoprocentní dceřinou společností organizace Mozilla Foundation.\n"
+"          Části tohoto obsahu jsou ©1998–2023 jednotlivými přispěvateli. Obsah dostupný pod a\n"
+"          <a href=\"https://www.mozilla.org/foundation/licensing/website-content/\">Licence Creative Commons</a>.\n"
+"        </small>\n"
+"        "
 
 #: website/newsletter/index.html:19
 msgid ""
@@ -2927,7 +2942,6 @@ msgstr "Informace o vydáních Thunderbirdu se vždy vztahují ke konkrétní ve
 #~ msgid "<b>≡ > Go > Mail Start Page (aka Beta Start Page)</b> is a handy reference which documents several of the above items and more."
 #~ msgstr "<b>≡ > Přejít > Úvodní stránka (neboli Úvodní stránka Firefoxu Beta)</b> je praktická referenční stránka, která dokumentuje několik výše uvedených bodů a další věci."
 
-#, python-format
 #~ msgid ""
 #~ "Thunderbird is now part of\n"
 #~ "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
