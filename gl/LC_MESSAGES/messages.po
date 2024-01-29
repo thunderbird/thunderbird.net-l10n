@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-01-17 15:07-0800\n"
+"POT-Creation-Date: 2024-01-29 09:42-0800\n"
 "PO-Revision-Date: 2024-01-05 21:53+0000\n"
 "Last-Translator: Jesús Amieiro <amieiro@gmail.com>\n"
 "Language-Team: none\n"
@@ -1044,7 +1044,9 @@ msgid "<b>≡ > Tools > Export</b> can be used to backup your profile, or to get
 msgstr "Pódese usar <b>≡ > Ferramentas > Exportar</b> para facer unha copia de seguranza do seu perfil ou para acceder de forma rápida ao seu directorio de perfil."
 
 #: website/download/beta/index.html:147
-msgid "<b>≡ > Go > Mail Start Page (aka Beta Start Page)</b> is a handy reference which documents several of the above items and more."
+msgid ""
+"<b> Invoke the Mail Start Page (aka Beta Start Page)</b> with the shortcut listed <a href=\"https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_moving-around-thunderbird\">here</a> to "
+"open a handy reference that documents several of the above items and more."
 msgstr ""
 
 #: website/features/index.html:7
@@ -1604,15 +1606,13 @@ msgstr "Denunciar uso indebido da marca rexistrada Thunderbird"
 #: website/includes/site-footer.html:105
 #, python-format
 msgid ""
-"Thunderbird is now part of\n"
+"Thunderbird is part of\n"
 "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
 "      a wholly owned subsidiary of Mozilla Foundation.\n"
 "      Portions of this content are ©1998–%(current_year)s by individual\n"
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
-"Algúns contidos están protexidos polos dereitos de autor ©1998–%(current_year)s de determinados colaboradores en mozilla.org. O resto do contido está dispoñíbel con licenza <a "
-"href=\"%(url)s\">Creative Commons</a>."
 
 #: website/includes/new/site-footer.html:43 website/includes/site-footer.html:116
 msgid "Contribute to this site"
@@ -1907,7 +1907,7 @@ msgstr ""
 msgid ""
 "\n"
 "        <small>\n"
-"          Thunderbird is now part of <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a>, a wholly owned subsidiary of Mozilla Foundation.\n"
+"          Thunderbird is part of <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a>, a wholly owned subsidiary of Mozilla Foundation.\n"
 "          Portions of this content are ©1998–2023 by individual contributors. Content available under a\n"
 "          <a href=\"https://www.mozilla.org/foundation/licensing/website-content/\">Creative Commons license</a>.\n"
 "        </small>\n"
@@ -2793,6 +2793,18 @@ msgstr "Notas para cada unha das versións do Thunderbird."
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "As notas de versión do Thunderbird son específicas para cada versión da aplicación. Seleccione a súa versión da lista de abaixo para ver as notas para ela."
+
+#, python-format
+#~ msgid ""
+#~ "Thunderbird is now part of\n"
+#~ "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+#~ "      a wholly owned subsidiary of Mozilla Foundation.\n"
+#~ "      Portions of this content are ©1998–%(current_year)s by individual\n"
+#~ "      contributors. Content available under\n"
+#~ "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
+#~ msgstr ""
+#~ "Algúns contidos están protexidos polos dereitos de autor ©1998–%(current_year)s de determinados colaboradores en mozilla.org. O resto do contido está dispoñíbel con licenza <a "
+#~ "href=\"%(url)s\">Creative Commons</a>."
 
 #, python-format
 #~ msgid ""

@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-01-17 15:07-0800\n"
+"POT-Creation-Date: 2024-01-29 09:42-0800\n"
 "PO-Revision-Date: 2024-01-19 17:22+0000\n"
 "Last-Translator: Balázs Meskó <meskobalazs@mailbox.org>\n"
 "Language-Team: none\n"
@@ -1134,8 +1134,10 @@ msgid "<b>≡ > Tools > Export</b> can be used to backup your profile, or to get
 msgstr "Az <b>≡ > Eszközök > Exportálás</b> segítségével biztonsági mentést készíthet a profiljáról, vagy gyorsan elérheti a profilkönyvtárat."
 
 #: website/download/beta/index.html:147
-msgid "<b>≡ > Go > Mail Start Page (aka Beta Start Page)</b> is a handy reference which documents several of the above items and more."
-msgstr "Az <b>≡ > Ugrás > Levelező kezdőoldala (más néven Béta kezdőlap)</b> egy praktikus hivatkozás, amely számos fenti elemet és egyebeket dokumentál."
+msgid ""
+"<b> Invoke the Mail Start Page (aka Beta Start Page)</b> with the shortcut listed <a href=\"https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_moving-around-thunderbird\">here</a> to "
+"open a handy reference that documents several of the above items and more."
+msgstr ""
 
 #: website/features/index.html:7
 msgid "Thunderbird Features"
@@ -1725,15 +1727,13 @@ msgstr "A Thunderbird védjegyet érintő visszaélés jelentése"
 #: website/includes/site-footer.html:105
 #, python-format
 msgid ""
-"Thunderbird is now part of\n"
+"Thunderbird is part of\n"
 "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
 "      a wholly owned subsidiary of Mozilla Foundation.\n"
 "      Portions of this content are ©1998–%(current_year)s by individual\n"
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
-"A Thunderbird mostantól az <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a> része, amely a Mozilla Alapítvány teljes tulajdonú leányvállalata. A tartalom egyes részeire a"
-" következő vonatkozik: ©1998–%(current_year)s egyéni közreműködők. A tartalom <a href=\"%(url)s\" class=\"inline-link\">Creative Commons licenc</a> alatt érhető el."
 
 #: website/includes/new/site-footer.html:43 website/includes/site-footer.html:116
 msgid "Contribute to this site"
@@ -2036,15 +2036,12 @@ msgstr "Csalás jelentése"
 msgid ""
 "\n"
 "        <small>\n"
-"          Thunderbird is now part of <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a>, a wholly owned subsidiary of Mozilla Foundation.\n"
+"          Thunderbird is part of <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a>, a wholly owned subsidiary of Mozilla Foundation.\n"
 "          Portions of this content are ©1998–2023 by individual contributors. Content available under a\n"
 "          <a href=\"https://www.mozilla.org/foundation/licensing/website-content/\">Creative Commons license</a>.\n"
 "        </small>\n"
 "        "
 msgstr ""
-"<small>A Thunderbird mostantól az <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a> része, amely a Mozilla Alapítvány teljes tulajdonú "
-"leányvállalata. A tartalom egyes részeire a következő vonatkozik: ©1998–2023 egyéni közreműködők. A tartalom <a href=\"https://www.mozilla.org/foundation/licensing/website-content/\">Creative "
-"Commons licenc</a> alatt érhető el.</small>"
 
 #: website/newsletter/index.html:19
 msgid ""
@@ -2992,6 +2989,34 @@ msgstr "Kiadási megjegyzések a Thunderbird minden verziójához."
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "A Thunderbird kiadási megjegyzései minden verzióhoz egyediek. Válassza ki az Ön verzióját az alábbi listából, és nézze meg a kiadási megjegyzéseket."
+
+#~ msgid "<b>≡ > Go > Mail Start Page (aka Beta Start Page)</b> is a handy reference which documents several of the above items and more."
+#~ msgstr "Az <b>≡ > Ugrás > Levelező kezdőoldala (más néven Béta kezdőlap)</b> egy praktikus hivatkozás, amely számos fenti elemet és egyebeket dokumentál."
+
+#, python-format
+#~ msgid ""
+#~ "Thunderbird is now part of\n"
+#~ "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+#~ "      a wholly owned subsidiary of Mozilla Foundation.\n"
+#~ "      Portions of this content are ©1998–%(current_year)s by individual\n"
+#~ "      contributors. Content available under\n"
+#~ "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
+#~ msgstr ""
+#~ "A Thunderbird mostantól az <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a> része, amely a Mozilla Alapítvány teljes tulajdonú leányvállalata. A tartalom egyes részeire a"
+#~ " következő vonatkozik: ©1998–%(current_year)s egyéni közreműködők. A tartalom <a href=\"%(url)s\" class=\"inline-link\">Creative Commons licenc</a> alatt érhető el."
+
+#~ msgid ""
+#~ "\n"
+#~ "        <small>\n"
+#~ "          Thunderbird is now part of <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a>, a wholly owned subsidiary of Mozilla Foundation.\n"
+#~ "          Portions of this content are ©1998–2023 by individual contributors. Content available under a\n"
+#~ "          <a href=\"https://www.mozilla.org/foundation/licensing/website-content/\">Creative Commons license</a>.\n"
+#~ "        </small>\n"
+#~ "        "
+#~ msgstr ""
+#~ "<small>A Thunderbird mostantól az <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a> része, amely a Mozilla Alapítvány teljes tulajdonú "
+#~ "leányvállalata. A tartalom egyes részeire a következő vonatkozik: ©1998–2023 egyéni közreműködők. A tartalom <a href=\"https://www.mozilla.org/foundation/licensing/website-content/\">Creative "
+#~ "Commons licenc</a> alatt érhető el.</small>"
 
 #~ msgid ""
 #~ "We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"

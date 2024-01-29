@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-01-17 15:07-0800\n"
+"POT-Creation-Date: 2024-01-29 09:42-0800\n"
 "PO-Revision-Date: 2019-04-27 07:46+0000\n"
 "Last-Translator: ജോയ്സ് <joicefootball@gmail.com>\n"
 "Language-Team: none\n"
@@ -1032,7 +1032,9 @@ msgid "<b>≡ > Tools > Export</b> can be used to backup your profile, or to get
 msgstr ""
 
 #: website/download/beta/index.html:147
-msgid "<b>≡ > Go > Mail Start Page (aka Beta Start Page)</b> is a handy reference which documents several of the above items and more."
+msgid ""
+"<b> Invoke the Mail Start Page (aka Beta Start Page)</b> with the shortcut listed <a href=\"https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_moving-around-thunderbird\">here</a> to "
+"open a handy reference that documents several of the above items and more."
 msgstr ""
 
 #: website/features/index.html:7
@@ -1554,13 +1556,13 @@ msgstr "എന്താണ് തണ്ടർബേഡ്?"
 #: website/includes/site-footer.html:105
 #, python-format
 msgid ""
-"Thunderbird is now part of\n"
+"Thunderbird is part of\n"
 "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
 "      a wholly owned subsidiary of Mozilla Foundation.\n"
 "      Portions of this content are ©1998–%(current_year)s by individual\n"
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
-msgstr "വിവരങ്ങളുടം ഈ ഭാഗങ്ങള്‍  ഓരോ mozilla.org സംഭാവനക്കാരുടെ ©1998–%(current_year)s പകര്‍പ്പവകാശത്തിലാകുന്നു. <a href=\"%(url)s\">ക്രിയേറ്റീവ് കോമണ്‍സ് ലൈസന്‍സില്‍</a> വിവരങ്ങള്‍ ലഭ്യം."
+msgstr ""
 
 #: website/includes/new/site-footer.html:43 website/includes/site-footer.html:116
 msgid "Contribute to this site"
@@ -1858,7 +1860,7 @@ msgstr ""
 msgid ""
 "\n"
 "        <small>\n"
-"          Thunderbird is now part of <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a>, a wholly owned subsidiary of Mozilla Foundation.\n"
+"          Thunderbird is part of <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a>, a wholly owned subsidiary of Mozilla Foundation.\n"
 "          Portions of this content are ©1998–2023 by individual contributors. Content available under a\n"
 "          <a href=\"https://www.mozilla.org/foundation/licensing/website-content/\">Creative Commons license</a>.\n"
 "        </small>\n"
@@ -2706,3 +2708,13 @@ msgstr "തണ്ടർബേഡിന്റെ ഓരോ പതിപ്പി�
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr ""
+
+#, python-format
+#~ msgid ""
+#~ "Thunderbird is now part of\n"
+#~ "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+#~ "      a wholly owned subsidiary of Mozilla Foundation.\n"
+#~ "      Portions of this content are ©1998–%(current_year)s by individual\n"
+#~ "      contributors. Content available under\n"
+#~ "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
+#~ msgstr "വിവരങ്ങളുടം ഈ ഭാഗങ്ങള്‍  ഓരോ mozilla.org സംഭാവനക്കാരുടെ ©1998–%(current_year)s പകര്‍പ്പവകാശത്തിലാകുന്നു. <a href=\"%(url)s\">ക്രിയേറ്റീവ് കോമണ്‍സ് ലൈസന്‍സില്‍</a> വിവരങ്ങള്‍ ലഭ്യം."

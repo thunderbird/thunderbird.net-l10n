@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-01-17 15:07-0800\n"
+"POT-Creation-Date: 2024-01-29 09:42-0800\n"
 "PO-Revision-Date: 2023-10-27 12:57+0000\n"
 "Last-Translator: Aman Alam <amanpreet.alam@gmail.com>\n"
 "Language-Team: none\n"
@@ -1028,7 +1028,9 @@ msgid "<b>≡ > Tools > Export</b> can be used to backup your profile, or to get
 msgstr ""
 
 #: website/download/beta/index.html:147
-msgid "<b>≡ > Go > Mail Start Page (aka Beta Start Page)</b> is a handy reference which documents several of the above items and more."
+msgid ""
+"<b> Invoke the Mail Start Page (aka Beta Start Page)</b> with the shortcut listed <a href=\"https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_moving-around-thunderbird\">here</a> to "
+"open a handy reference that documents several of the above items and more."
 msgstr ""
 
 #: website/features/index.html:7
@@ -1551,13 +1553,13 @@ msgstr "ਥੰਡਰਬਰਡ"
 #: website/includes/site-footer.html:105
 #, python-format
 msgid ""
-"Thunderbird is now part of\n"
+"Thunderbird is part of\n"
 "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
 "      a wholly owned subsidiary of Mozilla Foundation.\n"
 "      Portions of this content are ©1998–%(current_year)s by individual\n"
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
-msgstr "ਇਹ ਸਮੱਗਰੀ ਦੇ ਹਿੱਸੇ ©1998–%(current_year)s ਵੱਖ-ਵੱਖ mozilla.org ਦਾ ਯੋਗਦਾਨ ਹਨ। ਸਮੱਗਰੀ <a href=\"%(url)s\">ਕਰੀਏਟਿਵ ਕਾਮਨਜ਼ ਲਸੰਸ</a> ਅਧੀਨ ਹੈ।"
+msgstr ""
 
 #: website/includes/new/site-footer.html:43 website/includes/site-footer.html:116
 msgid "Contribute to this site"
@@ -1856,7 +1858,7 @@ msgstr ""
 msgid ""
 "\n"
 "        <small>\n"
-"          Thunderbird is now part of <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a>, a wholly owned subsidiary of Mozilla Foundation.\n"
+"          Thunderbird is part of <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a>, a wholly owned subsidiary of Mozilla Foundation.\n"
 "          Portions of this content are ©1998–2023 by individual contributors. Content available under a\n"
 "          <a href=\"https://www.mozilla.org/foundation/licensing/website-content/\">Creative Commons license</a>.\n"
 "        </small>\n"
@@ -2703,3 +2705,13 @@ msgstr "ਥੰਡਰਬਰਡ ਦੇ ਹਰੇਕ ਵਰਜਨ ਲਈ ਨੋਟ�
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "ਥੰਡਰਬਰਡ ਜਾਰੀ ਕੀਤੇ ਨੋਟਿਸ ਐਪਲੀਕੇਸ਼ਨ ਦੇ ਹਰੇਕ ਵਰਜਨ ਲਈ ਖਾਸ ਹਨ। ਇਸਦੇ ਲਈ ਜਾਰੀ ਨੋਟਿਸ ਦੇਖਣ ਲਈ ਹੇਠਾਂ ਸੂਚੀ ਵਿੱਚੋਂ ਆਪਣਾ ਵਰਜਨ ਚੁਣੋ।"
+
+#, python-format
+#~ msgid ""
+#~ "Thunderbird is now part of\n"
+#~ "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+#~ "      a wholly owned subsidiary of Mozilla Foundation.\n"
+#~ "      Portions of this content are ©1998–%(current_year)s by individual\n"
+#~ "      contributors. Content available under\n"
+#~ "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
+#~ msgstr "ਇਹ ਸਮੱਗਰੀ ਦੇ ਹਿੱਸੇ ©1998–%(current_year)s ਵੱਖ-ਵੱਖ mozilla.org ਦਾ ਯੋਗਦਾਨ ਹਨ। ਸਮੱਗਰੀ <a href=\"%(url)s\">ਕਰੀਏਟਿਵ ਕਾਮਨਜ਼ ਲਸੰਸ</a> ਅਧੀਨ ਹੈ।"

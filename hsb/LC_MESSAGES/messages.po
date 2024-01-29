@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-01-17 15:07-0800\n"
+"POT-Creation-Date: 2024-01-29 09:42-0800\n"
 "PO-Revision-Date: 2024-01-20 18:59+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language-Team: none\n"
@@ -1127,8 +1127,10 @@ msgid "<b>≡ > Tools > Export</b> can be used to backup your profile, or to get
 msgstr "<b>≡ > Nastroje > Eksportować</b> da so za zawěsćenje wašeho profila wužiwać, abo zo byšće so spěšnje k swojemu profilowemu zapisej dóstał."
 
 #: website/download/beta/index.html:147
-msgid "<b>≡ > Go > Mail Start Page (aka Beta Start Page)</b> is a handy reference which documents several of the above items and more."
-msgstr "<b>≡ > Dźi > Póstowa startowa strona (resp. Beta startowa strona)</b> je praktiska referenca, kotraž wjacore horjeka naspomnjenych elementow a wjace dokumentuje."
+msgid ""
+"<b> Invoke the Mail Start Page (aka Beta Start Page)</b> with the shortcut listed <a href=\"https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_moving-around-thunderbird\">here</a> to "
+"open a handy reference that documents several of the above items and more."
+msgstr ""
 
 #: website/features/index.html:7
 msgid "Thunderbird Features"
@@ -1690,19 +1692,13 @@ msgstr "Znjewužiwanje marki Thunderbird zdźělić"
 #: website/includes/site-footer.html:105
 #, python-format
 msgid ""
-"Thunderbird is now part of\n"
+"Thunderbird is part of\n"
 "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
 "      a wholly owned subsidiary of Mozilla Foundation.\n"
 "      Portions of this content are ©1998–%(current_year)s by individual\n"
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
-"Thunderbird je nětko\n"
-"      dźěl <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
-"      stoprocentoweje wotnožki załožbu Mozilla Foundation.\n"
-"      Dźěle tutoho wobsaha su wot jednotliwych sobuskutkowarjow ©1998–%(current_year)s\n"
-"      wutworjene. Wobsah steji pod licencu\n"
-"      <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a> k dispoziciji."
 
 #: website/includes/new/site-footer.html:43 website/includes/site-footer.html:116
 msgid "Contribute to this site"
@@ -1997,19 +1993,12 @@ msgstr "Wobšudstwo zdźělić"
 msgid ""
 "\n"
 "        <small>\n"
-"          Thunderbird is now part of <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a>, a wholly owned subsidiary of Mozilla Foundation.\n"
+"          Thunderbird is part of <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a>, a wholly owned subsidiary of Mozilla Foundation.\n"
 "          Portions of this content are ©1998–2023 by individual contributors. Content available under a\n"
 "          <a href=\"https://www.mozilla.org/foundation/licensing/website-content/\">Creative Commons license</a>.\n"
 "        </small>\n"
 "        "
 msgstr ""
-"\n"
-"        <small>\n"
-"          Thunderbird nětko k <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a> słuša, stoprocentowej wotnožce załožby Mozilla Foundation.\n"
-"          Dźěle tutoho wobsaha su pod awtorstwom  ©1998–2023 wot jednotliwych sobuskutkowarjow. Wobsah je pod\n"
-"          <a href=\"https://www.mozilla.org/foundation/licensing/website-content/\">licencu Creative Commons</a> k dispoziciji.\n"
-"        </small>\n"
-"        "
 
 #: website/newsletter/index.html:19
 msgid ""
@@ -2886,6 +2875,42 @@ msgstr "Wersijowe informacije kóždeje wersije Thunderbird."
 #: website/thunderbird/releases/index.html:14
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Wersijowe informacije Thunderbird přeco wěstu wersiju nałoženja nastupaja. Wubjerće swoju wersiju ze slědowaceje lisćiny, zo byšće sej jeje wersijowe informacije wobhladał."
+
+#~ msgid "<b>≡ > Go > Mail Start Page (aka Beta Start Page)</b> is a handy reference which documents several of the above items and more."
+#~ msgstr "<b>≡ > Dźi > Póstowa startowa strona (resp. Beta startowa strona)</b> je praktiska referenca, kotraž wjacore horjeka naspomnjenych elementow a wjace dokumentuje."
+
+#, python-format
+#~ msgid ""
+#~ "Thunderbird is now part of\n"
+#~ "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+#~ "      a wholly owned subsidiary of Mozilla Foundation.\n"
+#~ "      Portions of this content are ©1998–%(current_year)s by individual\n"
+#~ "      contributors. Content available under\n"
+#~ "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
+#~ msgstr ""
+#~ "Thunderbird je nětko\n"
+#~ "      dźěl <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+#~ "      stoprocentoweje wotnožki załožbu Mozilla Foundation.\n"
+#~ "      Dźěle tutoho wobsaha su wot jednotliwych sobuskutkowarjow ©1998–%(current_year)s\n"
+#~ "      wutworjene. Wobsah steji pod licencu\n"
+#~ "      <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a> k dispoziciji."
+
+#~ msgid ""
+#~ "\n"
+#~ "        <small>\n"
+#~ "          Thunderbird is now part of <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a>, a wholly owned subsidiary of Mozilla Foundation.\n"
+#~ "          Portions of this content are ©1998–2023 by individual contributors. Content available under a\n"
+#~ "          <a href=\"https://www.mozilla.org/foundation/licensing/website-content/\">Creative Commons license</a>.\n"
+#~ "        </small>\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "        <small>\n"
+#~ "          Thunderbird nětko k <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a> słuša, stoprocentowej wotnožce załožby Mozilla Foundation.\n"
+#~ "          Dźěle tutoho wobsaha su pod awtorstwom  ©1998–2023 wot jednotliwych sobuskutkowarjow. Wobsah je pod\n"
+#~ "          <a href=\"https://www.mozilla.org/foundation/licensing/website-content/\">licencu Creative Commons</a> k dispoziciji.\n"
+#~ "        </small>\n"
+#~ "        "
 
 #~ msgid ""
 #~ "We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
