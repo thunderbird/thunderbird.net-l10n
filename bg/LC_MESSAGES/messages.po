@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-29 09:42-0800\n"
-"PO-Revision-Date: 2024-01-28 11:55+0000\n"
+"PO-Revision-Date: 2024-01-30 07:22+0000\n"
 "Last-Translator: Bogomil Shopov - Бого <shopov.bogomil@gmail.com>\n"
 "Language-Team: none\n"
 "Language: bg\n"
@@ -1723,6 +1723,12 @@ msgid ""
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
+"Thunderbird е част от\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+"      изцяло притежавано дъщерно дружество на Mozilla Foundation.\n"
+"      Части от това съдържание са ©1998–%(current_year)s на отделни\n"
+"      сътрудници. Съдържанието е достъпно под\n"
+"      <a href=\"%(url)s\" class=\"inline-link\">лиценз Creative Commons</a>."
 
 #: website/includes/new/site-footer.html:43 website/includes/site-footer.html:116
 msgid "Contribute to this site"
@@ -2996,7 +3002,6 @@ msgstr "Бележките към изданията на Thunderbird са сп�
 #~ msgid "<b>≡ > Go > Mail Start Page (aka Beta Start Page)</b> is a handy reference which documents several of the above items and more."
 #~ msgstr "<b>≡ > Навигация > Начална страница</b> е удобен справочник, който документира няколко от горните елементи и много повече."
 
-#, python-format
 #~ msgid ""
 #~ "Thunderbird is now part of\n"
 #~ "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
