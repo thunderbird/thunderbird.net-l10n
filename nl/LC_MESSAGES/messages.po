@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-29 09:42-0800\n"
-"PO-Revision-Date: 2024-01-18 06:50+0000\n"
+"PO-Revision-Date: 2024-01-30 06:42+0000\n"
 "Last-Translator: Mark Heijl <markh@babelzilla.org>\n"
 "Language-Team: none\n"
 "Language: nl\n"
@@ -1145,6 +1145,8 @@ msgid ""
 "<b> Invoke the Mail Start Page (aka Beta Start Page)</b> with the shortcut listed <a href=\"https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_moving-around-thunderbird\">here</a> to "
 "open a handy reference that documents several of the above items and more."
 msgstr ""
+"<b>Roep de e-mailstartpagina (ook bekend als Beta-startpagina) aan</b> met <a href=\"https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_moving-around-thunderbird\">deze</a> "
+"snelkoppeling om een handige referentie te openen die een aantal van de bovenstaande items en meer documenteert."
 
 #: website/features/index.html:7
 msgid "Thunderbird Features"
@@ -1745,6 +1747,12 @@ msgid ""
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
+"Thunderbird is onderdeel van\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+"      een volledige dochteronderneming van Mozilla Foundation.\n"
+"      Delen van deze inhoud zijn ©1998–%(current_year)s van individuele\n"
+"      medewerkers. Inhoud beschikbaar onder\n"
+"      een <a href=\"%(url)s\" class=\"inline-link\">Creative Commons-licentie</a>."
 
 #: website/includes/new/site-footer.html:43 website/includes/site-footer.html:116
 msgid "Contribute to this site"
@@ -2051,6 +2059,13 @@ msgid ""
 "        </small>\n"
 "        "
 msgstr ""
+"\n"
+"        <small>\n"
+"          Thunderbird is onderdeel van <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a>, een volledige dochteronderneming van Mozilla Foundation.\n"
+"          Delen van deze inhoud zijn ©1998–2023 door individuele medewerkers. Inhoud is beschikbaar onder een \n"
+"          <a href=\"https://www.mozilla.org/foundation/licensing/website-content/\">Creative Commons-licentie</a>.\n"
+"        </small>\n"
+"        "
 
 #: website/newsletter/index.html:19
 msgid ""
@@ -3012,7 +3027,6 @@ msgstr "Uitgaveopmerkingen van Thunderbird zijn specifiek voor elke versie van d
 #~ msgid "<b>≡ > Go > Mail Start Page (aka Beta Start Page)</b> is a handy reference which documents several of the above items and more."
 #~ msgstr "<b>≡ > Ga > E-mailstartpagina (ook bekend als Beta-startpagina)</b> is een handig naslagwerk dat een aantal van de bovenstaande items en meer documenteert."
 
-#, python-format
 #~ msgid ""
 #~ "Thunderbird is now part of\n"
 #~ "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
