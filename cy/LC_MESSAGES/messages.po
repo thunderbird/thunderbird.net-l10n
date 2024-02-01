@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-29 09:42-0800\n"
-"PO-Revision-Date: 2024-01-18 16:23+0000\n"
+"PO-Revision-Date: 2024-02-01 09:35+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language-Team: none\n"
 "Language: cy\n"
@@ -1142,6 +1142,8 @@ msgid ""
 "<b> Invoke the Mail Start Page (aka Beta Start Page)</b> with the shortcut listed <a href=\"https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_moving-around-thunderbird\">here</a> to "
 "open a handy reference that documents several of the above items and more."
 msgstr ""
+"<b> Agorwch y  Dudalen Cychwyn E-bost (h.y. y Dudalen Cychwyn Beta)</b> gyda'r llwybr byr sydd yma<a href=\"https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_moving-around-"
+"thunderbird\">yma</a> i agor nodyn defnyddiol sy'n dogfennu nifer o'r eitemau uchod a mwy."
 
 #: website/features/index.html:7
 msgid "Thunderbird Features"
@@ -1735,6 +1737,12 @@ msgid ""
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
+"Mae Thunderbird yn rhan o\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">Gorfforaeth Technolegau MZLA</a>,\n"
+"      is-gwmni sy'n eiddo llwyr i'r Mozilla Foundation.\n"
+"      Mae rhannau o'r cynnwys hwn yn © 1998 -%(current_year)s cyfranwyr unigol.\n"
+"      Mae'r cynnwys ar gael o dan\n"
+"      <a href=\"%(url)s\" class=\"inline-link\">drwydded Creative Commons</a>."
 
 #: website/includes/new/site-footer.html:43 website/includes/site-footer.html:116
 msgid "Contribute to this site"
@@ -2043,6 +2051,13 @@ msgid ""
 "        </small>\n"
 "        "
 msgstr ""
+"\n"
+"        <small>\n"
+"          Mae Thunderbird yn rhan o <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a>, is-gwmni sy'n eiddo llwyr i Mozilla Foundation.\n"
+"          Mae rhannau o'r cynnwys hwn yn ©1998–2023 gan gyfranwyr unigol. Cynnwys sydd ar gael o\n"
+"          dan <a href=\"https://www.mozilla.org/foundation/licensing/website-content/\">drwydded Creative Commons</a>.\n"
+"        </small>\n"
+"        "
 
 #: website/newsletter/index.html:19
 msgid ""
@@ -3005,7 +3020,6 @@ msgstr "Mae nodiadau rhyddhau Thunderbird yn benodol i bob fersiwn o'r rhaglen. 
 #~ msgid "<b>≡ > Go > Mail Start Page (aka Beta Start Page)</b> is a handy reference which documents several of the above items and more."
 #~ msgstr "<b>≡> Ewch > Tudalen Cychwyn E-bost (hynny yw, Tudalen Cychwyn y Beta)</b> yn gyfeirnod defnyddiol sy'n dogfennu nifer o'r eitemau uchod a mwy."
 
-#, python-format
 #~ msgid ""
 #~ "Thunderbird is now part of\n"
 #~ "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
