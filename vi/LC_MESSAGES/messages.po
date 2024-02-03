@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-29 09:42-0800\n"
-"PO-Revision-Date: 2024-01-24 05:29+0000\n"
+"PO-Revision-Date: 2024-02-03 01:32+0000\n"
 "Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
 "Language-Team: none\n"
 "Language: vi\n"
@@ -1144,6 +1144,8 @@ msgid ""
 "<b> Invoke the Mail Start Page (aka Beta Start Page)</b> with the shortcut listed <a href=\"https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_moving-around-thunderbird\">here</a> to "
 "open a handy reference that documents several of the above items and more."
 msgstr ""
+"<b> Gọi trang Bắt đầu thư (còn gọi là Trang bắt đầu Beta)</b> với lối tắt được liệt kê <a href=\"https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_moving-around-thunderbird\">tại "
+"đây</a> để mở một tài liệu tham khảo hữu ích ghi lại một số mục trên và hơn thế nữa."
 
 #: website/features/index.html:7
 msgid "Thunderbird Features"
@@ -1736,6 +1738,12 @@ msgid ""
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
+"Thunderbird là một phần của\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">Tập đoàn công nghệ MZLA</a>,\n"
+"      một công ty con thuộc sở hữu của Mozilla Foundation.\n"
+"      Các phần của nội dung này giữ bản quyền ©1998–%(current_year)s bởi\n"
+"      những người dùng đóng góp cá nhân. Nội dung có sẵn theo\n"
+"      <a href=\"%(url)s\" class=\"inline-link\">giấy phép Creative Commons</a>."
 
 #: website/includes/new/site-footer.html:43 website/includes/site-footer.html:116
 msgid "Contribute to this site"
@@ -2044,6 +2052,13 @@ msgid ""
 "        </small>\n"
 "        "
 msgstr ""
+"\n"
+"        <small>\n"
+"          Thunderbird là một phần của <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a>, một công ty con thuộc sở hữu hoàn toàn của Mozilla Foundation.\n"
+"          Các phần của nội dung này thuộc bản quyền ©1998–2023 bởi những người đóng góp cá nhân.\n"
+"          Nội dung có sẵn dưới dạng <a href=\"https://www.mozilla.org/foundation/licensing/website-content/\">giấy phép Creative Commons</a>.\n"
+"        </small>\n"
+"        "
 
 #: website/newsletter/index.html:19
 msgid ""
@@ -3006,7 +3021,6 @@ msgstr "Ghi chú phát hành Thunderbird dành riêng cho từng phiên bản c�
 #~ msgid "<b>≡ > Go > Mail Start Page (aka Beta Start Page)</b> is a handy reference which documents several of the above items and more."
 #~ msgstr "<b>≡ > Đi > Trang bắt đầu thư (hay còn gọi là Trang bắt đầu Beta)</b> là một tài liệu tham khảo hữu ích ghi lại một số mục ở trên và hơn thế nữa."
 
-#, python-format
 #~ msgid ""
 #~ "Thunderbird is now part of\n"
 #~ "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
