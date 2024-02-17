@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-29 09:42-0800\n"
-"PO-Revision-Date: 2023-12-06 14:50+0000\n"
+"PO-Revision-Date: 2024-02-17 19:52+0000\n"
 "Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
 "Language-Team: none\n"
 "Language: sq\n"
@@ -1744,6 +1744,12 @@ msgid ""
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
+"Thunderbird-i është pjesë e\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+"      një nëndegë e Mozilla Foundation-it tërësisht pronë e tij.\n"
+"      Pjesë të kësaj lënde janë ©1998–%(current_year)s nga kontribues\n"
+"      individualë te mozilla.org. Lëndë që mund të përdoret sipas\n"
+"      një <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 
 #: website/includes/new/site-footer.html:43 website/includes/site-footer.html:116
 msgid "Contribute to this site"
@@ -1808,15 +1814,15 @@ msgstr "Ju utemi, përfshini adresën tuaj email te rreshti memo i çekut tuaj, 
 
 #: website/includes/ways-to-give.html:20
 msgid "IBAN (via SEPA bank transfer)"
-msgstr ""
+msgstr "IBAN (përmes dërgese bankare SEPA)"
 
 #: website/includes/ways-to-give.html:43
 msgid "Minimum donation amount: €20"
-msgstr ""
+msgstr "Sasi minimum dhurimi: €20"
 
 #: website/includes/ways-to-give.html:44
 msgid "Please note that due to the limited contact information we receive during the transfer process, we are unable to issue donation receipts."
-msgstr ""
+msgstr "Ju lutemi, kini parasysh se, për shkak të hollësive të kufizuara që marrim për kontaktin gjatë procesit të shpërnguljes, s’jemi në gjendje të lëshojmë fatura dhurimesh."
 
 #: website/includes/donor-contact/fa-body.html:92 website/includes/donor-contact/fa-body.html:96
 msgid "I need"
@@ -2054,6 +2060,13 @@ msgid ""
 "        </small>\n"
 "        "
 msgstr ""
+"\n"
+"        <small>\n"
+"          Thunderbird-i është pjesë e <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a>, një nëndegë në pronësi të plotë e Mozilla Foundation.\n"
+"          Pjesë të kësaj lënde janë ©1998–2023 nga kontribues individualë. Lëndë që mund të përdoret sipas një\n"
+"          <a href=\"https://www.mozilla.org/foundation/licensing/website-content/\">licence Creative Commons</a>.\n"
+"        </small>\n"
+"        "
 
 #: website/newsletter/index.html:19
 msgid ""
@@ -3026,7 +3039,6 @@ msgstr "Shënimet e versionit për Thunderbird-in janë specifike për çdo vers
 #~ msgid "<b>≡ > Go > Mail Start Page (aka Beta Start Page)</b> is a handy reference which documents several of the above items and more."
 #~ msgstr "<b>≡ > Shkoni > Faqe Fillimi Poste (ose Faqe Nisjeje Beta)</b> është një referencë e volitshme që dokumenton disa nga gjërat më sipër dhe të tjera."
 
-#, python-format
 #~ msgid ""
 #~ "Thunderbird is now part of\n"
 #~ "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
@@ -3058,7 +3070,6 @@ msgstr "Shënimet e versionit për Thunderbird-in janë specifike për çdo vers
 #~ "        </small>\n"
 #~ "        "
 
-#, python-format
 #~ msgid ""
 #~ "We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
 #~ " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
