@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-29 09:42-0800\n"
-"PO-Revision-Date: 2024-02-07 11:22+0000\n"
+"PO-Revision-Date: 2024-02-18 10:16+0000\n"
 "Last-Translator: Artem Polivanchuk <a.polivanchuk@outlook.com>\n"
 "Language-Team: none\n"
 "Language: uk\n"
@@ -1143,6 +1143,8 @@ msgid ""
 "<b> Invoke the Mail Start Page (aka Beta Start Page)</b> with the shortcut listed <a href=\"https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_moving-around-thunderbird\">here</a> to "
 "open a handy reference that documents several of the above items and more."
 msgstr ""
+"<b> Викличте початкову сторінку електронної пошти (відому як початкова сторінка бета)</b> за допомогою ярлика, вказаного <a href=\"https://support.mozilla.org/kb/keyboard-shortcuts-"
+"thunderbird#w_moving-around-thunderbird \">тут</a>, щоб відкрити зручну довідку, яка документує деякі з вищезазначених елементів та багато іншого."
 
 #: website/features/index.html:7
 msgid "Thunderbird Features"
@@ -1519,6 +1521,10 @@ msgid ""
 "to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
 "Communications & Cookies Privacy Notice</a>."
 msgstr ""
+"Ми розуміємо, що ваша приватність дуже важлива. Ми погоджуємося, і це є основною цінністю для нас у Thunderbird і Mozilla. Ваша адреса є частиною нашої інформації про обробку платежів, контактів і "
+"внесків, яку ми викладаємо в нашій <a href=\"%(url)s\">Політиці приватності</a>. Ці дані використовуються для обробки платежів, отримання транзакцій, виявлення шахрайства та ведення записів. Якщо ви"
+" хочете дізнатися більше про дані особистої інформації, які ми отримуємо, сторонніх постачальників, яким ми довіряємо, і про те, як довго ми зберігаємо ваші дані, перегляньте наші <a "
+"href=\"%(website_privacy)s\">вебсайти, повідомлення та Положення про приватність файлів cookie</a>."
 
 #: website/includes/faq.html:56
 msgid "Does my gift give me access to tech support?"
@@ -1614,7 +1620,7 @@ msgstr ""
 
 #: website/includes/faq.html:153
 msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
-msgstr ""
+msgstr "Чому одноразові внески відображаються як повторювані в мандатах SEPA?"
 
 #: website/includes/faq.html:156
 msgid ""
@@ -1622,6 +1628,9 @@ msgid ""
 "type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
 "official donation receipt that will clearly reflect the one-time donation."
 msgstr ""
+"Під час проведення одноразового внеску через прямий дебет SEPA ви можете помітити згадку про повторювані транзакції. Це тому, що наш обробник платежів Stripe підтримує лише повторювані транзакції "
+"для цього типу платежу. Попри це, ми проведемо платіж лише один раз і не здійснюватимемо жодних подальших платежів з вашого рахунку без вашого дозволу. Після доручення ви отримаєте офіційну "
+"квитанцію про внесок, яка міститиме інформацію про одноразовий внесок."
 
 #: website/includes/faq.html:164
 msgid "Can I give in cryptocurrencies?"
@@ -1732,6 +1741,12 @@ msgid ""
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
+"Thunderbird входить до\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+"      що цілком належить компанії Mozilla Foundation.\n"
+"      Частини цього вмісту ©1998–%(current_year)s створені окремими\n"
+"      помічниками. Вміст доступний на умовах\n"
+"      <a href=\"%(url)s\" class=\"inline-link\">ліцензії Creative Commons</a>."
 
 #: website/includes/new/site-footer.html:43 website/includes/site-footer.html:116
 msgid "Contribute to this site"
@@ -1796,15 +1811,15 @@ msgstr "Будь ласка, введіть свою адресу електро
 
 #: website/includes/ways-to-give.html:20
 msgid "IBAN (via SEPA bank transfer)"
-msgstr ""
+msgstr "IBAN (через банківський переказ SEPA)"
 
 #: website/includes/ways-to-give.html:43
 msgid "Minimum donation amount: €20"
-msgstr ""
+msgstr "Мінімальна сума внеску: 20 євро"
 
 #: website/includes/ways-to-give.html:44
 msgid "Please note that due to the limited contact information we receive during the transfer process, we are unable to issue donation receipts."
-msgstr ""
+msgstr "Зверніть увагу, що через обмежену контактну інформацію, яку ми отримуємо під час процесу переказу, ми не можемо видавати квитанції про внески."
 
 #: website/includes/donor-contact/fa-body.html:92 website/includes/donor-contact/fa-body.html:96
 msgid "I need"
@@ -2038,6 +2053,13 @@ msgid ""
 "        </small>\n"
 "        "
 msgstr ""
+"\n"
+"        <small>\n"
+"          Thunderbird входить до <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a>, дочірньої компанії Mozilla Foundation.\n"
+"          Частини цього вмісту належать ©1998–2023 окремим авторам. Вміст доступний на умовах\n"
+"          <a href=\"https://www.mozilla.org/foundation/licensing/website-content/\">ліцензії Creative Commons</a>.\n"
+"        </small>\n"
+"        "
 
 #: website/newsletter/index.html:19
 msgid ""
