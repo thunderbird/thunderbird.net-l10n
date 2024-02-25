@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-29 09:42-0800\n"
-"PO-Revision-Date: 2024-02-25 04:39+0000\n"
+"PO-Revision-Date: 2024-02-25 05:32+0000\n"
 "Last-Translator: Hyeonseok Shin <hyeonseok@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ko\n"
@@ -664,6 +664,8 @@ msgid ""
 "to learn how you can participate on the Thunderbird team. We also have paid staff working full-time on Thunderbird, <a href=\"%(donate)s\" data-donate-btn data-donate-content=\"about\">funded by "
 "donations</a> from our users. If you’re curious about who is working on Thunderbird, check out the <a href=\"%(core_team)s\">list of our core contributors</a>."
 msgstr ""
+"Thunderbird를 개발하고 사용자들을 지원하는데 헌신하는 열정적인 팀이 있고 여러분의 도움을 진심으로 환영합니다. Thunderbird 팀에 참여할 수 있는 방법은 <a href=\"%(volunteer)s\">참여하기 페이지</a>를 통해 확인하세요. 또한 Thunderbird에는 <a href=\"%(donate)s\" data-donate-"
+"btn data-donate-content=\"about\">사용자들의 기부금</a>을 통해 지원을 받는 풀타임으로 일하는 직원이 있습니다. 만약 Thunderbird에서 일하는 사람들이 누구인지 궁금하시다면 <a href=\"%(core_team)s\">핵심 기여자 목록</a>을 통해 확인하세요."
 
 #: website/about/index.html:70
 msgid "Thunderbird Council"
@@ -715,7 +717,7 @@ msgstr "도움 받기"
 
 #: website/calendar/index.html:50
 msgid "Need help with Calendar?"
-msgstr ""
+msgstr "캘린더와 관련하여 도움이 필요하십니까?"
 
 #: website/calendar/holidays/index.html:7 website/calendar/holidays/index.html:22 website/calendar/index.html:62
 msgid "Holiday Calendars"
@@ -743,7 +745,7 @@ msgstr "변화를 원하십니까? 관심사에 맞는 버그를 수정하십시
 
 #: website/calendar/holidays/index.html:24
 msgid "Add your nation’s holidays to Calendar!"
-msgstr ""
+msgstr "캘린더에 국가 공휴일을 추가하세요!"
 
 #: website/calendar/holidays/index.html:29
 #, python-format
@@ -769,7 +771,7 @@ msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> 공�
 
 #: website/donate/index.html:7
 msgid "Give to Thunderbird"
-msgstr ""
+msgstr "Thunderbird에 기부하기"
 
 #: website/donate/index.html:17
 msgid "Support Thunderbird"
@@ -777,7 +779,7 @@ msgstr "Thunderbird 지원"
 
 #: website/donate/index.html:20 website/donate/index.html:57
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "자주 묻는 질문들"
 
 #: website/donate/index.html:23 website/donate/index.html:70
 msgid "Other Ways to Give"
@@ -789,7 +791,7 @@ msgstr "썬더버드를 지원하세요!"
 
 #: website/donate/index.html:38
 msgid "Thunderbird is funded by users like you."
-msgstr ""
+msgstr "Thunderbird는 귀하와 같은 사용자로부터 자금을 지원받습니다."
 
 #: website/donate/index.html:43
 msgid "Our mission is to provide an open source email app that is secure, private and free for users around the world. Your donations support this work. Will you give today?"
@@ -797,29 +799,29 @@ msgstr ""
 
 #: website/donate/index.html:46
 msgid "Contributions are not tax-deductible as charitable donations."
-msgstr ""
+msgstr "기부금은 자선 기부금으로 세금 공제 대상이 아닙니다."
 
 #: website/donate/help/index.html:7 website/donate/help/thank-you/index.html:7
 msgid "Donor Help"
-msgstr ""
+msgstr "기부자 도움말"
 
 #: website/donate/help/index.html:30
 msgid "If you need help with a contribution to MZLA/Thunderbird, please fill out this form and a Thunderbird donor care representative will get back to you as soon as possible."
-msgstr ""
+msgstr "MZLA/Thunderbird에 기부하는데 도움이 필요한 경우, 이 양식을 작성하면 Thunderbird 기부 관리 담당자가 최대한 빨리 연락을 드립니다."
 
 #: website/donate/help/index.html:33
 #, python-format
 msgid ""
 "Unfortunately, donor care representatives are unable to offer support or help with Thunderbird technical issues. For technical support, please visit our <a href=\"%(support_url)s\">support page.</a>"
-msgstr ""
+msgstr "죄송하지만, 기부 관리 담당자는 Thunderbird의 기술적 문제에 대한 지원이나 도움을 제공할 수 없습니다. 기술 지원을 받으려면 <a href=\"%(support_url)s\">지원 페이지</a>를 방문하세요."
 
 #: website/donate/help/thank-you/index.html:20
 msgid "Thank you for contacting us. A case has been created for your issue and we will be in touch shortly."
-msgstr ""
+msgstr "연락해 주셔서 감사합니다. 문제에 대한 이슈가 생성되었으며 곧 연락을 드리겠습니다."
 
 #: website/donate/help/thank-you/index.html:23
 msgid "We will get back to you soon."
-msgstr ""
+msgstr "곧 다시 연락드리겠습니다."
 
 #: website/donate/help/thank-you/index.html:26
 msgid "Return to Thunderbird.net"
@@ -835,7 +837,7 @@ msgstr "Thunderbird를 설치해 주셔서 감사합니다!"
 
 #: website/download/index.html:19
 msgid "Your download didn't start automatically?"
-msgstr ""
+msgstr "다운로드가 자동으로 시작하지 않았나요?"
 
 #: website/download/index.html:24 website/includes/site-prefooter.html:37
 msgid "Release Channel"
@@ -859,7 +861,7 @@ msgstr "한 단계만 더!"
 
 #: website/download/index.html:40
 msgid "Finish installing, and start enjoying Thunderbird."
-msgstr ""
+msgstr "설치를 완료하고 Thunderbird를 즐겨보세요."
 
 #: website/download/index.html:42 website/thunderbird/102.0/beta-appeal/index.html:49
 #, python-format
@@ -967,7 +969,7 @@ msgstr ""
 
 #: website/download/beta/index.html:81
 msgid "Run Stable and Beta side-by-side (recommended)."
-msgstr ""
+msgstr "Stable과 Beta를 나란히 실행합니다(권장)."
 
 #: website/download/beta/index.html:83
 msgid ""
