@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-29 09:42-0800\n"
-"PO-Revision-Date: 2024-01-01 20:50+0000\n"
+"PO-Revision-Date: 2024-03-03 22:03+0000\n"
 "Last-Translator: jlG <jlg.l10n.es@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es_ES\n"
@@ -249,7 +249,7 @@ msgid ""
 msgstr ""
 "\n"
 "  Conoce <em>Supernova</em>: nuestro <strong>correo electrónico</strong> más rápido y bonito, \n"
-"  <strong>calendario</strong>, y<strong>contactos</strong> hasta ahora. Diseñado para ofrecerte \n"
+"  <strong>calendario</strong>, y <strong>contactos</strong> hasta ahora. Diseñado para ofrecerte \n"
 "  la máxima libertad."
 
 #: website/includes/new/page.html:28 website/includes/new/site-footer.html:13 website/index.html:39 website/index.html:359
@@ -779,6 +779,9 @@ msgid ""
 "We’ve got some holiday calendar files available for download. You can either download and then import them into Calendar or you can just subscribe to these calendars by copying their URL and then "
 "adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
 msgstr ""
+"Tenemos algunos archivos de calendario de vacaciones disponibles para descargar. Puedes descargarlos y luego importarlos en Calendario o simplemente suscribirte a estos calendarios copiando su URL y"
+" luego añadiéndolos como nuevos archivos de calendario remotos. Puedes encontrar más información sobre cómo instalar un calendario de vacaciones en el artículo <a href=\"%s\">Añadir un calendario de"
+" vacaciones</a>."
 
 #: website/calendar/holidays/index.html:32
 #, python-format
@@ -788,7 +791,7 @@ msgstr "También puedes encontrar calendarios para suscribirte en <a href=\"%s\"
 #: website/calendar/holidays/index.html:59
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
 
 #: website/calendar/holidays/index.html:61
 #, python-format
@@ -836,16 +839,20 @@ msgstr "Ayuda para las donaciones"
 #: website/donate/help/index.html:30
 msgid "If you need help with a contribution to MZLA/Thunderbird, please fill out this form and a Thunderbird donor care representative will get back to you as soon as possible."
 msgstr ""
+"Si necesitas ayuda con una contribución a MZLA/Thunderbird, por favor completa este formulario y un representante de atención al donante de Thunderbird se pondrá en contacto contigo lo antes "
+"posible."
 
 #: website/donate/help/index.html:33
 #, python-format
 msgid ""
 "Unfortunately, donor care representatives are unable to offer support or help with Thunderbird technical issues. For technical support, please visit our <a href=\"%(support_url)s\">support page.</a>"
 msgstr ""
+"Desafortunadamente, los representantes de atención a donantes no pueden ofrecer ayuda o asistencia con problemas técnicos de Thunderbird. Para obtener soporte técnico, por favor visita nuestra <a "
+"href=\"%(support_url)s\">página de asistencia.</a>"
 
 #: website/donate/help/thank-you/index.html:20
 msgid "Thank you for contacting us. A case has been created for your issue and we will be in touch shortly."
-msgstr ""
+msgstr "Gracias por contactar con nosotros. Se ha creado un caso para tu problema y nos pondremos en contacto pronto."
 
 #: website/donate/help/thank-you/index.html:23
 msgid "We will get back to you soon."
@@ -894,7 +901,7 @@ msgstr "Termina la instalación y comienza a disfrutar de Thunderbird."
 #: website/download/index.html:42 website/thunderbird/102.0/beta-appeal/index.html:49
 #, python-format
 msgid "Having trouble? <a class=\"inline-link\" href=\"%(url)s\">Get help with your installation.</a>"
-msgstr ""
+msgstr "¿Tienes problemas? <a class=\"inline-link\" href=\"%(url)s\">Obtén ayuda con tu instalación.</a>"
 
 #: website/download/beta/index.html:7 website/includes/download-button.html:59 website/includes/site-prefooter.html:66
 msgid "Thunderbird Beta"
@@ -1499,7 +1506,7 @@ msgstr ""
 
 #: website/includes/faq.html:26
 msgid "How do I cancel or change my recurring gift? Can I change my payment method or my donation frequency?"
-msgstr ""
+msgstr "¿Cómo puedo cancelar o cambiar mi donación recurrente? ¿Puedo cambiar mi método de pago o la frecuencia de mi donación?"
 
 #: website/includes/faq.html:29
 #, python-format
@@ -1507,6 +1514,9 @@ msgid ""
 "Access your donation account settings using the 'Manage My Donation' button on your recent donation confirmation email. There you can change the amount, frequency, payment method and charge date. "
 "You can also cancel your recurring donation plan. If you run into any issues you can always <a href=\"%(help)s\">contact us</a>!"
 msgstr ""
+"Accede a la configuración de tu cuenta de donación utilizando el botón 'Administrar mi donación' en el correo electrónico de confirmación de tu donación reciente. Allí puedes cambiar el importe, la "
+"frecuencia, el método de pago y la fecha de cargo. También puedes cancelar tu plan de donación recurrente. ¡Si tienes algún problema, siempre puedes <a href=\"%(help)s\">ponerte en contacto con "
+"nosotros</a>!"
 
 #: website/includes/faq.html:41
 msgid "Why do you need my address in order to process a gift?"
@@ -1520,6 +1530,10 @@ msgid ""
 "to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
 "Communications & Cookies Privacy Notice</a>."
 msgstr ""
+"Entendemos que tu privacidad es muy importante, y estamos de acuerdo; es un valor fundamental en Thunderbird y Mozilla. Tu dirección forma parte de nuestra Información de Procesamiento de Pagos, "
+"Contacto y Donación, que detallamos en nuestra <a href=\"%(url)s\">Política de Privacidad</a>. Estos datos se utilizan para procesar pagos, generar recibos de transacciones, detectar fraudes y "
+"mantener registros. Si deseas obtener más información sobre los datos de información personal que recibimos, los proveedores de terceros en los que confiamos y durante cuánto tiempo conservamos tus "
+"datos, consulta nuestro <a href=\"%(website_privacy)s\">Aviso de Privacidad de Sitios Web, Comunicaciones y Cookies</a>."
 
 #: website/includes/faq.html:56
 msgid "Does my gift give me access to tech support?"
@@ -1534,7 +1548,7 @@ msgstr ""
 
 #: website/includes/faq.html:68
 msgid "How can I turn off the donation message on the Thunderbird start page?"
-msgstr ""
+msgstr "¿Cómo puedo desactivar el mensaje de donación en la página de inicio de Thunderbird?"
 
 #: website/includes/faq.html:71
 #, python-format
@@ -1550,10 +1564,13 @@ msgid ""
 "Gifts to Thunderbird are <strong>not tax-deductible as charitable gifts</strong>, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-"
 "platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future development."
 msgstr ""
+"Las donaciones a Thunderbird <strong>no son deducibles de impuestos como donaciones a la caridad</strong>, pero son muy apreciadas. Donar a Thunderbird apoya el desarrollo de nuestro principal "
+"cliente de correo electrónico y calendario de código abierto multiplataforma, gratuito para uso empresarial y personal. Tu donación ayudará a garantizar que siga siendo así y apoyará el desarrollo "
+"futuro."
 
 #: website/includes/faq.html:93
 msgid "How can I get a business receipt?"
-msgstr ""
+msgstr "¿Cómo puedo obtener un recibo comercial?"
 
 #: website/includes/faq.html:96
 #, python-format
@@ -1561,6 +1578,8 @@ msgid ""
 "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box 'Donate as an Organization' and include your company name. The receipt you receive to the email address used to "
 "make your contribution will include your business information."
 msgstr ""
+"Cuando dones a través de nuestro <a href=\"%(donate)s\">formulario en línea</a>, simplemente marca la casilla 'Donar como una Organización' e incluye el nombre de tu empresa. El recibo que recibirás"
+" en la dirección de correo electrónico utilizada para realizar tu contribución incluirá la información de tu negocio."
 
 #: website/includes/faq.html:107
 msgid "Is my donation secure?"
@@ -1579,7 +1598,7 @@ msgstr ""
 
 #: website/includes/faq.html:122
 msgid "Are there additional fees on my donation?"
-msgstr ""
+msgstr "¿Existen tarifas adicionales en mi donación?"
 
 #: website/includes/faq.html:125
 msgid ""
@@ -1587,10 +1606,14 @@ msgid ""
 "costs on your donation. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to "
 "research any additional external taxes or fees that may be applied by regulators such as your bank or tax authority."
 msgstr ""
+"No recopilamos tarifas o impuestos adicionales. Cuando donas en tu moneda local, no se te cobra una tarifa de conversión por parte de tu tarjeta de crédito. Opcionalmente, puedes elegir cubrir "
+"nuestros costos de transacción en tu donación. Esto es completamente voluntario y puedes optar por participar o no utilizando la casilla de verificación en nuestro formulario de donación. Nuestra "
+"organización está basada en los Estados Unidos. Alentamos a los donantes a investigar cualquier impuesto o tarifa adicional que puedan aplicar los reguladores externos, como tu banco o autoridad "
+"tributaria."
 
 #: website/includes/faq.html:137
 msgid "What are your transaction costs on donations?"
-msgstr ""
+msgstr "¿Cuáles son sus costos de transacción en las donaciones?"
 
 #: website/includes/faq.html:140
 msgid ""
@@ -1599,10 +1622,15 @@ msgid ""
 "ensure we can accept a wide range of currencies/payment methods and remain PCI compliant in all of the countries that we accept gifts from. The transaction costs donors may choose to cover are based"
 " on an estimate of our overall costs. Due to many factors actual costs may fluctuate."
 msgstr ""
+"Cuando optas por cubrir nuestros costos de transacción, estás cubriendo tanto nuestros costos de procesamiento como los de la plataforma de donaciones. Los costos asociados con nuestro robusto "
+"sistema de donaciones en línea nos permiten seguir creciendo de manera sostenible a medida que nuestra base de seguidores aumenta. Nuestros socios de plataformas de donación y procesadores de pagos "
+"reducen los costos internos asociados con mantener nuestro propio sistema desde cero. Nuestros socios aseguran que podamos aceptar una amplia gama de monedas/métodos de pago y mantenernos en "
+"cumplimiento con PCI en todos los países desde los que aceptamos donaciones. Los costos de transacción que los donantes pueden optar por cubrir se basan en una estimación de nuestros costos "
+"generales. Debido a muchos factores, los costos reales pueden fluctuar."
 
 #: website/includes/faq.html:153
 msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
-msgstr ""
+msgstr "¿Por qué las donaciones únicas aparecen como recurrentes en los mandatos SEPA?"
 
 #: website/includes/faq.html:156
 msgid ""
@@ -1610,10 +1638,13 @@ msgid ""
 "type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
 "official donation receipt that will clearly reflect the one-time donation."
 msgstr ""
+"Al realizar una donación única a través de domiciliación bancaria SEPA, es posible que notes una mención de transacciones recurrentes. Esto se debe a que nuestro procesador de pagos, Stripe, solo "
+"admite transacciones recurrentes para este tipo de pago. Sin embargo, independientemente de esto, solo te cobraremos una vez y no realizaremos más pagos en tu cuenta sin tu autorización. Tras el "
+"mandato, recibirás un recibo oficial de donación que reflejará claramente la donación única."
 
 #: website/includes/faq.html:164
 msgid "Can I give in cryptocurrencies?"
-msgstr ""
+msgstr "¿Puedo donar con criptomonedas?"
 
 #: website/includes/faq.html:167
 msgid "<strong>No.</strong> We are not currently accepting cryptocurrency gifts."
@@ -1628,6 +1659,8 @@ msgid ""
 "Thunderbird is the leading open source cross-platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future "
 "development."
 msgstr ""
+"Thunderbird es el principal cliente de correo electrónico y calendario de código abierto multiplataforma, gratuito para uso empresarial y personal. Tu donación ayudará a garantizar que siga siendo "
+"así y apoyará el desarrollo futuro."
 
 #: website/includes/faq.html:187
 msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
@@ -1639,17 +1672,19 @@ msgstr "Thunderbird es un proyecto de MZLA Technologies Corporation, la cual, es
 
 #: website/includes/faq.html:199
 msgid "Doesn’t Thunderbird earn income?"
-msgstr ""
+msgstr "¿Thunderbird no genera ingresos?"
 
 #: website/includes/faq.html:202
 msgid ""
 "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird. Companies and individuals support the development of the product now and in the "
 "future."
 msgstr ""
+"Actualmente, la mayoría de los ingresos de Thunderbird provienen de generosas donaciones de usuarios y amigos de Thunderbird. Empresas e individuos apoyan el desarrollo del producto ahora y en el "
+"futuro."
 
 #: website/includes/faq.html:211
 msgid "Who can I email directly with questions about giving?"
-msgstr ""
+msgstr "¿A quién puedo enviar un correo electrónico directamente con preguntas sobre cómo hacer donaciones?"
 
 #: website/includes/faq.html:214
 #, python-format
@@ -1657,6 +1692,8 @@ msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. If you need technical support, please head over to <a href=\"%(support)s\">Thunderbird "
 "Support</a> for assistance."
 msgstr ""
+"Si tienes alguna pregunta sobre cómo hacer donaciones a Thunderbird, por favor contáctanos a través de <a href=\"%(help)s\">este formulario</a>. Si necesitas soporte técnico, por favor dirígete a <a"
+" href=\"%(support)s\">Asistencia de Thunderbird</a> para recibir ayuda."
 
 #: website/includes/lang_switcher.html:10
 msgid "Page language:"
@@ -1782,7 +1819,7 @@ msgstr ""
 
 #: website/includes/ways-to-give.html:43
 msgid "Minimum donation amount: €20"
-msgstr ""
+msgstr "Importe mínimo de donación: 20 €"
 
 #: website/includes/ways-to-give.html:44
 msgid "Please note that due to the limited contact information we receive during the transfer process, we are unable to issue donation receipts."
@@ -1790,7 +1827,7 @@ msgstr ""
 
 #: website/includes/donor-contact/fa-body.html:92 website/includes/donor-contact/fa-body.html:96
 msgid "I need"
-msgstr ""
+msgstr "Necesito"
 
 #: website/includes/donor-contact/fa-body.html:98 website/includes/donor-contact/fa-body.html:244
 msgid "Please select..."
@@ -1798,27 +1835,27 @@ msgstr "Por favor selecciona uno…"
 
 #: website/includes/donor-contact/fa-body.html:101
 msgid "Help with the donation form"
-msgstr ""
+msgstr "Ayuda con el formulario de donación"
 
 #: website/includes/donor-contact/fa-body.html:104
 msgid "To change or cancel my monthly recurring donation"
-msgstr ""
+msgstr "Para cambiar o cancelar mi donación mensual recurrente"
 
 #: website/includes/donor-contact/fa-body.html:107
 msgid "To update my email address or contact info"
-msgstr ""
+msgstr "Para actualizar mi dirección de correo electrónico o información de contacto"
 
 #: website/includes/donor-contact/fa-body.html:110
 msgid "Help donating by bank transfer (SEPA/IBAN)"
-msgstr ""
+msgstr "Ayuda donando con transferencia bancaria (SEPA/IBAN)"
 
 #: website/includes/donor-contact/fa-body.html:113
 msgid "Help donating with another currency or payment method"
-msgstr ""
+msgstr "Ayuda donando con otra divisa o método de pago"
 
 #: website/includes/donor-contact/fa-body.html:116
 msgid "A copy of my donation receipt"
-msgstr ""
+msgstr "Una copia de mi recibo de donación"
 
 #: website/includes/donor-contact/fa-body.html:119
 msgid "A year-end donation summary"
@@ -1826,11 +1863,11 @@ msgstr ""
 
 #: website/includes/donor-contact/fa-body.html:122
 msgid "My donation refunded"
-msgstr ""
+msgstr "Un reembolso de mi donación"
 
 #: website/includes/donor-contact/fa-body.html:125
 msgid "Help with an unauthorized or fraudulent donation"
-msgstr ""
+msgstr "Ayuda con una donación no autorizada o fraudulenta"
 
 #: website/includes/donor-contact/fa-body.html:128
 msgid "Technical support for Thunderbird"
@@ -2918,7 +2955,6 @@ msgstr "Las notas de publicación de Thunderbird son específicas para cada vers
 #~ msgid "<b>≡ > Go > Mail Start Page (aka Beta Start Page)</b> is a handy reference which documents several of the above items and more."
 #~ msgstr "<b>≡ > Ir > Página de inicio del correo (Página de inicio de Beta)</b> es una referencia útil que documenta varios de los elementos anteriores y más."
 
-#, python-format
 #~ msgid ""
 #~ "Thunderbird is now part of\n"
 #~ "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
@@ -2934,7 +2970,6 @@ msgstr "Las notas de publicación de Thunderbird son específicas para cada vers
 #~ "individuales.  Contenido disponible bajo\n"
 #~ "una <a href=\"%(url)s\" class=\"inline-link\">Licencia Creative Commons</a>."
 
-#, python-format
 #~ msgid ""
 #~ "We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
 #~ " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
