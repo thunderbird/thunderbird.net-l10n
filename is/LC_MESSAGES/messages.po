@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-29 09:42-0800\n"
-"PO-Revision-Date: 2024-01-18 15:00+0000\n"
+"PO-Revision-Date: 2024-03-04 09:07+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: none\n"
 "Language: is\n"
@@ -1706,6 +1706,12 @@ msgid ""
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
+"Thunderbird er hluti af\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+"      dótturfélags Mozilla Foundation að fullu.\n"
+"      Hlutar af þessu efni eru ©1998–%(current_year)s eftir einstaka\n"
+"      þátttakendur. Efnið er aðgengilegt með\n"
+"      <a href=\"%(url)s\" class=\"inline-link\">Creative Commons notkunarleyfi</a>."
 
 #: website/includes/new/site-footer.html:43 website/includes/site-footer.html:116
 msgid "Contribute to this site"
@@ -2012,6 +2018,13 @@ msgid ""
 "        </small>\n"
 "        "
 msgstr ""
+"\n"
+"        <small>\n"
+"          Thunderbird er hluti af <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a>, dótturfélags Mozilla Foundation að fullu.\n"
+"          Hlutar af þessu efni eru ©1998–2023 eftir einstaka þátttakendur. Efnið er aðgengilegt með\n"
+"          <a href=\"https://www.mozilla.org/foundation/licensing/website-content/\">Creative Commons notkunarleyfi</a>.\n"
+"        </small>\n"
+"        "
 
 #: website/newsletter/index.html:19
 msgid ""
@@ -2957,7 +2970,6 @@ msgstr "Útgáfuupplýsingar Thunderbird eru sértækar fyrir hverja útgáfu af
 #~ msgid "<b>≡ > Go > Mail Start Page (aka Beta Start Page)</b> is a handy reference which documents several of the above items and more."
 #~ msgstr "<b>≡ > Fara > Upphafssíða (eða upphafssíða Beta-prófunarútgáfu)</b> er með handhægar tilvísanir í nokkur af ofangreindum atriðum og fleira."
 
-#, python-format
 #~ msgid ""
 #~ "Thunderbird is now part of\n"
 #~ "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
