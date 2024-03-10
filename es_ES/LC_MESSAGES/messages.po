@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-29 09:42-0800\n"
-"PO-Revision-Date: 2024-03-10 18:37+0000\n"
-"Last-Translator: Jefferson Arriaza <jefri.arriaza@gmail.com>\n"
+"PO-Revision-Date: 2024-03-10 22:02+0000\n"
+"Last-Translator: jlG <jlg.l10n.es@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
@@ -1154,6 +1154,8 @@ msgid ""
 "<b> Invoke the Mail Start Page (aka Beta Start Page)</b> with the shortcut listed <a href=\"https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_moving-around-thunderbird\">here</a> to "
 "open a handy reference that documents several of the above items and more."
 msgstr ""
+"<b> Invoca la página de inicio de correo (también conocida como página de inicio Beta)</b> con el acceso directo listado <a href=\"https://support.mozilla.org/kb/keyboard-shortcuts-"
+"thunderbird#w_moving-around-thunderbird\">aquí</a> para abrir una referencia útil que documenta varios de los elementos anteriores y más."
 
 #: website/features/index.html:7
 msgid "Thunderbird Features"
@@ -1545,6 +1547,8 @@ msgid ""
 "Anyone can access tech support for Thunderbird by visiting the <a href=\"%(url)s\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial "
 "gifts."
 msgstr ""
+"Cualquiera puede acceder al soporte técnico de Thunderbird visitando el <a href=\"%(url)s\">foro de soporte</a>. Thunderbird no proporciona soporte técnico mejorado a cambio de donaciones "
+"económicas."
 
 #: website/includes/faq.html:68
 msgid "How can I turn off the donation message on the Thunderbird start page?"
@@ -1553,7 +1557,7 @@ msgstr "¿Cómo puedo desactivar el mensaje de donación en la página de inicio
 #: website/includes/faq.html:71
 #, python-format
 msgid "To learn how to customize your start page please visit:<br/><a href=\"%(url)s\">%(url)s</a>"
-msgstr ""
+msgstr "Para saber cómo personalizar su página de inicio, visite:<br/><a href=\"%(url)s\">%(url)s</a>"
 
 #: website/includes/faq.html:79
 msgid "Is my gift tax deductible?"
@@ -1648,7 +1652,7 @@ msgstr "¿Puedo donar con criptomonedas?"
 
 #: website/includes/faq.html:167
 msgid "<strong>No.</strong> We are not currently accepting cryptocurrency gifts."
-msgstr ""
+msgstr "<strong>No.</strong> Actualmente no aceptamos donaciones en criptomonedas."
 
 #: website/includes/faq.html:175
 msgid "How will my gift be used?"
@@ -1753,6 +1757,12 @@ msgid ""
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
+"Thunderbird es parte de\n"
+"<a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+"filial 100%% propiedad de la Fundación Mozilla.\n"
+"Partes de este contenido son ©1998–%(current_year)s por colaboradores\n"
+"individuales.  Contenido disponible bajo\n"
+"una <a href=\"%(url)s\" class=\"inline-link\">Licencia Creative Commons</a>."
 
 #: website/includes/new/site-footer.html:43 website/includes/site-footer.html:116
 msgid "Contribute to this site"
@@ -1800,7 +1810,7 @@ msgstr "Descargar Daily"
 
 #: website/includes/ways-to-give.html:6
 msgid "Check (via postal service)"
-msgstr ""
+msgstr "Cheque (a través del servicio postal)"
 
 #: website/includes/ways-to-give.html:8
 #, python-format
@@ -1808,14 +1818,16 @@ msgid ""
 "MZLA/Thunderbird is happy to accept your donation <span class=\"%(class)s\">(made payable to “MZLA Technologies Corp”)</span> via check;\n"
 "    however please note that we can only accept checks in US dollars drawn on a US bank."
 msgstr ""
+"MZLA/Thunderbird se complace en aceptar su donación <span class=\"%(class)s\">(a nombre de “MZLA Technologies Corp”)</span> mediante cheque;\n"
+"    sin embargo, tenga en cuenta que sólo podemos aceptar cheques en dólares estadounidenses girados contra un banco estadounidense."
 
 #: website/includes/ways-to-give.html:16
 msgid "Please include your email address on the memo line of your check to help us track and attribute your gift."
-msgstr ""
+msgstr "Por favor, incluye tu dirección de correo electrónico en la línea de notas de tu cheque para ayudarnos a rastrear y atribuir tu regalo."
 
 #: website/includes/ways-to-give.html:20
 msgid "IBAN (via SEPA bank transfer)"
-msgstr ""
+msgstr "IBAN (mediante transferencia bancaria SEPA)"
 
 #: website/includes/ways-to-give.html:43
 msgid "Minimum donation amount: €20"
@@ -1859,7 +1871,7 @@ msgstr "Una copia de mi recibo de donación"
 
 #: website/includes/donor-contact/fa-body.html:119
 msgid "A year-end donation summary"
-msgstr ""
+msgstr "Un resumen de donaciones de fin de año"
 
 #: website/includes/donor-contact/fa-body.html:122
 msgid "My donation refunded"
@@ -1883,7 +1895,7 @@ msgstr "Enviar comentarios"
 
 #: website/includes/donor-contact/fa-body.html:137
 msgid "Help with something else"
-msgstr "Ayuda con otra cosa"
+msgstr "Ayuda con algo más"
 
 #: website/includes/donor-contact/fa-body.html:145
 msgid ""
