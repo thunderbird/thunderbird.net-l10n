@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-29 09:42-0800\n"
-"PO-Revision-Date: 2024-03-17 23:09+0000\n"
+"PO-Revision-Date: 2024-04-01 21:22+0000\n"
 "Last-Translator: jlG <jlg.l10n.es@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es_ES\n"
@@ -2071,12 +2071,21 @@ msgid ""
 "        </small>\n"
 "        "
 msgstr ""
+"\n"
+"        <small>\n"
+"          Thunderbird forma parte de <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a>, una subsidiaria de propiedad total de la Fundación Mozilla.\n"
+"          Partes de este contenido son ©1998–2023 de colaboradores individuales. Contenido disponible bajo una\n"
+"          <a href=\"https://www.mozilla.org/foundation/licensing/website-content/\">Licencia Creative Commons</a>.\n"
+"        </small>\n"
+"        "
 
 #: website/newsletter/index.html:19
 msgid ""
 "See exciting previews of upcoming features, read the latest desktop Thunderbird and mobile Thunderbird news, and enjoy personalized tips to protect your privacy and maximize your productivity! From "
 "the Thunderbird team directly to your inbox."
 msgstr ""
+"¡Revisa emocionantes avances de las próximas funcionalidades, lee las últimas noticias de Thunderbird para escritorio y Thunderbird para móviles, y disfruta de consejos personalizados para proteger "
+"tu privacidad y maximizar tu productividad! Del equipo de Thunderbird directamente a tu bandeja de entrada."
 
 #: website/newsletter/index.html:27
 msgid "View previous newsletters"
@@ -2092,6 +2101,9 @@ msgid ""
 "Join the Beta today, and enjoy an exciting preview of the new features and visual enhancements coming to Thunderbird 115 Supernova. You can still run Thunderbird 102 after installing Beta on Windows"
 " with no special settings, unless you are using POP mail accounts. See details in the <a href=\"%(beta_kb_url)s\">beta knowledge base</a>."
 msgstr ""
+"Únete a la versión beta hoy y disfruta de una emocionante vista previa de las nuevas funciones y mejoras visuales que llegarán a Thunderbird 115 Supernova. Todavía podrás ejecutar Thunderbird 102 "
+"después de instalar Beta en Windows sin configuraciones especiales, a menos que esté usando cuentas de correo POP. Consulta los detalles en la <a href=\"%(beta_kb_url)s\">base de conocimientos de la"
+" versión beta</a>."
 
 #: website/thunderbird/102.0/beta-appeal/index.html:31
 #, python-format
@@ -2099,6 +2111,8 @@ msgid ""
 "Thunderbird Beta is early access software, so please report the rough edges using the Help menu. You can find assistance via “Get Help” and “Share Ideas and Feedback” as well as the <a "
 "href=\"%(beta_topicbox_url)s\">Beta Topicbox</a> forum."
 msgstr ""
+"Thunderbird Beta es un software de acceso anticipado, por lo tanto, informa los problemas que encuentres mediante el menú Ayuda. Puedes encontrar asistencia a través de “Obtener ayuda” y “Compartir "
+"ideas y comentarios”, así como en el foro <a href=\"%(beta_topicbox_url)s\">Beta Topicbox</a>."
 
 #: website/thunderbird/102.0/beta-appeal/index.html:36
 msgid "Install now!"
@@ -2364,24 +2378,32 @@ msgid ""
 "Thunderbird’s mission is to give you the best privacy-respecting, customizable communication experience possible.\n"
 "        Free for everyone to install and enjoy!"
 msgstr ""
+"La misión de Thunderbird es brindarte la mejor experiencia posible de comunicación, personalizable y respetuosa de la privacidad.\n"
+"        ¡Gratis para que todos lo instalen y disfruten!"
 
 #: website/thunderbird/115.0/appeal/index.html:70
 msgid ""
 "Accomplishing that mission means maintaining expensive servers, fixing bugs, developing useful new features, and\n"
 "        hiring talented engineers to improve the software."
 msgstr ""
+"Cumplir esa misión significa mantener costosos servidores, corregir errores, desarrollar nuevas funciones útiles y\n"
+"        contratar ingenieros talentosos para mejorar el software."
 
 #: website/thunderbird/115.0/appeal/index.html:74
 msgid ""
 "Thunderbird is proud to be funded exclusively by our community, not by selling personal data or displaying ads in\n"
 "        your inbox."
 msgstr ""
+"Thunderbird se enorgullece de recibir financiación exclusivamente de nuestra comunidad, no de la venta de datos personales ni de la visualización de anuncios en\n"
+"        tu bandeja de entrada."
 
 #: website/thunderbird/115.0/appeal/index.html:78
 msgid ""
 "So today we’re asking for your help to keep Thunderbird alive and thriving. If you get value from using\n"
 "        Thunderbird, please consider giving a donation to support it!"
 msgstr ""
+"Por eso, hoy pedimos tu ayuda para mantener Thunderbird vivo y próspero. Si obtienes valor al usar\n"
+"        Thunderbird, !considera hacer una donación para apoyarlo!"
 
 #: website/thunderbird/115.0/eoy/index.html:17
 msgid "Thunderbird Everywhere!"
@@ -2392,6 +2414,8 @@ msgid ""
 "<span class=\"title\">Thunderbird</span>\n"
 "        <span class=\"everywhere\">Everywhere!</span>"
 msgstr ""
+"<span class=\"title\">Thunderbird</span>\n"
+"        <span class=\"everywhere\">¡En todas partes!</span>"
 
 #: website/thunderbird/115.0/eoy/index.html:29
 msgid "Help us bring Thunderbird to <span class=\"platform-gradient\">Android</span> and <span class=\"platform-gradient\">iOS.</span>"
