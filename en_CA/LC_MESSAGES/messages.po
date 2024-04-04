@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-04-03 10:05-0700\n"
-"PO-Revision-Date: 2024-04-04 15:48+0000\n"
+"PO-Revision-Date: 2024-04-04 15:58+0000\n"
 "Last-Translator: chutten <chutten@mozilla.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en_CA\n"
@@ -1143,6 +1143,8 @@ msgid ""
 "<b> Invoke the Mail Start Page (aka Beta Start Page)</b> with the shortcut listed <a href=\"https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_moving-around-thunderbird\">here</a> to "
 "open a handy reference that documents several of the above items and more."
 msgstr ""
+"<b> Invoke the Mail Start Page (aka Beta Start Page)</b> with the shortcut listed <a href=\"https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_moving-around-thunderbird\">here</a> to "
+"open a handy reference that documents several of the above items and more."
 
 #: sites/www.thunderbird.net/features/index.html:7
 msgid "Thunderbird Features"
@@ -1513,6 +1515,10 @@ msgid ""
 "to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
 "Communications & Cookies Privacy Notice</a>."
 msgstr ""
+"We understand that your privacy is very important -- we agree, and that's a core value of ours at Thunderbird and Mozilla. Your address is part of our Payment Processing, Contact and Donation "
+"Information that we outline in our <a href=\"%(url)s\">Privacy Policy</a>. This data is used for payment processing, transactional receipts, fraud detection and record-keeping purposes. If you want "
+"to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
+"Communications & Cookies Privacy Notice</a>."
 
 #: sites/www.thunderbird.net/includes/faq.html:56
 msgid "Does my gift give me access to tech support?"
@@ -1608,7 +1614,7 @@ msgstr ""
 
 #: sites/www.thunderbird.net/includes/faq.html:153
 msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
-msgstr ""
+msgstr "Why do one-time donations appear as recurring in the SEPA mandates?"
 
 #: sites/www.thunderbird.net/includes/faq.html:156
 msgid ""
@@ -1616,6 +1622,9 @@ msgid ""
 "type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
 "official donation receipt that will clearly reflect the one-time donation."
 msgstr ""
+"When making a one-time gift through SEPA direct debit, you may notice a mention of recurrent transactions. This is because our payment processor Stripe only supports recurring transactions for this "
+"type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
+"official donation receipt that will clearly reflect the one-time donation."
 
 #: sites/www.thunderbird.net/includes/faq.html:164
 msgid "Can I give in cryptocurrencies?"
@@ -1728,6 +1737,12 @@ msgid ""
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
+"Thunderbird is part of\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+"      a wholly owned subsidiary of Mozilla Foundation.\n"
+"      Portions of this content are ©1998–%(current_year)s by individual\n"
+"      contributors. Content available under\n"
+"      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 
 #: sites/www.thunderbird.net/includes/new/site-footer.html:43 sites/www.thunderbird.net/includes/site-footer.html:116
 msgid "Contribute to this site"
@@ -1792,19 +1807,19 @@ msgstr "Please include your email address on the memo line of your cheque to hel
 
 #: sites/www.thunderbird.net/includes/ways-to-give.html:20
 msgid "IBAN (via SEPA bank transfer)"
-msgstr ""
+msgstr "IBAN (via SEPA bank transfer)"
 
 #: sites/www.thunderbird.net/includes/ways-to-give.html:43
 msgid "Minimum donation amount: €20"
-msgstr ""
+msgstr "Minimum donation amount: €20"
 
 #: sites/www.thunderbird.net/includes/ways-to-give.html:44
 msgid "Please note that due to the limited contact information we receive during the transfer process, we are unable to issue donation receipts."
-msgstr ""
+msgstr "Please note that due to the limited contact information we receive during the transfer process, we are unable to issue donation receipts."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:92 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:96
 msgid "I need"
-msgstr ""
+msgstr "I need"
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:98 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:244
 msgid "Please select..."
@@ -1812,15 +1827,15 @@ msgstr "Please select..."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:101
 msgid "Help with the donation form"
-msgstr ""
+msgstr "Help with the donation form"
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:104
 msgid "To change or cancel my monthly recurring donation"
-msgstr ""
+msgstr "To change or cancel my monthly recurring donation"
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:107
 msgid "To update my email address or contact info"
-msgstr ""
+msgstr "To update my email address or contact info"
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:110
 msgid "Help donating by bank transfer (SEPA/IBAN)"
