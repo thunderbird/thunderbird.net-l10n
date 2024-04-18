@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-04-08 11:07-0700\n"
+"POT-Creation-Date: 2024-04-18 15:50-0700\n"
 "PO-Revision-Date: 2024-02-25 05:32+0000\n"
 "Last-Translator: Hyeonseok Shin <hyeonseok@gmail.com>\n"
 "Language-Team: none\n"
@@ -28,9 +28,10 @@ msgid "Support us!"
 msgstr "저희를 지원해주세요!"
 
 #: sites/start.thunderbird.net/beta/index.html:22 sites/start.thunderbird.net/release/index.html:22 sites/start.thunderbird.net/release/index.html:37
-#: sites/www.thunderbird.net/includes/base-resp.html:30 sites/www.thunderbird.net/includes/base-resp.html:54 sites/www.thunderbird.net/includes/donate-mailing-list.html:17
-#: sites/www.thunderbird.net/includes/new/page.html:26 sites/www.thunderbird.net/includes/new/site-footer.html:12 sites/www.thunderbird.net/index.html:41 sites/www.thunderbird.net/index.html:361
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:25 sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:35 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:22
+#: sites/www.thunderbird.net/includes/base/nav.html:83 sites/www.thunderbird.net/includes/download-button.html:102 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:80
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:288 sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:74 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:209
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:228 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:79
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:345
 msgid "Donate"
 msgstr "기부하기"
 
@@ -86,9 +87,7 @@ msgid ""
 "the Thunderbird community (You don’t need to be an expert, and you don’t need to know how to code)."
 msgstr "도움이 궁금하세요?  전문가가 아니어도 다른 사용자를 돕거나 경험 개선에 대한 제안을 제공할 수 있습니다! 누구나 Thunderbird 커뮤니티에 참여할 수 있는 이 오픈 소스 프로젝트에 참여하세요(전문가일 필요도 없고 코딩 방법을 알 필요도 없습니다)."
 
-#: sites/start.thunderbird.net/beta/index.html:76 sites/start.thunderbird.net/release/index.html:49 sites/www.thunderbird.net/includes/base-resp.html:41
-#: sites/www.thunderbird.net/includes/new/site-footer.html:8 sites/www.thunderbird.net/includes/site-footer.html:15 sites/www.thunderbird.net/includes/site-prefooter.html:9
-#: sites/www.thunderbird.net/includes/site-prefooter.html:12
+#: sites/start.thunderbird.net/beta/index.html:76 sites/start.thunderbird.net/release/index.html:49
 msgid "Get Involved"
 msgstr "참여하기"
 
@@ -141,7 +140,7 @@ msgstr "보고하기"
 msgid "Think you’ve found a new problem or rough edge? Create a bug report so we can make sure it gets solved, resulting in a better Thunderbird experience for all."
 msgstr "Thunderbird의 문제를 찾은 것 같다는 생각이 드시나요? <a href=\"%(bug)s\">버그 리포트를 작성</a>하여 저희가 해결할 수 있도록 도와주세요. 버그를 확인하고 고쳐서 모두를 위해 더 나은 Thunderbird를 만들 수 있습니다."
 
-#: sites/start.thunderbird.net/beta/index.html:122 sites/start.thunderbird.net/release/index.html:85 sites/www.thunderbird.net/includes/site-prefooter.html:24
+#: sites/start.thunderbird.net/beta/index.html:122 sites/start.thunderbird.net/release/index.html:85
 msgid "Report a Bug"
 msgstr "버그 신고"
 
@@ -175,7 +174,7 @@ msgstr "도움이 궁금하세요? 전문가이거나 코딩 방법을 몰라도
 msgid "Share ideas and feedback."
 msgstr "아이디어와 피드백을 공유합니다."
 
-#: sites/start.thunderbird.net/release/index.html:54
+#: sites/start.thunderbird.net/release/index.html:54 sites/www.thunderbird.net/participate/index.html:111
 msgid "Mozilla Connect"
 msgstr "Mozilla 연결"
 
@@ -183,7 +182,7 @@ msgstr "Mozilla 연결"
 msgid "Help make Thunderbird better."
 msgstr "Thunderbird를 개선할 수 있도록 도와주세요."
 
-#: sites/start.thunderbird.net/release/index.html:59 sites/www.thunderbird.net/old-index.html:24
+#: sites/start.thunderbird.net/release/index.html:59
 msgid "Get the Beta"
 msgstr "베타 받기"
 
@@ -195,29 +194,30 @@ msgstr "질문이 있나요? 문제가 있나요?"
 msgid "If Crash Reporter appears when Thunderbird crashes, please provide as many details as possible to help developers."
 msgstr "Thunderbird가 충돌하여 충돌 보고서가 나나오면 개발자를 도울 수 있도록 가능한 상세한 정보를 제공해 주세요."
 
-#: sites/www.thunderbird.net/404.html:7 sites/www.thunderbird.net/download/index.html:8 sites/www.thunderbird.net/download/index.html:51 sites/www.thunderbird.net/download/index.html:70
-#: sites/www.thunderbird.net/includes/base-resp.html:20 sites/www.thunderbird.net/includes/bedrock/base-resp.html:19 sites/www.thunderbird.net/includes/new/base.html:24
-#: sites/www.thunderbird.net/includes/new/page.html:18 sites/www.thunderbird.net/includes/product-metadata.html:2 sites/www.thunderbird.net/includes/product-metadata.html:21
-#: sites/www.thunderbird.net/includes/site-footer.html:4 sites/www.thunderbird.net/includes/site-footer.html:48 sites/www.thunderbird.net/includes/site-footer.html:55
-#: sites/www.thunderbird.net/includes/site-footer.html:62 sites/www.thunderbird.net/includes/site-prefooter.html:51 sites/www.thunderbird.net/includes/site-prefooter.html:54
-#: sites/www.thunderbird.net/index.html:8 sites/www.thunderbird.net/newsletter/index.html:43 sites/www.thunderbird.net/newsletter/index.html:50 sites/www.thunderbird.net/newsletter/index.html:57
-#: sites/www.thunderbird.net/old-index.html:8 sites/www.thunderbird.net/old-index.html:154 sites/www.thunderbird.net/old-index.html:173
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:106
-msgid "Thunderbird"
-msgstr "Thunderbird"
-
 #: sites/www.thunderbird.net/404.html:8
-msgid "There’s nothing here!"
-msgstr "아무것도 없어요!"
-
-#: sites/www.thunderbird.net/404.html:9
 #, python-format
 msgid "The page you are looking for doesn’t exist.<br/>If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>."
 msgstr "찾고 있는 페이지가 존재하지 않습니다.<br/>버그라고 생각되면 <a href=\"%(bug_report_url)s\">여기에서 문제를 보고</a>하실 수 있습니다."
 
-#: sites/www.thunderbird.net/404.html:23
+#: sites/www.thunderbird.net/404.html:10
+msgid "There's Nothing Here"
+msgstr ""
+
+#: sites/www.thunderbird.net/404.html:12
+msgid "????"
+msgstr ""
+
+#: sites/www.thunderbird.net/404.html:21
 msgid "Empty nest"
 msgstr "빈 둥지"
+
+#: sites/www.thunderbird.net/includes/base/base.html:17 sites/www.thunderbird.net/includes/base/page.html:24 sites/www.thunderbird.net/includes/product-metadata.html:2
+#: sites/www.thunderbird.net/includes/product-metadata.html:21 sites/www.thunderbird.net/index.html:8 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:17
+#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:18 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:19 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:18
+#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:18 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:18 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:19
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:17 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:17 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:17
+msgid "Thunderbird"
+msgstr "Thunderbird"
 
 #: sites/www.thunderbird.net/index.html:9
 msgid "Free Your Inbox."
@@ -231,50 +231,37 @@ msgstr ""
 "Thunderbird는 메일을 더 쉽게 사용할 수 있는 무료 프로그램입니다.\n"
 "더 많은 기능을 만나보세요!"
 
-#: sites/www.thunderbird.net/index.html:17 sites/www.thunderbird.net/index.html:344
+#: sites/www.thunderbird.net/index.html:24 sites/www.thunderbird.net/index.html:340
 msgid "<span class=\"txt-gradient\">Free</span> Your Inbox"
 msgstr "받은 편지함을 <span class=\"txt-gradient\">비우세요</span>"
 
-#: sites/www.thunderbird.net/index.html:19
+#: sites/www.thunderbird.net/index.html:26
 msgid ""
 "\n"
-"          Meet <em>Supernova</em>: our fastest, most beautiful <strong>email</strong>,\n"
-"          <strong>calendar</strong>, and <strong>contacts</strong> release yet. Designed\n"
-"          to maximize your freedoms.\n"
+"          Meet Thunderbird, the <strong>email</strong>,\n"
+"          <strong>calendar</strong>, and <strong>contacts</strong> app that maximizes your freedoms.\n"
 "          "
 msgstr ""
-"\n"
-"          <em>Supernova</em>와 만나보세요. 지금껏 출시된 버전 중 가장 빠르고 아름다운 <strong>이메일</strong>,\n"
-"          <strong>캘린더</strong>,<strong>연락처</strong> 관리 도구입니다. 사용자의 자유를 극대화하도록\n"
-"          설계했습니다.\n"
-"          "
 
-#: sites/www.thunderbird.net/includes/new/page.html:28 sites/www.thunderbird.net/includes/new/site-footer.html:13 sites/www.thunderbird.net/index.html:39 sites/www.thunderbird.net/index.html:359
+#: sites/www.thunderbird.net/download/index.html:8 sites/www.thunderbird.net/download/index.html:17 sites/www.thunderbird.net/includes/base/nav.html:78 sites/www.thunderbird.net/index.html:34
+#: sites/www.thunderbird.net/index.html:344 sites/www.thunderbird.net/thunderbird/all/index.html:9 sites/www.thunderbird.net/thunderbird/all/index.html:100
 msgid "Download"
 msgstr "다운로드"
 
-#: sites/www.thunderbird.net/index.html:41 sites/www.thunderbird.net/index.html:361
-msgid "Free forever."
-msgstr "평생 무료입니다."
-
-#: sites/www.thunderbird.net/index.html:41 sites/www.thunderbird.net/index.html:361
-msgid "to make it better."
-msgstr "더 좋게 만들기 위해."
-
-#: sites/www.thunderbird.net/index.html:57 sites/www.thunderbird.net/index.html:62 sites/www.thunderbird.net/index.html:67 sites/www.thunderbird.net/index.html:72
-#: sites/www.thunderbird.net/index.html:77
+#: sites/www.thunderbird.net/index.html:54 sites/www.thunderbird.net/index.html:59 sites/www.thunderbird.net/index.html:64 sites/www.thunderbird.net/index.html:69
+#: sites/www.thunderbird.net/index.html:74
 msgid "competitor icon"
 msgstr ""
 
-#: sites/www.thunderbird.net/index.html:89
+#: sites/www.thunderbird.net/index.html:86
 msgid "<span class=\"txt-gradient\">Freedom</span> from Chaos"
 msgstr "혼돈으로부터의 <span class=\"txt-gradient\">자유</span>"
 
-#: sites/www.thunderbird.net/index.html:90
+#: sites/www.thunderbird.net/index.html:87
 msgid "Waste less time finding browser tabs."
 msgstr "브라우저 탭을 찾느라 시간을 낭비하지 마세요."
 
-#: sites/www.thunderbird.net/index.html:92
+#: sites/www.thunderbird.net/index.html:89
 msgid ""
 "\n"
 "          Access all your messages, calendars, and contacts in one fast app. Filter and organize\n"
@@ -288,69 +275,62 @@ msgstr ""
 "          사용자의 삶을 더 단순하게 만들어 드립니다.\n"
 "          "
 
-#: sites/www.thunderbird.net/index.html:103
+#: sites/www.thunderbird.net/index.html:100
 msgid "laptop frame"
 msgstr "랩탑 프레임"
 
-#: sites/www.thunderbird.net/index.html:109
+#: sites/www.thunderbird.net/index.html:106
 msgid "115 mail"
 msgstr "115 메일"
 
-#: sites/www.thunderbird.net/index.html:114
+#: sites/www.thunderbird.net/index.html:111
 msgid "115 calendar"
 msgstr "115 캘린더"
 
-#: sites/www.thunderbird.net/index.html:119
+#: sites/www.thunderbird.net/index.html:116
 msgid "See Compatibility"
 msgstr "호환성 확인하기"
 
-#: sites/www.thunderbird.net/index.html:130
+#: sites/www.thunderbird.net/index.html:127
 msgid "<span class=\"txt-gradient\">Freedom</span> from Manipulation"
 msgstr "속임수로부터의 <span class=\"txt-gradient\">자유</span>"
 
-#: sites/www.thunderbird.net/index.html:131
+#: sites/www.thunderbird.net/index.html:128
 msgid "Our agenda isn’t hidden. It’s to make the world better."
 msgstr "우리의 의제는 숨겨져 있지 않습니다. 세상을 더 좋게 만드는 것입니다."
 
-#: sites/www.thunderbird.net/index.html:133
+#: sites/www.thunderbird.net/index.html:130
+#, python-format
 msgid ""
 "\n"
 "          Thunderbird is funded by user donations. We don’t collect personal data, sell ads in your inbox, or secretly\n"
-"          train AI\n"
-"          with your private conversations. Thunderbird is <a href=\"https://en.wikipedia.org/wiki/Open-source_software\">open source</a>. As part of the <a\n"
-"            href=\"https://mozilla.org\">Mozilla</a> family you can be confident we\n"
+"          train AI with your private conversations. Thunderbird is <a href=\"%(open_source)s\">open source</a>. As part of the <a\n"
+"            href=\"%(mozilla)s\">Mozilla</a> family you can be confident we\n"
 "          always put your privacy and security first.\n"
 "          "
 msgstr ""
-"\n"
-"          Thunderbird는 사용자 기부로 자금을 조달합니다. 우리는 받은 편지함으로 받은 개인적인 대화로 개인 데이터를 수집하거나, 광고를 판매하거나,\n"
-"          AI 학습에 활용하지 않습니다.\n"
-"          Thunderbird는 <a href=\"https://en.wikipedia.org/wiki/Open-source_software\">오픈소스</a>입니다.\n"
-"          <a href=\"https://mozilla.org\">Mozilla</a> 제품군의 일부이므로 사용자는 이 소프트웨어가 \n"
-"          사생활 보호와 보안을 최우선으로 여길 것임을 신뢰할 수 있습니다.\n"
-"          "
 
-#: sites/www.thunderbird.net/index.html:146
+#: sites/www.thunderbird.net/index.html:138
+msgid "Learn Who We Are"
+msgstr ""
+
+#: sites/www.thunderbird.net/index.html:147
 msgid "Firefox planet"
 msgstr ""
 
-#: sites/www.thunderbird.net/index.html:153
+#: sites/www.thunderbird.net/index.html:154
 msgid "Thunderbird planet"
 msgstr ""
 
-#: sites/www.thunderbird.net/index.html:159
-msgid "Discover Our Mission"
-msgstr "우리의 사명을 알아보세요"
-
-#: sites/www.thunderbird.net/index.html:170
+#: sites/www.thunderbird.net/index.html:166
 msgid "<span class=\"txt-gradient\">Freedom</span> to Geek Out"
 msgstr "괴짜를 위한 <span class=\"txt-gradient\">자유</span>"
 
-#: sites/www.thunderbird.net/index.html:171
+#: sites/www.thunderbird.net/index.html:167
 msgid "Thunderbird is yours."
 msgstr "Thunderbird는 사용자의 것입니다."
 
-#: sites/www.thunderbird.net/index.html:173
+#: sites/www.thunderbird.net/index.html:169
 msgid ""
 "\n"
 "              Thunderbird is clean and elegant by default, but easily customizable to match your workflow and visual\n"
@@ -362,7 +342,7 @@ msgstr ""
 "              독특하고 강력한 기능이 탑재됩니다. 사람들이 좋아하는 몇 가지는 다음과 같습니다.\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:184
+#: sites/www.thunderbird.net/index.html:180
 msgid ""
 "\n"
 "              Its <strong>unified inbox</strong> enables me to stay sane even in the busiest of times. I am never\n"
@@ -374,20 +354,20 @@ msgstr ""
 "             클라이언트를 바꾸지 않을 거에요!\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:196 sites/www.thunderbird.net/index.html:225 sites/www.thunderbird.net/index.html:248 sites/www.thunderbird.net/index.html:270
-#: sites/www.thunderbird.net/index.html:292 sites/www.thunderbird.net/index.html:314
+#: sites/www.thunderbird.net/index.html:192 sites/www.thunderbird.net/index.html:221 sites/www.thunderbird.net/index.html:244 sites/www.thunderbird.net/index.html:266
+#: sites/www.thunderbird.net/index.html:288 sites/www.thunderbird.net/index.html:310
 msgid "profile image"
 msgstr "프로필 사진"
 
-#: sites/www.thunderbird.net/index.html:200
+#: sites/www.thunderbird.net/index.html:196
 msgid "Software Developer, Austria"
 msgstr "소프트웨어 개발자, 오스트리아"
 
-#: sites/www.thunderbird.net/index.html:207
+#: sites/www.thunderbird.net/index.html:203
 msgid "unified inbox"
 msgstr "통합 받은 편지함"
 
-#: sites/www.thunderbird.net/index.html:214
+#: sites/www.thunderbird.net/index.html:210
 msgid ""
 "\n"
 "              I love the <strong>tag feature</strong>. I tag something important and find it quickly.\n"
@@ -397,11 +377,11 @@ msgstr ""
 "              저는 <strong>태그 기능</strong>을 좋아합니다. 중요한 것에 태그를 달고 빠르게 찾아요.\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:229
+#: sites/www.thunderbird.net/index.html:225
 msgid "Computer Scientist, USA"
 msgstr "컴퓨터 과학자, 미국"
 
-#: sites/www.thunderbird.net/index.html:236
+#: sites/www.thunderbird.net/index.html:232
 msgid ""
 "\n"
 "              It is the first program I install on any PC I use / own... I use it on\n"
@@ -413,11 +393,11 @@ msgstr ""
 "              <strong>Windows</strong> / <strong>Mac</strong> 그리고 <strong>Linux</strong>에 설치해요.\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:252
+#: sites/www.thunderbird.net/index.html:248
 msgid "I.T. Manager, UK"
 msgstr "IT 관리자, 영국"
 
-#: sites/www.thunderbird.net/index.html:259
+#: sites/www.thunderbird.net/index.html:255
 msgid ""
 "\n"
 "              Having an open source alternative [for] receiving and managing email... is great for <strong>privacy</strong>.\n"
@@ -427,11 +407,11 @@ msgstr ""
 "              이메일 수신 및 관리[에] 오픈소스 대안이 있다는 것은...  <strong>사생활 보호</strong>에 좋습니다.\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:274
+#: sites/www.thunderbird.net/index.html:270
 msgid "Web Developer, Costa Rica"
 msgstr "웹 개발자, 코스타리카 공화국"
 
-#: sites/www.thunderbird.net/index.html:281
+#: sites/www.thunderbird.net/index.html:277
 msgid ""
 "\n"
 "              [Thunderbird] empowers me to maintain <strong>ownership</strong> of my emails.\n"
@@ -441,11 +421,11 @@ msgstr ""
 "              [Thunderbird]는 이메일에 대한 <strong>소유권</strong>을 지킬 수 있게 해줍니다.\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:296
+#: sites/www.thunderbird.net/index.html:292
 msgid "Engineer, USA"
 msgstr "엔지니어, 미국"
 
-#: sites/www.thunderbird.net/index.html:303
+#: sites/www.thunderbird.net/index.html:299
 msgid ""
 "\n"
 "              You'd be hard pressed to find a client more <strong>extensible</strong> than Thunderbird!\n"
@@ -455,934 +435,383 @@ msgstr ""
 "              Thunderbird보다 더 <strong>확장성</strong>이 뛰어난 클라이언트를 찾는 것은 어려울 겁니다!\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:318
+#: sites/www.thunderbird.net/index.html:314
 msgid "Student, UK"
 msgstr "학생, 영국"
 
-#: sites/www.thunderbird.net/index.html:325
+#: sites/www.thunderbird.net/index.html:321
 msgid "extensions"
 msgstr "확장 기능"
 
-#: sites/www.thunderbird.net/index.html:332
+#: sites/www.thunderbird.net/index.html:328
 msgid "Explore More Features"
 msgstr "더 많은 기능 살펴보기"
 
-#: sites/www.thunderbird.net/index.html:343
+#: sites/www.thunderbird.net/index.html:339
 msgid "Are you ready to love email again?"
 msgstr "이메일을 다시 사랑할 준비가 되셨나요?"
 
-#: sites/www.thunderbird.net/index.html:372
-msgid "<span class=\"txt-gradient\">Learn</span> What’s Next"
-msgstr "다음 변화를 <span class=\"txt-gradient\">구독하세요</span>"
-
-#: sites/www.thunderbird.net/index.html:374
-msgid ""
-"\n"
-"              Thunderbird keeps getting better. Subscribe to our newsletter and follow us on social media to stay\n"
-"              informed.\n"
-"              "
-msgstr ""
-"\n"
-"              Thunderbird는 계속해서 좋아지고 있습니다. 뉴스레터를 구독하고 소셜 미디어에서 팔로우하여 지속적으로\n"
-"              정보를 확인하세요.\n"
-"              "
-
-#: sites/www.thunderbird.net/includes/newsletter-form.html:6 sites/www.thunderbird.net/index.html:384
-msgid "Your Email"
-msgstr "이메일"
-
-#: sites/www.thunderbird.net/index.html:385
-msgid "Subscribe"
-msgstr "구독하기"
-
-#: sites/www.thunderbird.net/includes/site-footer.html:66 sites/www.thunderbird.net/index.html:394 sites/www.thunderbird.net/newsletter/index.html:61
-#, python-format
-msgid "Follow %(mastodon)s on Mastodon"
-msgstr "Mastodon에서 %(mastodon)s 팔로우"
-
-#: sites/www.thunderbird.net/includes/site-footer.html:52 sites/www.thunderbird.net/index.html:402 sites/www.thunderbird.net/newsletter/index.html:47
-#, python-format
-msgid "Follow %(youtube)s on YouTube"
-msgstr "YouTube에서 %(youtube)s 팔로우하기"
-
-#: sites/www.thunderbird.net/includes/site-footer.html:38 sites/www.thunderbird.net/index.html:406 sites/www.thunderbird.net/newsletter/index.html:33
-#, python-format
-msgid "Follow %(twitter)s on Twitter"
-msgstr "Twitter에서 %(twitter)s 팔로우하기"
-
-#: sites/www.thunderbird.net/includes/site-footer.html:59 sites/www.thunderbird.net/index.html:410 sites/www.thunderbird.net/newsletter/index.html:54
-#, python-format
-msgid "Follow %(linkedin)s on LinkedIn"
-msgstr "LinkedIn에서 %(linkedin)s 팔로우"
-
-#: sites/www.thunderbird.net/index.html:416
-msgid "Visit Our Blog"
-msgstr "블로그 방문"
-
-#: sites/www.thunderbird.net/index.html:422
-msgid "smartphone"
-msgstr "스마트폰"
-
-#: sites/www.thunderbird.net/old-index.html:9
-msgid "Make Email Easier."
-msgstr "이메일을 더 쉽게 사용하세요."
-
-#: sites/www.thunderbird.net/includes/site-prefooter.html:56 sites/www.thunderbird.net/old-index.html:10
-msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
-msgstr "Thunderbird는 메일을 더 쉽게 사용할 수 있는 무료 프로그램입니다. 더 많은 기능을 만나보세요!"
-
-#: sites/www.thunderbird.net/about/index.html:32 sites/www.thunderbird.net/old-index.html:17
-msgid "Free Download"
-msgstr "무료 다운로드"
-
-#: sites/www.thunderbird.net/old-index.html:21
-msgid "Want to try new features early?"
-msgstr "새로운 기능을 미리 사용해 보고 싶으신가요?"
-
-#: sites/www.thunderbird.net/old-index.html:22
-msgid "Get the beta and be a part of the future of Thunderbird!"
-msgstr "베타를 받고 Thunderbird의 미래에 참여하세요!"
-
-#: sites/www.thunderbird.net/old-index.html:28
-msgid "Thunderbird screenshot"
-msgstr "Thunderbird 스크린샷"
-
-#: sites/www.thunderbird.net/old-index.html:36
-msgid "Tailored for all your needs"
-msgstr "모든 요구 사항에 맞게 기능 조정"
-
-#: sites/www.thunderbird.net/old-index.html:39
-msgid "Thunderbird makes email better for you, bringing together speed, privacy and the latest technologies. Focus on what matters and forget about complexity."
-msgstr "Thunderbird는 빠른 속도와 개인 정보 보호, 최신 기술을 모두 결합하여 보다 나은 이메일 서비스를 제공합니다. 중요한 일에 집중하고 복잡한 것은 잊어버리십시오."
-
-#: sites/www.thunderbird.net/old-index.html:41
-msgid "Explore all Features"
-msgstr "모든 기능 살펴보기"
-
-#: sites/www.thunderbird.net/old-index.html:48
-msgid "Secure &amp; Private"
-msgstr "보안 및 개인 정보 보호"
-
-#: sites/www.thunderbird.net/old-index.html:51
-msgid "Multiple features, such as built-in Do Not Track and remote content blocking, work together to ensure your safety and privacy, so you can have peace of mind."
-msgstr "내장 된 추적 차단(Do Not Track) 및 원격 콘텐츠 차단과 같은 여러 기능이 함께 작동하여 안전과 개인 정보를 보장하므로 안심할 수 있습니다."
-
-#: sites/www.thunderbird.net/old-index.html:53
-msgid "Know your rights"
-msgstr "권리 알기"
-
-#: sites/www.thunderbird.net/old-index.html:60
-msgid "Highly Customizable"
-msgstr "고급 사용자 정의 가능"
-
-#: sites/www.thunderbird.net/old-index.html:63
-msgid "With Add-ons (Extensions & Themes) and many more features you can change the look and feel of Thunderbird in an instant."
-msgstr "부가 기능 (확장 기능 및 테마)와 더 많은 기능을 사용하여 Thunderbird의 모양과 느낌을 즉시 변경할 수 있습니다."
-
-#: sites/www.thunderbird.net/old-index.html:65
-msgid "Make it personal"
-msgstr "개인화"
-
-#: sites/www.thunderbird.net/old-index.html:77
-msgid "Stay in the loop"
-msgstr "최신 소식 받기"
-
-#: sites/www.thunderbird.net/old-index.html:80
-msgid "Keep yourself up to date with recent announcements and releases by following the official Thunderbird Blog!"
-msgstr "Thunderbird 공식 블로그를 통해 최근 발표 및 출시 정보를 살펴보세요!"
-
-#: sites/www.thunderbird.net/old-index.html:109
-msgid "Read the Blog"
-msgstr "Blog 보기"
-
-#: sites/www.thunderbird.net/old-index.html:120
-msgid "Thunderbird Calendar screenshot"
-msgstr "Thunderbird 캘린더 스크린샷"
-
-#: sites/www.thunderbird.net/calendar/index.html:7 sites/www.thunderbird.net/calendar/index.html:22 sites/www.thunderbird.net/old-index.html:127
-msgid "Calendar"
-msgstr "캘린더"
-
-#: sites/www.thunderbird.net/calendar/index.html:24 sites/www.thunderbird.net/old-index.html:129
-msgid "Organize your life — it’s about time!"
-msgstr "삶을 조화롭게 — 지금 시작하세요!"
-
-#: sites/www.thunderbird.net/old-index.html:134
-msgid "Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird email."
-msgstr "Thunderbird 이메일과 완전히 통합한 캘린더에서 일정과 인생의 중요한 이벤트를 정리하세요."
-
-#: sites/www.thunderbird.net/old-index.html:137
-msgid "Manage multiple calendars, create your daily to do list, invite friends to events, and subscribe to public calendars."
-msgstr "여러 캘린더를 관리하고, 매일 할 일 목록을 만들고, 친구를 이벤트에 초대하고, 공개 캘린더에 가입하세요."
-
-#: sites/www.thunderbird.net/old-index.html:140
-msgid "Explore Features"
-msgstr "기능 살펴보기"
-
-#: sites/www.thunderbird.net/old-index.html:143
-msgid "Explore Add-ons"
-msgstr "부가 기능 살펴보기"
-
-#: sites/www.thunderbird.net/download/index.html:56 sites/www.thunderbird.net/download/index.html:76 sites/www.thunderbird.net/includes/product-metadata.html:7
-#: sites/www.thunderbird.net/includes/product-metadata.html:27 sites/www.thunderbird.net/old-index.html:159 sites/www.thunderbird.net/old-index.html:179
-msgid "Mozilla"
-msgstr "Mozilla"
-
-#: sites/www.thunderbird.net/about/index.html:7 sites/www.thunderbird.net/includes/base-resp.html:47 sites/www.thunderbird.net/includes/new/site-footer.html:10
-#: sites/www.thunderbird.net/includes/site-footer.html:27
-msgid "About Us"
-msgstr "소개"
-
-#: sites/www.thunderbird.net/about/index.html:22
-msgid "What is Thunderbird?"
-msgstr "Thunderbird가 무엇인가요?"
-
-#: sites/www.thunderbird.net/about/index.html:24
-msgid "Software made to make email easier."
-msgstr "메일을 더 쉽게 사용하세요"
-
-#: sites/www.thunderbird.net/about/index.html:29
-msgid ""
-"Thunderbird is a free and open source email, newsfeed, chat, and calendaring client, that’s easy to set up and customize. One of the core principles of Thunderbird is the use and promotion of open "
-"standards - this focus is a rejection of our world of closed platforms and services that can’t communicate with each other. We want our users to have freedom and choice in how they communicate."
-msgstr ""
-"Thunderbird는 쉽게 설정하고 개인화할 수 있는 무료 오픈소스 이메일, 뉴스피드, 채팅, 캘린더 클라이언트입니다. Thunderbird의 핵심 원리 중 하나는 공개 표준을 사용, 촉진하는 것으로 폐쇄적인 플랫폼과 서비스로 인해 서로 간 소통이 불가능한 세상을 만들지 않겠다는 목표를 가지고 있습니다. 우리는 사용자가 커뮤니케이션 방식을 결정하는 데"
-" 자유와 선택권이 있기를 바랍니다."
-
-#: sites/www.thunderbird.net/about/index.html:37 sites/www.thunderbird.net/calendar/index.html:35
-msgid "Calendar screenshot"
-msgstr "캘린더 스크린샷"
-
-#: sites/www.thunderbird.net/about/index.html:46
+#: sites/www.thunderbird.net/about/index.html:8 sites/www.thunderbird.net/includes/base/footer.html:35 sites/www.thunderbird.net/includes/base/nav.html:56
 msgid "Who We Are"
 msgstr "만드는 사람들"
 
-#: sites/www.thunderbird.net/about/index.html:48
-msgid "We are a community making communication free and open."
-msgstr "우리는 자유롭고 열린 의사소통을 만들어가는 커뮤니티입니다."
+#: sites/www.thunderbird.net/about/index.html:9 sites/www.thunderbird.net/calendar/holidays/index.html:9 sites/www.thunderbird.net/calendar/index.html:9 sites/www.thunderbird.net/donate/index.html:9
+#: sites/www.thunderbird.net/download/index.html:9 sites/www.thunderbird.net/newsletter/index.html:9 sites/www.thunderbird.net/participate/index.html:9 sites/www.thunderbird.net/thank-you/index.html:9
+#: sites/www.thunderbird.net/thunderbird/all/index.html:10 sites/www.thunderbird.net/thunderbird/releases/index.html:9
+msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
+msgstr "Thunderbird는 메일을 더 쉽게 사용할 수 있는 무료 프로그램입니다. 더 많은 기능을 만나보세요!"
 
-#: sites/www.thunderbird.net/about/index.html:63
-msgid "Our Community"
-msgstr "커뮤니티"
+#: sites/www.thunderbird.net/about/index.html:10 sites/www.thunderbird.net/includes/base/footer.html:33 sites/www.thunderbird.net/includes/base/nav.html:52
+msgid "About"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:16
+msgid "Meet <span class=\"txt-gradient\">Thunderbird</span>"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:17
+msgid ""
+"Thunderbird is a free and open-source software project founded in 2003 to make organizing and communicating easier. We are supported by the talent and donations of thousands of generous individuals "
+"and are backed by Mozilla. Essential values guide us and make our work relevant. Read further to learn more."
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:23
+msgid "Values"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:41
+msgid "Guided by <span class=\"txt-gradient\">Values</span>"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:45
+msgid "A shield with the Thunderbird logo."
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:48 sites/www.thunderbird.net/includes/appeal-footer.html:7 sites/www.thunderbird.net/includes/base/footer.html:54
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:350 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:426
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:273 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:292
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:408
+msgid "Privacy"
+msgstr "개인 정보 정책"
+
+#: sites/www.thunderbird.net/about/index.html:49
+msgid "You are not the product."
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:50
+msgid "To us, data ownership and privacy are your right wherever you live. Our commitment to <strong>your personal data</strong> is simple:"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:52
+msgid "We do not collect or store it unless you ask us to."
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:53
+msgid "We take great care to keep it safe from misuse."
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:54
+msgid "We will never sell it."
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:55
+msgid "You retain ownership and control of it."
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:57
+msgid "Read the Privacy Policy"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:62
+msgid "A key with the Thunderbird logo."
+msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:65
-#, python-format
-msgid ""
-"There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
-"to learn how you can participate on the Thunderbird team. We also have paid staff working full-time on Thunderbird, <a href=\"%(donate)s\" data-donate-btn data-donate-content=\"about\">funded by "
-"donations</a> from our users. If you’re curious about who is working on Thunderbird, check out the <a href=\"%(core_team)s\">list of our core contributors</a>."
+msgid "Freedom"
 msgstr ""
-"Thunderbird를 개발하고 사용자들을 지원하는데 헌신하는 열정적인 팀이 있고 여러분의 도움을 진심으로 환영합니다. Thunderbird 팀에 참여할 수 있는 방법은 <a href=\"%(volunteer)s\">참여하기 페이지</a>를 통해 확인하세요. 또한 Thunderbird에는 <a href=\"%(donate)s\" data-donate-"
-"btn data-donate-content=\"about\">사용자들의 기부금</a>을 통해 지원을 받는 풀타임으로 일하는 직원이 있습니다. 만약 Thunderbird에서 일하는 사람들이 누구인지 궁금하시다면 <a href=\"%(core_team)s\">핵심 기여자 목록</a>을 통해 확인하세요."
 
-#: sites/www.thunderbird.net/about/index.html:70
-msgid "Thunderbird Council"
-msgstr "Thunderbird 이사회"
+#: sites/www.thunderbird.net/about/index.html:66
+msgid "Thunderbird belongs to you (and the world)."
+msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:72
-#, python-format
+#: sites/www.thunderbird.net/about/index.html:67
 msgid ""
-"The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
-"href=\"%(council)s\">on the Thunderbird wiki</a>."
-msgstr "Thunderbird 프로젝트는 Thunderbird 커뮤니티의 중요 기여자가 선출한 7명의 위원이 운영합니다. <a href=\"%(council)s\">Thunderbird 위키</a>에서 현재 선출된 Thunderbird 위원을 확인할 수 있습니다."
+"Thunderbird is Free and Open-Source Software, which means its code is available to see, modify, use, and share freely. Its license also ensures that it will remain free forever. You can think of "
+"Thunderbird as a gift from thousands of contributors to you."
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:68
+msgid "Learn About MPL 2.0"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:73
+msgid "A speech bubble with the Thunderbird logo."
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:76
+msgid "Voice"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:77
+msgid "You have a part in Thunderbird's future."
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:78
+msgid ""
+"Thunderbird is free from the commercial requirements and incentives that often guide software development. Anyone can get involved in helping make Thunderbird better and available to more people. A "
+"contributor-elected council ensures Thunderbird remains true to its values and mission."
+msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:79
-msgid "Our Mission"
-msgstr "우리의 미션"
+msgid "Keep Reading..."
+msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:81
+#: sites/www.thunderbird.net/about/index.html:88
+msgid "Driven by <span class=\"txt-gradient\">Community</span>"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:89
 msgid ""
-"Email has been and continues to be the fundamental communication tool\n"
-"                  and a significant driver of freedoms on the Internet. But it is also\n"
-"                  threatened by new non-standards-based, closed and centralized messaging\n"
-"                  platforms. To prevent this erosion, the public deserves an alternative that is secure and reliable,\n"
-"                  while  protecting our privacy, enhancing our productivity and serving as a\n"
-"                  platform for current and future forms of messaging."
+"Anyone can help make Thunderbird better. Programmers can contribute features they are passionate about or improve the existing code. Those who are multilingual can make Thunderbird accessible to "
+"everyone. Those willing can test new versions of Thunderbird and document issues. There are many ways to become part of a thriving community that makes Thunderbird unique. And if you don't have the "
+"time to volunteer, you can help support the project through donations."
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:90
+msgid "Learn How to Get Involved"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:95
+msgid "Our Contributors"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:101
+msgid "Supported by <span class=\"txt-gradient\">Mozilla</span>"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:102
 msgid ""
-"Thunderbird facilitates cross platform, decentralized, open-standard\n"
-"                  communication, which puts the user in control of their data and workflow.\n"
-"                  We aspire to offer an interoperable and extensible open-source\n"
-"                  platform for messaging and managing personal information, such as email,\n"
-"                  contacts, and appointments."
+"Thunderbird operates as a for-profit subsidiary of the non-profit Mozilla Foundation. This grants us flexibility in hiring and offering optional paid services to sustain Thunderbird's development of"
+" free and open-source software far into the future."
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:103
+msgid ""
+"We have a growing team of talented individuals employed to support the efforts of our contributor community, interface with partner organizations, and maximize the reach of Thunderbird throughout "
+"the world."
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:131
+msgid "Explore Career Opportunities"
 msgstr ""
 
 #: sites/www.thunderbird.net/calendar/index.html:8
-msgid "Organize your life — it&rsquo;s about time!"
-msgstr "삶을 조화롭게 — 지금 시작하세요!"
+msgid "Calendar"
+msgstr "캘린더"
 
-#: sites/www.thunderbird.net/calendar/index.html:29
-msgid ""
-"Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird email. Manage multiple calendars, create your daily to do list, invite friends to "
-"events, and subscribe to public calendars."
-msgstr "Thunderbird 이메일과 완전히 통합된 캘린더에서 일정과 인생의 중요한 이벤트를 정리하세요. 여러 캘린더를 관리하고, 일일 할 일 목록을 만들고, 친구를 이벤트에 초대하고, 공개 캘린더를 구독하세요."
+#: sites/www.thunderbird.net/calendar/holidays/index.html:10 sites/www.thunderbird.net/calendar/index.html:10 sites/www.thunderbird.net/download/index.html:10
+#: sites/www.thunderbird.net/includes/base/footer.html:22 sites/www.thunderbird.net/includes/base/nav.html:36 sites/www.thunderbird.net/newsletter/index.html:10
+#: sites/www.thunderbird.net/thank-you/index.html:10 sites/www.thunderbird.net/thunderbird/all/index.html:11
+msgid "Resources"
+msgstr ""
 
-#: sites/www.thunderbird.net/calendar/index.html:48 sites/www.thunderbird.net/includes/new/site-footer.html:7 sites/www.thunderbird.net/includes/site-prefooter.html:22
-msgid "Get Support"
-msgstr "도움 받기"
+#: sites/www.thunderbird.net/calendar/index.html:17
+msgid "Looking For Holiday Calendars?"
+msgstr ""
 
-#: sites/www.thunderbird.net/calendar/index.html:50
-msgid "Need help with Calendar?"
-msgstr "캘린더와 관련하여 도움이 필요하십니까?"
+#: sites/www.thunderbird.net/calendar/holidays/index.html:8
+msgid "Holiday Calendar"
+msgstr ""
 
-#: sites/www.thunderbird.net/calendar/holidays/index.html:7 sites/www.thunderbird.net/calendar/holidays/index.html:22 sites/www.thunderbird.net/calendar/index.html:62
-msgid "Holiday Calendars"
-msgstr "연말 캘린더"
+#: sites/www.thunderbird.net/calendar/holidays/index.html:15
+msgid "Add your nation’s holidays to <span class=\"txt-gradient\">Calendar</span>!"
+msgstr ""
 
-#: sites/www.thunderbird.net/calendar/index.html:64
-msgid "Need a break? Now you know when!"
-msgstr "휴식이 필요한가요? 이제 언제인지 아실 수 있습니다!"
-
-#: sites/www.thunderbird.net/calendar/index.html:77
-msgid "Bugzilla"
-msgstr "Bugzilla"
-
-#: sites/www.thunderbird.net/calendar/index.html:79
-msgid "Found a bug? Let us know!"
-msgstr "버그를 찾으셨습니까? 저희에게 알려주십시오!"
-
-#: sites/www.thunderbird.net/calendar/index.html:92
-msgid "Bugs Ahoy!"
-msgstr "Bugs Ahoy!"
-
-#: sites/www.thunderbird.net/calendar/index.html:94
-msgid "Want to make a difference? Fix a bug that fits your interests."
-msgstr "변화를 원하십니까? 관심사에 맞는 버그를 수정하십시오."
-
-#: sites/www.thunderbird.net/calendar/holidays/index.html:24
-msgid "Add your nation’s holidays to Calendar!"
-msgstr "캘린더에 국가 공휴일을 추가하세요!"
-
-#: sites/www.thunderbird.net/calendar/holidays/index.html:29
+#: sites/www.thunderbird.net/calendar/holidays/index.html:17
 #, python-format
 msgid ""
 "We’ve got some holiday calendar files available for download. You can either download and then import them into Calendar or you can just subscribe to these calendars by copying their URL and then "
 "adding them as new remote calendar files. More information on installing a holiday calendar can be found in the <a href=\"%s\">Adding a holiday calendar article</a>."
 msgstr ""
 
-#: sites/www.thunderbird.net/calendar/holidays/index.html:32
+#: sites/www.thunderbird.net/calendar/holidays/index.html:20
 #, python-format
 msgid "You can also find calendars to subscribe to at <a href=\"%s\">iCalShare.com</a>."
 msgstr "<a href=\"%s\">iCalShare.com</a>에서 구독 할 캘린더를 찾을 수도 있습니다."
 
-#: sites/www.thunderbird.net/calendar/holidays/index.html:59
+#: sites/www.thunderbird.net/calendar/holidays/index.html:49
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
 msgstr ""
 
-#: sites/www.thunderbird.net/calendar/holidays/index.html:61
+#: sites/www.thunderbird.net/calendar/holidays/index.html:51
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s"
 msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> 공휴일 정보, %(authors)s 덕분에 "
 
-#: sites/www.thunderbird.net/donate/index.html:7
-msgid "Give to Thunderbird"
-msgstr "Thunderbird에 기부하기"
+#: sites/www.thunderbird.net/donate/index.html:8 sites/www.thunderbird.net/includes/base/footer.html:43 sites/www.thunderbird.net/includes/base/nav.html:71
+msgid "Donations"
+msgstr ""
+
+#: sites/www.thunderbird.net/donate/help/index.html:9 sites/www.thunderbird.net/donate/help/thank-you/index.html:9 sites/www.thunderbird.net/donate/index.html:10
+#: sites/www.thunderbird.net/includes/base/footer.html:41 sites/www.thunderbird.net/includes/base/nav.html:67 sites/www.thunderbird.net/participate/index.html:10
+msgid "Contribute"
+msgstr ""
+
+#: sites/www.thunderbird.net/donate/index.html:16
+msgid "Become a <span class=\"txt-gradient\">Supporter</span>"
+msgstr ""
 
 #: sites/www.thunderbird.net/donate/index.html:17
-msgid "Support Thunderbird"
-msgstr "Thunderbird 지원"
+msgid "Help us make Thunderbird better."
+msgstr ""
 
-#: sites/www.thunderbird.net/donate/index.html:20 sites/www.thunderbird.net/donate/index.html:57
-msgid "Frequently Asked Questions"
-msgstr "자주 묻는 질문들"
+#: sites/www.thunderbird.net/donate/index.html:18
+msgid ""
+"MZLA Corporation is the for-profit organization sustaining the free software mission of Thunderbird. Our work is to provide open source apps that are secure, private and free for users around the "
+"world. When you donate you help us:"
+msgstr ""
 
-#: sites/www.thunderbird.net/donate/index.html:23 sites/www.thunderbird.net/donate/index.html:70
-msgid "Other Ways to Give"
-msgstr "다른 기부 방법"
+#: sites/www.thunderbird.net/donate/index.html:20
+msgid "Develop new apps, integrations and features"
+msgstr ""
 
-#: sites/www.thunderbird.net/donate/index.html:36
-msgid "Support Thunderbird!"
-msgstr "썬더버드를 지원하세요!"
+#: sites/www.thunderbird.net/donate/index.html:21
+msgid "Improve the interface, speed, and stability"
+msgstr ""
 
-#: sites/www.thunderbird.net/donate/index.html:38
-msgid "Thunderbird is funded by users like you."
-msgstr "Thunderbird는 귀하와 같은 사용자로부터 자금을 지원받습니다."
+#: sites/www.thunderbird.net/donate/index.html:22
+msgid "Promote Thunderbird and software freedom"
+msgstr ""
 
-#: sites/www.thunderbird.net/donate/index.html:43
-msgid "Our mission is to provide an open source email app that is secure, private and free for users around the world. Your donations support this work. Will you give today?"
+#: sites/www.thunderbird.net/donate/index.html:23
+msgid "Serve millions of free app downloads each year"
+msgstr ""
+
+#: sites/www.thunderbird.net/donate/index.html:37
+#, python-format
+msgid "<a class=\"dotted\" href=\"%(url)s\">Modify</a> an existing monthly donation."
+msgstr ""
+
+#: sites/www.thunderbird.net/donate/index.html:45
+msgid "Become a <span class=\"txt-gradient\">Corporate Sponsor</span>"
 msgstr ""
 
 #: sites/www.thunderbird.net/donate/index.html:46
-msgid "Contributions are not tax-deductible as charitable donations."
-msgstr "기부금은 자선 기부금으로 세금 공제 대상이 아닙니다."
+msgid "Secure an open future for yourself and the world."
+msgstr ""
 
-#: sites/www.thunderbird.net/donate/help/index.html:7 sites/www.thunderbird.net/donate/help/thank-you/index.html:7
+#: sites/www.thunderbird.net/donate/index.html:47
+msgid ""
+"Organizations deploying Thunderbird at scale or who share our passion for expanding digital freedoms can make a difference by becoming a one-time or recurring corporate sponsor. Small to medium size"
+" contributions can be made with the form above. For donations greater than $5000 USD please contact our business team. Thank you in advance for your generous support!"
+msgstr ""
+
+#: sites/www.thunderbird.net/donate/index.html:50
+msgid "Contact the Business Team"
+msgstr ""
+
+#: sites/www.thunderbird.net/donate/index.html:53
+msgid "A rocket with the Thunderbird logo."
+msgstr ""
+
+#: sites/www.thunderbird.net/donate/index.html:61
+msgid "Frequently Asked Questions"
+msgstr "자주 묻는 질문들"
+
+#: sites/www.thunderbird.net/donate/help/index.html:8 sites/www.thunderbird.net/donate/help/thank-you/index.html:8
 msgid "Donor Help"
 msgstr "기부자 도움말"
 
-#: sites/www.thunderbird.net/donate/help/index.html:30
+#: sites/www.thunderbird.net/donate/help/index.html:27
 msgid "If you need help with a contribution to MZLA/Thunderbird, please fill out this form and a Thunderbird donor care representative will get back to you as soon as possible."
 msgstr "MZLA/Thunderbird에 기부하는데 도움이 필요한 경우, 이 양식을 작성하면 Thunderbird 기부 관리 담당자가 최대한 빨리 연락을 드립니다."
 
-#: sites/www.thunderbird.net/donate/help/index.html:33
+#: sites/www.thunderbird.net/donate/help/index.html:30
 #, python-format
 msgid ""
 "Unfortunately, donor care representatives are unable to offer support or help with Thunderbird technical issues. For technical support, please visit our <a href=\"%(support_url)s\">support page.</a>"
 msgstr "죄송하지만, 기부 관리 담당자는 Thunderbird의 기술적 문제에 대한 지원이나 도움을 제공할 수 없습니다. 기술 지원을 받으려면 <a href=\"%(support_url)s\">지원 페이지</a>를 방문하세요."
 
-#: sites/www.thunderbird.net/donate/help/thank-you/index.html:20
+#: sites/www.thunderbird.net/donate/help/thank-you/index.html:16
 msgid "Thank you for contacting us. A case has been created for your issue and we will be in touch shortly."
 msgstr "연락해 주셔서 감사합니다. 문제에 대한 이슈가 생성되었으며 곧 연락을 드리겠습니다."
 
-#: sites/www.thunderbird.net/donate/help/thank-you/index.html:23
+#: sites/www.thunderbird.net/donate/help/thank-you/index.html:19
 msgid "We will get back to you soon."
 msgstr "곧 다시 연락드리겠습니다."
 
-#: sites/www.thunderbird.net/donate/help/thank-you/index.html:26
+#: sites/www.thunderbird.net/donate/help/thank-you/index.html:22
 msgid "Return to Thunderbird.net"
 msgstr "Thunderbird.net으로 돌아가기"
 
-#: sites/www.thunderbird.net/download/index.html:9 sites/www.thunderbird.net/includes/download-button.html:14 sites/www.thunderbird.net/includes/download-button.html:63
-#: sites/www.thunderbird.net/includes/site-prefooter.html:59
+#: sites/www.thunderbird.net/download/index.html:16
+msgid "Download <span class=\"txt-gradient\">Thunderbird</span>"
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/appeal-footer.html:9 sites/www.thunderbird.net/includes/base/footer.html:56 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:353
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:429 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:276
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:295 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:411
+msgid "Cookies"
+msgstr "쿠키"
+
+#: sites/www.thunderbird.net/includes/appeal-footer.html:11 sites/www.thunderbird.net/includes/base/footer.html:58 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:357
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:433 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:280
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:299 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:415
+msgid "Legal"
+msgstr "법률"
+
+#: sites/www.thunderbird.net/includes/appeal-footer.html:13 sites/www.thunderbird.net/includes/base/footer.html:60
+msgid "Send DMCA Notice"
+msgstr "DMCA 통지 보내기"
+
+#: sites/www.thunderbird.net/includes/appeal-footer.html:15 sites/www.thunderbird.net/includes/base/footer.html:62
+msgid "Report Fraud"
+msgstr "사기 신고"
+
+#: sites/www.thunderbird.net/includes/appeal-footer.html:17 sites/www.thunderbird.net/includes/base/footer.html:64 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:361
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:437 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:284
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:303 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:419
+msgid "Participation Guidelines"
+msgstr "참여방법"
+
+#: sites/www.thunderbird.net/includes/download-button.html:14 sites/www.thunderbird.net/includes/download-button.html:94
 msgid "Download Thunderbird"
 msgstr "Thunderbird 다운로드"
 
-#: sites/www.thunderbird.net/download/index.html:10
-msgid "Thank you for downloading and installing Thunderbird!"
-msgstr "Thunderbird를 설치해 주셔서 감사합니다!"
-
-#: sites/www.thunderbird.net/download/index.html:19
-msgid "Your download didn't start automatically?"
-msgstr "다운로드가 자동으로 시작하지 않았나요?"
-
-#: sites/www.thunderbird.net/download/index.html:24 sites/www.thunderbird.net/includes/site-prefooter.html:37
-msgid "Release Channel"
-msgstr "출시 채널"
-
-#: sites/www.thunderbird.net/download/index.html:25 sites/www.thunderbird.net/download/index.html:29 sites/www.thunderbird.net/download/index.html:33
-msgid "Try again"
-msgstr "다시 시도하세요"
-
-#: sites/www.thunderbird.net/download/index.html:28 sites/www.thunderbird.net/includes/site-prefooter.html:40
-msgid "Beta Channel"
-msgstr "베타 채널"
-
-#: sites/www.thunderbird.net/download/index.html:32 sites/www.thunderbird.net/includes/site-prefooter.html:43
-msgid "Daily Channel"
-msgstr "데일리 채널"
-
-#: sites/www.thunderbird.net/download/index.html:40 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:47
-msgid "Just one more step!"
-msgstr "한 단계만 더!"
-
-#: sites/www.thunderbird.net/download/index.html:40
-msgid "Finish installing, and start enjoying Thunderbird."
-msgstr "설치를 완료하고 Thunderbird를 즐겨보세요."
-
-#: sites/www.thunderbird.net/download/index.html:42 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:49
-#, python-format
-msgid "Having trouble? <a class=\"inline-link\" href=\"%(url)s\">Get help with your installation.</a>"
+#: sites/www.thunderbird.net/includes/download-button.html:35
+msgid "Available on Windows, Linux, Mac"
 msgstr ""
 
-#: sites/www.thunderbird.net/download/beta/index.html:7 sites/www.thunderbird.net/includes/download-button.html:59 sites/www.thunderbird.net/includes/site-prefooter.html:66
-msgid "Thunderbird Beta"
-msgstr "Thunderbird 베타"
-
-#: sites/www.thunderbird.net/download/beta/index.html:15 sites/www.thunderbird.net/download/beta/index.html:36
-msgid "Should I use Beta?"
-msgstr "베타를 사용해야 하나요?"
-
-#: sites/www.thunderbird.net/download/beta/index.html:18 sites/www.thunderbird.net/download/beta/index.html:71
-msgid "How to install and run Beta"
-msgstr "베타 설치 및 실행 방법"
-
-#: sites/www.thunderbird.net/download/beta/index.html:21 sites/www.thunderbird.net/download/beta/index.html:105
-msgid "How do I go back to the regular release version?"
-msgstr "일반 출시 버전으로 다시 돌아가려면 어떻게 해야 하나요?"
-
-#: sites/www.thunderbird.net/download/beta/index.html:24 sites/www.thunderbird.net/download/beta/index.html:128
-msgid "Resources and Assistance"
-msgstr "리소스 및 지원"
-
-#: sites/www.thunderbird.net/download/beta/index.html:32 sites/www.thunderbird.net/includes/site-prefooter.html:74
-msgid "Download Beta"
-msgstr "베타 다운로드"
-
-#: sites/www.thunderbird.net/download/beta/index.html:43
-msgid ""
-"Do you want to help the global Thunderbird community by discovering and reporting bugs? Then beta is a great choice for you, because it gets fixes and <a href=\"https://support.mozilla.org/kb/new-"
-"thunderbird-102\">new features</a> long before they reach release!"
+#: sites/www.thunderbird.net/includes/download-button.html:57
+msgid "Download and languages options"
 msgstr ""
 
-#: sites/www.thunderbird.net/download/beta/index.html:45
-msgid "Important Considerations"
-msgstr "중요한 고려 사항"
-
-#: sites/www.thunderbird.net/download/beta/index.html:47
-msgid "Before you download and test the beta, there are some important considerations to be aware of:"
-msgstr "베타를 다운로드하고 테스트하기 전에 알아야 할 몇 가지 중요한 고려 사항이 있습니다:"
-
-#: sites/www.thunderbird.net/download/beta/index.html:50
-msgid "Beta installation will <u>replace</u> your currently installed program, unless you use the instructions in <a href=\"#howto\">How to install and run Beta</a>."
-msgstr ""
-
-#: sites/www.thunderbird.net/download/beta/index.html:51
-msgid "Please do <a href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-data#w_backing-up-a-profile\">regular backups</a> to protect your Thunderbird data profiles."
-msgstr ""
-
-#: sites/www.thunderbird.net/download/beta/index.html:52
-msgid ""
-"New features may be incomplete works in progress, because some are completed and polished over a period of weeks. The <a href=\"https://thunderbird.topicbox.com/groups/beta\">beta forum</a> may "
-"provide more information on feature progress."
-msgstr ""
-
-#: sites/www.thunderbird.net/download/beta/index.html:53
-msgid ""
-"Flaws are to be expected. High-impact flaws, including data loss, are very rare, but may occur. Protect yourself with <a href=\"https://support.mozilla.org/kb/profiles-where-thunderbird-stores-user-"
-"data#w_backing-up-a-profile\">backups</a>. Low-impact flaws may not be fixed quickly, because fixes are prioritized based on impact."
-msgstr ""
-
-#: sites/www.thunderbird.net/download/beta/index.html:54
-msgid "Expect seven updates per month, one major update per month plus several small updates. This frequency of updates allows us to make fast improvements."
-msgstr ""
-
-#: sites/www.thunderbird.net/download/beta/index.html:55
-msgid ""
-"Are you using <a href=\"https://support.mozilla.org/kb/difference-between-imap-and-pop3\">POP accounts</a>? Unlike IMAP accounts, the only copy of your pop mail is in your local Thunderbird profile."
-" If you want to add a POP account to beta, your options are:"
-msgstr ""
-
-#: sites/www.thunderbird.net/download/beta/index.html:57
-msgid ""
-"After set up, go to <b>≡ > Account Settings > Server Settings</b> and make sure the <b>\"Leave messages on server\"</b> option is <b>checked</b>, and the <b>\"For at most [X] days\"</b> option is "
-"<b>unchecked</b>."
-msgstr ""
-
-#: sites/www.thunderbird.net/download/beta/index.html:58
-msgid ""
-"Keep the default settings. Messages will be removed from the server 14 days after download, so you will need to either stay on beta, or learn how to move your POP data back to the release profile."
-msgstr ""
-
-#: sites/www.thunderbird.net/download/beta/index.html:60
-msgid ""
-"If you have <a href=\"https://support.mozilla.org/kb/organize-your-messages-using-filters\">mail filters</a> that, for example, move mail to local folders, then you must decide where to run filters "
-"- in your beta profile or your other profile."
-msgstr ""
-
-#: sites/www.thunderbird.net/download/beta/index.html:62 sites/www.thunderbird.net/includes/base-resp.html:38
-msgid "Add-ons"
-msgstr "부가 기능"
-
-#: sites/www.thunderbird.net/download/beta/index.html:64
-msgid ""
-"Add-on authors are not obligated to make their add-ons work in beta. Some or all of your add-ons may not work. Or if they do work today, they may not work tomorrow. Consult the <a "
-"href=\"https://support.mozilla.org/kb/thunderbird-add-ons-frequently-asked-questions#w_what-if-my-add-on-is-broken\">Add-ons FAQ</a> if you have difficulty. "
-msgstr ""
-
-#: sites/www.thunderbird.net/download/beta/index.html:78
-msgid "You have two choices for installing beta: Option 1 allows you to run the beta alongside the Stable version of Thunderbird, and Option 2 upgrades your existing installation."
-msgstr ""
-
-#: sites/www.thunderbird.net/download/beta/index.html:81
-msgid "Run Stable and Beta side-by-side (recommended)."
-msgstr "Stable과 Beta를 나란히 실행합니다(권장)."
-
-#: sites/www.thunderbird.net/download/beta/index.html:83
-msgid ""
-"Thunderbird 102 and newer on Windows will install beta into its own program directory. For older versions on Windows consult the <a href=\"https://support.mozilla.org/en-US/kb/thunderbird-"
-"beta\">beta support article</a>. For other operating systems use an install method appropriate for your OS to target a uniquely named directory."
-msgstr ""
-
-#: sites/www.thunderbird.net/download/beta/index.html:86
-msgid ""
-"This choice has the advantage of forcing a <a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-thunderbird-installation\">dedicated profile</a> for each Thunderbird, which allows you to"
-" have both the release version and the beta version operate independently. So you can:"
-msgstr ""
-
-#: sites/www.thunderbird.net/download/beta/index.html:89
-msgid "Start the <b>release</b> version of Thunderbird (with beta not running) and it will use the <b>\"default\" (or default-release)</b> profile."
-msgstr ""
-
-#: sites/www.thunderbird.net/download/beta/index.html:90
-msgid ""
-"Start the <b>beta</b> version of Thunderbird (with release version not running) and it will use the <b>default-beta</b> profile. On first use Thunderbird will create the <b>default-beta</b> profile,"
-" and it will prompt you to define your accounts. If you need to bring some data from your release profile into the beta profile, consult the <a href=\"https://support.mozilla.org/kb/thunderbird-"
-"beta\">beta support article.</a>"
-msgstr ""
-
-#: sites/www.thunderbird.net/download/beta/index.html:92
-msgid "Upgrade your existing Thunderbird installation to beta."
-msgstr "기존 Thunderbird 설치를 베타 버전으로 업그레이드합니다."
-
-#: sites/www.thunderbird.net/download/beta/index.html:94
-msgid ""
-"Simply install beta over top of your current program directory, using the default installer choices. Beta will then <u>use your current (production) default profile</u>. Because it uses your default"
-" profile, this choice makes it more difficult to switch back to using a release version should you wish to do so in the future. In other words, you should not switch back and forth between beta and "
-"normal release using the same profile."
-msgstr ""
-
-#: sites/www.thunderbird.net/download/beta/index.html:97
-msgid "For very detailed information about both methods, please check the <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">beta support article.</a>"
-msgstr ""
-
-#: sites/www.thunderbird.net/download/beta/index.html:112
-msgid ""
-"If you installed the beta over the top of the release version (choice 2 above), then your process will be more complicated. Please consult this <a href=\"https://support.mozilla.org/kb/thunderbird-"
-"beta\">beta support article.</a>"
-msgstr ""
-
-#: sites/www.thunderbird.net/download/beta/index.html:115
-msgid ""
-"If you installed the beta program into its own program directory (choice 1 above) and you used a <a href=\"https://support.mozilla.org/en-US/kb/dedicated-profile-thunderbird-installation\">dedicated"
-" profile per Thunderbird</a>, then start the release version of Thunderbird and it should use your release version profile data. If you no longer want to use the beta version, and do not need any of"
-" the beta data (address books, local folders, pop folders, etc), and wish to remove the beta data and beta program from your system:"
-msgstr ""
-
-#: sites/www.thunderbird.net/download/beta/index.html:118
-msgid "Start the release version of Thunderbird to use the <a href=\"https://support.mozilla.org/kb/profile-manager-create-and-remove-thunderbird-profiles\">profile manager.</a>"
-msgstr ""
-
-#: sites/www.thunderbird.net/download/beta/index.html:119
-msgid "Find and delete the beta profile, default name is <b>“default-beta”</b>."
-msgstr ""
-
-#: sites/www.thunderbird.net/download/beta/index.html:120
-msgid "Delete the beta version’s program directory. "
-msgstr ""
-
-#: sites/www.thunderbird.net/download/beta/index.html:122
-msgid "If you need to copy data from the beta profile to your release profile, please consult the <a href=\"https://support.mozilla.org/kb/thunderbird-beta\">beta support article.</a>"
-msgstr ""
-
-#: sites/www.thunderbird.net/download/beta/index.html:135
-msgid "Open the Thunderbird Help menu to check the useful tools and references. Important items to note:"
-msgstr ""
-
-#: sites/www.thunderbird.net/download/beta/index.html:138
-msgid "Release notes are provided for every update in:"
-msgstr ""
-
-#: sites/www.thunderbird.net/download/beta/index.html:140
-msgid "≡ > Help > About > Release Notes."
-msgstr "≡ > 도움말 > 정보 > 릴리즈 노트"
-
-#: sites/www.thunderbird.net/download/beta/index.html:143
-msgid "Please post questions about normal Thunderbird usage in <a href=\"https://support.mozilla.org/questions/new/thunderbird/form\">Thunderbird support</a>. "
-msgstr ""
-
-#: sites/www.thunderbird.net/download/beta/index.html:144
-msgid ""
-"Ask beta specific assistance questions and comments in <a href=\"https://thunderbird.topicbox.com/groups/beta\">the beta forum</a>, or browse it to see what other beta users are discussing. The "
-"forum operates in English, so if you need assistance in another language please ask for help in <a href=\"https://support.mozilla.org/questions/new/thunderbird/form\">Thunderbird support</a>."
-msgstr ""
-
-#: sites/www.thunderbird.net/download/beta/index.html:145
-msgid ""
-"If you find a problem, try to <a href=\"https://support.mozilla.org/kb/troubleshoot-mode-thunderbird\">reproduce the problem in Troubleshoot Mode</a>, then file a bug report for <a "
-"href=\"https://bugzilla.mozilla.org/enter_bug.cgi?product=Thunderbird\">Thunderbird</a> or <a href=\"https://bugzilla.mozilla.org/enter_bug.cgi?product=Calendar\">Calendar</a>."
-msgstr ""
-
-#: sites/www.thunderbird.net/download/beta/index.html:146
-msgid "<b>≡ > Tools > Export</b> can be used to backup your profile, or to get to your profile directory quickly."
-msgstr ""
-
-#: sites/www.thunderbird.net/download/beta/index.html:147
-msgid ""
-"<b> Invoke the Mail Start Page (aka Beta Start Page)</b> with the shortcut listed <a href=\"https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_moving-around-thunderbird\">here</a> to "
-"open a handy reference that documents several of the above items and more."
-msgstr ""
-
-#: sites/www.thunderbird.net/features/index.html:7
-msgid "Thunderbird Features"
-msgstr "Thunderbird 기능 개요"
-
-#: sites/www.thunderbird.net/features/index.html:13
-msgid "It’s all yours. It’s now easier to upgrade to Thunderbird."
-msgstr "여러분의 필요에 맞춘 메일 프로그램 Thunderbird가 업그레이드가 더 쉬워졌습니다."
-
-#: sites/www.thunderbird.net/features/index.html:27 sites/www.thunderbird.net/features/index.html:45
-msgid "Easier to Get Started"
-msgstr "바로 사용 하기"
-
-#: sites/www.thunderbird.net/features/index.html:30 sites/www.thunderbird.net/features/index.html:100
-msgid "Tabs and Search"
-msgstr "탭 및 검색 기능"
-
-#: sites/www.thunderbird.net/features/index.html:33 sites/www.thunderbird.net/features/index.html:160
-msgid "Customize Your Email Experience"
-msgstr "맞춤형 이메일 경험"
-
-#: sites/www.thunderbird.net/features/index.html:36 sites/www.thunderbird.net/features/index.html:220
-msgid "Secure and Protect Your Email"
-msgstr "강력해진 이메일 보안"
-
-#: sites/www.thunderbird.net/features/index.html:54
-msgid "Mail Account Setup Wizard"
-msgstr "계정 설정 마법사"
-
-#: sites/www.thunderbird.net/features/index.html:56
-msgid ""
-"Prior to this feature you had to know your IMAP, SMTP, and SSL/TLS settings. Now all you need to provide is your name, email address, and password and the email account set up wizardry will check "
-"our database and find the email settings for you."
-msgstr "지금까지 메일 계정을 만들 때 서버의 자세한 구성 정보를 모두 입력해야했습니다. 새로운 Thunderbird는 이름과 이메일 주소, 암호만 입력하면 Mozilla의 공급자 데이터베이스에서 자동으로 서버 설정 정보를 검색합니다."
-
-#: sites/www.thunderbird.net/features/index.html:65
-msgid "One-click Address Book"
-msgstr "원클릭 주소록"
-
-#: sites/www.thunderbird.net/features/index.html:67
-msgid ""
-"One-click Address Book is a quick and easy way to add people to your address book. Add people by simply clicking on the star icon in the message you receive. Two clicks and you can add more details "
-"like a photo, birthday, and other contact information."
-msgstr "보내는 사람의 이메일 주소를 신속하면서도 쉽게 주소록에 등록 할 수 있게되었습니다. 받은 메시지에 ☆ 표 아이콘을 클릭하면 새로운 연락처를 추가 할 수 있습니다. 사진, 생일, 기타 연락처 정보를 편집하려면이 아이콘을 다시 클릭합니다."
-
-#: sites/www.thunderbird.net/features/index.html:76
-msgid "Attachment Reminder"
-msgstr "첨부 알리미"
-
-#: sites/www.thunderbird.net/features/index.html:78
-msgid "The attachment reminder looks for the word attachment (and other words like file types) in the body of your message and reminds you to add an attachment before hitting send."
-msgstr "메시지를 작성할 때 본문에 \"첨부\"등의 단어가 입력 될 때 알림 표시 줄을 표시하여 전송하기 전에 필요한 파일을 첨부 할 것을 알려 드립니다."
-
-#: sites/www.thunderbird.net/features/index.html:86
-msgid "Multiple-channel chat"
-msgstr "멀티채널 채팅"
-
-#: sites/www.thunderbird.net/features/index.html:88
-msgid ""
-"Enjoy real-time conversation with your contacts, right from your favorite messaging application, with multiple supported networks. Thunderbird makes it easy to search through both past conversations"
-" and received emails."
-msgstr "지원되는 여러 네트워크를 통해 즐겨 찾는 메시징 애플리케이션에서 바로 연락처와 실시간 대화를 즐기세요. Thunderbird를 사용하면 이전 대화와 받은 이메일을 모두 쉽게 검색 할 수 있습니다."
-
-#: sites/www.thunderbird.net/features/index.html:109
-msgid "Tabbed Email"
-msgstr "탭 이메일"
-
-#: sites/www.thunderbird.net/features/index.html:111
-msgid ""
-"If you like Firefox’s tabbed browsing, you’re going to love tabbed email. Tabbed email lets you load emails in separate tabs so you can quickly jump between them. Perhaps you’re responding to an "
-"email and need to refer back to an earlier email. Tabbed email lets you keep multiple emails open for easy reference."
-msgstr "Thunderbird는 Firefox 탭 브라우징처럼 여러 메시지를 개별 탭에 열고 빠르게 전환하여 볼 수 있습니다. 예를 들어, 메시지에 답장을 쓰고있는 도중에 이전에 읽은 메시지에 다시 내용을 확인하고자 할 때,이 탭 기능을 사용하면 여러 메시지를 한 번에 동일한 창에서 열린 상태로 둘 수 있기 때문에 쉽게 볼 수 있습니다."
-
-#: sites/www.thunderbird.net/features/index.html:114
-msgid "When quitting Thunderbird, visible tabs will be saved and will be restored when you open Thunderbird the next time. There is also a Tab menu on the Tab toolbar to help you switch between Tabs."
-msgstr "Thunderbird를 종료 할 때 열려있는 탭 상태가 기억되어, 다음 번 시작 시 복원됩니다. 탭 표시 줄의 오른쪽 끝에 열린 탭의 제목을 볼 수있는 드롭 다운 목록도 많은 탭을 열 때 쉽게 전환 할 수 있습니다."
-
-#: sites/www.thunderbird.net/features/index.html:127
-msgid "Quick Filter Toolbar"
-msgstr "빠른 필터 도구 모음"
-
-#: sites/www.thunderbird.net/features/index.html:129
-msgid ""
-"The Quick Filter Toolbar lets you filter your email faster. Start typing in words in the Quick Filter search box and the results are displayed instantly. Or you can filter your email by New "
-"Messages, Tags, and people in your Address Book. You can also \"Pin\" or save a Filter and use it across multiple folders."
-msgstr "빠른 필터 도구 모음은 폴더의 메시지를 빠르게 필터링 할 수 있는 기능입니다. 임의의 검색어를 입력하기 시작하면 즉시 결과가 표시됩니다. 읽지 않은 메시지 태그 발신자가 주소록에 등록되어 있는지 등 조건에서도 추출 할 수 있습니다. 또한 \"핀\"아이콘을 클릭하면 폴더보기를 전환해도 검색을 유지할 수 있습니다."
-
-#: sites/www.thunderbird.net/features/index.html:138
-msgid "Search Tools"
-msgstr "검색 도구"
-
-#: sites/www.thunderbird.net/features/index.html:140
-msgid ""
-"The search interface in Thunderbird contains filtering and timeline tools to pinpoint the exact email you’re looking for. Thunderbird also indexes all of your emails and chat conversations to help "
-"you search even faster. Your search results are displayed in a tab so you can easily switch back and forth to your search results and other email."
-msgstr "Thunderbird의 검색 인터페이스에는 찾고 있는 이메일을 정확히 찾아내는 필터링 및 타임 라인 도구가 포함되어 있습니다. Thunderbird는 또한 모든 이메일과 채팅 대화의 색인을 생성하여 더욱 빠르게 검색 할 수 있습니다. 검색 결과가 탭에 표시되므로 검색 결과 및 기타 이메일로 쉽게 전환 할 수 있습니다."
-
-#: sites/www.thunderbird.net/features/index.html:149
-msgid "Message Archive"
-msgstr "메시지 아카이브"
-
-#: sites/www.thunderbird.net/features/index.html:151
-msgid ""
-"If you think you’re going to need an email in the future but want it out of your inbox without deleting it, archive it! Archiving helps you manage your inbox and put your email into the archive "
-"folder system."
-msgstr "나중에 필요하게 될 것 같은 메시지를 제거하지 않고 받은 편지함에서 지우고 싶은 경우, 아카이브 기능을 활용하면 됩니다. 새 아카이브 폴더에 메시지를 이동하고, 받은 편지함을 정리할 수 있습니다."
-
-#: sites/www.thunderbird.net/features/index.html:169
-msgid "Large Files Management"
-msgstr "대용량 파일 관리"
-
-#: sites/www.thunderbird.net/features/index.html:171
-msgid "Share large files with Thunderbird Filelink!"
-msgstr "Thunderbird Filelink로 대용량 파일을 공유하십시오!"
-
-#: sites/www.thunderbird.net/features/index.html:175
-msgid ""
-"You can now speed up the transfer of large documents by uploading them to an online storage provider and sharing the link instead of sending the file directly as a message attachment. Improve the "
-"speed of sending email and avoid message rejection if the recipient’s server disallows large files. As an added bonus, you’ll also save space in your sent folder and the recipient’s inbox."
-msgstr "이제 대용량 문서를 온라인 스토리지 제공 업체에 업로드하고 파일을 메시지 첨부 파일로 직접 보내는 대신 링크를 공유하여 전송 속도를 높일 수 있습니다. 수신자의 서버에서 대용량 파일을 허용하지 않는 경우 이메일 전송 속도를 높이고 메일 거부를 방지합니다. 추가 보너스로 보낸 폴더와 받는 사람의 받은 편지함의 공간도 절약 할 수 있습니다."
-
-#: sites/www.thunderbird.net/features/index.html:188
-msgid "Thunderbird Look & Feel"
-msgstr "디자인 선택"
-
-#: sites/www.thunderbird.net/features/index.html:190
-msgid ""
-"Themes allow you to change the look of Thunderbird in an instant. Working on getting to inbox zero at night? Turn on the dark theme to make managing your email easier on the eyes. Thunderbird ships "
-"with both light and dark themes, and more are available as add-ons."
-msgstr "테마를 사용하면 Thunderbird의 모양을 즉시 변경할 수 있습니다. 밤에 받은 편지함을 사용하려고 하시나요? 어두운 테마를 켜면 이메일을 쉽게 관리 할 수 있습니다. Thunderbird에는 밝은 테마와 어두운 테마가 모두 포함되어 있으며 추가 기능으로 더 많은 것이 제공됩니다."
-
-#: sites/www.thunderbird.net/features/index.html:199
-msgid "Smart Folders"
-msgstr "스마트 폴더"
-
-#: sites/www.thunderbird.net/features/index.html:201
-msgid ""
-"Smart Folders help you manage multiple email accounts by combining special folders like your Inbox, Sent, or Archive folder. Instead of going to the Inbox for each of your mail accounts, you can see"
-" all of your incoming email in one Inbox folder."
-msgstr "스마트 폴더 모드에서는 별도의 사서함이 함께 표시되어 여러 개의 이메일 계정을 효율적으로 관리 할 수 있습니다. 예를 들어, 받은 편지함을 선택하면 각 계정을 개별적으로 열지 않고 모든 계정의 새 메시지를 표시 할 수 있습니다."
-
-#: sites/www.thunderbird.net/features/index.html:210
-msgid "Add-ons Manager"
-msgstr "부가 기능 관리자"
-
-#: sites/www.thunderbird.net/features/index.html:212
-msgid ""
-"Find and install add-ons directly in Thunderbird. You no longer need to visit the add-ons Web site - instead simply fire up the Add-ons Manager. Not sure which add-on is right for you? Ratings, "
-"recommendations, descriptions and pictures of the add-ons in action help you make your selection."
-msgstr "부가 기능 관리자를 열기 만하면 Thunderbird에서 직접 확장 기능을 검색하고 설치할 수있게되었습니다.  부가 기능 웹  사이트를 방문 할 필요가 더 이상 없습니다. 어떤 기능을 사용하면 좋을지 모르겠다 때도 사용자의 평가, 추천, 설명, 사진 등을보고 선택할 수 있습니다."
-
-#: sites/www.thunderbird.net/features/index.html:230
-msgid "Robust Privacy"
-msgstr "강력한 개인 정보 보호"
-
-#: sites/www.thunderbird.net/features/index.html:232
-msgid "Thunderbird offers support for user privacy and remote image protection. To ensure a user’s privacy, Thunderbird automatically blocks remote images in email messages."
-msgstr "Thunderbird는 HTML 메시지에 포함 된 원격 이미지로드를 차단하고 사용자의 개인 정보를 보호합니다."
-
-#: sites/www.thunderbird.net/features/index.html:241
-msgid "Phishing Protection"
-msgstr "피싱 경고 기능"
-
-#: sites/www.thunderbird.net/features/index.html:243
-msgid ""
-"Thunderbird protects you from email scams which try to trick users into handing over personal and confidential information by indicating when a message is a potential phishing attempt. As a second "
-"line of defense, Thunderbird warns you when you click on a link which appears to be taking you to a different Web site than the one indicated by the URL in the message."
-msgstr "Thunderbird는 수신 된 메시지에 개인 정보 나 기밀 정보를 속여 취하려는 피싱의 위험성이 의심되는 경우 경고를 표시합니다. 또한 추가 대책으로 메시지에 표시되는 URL과 실제로 열리는 웹 사이트가 다른 의심스러운 링크가 클릭 된 경우에도 브라우저에서 해당 사이트가 열리기 전에 경고를 표시합니다."
-
-#: sites/www.thunderbird.net/features/index.html:252
-msgid "Automated Update"
-msgstr "자동 업데이트"
-
-#: sites/www.thunderbird.net/features/index.html:254
-msgid ""
-"Thunderbird’s update system checks to see if you’re running the latest version, and notifies you when a security update is available. These security updates are small (usually 200KB - 700KB), giving"
-" you only what you need and making the security update quick to download and install. The automated update system provides updates for Thunderbird on Windows, macOS, and Linux in over 40 different "
-"languages."
-msgstr ""
-"Thunderbird 업데이트 시스템은 사용자가 최신 버전을 실행하고 있는지 확인하고 보안 업데이트가 제공 될 때 알려줍니다. 보안 업데이트는 작지만 (일반적으로 200KB - 700KB) 필요한 항목 만 제공하고 보안 업데이트를 다운로드하여 설치하는 작업을 신속하게 수행합니다. 자동 업데이트 시스템은 40  이상의 언어로 Windows, macOS 및"
-" Linux에서 Thunderbird에 대한 업데이트를 제공합니다."
-
-#: sites/www.thunderbird.net/features/index.html:261
-msgid "Cutting Out the Junk"
-msgstr "학습형 스팸 필터"
-
-#: sites/www.thunderbird.net/features/index.html:263
-msgid ""
-"Thunderbird’s popular junk mail tools have been updated to stay ahead of spam. Each email you receive passes through Thunderbird’s leading-edge junk mail filters. Each time you mark messages as "
-"spam, Thunderbird \"learns\" and improves its filtering so you can spend more time reading the mail that matters. Thunderbird can also use your mail provider’s spam filters to keep junk mail out of "
-"your inbox."
-msgstr ""
-"이전부터 호평을 받고있는 스팸 방지 기능은 다양한 스팸 수법에 대응할 수 있도록 만들어져 있습니다. 모든 새 메시지는 학습형 스팸 필터로 해석됩니다. 사용자가 스팸 메일의 판정을 할 때마다, 그 내용이 축적되어 자동 판별의 정확도가 향상하기 때문에 더 많은 시간을 중요한 메시지 교환에 할애할 수 있습니다. 공급자와 사내 메일 서버의 스팸 필터를 "
-"병용하면받은 편지함에서 스팸 메일이 격감하는 것입니다."
-
-#: sites/www.thunderbird.net/features/index.html:268
-msgid "Open Source"
-msgstr "오픈 소스"
-
-#: sites/www.thunderbird.net/features/index.html:270
-msgid ""
-"At the heart of Thunderbird is an open source development process driven by thousands of passionate, experienced developers and security experts spread all over the world. Our openness and active "
-"community of experts helps to ensure our products are more secure and quickly updated, while also enabling us to take advantage of the best third party security scanning and evaluation tools to "
-"further bolster overall security."
-msgstr ""
-"Thunderbird는 풍부한 경험이 개발자와 보안 전문가가 전세계에서 다수 참가하는 오픈 소스 개발 프로세스에 의해서 유지되고 있습니다. 투명한 환경 속에서 많은 전문가로부터 적극적인 협력을받는 것으로 보다 안전한 제품을 제공 할 수 있고, 만일 문제가보고 된 경우도 신속하게 수정 된 버전을 배포 할 수있는 체제를 갖추고 있습니다. 또한 동시에 뛰어난"
-" 타사의 보안 검증 · 평가 도구를 활용하여 전체적인 보안 수준을 향상시키고 있습니다."
-
-#: sites/www.thunderbird.net/includes/base-resp.html:20 sites/www.thunderbird.net/includes/base-resp.html:22 sites/www.thunderbird.net/includes/new/page.html:19
-#: sites/www.thunderbird.net/includes/site-footer.html:5 sites/www.thunderbird.net/includes/site-footer.html:6 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:107
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:108
-msgid "Thunderbird Vector Wordmark"
-msgstr "Thunderbird Vector Wordmark"
-
-#: sites/www.thunderbird.net/includes/base-resp.html:35
-msgid "Features"
-msgstr "주요 기능"
-
-#: sites/www.thunderbird.net/includes/base-resp.html:44 sites/www.thunderbird.net/includes/new/page.html:23 sites/www.thunderbird.net/includes/site-footer.html:21
-msgid "Get Help"
-msgstr "도움 받기"
-
-#: sites/www.thunderbird.net/includes/base-resp.html:50 sites/www.thunderbird.net/includes/new/site-footer.html:9 sites/www.thunderbird.net/includes/site-footer.html:24
-msgid "Blog"
-msgstr "블로그"
-
-#: sites/www.thunderbird.net/includes/donate-mailing-list.html:11
-msgid "Thunderbird is funded by users like you"
-msgstr "Thunderbird는 귀하와 같은 사용자들의 기부로 운영됩니다"
-
-#: sites/www.thunderbird.net/includes/donate-mailing-list.html:14 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:17
-msgid "Thunderbird is both free and freedom respecting, but we’re also completely funded by donations! Help us sustain the project and continue to improve."
-msgstr "Thunderbird는 무료로 자유로운 배포되며, 기부금으로 전적으로 자금을 지원받습니다! 우리가 프로젝트를 유지하고 지속적으로 개선하도록 도와주세요."
-
-#: sites/www.thunderbird.net/includes/donate-mailing-list.html:26 sites/www.thunderbird.net/newsletter/index.html:10
-msgid "Join our Newsletter"
-msgstr "뉴스레터 구독하기"
-
-#: sites/www.thunderbird.net/includes/donate-mailing-list.html:29
-msgid "Keep up with the latest and greatest updates on news, features, events, and previews, and get a sneak peek on the upcoming releases."
-msgstr "뉴스, 기능, 이벤트 및 미리보기에 대한 최신 업데이트를 확인하고 다가오는 출시 내역을 살짝 엿볼 수 있습니다."
-
-#: sites/www.thunderbird.net/includes/donate-modal.html:36
-msgid "Pay What You Want"
-msgstr "원하는 대로 지불"
-
-#: sites/www.thunderbird.net/includes/donate-modal.html:40
-msgid "Thunderbird is independent, free, and Open Source software sustained by your donations. Help us keep the project alive!"
-msgstr "Thunderbird는 사용자의 기부로 유지되는 독립적이고 무료인 오픈 소스 소프트웨어입니다. 프로젝트를 계속 할 수 있도록 도와주세요!"
-
-#: sites/www.thunderbird.net/includes/donate-modal.html:50
-msgid "Donate & Download"
-msgstr "기부 및 다운로드"
-
-#: sites/www.thunderbird.net/includes/donate-modal.html:53
-msgid "No Thanks, Download Now!"
-msgstr "아니요, 지금 다운로드합니다!"
-
-#: sites/www.thunderbird.net/includes/donate-modal.html:68
-msgid "Secure"
-msgstr "보안"
-
-#: sites/www.thunderbird.net/includes/donate-modal.html:73
-msgid "Privacy Policy"
-msgstr "개인정보 보호 정책"
-
-#: sites/www.thunderbird.net/includes/donate-modal.html:78
-msgid "Other ways to donate"
-msgstr "다른 기부 방법"
-
-#: sites/www.thunderbird.net/includes/donate-modal.html:83
-msgid "FAQ"
-msgstr "자주하는 질문"
-
-#: sites/www.thunderbird.net/includes/download-button.html:39
+#: sites/www.thunderbird.net/includes/download-button.html:69
 #, python-format
 msgid "Your system doesn't meet the <a href=\"%(url)s\">requirements</a> to run Thunderbird."
 msgstr "Thunderbird 설치에 필요한 시스템 <a href=\"%(url)s\">요구 사항</a>을 충족하지 못했습니다."
 
-#: sites/www.thunderbird.net/includes/download-button.html:42
+#: sites/www.thunderbird.net/includes/download-button.html:72
 #, python-format
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
 msgstr "Thunderbird <a href=\"%(url)s\">설치 가이드</a>를 참고하세요."
 
-#: sites/www.thunderbird.net/includes/download-button.html:61 sites/www.thunderbird.net/includes/site-prefooter.html:81 sites/www.thunderbird.net/includes/site-prefooter.html:84
+#: sites/www.thunderbird.net/includes/download-button.html:90
+msgid "Thunderbird Beta"
+msgstr "Thunderbird 베타"
+
+#: sites/www.thunderbird.net/includes/download-button.html:92
 msgid "Thunderbird Daily"
 msgstr "Thunderbird Daily"
 
-#: sites/www.thunderbird.net/includes/download-button.html:73 sites/www.thunderbird.net/includes/download-button.html:76
-msgid "Systems &amp; Languages"
-msgstr "시스템 &amp; 언어선택"
+#: sites/www.thunderbird.net/includes/download-button.html:102
+msgid "Free forever."
+msgstr "평생 무료입니다."
 
-#: sites/www.thunderbird.net/includes/download-button.html:77 sites/www.thunderbird.net/includes/new/page.html:24
-msgid "What’s New"
-msgstr "새로운 기능"
-
-#: sites/www.thunderbird.net/includes/download-button.html:79 sites/www.thunderbird.net/includes/new/site-footer.html:21 sites/www.thunderbird.net/includes/site-footer.html:81
-msgid "Privacy"
-msgstr "개인 정보 정책"
+#: sites/www.thunderbird.net/includes/download-button.html:102
+msgid "to make it better."
+msgstr "더 좋게 만들기 위해."
 
 #: sites/www.thunderbird.net/includes/faq.html:7
 msgid "What are the ways I can give?"
@@ -1475,21 +904,33 @@ msgid ""
 msgstr ""
 
 #: sites/www.thunderbird.net/includes/faq.html:122
-msgid "Are there additional fees on my donation?"
+msgid "Can I request a refund?"
 msgstr ""
 
 #: sites/www.thunderbird.net/includes/faq.html:125
+#, python-format
+msgid ""
+"Your donation may be eligible for a refund. You must contact us within 15 days after the date of the donation. If you believe this donation was made without your authorization, please contact us "
+"immediately. Donations made via ACH or SEPA direct debit are ineligible for refunds. Due to the nature of these transactions our policy prioritizes minimizing refund fraud. We sincerely appreciate "
+"your understanding. If you have any further questions, <a href=\"%(help)s\">please contact us</a>."
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/faq.html:137
+msgid "Are there additional fees on my donation?"
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/faq.html:140
 msgid ""
 "We do not collect any additional fees or taxes. When you donate in your local currency you are not charged a conversion fee by your credit card. Optionally, you can choose to cover our transaction "
 "costs on your donation. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to "
 "research any additional external taxes or fees that may be applied by regulators such as your bank or tax authority."
 msgstr ""
 
-#: sites/www.thunderbird.net/includes/faq.html:137
+#: sites/www.thunderbird.net/includes/faq.html:152
 msgid "What are your transaction costs on donations?"
 msgstr ""
 
-#: sites/www.thunderbird.net/includes/faq.html:140
+#: sites/www.thunderbird.net/includes/faq.html:155
 msgid ""
 "When you opt to cover our transaction costs, you're covering both our processing and donation platform costs. The costs associated with our robust online donation system allows us to continue "
 "scaling sustainably as our supporter-base grows. Our donation platform and payment processor partners reduce internal costs associated with maintaining our own system from scratch. Our partners "
@@ -1497,58 +938,58 @@ msgid ""
 " on an estimate of our overall costs. Due to many factors actual costs may fluctuate."
 msgstr ""
 
-#: sites/www.thunderbird.net/includes/faq.html:153
+#: sites/www.thunderbird.net/includes/faq.html:168
 msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
 msgstr ""
 
-#: sites/www.thunderbird.net/includes/faq.html:156
+#: sites/www.thunderbird.net/includes/faq.html:171
 msgid ""
 "When making a one-time gift through SEPA direct debit, you may notice a mention of recurrent transactions. This is because our payment processor Stripe only supports recurring transactions for this "
 "type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
 "official donation receipt that will clearly reflect the one-time donation."
 msgstr ""
 
-#: sites/www.thunderbird.net/includes/faq.html:164
+#: sites/www.thunderbird.net/includes/faq.html:179
 msgid "Can I give in cryptocurrencies?"
 msgstr ""
 
-#: sites/www.thunderbird.net/includes/faq.html:167
+#: sites/www.thunderbird.net/includes/faq.html:182
 msgid "<strong>No.</strong> We are not currently accepting cryptocurrency gifts."
 msgstr ""
 
-#: sites/www.thunderbird.net/includes/faq.html:175
+#: sites/www.thunderbird.net/includes/faq.html:190
 msgid "How will my gift be used?"
 msgstr "내 기부금은 어떻게 사용됩니까?"
 
-#: sites/www.thunderbird.net/includes/faq.html:178
+#: sites/www.thunderbird.net/includes/faq.html:193
 msgid ""
 "Thunderbird is the leading open source cross-platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future "
 "development."
 msgstr "Thunderbird는 인기 높은 오픈소스 크로스-플렛폼 이메일, 캘린더 클라이언트로 회사나 개인이 무료로 사용할수 있습니다. 여러분의 기부금은 이러한 상태를 유지하고 향후 개발을 지원하는데 도움이 될 것입니다."
 
-#: sites/www.thunderbird.net/includes/faq.html:187
+#: sites/www.thunderbird.net/includes/faq.html:202
 msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
 msgstr "Thunderbird 와 MZLA 테크놀로지 기업은 어떤 관계입니까?"
 
-#: sites/www.thunderbird.net/includes/faq.html:190
+#: sites/www.thunderbird.net/includes/faq.html:205
 msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a wholly owned subsidiary of Mozilla Foundation."
 msgstr "Thunderbird는 Mozilla Foundation이 전부 소유한 자회사인, MZLA 테크놀로지 기업의 프로젝트입니다."
 
-#: sites/www.thunderbird.net/includes/faq.html:199
+#: sites/www.thunderbird.net/includes/faq.html:214
 msgid "Doesn’t Thunderbird earn income?"
 msgstr "Thunderbird는 수입이 없나요?"
 
-#: sites/www.thunderbird.net/includes/faq.html:202
+#: sites/www.thunderbird.net/includes/faq.html:217
 msgid ""
 "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird. Companies and individuals support the development of the product now and in the "
 "future."
 msgstr ""
 
-#: sites/www.thunderbird.net/includes/faq.html:211
+#: sites/www.thunderbird.net/includes/faq.html:226
 msgid "Who can I email directly with questions about giving?"
 msgstr "누구에게 기부에 관한 질문을 직접 이메일로 보낼 수 있습니까?"
 
-#: sites/www.thunderbird.net/includes/faq.html:214
+#: sites/www.thunderbird.net/includes/faq.html:229
 #, python-format
 msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. If you need technical support, please head over to <a href=\"%(support)s\">Thunderbird "
@@ -1556,134 +997,201 @@ msgid ""
 msgstr ""
 
 #: sites/www.thunderbird.net/includes/lang_switcher.html:10
-msgid "Page language:"
-msgstr "페이지 언어:"
+msgid "Page language"
+msgstr ""
 
 #: sites/www.thunderbird.net/includes/lang_switcher.html:12
-msgid "Other languages:"
-msgstr "언어별:"
+msgid "Other languages"
+msgstr ""
 
 #: sites/www.thunderbird.net/includes/lang_switcher.html:30
 msgid "Go"
 msgstr "이동"
 
-#: sites/www.thunderbird.net/includes/newsletter-form.html:7
-msgid "Sign me up!"
-msgstr "가입하기!"
+#: sites/www.thunderbird.net/includes/product-metadata.html:7 sites/www.thunderbird.net/includes/product-metadata.html:27
+msgid "Mozilla"
+msgstr "Mozilla"
 
-#: sites/www.thunderbird.net/includes/site-footer.html:12
-msgid "For Organizations"
-msgstr "기업용"
+#: sites/www.thunderbird.net/includes/base/footer.html:9
+msgid "Home"
+msgstr ""
 
-#: sites/www.thunderbird.net/includes/site-footer.html:18
-msgid "Careers"
-msgstr "채용 정보"
+#: sites/www.thunderbird.net/includes/base/footer.html:24 sites/www.thunderbird.net/includes/base/nav.html:40
+msgid "Blog"
+msgstr "블로그"
 
-#: sites/www.thunderbird.net/includes/new/site-footer.html:11 sites/www.thunderbird.net/includes/site-footer.html:30
+#: sites/www.thunderbird.net/includes/base/footer.html:25 sites/www.thunderbird.net/includes/base/nav.html:41
+msgid "Get Help"
+msgstr "도움 받기"
+
+#: sites/www.thunderbird.net/includes/base/footer.html:27 sites/www.thunderbird.net/includes/base/nav.html:43
+msgid "Downloads"
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/base/footer.html:28 sites/www.thunderbird.net/thunderbird/all/index.html:138 sites/www.thunderbird.net/thunderbird/all/index.html:152
+msgid "Release Notes"
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/base/footer.html:29
+msgid "Holiday Calendars"
+msgstr "연말 캘린더"
+
+#: sites/www.thunderbird.net/includes/base/footer.html:36 sites/www.thunderbird.net/includes/base/nav.html:57
 msgid "Contact Us"
 msgstr "연락처"
 
-#: sites/www.thunderbird.net/includes/new/site-footer.html:23 sites/www.thunderbird.net/includes/site-footer.html:84
-msgid "Cookies"
-msgstr "쿠키"
+#: sites/www.thunderbird.net/includes/base/footer.html:37 sites/www.thunderbird.net/includes/base/nav.html:58
+msgid "Careers"
+msgstr "채용 정보"
 
-#: sites/www.thunderbird.net/includes/new/site-footer.html:25 sites/www.thunderbird.net/includes/site-footer.html:88
-msgid "Legal"
-msgstr "법률"
-
-#: sites/www.thunderbird.net/includes/new/site-footer.html:31 sites/www.thunderbird.net/includes/site-footer.html:92
-msgid "Participation Guidelines"
-msgstr "참여방법"
-
-#: sites/www.thunderbird.net/includes/site-footer.html:96
-msgid "Report Trademark or Copyright Infringement"
-msgstr "상표권 또는 저작권 침해 신고"
-
-#: sites/www.thunderbird.net/includes/site-footer.html:100
-msgid "Report Misuse of Thunderbird Trademark"
-msgstr "Thunderbird Trademark의 악용 신고"
-
-#: sites/www.thunderbird.net/includes/site-footer.html:105
-#, python-format
-msgid ""
-"Thunderbird is part of\n"
-"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
-"      a wholly owned subsidiary of Mozilla Foundation.\n"
-"      Portions of this content are ©1998–%(current_year)s by individual\n"
-"      contributors. Content available under\n"
-"      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
+#: sites/www.thunderbird.net/includes/base/footer.html:44 sites/www.thunderbird.net/includes/base/nav.html:72 sites/www.thunderbird.net/participate/index.html:8
+msgid "Participate"
 msgstr ""
 
-#: sites/www.thunderbird.net/includes/new/site-footer.html:43 sites/www.thunderbird.net/includes/site-footer.html:116
+#: sites/www.thunderbird.net/includes/base/footer.html:67
+msgid ""
+"\n"
+"        <small>\n"
+"          Thunderbird is part of <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a>, a wholly owned subsidiary of Mozilla Foundation.\n"
+"          Portions of this content are ©1998–2023 by individual contributors. Content available under a\n"
+"          <a href=\"https://www.mozilla.org/foundation/licensing/website-content/\">Creative Commons license</a>.\n"
+"        </small>\n"
+"        "
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/base/footer.html:77 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:385 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:461
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:308 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:327
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:443
 msgid "Contribute to this site"
 msgstr "사이트에 기여하기"
 
-#: sites/www.thunderbird.net/includes/new/site-footer.html:46 sites/www.thunderbird.net/includes/site-footer.html:119
+#: sites/www.thunderbird.net/includes/base/footer.html:81 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:388 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:464
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:311 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:330
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:446
 msgid "Translate this site"
 msgstr "이 사이트 번역하기"
 
-#: sites/www.thunderbird.net/includes/site-prefooter.html:14
-msgid "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users."
-msgstr "Thunderbird는 누구나 아이디어, 디자인, 코드, 그리고 시간을 들여 다른 사용자를 돕는데 참여할 수 있는 오픈소스 프로젝트입니다."
-
-#: sites/www.thunderbird.net/includes/site-prefooter.html:17
-msgid "Join Us"
-msgstr "참여하기"
-
-#: sites/www.thunderbird.net/includes/site-prefooter.html:20
-msgid "Make a Donation"
-msgstr "기부하기"
-
-#: sites/www.thunderbird.net/includes/site-prefooter.html:69
-msgid "The Future of Thunderbird"
-msgstr "Thunderbird의 미래"
-
-#: sites/www.thunderbird.net/includes/site-prefooter.html:71
-msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
-msgstr "최첨단 기능을 경험하세요. 피드백을 주시면 최종 버전을 개선하고 다듬는 데 도움이 됩니다."
-
-#: sites/www.thunderbird.net/includes/site-prefooter.html:86
-msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Daily channel."
-msgstr "매일 제공하는 불안정 Daily 채널을 사용하여 Thunderbird에 적용된 최신 개발 사항을 테스트 할 수 있도록 도와주세요."
-
-#: sites/www.thunderbird.net/includes/site-prefooter.html:90
-msgid "WARNING!"
-msgstr "경고!"
-
-#: sites/www.thunderbird.net/includes/site-prefooter.html:92
-msgid "Daily is an unstable testing and development platform, make sure you back up important data regularly!"
-msgstr "Daily는 불안정한 테스트 및 개발 플랫폼이므로 중요한 데이터를 정기적으로 백업하세요!"
-
-#: sites/www.thunderbird.net/includes/site-prefooter.html:95
-msgid "Download Daily"
-msgstr "Daily 개발 버전 다운로드"
-
-#: sites/www.thunderbird.net/includes/ways-to-give.html:6
-msgid "Check (via postal service)"
+#: sites/www.thunderbird.net/includes/base/nav.html:21 sites/www.thunderbird.net/thunderbird/releases/index.html:10
+msgid "Products"
 msgstr ""
 
-#: sites/www.thunderbird.net/includes/ways-to-give.html:8
-#, python-format
+#: sites/www.thunderbird.net/includes/base/nav.html:25 sites/www.thunderbird.net/thunderbird/releases/index.html:10
+msgid "Thunderbird Desktop"
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/base/nav.html:25
+msgid "Meet the powerful email, calendar, and contacts app for Windows, Linux, and macOS."
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/base/nav.html:26
+msgid "Thunderbird Mobile"
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/base/nav.html:26
+msgid "Learn about the leading open-source email app for Android."
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/base/nav.html:40
+msgid "Learn about new product releases, community events, tech tips, and more."
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/base/nav.html:41
+msgid "Find the help you need configuring and using Thunderbird."
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/base/nav.html:42
+msgid "Podcasts"
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/base/nav.html:42
+msgid "Meet interesting people and hear their Thunderbird stories."
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/base/nav.html:43
+msgid "Find the latest version of Thunderbird."
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/base/nav.html:56
+msgid "Learn how our values, community, and organization shape the future of Thunderbird."
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/base/nav.html:57
+msgid "Find out who to contact and how."
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/base/nav.html:58
+msgid "We have an enthusiastic team with diverse talents. Learn how to join us."
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/base/nav.html:71
+msgid "Learn how to donate as an individual or business to support Thunderbird and open source."
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/base/nav.html:72
+msgid "We need helping hands of all kinds. Learn how you can help Thunderbird and others."
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/base/page.html:24
+msgid "Thunderbird Logo"
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/base/page.html:32
+msgid "Open or close site navigation"
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/base/page.html:88
+msgid "Learn What’s <span class=\"txt-gradient\">Next</span>"
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/base/page.html:91
 msgid ""
-"MZLA/Thunderbird is happy to accept your donation <span class=\"%(class)s\">(made payable to “MZLA Technologies Corp”)</span> via check;\n"
-"    however please note that we can only accept checks in US dollars drawn on a US bank."
+"\n"
+"        Thunderbird keeps getting better. Subscribe to our newsletter and follow us on social media to stay\n"
+"        informed.\n"
+"        "
 msgstr ""
 
-#: sites/www.thunderbird.net/includes/ways-to-give.html:16
-msgid "Please include your email address on the memo line of your check to help us track and attribute your gift."
+#: sites/www.thunderbird.net/includes/base/page.html:102 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:313 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:234
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:253 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:370
+msgid "Your Email"
+msgstr "이메일"
+
+#: sites/www.thunderbird.net/includes/base/page.html:103
+msgid "Subscribe"
+msgstr "구독하기"
+
+#: sites/www.thunderbird.net/includes/base/page.html:112
+#, python-format
+msgid "Follow %(mastodon)s on Mastodon"
+msgstr "Mastodon에서 %(mastodon)s 팔로우"
+
+#: sites/www.thunderbird.net/includes/base/page.html:116
+#, python-format
+msgid "Follow %(facebook)s on Facebook"
 msgstr ""
 
-#: sites/www.thunderbird.net/includes/ways-to-give.html:20
-msgid "IBAN (via SEPA bank transfer)"
-msgstr ""
+#: sites/www.thunderbird.net/includes/base/page.html:120
+#, python-format
+msgid "Follow %(youtube)s on YouTube"
+msgstr "YouTube에서 %(youtube)s 팔로우하기"
 
-#: sites/www.thunderbird.net/includes/ways-to-give.html:43
-msgid "Minimum donation amount: €20"
-msgstr ""
+#: sites/www.thunderbird.net/includes/base/page.html:124
+#, python-format
+msgid "Follow %(twitter)s on Twitter"
+msgstr "Twitter에서 %(twitter)s 팔로우하기"
 
-#: sites/www.thunderbird.net/includes/ways-to-give.html:44
-msgid "Please note that due to the limited contact information we receive during the transfer process, we are unable to issue donation receipts."
-msgstr ""
+#: sites/www.thunderbird.net/includes/base/page.html:128
+#, python-format
+msgid "Follow %(linkedin)s on LinkedIn"
+msgstr "LinkedIn에서 %(linkedin)s 팔로우"
+
+#: sites/www.thunderbird.net/includes/base/page.html:134
+msgid "Visit Our Blog"
+msgstr "블로그 방문"
+
+#: sites/www.thunderbird.net/includes/base/page.html:140
+msgid "smartphone"
+msgstr "스마트폰"
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:92 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:96
 msgid "I need"
@@ -1895,284 +1403,524 @@ msgstr ""
 msgid "Submit"
 msgstr ""
 
-#: sites/www.thunderbird.net/includes/new/site-footer.html:27
-msgid "Send DMCA Notice"
-msgstr "DMCA 통지 보내기"
+#: sites/www.thunderbird.net/newsletter/index.html:8 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:302 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:223
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:242 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:359
+msgid "Join our Newsletter"
+msgstr "뉴스레터 구독하기"
 
-#: sites/www.thunderbird.net/includes/new/site-footer.html:29
-msgid "Report Fraud"
-msgstr "사기 신고"
-
-#: sites/www.thunderbird.net/includes/new/site-footer.html:34
+#: sites/www.thunderbird.net/newsletter/index.html:13
 msgid ""
 "\n"
-"        <small>\n"
-"          Thunderbird is part of <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a>, a wholly owned subsidiary of Mozilla Foundation.\n"
-"          Portions of this content are ©1998–2023 by individual contributors. Content available under a\n"
-"          <a href=\"https://www.mozilla.org/foundation/licensing/website-content/\">Creative Commons license</a>.\n"
-"        </small>\n"
-"        "
+" See exciting previews of upcoming features, read the latest desktop Thunderbird and mobile Thunderbird news, and enjoy personalized tips to protect your privacy and maximize your productivity! From the Thunderbird team directly to your inbox.\n"
 msgstr ""
 
-#: sites/www.thunderbird.net/newsletter/index.html:19
+#: sites/www.thunderbird.net/participate/index.html:16
+msgid "We Need Your <span class=\"txt-gradient\">Talents</span>"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:17
+msgid "Everyone can be a contributor. Here are some of the ways you can help."
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:19
+msgid "Code"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:21
 msgid ""
-"See exciting previews of upcoming features, read the latest desktop Thunderbird and mobile Thunderbird news, and enjoy personalized tips to protect your privacy and maximize your productivity! From "
-"the Thunderbird team directly to your inbox."
+"If you have programming experience there are a lot of ways to contribute to the Thunderbird project. Get started by identifying the area where you have the most experience and interest and following"
+" the steps to get started:"
 msgstr ""
 
-#: sites/www.thunderbird.net/newsletter/index.html:27
-msgid "View previous newsletters"
-msgstr "이전 소식 보기"
+#: sites/www.thunderbird.net/participate/index.html:27
+msgid "Desktop Development:"
+msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:9
+#: sites/www.thunderbird.net/participate/index.html:35
+msgid "Android Development:"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:43
+msgid "Website Development:"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:51
+msgid "Test"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:53
+msgid ""
+"With so many unique hardware environments and workflows, community members who test pre-release builds of Thunderbird play a vital role in the quality of the software. Plus, you help catch bugs "
+"before they can reach the general public!"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:60
+msgid "Translate"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:62
+msgid ""
+"The entire world deserves free and open source software, and Thunderbird is currently translated in more than 50 languages! Use your multilingual talents to help make Thunderbird more widely "
+"available than ever."
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:69
+msgid "Support"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:71
+msgid ""
+"Are you an experienced Thunderbird user who loves lending a helping hand? Put your knowledge to great use by joining our Support Crew and helping users around the world with their Thunderbird "
+"questions."
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:72
+msgid "You can join our Thunderbird Community Support Matrix room to get and give user support."
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:78
+msgid "Document"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:80
+msgid ""
+"Help ensure the answers are written down before the question is even asked! From documenting features or APIs to frequently asked user support questions, put your knowledge and writing skills to use"
+" for the benefit of the entire Thunderbird community."
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:88
+msgid "Promote"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:90
+msgid ""
+"Advocacy is one of the easiest ways to contribute to Thunderbird! Boosting our posts on Mastodon, showcasing the software to a friend, upvoting a helpful answer on Reddit; anything that adds "
+"visibility is a huge help. Here’s where to find us on various social platforms, and how to get involved."
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:92
+msgid "Reddit"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:93
+msgid "Mastodon"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:94
+msgid "X (Formerly Twitter)"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:95
+msgid "YouTube"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:96
+msgid "TILVids"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:100
+msgid "Design"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:102
+msgid ""
+"Share your ideas, and contribute to the ongoing conversations around Thunderbird’s UX and UI. We welcome your feedback to developer designs on our UX mailing list, and our companion Matrix room."
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:110
+msgid "One more way you can contribute is by sharing <strong>ideas</strong>, <strong>priorities</strong>, and <strong>feedback</strong>. Thunderbird is yours and we're listening."
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:120
+msgid "Contributor <span class=\"txt-gradient\">Experience</span>"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:121
+msgid "The ways and reasons to get involved are as diverse as the people who do."
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:122
+msgid ""
+"Volunteers create Thunderbird and ensure it is accessible throughout the world in dozens of languages. They write the documentation and answer the questions that help regular people use Thunderbird."
+" They come from diverse backgrounds and bring unique talents. They're making Thunderbird better for themselves and better for the world at the same time. You can join them."
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:127
+msgid "Leadership, Switzerland"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:128
+msgid "Thunderbird is a testament to the power of the open-source community's contribution to driving innovation and efficiency."
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:130
+msgid "Bug Triager, USA"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:131
+msgid "If you don't have skin in the game, you can't complain about the direction the product is going in."
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:133
+msgid "Developer, Germany"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:134
+msgid "It is great to be able to improve the software by fixing little things that affect me and other users"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:136
+msgid "Tester & Bug Triager, USA"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:137
+msgid "I volunteer to use the beta versions as soon as they are built, report issues I find, and test fixes."
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:139
+msgid "Support & Bug Triager, United Kingdom"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:140
+msgid "I volunteer to assist others in the Thunderbird Support Forum which I find a very rewarding experience."
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:142
+msgid "Translator, Bug Triager & Leadership, Bulgaria"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:143
+msgid "I began by contributing translations, thinking that people who speak my language deserve localized versions."
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:153
+msgid "Shape the <span class=\"txt-gradient\">Future</span>"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:154
+msgid "Improve software and lives by volunteering."
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:155
+msgid ""
+"Craft tools you want to use. Help others find and use software that respects their privacy and freedom. Become part of a better future for yourself and others by putting your talents to work at "
+"Thunderbird. Read further to learn how."
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:158
+msgid "Various gears all working in tandem with a heart, a code symbol, a magnifying glass displaying a very small bug, and the Thunderbird Logo in the centre of it all."
+msgstr ""
+
+#: sites/www.thunderbird.net/thank-you/index.html:8 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:90
+msgid "Just one more step!"
+msgstr "한 단계만 더!"
+
+#: sites/www.thunderbird.net/thank-you/index.html:21
+msgid "A laptop with an stylized envelop floating in front of the screen. Three hearts of descending size float above the envelop."
+msgstr ""
+
+#: sites/www.thunderbird.net/thank-you/index.html:23
+msgid "Finish installing, and start enjoying <span class=\"txt-gradient\">Thunderbird</span>."
+msgstr ""
+
+#: sites/www.thunderbird.net/thank-you/index.html:25 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:92
+#, python-format
+msgid "Having trouble? <a class=\"inline-link\" href=\"%(url)s\">Get help with your installation.</a>"
+msgstr ""
+
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:14 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:20
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:66
 msgid "Experience The Future Of Thunderbird"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:27
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:70
 #, python-format
 msgid ""
 "Join the Beta today, and enjoy an exciting preview of the new features and visual enhancements coming to Thunderbird 115 Supernova. You can still run Thunderbird 102 after installing Beta on Windows"
 " with no special settings, unless you are using POP mail accounts. See details in the <a href=\"%(beta_kb_url)s\">beta knowledge base</a>."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:31
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:74
 #, python-format
 msgid ""
 "Thunderbird Beta is early access software, so please report the rough edges using the Help menu. You can find assistance via “Get Help” and “Share Ideas and Feedback” as well as the <a "
 "href=\"%(beta_topicbox_url)s\">Beta Topicbox</a> forum."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:36
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:79
 msgid "Install now!"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:47
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:90
 msgid "Finish installing, and start enjoying Thunderbird Beta."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:57
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:100
 msgid "Learn more about Thunderbird 115 Supernova"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:62 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:63
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:106
 msgid "Thunderbird 115 Supernova Preview: The New Folder Pane"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:67
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:110
 msgid ""
 "Thunderbird 115 \"Supernova\" will be intuitive and welcoming to new users, while remaining familiar and comfortable for veteran users. See how we're accomplishing that balance with a preview of the"
 " new Folder Pane."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:70
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:113
 msgid "February 14, 2023"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:71
-msgid "Continue Reading "
-msgstr ""
-
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:75 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:76
-msgid "Why We’re Rebuilding The Thunderbird Interface From Scratch"
-msgstr ""
-
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:80
-msgid "\"Why does Thunderbird look so old, and why does it take so long to change?\" Let's answer that burning question with some important history, and a look into the future."
-msgstr ""
-
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:83
-msgid "February 9, 2023"
-msgstr ""
-
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:84 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:97
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:114 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:127
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:140
 msgid "Continue Reading"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:88 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:89
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:119
+msgid "Why We’re Rebuilding The Thunderbird Interface From Scratch"
+msgstr ""
+
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:123
+msgid "\"Why does Thunderbird look so old, and why does it take so long to change?\" Let's answer that burning question with some important history, and a look into the future."
+msgstr ""
+
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:126
+msgid "February 9, 2023"
+msgstr ""
+
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:132
 msgid "Thunderbird Supernova Preview: The New Calendar Design"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:93
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:136
 msgid ""
 "Life gets busy. That's why the new  calendar in Thunderbird Supernova is being designed to look and feel comfortable. It will help you more efficiently sift, sort, and digest all the crucial details"
 " of your day."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:96
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:139
 msgid "November 9, 2022"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:17 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:17 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:17
+#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:15 sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:21 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:15
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:21 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:15
+#: sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:21
 msgid "Help Keep Thunderbird Alive!"
 msgstr "Thunderbird를 살리도록 도와주세요!"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:27 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:27
+#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:64 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:64
 msgid "<span class=\"block font-light font-4xl\">Help Keep</span> Thunderbird Alive!"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:30 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:30
+#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:67 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:67
 msgid "Did you know that <strong>less than 1%</strong> of Thunderbird users fund all the work we do?"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:33 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:33
+#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:70 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:70
 msgid "<strong>Not too long ago Thunderbird was on the verge of extinction.</strong> It’s because of donations from that small group of users that we are here today!"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:36 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:36
+#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:73 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:73
 msgid "We don’t show advertisements or sell your data and we are completely funded by donations from our community."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:52 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:41 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:52
-#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:57
+#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:280 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:82 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:280
+#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:75
 msgid "Click here to <strong class=\"block\">Donate!</strong>"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:67 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:56 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:67
-#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:72
+#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:295 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:97 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:295
+#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:90
 msgid "Help keep <strong class=\"block\">Thunderbird Alive!</strong>"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:76 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:76
+#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:316 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:316
 msgid ""
 "<strong>Thunderbird</strong>’s mission is to offer a time and privacy-respecting, customizable communication experience that gives you control of your data and experience. <strong>Free to "
 "everyone!</strong>"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:79 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:79
+#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:319 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:319
 msgid ""
 "Accomplishing that mission means keeping <strong>Thunderbird</strong> secure, maintaining complex server infrastructure, updating old code, fixing bugs and developing new features. <strong>These "
 "activities aren’t cheap</strong> - requiring talented software engineers and robust infrastructure."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:82 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:82 sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:87
+#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:322 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:322
+#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:105
 msgid "<strong>So today we’re asking you to help us out.</strong> If you get value from using Thunderbird, please consider giving a donation to support it!"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:98 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:95 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:98
-#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:103
+#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:342 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:152
+#: sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:342 sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:121
 msgid "The Thunderbird Team"
 msgstr "Thunderbird 팀"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:9
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:16 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:22
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:64
 msgid "What’s New in Thunderbird 102"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:16
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:66
 msgid "Explore the new features and changes in the new release of Thunderbird."
 msgstr "Thunderbird의 새로운 기능과 변경 사항을 살펴보십시오."
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:21
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:71
 msgid ""
 "<strong>Thunderbird is completely funded by your donations.</strong> <br> Producing Thunderbird requires software engineers, designers, system administrators and server infrastructure. <strong>Help "
 "us keep Thunderbird alive!</strong>"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:46
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:141
 msgid "Message Header Redesign"
 msgstr "메시지 헤더 재설계"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:49
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:144
 msgid ""
 "Thunderbird 102 helps you be more productive with less effort. When reading your email, the redesigned message header allows you to focus on what matters as it highlights important information. It’s"
 " also more responsive and easier to navigate. Plus, you can star important messages from the message header itself, and easily convert them into a calendar event or a task."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:61
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:159
 msgid "New Address Book"
 msgstr "새 주소록"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:64
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:162
 msgid ""
 "Thunderbird 102 gives your contacts a serious upgrade! The refreshed design makes it easier to navigate and interact with your contacts, and helps you better understand who you’re communicating "
 "with. The new Address Book has compatibility with vCard specs, meaning if your app can export your existing contacts into vCard format, Thunderbird can import them. Each contact card also acts as a "
 "launchpad for messaging, email, and event creation."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:82
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:184
 msgid "New Import/Export Wizard"
 msgstr "새 가져오기/내보내기 마법사"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:85
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:187
 msgid ""
 "Thunderbird 102 makes it quick and simple to move your accounts and data around. The new step-by-step wizard provides a guided experience for importing all that data that’s important to you. We’ve "
 "also taken extra precautions to ensure that no data is accidentally duplicated in your profile after an import. Moving from Outlook, SeaMonkey, or another Thunderbird installation is easier than "
 "ever. No add-ons required!"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:97
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:203
 msgid "New Spaces Toolbar"
 msgstr "새 도구 모음"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:100
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:206
 msgid ""
 "Thunderbird 102 makes navigating the application more intuitive thanks to the new Spaces Toolbar. Move between all of your activities with ease, whether it’s managing email, working with contacts "
 "through the awesome new address book, using the calendar and tasks functionality, chat, and even add-ons! If you want to save screen real estate, the Spaces Toolbar can be dismissed, and you can "
 "instead navigate the different activities Thunderbird offers with the new Pinned Spaces tab."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:118
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:227
 msgid "New Matrix Chat Support"
 msgstr "새 매트릭스 채팅 지원"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:121
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:230
 msgid ""
 "Thunderbird 102 offers a new way to chat privately and securely with your colleagues, friends, and family. We’ve added support for the open-source, decentralized chat protocol Matrix, and it’s "
 "usable right out of the box! (As always, we welcome your feedback since it’s an evolving service.)"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:131 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:67
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:81 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:168
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:245 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:175
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:194 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:304
 msgid "Other Notable Changes"
 msgstr "기타 주목할만한 변경 사항"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:134
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:248
 msgid "There are many other big changes that make Thunderbird 102 a very large release including:"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:137
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:251
 msgid "New Icons and Default Folder Colors"
 msgstr "새 아이콘과 기본 폴더 색상"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:138
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:252
 msgid "Use Thunderbird without an email account (for example, as an RSS reader)"
 msgstr "이메일 계정 없이 Thunderbird 사용(예: RSS 리더)"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:139
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:253
 msgid "Numerous OpenPGP improvements"
 msgstr "수많은 OpenPGP 개선 사항"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:140
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:254
 msgid "CalendarLocal parser converted to javascript"
 msgstr "CalendarLocal 파서가 자바스크립트로 변환됨"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:141
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:255
 msgid "Today Pane calendar UI refresh"
 msgstr "오늘 창 캘린더 UI 새로고침"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:142
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:256
 msgid "POP3 implemented in javascript"
 msgstr "자바스크립트로 구현된 POP3"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:143
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:257
 msgid "Account settings moved to macOS application menu"
 msgstr "계정 설정이 macOS 응용 프로그램 메뉴로 이동됨"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:144
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:258
 msgid ""
 "Plus: Application-wide font size control, Theme fixes, FileLink fixes, Accessibility fixes, improved vCard integration, improved calendar startup performance, Calendar fixes including correct order "
 "of week view headers and days for right to left locales."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:147
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:261
 #, fuzzy, python-format
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 102.0 and up</a>."
 msgstr "<a href=\"%(release)s\">Thunderbird 91.0 이상</a>의 릴리즈 노트에서 모든 변경 사항에 대한 세부 정보를 볼 수 있습니다."
 
-#: sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:22
-msgid "Thunderbird logo"
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:277 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:198
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:217 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:334
+msgid "Thunderbird is funded by users like you"
+msgstr "Thunderbird는 귀하와 같은 사용자들의 기부로 운영됩니다"
+
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:280 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:201
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:220 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:69
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:337
+msgid "Thunderbird is both free and freedom respecting, but we’re also completely funded by donations! Help us sustain the project and continue to improve."
+msgstr "Thunderbird는 무료로 자유로운 배포되며, 기부금으로 전적으로 자금을 지원받습니다! 우리가 프로젝트를 유지하고 지속적으로 개선하도록 도와주세요."
+
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:305 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:226
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:245 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:362
+msgid "Keep up with the latest and greatest updates on news, features, events, and previews, and get a sneak peek on the upcoming releases."
+msgstr "뉴스, 기능, 이벤트 및 미리보기에 대한 최신 업데이트를 확인하고 다가오는 출시 내역을 살짝 엿볼 수 있습니다."
+
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:314 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:235
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:254 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:371
+msgid "Sign me up!"
+msgstr "가입하기!"
+
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:365 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:441
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:288 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:307
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:423
+msgid "Report Trademark or Copyright Infringement"
+msgstr "상표권 또는 저작권 침해 신고"
+
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:369 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:445
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:292 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:311
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:427
+msgid "Report Misuse of Thunderbird Trademark"
+msgstr "Thunderbird Trademark의 악용 신고"
+
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:374 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:450
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:297 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:316
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:432
+#, python-format
+msgid ""
+"Thunderbird is part of\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+"      a wholly owned subsidiary of Mozilla Foundation.\n"
+"      Portions of this content are ©1998–%(current_year)s by individual\n"
+"      contributors. Content available under\n"
+"      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:24
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:63
 msgid ""
 "Help Keep\n"
 "      <br>\n"
@@ -2180,109 +1928,109 @@ msgid ""
 "      <span class=\"alive\">Alive</span>"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:66
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:119
 msgid ""
 "Thunderbird’s mission is to give you the best privacy-respecting, customizable communication experience possible.\n"
 "        Free for everyone to install and enjoy!"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:70
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:123
 msgid ""
 "Accomplishing that mission means maintaining expensive servers, fixing bugs, developing useful new features, and\n"
 "        hiring talented engineers to improve the software."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:74
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:127
 msgid ""
 "Thunderbird is proud to be funded exclusively by our community, not by selling personal data or displaying ads in\n"
 "        your inbox."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:78
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:131
 msgid ""
 "So today we’re asking for your help to keep Thunderbird alive and thriving. If you get value from using\n"
 "        Thunderbird, please consider giving a donation to support it!"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:17
+#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:15 sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:21
 msgid "Thunderbird Everywhere!"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:26
+#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:65
 msgid ""
 "<span class=\"title\">Thunderbird</span>\n"
 "        <span class=\"everywhere\">Everywhere!</span>"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:29
+#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:68
 msgid "Help us bring Thunderbird to <span class=\"platform-gradient\">Android</span> and <span class=\"platform-gradient\">iOS.</span>"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:30
+#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:69
 msgid ""
 "Did you know that <strong>less than 1%</strong> of Thunderbird users fund all the work we do? We don’t show advertisements or sell your data, and we are completely funded by donations from our "
 "community."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:56
+#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:114
 msgid "You kept us alive - now help us thrive!"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:59
+#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:117
 #, python-format
 msgid ""
 "This year, we delivered outstanding visual changes in Thunderbird 115 and <a href=\"%(url)s\">other major improvements</a>. In 2024, we want to make our privacy-respecting email software available "
 "to billions. Imagine Thunderbird on your <strong>Android</strong> and <strong>iOS</strong> devices!"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:60
+#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:118
 msgid "<strong>We can’t do this without you!</strong> If you get value from using Thunderbird, please consider giving a donation to support this goal."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:63
+#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:124
 msgid "An illustration of Thunderbird on a phone, a desktop, and a tablet."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:73
+#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:139
 msgid "The <strong>Thunderbird</strong> Team"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:17 sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:26
+#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:17 sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:44
 msgid "Thunderbird is Powered by You!"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:27
+#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:45
 msgid "Thunderbird <span>is Powered by You!</span>"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:30
+#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:48
 msgid "<strong>Did you know Thunderbird is funded only by donations from users like you?</strong>"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:33
+#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:51
 msgid "We don’t show advertisements or sell your data. <strong>You are not the product.</strong>"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:36
+#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:54
 msgid "<strong>Without you, Thunderbird can’t exist.</strong> Giving a gift today means Thunderbird continues to remain available!"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:81
+#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:99
 msgid ""
 "Since 2003, Thunderbird's mission has been to offer a powerful and customizable communication experience that respects your time, your data, and your privacy. <strong>Free for everyone!</strong>"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:84
+#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:102
 msgid ""
 "Accomplishing that mission means keeping <strong>Thunderbird</strong> secure, maintaining complex server infrastructure, updating old code, fixing bugs, and developing new features. <strong>These "
 "activities are expensive</strong> - requiring talented software engineers and robust infrastructure."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:11
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:16 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:22
 msgid "What’s New in Thunderbird 115"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:17
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:63
 msgid ""
 "What’s New in\n"
 "        <br>\n"
@@ -2291,42 +2039,42 @@ msgid ""
 "        <span class=\"sr-only\">Supernova</span>"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:23
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:69
 msgid "Supernova wordmark"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:40
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:91
 msgid "Learn how to get the new look"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:44 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:65
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:85 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:119
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:140 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:175
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:200 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:220
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:254 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:274
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:95 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:120
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:144 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:194
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:218 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:261
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:290 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:314
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:352 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:376
 msgid "A nebula of stars"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:51
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:106
 msgid "Dynamic Unified Toolbar"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:54
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:109
 msgid ""
 "Supernova features a single dynamic toolbar, presenting frequently used and contextual options based on the tab\n"
 "          or Space that is currently active. Take full control by customizing the toolbar and window layout to perfectly fit your\n"
 "          workflow."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:60
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:115
 msgid "The all new Unified Toolbar"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:72
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:131
 msgid "Beautiful Iconography"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:75
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:134
 msgid ""
 "More than just a refreshed set of graphics, Supernova introduces beautiful icons with a more consistent visual\n"
 "          style unique to Thunderbird. Our new designs remain sharp and pixel-perfect at any density setting."
@@ -2334,15 +2082,15 @@ msgstr ""
 "새로워진 그래픽 이상으로 Supernova는 Thunderbird 특유의 일관된 시각적 효과를 갖춘 아름다운 아이콘을 제공합니다.\n"
 "          새 디자인은 어떠한 화면 크기 설정에서도 선명하고 완벽한 픽셀을 유지합니다."
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:80
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:139
 msgid "The improved icons"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:92
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:155
 msgid "Easy Density Control"
 msgstr "쉬운 밀도 제어"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:95
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:158
 msgid ""
 "Working with multiple monitors and display resolutions? Supernova lets you dial in the perfect density settings\n"
 "          and font sizes for the entire application, with just a single click from the App Menu."
@@ -2350,263 +2098,263 @@ msgstr ""
 "여러 모니터와 화면 해상도로 작업하시나요? Supernova는 앱 메뉴에서 단 한 번의 클릭으로 완벽한 밀도 설정과\n"
 "          응용프로그램 전체의 글꼴 크기 설정을 할 수 있습니다."
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:106
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:181
 msgid "Compact density icon"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:107
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:182
 msgid "Default density icon"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:108
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:183
 msgid "Relaxed density icon"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:111 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:112
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:113
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:186 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:187
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:188
 msgid "An example of the relaxed density"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:126
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:204
 msgid "Intuitive App Menu"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:129
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:207
 msgid ""
 "The new Application Menu (≡) in Supernova is now keyboard-accessible, and redesigned for faster, easier\n"
 "          navigation. Fewer submenus, persistent global options, and consistent iconography combine to create a much\n"
 "          more intuitive experience."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:135
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:213
 msgid "The new AppMenu"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:148
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:230
 msgid "New + Sortable Folder Modes"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:151
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:233
 msgid ""
 "Supernova gives you more control by introducing sortable Folder Modes. Display all of your Tags in the Folder\n"
 "            Pane, turn on and off Local Folders, or move your favorite Folder Mode sections up and down with one click. Less\n"
 "            scrolling, more productivity."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:160
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:246
 msgid "Eye-Catching Tags View"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:163
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:249
 msgid ""
 "Tags are a familiar and powerful part of your workflow, so Supernova adds an eye-catching “Tags” view to the\n"
 "            Folder Pane. Quickly jump to your custom, color-coded tag categories to find and filter your messages even faster."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:170
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:256
 msgid "The improved folder pane"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:182
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:272
 msgid "Modernized Cards View"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:185
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:275
 msgid ""
 "Supernova’s new Card View is our version of the well-known vertical layout for the Message List, perfect for\n"
 "          people used to modern webmail. Card View emulates a mobile interface list with multi-line support, offering a more\n"
 "          comfortable appearance to reduce cognitive burden."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:191 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:192
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:193 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:194
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:195
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:281 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:282
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:283 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:284
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:285
 msgid "An example of a message in card view"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:207
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:301
 msgid "Improved Address Book"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:210
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:304
 msgid ""
 "Supernova continues to iterate on the modernized Address Book introduced in Thunderbird 102. You’ll enjoy a new\n"
 "          tabular view, an improved Edit view, delete buttons, and better accessibility."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:215
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:309
 msgid "The improved address book edit pane"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:227
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:325
 msgid "Expanded Accessibility"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:230
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:328
 msgid ""
 "Supernova substantially improves Thunderbird’s keyboard navigation and screen reader accessibility across the\n"
 "          entire application. We’ve also greatly expanded the ability to navigate Mail content and buttons using the TAB and\n"
 "          arrow keys."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:237
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:335
 msgid "Button"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:239
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:337
 msgid "Button 1"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:240
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:338
 msgid "Button 2"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:241
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:339
 msgid "Button 3"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:242
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:340
 msgid "Button 4"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:261
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:363
 msgid "Improved Calendar Design"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:264
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:366
 msgid ""
 "As part of an ongoing effort to modernize and upgrade Thunderbird’s Calendar, Supernova introduces an improved\n"
 "          “mini-month” layout, improvements to the day/week/month grid, a pleasing color palette, and several more minor changes."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:269
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:371
 msgid "The improved calendar"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:278
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:380
 msgid "More to come!"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:280
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:382
 msgid ""
 "Supernova is constantly evolving. Throughout the next year, we’ll deliver many improvements to existing Supernova\n"
 "        features and introduce brand new ones. Upgrade to version 115 and experience the future of Thunderbird!"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:7
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:14 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:20 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:63
 msgid "New in Thunderbird 68"
 msgstr "Thunderbird 68의 새로운 기능"
 
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:13
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:65
 #, python-format
 msgid ""
 "This article describes some of the major changes visible to users in Thunderbird version 68.0. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird 68 release "
 "notes</a>."
 msgstr "이 문서에서는 Thunderbird 버전 68.0에서 사용자에게 표시되는 몇 가지 주요 변경 사항에 대해 설명합니다. 모든 변경 사항에 대한 자세한 내용은 <a href=\"%(release)s\">Thunderbird 68 출시 노트</a>에서 확인할 수 있습니다."
 
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:25 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:135
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:118 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:262
 msgid "Better Dark Theme"
 msgstr "더 나은 어두운 테마"
 
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:28
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:121
 msgid "The dark theme available in Thunderbird has been enhanced with a dark message thread pane as well as many other small improvements."
 msgstr "Thunderbird에서 사용할 수 있는 어두운 테마는 어두운 메시지 스레드 창과 기타 여러 작은 개선 사항으로 향상되었습니다."
 
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:38
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:136
 msgid "Filelink Improved"
 msgstr "향상된 파일 링크"
 
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:41
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:139
 msgid ""
 "Filelink attachments that have already been uploaded can now be linked to again instead of having to re-upload them. Also, an account is no longer required to use the default Filelink provider - "
 "<strong>WeTransfer</strong>."
 msgstr "이미 업로드 된 파일 링크 첨부 파일을 다시 업로드 할 필요 없이 다시 연결할 수 있습니다. 또한 더 이상 기본 파일 링크 제공 업체 인 <strong>WeTransfer</strong>를 사용하는 데 계정이 필요하지 않습니다."
 
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:44
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:142
 #, python-format
 msgid "Other Filelink providers like Box and Dropbox are not included by default, but can be added by grabbing the <a href=\"%(dropbox)s\">Dropbox</a> and <a href=\"%(box)s\">Box</a> add-ons."
 msgstr "Box 및 Dropbox와 같은 다른 파일 링크 공급자는 기본적으로 포함되지 않지만 <a href=\"%(dropbox)s\">Dropbox</a> 및 <a href=\"%(box)s\">Box</a> 부가 기능을 사용할 수 있습니다."
 
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:52
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:155
 msgid "Options/Preferences in a Tab"
 msgstr "탭의 옵션/ 기본 설정 "
 
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:55
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:158
 msgid ""
 "Thunderbirdʼs Options/Preferences have been converted from a dialog window to its own dedicated tab. The new Preferences tab provides more space which allows for better organized content and is more"
 " consistent with the look and feel of the rest of Thunderbird."
 msgstr "Thunderbird의 환경 설정이 대화 창에서 전용 탭으로 변환되었습니다. 새로운 환경 설정 탭은 더 많은 공간을 제공하여 콘텐츠를 더 잘 정리하고 나머지 Thunderbird의 모양과 느낌과 더욱 일치합니다."
 
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:58
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:161
 msgid "The new Preferences tab also makes it easier to multi-task without the problem of losing track of where your preferences are when switching between windows."
 msgstr "새로운 환경 설정 탭은 또한 창 사이를 전환 할 때 환경 설정이 어디에 있는지 추적하는 문제없이 멀티 태스킹을 쉽게 합니다."
 
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:70
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:178
 msgid ""
 "There are many other smaller changes that make Thunderbird 68 feel polished and powerful including: a new App Menu UI, an updated To/CC/BCC selector in compose, improved attachment management, full "
 "color support across the app, filters can now be set to run periodically, and feed articles now show external attachments as links."
 msgstr "Thunderbird 68에는 새로운 앱 메뉴 UI, 작성시 업데이트 된 To/CC/BCC 선택기, 개선 된 첨부 파일 관리, 앱 전체의 풀 컬러 지원, 필터와 같이 세련되고 강력하게 만드는 다른 많은 작은 변경 사항이 있습니다. 주기적으로 실행되며 피드 기사는 이제 외부 첨부 파일을 링크로 표시합니다."
 
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:73
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:181
 #, python-format
 msgid "There are many other updates in this release, you can see a list of all of them in the <a href=\"%(release)s\">Thunderbird 68 release notes</a>."
 msgstr "이 릴리즈에는 다른 많은 업데이트가 있으며 <a href=\"%(release)s\">Thunderbird 68 릴리즈 정보</a>에서 모든 업데이트 목록을 볼 수 있습니다."
 
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:7
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:14 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:20 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:63
 msgid "New in Thunderbird 78"
 msgstr "Thunderbird 78의 새로운 기능"
 
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:13
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:65
 #, python-format
 msgid ""
 "This article describes some of the major changes visible to users in Thunderbird version 78. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird release notes "
 "from 78.0 and up</a>."
 msgstr "이 문서에서는 Thunderbird 버전 78에서 사용자에게 표시되는 몇 가지 주요 변경 사항에 대해 설명합니다. 모든 변경 사항에 대한 자세한 내용은 <a href=\"%(release)s\">Thunderbird 78 출시 노트</a>에서 확인할 수 있습니다."
 
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:25
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:118
 msgid "Dark mode"
 msgstr "다크 모드"
 
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:28
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:121
 msgid ""
 "There is now a dark mode in Thunderbird, making late-night email easier on the eyes. To enable, Thunderbird will use your operating system settings to see if you have enabled dark mode OS-wide."
 msgstr "이제 Thunderbird에는 어두운 모드가 있어 밤에 이메일을 쉽게 볼 수 있습니다. 활성화하기 위해 Thunderbird는 운영 체제 설정을 사용하여 OS 전체에서 다크 모드를 활성화했는지 확인합니다."
 
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:38
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:136
 msgid "Account Setup & Account Central Updated"
 msgstr "계정 설정 및 계정 센터 업데이트"
 
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:41
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:139
 msgid ""
 "The Account Setup window and the Account Central tab have both been updated. The Account Central tab appears when you do not have an account setup, or when you select an existing account in the "
 "folder tree."
 msgstr "계정 설정 창과 계정 센터 탭이 모두 업데이트 되었습니다. 계정 설정이 없는 경우 또는 폴더 트리에서 기존 계정을 선택하면 계정 센터 탭이 나타납니다."
 
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:44
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:142
 msgid ""
 "The layout and dialogues have been improved to make it easier to understand the information displayed and to find relevant settings. The Account Central tab also has new information about the "
 "Thunderbird project and displays the version you are using."
 msgstr "표시되는 정보를 보다 쉽게 이해하고 관련 설정을 찾을 수 있도록 레이아웃과 대화 상자가 개선되었습니다. Account Central 탭에는 Thunderbird 프로젝트에 대한 새로운 정보가 있으며 사용 중인 버전이 표시됩니다."
 
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:52
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:155
 msgid "Redesigned Compose Window"
 msgstr "새롭게 디자인 된 작성 창"
 
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:55
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:158
 msgid ""
 "The compose window has been reworked to make composing a message faster, easier and more straightforward. The compose window now also takes up less space with recipients listed in “pills” instead of"
 " an entire line for each address."
 msgstr "메시지를 더 빠르고 쉽고 간단하게 작성할 수 있도록 작성 창이 재 작업하였습니다. 편지 쓰기 창은 이제 각 주소에 대한 전체 줄 대신 나열된 수신자와 함께 더 적은 공간을 차지합니다."
 
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:58
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:161
 msgid "The redesigned compose window makes it easier to manage many email recipients, and the new intuitive layout helps users to discover its features."
 msgstr "새롭게 디자인 된 작성 창을 통해 많은 이메일 수신자를 보다 쉽게 관리 할 수 있으며 새롭고 직관적 인 레이아웃을 통해 사용자가 해당 기능을 발견 할 수 있습니다."
 
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:69
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:177
 msgid "End-to-End Encrypted Email Support"
 msgstr "종단 간 암호화 된 이메일 지원"
 
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:72
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:180
 #, python-format
 msgid ""
 "End-to-end encryption for email can be used to ensure that only the sender and the recipients of a message can read the contents. Without this protection it is easy for email providers and mass "
@@ -2616,181 +2364,757 @@ msgstr ""
 "이메일에 대한 종단 간 암호화를 사용하여 메시지를 보낸 사람과 받는 사람 만 내용을 읽을 수 있도록 할 수 있습니다. 이러한 보호 기능이 없으면 이메일 공급자와 대량 감시가 메시지를 쉽게 읽을 수 있습니다. Thunderbird의 종단 간 암호화 작동 방식에 대해 자세히 알아 보려면 다음 문서를 확인하십시오. <a "
 "href=\"%(encryption)s\"> Thunderbird의 종단 간 암호화 소개</a> ."
 
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:84
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:197
 msgid ""
 "There are many other big changes that make Thunderbird 78 a very large release including: calendar and tasks are now integrated into Thunderbird, folder icons are now updated and their colors are "
 "customizable, the preferences are now searchable, and minimize to tray is now supported on Windows."
 msgstr "Thunderbird 78에는 다양한 업데이트 사항이 있습니다. 캘린더 및 작업이 이제 Thunderbird에 통합되고, 폴더 아이콘이 이제 업데이트되며, 색상을 사용자 정의 가능하며, 환경 설정이 이제 검색 가능하며, 이제 윈도 상 트레이로 최소화가 지원됩니다."
 
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:87
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:200
 #, python-format
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 78.0 and up</a>."
 msgstr "이 릴리즈에는 다른 많은 업데이트가 있으며 <a href=\"%(release)s\">Thunderbird 78.0 릴리즈 정보</a>에서 모든 업데이트 목록을 볼 수 있습니다."
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:7
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:14 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:20 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:64
 msgid "New in Thunderbird 91"
 msgstr "Thunderbird 91의 새로운 기능"
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:14
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:66
 #, fuzzy, python-format
 msgid ""
 "This article describes some of the major changes visible to users in Thunderbird version 91. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird release notes "
 "from 91.0 and up</a>."
 msgstr "이 문서에서는 Thunderbird 버전 78에서 사용자에게 표시되는 몇 가지 주요 변경 사항에 대해 설명합니다. 모든 변경 사항에 대한 자세한 내용은 <a href=\"%(release)s\">Thunderbird 78 출시 노트</a>에서 확인할 수 있습니다."
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:43
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:140
 #, fuzzy
 msgid "New Account Setup"
 msgstr "계정 설정 마법사"
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:46
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:143
 msgid ""
 "One of the most noticeable changes for Thunderbird 91 is the new account setup wizard. The new wizard not only features a better look, but does auto-discovery of calendars and address books and "
 "allows most users to set them up with just a click. After setting up an account, the wizard also points users at additional (optional) things to do – such as adding a signature or setting up end-to-"
 "end encryption."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:58
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:160
 msgid "Attachments & Drag-and-Drop"
 msgstr "첨부 파일 및 드래그 앤 드롭"
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:61
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:163
 msgid ""
 "The attachments pane has been moved to the bottom of the compose window for better visibility of filenames as well as being able to see many at once. We’ve also added an overlay that appears when "
 "you drag-and-drop a file into the compose window asking how you would like to handle the file in that email (such as putting a picture in-line in your message or simply attaching it to the email)."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:79
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:186
 msgid "UI Density Control"
 msgstr "UI 밀도 제어"
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:82
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:189
 msgid ""
 "Whether you are using it on a large desktop monitor or a small laptop touchscreen, you may want the icons and text of the interface to be larger and more spread out or very compact. In Thunderbird "
 "91, under View -> Density in the menu, you can select the UI density for the entire application. Three options are available: compact (small), normal(medium), and touch(large)."
 msgstr ""
 "큰 데스크톱 모니터에서 사용하든 작은 노트북 터치 스크린을 사용하든 인터페이스의 아이콘과 텍스트를 더 크고 더 넓게 펼치거나 매우 작게 만들고 싶을 수 있습니다. Thunderbird 91 메뉴의 보기 -> 밀도에서 전체 애플리케이션에 대한 UI 밀도를 선택할 수 있습니다. 소형(작은), 기본(중간), 터치(큰)의 세 가지 설정을 사용할 수 있습니다."
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:98
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:209
 msgid "Protect Your Privacy"
 msgstr "개인 정보 보호"
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:101
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:212
 msgid ""
 "Whether it’s work or play, you deserve to have privacy when you are online. A VPN, Virtual Private Network, can help you create a secure, private connection to the internet. So that when you are "
 "traveling, connecting to WiFi, or simply want more online security - you know that your information is protected from prying eyes."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:104
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:215
 msgid "Learn More"
 msgstr "더 알아보기"
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:120
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:242
 msgid "Calendar Improvements"
 msgstr "캘린더 개선 사항"
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:123
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:245
 msgid ""
 "Managing multiple calendars has been made easier with the calendar sidebar improvements in this release. There is a quick enable button for disabled calendars, a lock indicator for read-only "
 "calendars, and a show/hide icon for easily toggling what calendars are visible. Outside the sidebar, there are now better color accents to highlight the current day in the calendar."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:138
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:265
 msgid ""
 "Thunderbird’s Dark Theme got even better in this release. In the past some windows and dialogues looked a bit out of place if you had Thunderbird’s dark theme selected. Now almost every dialogue and"
 " window in Thunderbird is fully styled to respect the user’s color scheme preferences."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:155
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:286
 msgid "PDF Viewer"
 msgstr "PDF 뷰어"
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:158
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:289
 msgid ""
 "Thunderbird now has a built-in PDF viewer, which means you can read and even do some editing on PDFs sent to you as attachments. You can do all this without ever leaving Thunderbird, allowing you to"
 " return to your inbox without missing a beat."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:171
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:307
 msgid "There are many other big changes that make Thunderbird 91 a very large release including:"
 msgstr "Thunderbird 91은 다음을 포함하여 매우 큰 릴리스가 되었습니다:"
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:174
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:310
 msgid "Native support for macOS devices built with Apple Silicon CPU"
 msgstr "Apple Silicon CPU로 구축된 MacOS 장치에 대한 기본 지원"
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:175
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:311
 msgid "CardDAV Address Book Support (and CardDAV auto-detection support)"
 msgstr "CardDAV 주소록 지원(및 CardDAV 자동 탐지 지원)"
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:176
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:312
 msgid "Printing UI updated"
 msgstr "인쇄 UI 업데이트됨"
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:177
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:313
 msgid "Ability to change order of accounts in UI"
 msgstr "UI에서 계정 순서 변경 가능"
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:178
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:314
 msgid "Registers to handle .ics files, letting you preview and import events to the calendar by double clicking the file"
 msgstr ".ics 파일을 처리하기 위해 등록합니다. 파일을 두 번 클릭하여 이벤트를 미리 보고 달력으로 가져올 수 있습니다"
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:181
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:317
 #, python-format
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 91.0 and up</a>."
 msgstr "<a href=\"%(release)s\">Thunderbird 91.0 이상</a>의 릴리즈 노트에서 모든 변경 사항에 대한 세부 정보를 볼 수 있습니다."
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:10
-msgid "Download Thunderbird in your language"
-msgstr "사용하는 언어로 Thunderbird 다운로드"
+#: sites/www.thunderbird.net/thunderbird/all/index.html:20 sites/www.thunderbird.net/thunderbird/all/index.html:164
+msgid "Get <span class=\"txt-gradient\">Thunderbird</span>"
+msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:14 sites/www.thunderbird.net/thunderbird/beta/all/index.html:14
-msgid "Be one of the first to try the newest features in Thunderbird. By giving us your feedback, you’ll help us to refine the features that will be included in the final version."
-msgstr "Thunderbird의 최신 기능을 가장 먼저 사용해 보세요. 보내주신 의견은 최종 버전에 포함될 기능을 개선하는 데 도움이 됩니다."
+#: sites/www.thunderbird.net/thunderbird/all/index.html:22
+msgid "These are officially maintained and distributed by Thunderbird. Download the latest Release version unless you wish to test the Beta version and report bugs."
+msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:16 sites/www.thunderbird.net/thunderbird/beta/all/index.html:16
-msgid "Get the award-winning email application from Mozilla. Import your existing mail and enjoy our new features like tabbed email and advanced search."
-msgstr "수상 경력에 빛나는 Mozilla의 이메일 애플리케이션을 설치하세요. 기존 이메일을 가져와 탭으로 관리하는 이메일이나 고급 검색과 같은 새로운 기능을 즐기시길 바랍니다."
+#: sites/www.thunderbird.net/thunderbird/all/index.html:26
+msgid "The Daily version is an unstable testing and development platform, make sure you back up important data regularly!"
+msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:35 sites/www.thunderbird.net/thunderbird/beta/all/index.html:35
-msgid "Check the system requirements"
-msgstr "시스템 요구사항 확인"
+#: sites/www.thunderbird.net/thunderbird/all/index.html:31
+msgid "Locale"
+msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:38 sites/www.thunderbird.net/thunderbird/beta/all/index.html:38
-msgid "Release notes"
-msgstr "출시 안내"
+#: sites/www.thunderbird.net/thunderbird/all/index.html:45
+msgid "Browser Channel"
+msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:41
-msgid "All Releases"
-msgstr "전체 출시 현황"
+#: sites/www.thunderbird.net/thunderbird/all/index.html:56
+msgid "Operating System"
+msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:55
-msgid "Fully localized versions"
-msgstr "완전히 현지화된 버전"
+#: sites/www.thunderbird.net/thunderbird/all/index.html:68
+msgid "Need a specific installer?"
+msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:57 sites/www.thunderbird.net/thunderbird/beta/all/index.html:53
-msgid "Choose your Language and Operating System"
-msgstr "사용자 언어와 운영 체제를 선택하십시오"
+#: sites/www.thunderbird.net/thunderbird/all/index.html:72
+msgid "Installer Type"
+msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/beta/all/index.html:10
-msgid "Download Beta in your language"
-msgstr "사용중인 언어로 베타 다운로드"
+#: sites/www.thunderbird.net/thunderbird/all/index.html:109
+msgid "Release Information"
+msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/beta/all/index.html:51
-msgid "Fully localized beta versions"
-msgstr "언어별 베타 버전"
+#: sites/www.thunderbird.net/thunderbird/all/index.html:114
+msgid "Other Downloads"
+msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/releases/index.html:7
-msgid "Thunderbird Release Notes"
-msgstr "Thunderbird 출시 정보"
+#: sites/www.thunderbird.net/thunderbird/all/index.html:117
+msgid "Microsoft Apps Store"
+msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/releases/index.html:8 sites/www.thunderbird.net/thunderbird/releases/index.html:23
-msgid "Release notes for each version of Thunderbird."
-msgstr "각 버전의 Thunderbird 출시 기록"
+#: sites/www.thunderbird.net/thunderbird/all/index.html:122
+msgid "Flathub"
+msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/releases/index.html:14
-msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
-msgstr "Thunderbird 출시 기록은 특정 버전의 애플리케이션에만 해당됩니다. 사용하고 계신 버전을 목록에서 찾아 출시 기록을 확인하세요."
+#: sites/www.thunderbird.net/thunderbird/all/index.html:125
+msgid "Snap Store"
+msgstr ""
+
+#: sites/www.thunderbird.net/thunderbird/all/index.html:132
+msgid "More Information"
+msgstr ""
+
+#: sites/www.thunderbird.net/thunderbird/all/index.html:135 sites/www.thunderbird.net/thunderbird/all/index.html:149
+msgid "System Requirements"
+msgstr ""
+
+#: sites/www.thunderbird.net/thunderbird/all/index.html:146
+msgid "More Information For Mobile"
+msgstr ""
+
+#: sites/www.thunderbird.net/thunderbird/all/index.html:165
+msgid "These are officially maintained and distributed by Thunderbird."
+msgstr ""
+
+#: sites/www.thunderbird.net/thunderbird/all/index.html:166
+msgid "Jump to the language you wish to download by using the legend below."
+msgstr ""
+
+#: sites/www.thunderbird.net/thunderbird/releases/index.html:8
+msgid "Releases"
+msgstr ""
+
+#: sites/www.thunderbird.net/thunderbird/releases/index.html:16
+msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it. "
+msgstr ""
+
+#~ msgid "There’s nothing here!"
+#~ msgstr "아무것도 없어요!"
+
+#~ msgid ""
+#~ "\n"
+#~ "          Meet <em>Supernova</em>: our fastest, most beautiful <strong>email</strong>,\n"
+#~ "          <strong>calendar</strong>, and <strong>contacts</strong> release yet. Designed\n"
+#~ "          to maximize your freedoms.\n"
+#~ "          "
+#~ msgstr ""
+#~ "\n"
+#~ "          <em>Supernova</em>와 만나보세요. 지금껏 출시된 버전 중 가장 빠르고 아름다운 <strong>이메일</strong>,\n"
+#~ "          <strong>캘린더</strong>,<strong>연락처</strong> 관리 도구입니다. 사용자의 자유를 극대화하도록\n"
+#~ "          설계했습니다.\n"
+#~ "          "
+
+#~ msgid ""
+#~ "\n"
+#~ "          Thunderbird is funded by user donations. We don’t collect personal data, sell ads in your inbox, or secretly\n"
+#~ "          train AI\n"
+#~ "          with your private conversations. Thunderbird is <a href=\"https://en.wikipedia.org/wiki/Open-source_software\">open source</a>. As part of the <a\n"
+#~ "            href=\"https://mozilla.org\">Mozilla</a> family you can be confident we\n"
+#~ "          always put your privacy and security first.\n"
+#~ "          "
+#~ msgstr ""
+#~ "\n"
+#~ "          Thunderbird는 사용자 기부로 자금을 조달합니다. 우리는 받은 편지함으로 받은 개인적인 대화로 개인 데이터를 수집하거나, 광고를 판매하거나,\n"
+#~ "          AI 학습에 활용하지 않습니다.\n"
+#~ "          Thunderbird는 <a href=\"https://en.wikipedia.org/wiki/Open-source_software\">오픈소스</a>입니다.\n"
+#~ "          <a href=\"https://mozilla.org\">Mozilla</a> 제품군의 일부이므로 사용자는 이 소프트웨어가 \n"
+#~ "          사생활 보호와 보안을 최우선으로 여길 것임을 신뢰할 수 있습니다.\n"
+#~ "          "
+
+#~ msgid "Discover Our Mission"
+#~ msgstr "우리의 사명을 알아보세요"
+
+#~ msgid "<span class=\"txt-gradient\">Learn</span> What’s Next"
+#~ msgstr "다음 변화를 <span class=\"txt-gradient\">구독하세요</span>"
+
+#~ msgid ""
+#~ "\n"
+#~ "              Thunderbird keeps getting better. Subscribe to our newsletter and follow us on social media to stay\n"
+#~ "              informed.\n"
+#~ "              "
+#~ msgstr ""
+#~ "\n"
+#~ "              Thunderbird는 계속해서 좋아지고 있습니다. 뉴스레터를 구독하고 소셜 미디어에서 팔로우하여 지속적으로\n"
+#~ "              정보를 확인하세요.\n"
+#~ "              "
+
+#~ msgid "Make Email Easier."
+#~ msgstr "이메일을 더 쉽게 사용하세요."
+
+#~ msgid "Free Download"
+#~ msgstr "무료 다운로드"
+
+#~ msgid "Want to try new features early?"
+#~ msgstr "새로운 기능을 미리 사용해 보고 싶으신가요?"
+
+#~ msgid "Get the beta and be a part of the future of Thunderbird!"
+#~ msgstr "베타를 받고 Thunderbird의 미래에 참여하세요!"
+
+#~ msgid "Thunderbird screenshot"
+#~ msgstr "Thunderbird 스크린샷"
+
+#~ msgid "Tailored for all your needs"
+#~ msgstr "모든 요구 사항에 맞게 기능 조정"
+
+#~ msgid "Thunderbird makes email better for you, bringing together speed, privacy and the latest technologies. Focus on what matters and forget about complexity."
+#~ msgstr "Thunderbird는 빠른 속도와 개인 정보 보호, 최신 기술을 모두 결합하여 보다 나은 이메일 서비스를 제공합니다. 중요한 일에 집중하고 복잡한 것은 잊어버리십시오."
+
+#~ msgid "Explore all Features"
+#~ msgstr "모든 기능 살펴보기"
+
+#~ msgid "Secure &amp; Private"
+#~ msgstr "보안 및 개인 정보 보호"
+
+#~ msgid "Multiple features, such as built-in Do Not Track and remote content blocking, work together to ensure your safety and privacy, so you can have peace of mind."
+#~ msgstr "내장 된 추적 차단(Do Not Track) 및 원격 콘텐츠 차단과 같은 여러 기능이 함께 작동하여 안전과 개인 정보를 보장하므로 안심할 수 있습니다."
+
+#~ msgid "Know your rights"
+#~ msgstr "권리 알기"
+
+#~ msgid "Highly Customizable"
+#~ msgstr "고급 사용자 정의 가능"
+
+#~ msgid "With Add-ons (Extensions & Themes) and many more features you can change the look and feel of Thunderbird in an instant."
+#~ msgstr "부가 기능 (확장 기능 및 테마)와 더 많은 기능을 사용하여 Thunderbird의 모양과 느낌을 즉시 변경할 수 있습니다."
+
+#~ msgid "Make it personal"
+#~ msgstr "개인화"
+
+#~ msgid "Stay in the loop"
+#~ msgstr "최신 소식 받기"
+
+#~ msgid "Keep yourself up to date with recent announcements and releases by following the official Thunderbird Blog!"
+#~ msgstr "Thunderbird 공식 블로그를 통해 최근 발표 및 출시 정보를 살펴보세요!"
+
+#~ msgid "Read the Blog"
+#~ msgstr "Blog 보기"
+
+#~ msgid "Thunderbird Calendar screenshot"
+#~ msgstr "Thunderbird 캘린더 스크린샷"
+
+#~ msgid "Organize your life — it’s about time!"
+#~ msgstr "삶을 조화롭게 — 지금 시작하세요!"
+
+#~ msgid "Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird email."
+#~ msgstr "Thunderbird 이메일과 완전히 통합한 캘린더에서 일정과 인생의 중요한 이벤트를 정리하세요."
+
+#~ msgid "Manage multiple calendars, create your daily to do list, invite friends to events, and subscribe to public calendars."
+#~ msgstr "여러 캘린더를 관리하고, 매일 할 일 목록을 만들고, 친구를 이벤트에 초대하고, 공개 캘린더에 가입하세요."
+
+#~ msgid "Explore Features"
+#~ msgstr "기능 살펴보기"
+
+#~ msgid "Explore Add-ons"
+#~ msgstr "부가 기능 살펴보기"
+
+#~ msgid "About Us"
+#~ msgstr "소개"
+
+#~ msgid "What is Thunderbird?"
+#~ msgstr "Thunderbird가 무엇인가요?"
+
+#~ msgid "Software made to make email easier."
+#~ msgstr "메일을 더 쉽게 사용하세요"
+
+#~ msgid ""
+#~ "Thunderbird is a free and open source email, newsfeed, chat, and calendaring client, that’s easy to set up and customize. One of the core principles of Thunderbird is the use and promotion of open "
+#~ "standards - this focus is a rejection of our world of closed platforms and services that can’t communicate with each other. We want our users to have freedom and choice in how they communicate."
+#~ msgstr ""
+#~ "Thunderbird는 쉽게 설정하고 개인화할 수 있는 무료 오픈소스 이메일, 뉴스피드, 채팅, 캘린더 클라이언트입니다. Thunderbird의 핵심 원리 중 하나는 공개 표준을 사용, 촉진하는 것으로 폐쇄적인 플랫폼과 서비스로 인해 서로 간 소통이 불가능한 세상을 만들지 않겠다는 목표를 가지고 있습니다. 우리는 사용자가 커뮤니케이션 방식을 결정하는 데"
+#~ " 자유와 선택권이 있기를 바랍니다."
+
+#~ msgid "Calendar screenshot"
+#~ msgstr "캘린더 스크린샷"
+
+#~ msgid "We are a community making communication free and open."
+#~ msgstr "우리는 자유롭고 열린 의사소통을 만들어가는 커뮤니티입니다."
+
+#~ msgid "Our Community"
+#~ msgstr "커뮤니티"
+
+#, python-format
+#~ msgid ""
+#~ "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
+#~ "to learn how you can participate on the Thunderbird team. We also have paid staff working full-time on Thunderbird, <a href=\"%(donate)s\" data-donate-btn data-donate-content=\"about\">funded by "
+#~ "donations</a> from our users. If you’re curious about who is working on Thunderbird, check out the <a href=\"%(core_team)s\">list of our core contributors</a>."
+#~ msgstr ""
+#~ "Thunderbird를 개발하고 사용자들을 지원하는데 헌신하는 열정적인 팀이 있고 여러분의 도움을 진심으로 환영합니다. Thunderbird 팀에 참여할 수 있는 방법은 <a href=\"%(volunteer)s\">참여하기 페이지</a>를 통해 확인하세요. 또한 Thunderbird에는 <a href=\"%(donate)s\" data-donate-"
+#~ "btn data-donate-content=\"about\">사용자들의 기부금</a>을 통해 지원을 받는 풀타임으로 일하는 직원이 있습니다. 만약 Thunderbird에서 일하는 사람들이 누구인지 궁금하시다면 <a href=\"%(core_team)s\">핵심 기여자 목록</a>을 통해 확인하세요."
+
+#~ msgid "Thunderbird Council"
+#~ msgstr "Thunderbird 이사회"
+
+#, python-format
+#~ msgid ""
+#~ "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
+#~ "href=\"%(council)s\">on the Thunderbird wiki</a>."
+#~ msgstr "Thunderbird 프로젝트는 Thunderbird 커뮤니티의 중요 기여자가 선출한 7명의 위원이 운영합니다. <a href=\"%(council)s\">Thunderbird 위키</a>에서 현재 선출된 Thunderbird 위원을 확인할 수 있습니다."
+
+#~ msgid "Our Mission"
+#~ msgstr "우리의 미션"
+
+#~ msgid "Organize your life — it&rsquo;s about time!"
+#~ msgstr "삶을 조화롭게 — 지금 시작하세요!"
+
+#~ msgid ""
+#~ "Organize your schedule and life’s important events in a calendar that’s fully integrated with your Thunderbird email. Manage multiple calendars, create your daily to do list, invite friends to "
+#~ "events, and subscribe to public calendars."
+#~ msgstr "Thunderbird 이메일과 완전히 통합된 캘린더에서 일정과 인생의 중요한 이벤트를 정리하세요. 여러 캘린더를 관리하고, 일일 할 일 목록을 만들고, 친구를 이벤트에 초대하고, 공개 캘린더를 구독하세요."
+
+#~ msgid "Get Support"
+#~ msgstr "도움 받기"
+
+#~ msgid "Need help with Calendar?"
+#~ msgstr "캘린더와 관련하여 도움이 필요하십니까?"
+
+#~ msgid "Need a break? Now you know when!"
+#~ msgstr "휴식이 필요한가요? 이제 언제인지 아실 수 있습니다!"
+
+#~ msgid "Bugzilla"
+#~ msgstr "Bugzilla"
+
+#~ msgid "Found a bug? Let us know!"
+#~ msgstr "버그를 찾으셨습니까? 저희에게 알려주십시오!"
+
+#~ msgid "Bugs Ahoy!"
+#~ msgstr "Bugs Ahoy!"
+
+#~ msgid "Want to make a difference? Fix a bug that fits your interests."
+#~ msgstr "변화를 원하십니까? 관심사에 맞는 버그를 수정하십시오."
+
+#~ msgid "Add your nation’s holidays to Calendar!"
+#~ msgstr "캘린더에 국가 공휴일을 추가하세요!"
+
+#~ msgid "Give to Thunderbird"
+#~ msgstr "Thunderbird에 기부하기"
+
+#~ msgid "Support Thunderbird"
+#~ msgstr "Thunderbird 지원"
+
+#~ msgid "Other Ways to Give"
+#~ msgstr "다른 기부 방법"
+
+#~ msgid "Support Thunderbird!"
+#~ msgstr "썬더버드를 지원하세요!"
+
+#~ msgid "Thunderbird is funded by users like you."
+#~ msgstr "Thunderbird는 귀하와 같은 사용자로부터 자금을 지원받습니다."
+
+#~ msgid "Contributions are not tax-deductible as charitable donations."
+#~ msgstr "기부금은 자선 기부금으로 세금 공제 대상이 아닙니다."
+
+#~ msgid "Thank you for downloading and installing Thunderbird!"
+#~ msgstr "Thunderbird를 설치해 주셔서 감사합니다!"
+
+#~ msgid "Your download didn't start automatically?"
+#~ msgstr "다운로드가 자동으로 시작하지 않았나요?"
+
+#~ msgid "Release Channel"
+#~ msgstr "출시 채널"
+
+#~ msgid "Try again"
+#~ msgstr "다시 시도하세요"
+
+#~ msgid "Beta Channel"
+#~ msgstr "베타 채널"
+
+#~ msgid "Daily Channel"
+#~ msgstr "데일리 채널"
+
+#~ msgid "Finish installing, and start enjoying Thunderbird."
+#~ msgstr "설치를 완료하고 Thunderbird를 즐겨보세요."
+
+#~ msgid "Should I use Beta?"
+#~ msgstr "베타를 사용해야 하나요?"
+
+#~ msgid "How to install and run Beta"
+#~ msgstr "베타 설치 및 실행 방법"
+
+#~ msgid "How do I go back to the regular release version?"
+#~ msgstr "일반 출시 버전으로 다시 돌아가려면 어떻게 해야 하나요?"
+
+#~ msgid "Resources and Assistance"
+#~ msgstr "리소스 및 지원"
+
+#~ msgid "Download Beta"
+#~ msgstr "베타 다운로드"
+
+#~ msgid "Important Considerations"
+#~ msgstr "중요한 고려 사항"
+
+#~ msgid "Before you download and test the beta, there are some important considerations to be aware of:"
+#~ msgstr "베타를 다운로드하고 테스트하기 전에 알아야 할 몇 가지 중요한 고려 사항이 있습니다:"
+
+#~ msgid "Add-ons"
+#~ msgstr "부가 기능"
+
+#~ msgid "Run Stable and Beta side-by-side (recommended)."
+#~ msgstr "Stable과 Beta를 나란히 실행합니다(권장)."
+
+#~ msgid "Upgrade your existing Thunderbird installation to beta."
+#~ msgstr "기존 Thunderbird 설치를 베타 버전으로 업그레이드합니다."
+
+#~ msgid "≡ > Help > About > Release Notes."
+#~ msgstr "≡ > 도움말 > 정보 > 릴리즈 노트"
+
+#~ msgid "Thunderbird Features"
+#~ msgstr "Thunderbird 기능 개요"
+
+#~ msgid "It’s all yours. It’s now easier to upgrade to Thunderbird."
+#~ msgstr "여러분의 필요에 맞춘 메일 프로그램 Thunderbird가 업그레이드가 더 쉬워졌습니다."
+
+#~ msgid "Easier to Get Started"
+#~ msgstr "바로 사용 하기"
+
+#~ msgid "Tabs and Search"
+#~ msgstr "탭 및 검색 기능"
+
+#~ msgid "Customize Your Email Experience"
+#~ msgstr "맞춤형 이메일 경험"
+
+#~ msgid "Secure and Protect Your Email"
+#~ msgstr "강력해진 이메일 보안"
+
+#~ msgid "Mail Account Setup Wizard"
+#~ msgstr "계정 설정 마법사"
+
+#~ msgid ""
+#~ "Prior to this feature you had to know your IMAP, SMTP, and SSL/TLS settings. Now all you need to provide is your name, email address, and password and the email account set up wizardry will check "
+#~ "our database and find the email settings for you."
+#~ msgstr "지금까지 메일 계정을 만들 때 서버의 자세한 구성 정보를 모두 입력해야했습니다. 새로운 Thunderbird는 이름과 이메일 주소, 암호만 입력하면 Mozilla의 공급자 데이터베이스에서 자동으로 서버 설정 정보를 검색합니다."
+
+#~ msgid "One-click Address Book"
+#~ msgstr "원클릭 주소록"
+
+#~ msgid ""
+#~ "One-click Address Book is a quick and easy way to add people to your address book. Add people by simply clicking on the star icon in the message you receive. Two clicks and you can add more details "
+#~ "like a photo, birthday, and other contact information."
+#~ msgstr "보내는 사람의 이메일 주소를 신속하면서도 쉽게 주소록에 등록 할 수 있게되었습니다. 받은 메시지에 ☆ 표 아이콘을 클릭하면 새로운 연락처를 추가 할 수 있습니다. 사진, 생일, 기타 연락처 정보를 편집하려면이 아이콘을 다시 클릭합니다."
+
+#~ msgid "Attachment Reminder"
+#~ msgstr "첨부 알리미"
+
+#~ msgid "The attachment reminder looks for the word attachment (and other words like file types) in the body of your message and reminds you to add an attachment before hitting send."
+#~ msgstr "메시지를 작성할 때 본문에 \"첨부\"등의 단어가 입력 될 때 알림 표시 줄을 표시하여 전송하기 전에 필요한 파일을 첨부 할 것을 알려 드립니다."
+
+#~ msgid "Multiple-channel chat"
+#~ msgstr "멀티채널 채팅"
+
+#~ msgid ""
+#~ "Enjoy real-time conversation with your contacts, right from your favorite messaging application, with multiple supported networks. Thunderbird makes it easy to search through both past conversations"
+#~ " and received emails."
+#~ msgstr "지원되는 여러 네트워크를 통해 즐겨 찾는 메시징 애플리케이션에서 바로 연락처와 실시간 대화를 즐기세요. Thunderbird를 사용하면 이전 대화와 받은 이메일을 모두 쉽게 검색 할 수 있습니다."
+
+#~ msgid "Tabbed Email"
+#~ msgstr "탭 이메일"
+
+#~ msgid ""
+#~ "If you like Firefox’s tabbed browsing, you’re going to love tabbed email. Tabbed email lets you load emails in separate tabs so you can quickly jump between them. Perhaps you’re responding to an "
+#~ "email and need to refer back to an earlier email. Tabbed email lets you keep multiple emails open for easy reference."
+#~ msgstr "Thunderbird는 Firefox 탭 브라우징처럼 여러 메시지를 개별 탭에 열고 빠르게 전환하여 볼 수 있습니다. 예를 들어, 메시지에 답장을 쓰고있는 도중에 이전에 읽은 메시지에 다시 내용을 확인하고자 할 때,이 탭 기능을 사용하면 여러 메시지를 한 번에 동일한 창에서 열린 상태로 둘 수 있기 때문에 쉽게 볼 수 있습니다."
+
+#~ msgid "When quitting Thunderbird, visible tabs will be saved and will be restored when you open Thunderbird the next time. There is also a Tab menu on the Tab toolbar to help you switch between Tabs."
+#~ msgstr "Thunderbird를 종료 할 때 열려있는 탭 상태가 기억되어, 다음 번 시작 시 복원됩니다. 탭 표시 줄의 오른쪽 끝에 열린 탭의 제목을 볼 수있는 드롭 다운 목록도 많은 탭을 열 때 쉽게 전환 할 수 있습니다."
+
+#~ msgid "Quick Filter Toolbar"
+#~ msgstr "빠른 필터 도구 모음"
+
+#~ msgid ""
+#~ "The Quick Filter Toolbar lets you filter your email faster. Start typing in words in the Quick Filter search box and the results are displayed instantly. Or you can filter your email by New "
+#~ "Messages, Tags, and people in your Address Book. You can also \"Pin\" or save a Filter and use it across multiple folders."
+#~ msgstr "빠른 필터 도구 모음은 폴더의 메시지를 빠르게 필터링 할 수 있는 기능입니다. 임의의 검색어를 입력하기 시작하면 즉시 결과가 표시됩니다. 읽지 않은 메시지 태그 발신자가 주소록에 등록되어 있는지 등 조건에서도 추출 할 수 있습니다. 또한 \"핀\"아이콘을 클릭하면 폴더보기를 전환해도 검색을 유지할 수 있습니다."
+
+#~ msgid "Search Tools"
+#~ msgstr "검색 도구"
+
+#~ msgid ""
+#~ "The search interface in Thunderbird contains filtering and timeline tools to pinpoint the exact email you’re looking for. Thunderbird also indexes all of your emails and chat conversations to help "
+#~ "you search even faster. Your search results are displayed in a tab so you can easily switch back and forth to your search results and other email."
+#~ msgstr "Thunderbird의 검색 인터페이스에는 찾고 있는 이메일을 정확히 찾아내는 필터링 및 타임 라인 도구가 포함되어 있습니다. Thunderbird는 또한 모든 이메일과 채팅 대화의 색인을 생성하여 더욱 빠르게 검색 할 수 있습니다. 검색 결과가 탭에 표시되므로 검색 결과 및 기타 이메일로 쉽게 전환 할 수 있습니다."
+
+#~ msgid "Message Archive"
+#~ msgstr "메시지 아카이브"
+
+#~ msgid ""
+#~ "If you think you’re going to need an email in the future but want it out of your inbox without deleting it, archive it! Archiving helps you manage your inbox and put your email into the archive "
+#~ "folder system."
+#~ msgstr "나중에 필요하게 될 것 같은 메시지를 제거하지 않고 받은 편지함에서 지우고 싶은 경우, 아카이브 기능을 활용하면 됩니다. 새 아카이브 폴더에 메시지를 이동하고, 받은 편지함을 정리할 수 있습니다."
+
+#~ msgid "Large Files Management"
+#~ msgstr "대용량 파일 관리"
+
+#~ msgid "Share large files with Thunderbird Filelink!"
+#~ msgstr "Thunderbird Filelink로 대용량 파일을 공유하십시오!"
+
+#~ msgid ""
+#~ "You can now speed up the transfer of large documents by uploading them to an online storage provider and sharing the link instead of sending the file directly as a message attachment. Improve the "
+#~ "speed of sending email and avoid message rejection if the recipient’s server disallows large files. As an added bonus, you’ll also save space in your sent folder and the recipient’s inbox."
+#~ msgstr "이제 대용량 문서를 온라인 스토리지 제공 업체에 업로드하고 파일을 메시지 첨부 파일로 직접 보내는 대신 링크를 공유하여 전송 속도를 높일 수 있습니다. 수신자의 서버에서 대용량 파일을 허용하지 않는 경우 이메일 전송 속도를 높이고 메일 거부를 방지합니다. 추가 보너스로 보낸 폴더와 받는 사람의 받은 편지함의 공간도 절약 할 수 있습니다."
+
+#~ msgid "Thunderbird Look & Feel"
+#~ msgstr "디자인 선택"
+
+#~ msgid ""
+#~ "Themes allow you to change the look of Thunderbird in an instant. Working on getting to inbox zero at night? Turn on the dark theme to make managing your email easier on the eyes. Thunderbird ships "
+#~ "with both light and dark themes, and more are available as add-ons."
+#~ msgstr "테마를 사용하면 Thunderbird의 모양을 즉시 변경할 수 있습니다. 밤에 받은 편지함을 사용하려고 하시나요? 어두운 테마를 켜면 이메일을 쉽게 관리 할 수 있습니다. Thunderbird에는 밝은 테마와 어두운 테마가 모두 포함되어 있으며 추가 기능으로 더 많은 것이 제공됩니다."
+
+#~ msgid "Smart Folders"
+#~ msgstr "스마트 폴더"
+
+#~ msgid ""
+#~ "Smart Folders help you manage multiple email accounts by combining special folders like your Inbox, Sent, or Archive folder. Instead of going to the Inbox for each of your mail accounts, you can see"
+#~ " all of your incoming email in one Inbox folder."
+#~ msgstr "스마트 폴더 모드에서는 별도의 사서함이 함께 표시되어 여러 개의 이메일 계정을 효율적으로 관리 할 수 있습니다. 예를 들어, 받은 편지함을 선택하면 각 계정을 개별적으로 열지 않고 모든 계정의 새 메시지를 표시 할 수 있습니다."
+
+#~ msgid "Add-ons Manager"
+#~ msgstr "부가 기능 관리자"
+
+#~ msgid ""
+#~ "Find and install add-ons directly in Thunderbird. You no longer need to visit the add-ons Web site - instead simply fire up the Add-ons Manager. Not sure which add-on is right for you? Ratings, "
+#~ "recommendations, descriptions and pictures of the add-ons in action help you make your selection."
+#~ msgstr "부가 기능 관리자를 열기 만하면 Thunderbird에서 직접 확장 기능을 검색하고 설치할 수있게되었습니다.  부가 기능 웹  사이트를 방문 할 필요가 더 이상 없습니다. 어떤 기능을 사용하면 좋을지 모르겠다 때도 사용자의 평가, 추천, 설명, 사진 등을보고 선택할 수 있습니다."
+
+#~ msgid "Robust Privacy"
+#~ msgstr "강력한 개인 정보 보호"
+
+#~ msgid "Thunderbird offers support for user privacy and remote image protection. To ensure a user’s privacy, Thunderbird automatically blocks remote images in email messages."
+#~ msgstr "Thunderbird는 HTML 메시지에 포함 된 원격 이미지로드를 차단하고 사용자의 개인 정보를 보호합니다."
+
+#~ msgid "Phishing Protection"
+#~ msgstr "피싱 경고 기능"
+
+#~ msgid ""
+#~ "Thunderbird protects you from email scams which try to trick users into handing over personal and confidential information by indicating when a message is a potential phishing attempt. As a second "
+#~ "line of defense, Thunderbird warns you when you click on a link which appears to be taking you to a different Web site than the one indicated by the URL in the message."
+#~ msgstr "Thunderbird는 수신 된 메시지에 개인 정보 나 기밀 정보를 속여 취하려는 피싱의 위험성이 의심되는 경우 경고를 표시합니다. 또한 추가 대책으로 메시지에 표시되는 URL과 실제로 열리는 웹 사이트가 다른 의심스러운 링크가 클릭 된 경우에도 브라우저에서 해당 사이트가 열리기 전에 경고를 표시합니다."
+
+#~ msgid "Automated Update"
+#~ msgstr "자동 업데이트"
+
+#~ msgid ""
+#~ "Thunderbird’s update system checks to see if you’re running the latest version, and notifies you when a security update is available. These security updates are small (usually 200KB - 700KB), giving"
+#~ " you only what you need and making the security update quick to download and install. The automated update system provides updates for Thunderbird on Windows, macOS, and Linux in over 40 different "
+#~ "languages."
+#~ msgstr ""
+#~ "Thunderbird 업데이트 시스템은 사용자가 최신 버전을 실행하고 있는지 확인하고 보안 업데이트가 제공 될 때 알려줍니다. 보안 업데이트는 작지만 (일반적으로 200KB - 700KB) 필요한 항목 만 제공하고 보안 업데이트를 다운로드하여 설치하는 작업을 신속하게 수행합니다. 자동 업데이트 시스템은 40  이상의 언어로 Windows, macOS 및"
+#~ " Linux에서 Thunderbird에 대한 업데이트를 제공합니다."
+
+#~ msgid "Cutting Out the Junk"
+#~ msgstr "학습형 스팸 필터"
+
+#~ msgid ""
+#~ "Thunderbird’s popular junk mail tools have been updated to stay ahead of spam. Each email you receive passes through Thunderbird’s leading-edge junk mail filters. Each time you mark messages as "
+#~ "spam, Thunderbird \"learns\" and improves its filtering so you can spend more time reading the mail that matters. Thunderbird can also use your mail provider’s spam filters to keep junk mail out of "
+#~ "your inbox."
+#~ msgstr ""
+#~ "이전부터 호평을 받고있는 스팸 방지 기능은 다양한 스팸 수법에 대응할 수 있도록 만들어져 있습니다. 모든 새 메시지는 학습형 스팸 필터로 해석됩니다. 사용자가 스팸 메일의 판정을 할 때마다, 그 내용이 축적되어 자동 판별의 정확도가 향상하기 때문에 더 많은 시간을 중요한 메시지 교환에 할애할 수 있습니다. 공급자와 사내 메일 서버의 스팸 필터를 "
+#~ "병용하면받은 편지함에서 스팸 메일이 격감하는 것입니다."
+
+#~ msgid "Open Source"
+#~ msgstr "오픈 소스"
+
+#~ msgid ""
+#~ "At the heart of Thunderbird is an open source development process driven by thousands of passionate, experienced developers and security experts spread all over the world. Our openness and active "
+#~ "community of experts helps to ensure our products are more secure and quickly updated, while also enabling us to take advantage of the best third party security scanning and evaluation tools to "
+#~ "further bolster overall security."
+#~ msgstr ""
+#~ "Thunderbird는 풍부한 경험이 개발자와 보안 전문가가 전세계에서 다수 참가하는 오픈 소스 개발 프로세스에 의해서 유지되고 있습니다. 투명한 환경 속에서 많은 전문가로부터 적극적인 협력을받는 것으로 보다 안전한 제품을 제공 할 수 있고, 만일 문제가보고 된 경우도 신속하게 수정 된 버전을 배포 할 수있는 체제를 갖추고 있습니다. 또한 동시에 뛰어난"
+#~ " 타사의 보안 검증 · 평가 도구를 활용하여 전체적인 보안 수준을 향상시키고 있습니다."
+
+#~ msgid "Thunderbird Vector Wordmark"
+#~ msgstr "Thunderbird Vector Wordmark"
+
+#~ msgid "Features"
+#~ msgstr "주요 기능"
+
+#~ msgid "Pay What You Want"
+#~ msgstr "원하는 대로 지불"
+
+#~ msgid "Thunderbird is independent, free, and Open Source software sustained by your donations. Help us keep the project alive!"
+#~ msgstr "Thunderbird는 사용자의 기부로 유지되는 독립적이고 무료인 오픈 소스 소프트웨어입니다. 프로젝트를 계속 할 수 있도록 도와주세요!"
+
+#~ msgid "Donate & Download"
+#~ msgstr "기부 및 다운로드"
+
+#~ msgid "No Thanks, Download Now!"
+#~ msgstr "아니요, 지금 다운로드합니다!"
+
+#~ msgid "Secure"
+#~ msgstr "보안"
+
+#~ msgid "Privacy Policy"
+#~ msgstr "개인정보 보호 정책"
+
+#~ msgid "Other ways to donate"
+#~ msgstr "다른 기부 방법"
+
+#~ msgid "FAQ"
+#~ msgstr "자주하는 질문"
+
+#~ msgid "Systems &amp; Languages"
+#~ msgstr "시스템 &amp; 언어선택"
+
+#~ msgid "What’s New"
+#~ msgstr "새로운 기능"
+
+#~ msgid "Page language:"
+#~ msgstr "페이지 언어:"
+
+#~ msgid "Other languages:"
+#~ msgstr "언어별:"
+
+#~ msgid "For Organizations"
+#~ msgstr "기업용"
+
+#~ msgid "Thunderbird is an open source project, which means anyone can contribute ideas, designs, code, and time helping fellow users."
+#~ msgstr "Thunderbird는 누구나 아이디어, 디자인, 코드, 그리고 시간을 들여 다른 사용자를 돕는데 참여할 수 있는 오픈소스 프로젝트입니다."
+
+#~ msgid "Join Us"
+#~ msgstr "참여하기"
+
+#~ msgid "Make a Donation"
+#~ msgstr "기부하기"
+
+#~ msgid "The Future of Thunderbird"
+#~ msgstr "Thunderbird의 미래"
+
+#~ msgid "Experience cutting edge features. Provide feedback to help refine and polish what will be in the final release."
+#~ msgstr "최첨단 기능을 경험하세요. 피드백을 주시면 최종 버전을 개선하고 다듬는 데 도움이 됩니다."
+
+#~ msgid "Help us test the newest developments made to Thunderbird every day by using the unstable Daily channel."
+#~ msgstr "매일 제공하는 불안정 Daily 채널을 사용하여 Thunderbird에 적용된 최신 개발 사항을 테스트 할 수 있도록 도와주세요."
+
+#~ msgid "WARNING!"
+#~ msgstr "경고!"
+
+#~ msgid "Daily is an unstable testing and development platform, make sure you back up important data regularly!"
+#~ msgstr "Daily는 불안정한 테스트 및 개발 플랫폼이므로 중요한 데이터를 정기적으로 백업하세요!"
+
+#~ msgid "Download Daily"
+#~ msgstr "Daily 개발 버전 다운로드"
+
+#~ msgid "View previous newsletters"
+#~ msgstr "이전 소식 보기"
+
+#~ msgid "Download Thunderbird in your language"
+#~ msgstr "사용하는 언어로 Thunderbird 다운로드"
+
+#~ msgid "Be one of the first to try the newest features in Thunderbird. By giving us your feedback, you’ll help us to refine the features that will be included in the final version."
+#~ msgstr "Thunderbird의 최신 기능을 가장 먼저 사용해 보세요. 보내주신 의견은 최종 버전에 포함될 기능을 개선하는 데 도움이 됩니다."
+
+#~ msgid "Get the award-winning email application from Mozilla. Import your existing mail and enjoy our new features like tabbed email and advanced search."
+#~ msgstr "수상 경력에 빛나는 Mozilla의 이메일 애플리케이션을 설치하세요. 기존 이메일을 가져와 탭으로 관리하는 이메일이나 고급 검색과 같은 새로운 기능을 즐기시길 바랍니다."
+
+#~ msgid "Check the system requirements"
+#~ msgstr "시스템 요구사항 확인"
+
+#~ msgid "Release notes"
+#~ msgstr "출시 안내"
+
+#~ msgid "All Releases"
+#~ msgstr "전체 출시 현황"
+
+#~ msgid "Fully localized versions"
+#~ msgstr "완전히 현지화된 버전"
+
+#~ msgid "Choose your Language and Operating System"
+#~ msgstr "사용자 언어와 운영 체제를 선택하십시오"
+
+#~ msgid "Download Beta in your language"
+#~ msgstr "사용중인 언어로 베타 다운로드"
+
+#~ msgid "Fully localized beta versions"
+#~ msgstr "언어별 베타 버전"
+
+#~ msgid "Thunderbird Release Notes"
+#~ msgstr "Thunderbird 출시 정보"
+
+#~ msgid "Release notes for each version of Thunderbird."
+#~ msgstr "각 버전의 Thunderbird 출시 기록"
+
+#~ msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
+#~ msgstr "Thunderbird 출시 기록은 특정 버전의 애플리케이션에만 해당됩니다. 사용하고 계신 버전을 목록에서 찾아 출시 기록을 확인하세요."
 
 #~ msgid ""
 #~ "Thunderbird is now part of\n"
