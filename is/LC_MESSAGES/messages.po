@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-04-18 15:50-0700\n"
-"PO-Revision-Date: 2024-04-09 16:35+0000\n"
+"PO-Revision-Date: 2024-04-19 09:12+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: none\n"
 "Language: is\n"
@@ -206,11 +206,11 @@ msgstr "Síðan sem þú ert að leita að er ekki til. Ef þú telur að þetta
 
 #: sites/www.thunderbird.net/404.html:10
 msgid "There's Nothing Here"
-msgstr ""
+msgstr "Það er ekkert hér"
 
 #: sites/www.thunderbird.net/404.html:12
 msgid "????"
-msgstr ""
+msgstr "????"
 
 #: sites/www.thunderbird.net/404.html:21
 msgid "Empty nest"
@@ -312,6 +312,13 @@ msgid ""
 "          always put your privacy and security first.\n"
 "          "
 msgstr ""
+"\n"
+"          Thunderbird er fjármagnað með framlögum notenda. Við söfnum ekki persónulegum upplýsingum, seljum ekki auglýsingar\n"
+"          eða laumumst til að þjálfa AI-gervigreindarkerfi með persónulegum samskiptum þínum.\n"
+"          Thunderbird er <a href=\"%(open_source)s\">hugbúnaður með opinn grunnkóða</a>. Verandi hluti af <a\n"
+"            href=\"%(mozilla)s\">Mozilla</a>-fjölskyldunni ættirðu að geta treyst því að við setjum\n"
+"          alltaf friðhelgi þína ög öryggi í fyrsta sæti.\n"
+"          "
 
 #: sites/www.thunderbird.net/index.html:138
 msgid "Learn Who We Are"
@@ -466,11 +473,11 @@ msgstr "Thunderbird er ókeypis póstforrit sem er auðvelt að setja upp og sé
 
 #: sites/www.thunderbird.net/about/index.html:10 sites/www.thunderbird.net/includes/base/footer.html:33 sites/www.thunderbird.net/includes/base/nav.html:52
 msgid "About"
-msgstr ""
+msgstr "Um hugbúnaðinn"
 
 #: sites/www.thunderbird.net/about/index.html:16
 msgid "Meet <span class=\"txt-gradient\">Thunderbird</span>"
-msgstr ""
+msgstr "Kynntu þér <span class=\"txt-gradient\">Thunderbird</span>"
 
 #: sites/www.thunderbird.net/about/index.html:17
 msgid ""
@@ -480,7 +487,7 @@ msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:23
 msgid "Values"
-msgstr ""
+msgstr "Gildi"
 
 #: sites/www.thunderbird.net/about/index.html:41
 msgid "Guided by <span class=\"txt-gradient\">Values</span>"
@@ -488,7 +495,7 @@ msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:45
 msgid "A shield with the Thunderbird logo."
-msgstr ""
+msgstr "Skjöldur með Thunderbird-merkinu."
 
 #: sites/www.thunderbird.net/about/index.html:48 sites/www.thunderbird.net/includes/appeal-footer.html:7 sites/www.thunderbird.net/includes/base/footer.html:54
 #: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:350 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:426
@@ -523,19 +530,19 @@ msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:57
 msgid "Read the Privacy Policy"
-msgstr ""
+msgstr "Lestu stefnuna varðandi meðferð persónuupplýsinga"
 
 #: sites/www.thunderbird.net/about/index.html:62
 msgid "A key with the Thunderbird logo."
-msgstr ""
+msgstr "Lykill með Thunderbird-merkinu."
 
 #: sites/www.thunderbird.net/about/index.html:65
 msgid "Freedom"
-msgstr ""
+msgstr "Frelsi"
 
 #: sites/www.thunderbird.net/about/index.html:66
 msgid "Thunderbird belongs to you (and the world)."
-msgstr ""
+msgstr "Thunderbird tilheyrir þér (og heiminum öllum)."
 
 #: sites/www.thunderbird.net/about/index.html:67
 msgid ""
@@ -549,7 +556,7 @@ msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:73
 msgid "A speech bubble with the Thunderbird logo."
-msgstr ""
+msgstr "Talblaðra með Thunderbird-merkinu."
 
 #: sites/www.thunderbird.net/about/index.html:76
 msgid "Voice"
@@ -616,7 +623,7 @@ msgstr "Dagatal"
 #: sites/www.thunderbird.net/includes/base/footer.html:22 sites/www.thunderbird.net/includes/base/nav.html:36 sites/www.thunderbird.net/newsletter/index.html:10
 #: sites/www.thunderbird.net/thank-you/index.html:10 sites/www.thunderbird.net/thunderbird/all/index.html:11
 msgid "Resources"
-msgstr ""
+msgstr "Tilföng"
 
 #: sites/www.thunderbird.net/calendar/index.html:17
 msgid "Looking For Holiday Calendars?"
@@ -2864,7 +2871,6 @@ msgstr ""
 #~ msgid "Our Community"
 #~ msgstr "Samfélagið okkar"
 
-#, python-format
 #~ msgid ""
 #~ "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
 #~ "to learn how you can participate on the Thunderbird team. We also have paid staff working full-time on Thunderbird, <a href=\"%(donate)s\" data-donate-btn data-donate-content=\"about\">funded by "
@@ -2878,7 +2884,6 @@ msgstr ""
 #~ msgid "Thunderbird Council"
 #~ msgstr "Thunderbird-ráðið"
 
-#, python-format
 #~ msgid ""
 #~ "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
 #~ "href=\"%(council)s\">on the Thunderbird wiki</a>."
@@ -3467,7 +3472,6 @@ msgstr ""
 #~ msgid "Check (via postal service)"
 #~ msgstr "Ávísun (í gegnum póstþjónustu)"
 
-#, python-format
 #~ msgid ""
 #~ "MZLA/Thunderbird is happy to accept your donation <span class=\"%(class)s\">(made payable to “MZLA Technologies Corp”)</span> via check;\n"
 #~ "    however please note that we can only accept checks in US dollars drawn on a US bank."
