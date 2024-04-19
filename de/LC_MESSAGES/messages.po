@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-04-18 15:50-0700\n"
-"PO-Revision-Date: 2024-04-08 18:15+0000\n"
+"PO-Revision-Date: 2024-04-19 14:50+0000\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language-Team: none\n"
 "Language: de\n"
@@ -212,11 +212,11 @@ msgstr "Die von Ihnen gesuchte Seite existiert nicht.<br/>Wenn Sie dies für ein
 
 #: sites/www.thunderbird.net/404.html:10
 msgid "There's Nothing Here"
-msgstr ""
+msgstr "Hier ist nichts!"
 
 #: sites/www.thunderbird.net/404.html:12
 msgid "????"
-msgstr ""
+msgstr "????"
 
 #: sites/www.thunderbird.net/404.html:21
 msgid "Empty nest"
@@ -251,6 +251,10 @@ msgid ""
 "          <strong>calendar</strong>, and <strong>contacts</strong> app that maximizes your freedoms.\n"
 "          "
 msgstr ""
+"\n"
+"          Lernen Sie Thunderbird kennen, die <strong>E-Mail-Adresse</strong>\n"
+"          <strong>Kalender</strong> und <strong>Kontakte</strong>-App, die Ihre Freiheiten maximiert.\n"
+"          "
 
 #: sites/www.thunderbird.net/download/index.html:8 sites/www.thunderbird.net/download/index.html:17 sites/www.thunderbird.net/includes/base/nav.html:78 sites/www.thunderbird.net/index.html:34
 #: sites/www.thunderbird.net/index.html:344 sites/www.thunderbird.net/thunderbird/all/index.html:9 sites/www.thunderbird.net/thunderbird/all/index.html:100
@@ -315,10 +319,13 @@ msgid ""
 "          always put your privacy and security first.\n"
 "          "
 msgstr ""
+"Thunderbird wird durch Spenden von Nutzern finanziert. Wir sammeln keine persönlichen Daten, verkaufen keine Werbung in Ihrem Posteingang und trainieren auch nicht heimlich KI mit Ihren privaten "
+"Konversationen. Thunderbird ist <a href=\"%(open_source)s\">Open Source</a>. Als Teil der <a href=\"%(mozilla)s\">Mozilla</a>-Familie können Sie sicher sein, dass Ihre Privatsphäre und Sicherheit "
+"für uns immer zuerst kommen."
 
 #: sites/www.thunderbird.net/index.html:138
 msgid "Learn Who We Are"
-msgstr ""
+msgstr "Erfahren Sie, wer wir sind"
 
 #: sites/www.thunderbird.net/index.html:147
 msgid "Firefox planet"
@@ -447,11 +454,11 @@ msgstr "Thunderbird ist eine freie E-Mail-Anwendung, die sich leicht einrichten 
 
 #: sites/www.thunderbird.net/about/index.html:10 sites/www.thunderbird.net/includes/base/footer.html:33 sites/www.thunderbird.net/includes/base/nav.html:52
 msgid "About"
-msgstr ""
+msgstr "Über"
 
 #: sites/www.thunderbird.net/about/index.html:16
 msgid "Meet <span class=\"txt-gradient\">Thunderbird</span>"
-msgstr ""
+msgstr "Lernen Sie <span class=\"txt-gradient\">Thunderbird</span> kennen"
 
 #: sites/www.thunderbird.net/about/index.html:17
 msgid ""
@@ -2864,7 +2871,6 @@ msgstr ""
 #~ msgid "Our Community"
 #~ msgstr "Unsere Gemeinschaft"
 
-#, python-format
 #~ msgid ""
 #~ "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
 #~ "to learn how you can participate on the Thunderbird team. We also have paid staff working full-time on Thunderbird, <a href=\"%(donate)s\" data-donate-btn data-donate-content=\"about\">funded by "
@@ -2878,7 +2884,6 @@ msgstr ""
 #~ msgid "Thunderbird Council"
 #~ msgstr "Thunderbird-Rat"
 
-#, python-format
 #~ msgid ""
 #~ "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
 #~ "href=\"%(council)s\">on the Thunderbird wiki</a>."
@@ -3487,7 +3492,6 @@ msgstr ""
 #~ msgid "Check (via postal service)"
 #~ msgstr "Scheck (per Post)"
 
-#, python-format
 #~ msgid ""
 #~ "MZLA/Thunderbird is happy to accept your donation <span class=\"%(class)s\">(made payable to “MZLA Technologies Corp”)</span> via check;\n"
 #~ "    however please note that we can only accept checks in US dollars drawn on a US bank."
