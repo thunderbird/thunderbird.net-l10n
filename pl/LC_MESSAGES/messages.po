@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-04-18 15:50-0700\n"
-"PO-Revision-Date: 2024-04-21 13:22+0000\n"
+"PO-Revision-Date: 2024-04-21 13:29+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: none\n"
 "Language: pl\n"
@@ -1317,7 +1317,7 @@ msgstr "Tylko pliki JPG, PNG i BMP"
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:185 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:187
 msgid "Name"
-msgstr ""
+msgstr "Imię i nazwisko"
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:191 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:193
 msgid "Email"
@@ -1326,7 +1326,7 @@ msgstr "E-mail"
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:199
 #, python-format
 msgid "Thunderbird will only use your submitted information for purposes of communicating with you about your request. See our <a href=\"%(url)s\">privacy policy</a> for further information."
-msgstr ""
+msgstr "Thunderbird będzie używać przesłanych informacji wyłącznie w celu komunikowania się z Tobą na ten temat. Nasze <a href=\"%(url)s\">zasady ochrony prywatności</a> zawierają więcej informacji."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:206
 msgid "We are unable to offer help with Thunderbird technical issues through the Donor Help form."
@@ -1427,7 +1427,7 @@ msgstr "reCAPTCHA pomaga zapobiegać automatycznemu spamowaniu komentarzy."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:274
 msgid "The submit button will be disabled until you complete the CAPTCHA."
-msgstr ""
+msgstr "Przycisk będzie wyłączony do czasu ukończenia CAPTCHA."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:278
 msgid "Submit"
@@ -1443,6 +1443,8 @@ msgid ""
 "\n"
 " See exciting previews of upcoming features, read the latest desktop Thunderbird and mobile Thunderbird news, and enjoy personalized tips to protect your privacy and maximize your productivity! From the Thunderbird team directly to your inbox.\n"
 msgstr ""
+"\n"
+" Poznaj ekscytujące zapowiedzi nadchodzących funkcji, przeczytaj najnowsze wiadomości dotyczące Thunderbirda na komputery stacjonarne i urządzenia mobilne oraz korzystaj ze spersonalizowanych wskazówek, które pomogą Ci chronić prywatność i zwiększyć produktywność! Od zespołu Thunderbirda bezpośrednio do Twojej skrzynki odbiorczej.\n"
 
 #: sites/www.thunderbird.net/participate/index.html:16
 msgid "We Need Your <span class=\"txt-gradient\">Talents</span>"
@@ -1530,23 +1532,23 @@ msgstr ""
 
 #: sites/www.thunderbird.net/participate/index.html:92
 msgid "Reddit"
-msgstr ""
+msgstr "Reddit"
 
 #: sites/www.thunderbird.net/participate/index.html:93
 msgid "Mastodon"
-msgstr ""
+msgstr "Mastodon"
 
 #: sites/www.thunderbird.net/participate/index.html:94
 msgid "X (Formerly Twitter)"
-msgstr ""
+msgstr "Twitter"
 
 #: sites/www.thunderbird.net/participate/index.html:95
 msgid "YouTube"
-msgstr ""
+msgstr "YouTube"
 
 #: sites/www.thunderbird.net/participate/index.html:96
 msgid "TILVids"
-msgstr ""
+msgstr "TILVids"
 
 #: sites/www.thunderbird.net/participate/index.html:100
 msgid "Design"
@@ -1651,7 +1653,7 @@ msgstr ""
 
 #: sites/www.thunderbird.net/thank-you/index.html:23
 msgid "Finish installing, and start enjoying <span class=\"txt-gradient\">Thunderbird</span>."
-msgstr ""
+msgstr "Dokończ instalację i zacznij cieszyć się <span class=\"txt-gradient\">Thunderbirdem</span>."
 
 #: sites/www.thunderbird.net/thank-you/index.html:25 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:92
 #, python-format
@@ -1970,6 +1972,12 @@ msgid ""
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
+"Thunderbird jest częścią\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
+"      firmy w całości kontrolowanej przez Mozilla Foundation.\n"
+"      Prawa autorskie ©1998–%(current_year)s fragmentów treści tej witryny\n"
+"      należą do poszczególnych współtwórców. Treść strony jest dostępna\n"
+"      na licencji <a href=\"%(url)s\" class=\"inline-link\">Creative Commons</a>."
 
 #: sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:63
 msgid ""
