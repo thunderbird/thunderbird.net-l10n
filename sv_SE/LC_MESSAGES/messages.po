@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-04-18 15:50-0700\n"
-"PO-Revision-Date: 2024-04-21 07:42+0000\n"
+"PO-Revision-Date: 2024-04-21 07:52+0000\n"
 "Last-Translator: Andreas Pettersson <az@kth.se>\n"
 "Language-Team: none\n"
 "Language: sv_SE\n"
@@ -1231,6 +1231,10 @@ msgid ""
 "        informed.\n"
 "        "
 msgstr ""
+"\n"
+"        Thunderbird blir hela tiden bättre. Prenumerera på vårt nyhetsbrev och följ oss på sociala medier\n"
+"        för att hålla dig uppdaterad.\n"
+"        "
 
 #: sites/www.thunderbird.net/includes/base/page.html:102 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:313 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:234
 #: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:253 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:370
@@ -1249,7 +1253,7 @@ msgstr "Följ %(mastodon)s på Mastodon"
 #: sites/www.thunderbird.net/includes/base/page.html:116
 #, python-format
 msgid "Follow %(facebook)s on Facebook"
-msgstr ""
+msgstr "Följ %(facebook)s på Facebook"
 
 #: sites/www.thunderbird.net/includes/base/page.html:120
 #, python-format
@@ -1498,24 +1502,28 @@ msgid ""
 "\n"
 " See exciting previews of upcoming features, read the latest desktop Thunderbird and mobile Thunderbird news, and enjoy personalized tips to protect your privacy and maximize your productivity! From the Thunderbird team directly to your inbox.\n"
 msgstr ""
+"\n"
+"Se spännande förhandstittar av kommande funktioner, läs de senaste nyheterna från Thunderbird och mobila Thunderbird och njut av personliga tips för att skydda din integritet och maximera din produktivitet! Från Thunderbird-teamet direkt till din inkorg.\n"
 
 #: sites/www.thunderbird.net/participate/index.html:16
 msgid "We Need Your <span class=\"txt-gradient\">Talents</span>"
-msgstr ""
+msgstr "Vi behöver dina <span class=\"txt-gradient\">talanger</span>"
 
 #: sites/www.thunderbird.net/participate/index.html:17
 msgid "Everyone can be a contributor. Here are some of the ways you can help."
-msgstr ""
+msgstr "Alla kan vara bidragsgivare. Här är några av sätten du kan hjälpa till."
 
 #: sites/www.thunderbird.net/participate/index.html:19
 msgid "Code"
-msgstr "Kod"
+msgstr "Koda"
 
 #: sites/www.thunderbird.net/participate/index.html:21
 msgid ""
 "If you have programming experience there are a lot of ways to contribute to the Thunderbird project. Get started by identifying the area where you have the most experience and interest and following"
 " the steps to get started:"
 msgstr ""
+"Om du har erfarenhet av programmering finns det många sätt att bidra till Thunderbird-projektet. Kom igång genom att identifiera det område där du har störst erfarenhet och intresse och följ stegen "
+"för att komma igång:"
 
 #: sites/www.thunderbird.net/participate/index.html:27
 msgid "Desktop Development:"
@@ -1531,37 +1539,43 @@ msgstr "Webbplatsutveckling:"
 
 #: sites/www.thunderbird.net/participate/index.html:51
 msgid "Test"
-msgstr ""
+msgstr "Testa"
 
 #: sites/www.thunderbird.net/participate/index.html:53
 msgid ""
 "With so many unique hardware environments and workflows, community members who test pre-release builds of Thunderbird play a vital role in the quality of the software. Plus, you help catch bugs "
 "before they can reach the general public!"
 msgstr ""
+"Med så många unika hårdvarumiljöer och arbetsflöden spelar communitymedlemmar som testar pre-release-versioner av Thunderbird en viktig roll för kvaliteten på programvaran. Dessutom hjälper du till "
+"att hitta buggar innan de når allmänheten!"
 
 #: sites/www.thunderbird.net/participate/index.html:60
 msgid "Translate"
-msgstr ""
+msgstr "Översätta"
 
 #: sites/www.thunderbird.net/participate/index.html:62
 msgid ""
 "The entire world deserves free and open source software, and Thunderbird is currently translated in more than 50 languages! Use your multilingual talents to help make Thunderbird more widely "
 "available than ever."
 msgstr ""
+"Hela världen förtjänar fri programvara med öppen källkod och Thunderbird är för närvarande översatt till mer än 50 språk! Använd dina flerspråkiga talanger för att göra Thunderbird mer tillgänglig "
+"än någonsin."
 
 #: sites/www.thunderbird.net/participate/index.html:69
 msgid "Support"
-msgstr ""
+msgstr "Support"
 
 #: sites/www.thunderbird.net/participate/index.html:71
 msgid ""
 "Are you an experienced Thunderbird user who loves lending a helping hand? Put your knowledge to great use by joining our Support Crew and helping users around the world with their Thunderbird "
 "questions."
 msgstr ""
+"Är du en erfaren Thunderbird-användare som älskar att ge en hjälpande hand? Använd dina kunskaper till stor nytta genom att gå med i vårt supportteam och hjälpa användare över hela världen med deras"
+" Thunderbird-frågor."
 
 #: sites/www.thunderbird.net/participate/index.html:72
 msgid "You can join our Thunderbird Community Support Matrix room to get and give user support."
-msgstr ""
+msgstr "Du kan gå med i vårt Thunderbird Community Support Matrix-rum för att få och ge användarsupport."
 
 #: sites/www.thunderbird.net/participate/index.html:78
 msgid "Document"
@@ -1577,13 +1591,15 @@ msgstr ""
 
 #: sites/www.thunderbird.net/participate/index.html:88
 msgid "Promote"
-msgstr ""
+msgstr "Främja"
 
 #: sites/www.thunderbird.net/participate/index.html:90
 msgid ""
 "Advocacy is one of the easiest ways to contribute to Thunderbird! Boosting our posts on Mastodon, showcasing the software to a friend, upvoting a helpful answer on Reddit; anything that adds "
 "visibility is a huge help. Here’s where to find us on various social platforms, and how to get involved."
 msgstr ""
+"Advocacy är ett av de enklaste sätten att bidra till Thunderbird! Boosta våra inlägg på Mastodon, visa upp programvaran för en vän, rösta upp ett användbart svar på Reddit; allt som ger synlighet är"
+" till stor hjälp. Här hittar du oss på olika sociala plattformar och hur du kan engagera dig."
 
 #: sites/www.thunderbird.net/participate/index.html:92
 msgid "Reddit"
