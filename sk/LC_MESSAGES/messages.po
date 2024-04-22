@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-04-22 10:15-0700\n"
-"PO-Revision-Date: 2024-04-08 20:51+0000\n"
+"PO-Revision-Date: 2024-04-22 18:32+0000\n"
 "Last-Translator: wladow <valastiak@mozilla.sk>\n"
 "Language-Team: none\n"
 "Language: sk\n"
@@ -211,11 +211,11 @@ msgstr "Stránka, ktorú hľadáte, neexistuje.<br/>Ak si myslíte, že ide o ch
 
 #: sites/www.thunderbird.net/404.html:10
 msgid "There's Nothing Here"
-msgstr ""
+msgstr "Tu nič nie je!"
 
 #: sites/www.thunderbird.net/404.html:12
 msgid "????"
-msgstr ""
+msgstr "????"
 
 #: sites/www.thunderbird.net/404.html:21
 msgid "Empty nest"
@@ -449,11 +449,11 @@ msgstr "Thunderbird je voľne dostupná aplikácia na správu pošty, ktorá sa 
 #: sites/www.thunderbird.net/about/index.html:10 sites/www.thunderbird.net/contact/index.html:10 sites/www.thunderbird.net/includes/base/footer.html:33
 #: sites/www.thunderbird.net/includes/base/nav.html:52
 msgid "About"
-msgstr ""
+msgstr "O nás"
 
 #: sites/www.thunderbird.net/about/index.html:16
 msgid "Meet <span class=\"txt-gradient\">Thunderbird</span>"
-msgstr ""
+msgstr "Zoznámte sa s <span class=\"txt-gradient\">Thunderbirdom</span>"
 
 #: sites/www.thunderbird.net/about/index.html:17
 msgid ""
@@ -463,15 +463,15 @@ msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:23
 msgid "Values"
-msgstr ""
+msgstr "Hodnoty"
 
 #: sites/www.thunderbird.net/about/index.html:27
 msgid "Community"
-msgstr ""
+msgstr "Komunita"
 
 #: sites/www.thunderbird.net/about/index.html:31
 msgid "Organization"
-msgstr ""
+msgstr "Organizácia"
 
 #: sites/www.thunderbird.net/about/index.html:41
 msgid "Guided by <span class=\"txt-gradient\">Values</span>"
@@ -479,7 +479,7 @@ msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:45
 msgid "A shield with the Thunderbird logo."
-msgstr ""
+msgstr "Štít s logom Thunderbirdu"
 
 #: sites/www.thunderbird.net/about/index.html:48 sites/www.thunderbird.net/includes/appeal-footer.html:7 sites/www.thunderbird.net/includes/base/footer.html:54
 #: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:350 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:426
@@ -490,7 +490,7 @@ msgstr "Súkromie"
 
 #: sites/www.thunderbird.net/about/index.html:49
 msgid "You are not the product."
-msgstr ""
+msgstr "Vy nie ste produkt."
 
 #: sites/www.thunderbird.net/about/index.html:50
 msgid "To us, data ownership and privacy are your right wherever you live. Our commitment to <strong>your personal data</strong> is simple:"
@@ -522,7 +522,7 @@ msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:65
 msgid "Freedom"
-msgstr ""
+msgstr "Sloboda"
 
 #: sites/www.thunderbird.net/about/index.html:66
 msgid "Thunderbird belongs to you (and the world)."
@@ -577,7 +577,7 @@ msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:95
 msgid "Our Contributors"
-msgstr ""
+msgstr "Naši prispievatelia"
 
 #: sites/www.thunderbird.net/about/index.html:101
 msgid "Supported by <span class=\"txt-gradient\">Mozilla</span>"
@@ -607,7 +607,7 @@ msgstr "Kalendár"
 #: sites/www.thunderbird.net/includes/base/footer.html:22 sites/www.thunderbird.net/includes/base/nav.html:36 sites/www.thunderbird.net/newsletter/index.html:10
 #: sites/www.thunderbird.net/thank-you/index.html:10 sites/www.thunderbird.net/thunderbird/all/index.html:11
 msgid "Resources"
-msgstr ""
+msgstr "Zdroje"
 
 #: sites/www.thunderbird.net/calendar/index.html:17
 msgid "Looking For Holiday Calendars?"
@@ -655,11 +655,11 @@ msgstr ""
 
 #: sites/www.thunderbird.net/contact/index.html:20 sites/www.thunderbird.net/participate/index.html:69
 msgid "Support"
-msgstr ""
+msgstr "Podpora"
 
 #: sites/www.thunderbird.net/contact/index.html:20
 msgid "Support Website"
-msgstr ""
+msgstr "Stránka podpory"
 
 #: sites/www.thunderbird.net/contact/index.html:21
 msgid ""
@@ -674,7 +674,7 @@ msgstr ""
 
 #: sites/www.thunderbird.net/contact/index.html:30
 msgid "Security"
-msgstr ""
+msgstr "Bezpečnosť"
 
 #: sites/www.thunderbird.net/contact/index.html:30
 msgid "Bugzilla"
@@ -688,7 +688,7 @@ msgstr ""
 
 #: sites/www.thunderbird.net/contact/index.html:33
 msgid "Media"
-msgstr ""
+msgstr "Médiá"
 
 #: sites/www.thunderbird.net/contact/index.html:33
 msgid "Outreach Team"
@@ -2925,7 +2925,6 @@ msgstr ""
 #~ msgid "Our Community"
 #~ msgstr "Naša komunita"
 
-#, python-format
 #~ msgid ""
 #~ "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
 #~ "to learn how you can participate on the Thunderbird team. We also have paid staff working full-time on Thunderbird, <a href=\"%(donate)s\" data-donate-btn data-donate-content=\"about\">funded by "
@@ -2938,7 +2937,6 @@ msgstr ""
 #~ msgid "Thunderbird Council"
 #~ msgstr "Rada Thunderbirdu"
 
-#, python-format
 #~ msgid ""
 #~ "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
 #~ "href=\"%(council)s\">on the Thunderbird wiki</a>."
@@ -3514,7 +3512,6 @@ msgstr ""
 #~ msgid "Check (via postal service)"
 #~ msgstr "Šek (prostredníctvom pošty)"
 
-#, python-format
 #~ msgid ""
 #~ "MZLA/Thunderbird is happy to accept your donation <span class=\"%(class)s\">(made payable to “MZLA Technologies Corp”)</span> via check;\n"
 #~ "    however please note that we can only accept checks in US dollars drawn on a US bank."
