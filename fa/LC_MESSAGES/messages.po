@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-04-18 15:50-0700\n"
+"POT-Creation-Date: 2024-04-22 10:15-0700\n"
 "PO-Revision-Date: 2020-03-15 19:03+0000\n"
 "Last-Translator: abtin <abtin@riseup.net>\n"
 "Language-Team: none\n"
@@ -428,13 +428,14 @@ msgstr ""
 msgid "Who We Are"
 msgstr "ما کی هستیم"
 
-#: sites/www.thunderbird.net/about/index.html:9 sites/www.thunderbird.net/calendar/holidays/index.html:9 sites/www.thunderbird.net/calendar/index.html:9 sites/www.thunderbird.net/donate/index.html:9
-#: sites/www.thunderbird.net/download/index.html:9 sites/www.thunderbird.net/newsletter/index.html:9 sites/www.thunderbird.net/participate/index.html:9 sites/www.thunderbird.net/thank-you/index.html:9
-#: sites/www.thunderbird.net/thunderbird/all/index.html:10 sites/www.thunderbird.net/thunderbird/releases/index.html:9
+#: sites/www.thunderbird.net/about/index.html:9 sites/www.thunderbird.net/calendar/holidays/index.html:9 sites/www.thunderbird.net/calendar/index.html:9 sites/www.thunderbird.net/contact/index.html:9
+#: sites/www.thunderbird.net/donate/index.html:9 sites/www.thunderbird.net/download/index.html:9 sites/www.thunderbird.net/newsletter/index.html:9 sites/www.thunderbird.net/participate/index.html:9
+#: sites/www.thunderbird.net/thank-you/index.html:9 sites/www.thunderbird.net/thunderbird/all/index.html:10 sites/www.thunderbird.net/thunderbird/releases/index.html:9
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
 msgstr "Thunderbird یک برنامهٔ رایگان برای مدیریت رایانامه‌هاست که استفاده و سفارشی کردنش ساده است - همچنین مملو از امکانات جذاب است!"
 
-#: sites/www.thunderbird.net/about/index.html:10 sites/www.thunderbird.net/includes/base/footer.html:33 sites/www.thunderbird.net/includes/base/nav.html:52
+#: sites/www.thunderbird.net/about/index.html:10 sites/www.thunderbird.net/contact/index.html:10 sites/www.thunderbird.net/includes/base/footer.html:33
+#: sites/www.thunderbird.net/includes/base/nav.html:52
 msgid "About"
 msgstr ""
 
@@ -450,6 +451,14 @@ msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:23
 msgid "Values"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:27
+msgid "Community"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:31
+msgid "Organization"
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:41
@@ -622,6 +631,107 @@ msgstr ""
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s"
 msgstr ""
 
+#: sites/www.thunderbird.net/contact/index.html:8 sites/www.thunderbird.net/includes/base/footer.html:36 sites/www.thunderbird.net/includes/base/nav.html:57
+msgid "Contact Us"
+msgstr "تماس با ما"
+
+#: sites/www.thunderbird.net/contact/index.html:17
+msgid "Direct your inquiries to the people below."
+msgstr ""
+
+#: sites/www.thunderbird.net/contact/index.html:20 sites/www.thunderbird.net/participate/index.html:69
+msgid "Support"
+msgstr ""
+
+#: sites/www.thunderbird.net/contact/index.html:20
+msgid "Support Website"
+msgstr ""
+
+#: sites/www.thunderbird.net/contact/index.html:21
+msgid ""
+"For questions about how to use Thunderbird, visit and search our Support Website. Feel free to submit a new question if you cannot find an answer. Please remember to be courteous to our staff and "
+"volunteers."
+msgstr ""
+
+#: sites/www.thunderbird.net/contact/index.html:24
+#, python-format
+msgid "To get the best support, please ask your question in English. If you prefer to ask a question in %(lang)s you can try this non-Mozilla community forum <a class=\"dotted\" href=\"%(link)s\">link</a>."
+msgstr ""
+
+#: sites/www.thunderbird.net/contact/index.html:30
+msgid "Security"
+msgstr ""
+
+#: sites/www.thunderbird.net/contact/index.html:30
+#, fuzzy
+msgid "Bugzilla"
+msgstr "موزیلا"
+
+#: sites/www.thunderbird.net/contact/index.html:31
+msgid ""
+"To report a software vulnerability, please submit an issue on Bugzilla with the security box checked. This checkmark will make the report visible only to our security team, who can address "
+"vulnerabilities before public disclosure."
+msgstr ""
+
+#: sites/www.thunderbird.net/contact/index.html:33
+msgid "Media"
+msgstr ""
+
+#: sites/www.thunderbird.net/contact/index.html:33
+msgid "Outreach Team"
+msgstr ""
+
+#: sites/www.thunderbird.net/contact/index.html:34
+msgid "Thunderbird and the people who make it are amazing. Obtain access to our team for your story, review, or other content by emailing our Outreach Team."
+msgstr ""
+
+#: sites/www.thunderbird.net/contact/index.html:36
+msgid "Business"
+msgstr ""
+
+#: sites/www.thunderbird.net/contact/index.html:36
+msgid "Business Team"
+msgstr ""
+
+#: sites/www.thunderbird.net/contact/index.html:37
+msgid "Organizations wanting to sponsor software development or obtain assistance in large-scale deployments should email our Business Team. This team also handles other partnership inquiries."
+msgstr ""
+
+#: sites/www.thunderbird.net/contact/index.html:39
+msgid "Contributors"
+msgstr ""
+
+#: sites/www.thunderbird.net/contact/index.html:39
+msgid "Contributor Page"
+msgstr ""
+
+#: sites/www.thunderbird.net/contact/index.html:40
+msgid ""
+"If you have talents you're interested in sharing but don't know where to start, learn how to get started by visiting our Contributors page. Here you'll find the volunteer community that matches your"
+" interests."
+msgstr ""
+
+#: sites/www.thunderbird.net/contact/index.html:42 sites/www.thunderbird.net/includes/appeal-footer.html:11 sites/www.thunderbird.net/includes/base/footer.html:58
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:357 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:433
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:280 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:299
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:415
+msgid "Legal"
+msgstr "حقوقی"
+
+#: sites/www.thunderbird.net/contact/index.html:42
+msgid "Trademark Misuse"
+msgstr ""
+
+#: sites/www.thunderbird.net/contact/index.html:42
+msgid "DMCA Notice"
+msgstr ""
+
+#: sites/www.thunderbird.net/contact/index.html:43
+msgid ""
+"Protect future users from malware, data mining, or being fraudulently charged for Thunderbird by reporting trademark misuse. If you believe we are infringing on your copyright or trademark, please "
+"send a DMCA notice."
+msgstr ""
+
 #: sites/www.thunderbird.net/donate/index.html:8 sites/www.thunderbird.net/includes/base/footer.html:43 sites/www.thunderbird.net/includes/base/nav.html:71
 msgid "Donations"
 msgstr ""
@@ -727,12 +837,6 @@ msgstr ""
 #: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:295 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:411
 msgid "Cookies"
 msgstr "کوکی‌ها"
-
-#: sites/www.thunderbird.net/includes/appeal-footer.html:11 sites/www.thunderbird.net/includes/base/footer.html:58 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:357
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:433 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:280
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:299 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:415
-msgid "Legal"
-msgstr "حقوقی"
 
 #: sites/www.thunderbird.net/includes/appeal-footer.html:13 sites/www.thunderbird.net/includes/base/footer.html:60
 msgid "Send DMCA Notice"
@@ -1009,10 +1113,6 @@ msgstr ""
 #: sites/www.thunderbird.net/includes/base/footer.html:29
 msgid "Holiday Calendars"
 msgstr ""
-
-#: sites/www.thunderbird.net/includes/base/footer.html:36 sites/www.thunderbird.net/includes/base/nav.html:57
-msgid "Contact Us"
-msgstr "تماس با ما"
 
 #: sites/www.thunderbird.net/includes/base/footer.html:37 sites/www.thunderbird.net/includes/base/nav.html:58
 msgid "Careers"
@@ -1437,10 +1537,6 @@ msgstr ""
 msgid ""
 "The entire world deserves free and open source software, and Thunderbird is currently translated in more than 50 languages! Use your multilingual talents to help make Thunderbird more widely "
 "available than ever."
-msgstr ""
-
-#: sites/www.thunderbird.net/participate/index.html:69
-msgid "Support"
 msgstr ""
 
 #: sites/www.thunderbird.net/participate/index.html:71
@@ -2567,10 +2663,6 @@ msgstr ""
 #, fuzzy
 #~ msgid "Get Support"
 #~ msgstr "پشتیبانی"
-
-#, fuzzy
-#~ msgid "Bugzilla"
-#~ msgstr "موزیلا"
 
 #, fuzzy
 #~ msgid "Download Beta"
