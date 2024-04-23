@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-04-22 10:15-0700\n"
+"POT-Creation-Date: 2024-04-23 09:32-0700\n"
 "PO-Revision-Date: 2024-04-14 21:14+0000\n"
 "Last-Translator: jlG <jlg.l10n.es@gmail.com>\n"
 "Language-Team: none\n"
@@ -240,7 +240,7 @@ msgstr ""
 "Thunderbird es una aplicación de correo gratuita fácil de configurar y personalizar, ¡y con muchas\n"
 "características geniales!"
 
-#: sites/www.thunderbird.net/index.html:24 sites/www.thunderbird.net/index.html:340
+#: sites/www.thunderbird.net/index.html:24 sites/www.thunderbird.net/index.html:339
 msgid "<span class=\"txt-gradient\">Free</span> Your Inbox"
 msgstr "<span class=\"txt-gradient\">Libera</span> tu bandeja de entrada"
 
@@ -456,7 +456,7 @@ msgstr "extensiones"
 msgid "Explore More Features"
 msgstr "Explorar más características"
 
-#: sites/www.thunderbird.net/index.html:339
+#: sites/www.thunderbird.net/index.html:340
 msgid "Are you ready to love email again?"
 msgstr "¿Estás listo para volver a amar el correo electrónico?"
 
@@ -637,6 +637,11 @@ msgstr ""
 msgid "Looking For Holiday Calendars?"
 msgstr ""
 
+#: sites/www.thunderbird.net/calendar/index.html:19
+#, python-format
+msgid "If you're looking for holiday calendars, please click <a href=\"%(url)s\">here</a>."
+msgstr ""
+
 #: sites/www.thunderbird.net/calendar/holidays/index.html:8
 msgid "Holiday Calendar"
 msgstr ""
@@ -673,6 +678,10 @@ msgstr "Días festivos de <a href=\"%(url)s\" class=\"inline-link text-blue\">%(
 #: sites/www.thunderbird.net/contact/index.html:8 sites/www.thunderbird.net/includes/base/footer.html:36 sites/www.thunderbird.net/includes/base/nav.html:57
 msgid "Contact Us"
 msgstr "Contacta con nosotros"
+
+#: sites/www.thunderbird.net/contact/index.html:16
+msgid "Need to <span class=\"txt-gradient\">Talk?</span>"
+msgstr ""
 
 #: sites/www.thunderbird.net/contact/index.html:17
 msgid "Direct your inquiries to the people below."
@@ -1604,6 +1613,23 @@ msgstr ""
 msgid "Desktop Development:"
 msgstr ""
 
+#: sites/www.thunderbird.net/participate/index.html:29 sites/www.thunderbird.net/participate/index.html:37 sites/www.thunderbird.net/participate/index.html:45
+#: sites/www.thunderbird.net/participate/index.html:64
+#, python-format
+msgid "Explore the <a href=\"%(url)s\">docs</a>"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:30 sites/www.thunderbird.net/participate/index.html:38 sites/www.thunderbird.net/participate/index.html:46
+#, python-format
+msgid "Join the <a href=\"%(url)s\">repository</a>"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:31 sites/www.thunderbird.net/participate/index.html:39 sites/www.thunderbird.net/participate/index.html:47
+#: sites/www.thunderbird.net/participate/index.html:74 sites/www.thunderbird.net/participate/index.html:105
+#, python-format
+msgid "Say hello in <a href=\"%(url)s\">Matrix</a>"
+msgstr ""
+
 #: sites/www.thunderbird.net/participate/index.html:35
 msgid "Android Development:"
 msgstr ""
@@ -1622,6 +1648,16 @@ msgid ""
 "before they can reach the general public!"
 msgstr ""
 
+#: sites/www.thunderbird.net/participate/index.html:55
+#, python-format
+msgid "Learn about testing <a href=\"%(url)s\">Beta</a>"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:56
+#, python-format
+msgid "Report <a href=\"%(url)s\">bugs</a>"
+msgstr ""
+
 #: sites/www.thunderbird.net/participate/index.html:60
 msgid "Translate"
 msgstr ""
@@ -1630,6 +1666,11 @@ msgstr ""
 msgid ""
 "The entire world deserves free and open source software, and Thunderbird is currently translated in more than 50 languages! Use your multilingual talents to help make Thunderbird more widely "
 "available than ever."
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:65
+#, python-format
+msgid "Join us on <a href=\"%(url)s\">Pontoon</a>"
 msgstr ""
 
 #: sites/www.thunderbird.net/participate/index.html:71
@@ -1650,6 +1691,21 @@ msgstr ""
 msgid ""
 "Help ensure the answers are written down before the question is even asked! From documenting features or APIs to frequently asked user support questions, put your knowledge and writing skills to use"
 " for the benefit of the entire Thunderbird community."
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:82
+#, python-format
+msgid "User Support <a href=\"%(url)s\">documentation</a>"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:83
+#, python-format
+msgid "Developer <a href=\"%(url)s\">documentation</a>"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:84
+#, python-format
+msgid "Code <a href=\"%(url)s\">documentation</a>"
 msgstr ""
 
 #: sites/www.thunderbird.net/participate/index.html:88
@@ -1689,6 +1745,11 @@ msgstr ""
 #: sites/www.thunderbird.net/participate/index.html:102
 msgid ""
 "Share your ideas, and contribute to the ongoing conversations around Thunderbird’s UX and UI. We welcome your feedback to developer designs on our UX mailing list, and our companion Matrix room."
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:104
+#, python-format
+msgid "Join in on the <a href=\"%(url)s\">discussion</a>"
 msgstr ""
 
 #: sites/www.thunderbird.net/participate/index.html:110

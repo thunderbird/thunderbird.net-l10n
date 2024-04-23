@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-04-22 10:15-0700\n"
+"POT-Creation-Date: 2024-04-23 09:32-0700\n"
 "PO-Revision-Date: 2024-04-23 12:00+0000\n"
 "Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
 "Language-Team: none\n"
@@ -238,7 +238,7 @@ msgstr ""
 "Thunderbird is in fergese e-mailapplikaasje dy’t maklik yn te stellen en oan te passen is - en it is fol\n"
 "mei moaie funksjes!"
 
-#: sites/www.thunderbird.net/index.html:24 sites/www.thunderbird.net/index.html:340
+#: sites/www.thunderbird.net/index.html:24 sites/www.thunderbird.net/index.html:339
 msgid "<span class=\"txt-gradient\">Free</span> Your Inbox"
 msgstr "<span class=\"txt-gradient\">Befrij</span> jo Postfek YN"
 
@@ -465,7 +465,7 @@ msgstr "útwreidingen"
 msgid "Explore More Features"
 msgstr "Mear funksjes ferkenne"
 
-#: sites/www.thunderbird.net/index.html:339
+#: sites/www.thunderbird.net/index.html:340
 msgid "Are you ready to love email again?"
 msgstr "Binne jo ree om wer fan e-mail te hâlden?"
 
@@ -659,6 +659,11 @@ msgstr "Helpboarnen"
 msgid "Looking For Holiday Calendars?"
 msgstr "Sykje jo feestdagenaginda’s?"
 
+#: sites/www.thunderbird.net/calendar/index.html:19
+#, python-format
+msgid "If you're looking for holiday calendars, please click <a href=\"%(url)s\">here</a>."
+msgstr ""
+
 #: sites/www.thunderbird.net/calendar/holidays/index.html:8
 msgid "Holiday Calendar"
 msgstr "Feestdagenaginda"
@@ -695,6 +700,10 @@ msgstr "Feestdagen yn <a href=\"%(url)s\" class=\"inline-link text-blue\">%(coun
 #: sites/www.thunderbird.net/contact/index.html:8 sites/www.thunderbird.net/includes/base/footer.html:36 sites/www.thunderbird.net/includes/base/nav.html:57
 msgid "Contact Us"
 msgstr "Kontakt"
+
+#: sites/www.thunderbird.net/contact/index.html:16
+msgid "Need to <span class=\"txt-gradient\">Talk?</span>"
+msgstr ""
 
 #: sites/www.thunderbird.net/contact/index.html:17
 msgid "Direct your inquiries to the people below."
@@ -1643,6 +1652,23 @@ msgstr ""
 msgid "Desktop Development:"
 msgstr "Desktopûntwikkeling:"
 
+#: sites/www.thunderbird.net/participate/index.html:29 sites/www.thunderbird.net/participate/index.html:37 sites/www.thunderbird.net/participate/index.html:45
+#: sites/www.thunderbird.net/participate/index.html:64
+#, python-format
+msgid "Explore the <a href=\"%(url)s\">docs</a>"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:30 sites/www.thunderbird.net/participate/index.html:38 sites/www.thunderbird.net/participate/index.html:46
+#, python-format
+msgid "Join the <a href=\"%(url)s\">repository</a>"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:31 sites/www.thunderbird.net/participate/index.html:39 sites/www.thunderbird.net/participate/index.html:47
+#: sites/www.thunderbird.net/participate/index.html:74 sites/www.thunderbird.net/participate/index.html:105
+#, python-format
+msgid "Say hello in <a href=\"%(url)s\">Matrix</a>"
+msgstr ""
+
 #: sites/www.thunderbird.net/participate/index.html:35
 msgid "Android Development:"
 msgstr "Android-ûntwikkeling:"
@@ -1663,6 +1689,16 @@ msgstr ""
 "Mei safolle unike hardware-omjouwingen en workflows spylje leden fan de mienskip dy’t pre-releasebuilds fan Thunderbird teste in fitale rol yn de kwaliteit fan de software. Plus, jo helpe bugs te "
 "finen eardat se it grutte publyk berikke kinne!"
 
+#: sites/www.thunderbird.net/participate/index.html:55
+#, python-format
+msgid "Learn about testing <a href=\"%(url)s\">Beta</a>"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:56
+#, python-format
+msgid "Report <a href=\"%(url)s\">bugs</a>"
+msgstr ""
+
 #: sites/www.thunderbird.net/participate/index.html:60
 msgid "Translate"
 msgstr "Oersette"
@@ -1674,6 +1710,11 @@ msgid ""
 msgstr ""
 "De heule wrâld fertsjinnet fergese en iepen boarne software, en Thunderbird is op dit stuit oerset yn mear as 50 talen wêrûnder Nederlânsk en Frysk! Brûk jo meartalige talinten om Thunderbird breder"
 " beskikber te meitsjen as ea."
+
+#: sites/www.thunderbird.net/participate/index.html:65
+#, python-format
+msgid "Join us on <a href=\"%(url)s\">Pontoon</a>"
+msgstr ""
 
 #: sites/www.thunderbird.net/participate/index.html:71
 msgid ""
@@ -1698,6 +1739,21 @@ msgid ""
 msgstr ""
 "Help mei dat de antwurden opskreaun wurde eardat de fraach sels steld wurdt! Fan dokumintearjen fan funksjes as API’s oant faak stelde fragen oer brûkersstipe, set jo kennis en skriuwfeardigens yn "
 "foar it foardiel fan de hiele Thunderbird-mienskip."
+
+#: sites/www.thunderbird.net/participate/index.html:82
+#, python-format
+msgid "User Support <a href=\"%(url)s\">documentation</a>"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:83
+#, python-format
+msgid "Developer <a href=\"%(url)s\">documentation</a>"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:84
+#, python-format
+msgid "Code <a href=\"%(url)s\">documentation</a>"
+msgstr ""
 
 #: sites/www.thunderbird.net/participate/index.html:88
 msgid "Promote"
@@ -1740,6 +1796,11 @@ msgid ""
 "Share your ideas, and contribute to the ongoing conversations around Thunderbird’s UX and UI. We welcome your feedback to developer designs on our UX mailing list, and our companion Matrix room."
 msgstr ""
 "Diel jo ideeën en draach by oan de oanhâldende petearen oer de UX en UI fan Thunderbird. Wy ferwolkomje jo feedback oer ûntwikkeldersûntwerpen op ús UX-mailinglist, en ús begeliedende Matrix-romte."
+
+#: sites/www.thunderbird.net/participate/index.html:104
+#, python-format
+msgid "Join in on the <a href=\"%(url)s\">discussion</a>"
+msgstr ""
 
 #: sites/www.thunderbird.net/participate/index.html:110
 msgid "One more way you can contribute is by sharing <strong>ideas</strong>, <strong>priorities</strong>, and <strong>feedback</strong>. Thunderbird is yours and we're listening."
