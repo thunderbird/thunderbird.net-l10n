@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-04-24 08:56-0700\n"
-"PO-Revision-Date: 2024-04-27 13:32+0000\n"
+"PO-Revision-Date: 2024-04-27 13:38+0000\n"
 "Last-Translator: ravmn <ravmn@ravmn.cl>\n"
 "Language-Team: none\n"
 "Language: es_CL\n"
@@ -1728,21 +1728,23 @@ msgid ""
 "Help ensure the answers are written down before the question is even asked! From documenting features or APIs to frequently asked user support questions, put your knowledge and writing skills to use"
 " for the benefit of the entire Thunderbird community."
 msgstr ""
+"¡Ayuda a garantizar que las respuestas estén escritas incluso antes de formular la pregunta! Desde documentar funcionalidades o APIs hasta preguntas frecuentes de ayuda al usuario, utiliza tus "
+"conocimientos y habilidades de escritura en beneficio de toda la comunidad Thunderbird."
 
 #: sites/www.thunderbird.net/participate/index.html:82
 #, python-format
 msgid "User Support <a href=\"%(url)s\">documentation</a>"
-msgstr ""
+msgstr "<a href=\"%(url)s\">Documentación</a> de ayuda al usuario"
 
 #: sites/www.thunderbird.net/participate/index.html:83
 #, python-format
 msgid "Developer <a href=\"%(url)s\">documentation</a>"
-msgstr ""
+msgstr "<a href=\"%(url)s\">Documentación</a> para el desarrollador"
 
 #: sites/www.thunderbird.net/participate/index.html:84
 #, python-format
 msgid "Code <a href=\"%(url)s\">documentation</a>"
-msgstr ""
+msgstr "<a href=\"%(url)s\">Documentación</a> del código"
 
 #: sites/www.thunderbird.net/participate/index.html:88
 msgid "Promote"
@@ -1753,6 +1755,8 @@ msgid ""
 "Advocacy is one of the easiest ways to contribute to Thunderbird! Boosting our posts on Mastodon, showcasing the software to a friend, upvoting a helpful answer on Reddit; anything that adds "
 "visibility is a huge help. Here’s where to find us on various social platforms, and how to get involved."
 msgstr ""
+"¡El activismo es una de las formas más fáciles de contribuir con Thunderbird! Potenciar el alcance de nuestras publicaciones en Mastodon, mostrar el software a un amigo, votar por una respuesta útil"
+" en Reddit; cualquier cosa que sume visibilidad es de gran ayuda. Acá te mostramos dónde encontrarnos en las distintas plataformas sociales y cómo involucrarte."
 
 #: sites/www.thunderbird.net/participate/index.html:92
 msgid "Reddit"
@@ -1782,15 +1786,17 @@ msgstr "Diseñar"
 msgid ""
 "Share your ideas, and contribute to the ongoing conversations around Thunderbird’s UX and UI. We welcome your feedback to developer designs on our UX mailing list, and our companion Matrix room."
 msgstr ""
+"Comparte tus ideas y contribuye a las conversaciones en curso acerca de la UX y UI de Thunderbird. Agradecemos tus comentarios sobre los diseños planteados por los desarrolladores en nuestra lista "
+"de correo de UX y en nuestra sala Matrix complementaria."
 
 #: sites/www.thunderbird.net/participate/index.html:104
 #, python-format
 msgid "Join in on the <a href=\"%(url)s\">discussion</a>"
-msgstr ""
+msgstr "Únete a la <a href=\"%(url)s\">discusión</a>"
 
 #: sites/www.thunderbird.net/participate/index.html:110
 msgid "One more way you can contribute is by sharing <strong>ideas</strong>, <strong>priorities</strong>, and <strong>feedback</strong>. Thunderbird is yours and we're listening."
-msgstr ""
+msgstr "Una forma más de contribuir es compartiendo <strong>ideas</strong>, <strong>prioridades</strong> y <strong>comentarios</strong>. Thunderbird es tuyo y estamos escuchando."
 
 #: sites/www.thunderbird.net/participate/index.html:120
 msgid "Contributor <span class=\"txt-gradient\">Experience</span>"
@@ -1805,6 +1811,8 @@ msgid ""
 "Volunteers create Thunderbird and ensure it is accessible throughout the world in dozens of languages. They write the documentation and answer the questions that help regular people use Thunderbird."
 " They come from diverse backgrounds and bring unique talents. They're making Thunderbird better for themselves and better for the world at the same time. You can join them."
 msgstr ""
+"Los voluntarios crean Thunderbird y se aseguran de que sea accesible en todo el mundo en docenas de idiomas. Escriben la documentación y responden las preguntas que ayudan a la gente común a usar "
+"Thunderbird. Provienen de diversos orígenes y aportan talentos únicos. Están haciendo que Thunderbird sea mejor para ellos y para el mundo al mismo tiempo. Puedes unirte a ellos."
 
 #: sites/www.thunderbird.net/participate/index.html:127
 msgid "Leadership, Switzerland"
@@ -1812,7 +1820,7 @@ msgstr "Liderazgo, Suiza"
 
 #: sites/www.thunderbird.net/participate/index.html:128
 msgid "Thunderbird is a testament to the power of the open-source community's contribution to driving innovation and efficiency."
-msgstr ""
+msgstr "Thunderbird es un testimonio del poder de la contribución de la comunidad de código abierto para impulsar la innovación y la eficiencia."
 
 #: sites/www.thunderbird.net/participate/index.html:130
 msgid "Bug Triager, USA"
@@ -1820,7 +1828,7 @@ msgstr "Clasificador de errores, EE. UU."
 
 #: sites/www.thunderbird.net/participate/index.html:131
 msgid "If you don't have skin in the game, you can't complain about the direction the product is going in."
-msgstr ""
+msgstr "Si no te sumerges en el juego, no puedes quejarte de la dirección en la que va el producto."
 
 #: sites/www.thunderbird.net/participate/index.html:133
 msgid "Developer, Germany"
@@ -1828,7 +1836,7 @@ msgstr "Desarrollador, Alemania"
 
 #: sites/www.thunderbird.net/participate/index.html:134
 msgid "It is great to be able to improve the software by fixing little things that affect me and other users"
-msgstr ""
+msgstr "Es fantástico poder mejorar el software solucionando pequeñas cosas que me afectan a mí y a otros usuarios"
 
 #: sites/www.thunderbird.net/participate/index.html:136
 msgid "Tester & Bug Triager, USA"
@@ -1836,7 +1844,7 @@ msgstr "Probador y clasificador de errores, EE. UU."
 
 #: sites/www.thunderbird.net/participate/index.html:137
 msgid "I volunteer to use the beta versions as soon as they are built, report issues I find, and test fixes."
-msgstr ""
+msgstr "Me ofrezco como voluntario para usar las versiones beta tan pronto como son compiladas, informo los problemas que encuentro y pruebo las soluciones."
 
 #: sites/www.thunderbird.net/participate/index.html:139
 msgid "Support & Bug Triager, United Kingdom"
@@ -1844,7 +1852,7 @@ msgstr "Soporte y clasificador de errores, Reino Unido"
 
 #: sites/www.thunderbird.net/participate/index.html:140
 msgid "I volunteer to assist others in the Thunderbird Support Forum which I find a very rewarding experience."
-msgstr ""
+msgstr "Me ofrezco como voluntario para ayudar a otros en el Foro de soporte de Thunderbird, lo cual considero una experiencia muy gratificante."
 
 #: sites/www.thunderbird.net/participate/index.html:142
 msgid "Translator, Bug Triager & Leadership, Bulgaria"
@@ -1852,7 +1860,7 @@ msgstr "Traductor, Liderazgo y clasificador de errores, Bulgaria"
 
 #: sites/www.thunderbird.net/participate/index.html:143
 msgid "I began by contributing translations, thinking that people who speak my language deserve localized versions."
-msgstr ""
+msgstr "Comencé contribuyendo con traducciones, pensando que las personas que hablan mi idioma merecen versiones localizadas."
 
 #: sites/www.thunderbird.net/participate/index.html:153
 msgid "Shape the <span class=\"txt-gradient\">Future</span>"
@@ -1867,6 +1875,8 @@ msgid ""
 "Craft tools you want to use. Help others find and use software that respects their privacy and freedom. Become part of a better future for yourself and others by putting your talents to work at "
 "Thunderbird. Read further to learn how."
 msgstr ""
+"Crea herramientas que quieras utilizar. Ayuda a otros a encontrar y utilizar software que respete su privacidad y libertad. Conviértete en parte de un futuro mejor para ti y para los demás poniendo "
+"tus talentos a trabajar en Thunderbird. Sigue leyendo para aprender cómo."
 
 #: sites/www.thunderbird.net/participate/index.html:158
 msgid "Various gears all working in tandem with a heart, a code symbol, a magnifying glass displaying a very small bug, and the Thunderbird Logo in the centre of it all."
