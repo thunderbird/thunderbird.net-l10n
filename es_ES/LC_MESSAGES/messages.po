@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-04-24 08:56-0700\n"
-"PO-Revision-Date: 2024-04-14 21:14+0000\n"
+"PO-Revision-Date: 2024-05-01 19:38+0000\n"
 "Last-Translator: jlG <jlg.l10n.es@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es_ES\n"
@@ -145,7 +145,8 @@ msgstr "Informar"
 
 #: sites/start.thunderbird.net/beta/index.html:120 sites/start.thunderbird.net/release/index.html:83
 msgid "Think you’ve found a new problem or rough edge? Create a bug report so we can make sure it gets solved, resulting in a better Thunderbird experience for all."
-msgstr "¿Crees que has encontrado un problema con Thunderbird? Crea un informe de fallos para que podamos asegurarnos de que se resuelva, y así conseguir una mejor experiencia Thunderbird para todos."
+msgstr ""
+"¿Crees que has encontrado un nuevo problema con Thunderbird? Crea un informe de errores para que podamos asegurarnos de que se resuelva, y así conseguir una mejor experiencia Thunderbird para todos."
 
 #: sites/start.thunderbird.net/beta/index.html:122 sites/start.thunderbird.net/release/index.html:85
 msgid "Report a Bug"
@@ -210,11 +211,11 @@ msgstr "La página que estás buscando no existe.<br/>Si crees que es un error, 
 
 #: sites/www.thunderbird.net/404.html:10
 msgid "There's Nothing Here"
-msgstr ""
+msgstr "No hay nada aquí"
 
 #: sites/www.thunderbird.net/404.html:12
 msgid "????"
-msgstr ""
+msgstr "????"
 
 #: sites/www.thunderbird.net/404.html:21
 msgid "Empty nest"
@@ -251,6 +252,10 @@ msgid ""
 "          <strong>calendar</strong>, and <strong>contacts</strong> app that maximizes your freedoms.\n"
 "          "
 msgstr ""
+"\n"
+"          Conoce Thunderbird, la aplicación de <strong>correo</strong>,\n"
+"          <strong>calendario</strong> y <strong>contactos</strong> que maximiza tu libertad.\n"
+"          "
 
 #: sites/www.thunderbird.net/download/index.html:8 sites/www.thunderbird.net/download/index.html:17 sites/www.thunderbird.net/includes/base/nav.html:78 sites/www.thunderbird.net/index.html:34
 #: sites/www.thunderbird.net/index.html:344 sites/www.thunderbird.net/thunderbird/all/index.html:9 sites/www.thunderbird.net/thunderbird/all/index.html:100
@@ -318,10 +323,16 @@ msgid ""
 "          always put your privacy and security first.\n"
 "          "
 msgstr ""
+"\n"
+"          Thunderbird se financia con las donaciones de los usuarios. No recopilamos datos personales, vendemos anuncios en tu bandeja de entrada\n"
+"          o entrenamos IA con tus conversaciones privadas a tus espaldas. Thunderbird es de <a href=\"%(open_source)s\">código abierto</a>. Como parte de la familia <a\n"
+"            href=\"%(mozilla)s\">Mozilla</a>, puedes tener la confianza de que\n"
+"          siempre ponemos tu privacidad y seguridad primero.\n"
+"          "
 
 #: sites/www.thunderbird.net/index.html:138
 msgid "Learn Who We Are"
-msgstr ""
+msgstr "Conoce quienes somos"
 
 #: sites/www.thunderbird.net/index.html:147
 msgid "Firefox planet"
@@ -3061,7 +3072,6 @@ msgstr ""
 #~ msgid "Our Community"
 #~ msgstr "Nuestra comunidad"
 
-#, python-format
 #~ msgid ""
 #~ "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
 #~ "to learn how you can participate on the Thunderbird team. We also have paid staff working full-time on Thunderbird, <a href=\"%(donate)s\" data-donate-btn data-donate-content=\"about\">funded by "
@@ -3075,7 +3085,6 @@ msgstr ""
 #~ msgid "Thunderbird Council"
 #~ msgstr "El Consejo de Thunderbird"
 
-#, python-format
 #~ msgid ""
 #~ "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
 #~ "href=\"%(council)s\">on the Thunderbird wiki</a>."
@@ -3668,7 +3677,6 @@ msgstr ""
 #~ msgid "Check (via postal service)"
 #~ msgstr "Cheque (a través del servicio postal)"
 
-#, python-format
 #~ msgid ""
 #~ "MZLA/Thunderbird is happy to accept your donation <span class=\"%(class)s\">(made payable to “MZLA Technologies Corp”)</span> via check;\n"
 #~ "    however please note that we can only accept checks in US dollars drawn on a US bank."
