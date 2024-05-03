@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-04-24 08:56-0700\n"
+"POT-Creation-Date: 2024-05-03 13:51-0700\n"
 "PO-Revision-Date: 2024-04-27 12:46+0000\n"
 "Last-Translator: Andreas Pettersson <az@kth.se>\n"
 "Language-Team: none\n"
@@ -208,13 +208,18 @@ msgstr "Sidan du letar efter finns inte.<br/>Om du tror att det här är ett fel
 msgid "There's Nothing Here"
 msgstr "Det finns inget här"
 
-#: sites/www.thunderbird.net/404.html:12
-msgid "????"
-msgstr "????"
+#: sites/www.thunderbird.net/404.html:18
+msgid "A pile of unopened spam mail covering a sign post that reads No Reply."
+msgstr ""
 
-#: sites/www.thunderbird.net/404.html:21
-msgid "Empty nest"
-msgstr "Tomt bo"
+#: sites/www.thunderbird.net/404.html:19
+msgid "The page you are looking for doesn’t exist."
+msgstr ""
+
+#: sites/www.thunderbird.net/404.html:20
+#, python-format
+msgid "If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>"
+msgstr ""
 
 #: sites/www.thunderbird.net/includes/base/base.html:17 sites/www.thunderbird.net/includes/base/page.html:24 sites/www.thunderbird.net/includes/product-metadata.html:2
 #: sites/www.thunderbird.net/includes/product-metadata.html:21 sites/www.thunderbird.net/index.html:8 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:17
@@ -640,7 +645,7 @@ msgstr ""
 "Vi har ett växande team av begåvade individer som är anställda för att stödja ansträngningarna från vår bidragsgivare, kontakta partnerorganisationer och maximera räckvidden för Thunderbird över "
 "hela världen."
 
-#: sites/www.thunderbird.net/about/index.html:131
+#: sites/www.thunderbird.net/about/index.html:142
 msgid "Explore Career Opportunities"
 msgstr "Utforska karriärmöjligheter"
 
@@ -2961,6 +2966,12 @@ msgstr "Utgåvor"
 #: sites/www.thunderbird.net/thunderbird/releases/index.html:16
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it. "
 msgstr "Versionsfakta för Thunderbird är specifika för varje version av programmet. Välj din version från listan nedan för att se versionsfakta för den."
+
+#~ msgid "????"
+#~ msgstr "????"
+
+#~ msgid "Empty nest"
+#~ msgstr "Tomt bo"
 
 #~ msgid "Browser Channel"
 #~ msgstr "Webbläsarkanal"

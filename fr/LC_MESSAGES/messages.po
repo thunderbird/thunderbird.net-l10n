@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-04-24 08:56-0700\n"
+"POT-Creation-Date: 2024-05-03 13:51-0700\n"
 "PO-Revision-Date: 2024-04-24 08:46+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: none\n"
@@ -214,13 +214,18 @@ msgstr "La page que vous recherchez n’existe pas.<br/>Si vous pensez qu’il s
 msgid "There's Nothing Here"
 msgstr "Page introuvable"
 
-#: sites/www.thunderbird.net/404.html:12
-msgid "????"
-msgstr "????"
+#: sites/www.thunderbird.net/404.html:18
+msgid "A pile of unopened spam mail covering a sign post that reads No Reply."
+msgstr ""
 
-#: sites/www.thunderbird.net/404.html:21
-msgid "Empty nest"
-msgstr "Nid vide"
+#: sites/www.thunderbird.net/404.html:19
+msgid "The page you are looking for doesn’t exist."
+msgstr ""
+
+#: sites/www.thunderbird.net/404.html:20
+#, python-format
+msgid "If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>"
+msgstr ""
 
 #: sites/www.thunderbird.net/includes/base/base.html:17 sites/www.thunderbird.net/includes/base/page.html:24 sites/www.thunderbird.net/includes/product-metadata.html:2
 #: sites/www.thunderbird.net/includes/product-metadata.html:21 sites/www.thunderbird.net/index.html:8 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:17
@@ -603,7 +608,7 @@ msgid ""
 "the world."
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:131
+#: sites/www.thunderbird.net/about/index.html:142
 msgid "Explore Career Opportunities"
 msgstr ""
 
@@ -2902,6 +2907,12 @@ msgstr "Versions"
 #: sites/www.thunderbird.net/thunderbird/releases/index.html:16
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it. "
 msgstr "Les notes de version de Thunderbird sont spécifiques à chaque version de l’application. Sélectionnez votre version dans la liste ci-dessous pour consulter les notes de cette version."
+
+#~ msgid "????"
+#~ msgstr "????"
+
+#~ msgid "Empty nest"
+#~ msgstr "Nid vide"
 
 #~ msgid "Browser Channel"
 #~ msgstr "Canal du navigateur"

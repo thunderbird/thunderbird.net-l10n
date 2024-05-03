@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-04-24 08:56-0700\n"
+"POT-Creation-Date: 2024-05-03 13:51-0700\n"
 "PO-Revision-Date: 2024-05-01 13:23+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language-Team: none\n"
@@ -210,13 +210,18 @@ msgstr "Bok, kótaryž pytaśo, njeeksistěrujo.<br/>Jolic to za zmólku maśo, 
 msgid "There's Nothing Here"
 msgstr "How nic njejo"
 
-#: sites/www.thunderbird.net/404.html:12
-msgid "????"
-msgstr "????"
+#: sites/www.thunderbird.net/404.html:18
+msgid "A pile of unopened spam mail covering a sign post that reads No Reply."
+msgstr ""
 
-#: sites/www.thunderbird.net/404.html:21
-msgid "Empty nest"
-msgstr "Prozne gnězdo"
+#: sites/www.thunderbird.net/404.html:19
+msgid "The page you are looking for doesn’t exist."
+msgstr ""
+
+#: sites/www.thunderbird.net/404.html:20
+#, python-format
+msgid "If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>"
+msgstr ""
 
 #: sites/www.thunderbird.net/includes/base/base.html:17 sites/www.thunderbird.net/includes/base/page.html:24 sites/www.thunderbird.net/includes/product-metadata.html:2
 #: sites/www.thunderbird.net/includes/product-metadata.html:21 sites/www.thunderbird.net/index.html:8 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:17
@@ -640,7 +645,7 @@ msgstr ""
 "Smy pśistajili rosćecy team talentěrowanych luźi, kótarež se maju napinanja našogo zgromaźeństwa sobuststkujucych pódpěraś, kontakty z partnaŕskimi organizacijami nawězaś a maksimalny doseg "
 "Thunderbird na cełem swěśe maksiměrowaś."
 
-#: sites/www.thunderbird.net/about/index.html:131
+#: sites/www.thunderbird.net/about/index.html:142
 msgid "Explore Career Opportunities"
 msgstr "Wuslěźćo móžnosći kariery"
 
@@ -2857,6 +2862,12 @@ msgstr "Wersije"
 #: sites/www.thunderbird.net/thunderbird/releases/index.html:16
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it. "
 msgstr "Wersijowe informacije Thunderbird pśecej wěstu wersiju nałoženja nastupaju. Wubjeŕśo swóju wersiju ze slědujuceje lisćiny, aby se jeje wersijowe informacije woglědał. "
+
+#~ msgid "????"
+#~ msgstr "????"
+
+#~ msgid "Empty nest"
+#~ msgstr "Prozne gnězdo"
 
 #~ msgid "There’s nothing here!"
 #~ msgstr "How nic njejo!"

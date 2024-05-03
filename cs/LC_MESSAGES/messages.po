@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-04-24 08:56-0700\n"
+"POT-Creation-Date: 2024-05-03 13:51-0700\n"
 "PO-Revision-Date: 2024-05-01 20:49+0000\n"
 "Last-Translator: Pavel Cvrček <jasnapaka@jasnapaka.com>\n"
 "Language-Team: none\n"
@@ -207,13 +207,18 @@ msgstr "Stránka, kterou jste hledali, neexistuje.<br/>Pokud myslíte, že jde o
 msgid "There's Nothing Here"
 msgstr "Nic tu není"
 
-#: sites/www.thunderbird.net/404.html:12
-msgid "????"
-msgstr "????"
+#: sites/www.thunderbird.net/404.html:18
+msgid "A pile of unopened spam mail covering a sign post that reads No Reply."
+msgstr ""
 
-#: sites/www.thunderbird.net/404.html:21
-msgid "Empty nest"
-msgstr "Toto hnízdo je prázdné"
+#: sites/www.thunderbird.net/404.html:19
+msgid "The page you are looking for doesn’t exist."
+msgstr ""
+
+#: sites/www.thunderbird.net/404.html:20
+#, python-format
+msgid "If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>"
+msgstr ""
 
 #: sites/www.thunderbird.net/includes/base/base.html:17 sites/www.thunderbird.net/includes/base/page.html:24 sites/www.thunderbird.net/includes/product-metadata.html:2
 #: sites/www.thunderbird.net/includes/product-metadata.html:21 sites/www.thunderbird.net/index.html:8 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:17
@@ -609,7 +614,7 @@ msgid ""
 "the world."
 msgstr "Máme rostoucí tým talentovaných jednotlivců, kteří podporují úsilí naší komunity přispěvatelů, jsou propojeni s partnerskými organizacemi a maximalizujeme dosah Thunderbirdu po celém světě."
 
-#: sites/www.thunderbird.net/about/index.html:131
+#: sites/www.thunderbird.net/about/index.html:142
 msgid "Explore Career Opportunities"
 msgstr "Prozkoumejte kariérní příležitosti"
 
@@ -2907,6 +2912,12 @@ msgstr "Vydání"
 #: sites/www.thunderbird.net/thunderbird/releases/index.html:16
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it. "
 msgstr "Poznámky k vydání Thunderbirdu jsou specifické pro každou verzi aplikace. Vyberte v seznamu svou verzi a zobrazte poznámky k vydání."
+
+#~ msgid "????"
+#~ msgstr "????"
+
+#~ msgid "Empty nest"
+#~ msgstr "Toto hnízdo je prázdné"
 
 #~ msgid "Browser Channel"
 #~ msgstr "Kanál prohlížeče"
