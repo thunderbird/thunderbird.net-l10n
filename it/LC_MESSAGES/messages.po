@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-05-16 14:45-0700\n"
-"PO-Revision-Date: 2024-05-17 06:02+0000\n"
+"PO-Revision-Date: 2024-05-17 06:10+0000\n"
 "Last-Translator: Francesco Lodolo [:flod] <flod+pontoon@mozilla.com>\n"
 "Language-Team: none\n"
 "Language: it\n"
@@ -1353,6 +1353,8 @@ msgid ""
 " this content are ©1998–%(current_year)s by individual contributors. Content available under a <a href=\"https://www.mozilla.org/foundation/licensing/website-content/\">Creative Commons license</a>."
 " </small>"
 msgstr ""
+"<small>Thunderbird è parte di <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a>, una società interamente controllata da Mozilla Foundation. Parte di questi contenuti sono ©1998–%(current_year)s di singoli collaboratori. I contenuti sono disponibili nei termini della <a href=\"https://www.mozilla.org/foundation/licensing/website-content/\">licenza Creative Commons</a>.</small>\n"
+"        "
 
 #: sites/www.thunderbird.net/includes/base/footer.html:78 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:385 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:461
 #: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:308 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:327
@@ -1992,22 +1994,24 @@ msgstr "Vari ingranaggi che lavorano tutti insieme con un cuore, un simbolo di c
 
 #: sites/www.thunderbird.net/survey/index.html:8 sites/www.thunderbird.net/survey/index.html:26
 msgid "User Survey"
-msgstr ""
+msgstr "Sondaggio utenti"
 
 #: sites/www.thunderbird.net/survey/index.html:27
 msgid ""
 "<p>Hello from the Thunderbird team! We'd love if you could take approximately 5 minutes to share your experience using Thunderbird. Your anonymous feedback will help us identify our strengths and "
 "the areas we need to improve.</p> <p>Thanks for helping us make Thunderbird better for everyone!</p>"
 msgstr ""
+"<p>Un saluto dal team di Thunderbird. Saremmo davvero grati se potessi dedicarci circa 5 minuti per raccontarci la tua esperienza con Thunderbird. Il tuo feedback anonimo sarà fondamentale per "
+"riconoscere i nostri punti di forza e le aree su cui dobbiamo lavorare per migliorare.</p><p>Grazie per il tuo contributo a rendere Thunderbird sempre migliore per tutti.</p>"
 
 #: sites/www.thunderbird.net/survey/index.html:33
 #, python-format
 msgid "Please note: you will be redirected to <u>%(domain)s</u> to complete this survey."
-msgstr ""
+msgstr "Nota: verrai reindirizzato a <u>%(domain)s</u> per completare questo sondaggio."
 
 #: sites/www.thunderbird.net/survey/index.html:38
 msgid "Start"
-msgstr ""
+msgstr "Inizia"
 
 #: sites/www.thunderbird.net/thank-you/index.html:8 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:90
 msgid "Just one more step!"
@@ -3082,7 +3086,7 @@ msgstr "Versioni"
 
 #: sites/www.thunderbird.net/thunderbird/releases/index.html:12 sites/www.thunderbird.net/thunderbird/releases/index.html:22
 msgid "Thunderbird Release Notes Atom Feed"
-msgstr ""
+msgstr "Feed Atom delle note di versione di Thunderbird"
 
 #: sites/www.thunderbird.net/thunderbird/releases/index.html:19
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
