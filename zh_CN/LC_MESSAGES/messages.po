@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-05-16 14:45-0700\n"
-"PO-Revision-Date: 2024-05-28 03:22+0000\n"
+"PO-Revision-Date: 2024-05-28 03:43+0000\n"
 "Last-Translator: wxie <xiewensheng@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -1335,7 +1335,7 @@ msgstr "Thunderbird 徽标"
 
 #: sites/www.thunderbird.net/includes/base/page.html:24
 msgid "Open or close site navigation"
-msgstr "打开或关闭导航"
+msgstr "打开或关闭网站导航"
 
 #: sites/www.thunderbird.net/includes/base/page.html:80
 msgid "Learn What’s <span class=\"txt-gradient\">Next</span>"
@@ -1349,8 +1349,7 @@ msgid ""
 "        "
 msgstr ""
 "\n"
-"        Thunderbird 会越来越好。订阅我们的新闻通讯并在社交媒体上关注我们以留下\n"
-"        已通知。\n"
+"        Thunderbird 会越来越好。订阅我们的新闻通讯并在社交媒体上关注我们的消息。\n"
 "        "
 
 #: sites/www.thunderbird.net/includes/base/page.html:94 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:313 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:234
@@ -1640,11 +1639,11 @@ msgstr "代码"
 msgid ""
 "If you have programming experience there are a lot of ways to contribute to the Thunderbird project. Get started by identifying the area where you have the most experience and interest and following"
 " the steps to get started:"
-msgstr "如果您有编程经验可以通过多种方式为 Thunderbird 项目作出贡献。确定您最有经验和兴趣的领域然后按照下列步骤开始"
+msgstr "如果您有编程经验，你可以通过多种方式为 Thunderbird 项目作出贡献。确定您最有经验和兴趣的领域，然后按照下列步骤开始："
 
 #: sites/www.thunderbird.net/participate/index.html:28
 msgid "Desktop Development:"
-msgstr "桌面开发"
+msgstr "桌面开发："
 
 #: sites/www.thunderbird.net/participate/index.html:30 sites/www.thunderbird.net/participate/index.html:38 sites/www.thunderbird.net/participate/index.html:46
 #: sites/www.thunderbird.net/participate/index.html:65
@@ -1655,7 +1654,7 @@ msgstr "探索<a href=\"%(url)s\">文档</a>"
 #: sites/www.thunderbird.net/participate/index.html:31 sites/www.thunderbird.net/participate/index.html:39 sites/www.thunderbird.net/participate/index.html:47
 #, python-format
 msgid "Join the <a href=\"%(url)s\">repository</a>"
-msgstr "加入<a href=\"%(url)s\">仓库</a>"
+msgstr "加入<a href=\"%(url)s\">代码仓库</a>"
 
 #: sites/www.thunderbird.net/participate/index.html:32 sites/www.thunderbird.net/participate/index.html:40 sites/www.thunderbird.net/participate/index.html:48
 #: sites/www.thunderbird.net/participate/index.html:75 sites/www.thunderbird.net/participate/index.html:107
@@ -1665,11 +1664,11 @@ msgstr "用 <a href=\"%(url)s\">Matrix</a> 问好"
 
 #: sites/www.thunderbird.net/participate/index.html:36
 msgid "Android Development:"
-msgstr "Android 开发"
+msgstr "Android 开发："
 
 #: sites/www.thunderbird.net/participate/index.html:44
 msgid "Website Development:"
-msgstr "网站开发"
+msgstr "网站开发："
 
 #: sites/www.thunderbird.net/participate/index.html:52
 msgid "Test"
@@ -1679,12 +1678,12 @@ msgstr "测试"
 msgid ""
 "With so many unique hardware environments and workflows, community members who test pre-release builds of Thunderbird play a vital role in the quality of the software. Plus, you help catch bugs "
 "before they can reach the general public!"
-msgstr "Thunderbird 拥有众多独特的硬件环境和工作流程测试预发布版本的 Thunderbird 社区成员对于保证软件质量起着至关重要的作用。另外您要在缺陷公开传播给公众之前帮助我们捕获缺陷"
+msgstr "Thunderbird 拥有众多独特的硬件环境和工作流程，测试预发布版本的 Thunderbird 社区成员对于保证软件质量起着至关重要的作用。另外，您能帮助我们在公开发布之前捕获缺陷！"
 
 #: sites/www.thunderbird.net/participate/index.html:56
 #, python-format
 msgid "Learn about testing <a href=\"%(url)s\">Beta</a>"
-msgstr "了解如何测试 <a href=\"%(url)s\">Beta</a> 功能"
+msgstr "了解如何测试 <a href=\"%(url)s\">Beta 版本</a>"
 
 #: sites/www.thunderbird.net/participate/index.html:57
 #, python-format
@@ -1699,7 +1698,7 @@ msgstr "翻译"
 msgid ""
 "The entire world deserves free and open source software, and Thunderbird is currently translated in more than 50 languages! Use your multilingual talents to help make Thunderbird more widely "
 "available than ever."
-msgstr "人人都值得拥有自由与开源的软件而 Thunderbird 目前已被翻译成超过 50 种语言发挥您的多语言才能使 Thunderbird 更加普及。"
+msgstr "人人都值得拥有自由与开源的软件，目前 Thunderbird 已被翻译成超过 50 种语言！发挥您的多语言才能使 Thunderbird 更加普及。"
 
 #: sites/www.thunderbird.net/participate/index.html:66
 #, python-format
@@ -1710,11 +1709,11 @@ msgstr "加入我们的 <a href=\"%(url)s\">Pontoon</a>"
 msgid ""
 "Are you an experienced Thunderbird user who loves lending a helping hand? Put your knowledge to great use by joining our Support Crew and helping users around the world with their Thunderbird "
 "questions."
-msgstr "您是 Thunderbird 的老用户并且乐于助人吗学以致用加入我们的技术支持团队帮助世界各地的用户解决 Thunderbird 问题。"
+msgstr "您是 Thunderbird 的老用户并且乐于助人吗？加入我们的技术支持团队，用你的经验和知识帮助世界各地的用户解答 Thunderbird 问题。"
 
 #: sites/www.thunderbird.net/participate/index.html:73
 msgid "You can join our Thunderbird Community Support Matrix room to get and give user support."
-msgstr "您可以加入我们的 Thunderbird 社区支持矩阵聊天室来获得和提供用户支持。"
+msgstr "您可以加入我们的 Thunderbird 社区支持的 Matrix 聊天室来获得和提供用户支持。"
 
 #: sites/www.thunderbird.net/participate/index.html:79
 msgid "Document"
