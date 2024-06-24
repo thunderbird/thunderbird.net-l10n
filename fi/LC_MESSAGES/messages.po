@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-05-29 16:05-0700\n"
-"PO-Revision-Date: 2024-06-24 18:00+0000\n"
+"PO-Revision-Date: 2024-06-24 18:11+0000\n"
 "Last-Translator: Jiri Grönroos <jiri.gronroos@iki.fi>\n"
 "Language-Team: none\n"
 "Language: fi\n"
@@ -322,10 +322,16 @@ msgid ""
 "          always put your privacy and security first.\n"
 "          "
 msgstr ""
+"\n"
+"          Thunderbird on rahoitettu käyttäjien lahjoituksilla. Emme kerää henkilökohtaisia tietoja, emme myy mainoksia postilaatikoosi tai salaa\n"
+"          harjoita tekoälyä yksityisten keskustelujesi avulla. Thunderbird on <a href=\"%(open_source)s\">avointa lähdekoodia</a>. Olemme osa <a\n"
+"            href=\"%(mozilla)s\">Mozilla</a>-perhettä, joten voit luottaa, että asetamme\n"
+"          yksityisyytesi ja turvallisuutesi aina etusijalle.\n"
+"          "
 
 #: sites/www.thunderbird.net/index.html:138
 msgid "Learn Who We Are"
-msgstr ""
+msgstr "Tutustu meihin"
 
 #: sites/www.thunderbird.net/index.html:147
 msgid "Firefox planet"
@@ -504,7 +510,7 @@ msgstr "Organisaatio"
 
 #: sites/www.thunderbird.net/about/index.html:41
 msgid "Guided by <span class=\"txt-gradient\">Values</span>"
-msgstr ""
+msgstr "<span class=\"txt-gradient\">Arvojen</span> ohjaama"
 
 #: sites/www.thunderbird.net/about/index.html:45
 msgid "A shield with the Thunderbird logo."
@@ -573,7 +579,7 @@ msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:76
 msgid "Voice"
-msgstr ""
+msgstr "Ääni"
 
 #: sites/www.thunderbird.net/about/index.html:77
 msgid "You have a part in Thunderbird's future."
@@ -587,7 +593,7 @@ msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:87
 msgid "Driven by <span class=\"txt-gradient\">Community</span>"
-msgstr ""
+msgstr "<span class=\"txt-gradient\">Yhteisön</span> ohjaama"
 
 #: sites/www.thunderbird.net/about/index.html:88
 msgid ""
@@ -788,11 +794,11 @@ msgstr "Ota yhteyttä"
 
 #: sites/www.thunderbird.net/contact/index.html:16
 msgid "Need to <span class=\"txt-gradient\">Talk?</span>"
-msgstr ""
+msgstr "Haluatko <span class=\"txt-gradient\">keskustella?</span>"
 
 #: sites/www.thunderbird.net/contact/index.html:17
 msgid "Direct your inquiries to the teams below."
-msgstr ""
+msgstr "Lähetä tiedustelut alla oleville ryhmille."
 
 #: sites/www.thunderbird.net/contact/index.html:20 sites/www.thunderbird.net/participate/index.html:70
 msgid "Support"
@@ -800,7 +806,7 @@ msgstr "Tuki"
 
 #: sites/www.thunderbird.net/contact/index.html:20
 msgid "Support Website"
-msgstr ""
+msgstr "Tukisivusto"
 
 #: sites/www.thunderbird.net/contact/index.html:21
 msgid ""
@@ -898,11 +904,11 @@ msgstr "Osallistu"
 
 #: sites/www.thunderbird.net/donate/index.html:16
 msgid "Become a <span class=\"txt-gradient\">Supporter</span>"
-msgstr ""
+msgstr "Ryhdy <span class=\"txt-gradient\">tukijaksi</span>"
 
 #: sites/www.thunderbird.net/donate/index.html:17
 msgid "Help us make Thunderbird better."
-msgstr ""
+msgstr "Auta meitä tekemään Thunderbirdistä entistä parempi."
 
 #: sites/www.thunderbird.net/donate/index.html:18
 msgid ""
@@ -933,7 +939,7 @@ msgstr ""
 
 #: sites/www.thunderbird.net/donate/index.html:44
 msgid "Become a <span class=\"txt-gradient\">Corporate Supporter</span>"
-msgstr ""
+msgstr "Ryhdy <span class=\"txt-gradient\">yritystukijaksi</span>"
 
 #: sites/www.thunderbird.net/donate/index.html:45
 msgid "Secure an open future for yourself and the world."
@@ -1647,11 +1653,11 @@ msgstr ""
 
 #: sites/www.thunderbird.net/participate/index.html:16
 msgid "We Need Your <span class=\"txt-gradient\">Talents</span>"
-msgstr ""
+msgstr "Tarvitsemme <span class=\"txt-gradient\">lahjakkuuksiasi</span>"
 
 #: sites/www.thunderbird.net/participate/index.html:17
 msgid "Everyone can be a contributor. Here are some of the ways you can help."
-msgstr ""
+msgstr "Kuka tahansa voi avustaa. Tässä on joitain tapoja, miten voit auttaa."
 
 #: sites/www.thunderbird.net/participate/index.html:18
 msgid ""
@@ -1677,7 +1683,7 @@ msgstr "Työpöytäversion kehitys:"
 #: sites/www.thunderbird.net/participate/index.html:65
 #, python-format
 msgid "Explore the <a href=\"%(url)s\">docs</a>"
-msgstr ""
+msgstr "Tutustu <a href=\"%(url)s\">dokumentaatioon</a>"
 
 #: sites/www.thunderbird.net/participate/index.html:31 sites/www.thunderbird.net/participate/index.html:39 sites/www.thunderbird.net/participate/index.html:47
 #, python-format
@@ -1688,7 +1694,7 @@ msgstr ""
 #: sites/www.thunderbird.net/participate/index.html:75 sites/www.thunderbird.net/participate/index.html:107
 #, python-format
 msgid "Say hello in <a href=\"%(url)s\">Matrix</a>"
-msgstr ""
+msgstr "Tervehdi <a href=\"%(url)s\">Matrixissa</a>"
 
 #: sites/www.thunderbird.net/participate/index.html:36
 msgid "Android Development:"
@@ -1731,7 +1737,7 @@ msgstr ""
 #: sites/www.thunderbird.net/participate/index.html:66
 #, python-format
 msgid "Join us on <a href=\"%(url)s\">Pontoon</a>"
-msgstr ""
+msgstr "Liity joukkoomme <a href=\"%(url)s\">Pontoonissa</a>"
 
 #: sites/www.thunderbird.net/participate/index.html:72
 msgid ""
@@ -1822,7 +1828,7 @@ msgstr ""
 
 #: sites/www.thunderbird.net/participate/index.html:122
 msgid "Contributor <span class=\"txt-gradient\">Experience</span>"
-msgstr ""
+msgstr "Avustajan <span class=\"txt-gradient\">kokemus</span>"
 
 #: sites/www.thunderbird.net/participate/index.html:123
 msgid "The ways and reasons to get involved are as diverse as the people who do."
@@ -1882,7 +1888,7 @@ msgstr ""
 
 #: sites/www.thunderbird.net/participate/index.html:155
 msgid "Shape the <span class=\"txt-gradient\">Future</span>"
-msgstr ""
+msgstr "Muokkaa <span class=\"txt-gradient\">tulevaisuutta</span>"
 
 #: sites/www.thunderbird.net/participate/index.html:156
 msgid "Improve software and lives by volunteering."
@@ -2342,7 +2348,7 @@ msgstr ""
 
 #: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:48
 msgid "<strong>Did you know Thunderbird is funded only by donations from users like you?</strong>"
-msgstr ""
+msgstr "<strong>Tiesitkö, että Thunderbird rahoitetaan vain kaltaistesi käyttäjien lahjoituksilla?</strong>"
 
 #: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:51
 msgid "We don’t show advertisements or sell your data. <strong>You are not the product.</strong>"
