@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-07-05 12:52-0700\n"
+"POT-Creation-Date: 2024-07-15 16:14-0700\n"
 "PO-Revision-Date: 2023-08-05 03:56+0000\n"
 "Last-Translator: Kazushi <arcsaber@protonmail.com>\n"
 "Language-Team: none\n"
@@ -148,6 +148,27 @@ msgstr "バグを報告"
 #: sites/start.thunderbird.net/beta/index.html:125
 msgid "Unsure? Ask for help in the beta forum."
 msgstr "よく分からないことがあれば、Beta フォーラムで尋ねてみましょう。"
+
+#: sites/start.thunderbird.net/monthly/index.html:10
+msgid "Unsupported Thunderbird Version!"
+msgstr ""
+
+#: sites/start.thunderbird.net/monthly/index.html:21
+msgid "This is an unsupported version of Thunderbird!!"
+msgstr ""
+
+#: sites/start.thunderbird.net/monthly/index.html:22
+msgid "Thunderbird monthly releases are not considered stable for general use."
+msgstr ""
+
+#: sites/start.thunderbird.net/monthly/index.html:23
+msgid "Use at your own risk, this build is the same quality as Thunderbird Beta."
+msgstr ""
+
+#: sites/start.thunderbird.net/monthly/index.html:24
+#, python-format
+msgid "We recommend downloading the <a href=\"%(download_url)s\">latest stable version of Thunderbird</a>."
+msgstr ""
 
 #: sites/start.thunderbird.net/release/index.html:8
 msgid "Welcome to <div class=\"tb-text\">Thunderbird</div>"
@@ -2677,91 +2698,91 @@ msgstr "高価なサーバーの維持、バグの修正、新機能の開発、
 msgid "Your support is vital in keeping Thunderbird development alive and thriving. If you get value from using Thunderbird, please consider giving a donation to support it."
 msgstr "Thunderbirdの開発を存続させ、繁栄させるためには、皆様の支援が欠かせません。Thunderbirdの利用に価値を感じたなら、寄付を検討してください"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:6 sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:41
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:6 sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:45
 msgid "Welcome to the evolution of Supernova!"
 msgstr "Supernovaの進化へようこそ!"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:34
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:38
 msgid "Thunderbird 128 Nebula"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:43
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:47
 msgid "With revolutionary code improvements, Nebula sets the stage for faster delivery of new features, reinforced stability, stellar quality-of-life enhancements and visual refinements."
 msgstr "革命的なコードの改善により、Nebulaは新機能の迅速な提供、強化された安定性、優れた品質向上、および視覚的洗練のステージを設定します。"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:60
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:64
 msgid "Fast and Fluid"
 msgstr "高速でスムーズ (こうそくでスムーズ"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:62
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:66
 msgid "Feel the difference smarter code makes possible! Interactions with your message list are faster, the email space is more responsive, and Thunderbird is more stable and reliable."
 msgstr "賢いコードの違いを感じてください！メッセージリストとのやり取りが迅速になり、メールスペースがより反応しやすくなり、Thunderbirdはより安定し信頼性が向上しました。"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:78
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:79
 msgid "Cards View"
 msgstr "カードビュー"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:82
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:83
 msgid ""
 "The updated design makes scanning your emails faster, with a more attractive layout and an improved threads experience. Plus, the height of email cards adjusts automatically based on your settings, "
 "so everything looks just right."
 msgstr "更新されたデザインにより、メールをスキャンするのがより速くなり、より魅力的なレイアウトと改良されたスレッド体験が得られます。さらに、メールカードの高さは設定に基づいて自動的に調整されるので、すべてが完璧に見えます。"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:98
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:99
 msgid "Accent Colors"
 msgstr "アクセントカラー"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:102
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:103
 msgid "Enhanced theme compatibility, especially for Linux users on Ubuntu and Mint. Your Thunderbird will better blend with your desktop environment, seamlessly matching the system’s accent colors."
 msgstr "特にUbuntuとMintのLinuxユーザーにとって、テーマの互換性が強化されました。Thunderbirdがデスクトップ環境とより良く調和し、システムのアクセントカラーとシームレスに一致します。"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:117
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:118
 msgid "Folder Pane"
 msgstr "フォルダペイン"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:121
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:122
 msgid "A bundle of improvements including faster rendering and searching of unified folders, multi-folder selection capabilities, and better recall of message thread states."
 msgstr "統一フォルダのレンダリングと検索が速くなり、複数フォルダの選択機能が追加され、メッセージスレッド状態の記憶が向上しました。"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:135
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:136
 msgid "Rust Revolution"
 msgstr "Rustの革命"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:137
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:138
 msgid ""
 "We've overcome major roadblocks to bring Rust into Thunderbird. This paves the way for better code, shared features between desktop and mobile, and faster development time. It's a game-changer for "
 "our developers and for our users."
 msgstr "RustをThunderbirdに導入するための主要な障害を克服しました。これにより、デスクトップとモバイルの共有機能や迅速な開発時間が実現します。これは開発者とユーザーにとって画期的な変化です。"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:153
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:154
 msgid "Streamlined menu navigation with better visual cues and less cognitive burden to make your email experience more efficient and more enjoyable."
 msgstr "視覚的な手がかりが改善され、認知負荷が軽減されたメニューのナビゲーションにより、メール体験がより効率的で楽しいものになります。"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:166
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:167
 msgid "Native Windows Notifications"
 msgstr "ネイティブWindows通知"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:169
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:170
 msgid "Fixed and fully functional! Clicking a notification dismisses it, brings Thunderbird to the foreground, and selects the message. Notifications now disappear when Thunderbird closes."
 msgstr "修正され、完全に機能します！通知をクリックすると、それが閉じられ、Thunderbirdが前面に表示され、メッセージが選択されます。Thunderbirdが閉じられると通知は消えるようになりました。"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:181
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:182
 msgid "Context Menu Improvements"
 msgstr "コンテキストメニューの改善"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:184
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:185
 msgid "Reorganized for a smoother experience, with primary actions now as icons for quick access."
 msgstr "スムーズな体験のために再編成され、主要なアクションはクイックアクセス用にアイコンとして表示されます。"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:195
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:196
 msgid "Account Color Customization"
 msgstr "アカウントの色のカスタマイズ"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:198
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:199
 msgid "By popular demand, you can now customize the color of your account icons. These colors also show up in the “From” selection when composing emails."
 msgstr "多くの要望に応え、アカウントアイコンの色をカスタマイズできるようになりました。これらの色はメール作成時の「送信者」選択にも表示されます。"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:209
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:210
 msgid "“Nebula” enables an email experience that shines brighter than ever. Expect more updates and helpful new features to materialize over the upcoming months."
 msgstr "「Nebula」はこれまで以上に輝くメール体験を可能にします。今後数ヶ月間でさらに多くの更新と便利な新機能が登場する予定です。"
 

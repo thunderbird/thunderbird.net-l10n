@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-07-05 12:52-0700\n"
+"POT-Creation-Date: 2024-07-15 16:14-0700\n"
 "PO-Revision-Date: 2024-07-08 11:41+0000\n"
 "Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
 "Language-Team: none\n"
@@ -151,6 +151,27 @@ msgstr "Báo cáo lỗi"
 #: sites/start.thunderbird.net/beta/index.html:125
 msgid "Unsure? Ask for help in the beta forum."
 msgstr "Không chắc chắn? Yêu cầu trợ giúp trong diễn đàn beta."
+
+#: sites/start.thunderbird.net/monthly/index.html:10
+msgid "Unsupported Thunderbird Version!"
+msgstr ""
+
+#: sites/start.thunderbird.net/monthly/index.html:21
+msgid "This is an unsupported version of Thunderbird!!"
+msgstr ""
+
+#: sites/start.thunderbird.net/monthly/index.html:22
+msgid "Thunderbird monthly releases are not considered stable for general use."
+msgstr ""
+
+#: sites/start.thunderbird.net/monthly/index.html:23
+msgid "Use at your own risk, this build is the same quality as Thunderbird Beta."
+msgstr ""
+
+#: sites/start.thunderbird.net/monthly/index.html:24
+#, python-format
+msgid "We recommend downloading the <a href=\"%(download_url)s\">latest stable version of Thunderbird</a>."
+msgstr ""
 
 #: sites/start.thunderbird.net/release/index.html:8
 msgid "Welcome to <div class=\"tb-text\">Thunderbird</div>"
@@ -2809,32 +2830,32 @@ msgstr "Bảo trì các máy chủ đắt tiền, sửa lỗi, phát triển cá
 msgid "Your support is vital in keeping Thunderbird development alive and thriving. If you get value from using Thunderbird, please consider giving a donation to support it."
 msgstr "Hỗ trợ của bạn rất quan trọng trong việc duy trì phát triển của Thunderbird. Nếu bạn nhận được giá trị từ việc sử dụng Thunderbird, vui lòng cân nhắc quyên góp để hỗ trợ nó."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:6 sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:41
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:6 sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:45
 msgid "Welcome to the evolution of Supernova!"
 msgstr "Chào mừng đến với sự phát triển của Supernova!"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:34
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:38
 msgid "Thunderbird 128 Nebula"
 msgstr "Thunderbird 128 Nebula"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:43
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:47
 msgid "With revolutionary code improvements, Nebula sets the stage for faster delivery of new features, reinforced stability, stellar quality-of-life enhancements and visual refinements."
 msgstr ""
 "Với những cải tiến mã mang tính cách mạng, Nebula tạo tiền đề cho việc cung cấp các tính năng mới nhanh hơn, tăng cường độ ổn định, cải tiến chất lượng cuộc sống vượt trội và cải tiến hình ảnh."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:60
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:64
 msgid "Fast and Fluid"
 msgstr "Nhanh chóng và trôi chảy"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:62
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:66
 msgid "Feel the difference smarter code makes possible! Interactions with your message list are faster, the email space is more responsive, and Thunderbird is more stable and reliable."
 msgstr "Hãy cảm nhận sự khác biệt mà mã tối ưu hơn có thể tạo ra! Tương tác với danh sách thư của bạn nhanh hơn, không gian email phản hồi nhanh hơn và Thunderbird ổn định và đáng tin cậy hơn."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:78
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:79
 msgid "Cards View"
 msgstr "Chế độ xem thẻ"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:82
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:83
 msgid ""
 "The updated design makes scanning your emails faster, with a more attractive layout and an improved threads experience. Plus, the height of email cards adjusts automatically based on your settings, "
 "so everything looks just right."
@@ -2842,29 +2863,29 @@ msgstr ""
 "Thiết kế được cập nhật giúp quét email của bạn nhanh hơn, với bố cục hấp dẫn hơn và trải nghiệm chủ đề được cải thiện. Ngoài ra, chiều cao của thẻ email sẽ tự động điều chỉnh dựa trên cài đặt của "
 "bạn để mọi thứ trông vừa phải."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:98
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:99
 msgid "Accent Colors"
 msgstr "Màu nhấn"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:102
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:103
 msgid "Enhanced theme compatibility, especially for Linux users on Ubuntu and Mint. Your Thunderbird will better blend with your desktop environment, seamlessly matching the system’s accent colors."
 msgstr ""
 "Khả năng tương thích chủ đề nâng cao, đặc biệt đối với người dùng Linux trên Ubuntu và Mint. Thunderbird của bạn sẽ hòa hợp tốt hơn với môi trường máy tính để bàn của bạn, kết hợp hoàn hảo với màu "
 "nhấn của hệ thống."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:117
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:118
 msgid "Folder Pane"
 msgstr "Ngăn thư mục"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:121
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:122
 msgid "A bundle of improvements including faster rendering and searching of unified folders, multi-folder selection capabilities, and better recall of message thread states."
 msgstr "Một loạt cải tiến bao gồm kết xuất và tìm kiếm các thư mục hợp nhất nhanh hơn, khả năng chọn nhiều thư mục và thu hồi tốt hơn các trạng thái chủ đề thư."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:135
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:136
 msgid "Rust Revolution"
 msgstr "Sự phát triển của Rust"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:137
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:138
 msgid ""
 "We've overcome major roadblocks to bring Rust into Thunderbird. This paves the way for better code, shared features between desktop and mobile, and faster development time. It's a game-changer for "
 "our developers and for our users."
@@ -2872,35 +2893,35 @@ msgstr ""
 "Chúng tôi đã vượt qua những trở ngại lớn để đưa Rust vào Thunderbird. Điều này mở đường cho mã tốt hơn, các tính năng được chia sẻ giữa máy tính để bàn và thiết bị di động và thời gian phát triển "
 "nhanh hơn. Đó là công cụ thay đổi cuộc chơi cho các nhà phát triển và người dùng của chúng tôi."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:153
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:154
 msgid "Streamlined menu navigation with better visual cues and less cognitive burden to make your email experience more efficient and more enjoyable."
 msgstr "Điều hướng menu đã được đơn giản hóa, lời nhắc trực quan, hợp lý hơn và logic vận hành tốt hơn để việc gửi và nhận email hiệu quả hơn và thú vị hơn."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:166
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:167
 msgid "Native Windows Notifications"
 msgstr "Thông báo Native trên Windows"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:169
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:170
 msgid "Fixed and fully functional! Clicking a notification dismisses it, brings Thunderbird to the foreground, and selects the message. Notifications now disappear when Thunderbird closes."
 msgstr "Đã sửa và đầy đủ chức năng! Việc nhấp vào thông báo sẽ loại bỏ thông báo đó, đưa Thunderbird lên trước màn hình của bạn và chọn thư. Thông báo bây giờ sẽ biến mất khi Thunderbird đóng."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:181
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:182
 msgid "Context Menu Improvements"
 msgstr "Cải tiến menu ngữ cảnh"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:184
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:185
 msgid "Reorganized for a smoother experience, with primary actions now as icons for quick access."
 msgstr "Được sắp xếp lại để có trải nghiệm mượt mà hơn, với các hành động chính hiện dưới dạng biểu tượng để truy cập nhanh."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:195
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:196
 msgid "Account Color Customization"
 msgstr "Tùy chỉnh màu tài khoản"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:198
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:199
 msgid "By popular demand, you can now customize the color of your account icons. These colors also show up in the “From” selection when composing emails."
 msgstr "Theo nhu cầu phổ biến, giờ đây bạn có thể tùy chỉnh màu sắc của biểu tượng tài khoản của mình. Những màu này cũng hiển thị trong phần lựa chọn “Từ” khi soạn email."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:209
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:210
 msgid "“Nebula” enables an email experience that shines brighter than ever. Expect more updates and helpful new features to materialize over the upcoming months."
 msgstr "“Nebula” cho phép trải nghiệm email tỏa sáng hơn bao giờ hết. Nhiều thông tin cập nhật hơn và các tính năng mới hữu ích sẽ xuất hiện trong những tháng tới."
 

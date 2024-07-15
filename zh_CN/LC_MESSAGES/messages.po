@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
 # taotieren <admin@taotieren.com>, 2019.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-07-05 12:52-0700\n"
+"POT-Creation-Date: 2024-07-15 16:14-0700\n"
 "PO-Revision-Date: 2024-07-12 15:19+0000\n"
 "Last-Translator: Olvcpr423 <oliverchan86@outlook.com>\n"
 "Language-Team: none\n"
@@ -147,6 +147,27 @@ msgstr "报告缺陷（Bug）"
 #: sites/start.thunderbird.net/beta/index.html:125
 msgid "Unsure? Ask for help in the beta forum."
 msgstr "不确定是否为 Bug？到论坛的 Beta 版块寻求帮助。"
+
+#: sites/start.thunderbird.net/monthly/index.html:10
+msgid "Unsupported Thunderbird Version!"
+msgstr ""
+
+#: sites/start.thunderbird.net/monthly/index.html:21
+msgid "This is an unsupported version of Thunderbird!!"
+msgstr ""
+
+#: sites/start.thunderbird.net/monthly/index.html:22
+msgid "Thunderbird monthly releases are not considered stable for general use."
+msgstr ""
+
+#: sites/start.thunderbird.net/monthly/index.html:23
+msgid "Use at your own risk, this build is the same quality as Thunderbird Beta."
+msgstr ""
+
+#: sites/start.thunderbird.net/monthly/index.html:24
+#, python-format
+msgid "We recommend downloading the <a href=\"%(download_url)s\">latest stable version of Thunderbird</a>."
+msgstr ""
 
 #: sites/start.thunderbird.net/release/index.html:8
 msgid "Welcome to <div class=\"tb-text\">Thunderbird</div>"
@@ -2578,91 +2599,91 @@ msgstr "为达成该使命，势必要维护开销不菲的服务器、修复缺
 msgid "Your support is vital in keeping Thunderbird development alive and thriving. If you get value from using Thunderbird, please consider giving a donation to support it."
 msgstr "有了您的支持，Thunderbird 才能走得更远。如果您觉得 Thunderbird 好用，请考虑捐款支持它！"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:6 sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:41
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:6 sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:45
 msgid "Welcome to the evolution of Supernova!"
 msgstr "欢迎见证 Supernova 的进化"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:34
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:38
 msgid "Thunderbird 128 Nebula"
 msgstr "Thunderbird 128 Nebula"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:43
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:47
 msgid "With revolutionary code improvements, Nebula sets the stage for faster delivery of new features, reinforced stability, stellar quality-of-life enhancements and visual refinements."
 msgstr "Nebula 大刀阔斧改进代码，为加快提供新功能、提高稳定性、改善使用体验、改良视觉效果打下了坚实基础。"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:60
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:64
 msgid "Fast and Fluid"
 msgstr "毫不拖泥带水"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:62
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:66
 msgid "Feel the difference smarter code makes possible! Interactions with your message list are faster, the email space is more responsive, and Thunderbird is more stable and reliable."
 msgstr "敬请感受精妙代码造就的美妙变化！消息列表反应更迅捷，邮件空间也更灵敏，整个 Thunderbird 都更稳定可靠。"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:78
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:79
 msgid "Cards View"
 msgstr "卡片视图"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:82
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:83
 msgid ""
 "The updated design makes scanning your emails faster, with a more attractive layout and an improved threads experience. Plus, the height of email cards adjusts automatically based on your settings, "
 "so everything looks just right."
 msgstr "新版设计为浏览邮件大提速，也让界面布局更美观、话题功能更好用。此外，邮件卡片高度会根据您的设置自动调整，每一处都恰到好处。"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:98
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:99
 msgid "Accent Colors"
 msgstr "强调色"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:102
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:103
 msgid "Enhanced theme compatibility, especially for Linux users on Ubuntu and Mint. Your Thunderbird will better blend with your desktop environment, seamlessly matching the system’s accent colors."
 msgstr "主题的兼容性获得增强，使用 Ubuntu 和 Mint 的 Linux 用户对此应该尤为受用。Thunderbird 与您的桌面环境将更加契合，能够完美对接系统的强调色。"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:117
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:118
 msgid "Folder Pane"
 msgstr "文件夹窗格"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:121
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:122
 msgid "A bundle of improvements including faster rendering and searching of unified folders, multi-folder selection capabilities, and better recall of message thread states."
 msgstr "一众改进现已就位：综合文件夹的加载和搜索快上加快，邮件话题状态的检索得到优化，还可以同时选中多个文件夹了。"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:135
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:136
 msgid "Rust Revolution"
 msgstr "掀起 Rust 革命"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:137
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:138
 msgid ""
 "We've overcome major roadblocks to bring Rust into Thunderbird. This paves the way for better code, shared features between desktop and mobile, and faster development time. It's a game-changer for "
 "our developers and for our users."
 msgstr "我们扫清将 Rust 引入 Thunderbird 的主要障碍，为今后提高代码质量、同步桌面端与移动端功能、节省开发时间开了好局。无论对于开发者还是用户来说，这都是一次深刻变革。"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:153
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:154
 msgid "Streamlined menu navigation with better visual cues and less cognitive burden to make your email experience more efficient and more enjoyable."
 msgstr "菜单导航经过简化，视觉提示更为合理，操作逻辑更合直觉。让收发邮件再高效一点，再愉快一些。"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:166
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:167
 msgid "Native Windows Notifications"
 msgstr "Windows 原生通知"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:169
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:170
 msgid "Fixed and fully functional! Clicking a notification dismisses it, brings Thunderbird to the foreground, and selects the message. Notifications now disappear when Thunderbird closes."
 msgstr "相关问题得到解决，功能已完全恢复！点击通知即可将其清除、切换 Thunderbird 至前台显示，并选择相应消息。关闭 Thunderbird 时，通知现也会随之消失。"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:181
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:182
 msgid "Context Menu Improvements"
 msgstr "上下文菜单改进"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:184
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:185
 msgid "Reorganized for a smoother experience, with primary actions now as icons for quick access."
 msgstr "上下文菜单经过重新排列，用起来更加顺手。常用操作现以图标形式展现，方便快速取用。"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:195
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:196
 msgid "Account Color Customization"
 msgstr "自定义账户颜色"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:198
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:199
 msgid "By popular demand, you can now customize the color of your account icons. These colors also show up in the “From” selection when composing emails."
 msgstr "顺应广大用户呼声，账户图标的颜色现可自选了。撰写邮件时，相关颜色也会显示于”发件人“部分。"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:209
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:210
 msgid "“Nebula” enables an email experience that shines brighter than ever. Expect more updates and helpful new features to materialize over the upcoming months."
 msgstr "“Nebula”所带来的邮件体验如此夺目，前所未见。未来几个月，一大波更新及实用新功能将陆续登场，敬请期待。"
 

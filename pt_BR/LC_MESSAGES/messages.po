@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-07-05 12:52-0700\n"
+"POT-Creation-Date: 2024-07-15 16:14-0700\n"
 "PO-Revision-Date: 2024-07-08 21:20+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: none\n"
@@ -152,6 +152,27 @@ msgstr "Relate uma falha"
 #: sites/start.thunderbird.net/beta/index.html:125
 msgid "Unsure? Ask for help in the beta forum."
 msgstr "Não tem certeza? Peça ajuda no fórum do beta."
+
+#: sites/start.thunderbird.net/monthly/index.html:10
+msgid "Unsupported Thunderbird Version!"
+msgstr ""
+
+#: sites/start.thunderbird.net/monthly/index.html:21
+msgid "This is an unsupported version of Thunderbird!!"
+msgstr ""
+
+#: sites/start.thunderbird.net/monthly/index.html:22
+msgid "Thunderbird monthly releases are not considered stable for general use."
+msgstr ""
+
+#: sites/start.thunderbird.net/monthly/index.html:23
+msgid "Use at your own risk, this build is the same quality as Thunderbird Beta."
+msgstr ""
+
+#: sites/start.thunderbird.net/monthly/index.html:24
+#, python-format
+msgid "We recommend downloading the <a href=\"%(download_url)s\">latest stable version of Thunderbird</a>."
+msgstr ""
 
 #: sites/start.thunderbird.net/release/index.html:8
 msgid "Welcome to <div class=\"tb-text\">Thunderbird</div>"
@@ -2763,35 +2784,35 @@ msgstr "Manter servidores caros, corrigir erros, desenvolver novos recursos e co
 msgid "Your support is vital in keeping Thunderbird development alive and thriving. If you get value from using Thunderbird, please consider giving a donation to support it."
 msgstr "Seu apoio é vital para manter o desenvolvimento do Thunderbird vivo e próspero. Se você dá valor ao uso do Thunderbird, considere fazer uma doação para apoiar."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:6 sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:41
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:6 sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:45
 msgid "Welcome to the evolution of Supernova!"
 msgstr "Boas-vindas à evolução do Supernova!"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:34
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:38
 msgid "Thunderbird 128 Nebula"
 msgstr "Thunderbird 128 Nebula"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:43
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:47
 msgid "With revolutionary code improvements, Nebula sets the stage for faster delivery of new features, reinforced stability, stellar quality-of-life enhancements and visual refinements."
 msgstr ""
 "Com avanços revolucionários no código, o Nebula abre caminho para lançamentos mais rápidos de novas funcionalidades, estabilidade reforçada, melhorias significativas na qualidade de vida e "
 "refinamentos visuais."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:60
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:64
 msgid "Fast and Fluid"
 msgstr "Rápido e fluido"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:62
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:66
 msgid "Feel the difference smarter code makes possible! Interactions with your message list are faster, the email space is more responsive, and Thunderbird is more stable and reliable."
 msgstr ""
 "Sinta a diferença que um código mais inteligente torna possível! As interações com sua lista de mensagens estão mais rápidas, a área de emails está mais responsiva e o Thunderbird está mais estável "
 "e confiável."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:78
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:79
 msgid "Cards View"
 msgstr "Exibição em cartões"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:82
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:83
 msgid ""
 "The updated design makes scanning your emails faster, with a more attractive layout and an improved threads experience. Plus, the height of email cards adjusts automatically based on your settings, "
 "so everything looks just right."
@@ -2799,29 +2820,29 @@ msgstr ""
 "O design atualizado agiliza a análise de seus emails, com um layout mais atraente e uma experiência de uso melhorada em tópicos. Além disso, a altura dos cartões de email é ajustada automaticamente "
 "com base em suas configurações, para que tudo pareça correto."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:98
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:99
 msgid "Accent Colors"
 msgstr "Cores de destaque"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:102
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:103
 msgid "Enhanced theme compatibility, especially for Linux users on Ubuntu and Mint. Your Thunderbird will better blend with your desktop environment, seamlessly matching the system’s accent colors."
 msgstr ""
 "Compatibilidade aprimorada de temas, especialmente para usuários de Linux Ubuntu e Mint. Seu Thunderbird combinará melhor com seu ambiente de trabalho, combinando perfeitamente com as cores de "
 "destaque do sistema."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:117
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:118
 msgid "Folder Pane"
 msgstr "Painel de pastas"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:121
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:122
 msgid "A bundle of improvements including faster rendering and searching of unified folders, multi-folder selection capabilities, and better recall of message thread states."
 msgstr "Um pacote de melhorias que inclui mais rapidez em exibição e pesquisa em pastas unificadas, recursos de seleção de várias pastas e melhor recuperação de estados de tópicos de mensagens."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:135
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:136
 msgid "Rust Revolution"
 msgstr "Revolução Rust"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:137
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:138
 msgid ""
 "We've overcome major roadblocks to bring Rust into Thunderbird. This paves the way for better code, shared features between desktop and mobile, and faster development time. It's a game-changer for "
 "our developers and for our users."
@@ -2829,35 +2850,35 @@ msgstr ""
 "Superamos grandes bloqueios para trazer o Rust para o Thunderbird. Isso abre caminho para códigos melhores, recursos compartilhados entre computadores e dispositivos móveis e tempo de "
 "desenvolvimento mais rápido. É um divisor de águas para nossos desenvolvedores e usuários."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:153
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:154
 msgid "Streamlined menu navigation with better visual cues and less cognitive burden to make your email experience more efficient and more enjoyable."
 msgstr "Navegação no menu simplificada, com melhores indicações visuais e menor carga cognitiva, para tornar sua experiência de uso de email mais eficiente e agradável."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:166
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:167
 msgid "Native Windows Notifications"
 msgstr "Notificações nativas do Windows"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:169
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:170
 msgid "Fixed and fully functional! Clicking a notification dismisses it, brings Thunderbird to the foreground, and selects the message. Notifications now disappear when Thunderbird closes."
 msgstr "Corrigido e totalmente funcional! Clicar em uma notificação a descarta, traz o Thunderbird para frente e seleciona a mensagem. Agora as notificações desaparecem ao fechar o Thunderbird."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:181
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:182
 msgid "Context Menu Improvements"
 msgstr "Melhorias no menu de contexto"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:184
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:185
 msgid "Reorganized for a smoother experience, with primary actions now as icons for quick access."
 msgstr "Reorganizado para uma experiência de uso mais suave, com ações principais agora como ícones para acesso rápido."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:195
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:196
 msgid "Account Color Customization"
 msgstr "Personalização de cor de conta"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:198
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:199
 msgid "By popular demand, you can now customize the color of your account icons. These colors also show up in the “From” selection when composing emails."
 msgstr "Atendendo à demanda popular, agora você pode personalizar a cor dos ícones de suas contas. Essas cores também aparecem na seleção “De” ao escrever emails."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:209
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:210
 msgid "“Nebula” enables an email experience that shines brighter than ever. Expect more updates and helpful new features to materialize over the upcoming months."
 msgstr "O “Nebula” proporciona uma experiência de uso de email mais brilhante do que nunca. Espere mais atualizações e novos recursos úteis nos próximos meses."
 
