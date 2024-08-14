@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-07-25 13:18-0700\n"
-"PO-Revision-Date: 2024-07-28 15:13+0000\n"
+"PO-Revision-Date: 2024-08-14 19:31+0000\n"
 "Last-Translator: Cláudio Esperança <cesperanc@gmail.com>\n"
 "Language-Team: none\n"
 "Language: pt_PT\n"
@@ -277,11 +277,15 @@ msgid ""
 "          <strong>calendar</strong>, and <strong>contacts</strong> app that maximizes your freedoms.\n"
 "          "
 msgstr ""
+"\n"
+"          Venha conhecer o Thunderbird, a aplicação de <strong>correio eletrónico</strong>,\n"
+"          <strong>calendário</strong> e <strong>contactos</strong> que maximiza a sua independência.\n"
+"          "
 
 #: sites/www.thunderbird.net/download/index.html:8 sites/www.thunderbird.net/download/index.html:17 sites/www.thunderbird.net/includes/base/nav.html:78 sites/www.thunderbird.net/index.html:34
 #: sites/www.thunderbird.net/index.html:344 sites/www.thunderbird.net/thunderbird/all/index.html:9 sites/www.thunderbird.net/thunderbird/all/index.html:100
 msgid "Download"
-msgstr "Transferir"
+msgstr "Transferência"
 
 #: sites/www.thunderbird.net/index.html:54 sites/www.thunderbird.net/index.html:59 sites/www.thunderbird.net/index.html:64 sites/www.thunderbird.net/index.html:69
 #: sites/www.thunderbird.net/index.html:74
@@ -344,6 +348,12 @@ msgid ""
 "          always put your privacy and security first.\n"
 "          "
 msgstr ""
+"\n"
+"          O Thunderbird é financiado pelos donativos dos utilizadores. Nós não recolhemos dados pessoais, nem vendemos publicidade na sua caixa de entrada\n"
+"          ou treinamos secretamente a IA com as suas conversações privadas. O Thunderbird é de <a href=\"%(open_source)s\">código aberto</a>.\n"
+"          Como parte da família <a\n"
+"            href=\"%(mozilla)s\">Mozilla</a> pode acreditar que nós colocamos sempre a sua privacidade e segurança em primeiro.       \n"
+"          "
 
 #: sites/www.thunderbird.net/index.html:138
 msgid "Learn Who We Are"
@@ -528,7 +538,7 @@ msgstr "Organização"
 
 #: sites/www.thunderbird.net/about/index.html:36 sites/www.thunderbird.net/about/mission-statement/index.html:8
 msgid "Our Mission Statement"
-msgstr ""
+msgstr "A nossa declaração de missão"
 
 #: sites/www.thunderbird.net/about/index.html:44
 msgid "Guided by <span class=\"txt-gradient\">Values</span>"
@@ -571,7 +581,7 @@ msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:60
 msgid "Read the Privacy Policy"
-msgstr ""
+msgstr "Leia a Política de Privacidade"
 
 #: sites/www.thunderbird.net/about/index.html:65
 msgid "A key with the Thunderbird logo."
@@ -579,11 +589,11 @@ msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:68
 msgid "Freedom"
-msgstr ""
+msgstr "Liberdade"
 
 #: sites/www.thunderbird.net/about/index.html:69
 msgid "Thunderbird belongs to you (and the world)."
-msgstr ""
+msgstr "O Thunderbird pertence a si (e ao mundo)."
 
 #: sites/www.thunderbird.net/about/index.html:70
 msgid ""
@@ -605,7 +615,7 @@ msgstr "Voz"
 
 #: sites/www.thunderbird.net/about/index.html:80
 msgid "You have a part in Thunderbird's future."
-msgstr ""
+msgstr "Você tem uma parte no futuro do Thunderbird."
 
 #: sites/www.thunderbird.net/about/index.html:81
 msgid ""
@@ -672,7 +682,7 @@ msgstr "Engenheiro de UX, PC"
 
 #: sites/www.thunderbird.net/about/index.html:118
 msgid "Finance & Accounting Specialist"
-msgstr ""
+msgstr "Especialista de Contabilidade e Finanças"
 
 #: sites/www.thunderbird.net/about/index.html:119 sites/www.thunderbird.net/about/index.html:127 sites/www.thunderbird.net/about/index.html:134
 msgid "Staff Engineer, Desktop"
@@ -692,11 +702,11 @@ msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:123
 msgid "Manager, Release Operations"
-msgstr ""
+msgstr "Gestor, Operações de Lançamento"
 
 #: sites/www.thunderbird.net/about/index.html:124
 msgid "Release Engineer"
-msgstr ""
+msgstr "Engenheiro de Lançamento"
 
 #: sites/www.thunderbird.net/about/index.html:125
 msgid "Sr. Staff Engineer, Desktop"
@@ -708,7 +718,7 @@ msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:128
 msgid "Community Engagement Manager"
-msgstr ""
+msgstr "Gestor de Participação na Comunidade"
 
 #: sites/www.thunderbird.net/about/index.html:129
 msgid "Sr. Software Engineer, Desktop Add-ons"
@@ -728,7 +738,7 @@ msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:133
 msgid "Manager, UI/UX Design Studio"
-msgstr ""
+msgstr "Gestor, Estúdio de Desenho de UI/UX"
 
 #: sites/www.thunderbird.net/about/index.html:135
 msgid "Manager, Web Services"
@@ -788,7 +798,7 @@ msgstr ""
 
 #: sites/www.thunderbird.net/about/mission-statement/index.html:16
 msgid "Thunderbird’s <span class=\"txt-gradient\">Mission</span>"
-msgstr ""
+msgstr "A <span class=\"txt-gradient\">Missão</span> do Thunderbird"
 
 #: sites/www.thunderbird.net/about/mission-statement/index.html:18
 msgid ""
@@ -836,7 +846,7 @@ msgstr ""
 #: sites/www.thunderbird.net/calendar/holidays/index.html:46
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
-msgstr ""
+msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
 
 #: sites/www.thunderbird.net/calendar/holidays/index.html:48
 #, python-format
@@ -849,11 +859,11 @@ msgstr "Contactar-nos"
 
 #: sites/www.thunderbird.net/contact/index.html:16
 msgid "Need to <span class=\"txt-gradient\">Talk?</span>"
-msgstr ""
+msgstr "Precisa de <span class=\"txt-gradient\">falar?</span>"
 
 #: sites/www.thunderbird.net/contact/index.html:17
 msgid "Direct your inquiries to the teams below."
-msgstr ""
+msgstr "Direcione as suas questões para as equipas abaixo."
 
 #: sites/www.thunderbird.net/contact/index.html:20 sites/www.thunderbird.net/participate/index.html:70
 msgid "Support"
@@ -967,7 +977,7 @@ msgstr "Contribuir"
 
 #: sites/www.thunderbird.net/donate/index.html:16
 msgid "Become a <span class=\"txt-gradient\">Supporter</span>"
-msgstr "Torne-se um <span class=\"txt-gradient\">Apoiante</span>"
+msgstr "Torne-se num <span class=\"txt-gradient\">Apoiante</span>"
 
 #: sites/www.thunderbird.net/donate/index.html:17
 msgid "Help us make Thunderbird better."
@@ -1247,7 +1257,7 @@ msgstr ""
 
 #: sites/www.thunderbird.net/includes/faq.html:157
 msgid "What are your transaction costs on donations?"
-msgstr ""
+msgstr "Quais são os vossos custos de transação nos donativos?"
 
 #: sites/www.thunderbird.net/includes/faq.html:160
 msgid ""
@@ -1316,6 +1326,8 @@ msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. If you need technical support, please head over to <a href=\"%(support)s\">Thunderbird "
 "Support</a> for assistance."
 msgstr ""
+"Se tem uma pergunta sobre fazer donativos para o Thunderbird, por favor, contacte-nos através <a href=\"%(help)s\">deste formulário</a>. Se precisar de apoio técnico, por favor, visite o <a "
+"href=\"%(support)s\">Apoio do Thunderbird</a> para ajuda."
 
 #: sites/www.thunderbird.net/includes/lang_switcher.html:10
 msgid "Page language"
@@ -1458,7 +1470,7 @@ msgstr "Abrir ou fechar a navegação do site"
 
 #: sites/www.thunderbird.net/includes/base/page.html:80
 msgid "Learn What’s <span class=\"txt-gradient\">Next</span>"
-msgstr ""
+msgstr "Saiba o que vem a <span class=\"txt-gradient\">Seguir</span>"
 
 #: sites/www.thunderbird.net/includes/base/page.html:83
 msgid ""
@@ -1467,11 +1479,15 @@ msgid ""
 "        informed.\n"
 "        "
 msgstr ""
+"\n"
+"        O Thunderbird está cada vez melhor. Subscreva o nosso boletim informativo e siga-nos nas redes sociais para se manter\n"
+"        informado.\n"
+"        "
 
 #: sites/www.thunderbird.net/includes/base/page.html:94 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:313 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:234
 #: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:253 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:370
 msgid "Your Email"
-msgstr "O seu E-mail"
+msgstr "O seu endereço de correio eletrónico"
 
 #: sites/www.thunderbird.net/includes/base/page.html:95
 msgid "Subscribe"
