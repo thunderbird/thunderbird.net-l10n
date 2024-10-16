@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-10-01 08:31-0700\n"
+"POT-Creation-Date: 2024-10-16 13:50-0700\n"
 "PO-Revision-Date: 2024-08-13 10:01+0000\n"
 "Last-Translator: :stoyan <stoyan@gmx.com>\n"
 "Language-Team: none\n"
@@ -27,11 +27,11 @@ msgstr "Добре дошли в <div class=\"tb-text\">Thunderbird <small class
 msgid "Support us!"
 msgstr "Подкрепете ни!"
 
-#: sites/start.thunderbird.net/beta/index.html:22 sites/start.thunderbird.net/release/index.html:22 sites/start.thunderbird.net/release/index.html:37
-#: sites/www.thunderbird.net/includes/base/nav.html:83 sites/www.thunderbird.net/includes/download-button.html:102 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:80
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:288 sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:74 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:209
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:228 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:79
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:345
+#: sites/start.thunderbird.net/beta/index.html:22 sites/start.thunderbird.net/release/index.html:22 sites/start.thunderbird.net/release/index.html:37 sites/www.thunderbird.net/donate/index.html:8
+#: sites/www.thunderbird.net/includes/base/footer.html:45 sites/www.thunderbird.net/includes/base/nav.html:71 sites/www.thunderbird.net/includes/base/nav.html:83
+#: sites/www.thunderbird.net/includes/download-button.html:102 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:80 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:288
+#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:74 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:209 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:228
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:79 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:345
 msgid "Donate"
 msgstr "Дарете"
 
@@ -206,7 +206,7 @@ msgstr ""
 msgid "Share ideas and feedback."
 msgstr "Споделяне на идеи и обратна връзка."
 
-#: sites/start.thunderbird.net/release/index.html:54 sites/www.thunderbird.net/participate/index.html:113
+#: sites/start.thunderbird.net/release/index.html:54 sites/www.thunderbird.net/participate/index.html:112
 msgid "Mozilla Connect"
 msgstr "Mozilla Connect"
 
@@ -225,6 +225,64 @@ msgstr " Въпроси или проблеми "
 #: sites/start.thunderbird.net/release/index.html:95
 msgid "If Crash Reporter appears when Thunderbird crashes, please provide as many details as possible to help developers."
 msgstr "Ако се появи прозорец, когато Thunderbird се срине, моля, предоставете възможно най-много подробности, за да помогнете на разработчиците."
+
+#: sites/updates.thunderbird.net/index.html:8 sites/updates.thunderbird.net/index.html:14
+msgid "Hello!"
+msgstr ""
+
+#: sites/updates.thunderbird.net/index.html:16
+#, python-format
+msgid "You're probably looking for <a href=\"%(url)s\">Thunderbird.net</a>."
+msgstr ""
+
+#: sites/updates.thunderbird.net/includes/base/base.html:1 sites/www.thunderbird.net/includes/base/base.html:15
+msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
+msgstr "Thunderbird е свободен пощенски клиент, който лесно се настройва и приспособява, също така притежава чудесни възможности!"
+
+#: sites/updates.thunderbird.net/includes/base/base.html:16 sites/www.thunderbird.net/includes/base/base.html:17 sites/www.thunderbird.net/includes/base/page.html:16
+#: sites/www.thunderbird.net/includes/product-metadata.html:2 sites/www.thunderbird.net/includes/product-metadata.html:21 sites/www.thunderbird.net/index.html:8
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:17 sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:18
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:19 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:18 sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:18
+#: sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:18 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:19
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:17 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:17 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:17
+msgid "Thunderbird"
+msgstr "Thunderbird"
+
+#: sites/updates.thunderbird.net/includes/base/footer.html:8 sites/www.thunderbird.net/about/index.html:56 sites/www.thunderbird.net/includes/appeal-footer.html:7
+#: sites/www.thunderbird.net/includes/base/footer.html:56 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:350 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:426
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:273 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:292
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:408
+msgid "Privacy"
+msgstr "Лични данни"
+
+#: sites/updates.thunderbird.net/includes/base/footer.html:10 sites/www.thunderbird.net/includes/appeal-footer.html:9 sites/www.thunderbird.net/includes/base/footer.html:58
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:353 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:429
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:276 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:295
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:411
+msgid "Cookies"
+msgstr "Бисквитки"
+
+#: sites/updates.thunderbird.net/includes/base/footer.html:12 sites/www.thunderbird.net/contact/index.html:41 sites/www.thunderbird.net/includes/appeal-footer.html:11
+#: sites/www.thunderbird.net/includes/base/footer.html:60 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:357 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:433
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:280 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:299
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:415
+msgid "Legal"
+msgstr "Правни въпроси"
+
+#: sites/updates.thunderbird.net/includes/base/footer.html:14 sites/www.thunderbird.net/includes/appeal-footer.html:13 sites/www.thunderbird.net/includes/base/footer.html:62
+msgid "Send DMCA Notice"
+msgstr "Изпратете DMCA известие"
+
+#: sites/updates.thunderbird.net/includes/base/footer.html:16 sites/www.thunderbird.net/includes/appeal-footer.html:15 sites/www.thunderbird.net/includes/base/footer.html:64
+msgid "Report Fraud"
+msgstr "Доклад за измама"
+
+#: sites/updates.thunderbird.net/includes/base/footer.html:18 sites/www.thunderbird.net/includes/appeal-footer.html:17 sites/www.thunderbird.net/includes/base/footer.html:66
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:361 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:437
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:284 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:303
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:419
+msgid "Participation Guidelines"
+msgstr "Насоки за допринасяне"
 
 #: sites/www.thunderbird.net/404.html:8
 #, python-format
@@ -248,61 +306,40 @@ msgstr "Страницата, която търсите не съществув�
 msgid "If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>"
 msgstr ""
 
-#: sites/www.thunderbird.net/includes/base/base.html:17 sites/www.thunderbird.net/includes/base/page.html:16 sites/www.thunderbird.net/includes/product-metadata.html:2
-#: sites/www.thunderbird.net/includes/product-metadata.html:21 sites/www.thunderbird.net/index.html:8 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:17
-#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:18 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:19 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:18
-#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:18 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:18 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:19
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:17 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:17 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:17
-msgid "Thunderbird"
-msgstr "Thunderbird"
-
 #: sites/www.thunderbird.net/index.html:9
 msgid "Free Your Inbox."
 msgstr "Освободете пощата си."
 
-#: sites/www.thunderbird.net/index.html:10
-msgid ""
-"Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded\n"
-"with great features!"
-msgstr ""
-"Thunderbird е свободно и безплатно приложение за имейл, което лесно се настройва и персонализира - и е заредено\n"
-"със страхотни характеристики!"
-
-#: sites/www.thunderbird.net/index.html:24 sites/www.thunderbird.net/index.html:339
+#: sites/www.thunderbird.net/index.html:22 sites/www.thunderbird.net/index.html:336
 msgid "<span class=\"txt-gradient\">Free</span> Your Inbox"
 msgstr "<span class=\"txt-gradient\">Освободете</span> пощата си"
 
-#: sites/www.thunderbird.net/index.html:26
+#: sites/www.thunderbird.net/index.html:24
 msgid ""
 "\n"
-"          Meet Thunderbird, the <strong>email</strong>,\n"
-"          <strong>calendar</strong>, and <strong>contacts</strong> app that maximizes your freedoms.\n"
+"            Meet Thunderbird, the <strong>email</strong> and <strong>productivity</strong> app that maximizes your freedoms.\n"
 "          "
 msgstr ""
-"\n"
-"          Запознайте се с Thunderbird, <strong>електронната поща</strong>,\n"
-"          Приложение за <strong>календар</strong> и <strong>контакти</strong>, което увеличава максимално свободите ви.\n"
-"          "
 
-#: sites/www.thunderbird.net/download/index.html:8 sites/www.thunderbird.net/download/index.html:17 sites/www.thunderbird.net/includes/base/nav.html:78 sites/www.thunderbird.net/index.html:34
-#: sites/www.thunderbird.net/index.html:344 sites/www.thunderbird.net/thunderbird/all/index.html:9 sites/www.thunderbird.net/thunderbird/all/index.html:103
+#: sites/www.thunderbird.net/download/index.html:8 sites/www.thunderbird.net/download/index.html:16 sites/www.thunderbird.net/includes/base/nav.html:78 sites/www.thunderbird.net/index.html:31
+#: sites/www.thunderbird.net/index.html:341 sites/www.thunderbird.net/thunderbird/all/index.html:9 sites/www.thunderbird.net/thunderbird/all/index.html:102
 msgid "Download"
 msgstr "Изтеглянe"
 
-#: sites/www.thunderbird.net/index.html:54 sites/www.thunderbird.net/index.html:59 sites/www.thunderbird.net/index.html:64 sites/www.thunderbird.net/index.html:69
-#: sites/www.thunderbird.net/index.html:74
+#: sites/www.thunderbird.net/index.html:51 sites/www.thunderbird.net/index.html:56 sites/www.thunderbird.net/index.html:61 sites/www.thunderbird.net/index.html:66
+#: sites/www.thunderbird.net/index.html:71
 msgid "competitor icon"
 msgstr "икона на конкурент"
 
-#: sites/www.thunderbird.net/index.html:86
+#: sites/www.thunderbird.net/index.html:83
 msgid "<span class=\"txt-gradient\">Freedom</span> from Chaos"
 msgstr "<span class=\"txt-gradient\">Освободен</span> от хаоса"
 
-#: sites/www.thunderbird.net/index.html:87
+#: sites/www.thunderbird.net/index.html:84
 msgid "Waste less time finding browser tabs."
 msgstr "Губете по-малко време за намиране на правилните раздели на браузъра."
 
-#: sites/www.thunderbird.net/index.html:89
+#: sites/www.thunderbird.net/index.html:86
 msgid ""
 "\n"
 "          Access all your messages, calendars, and contacts in one fast app. Filter and organize\n"
@@ -316,19 +353,19 @@ msgstr ""
 "          прави тази част от живота ви по-лесен.\n"
 "          "
 
-#: sites/www.thunderbird.net/index.html:116
+#: sites/www.thunderbird.net/index.html:113
 msgid "See Compatibility"
 msgstr "Преглед на съвместимостта"
 
-#: sites/www.thunderbird.net/index.html:127
+#: sites/www.thunderbird.net/index.html:124
 msgid "<span class=\"txt-gradient\">Freedom</span> from Manipulation"
 msgstr "<span class=\"txt-gradient\">Освободен</span> от манипулации"
 
-#: sites/www.thunderbird.net/index.html:128
+#: sites/www.thunderbird.net/index.html:125
 msgid "Our agenda isn’t hidden. It’s to make the world better."
 msgstr "Нашата цел не е скрита. Искаме да направим света по-добър."
 
-#: sites/www.thunderbird.net/index.html:130
+#: sites/www.thunderbird.net/index.html:127
 #, python-format
 msgid ""
 "\n"
@@ -345,27 +382,27 @@ msgstr ""
 "          винаги поставяйте вашата поверителност и сигурност на първо място.\n"
 "          "
 
-#: sites/www.thunderbird.net/index.html:138
+#: sites/www.thunderbird.net/index.html:135
 msgid "Learn Who We Are"
 msgstr "Научете кои сме ние"
 
-#: sites/www.thunderbird.net/index.html:147
+#: sites/www.thunderbird.net/index.html:144
 msgid "Firefox planet"
 msgstr "Планетата на Firefox"
 
-#: sites/www.thunderbird.net/index.html:154
+#: sites/www.thunderbird.net/index.html:151
 msgid "Thunderbird planet"
 msgstr "Планета на Thunderbird"
 
-#: sites/www.thunderbird.net/index.html:166
+#: sites/www.thunderbird.net/index.html:163
 msgid "<span class=\"txt-gradient\">Freedom</span> to Geek Out"
 msgstr "<span class=\"txt-gradient\">Свобода</span> да експериментирате"
 
-#: sites/www.thunderbird.net/index.html:167
+#: sites/www.thunderbird.net/index.html:164
 msgid "Thunderbird is yours."
 msgstr "Thunderbird е ваш."
 
-#: sites/www.thunderbird.net/index.html:169
+#: sites/www.thunderbird.net/index.html:166
 msgid ""
 "\n"
 "              Thunderbird is clean and elegant by default, but easily customizable to match your workflow and visual\n"
@@ -377,7 +414,7 @@ msgstr ""
 "              Той идва с уникални и мощни функции. Ето само няколко възможности, които хората харесват:\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:180
+#: sites/www.thunderbird.net/index.html:177
 msgid ""
 "\n"
 "              Its <strong>unified inbox</strong> enables me to stay sane even in the busiest of times. I am never\n"
@@ -385,31 +422,31 @@ msgid ""
 "              "
 msgstr "Неговата <strong>обединена пощенска кутия</strong> ми позволява се справям дори в най-натоварените моменти. Никога повече няма да сменям клиента си за електронна поща!"
 
-#: sites/www.thunderbird.net/index.html:192 sites/www.thunderbird.net/index.html:221 sites/www.thunderbird.net/index.html:244 sites/www.thunderbird.net/index.html:266
-#: sites/www.thunderbird.net/index.html:288 sites/www.thunderbird.net/index.html:310
+#: sites/www.thunderbird.net/index.html:189 sites/www.thunderbird.net/index.html:218 sites/www.thunderbird.net/index.html:241 sites/www.thunderbird.net/index.html:263
+#: sites/www.thunderbird.net/index.html:285 sites/www.thunderbird.net/index.html:307
 msgid "profile image"
 msgstr "профилно изображение"
 
-#: sites/www.thunderbird.net/index.html:196
+#: sites/www.thunderbird.net/index.html:193
 msgid "Software Developer, Austria"
 msgstr "Разработчик на софтуер, Австрия"
 
-#: sites/www.thunderbird.net/index.html:203
+#: sites/www.thunderbird.net/index.html:200
 msgid "unified inbox"
 msgstr "унифицирана входяща кутия"
 
-#: sites/www.thunderbird.net/index.html:210
+#: sites/www.thunderbird.net/index.html:207
 msgid ""
 "\n"
 "              I love the <strong>tag feature</strong>. I tag something important and find it quickly.\n"
 "              "
 msgstr "Харесвам <strong>функцията за етикети</strong>. Маркирам нещо важно и после го намирам бързо."
 
-#: sites/www.thunderbird.net/index.html:225
+#: sites/www.thunderbird.net/index.html:222
 msgid "Computer Scientist, USA"
 msgstr "Компютърен учен, САЩ"
 
-#: sites/www.thunderbird.net/index.html:232
+#: sites/www.thunderbird.net/index.html:229
 msgid ""
 "\n"
 "              It is the first program I install on any PC I use / own... I use it on\n"
@@ -417,157 +454,140 @@ msgid ""
 "              "
 msgstr "Това е първото приложение, което инсталирам на всеки компютър, който използвам… Ползвам го под <strong>Windows</strong> / <strong>Mac</strong> и <strong>Linux</strong>."
 
-#: sites/www.thunderbird.net/index.html:248
+#: sites/www.thunderbird.net/index.html:245
 msgid "I.T. Manager, UK"
 msgstr "И.Т. Мениджър, Великобритания"
 
-#: sites/www.thunderbird.net/index.html:255
+#: sites/www.thunderbird.net/index.html:252
 msgid ""
 "\n"
 "              Having an open source alternative [for] receiving and managing email... is great for <strong>privacy</strong>.\n"
 "              "
 msgstr "Наличието на алтернатива с отворен код [за] получаване и управление на електронна поща… е чудесно за моята <strong>поверителност</strong> онлайн."
 
-#: sites/www.thunderbird.net/index.html:270
+#: sites/www.thunderbird.net/index.html:267
 msgid "Web Developer, Costa Rica"
 msgstr "Уеб разработчик, Коста Рика"
 
-#: sites/www.thunderbird.net/index.html:277
+#: sites/www.thunderbird.net/index.html:274
 msgid ""
 "\n"
 "              [Thunderbird] empowers me to maintain <strong>ownership</strong> of my emails.\n"
 "              "
 msgstr "[Thunderbird] ми дава възможност да поддържам <strong>собствеността</strong> върху моите електронни писма."
 
-#: sites/www.thunderbird.net/index.html:292
+#: sites/www.thunderbird.net/index.html:289
 msgid "Engineer, USA"
 msgstr "Инженер, САЩ"
 
-#: sites/www.thunderbird.net/index.html:299
+#: sites/www.thunderbird.net/index.html:296
 msgid ""
 "\n"
 "              You'd be hard pressed to find a client more <strong>extensible</strong> than Thunderbird!\n"
 "              "
 msgstr "Ще ви бъде трудно да намерите друг клиент за поща, който е по-<strong>разширяем</strong> от Thunderbird!"
 
-#: sites/www.thunderbird.net/index.html:314
+#: sites/www.thunderbird.net/index.html:311
 msgid "Student, UK"
 msgstr "Студент, Великобритания"
 
-#: sites/www.thunderbird.net/index.html:321
+#: sites/www.thunderbird.net/index.html:318
 msgid "extensions"
 msgstr "разширения"
 
-#: sites/www.thunderbird.net/index.html:328
+#: sites/www.thunderbird.net/index.html:325
 msgid "Explore More Features"
 msgstr "Разглеждане на още функции"
 
-#: sites/www.thunderbird.net/index.html:340
+#: sites/www.thunderbird.net/index.html:337
 msgid "Are you ready to love email again?"
 msgstr "Готови ли сте отново да обикнете електронната си поща?"
 
-#: sites/www.thunderbird.net/about/index.html:8 sites/www.thunderbird.net/about/mission-statement/index.html:28 sites/www.thunderbird.net/includes/base/footer.html:36
+#: sites/www.thunderbird.net/about/index.html:8 sites/www.thunderbird.net/about/mission-statement/index.html:27 sites/www.thunderbird.net/includes/base/footer.html:36
 #: sites/www.thunderbird.net/includes/base/nav.html:56
 msgid "Who We Are"
 msgstr "Кои сме ние"
 
-#: sites/www.thunderbird.net/about/index.html:9 sites/www.thunderbird.net/about/mission-statement/index.html:9 sites/www.thunderbird.net/calendar/holidays/index.html:9
-#: sites/www.thunderbird.net/calendar/index.html:9 sites/www.thunderbird.net/contact/index.html:9 sites/www.thunderbird.net/donate/index.html:9 sites/www.thunderbird.net/download/index.html:9
-#: sites/www.thunderbird.net/newsletter/index.html:9 sites/www.thunderbird.net/participate/index.html:9 sites/www.thunderbird.net/privacy/index.html:9 sites/www.thunderbird.net/survey/index.html:9
-#: sites/www.thunderbird.net/thank-you/index.html:9 sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:10 sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:10
-#: sites/www.thunderbird.net/thunderbird/all/index.html:10 sites/www.thunderbird.net/thunderbird/releases/index.html:9
-msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
-msgstr "Thunderbird е свободен пощенски клиент, който лесно се настройва и приспособява, също така притежава чудесни възможности!"
-
-#: sites/www.thunderbird.net/about/index.html:10 sites/www.thunderbird.net/about/mission-statement/index.html:10 sites/www.thunderbird.net/contact/index.html:10
-#: sites/www.thunderbird.net/includes/base/footer.html:34 sites/www.thunderbird.net/includes/base/nav.html:52 sites/www.thunderbird.net/privacy/index.html:10
+#: sites/www.thunderbird.net/about/index.html:9 sites/www.thunderbird.net/about/mission-statement/index.html:9 sites/www.thunderbird.net/contact/index.html:9
+#: sites/www.thunderbird.net/includes/base/footer.html:34 sites/www.thunderbird.net/includes/base/nav.html:52 sites/www.thunderbird.net/privacy/index.html:9
 msgid "About"
 msgstr "Относно"
 
-#: sites/www.thunderbird.net/about/index.html:16
+#: sites/www.thunderbird.net/about/index.html:15
 msgid "Meet <span class=\"txt-gradient\">Thunderbird</span>"
 msgstr "Запознайте се с <span class=\"txt-gradient\">Thunderbird</span>"
 
 #: sites/www.thunderbird.net/about/index.html:17
 msgid ""
-"Thunderbird is a free and open-source software project founded in 2003 to make communicating and collaborating better. We are supported by the talent and donations of thousands of generous "
-"individuals and are backed by Mozilla. Essential values guide us and make our work relevant. Read further to learn more."
+"Thunderbird is a free and open-source software project founded in 2003 to make communicating and collaborating better. We are supported by the talent and generosity of thousands of individuals and "
+"part of the Mozilla family. Essential values guide us and make our work relevant. Read further to learn more."
 msgstr ""
-"Thunderbird е свободен софтуер с отворен код, основан през 2003 г., с цел да подобри общуването и сътрудничество. Ние сме подкрепени от таланта и даренията на хиляди щедри хора и сме подпомогнати от"
-" Mozilla. Основните ни ценности ни водят и правят работата ни подходяща. Прочетете, за да научите повече."
 
-#: sites/www.thunderbird.net/about/index.html:23
+#: sites/www.thunderbird.net/about/index.html:28
 msgid "Values"
 msgstr "Стойности"
 
-#: sites/www.thunderbird.net/about/index.html:27
+#: sites/www.thunderbird.net/about/index.html:32
 msgid "Community"
 msgstr "Общност"
 
-#: sites/www.thunderbird.net/about/index.html:31
+#: sites/www.thunderbird.net/about/index.html:36
 msgid "Organization"
 msgstr "Организация"
 
-#: sites/www.thunderbird.net/about/index.html:36 sites/www.thunderbird.net/about/mission-statement/index.html:8
+#: sites/www.thunderbird.net/about/index.html:41 sites/www.thunderbird.net/about/mission-statement/index.html:8
 msgid "Our Mission Statement"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:44
+#: sites/www.thunderbird.net/about/index.html:49
 msgid "Guided by <span class=\"txt-gradient\">Values</span>"
 msgstr "Управлявани от <span class=\"txt-gradient\">стойности</span>"
 
-#: sites/www.thunderbird.net/about/index.html:48
+#: sites/www.thunderbird.net/about/index.html:53
 msgid "A shield with the Thunderbird logo."
 msgstr "Щит с логото на Thunderbird."
 
-#: sites/www.thunderbird.net/about/index.html:51 sites/www.thunderbird.net/includes/appeal-footer.html:7 sites/www.thunderbird.net/includes/base/footer.html:56
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:350 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:426
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:273 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:292
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:408
-msgid "Privacy"
-msgstr "Лични данни"
-
-#: sites/www.thunderbird.net/about/index.html:52
+#: sites/www.thunderbird.net/about/index.html:57
 msgid "You are not the product."
 msgstr "Вие не сте продуктът."
 
-#: sites/www.thunderbird.net/about/index.html:53
+#: sites/www.thunderbird.net/about/index.html:58
 msgid "To us, data ownership and privacy are your right wherever you live. Our commitment to <strong>your personal data</strong> is simple:"
 msgstr "За нас собствеността и поверителността са ваше право, където и да живеете. Нашият ангажимент към <strong>личните ви данни</strong> е прост:"
 
-#: sites/www.thunderbird.net/about/index.html:55
+#: sites/www.thunderbird.net/about/index.html:60
 msgid "We do not collect or store it unless you ask us to."
 msgstr "Ние не ги събираме и съхраняваме, освен ако вие не поискате."
 
-#: sites/www.thunderbird.net/about/index.html:56
+#: sites/www.thunderbird.net/about/index.html:61
 msgid "We take great care to keep it safe from misuse."
 msgstr "Полагаме големи грижи да ги предпазим от неправилна употреба."
 
-#: sites/www.thunderbird.net/about/index.html:57
+#: sites/www.thunderbird.net/about/index.html:62
 msgid "We will never sell it."
 msgstr "Никога няма да ги продадем."
 
-#: sites/www.thunderbird.net/about/index.html:58
+#: sites/www.thunderbird.net/about/index.html:63
 msgid "You retain ownership and control of it."
 msgstr "Вие запазвате собствеността и контрола върху тях."
 
-#: sites/www.thunderbird.net/about/index.html:60
+#: sites/www.thunderbird.net/about/index.html:65
 msgid "Read the Privacy Policy"
 msgstr "Прочетете нашата политика за поверителност"
 
-#: sites/www.thunderbird.net/about/index.html:65
+#: sites/www.thunderbird.net/about/index.html:70
 msgid "A key with the Thunderbird logo."
 msgstr "Ключ с логото на Thunderbird."
 
-#: sites/www.thunderbird.net/about/index.html:68
+#: sites/www.thunderbird.net/about/index.html:73
 msgid "Freedom"
 msgstr "Свобода"
 
-#: sites/www.thunderbird.net/about/index.html:69
+#: sites/www.thunderbird.net/about/index.html:74
 msgid "Thunderbird belongs to you (and the world)."
 msgstr "Thunderbird принадлежи на вас (и на света)."
 
-#: sites/www.thunderbird.net/about/index.html:70
+#: sites/www.thunderbird.net/about/index.html:75
 msgid ""
 "Thunderbird is Free and Open-Source Software, which means its code is available to see, modify, use, and share freely. Its license also ensures that it will remain free forever. You can think of "
 "Thunderbird as a gift from thousands of contributors to you."
@@ -575,23 +595,23 @@ msgstr ""
 "Thunderbird е свободен софтуер с отворен код, което означава, че неговият код е достъпен за разглеждане, промяна, използване и споделяне. Лицензът също така гарантира, че ще остане свободен "
 "завинаги. Можете да мислите за Thunderbird като подарък от хиляди сътрудници за вас."
 
-#: sites/www.thunderbird.net/about/index.html:71
+#: sites/www.thunderbird.net/about/index.html:76
 msgid "Learn About MPL 2.0"
 msgstr "Научете повече за лиценза MPL 2.0"
 
-#: sites/www.thunderbird.net/about/index.html:76
+#: sites/www.thunderbird.net/about/index.html:81
 msgid "A speech bubble with the Thunderbird logo."
 msgstr "Балон с реч с логото на Thunderbird."
 
-#: sites/www.thunderbird.net/about/index.html:79
+#: sites/www.thunderbird.net/about/index.html:84
 msgid "Voice"
 msgstr "Глас"
 
-#: sites/www.thunderbird.net/about/index.html:80
+#: sites/www.thunderbird.net/about/index.html:85
 msgid "You have a part in Thunderbird's future."
 msgstr "Вие имате участие в бъдещето на Thunderbird."
 
-#: sites/www.thunderbird.net/about/index.html:81
+#: sites/www.thunderbird.net/about/index.html:86
 msgid ""
 "Thunderbird is free from the commercial requirements and incentives that often guide software development. Anyone can get involved in helping make Thunderbird better and available to more people. A "
 "contributor-elected council ensures Thunderbird remains true to its values and mission."
@@ -599,184 +619,184 @@ msgstr ""
 "Thunderbird е освободен от търговските изисквания и стимули, които често направляват софтуерното разработване. Всеки може да се включи в това да помогне на Thunderbird да бъде по-добър и достъпен за"
 " повече хора. Съветът, избран от общността гарантира, че Thunderbird ще остане верен на ценностите и мисията си."
 
-#: sites/www.thunderbird.net/about/index.html:90
+#: sites/www.thunderbird.net/about/index.html:95
 msgid "Driven by <span class=\"txt-gradient\">Community</span>"
 msgstr "Управляван от  нашата <span class=\"txt-gradient\">Общност</span>"
 
-#: sites/www.thunderbird.net/about/index.html:91
+#: sites/www.thunderbird.net/about/index.html:97
 msgid ""
 "Anyone can help make Thunderbird better. Programmers can contribute features they are passionate about or improve the existing code. Those who are multilingual can make Thunderbird accessible to "
 "everyone. Those willing can test new versions of Thunderbird and document issues. There are many ways to become part of a thriving community that makes Thunderbird unique. And if you don't have the "
-"time to volunteer, you can help support the project through donations."
+"time to volunteer, you can help support our work with a financial contribution."
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:92
+#: sites/www.thunderbird.net/about/index.html:106
 msgid "Learn How to Get Involved"
 msgstr "Научете как да се включите"
 
-#: sites/www.thunderbird.net/about/index.html:97
+#: sites/www.thunderbird.net/about/index.html:111
 msgid "Our Contributors"
 msgstr "Нашите сътрудници"
 
-#: sites/www.thunderbird.net/about/index.html:103
-msgid "Supported by <span class=\"txt-gradient\">Mozilla</span>"
-msgstr "Подкрепя се от <span class=\"txt-gradient\">Mozilla</span>"
-
-#: sites/www.thunderbird.net/about/index.html:104
-msgid ""
-"Thunderbird operates in a for-profit subsidiary of the non-profit Mozilla Foundation. This grants us flexibility in offering optional paid services to sustain Thunderbird's development far into the "
-"future."
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:105
-msgid "We have a growing team of talented individuals employed to develop and maintain Thunderbird, interface with partner organizations, and maximize the reach of Thunderbird throughout the world."
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:110
-msgid "Managing Director, Operations"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:111
-msgid "Managing Director, Product"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:112
-msgid "Director, Desktop & Mobile Apps"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:113
-msgid "Director, Infrastructure & Services"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:116 sites/www.thunderbird.net/about/index.html:137
-msgid "Sr. Software Engineer, Services"
-msgstr ""
-
 #: sites/www.thunderbird.net/about/index.html:117
-msgid "UX Engineer, Desktop"
+msgid "Part of the <span class=\"txt-gradient\">Mozilla Family</span>"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:118
-msgid "Finance & Accounting Specialist"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:119 sites/www.thunderbird.net/about/index.html:127 sites/www.thunderbird.net/about/index.html:133
-msgid "Staff Engineer, Desktop"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:120 sites/www.thunderbird.net/about/index.html:146 sites/www.thunderbird.net/about/index.html:150
-msgid "Software Engineer, Desktop"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:121
-msgid "Software Engineer, Services"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:122 sites/www.thunderbird.net/about/index.html:152
-msgid "Sr. Software Engineer, Mobile"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:123
-msgid "Manager, Release Operations"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:124
-msgid "Release Engineer"
+#: sites/www.thunderbird.net/about/index.html:119
+msgid ""
+"Thunderbird operates in a separate, for-profit subsidiary of the Mozilla Foundation. This structure gives us the flexibility to offer optional paid services to sustain Thunderbird’s development far "
+"into the future."
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:125
-msgid "Sr. Staff Engineer, Desktop"
+msgid "We have a growing team of talented employees who develop and maintain Thunderbird, collaborate with our community and partners, and work to deliver Thunderbird to users around the world."
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:126
-msgid "Sr. Developer Relations Engineer"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:128
-msgid "Sr. Software Engineer, Desktop Add-ons"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:129
-msgid "Sr. Site Reliability Engineer"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:130
-msgid "Sr. Security Engineer, Desktop"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:131
-msgid "Sr. Technical PM"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:132
-msgid "Manager, UI/UX Design Studio"
+#: sites/www.thunderbird.net/about/index.html:133
+msgid "Managing Director, Operations"
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:134
-msgid "Manager, Web Services"
+msgid "Managing Director, Product"
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:135
-msgid "Sr. Employee Experience Partner"
+msgid "Director, Desktop & Mobile Apps"
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:136
-msgid "Staff Software Engineer, Desktop"
+msgid "Director, Infrastructure & Services"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:138 sites/www.thunderbird.net/about/index.html:147
-msgid "UI/UX Designer"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:139
-msgid "Community & Marketing Coordinator"
+#: sites/www.thunderbird.net/about/index.html:139 sites/www.thunderbird.net/about/index.html:160
+msgid "Sr. Software Engineer, Services"
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:140
-msgid "Manager, Comms & Community"
+msgid "UX Engineer, Desktop"
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:141
-msgid "Sr. Manager, Mobile Engineering"
+msgid "Finance & Accounting Specialist"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:142
-msgid "Sr. Release Engineer"
+#: sites/www.thunderbird.net/about/index.html:142 sites/www.thunderbird.net/about/index.html:150 sites/www.thunderbird.net/about/index.html:156
+msgid "Staff Engineer, Desktop"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:143
-msgid "User Support Specialist"
+#: sites/www.thunderbird.net/about/index.html:143 sites/www.thunderbird.net/about/index.html:169 sites/www.thunderbird.net/about/index.html:173
+msgid "Software Engineer, Desktop"
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:144
-msgid "Sr Site Reliability Engineer"
+msgid "Software Engineer, Services"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:145
-msgid "Customer Experience Specialist"
+#: sites/www.thunderbird.net/about/index.html:145 sites/www.thunderbird.net/about/index.html:175
+msgid "Sr. Software Engineer, Mobile"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:146
+msgid "Manager, Release Operations"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:147
+msgid "Release Engineer"
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:148
-msgid "Employee Experience Specialist"
+msgid "Sr. Staff Engineer, Desktop"
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:149
-msgid "Sr. Manager, Desktop Engineering"
+msgid "Sr. Developer Relations Engineer"
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:151
+msgid "Sr. Software Engineer, Desktop Add-ons"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:152
+msgid "Sr. Site Reliability Engineer"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:153
+msgid "Sr. Security Engineer, Desktop"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:154
+msgid "Sr. Technical PM"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:155
+msgid "Manager, UI/UX Design Studio"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:157
+msgid "Manager, Web Services"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:158
+msgid "Sr. Employee Experience Partner"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:159
+msgid "Staff Software Engineer, Desktop"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:161 sites/www.thunderbird.net/about/index.html:170
+msgid "UI/UX Designer"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:162
+msgid "Community & Marketing Coordinator"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:163
+msgid "Manager, Comms & Community"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:164
+msgid "Sr. Manager, Mobile Engineering"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:165
+msgid "Sr. Release Engineer"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:166
+msgid "User Support Specialist"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:167
+msgid "Sr Site Reliability Engineer"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:168
+msgid "Customer Experience Specialist"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:171
+msgid "Employee Experience Specialist"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:172
+msgid "Sr. Manager, Desktop Engineering"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:174
 msgid "Community Manager"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:156
+#: sites/www.thunderbird.net/about/index.html:179
 msgid "Explore Career Opportunities"
 msgstr "Вижте възможностите за кариера"
 
-#: sites/www.thunderbird.net/about/mission-statement/index.html:16
+#: sites/www.thunderbird.net/about/mission-statement/index.html:15
 msgid "Thunderbird’s <span class=\"txt-gradient\">Mission</span>"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/mission-statement/index.html:18
+#: sites/www.thunderbird.net/about/mission-statement/index.html:17
 msgid ""
 "Thunderbird facilitates cross platform, decentralized, open-standard communication, which puts the user in control of their data and workflow. We aspire to offer an interoperable and extensible "
 "open-source platform for messaging and managing personal information, such as email, contacts, and appointments."
@@ -786,17 +806,17 @@ msgstr ""
 msgid "Calendar"
 msgstr "Календар"
 
-#: sites/www.thunderbird.net/calendar/holidays/index.html:10 sites/www.thunderbird.net/calendar/index.html:10 sites/www.thunderbird.net/download/index.html:10
-#: sites/www.thunderbird.net/includes/base/footer.html:22 sites/www.thunderbird.net/includes/base/nav.html:36 sites/www.thunderbird.net/newsletter/index.html:10
-#: sites/www.thunderbird.net/thank-you/index.html:10 sites/www.thunderbird.net/thunderbird/all/index.html:11
+#: sites/www.thunderbird.net/calendar/holidays/index.html:9 sites/www.thunderbird.net/calendar/index.html:9 sites/www.thunderbird.net/download/index.html:9
+#: sites/www.thunderbird.net/includes/base/footer.html:22 sites/www.thunderbird.net/includes/base/nav.html:36 sites/www.thunderbird.net/newsletter/index.html:9
+#: sites/www.thunderbird.net/thank-you/index.html:9 sites/www.thunderbird.net/thunderbird/all/index.html:10
 msgid "Resources"
 msgstr ""
 
-#: sites/www.thunderbird.net/calendar/index.html:17
+#: sites/www.thunderbird.net/calendar/index.html:16
 msgid "Looking For Holiday Calendars?"
 msgstr "Търсите празнични календари?"
 
-#: sites/www.thunderbird.net/calendar/index.html:19
+#: sites/www.thunderbird.net/calendar/index.html:18
 #, python-format
 msgid "If you're looking for holiday calendars, please click <a href=\"%(url)s\">here</a>."
 msgstr "Ако търсите празничните календари, моля, цъкнете <a href=\"%(url)s\">тук</a>."
@@ -805,11 +825,11 @@ msgstr "Ако търсите празничните календари, мол�
 msgid "Holiday Calendar"
 msgstr "Празничен календар"
 
-#: sites/www.thunderbird.net/calendar/holidays/index.html:15
+#: sites/www.thunderbird.net/calendar/holidays/index.html:14
 msgid "Add your nation’s holidays to <span class=\"txt-gradient\">Calendar</span>!"
 msgstr "Добавете празниците на вашата държава към <span class=\"txt-gradient\">Календара</span>!"
 
-#: sites/www.thunderbird.net/calendar/holidays/index.html:17
+#: sites/www.thunderbird.net/calendar/holidays/index.html:16
 #, python-format
 msgid ""
 "We’ve got some holiday calendar files available for download. You can either download and then import them into Calendar or you can just subscribe to these calendars by copying their URL and then "
@@ -819,12 +839,12 @@ msgstr ""
 "им и след това ги добавите като нови отдалечени календарни файлове. Повече информация относно инсталирането на празничен календар можете да намерите в <a href=\"%s\">статията за добавяне на "
 "празничен календар</a>."
 
-#: sites/www.thunderbird.net/calendar/holidays/index.html:46
+#: sites/www.thunderbird.net/calendar/holidays/index.html:45
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
 msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
 
-#: sites/www.thunderbird.net/calendar/holidays/index.html:48
+#: sites/www.thunderbird.net/calendar/holidays/index.html:47
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s"
 msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> празници благодарение на %(authors)s"
@@ -833,192 +853,189 @@ msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> пр
 msgid "Contact Us"
 msgstr "Връзка с нас"
 
-#: sites/www.thunderbird.net/contact/index.html:16
+#: sites/www.thunderbird.net/contact/index.html:15
 msgid "Need to <span class=\"txt-gradient\">Talk?</span>"
 msgstr ""
 
-#: sites/www.thunderbird.net/contact/index.html:17
+#: sites/www.thunderbird.net/contact/index.html:16
 msgid "Direct your inquiries to the teams below."
 msgstr ""
 
-#: sites/www.thunderbird.net/contact/index.html:20 sites/www.thunderbird.net/participate/index.html:70
+#: sites/www.thunderbird.net/contact/index.html:19 sites/www.thunderbird.net/participate/index.html:69
 msgid "Support"
 msgstr ""
 
-#: sites/www.thunderbird.net/contact/index.html:20
+#: sites/www.thunderbird.net/contact/index.html:19
 msgid "Support Website"
 msgstr ""
 
-#: sites/www.thunderbird.net/contact/index.html:20 sites/www.thunderbird.net/donate/help/index.html:8 sites/www.thunderbird.net/donate/help/thank-you/index.html:8
-msgid "Donor Help"
-msgstr "Донорска помощ"
+#: sites/www.thunderbird.net/contact/index.html:19 sites/www.thunderbird.net/donate/help/index.html:8
+msgid "Donation Help"
+msgstr ""
 
-#: sites/www.thunderbird.net/contact/index.html:21
+#: sites/www.thunderbird.net/contact/index.html:20
 msgid ""
 "For questions about how to use Thunderbird, visit and search our Support Website. Feel free to submit a new question if you cannot find an answer. Please remember to be courteous to our staff and "
 "volunteers."
 msgstr ""
 
-#: sites/www.thunderbird.net/contact/index.html:24
+#: sites/www.thunderbird.net/contact/index.html:23
 #, python-format
 msgid "To get the best support, please ask your question in English. If you prefer to ask a question in %(lang)s you can try this non-Mozilla community forum <a class=\"dotted\" href=\"%(link)s\">link</a>."
 msgstr ""
 
-#: sites/www.thunderbird.net/contact/index.html:30
+#: sites/www.thunderbird.net/contact/index.html:29
 msgid "Security"
 msgstr ""
 
-#: sites/www.thunderbird.net/contact/index.html:30
+#: sites/www.thunderbird.net/contact/index.html:29
 msgid "Bugzilla"
 msgstr "Bugzilla"
 
-#: sites/www.thunderbird.net/contact/index.html:31
+#: sites/www.thunderbird.net/contact/index.html:30
 msgid ""
 "To report a software vulnerability, please submit an issue on Bugzilla with the security box checked. This checkmark will make the report visible only to our security team, who can address "
 "vulnerabilities before public disclosure."
 msgstr ""
 
-#: sites/www.thunderbird.net/contact/index.html:33
+#: sites/www.thunderbird.net/contact/index.html:32
 msgid "Media"
 msgstr ""
 
-#: sites/www.thunderbird.net/contact/index.html:33
+#: sites/www.thunderbird.net/contact/index.html:32
 msgid "Outreach Team"
 msgstr ""
 
-#: sites/www.thunderbird.net/contact/index.html:34
+#: sites/www.thunderbird.net/contact/index.html:33
 msgid "Thunderbird and the people who make it are amazing. Obtain access to our team for your story, review, or other content by emailing our Outreach Team."
 msgstr ""
 
-#: sites/www.thunderbird.net/contact/index.html:36
+#: sites/www.thunderbird.net/contact/index.html:35
 msgid "Business"
 msgstr ""
 
-#: sites/www.thunderbird.net/contact/index.html:36
+#: sites/www.thunderbird.net/contact/index.html:35
 msgid "Business Team"
 msgstr ""
 
-#: sites/www.thunderbird.net/contact/index.html:37
+#: sites/www.thunderbird.net/contact/index.html:36
 msgid "Organizations wanting to sponsor software development or obtain assistance in large-scale deployments should email our Business Team. This team also handles other partnership inquiries."
 msgstr ""
 
-#: sites/www.thunderbird.net/contact/index.html:39 sites/www.thunderbird.net/includes/base/footer.html:46 sites/www.thunderbird.net/includes/base/nav.html:72
+#: sites/www.thunderbird.net/contact/index.html:38 sites/www.thunderbird.net/includes/base/footer.html:46 sites/www.thunderbird.net/includes/base/nav.html:72
 #: sites/www.thunderbird.net/participate/index.html:8
 msgid "Participate"
 msgstr ""
 
-#: sites/www.thunderbird.net/contact/index.html:39
+#: sites/www.thunderbird.net/contact/index.html:38
 msgid "Participate Page"
 msgstr ""
 
-#: sites/www.thunderbird.net/contact/index.html:40
+#: sites/www.thunderbird.net/contact/index.html:39
 msgid ""
 "If you have talents you're interested in sharing but don't know where to start, learn how to get started by visiting our Participate page. Here you'll find the volunteer community that matches your "
 "interests."
 msgstr ""
 
-#: sites/www.thunderbird.net/contact/index.html:42 sites/www.thunderbird.net/includes/appeal-footer.html:11 sites/www.thunderbird.net/includes/base/footer.html:60
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:357 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:433
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:280 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:299
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:415
-msgid "Legal"
-msgstr "Правни въпроси"
-
-#: sites/www.thunderbird.net/contact/index.html:42
+#: sites/www.thunderbird.net/contact/index.html:41
 msgid "Trademark Misuse"
 msgstr ""
 
-#: sites/www.thunderbird.net/contact/index.html:42
+#: sites/www.thunderbird.net/contact/index.html:41
 msgid "DMCA Notice"
 msgstr ""
 
-#: sites/www.thunderbird.net/contact/index.html:43
+#: sites/www.thunderbird.net/contact/index.html:42
 msgid ""
 "Protect future users from malware, data mining, or being fraudulently charged for Thunderbird by reporting trademark misuse. If you believe we are infringing on your copyright or trademark, please "
 "send a DMCA notice."
 msgstr ""
 
-#: sites/www.thunderbird.net/donate/index.html:8 sites/www.thunderbird.net/includes/base/footer.html:45 sites/www.thunderbird.net/includes/base/nav.html:71
-msgid "Donations"
-msgstr ""
-
-#: sites/www.thunderbird.net/donate/help/index.html:9 sites/www.thunderbird.net/donate/help/thank-you/index.html:9 sites/www.thunderbird.net/donate/index.html:10
-#: sites/www.thunderbird.net/includes/base/footer.html:43 sites/www.thunderbird.net/includes/base/nav.html:67 sites/www.thunderbird.net/participate/index.html:10
+#: sites/www.thunderbird.net/donate/help/index.html:9 sites/www.thunderbird.net/donate/help/thank-you/index.html:9 sites/www.thunderbird.net/donate/index.html:9
+#: sites/www.thunderbird.net/includes/base/footer.html:43 sites/www.thunderbird.net/includes/base/nav.html:67 sites/www.thunderbird.net/participate/index.html:9
 msgid "Contribute"
 msgstr ""
 
-#: sites/www.thunderbird.net/donate/index.html:16
+#: sites/www.thunderbird.net/donate/index.html:15
 msgid "Become a <span class=\"txt-gradient\">Supporter</span>"
 msgstr ""
 
-#: sites/www.thunderbird.net/donate/index.html:17
+#: sites/www.thunderbird.net/donate/index.html:16
 msgid "Help us make Thunderbird better."
 msgstr ""
 
 #: sites/www.thunderbird.net/donate/index.html:18
 msgid ""
-"MZLA Corporation is the for-profit organization sustaining the free software mission of Thunderbird. Our work is to provide open source apps that are secure, private and available for users around "
-"the world. When you donate you help us:"
+"MZLA Technologies Corporation is the for-profit organization sustaining the free software mission of Thunderbird. Our work is to provide open source apps that are secure, private and available for "
+"users around the world. Your support helps us:"
 msgstr ""
 
-#: sites/www.thunderbird.net/donate/index.html:20
+#: sites/www.thunderbird.net/donate/index.html:25
 msgid "Develop new apps, integrations and features"
 msgstr ""
 
-#: sites/www.thunderbird.net/donate/index.html:21
+#: sites/www.thunderbird.net/donate/index.html:26
 msgid "Improve the interface, speed, and stability"
 msgstr ""
 
-#: sites/www.thunderbird.net/donate/index.html:22
+#: sites/www.thunderbird.net/donate/index.html:27
 msgid "Promote Thunderbird and software freedom"
 msgstr ""
 
-#: sites/www.thunderbird.net/donate/index.html:23
+#: sites/www.thunderbird.net/donate/index.html:28
 msgid "Serve millions of free app downloads each year"
 msgstr ""
 
-#: sites/www.thunderbird.net/donate/index.html:36
-#, python-format
-msgid "<a class=\"dotted\" href=\"%(url)s\">Modify</a> an existing monthly donation."
+#: sites/www.thunderbird.net/donate/index.html:42
+msgid "Not tax deductible as a charitable donation"
 msgstr ""
 
-#: sites/www.thunderbird.net/donate/index.html:44
+#: sites/www.thunderbird.net/donate/index.html:53
 msgid "Frequently Asked Questions"
 msgstr "Често задавани въпроси"
 
-#: sites/www.thunderbird.net/donate/index.html:53
+#: sites/www.thunderbird.net/donate/index.html:62
 msgid "Become a <span class=\"txt-gradient\">Corporate Supporter</span>"
 msgstr ""
 
-#: sites/www.thunderbird.net/donate/index.html:54
+#: sites/www.thunderbird.net/donate/index.html:63
 msgid "Secure an open future for yourself and the world."
 msgstr ""
 
-#: sites/www.thunderbird.net/donate/index.html:55
+#: sites/www.thunderbird.net/donate/index.html:65
 msgid ""
 "Organizations deploying Thunderbird at scale or who share our passion for expanding digital freedoms can make a difference by becoming a one-time or recurring corporate supporter. Small to medium "
-"size contributions can be made with the form above. For donations greater than $5000 USD please contact our business team. Thank you in advance for your generous support!"
+"size contributions can be made with the form above. For contributions greater than $5000 USD please contact our business team. Thank you in advance for your generous support!"
 msgstr ""
 
-#: sites/www.thunderbird.net/donate/index.html:58
+#: sites/www.thunderbird.net/donate/index.html:73
 msgid "Contact the Business Team"
 msgstr ""
 
-#: sites/www.thunderbird.net/donate/index.html:61 sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:48
+#: sites/www.thunderbird.net/donate/index.html:76 sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:47
 msgid "A rocket with the Thunderbird logo."
 msgstr ""
 
 #: sites/www.thunderbird.net/donate/help/index.html:27
-msgid "If you need help with a contribution to MZLA/Thunderbird, please fill out this form and a Thunderbird donor care representative will get back to you as soon as possible."
-msgstr "Ако имате нужда от помощ с дарение за MZLA/Thunderbird, моля, попълнете този формуляр и представител на грижата за донори на Thunderbird ще се свърже с вас възможно най-скоро."
+#, python-format
+msgid "If you need help donating to Thunderbird and did not find an answer in our <a href=\"%(faq)s\">FAQs</a>, please fill out this form and we will get back to you as soon as possible."
+msgstr ""
 
-#: sites/www.thunderbird.net/donate/help/index.html:30
+#: sites/www.thunderbird.net/donate/help/index.html:33
+#, python-format
+msgid "<strong>Use the <a href=\"%(modify)s\">Donor Portal</a> to access your receipts and update or cancel your recurring plan.</strong>"
+msgstr ""
+
+#: sites/www.thunderbird.net/donate/help/index.html:38
 #, python-format
 msgid ""
-"Unfortunately, donor care representatives are unable to offer support or help with Thunderbird technical issues. For technical support, please visit our <a href=\"%(support_url)s\">support page.</a>"
+"Please note, our payment support team cannot assist with Thunderbird product questions or technical issues. <strong>For technical support, please visit our <a href=\"%(support)s\">support "
+"page</a></strong> where you will find helpful articles and community forums."
 msgstr ""
-"За съжаление, представителите на донорските грижи не могат да предложат поддръжка или помощ при технически проблеми на Thunderbird. За техническа поддръжка, моля, посетете нашата <a "
-"href=\"%(support_url)s\">страница за поддръжка.</a>"
+
+#: sites/www.thunderbird.net/donate/help/thank-you/index.html:8
+msgid "Donor Help"
+msgstr "Донорска помощ"
 
 #: sites/www.thunderbird.net/donate/help/thank-you/index.html:16
 msgid "Thank you for contacting us. A case has been created for your issue and we will be in touch shortly."
@@ -1032,29 +1049,13 @@ msgstr "Ще се свържем с вас скоро."
 msgid "Return to Thunderbird.net"
 msgstr "Върнете се към Thunderbird.net"
 
-#: sites/www.thunderbird.net/download/index.html:16
-msgid "Download <span class=\"txt-gradient\">Thunderbird</span>"
+#: sites/www.thunderbird.net/donate/mobile/index.html:8
+msgid "Support Thunderbird for Android"
 msgstr ""
 
-#: sites/www.thunderbird.net/includes/appeal-footer.html:9 sites/www.thunderbird.net/includes/base/footer.html:58 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:353
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:429 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:276
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:295 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:411
-msgid "Cookies"
-msgstr "Бисквитки"
-
-#: sites/www.thunderbird.net/includes/appeal-footer.html:13 sites/www.thunderbird.net/includes/base/footer.html:62
-msgid "Send DMCA Notice"
-msgstr "Изпратете DMCA известие"
-
-#: sites/www.thunderbird.net/includes/appeal-footer.html:15 sites/www.thunderbird.net/includes/base/footer.html:64
-msgid "Report Fraud"
-msgstr "Доклад за измама"
-
-#: sites/www.thunderbird.net/includes/appeal-footer.html:17 sites/www.thunderbird.net/includes/base/footer.html:66 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:361
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:437 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:284
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:303 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:419
-msgid "Participation Guidelines"
-msgstr "Насоки за допринасяне"
+#: sites/www.thunderbird.net/download/index.html:15
+msgid "Download <span class=\"txt-gradient\">Thunderbird</span>"
+msgstr ""
 
 #: sites/www.thunderbird.net/includes/download-button.html:14 sites/www.thunderbird.net/includes/download-button.html:94
 msgid "Download Thunderbird"
@@ -1095,39 +1096,79 @@ msgid "to make it better."
 msgstr "за да го направите по-добър."
 
 #: sites/www.thunderbird.net/includes/faq.html:7
-msgid "What are the ways I can give?"
-msgstr "Какви са начините, по които мога да даря?"
+msgid "Contact us"
+msgstr ""
 
 #: sites/www.thunderbird.net/includes/faq.html:10
 #, python-format
 msgid ""
-"<p>You can <a href=\"%(donate)s\">donate online</a> securely by credit card or PayPal. Google Pay, Apple Pay, and bank transfers through SEPA, iDEAL and ACH are also available online.<br/> "
-"<strong>Give in your local currency!</strong> On <a href=\"%(donate)s\">our online form</a>, use the drop down menu next to the amount. You will be charged in the currency you choose to give "
-"with.<br/> <strong>Additionally you can</strong> give offline in USD by mailing a check or money order made payable to \"MZLA Technologies Corp\". Mail to:</p> <ul class=\"check-address\"> "
-"<li>MZLA</li> <li>PO Box 25718</li> <li>Pasadena CA 91185-5718</li> </ul> <p>Please include your email address on the memo line of your check to help us track and attribute your gift.</p> "
-"<p><strong>Give the gift of your time!</strong> If you would like to learn how to contribute to Thunderbird in other ways such as coding, translating or testing, please visit our <a "
-"href=\"%(ways_to_help)s\">Participate</a> page.</p>"
+"<strong>Questions about donating?</strong> See common answers below. If you still need help donating, please contact us via this <a href=\"%(help)s\">form</a>.<br/> <strong>Want to provide product "
+"feedback?</strong> Head over to <a href=\"%(connect)s\">Mozilla Connect</a>.<br/> <strong>Need product or technical support?</strong> Visit our <a href=\"%(support)s\">knowledgebase and community "
+"support forum</a>."
 msgstr ""
 
-#: sites/www.thunderbird.net/includes/faq.html:31
+#: sites/www.thunderbird.net/includes/faq.html:21
+msgid "What are the ways I can give?"
+msgstr "Какви са начините, по които мога да даря?"
+
+#: sites/www.thunderbird.net/includes/faq.html:24
+#, python-format
+msgid ""
+"<p>You can <a href=\"%(donate)s\">donate online</a> securely by credit card or PayPal, Google Pay, Apple Pay, and by bank transfers through SEPA, iDEAL and ACH.<br/> <strong>Give in your local "
+"currency!</strong> We accept over 100! Choose yours from the drop down menu next to ‘Amount’.<br/> <strong>You can give offline in USD only</strong> by mailing a check or money order made payable to"
+" \"MZLA Technologies Corp\". Mail to: </p> <ul class=\"check-address\"> <li>MZLA</li> <li>PO Box 25718</li> <li>Pasadena CA 91185-5718</li> </ul> <p>Please include your email address on the memo "
+"line of your check to help us track and attribute your gift. We can only send acknowledgement receipts by email.</p> <p> <strong>Give the gift of your time!</strong> If you would like to learn how "
+"to contribute to Thunderbird in other ways such as coding, translating or testing, please visit our <a href=\"%(ways_to_help)s\">Participate</a> page.</p>"
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/faq.html:47
 msgid "How do I cancel or change my recurring gift? Can I change my payment method or my donation frequency?"
 msgstr "Как да отменя или променя моето повтарящо се дарения? Мога ли да променя начина си на плащане или честотата на дарения?"
 
-#: sites/www.thunderbird.net/includes/faq.html:34
+#: sites/www.thunderbird.net/includes/faq.html:50
 #, python-format
 msgid ""
-"Access your donation account settings using the 'Manage My Donation' button on your recent donation confirmation email. There you can change the amount, frequency, payment method and charge date. "
-"You can also cancel your recurring donation plan. If you run into any issues you can always <a href=\"%(help)s\">contact us</a>!"
+"Access your plan details from the <strong><a href=\"%(modify)s\">Donor Portal</a></strong> or from the 'Manage My Donation' button on your recent donation confirmation email. You can change the "
+"amount, frequency, payment method and charge date. You can also cancel your recurring plan and download your receipts."
 msgstr ""
-"Осъществете достъп до настройките на профила си за дарения, като използвате бутона „Управление на моето дарение“ на последния ви имейл за потвърждение на дарение. Там можете да промените сумата, "
-"честотата, начина на плащане и датата на таксуване. Можете също така да отмените плана си за периодично дарение. Ако срещнете някакви проблеми, винаги можете да <a href=\"%(help)s\">свържете се с "
-"нас</a>!"
 
-#: sites/www.thunderbird.net/includes/faq.html:46
+#: sites/www.thunderbird.net/includes/faq.html:61
+msgid "Does my gift give me access to tech support?"
+msgstr "Моят подарък дава ли ми достъп до техническа поддръжка?"
+
+#: sites/www.thunderbird.net/includes/faq.html:64
+#, python-format
+msgid ""
+"All Thunderbird <strong>technical support is community-based</strong> and available to everyone. Visit our <a href=\"%(url)s\">support forum</a>. We do not provide individual tech support in "
+"exchange for financial gifts."
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/faq.html:73
+msgid "How do I get a receipt?"
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/faq.html:76
+#, python-format
+msgid ""
+"You will receive an email confirmation whenever you donate and this will include a receipt for your records. You can also access your receipt history at any time from our <strong><a "
+"href=\"%(url)s\">Donor Portal</a></strong>."
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/faq.html:85
+msgid "Is my gift tax deductible?"
+msgstr "Моят подарък подлежи ли на приспадане от данък?"
+
+#: sites/www.thunderbird.net/includes/faq.html:88
+msgid ""
+"Gifts to Thunderbird <strong>are not tax-deductible as charitable gifts</strong>, but are greatly appreciated!<br/> Giving to Thunderbird supports the development of open source apps that are "
+"secure, private and available for users around the world. Your support also ensures that our core apps remain free for everyone."
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/faq.html:98
 msgid "Why do you need my address in order to process a gift?"
 msgstr "Защо ви е необходим моят адрес, за да обработите дарението ми?"
 
-#: sites/www.thunderbird.net/includes/faq.html:49
+#: sites/www.thunderbird.net/includes/faq.html:101
 #, python-format
 msgid ""
 "We understand that your privacy is very important -- we agree, and that's a core value of ours at Thunderbird and Mozilla. Your address is part of our Payment Processing, Contact and Donation "
@@ -1140,58 +1181,31 @@ msgstr ""
 "регистри. Ако искате да знаете повече за личната информация, която получаваме, доставчиците трети страни, на които вярваме и колко дълго съхраняваме данните ви, вижте информацията за <a "
 "href=\"%(website_privacy)s\">нашите сайтове, комуникации и политика за поверителност на бисквитките</a>."
 
-#: sites/www.thunderbird.net/includes/faq.html:61
-msgid "Does my gift give me access to tech support?"
-msgstr "Моят подарък дава ли ми достъп до техническа поддръжка?"
-
-#: sites/www.thunderbird.net/includes/faq.html:64
-#, python-format
-msgid ""
-"Anyone can access tech support for Thunderbird by visiting the <a href=\"%(url)s\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial "
-"gifts."
-msgstr ""
-"Всеки може да получи достъп до техническа поддръжка за Thunderbird, като посети <a href=\"%(url)s\">форума за поддръжка</a>. Thunderbird не предоставя техническа поддръжка или подобрена техническа "
-"поддръжка в замяна на финансови подаръци."
-
-#: sites/www.thunderbird.net/includes/faq.html:73
+#: sites/www.thunderbird.net/includes/faq.html:115
 msgid "How can I turn off the donation message on the Thunderbird start page?"
 msgstr "Как мога да изключа съобщението за дарение на началната страница на Thunderbird?"
 
-#: sites/www.thunderbird.net/includes/faq.html:76
+#: sites/www.thunderbird.net/includes/faq.html:118
 #, python-format
 msgid "To learn how to customize your start page please visit:<br/><a href=\"%(url)s\">%(url)s</a>"
 msgstr "За да научите как да персонализирате началната си страница, моля, посетете:<br/><a href=\"%(url)s\">%(url)s</a>"
 
-#: sites/www.thunderbird.net/includes/faq.html:84
-msgid "Is my gift tax deductible?"
-msgstr "Моят подарък подлежи ли на приспадане от данък?"
-
-#: sites/www.thunderbird.net/includes/faq.html:87
-msgid ""
-"Gifts to Thunderbird are <strong>not tax-deductible as charitable gifts</strong>, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-"
-"platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future development."
-msgstr ""
-"Подаръците за Thunderbird <strong>не подлежат на приспадане от данъци като благотворителни подаръци</strong>, но са високо оценени. Даренията към Thunderbird подкрепят развитието на нашия водещ "
-"клиент за електронна поща и календар, който е безплатен за бизнес и лична употреба. Вашият подарък ще гарантира, че ще остане такъв и ще подпомогне бъдещото му развитие."
-
-#: sites/www.thunderbird.net/includes/faq.html:98
+#: sites/www.thunderbird.net/includes/faq.html:126
 msgid "How can I get a business receipt?"
 msgstr "Как мога да получа бизнес разписка?"
 
-#: sites/www.thunderbird.net/includes/faq.html:101
+#: sites/www.thunderbird.net/includes/faq.html:129
 #, python-format
 msgid ""
-"When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box 'Donate as an Organization' and include your company name. The receipt you receive to the email address used to "
-"make your contribution will include your business information."
+"When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box <strong>'Donate as an Organization'</strong> and include your company name. Your transaction receipt will include"
+" your company name. If you need a copy of your receipt, download from our <strong><a href=\"%(modify)s\">Donor Portal</a></strong>."
 msgstr ""
-"Когато дарите чрез нашия <a href=\"%(donate)s\">онлайн формуляр</a>, просто поставете отметка в квадратчето „Дарете като организация“ и включете името на вашата компания. Разписката, която "
-"получавате на имейл адреса, използван, за да направите своя принос, ще включва всичко необходимо."
 
-#: sites/www.thunderbird.net/includes/faq.html:112
+#: sites/www.thunderbird.net/includes/faq.html:139
 msgid "Is my donation secure?"
 msgstr "Моето дарение защитено ли е?"
 
-#: sites/www.thunderbird.net/includes/faq.html:115
+#: sites/www.thunderbird.net/includes/faq.html:142
 #, python-format
 msgid ""
 "Yes, we use industry-standard SSL technology to keep your information secure. We partner with Stripe, the industry's established payment processor trusted by some of the world's largest companies. "
@@ -1202,54 +1216,46 @@ msgstr ""
 "доверяват някои от най-големите компании в света.  Вашата чувствителна финансова информация никога не се обработва от нашите сървъри. Ние изпращаме всички данни директно към PCI-съвместимите сървъри"
 " на Stripe чрез SSL. Разбираме, че вашата поверителност е много важна. За пълна информация, моля, вижте <a href=\"%(privacy)s\">Декларацията за поверителност на Mozilla</a>."
 
-#: sites/www.thunderbird.net/includes/faq.html:127
+#: sites/www.thunderbird.net/includes/faq.html:154
 msgid "Can I request a refund?"
 msgstr ""
 
-#: sites/www.thunderbird.net/includes/faq.html:130
+#: sites/www.thunderbird.net/includes/faq.html:157
 #, python-format
 msgid ""
-"Your donation may be eligible for a refund. You must contact us within 15 days after the date of the donation. If you believe this donation was made without your authorization, please contact us "
-"immediately. Donations made via ACH or SEPA direct debit are ineligible for refunds. Due to the nature of these transactions our policy prioritizes minimizing refund fraud. We sincerely appreciate "
-"your understanding. If you have any further questions, <a href=\"%(help)s\">please contact us</a>."
+"Your donation may be eligible for a refund. You must <strong>contact us within 15 days of payment date.</strong> If you believe this payment was made without your authorization, please contact us "
+"immediately. <strong>Donations made via ACH or SEPA direct debit are ineligible for refunds.</strong> Due to the nature of these transactions our policy prioritizes minimizing refund fraud. We "
+"appreciate your understanding. If you need assistance, <a href=\"%(help)s\">please contact us</a>."
 msgstr ""
 
-#: sites/www.thunderbird.net/includes/faq.html:142
-msgid "Are there additional fees on my donation?"
-msgstr "Има ли допълнителни такси към моето дарение?"
+#: sites/www.thunderbird.net/includes/faq.html:169
+msgid "Are there additional fees added to my donation?"
+msgstr ""
 
-#: sites/www.thunderbird.net/includes/faq.html:145
+#: sites/www.thunderbird.net/includes/faq.html:172
 msgid ""
-"We do not collect any additional fees or taxes. When you donate in your local currency you are not charged a conversion fee by your credit card. Optionally, you can choose to cover our transaction "
-"costs on your donation. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to "
-"research any additional external taxes or fees that may be applied by regulators such as your bank or tax authority."
+"We do not collect any additional fees or taxes. When you donate in your local currency you are not charged a conversion fee by your credit card. You can choose to also cover the payment processing "
+"transaction costs. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to research any"
+" additional external taxes or fees that may be applied by regulators such as your bank or tax authority."
 msgstr ""
-"Ние не събираме никакви допълнителни такси или данъци. Когато дарявате във вашата местна валута, кредитната ви карта не ви начислява такса за конвертиране. По желание можете да изберете да покриете "
-"нашите транзакционни разходи с вашето дарение. Това е напълно доброволно и можете да се включите или откажете, като използвате квадратчето за отметка в нашия формуляр за дарения. Нашата организация "
-"е базирана в Съединените щати. Насърчаваме донорите да проучат всички допълнителни външни данъци или такси, които може да се прилагат от регулаторни органи като вашата банка или данъчен орган."
 
-#: sites/www.thunderbird.net/includes/faq.html:157
-msgid "What are your transaction costs on donations?"
-msgstr "Какви са вашите транзакционни разходи към даренията?"
+#: sites/www.thunderbird.net/includes/faq.html:184
+msgid "What do the transaction costs cover?"
+msgstr ""
 
-#: sites/www.thunderbird.net/includes/faq.html:160
+#: sites/www.thunderbird.net/includes/faq.html:187
 msgid ""
-"When you opt to cover our transaction costs, you're covering both our processing and donation platform costs. The costs associated with our robust online donation system allows us to continue "
-"scaling sustainably as our supporter-base grows. Our donation platform and payment processor partners reduce internal costs associated with maintaining our own system from scratch. Our partners "
-"ensure we can accept a wide range of currencies/payment methods and remain PCI compliant in all of the countries that we accept gifts from. The transaction costs donors may choose to cover are based"
-" on an estimate of our overall costs. Due to many factors actual costs may fluctuate."
+"When you opt to cover our payment transaction costs, you're covering both our payment processing and donation platform fees. The costs associated with our robust online donation system allows us to "
+"continue scaling sustainably as our supporter-base grows. Our donation platform and payment processor partners reduce internal costs associated with maintaining our own system from scratch. Our "
+"partners ensure we can accept a wide range of currencies/payment methods and remain PCI compliant in all of the countries that we accept gifts from. The transaction costs you may choose to cover are"
+" based on an estimate of our overall costs. Due to many factors actual costs may fluctuate."
 msgstr ""
-"Когато решите да покриете нашите транзакционни разходи, вие покривате както разходите ни за обработка, така и за платформата за дарения. Разходите, свързани с нашата стабилна система за онлайн "
-"дарения, ни позволяват да продължим да се увеличаваме устойчиво, докато нашата база от поддръжници расте. Нашата платформа за дарения и партньори за обработка на плащания намаляват вътрешните "
-"разходи, свързани с поддържането на собствената ни система от нулата. Нашите партньори гарантират, че можем да приемем широк набор от валути/методи на плащане и да останем съвместими с PCI във "
-"всички страни, от които приемаме подаръци. Разходите по сделката, които донорите могат да изберат да покрият, се основават на приблизителна оценка на нашите общи разходи. Поради много фактори "
-"действителните разходи могат да варират."
 
-#: sites/www.thunderbird.net/includes/faq.html:173
+#: sites/www.thunderbird.net/includes/faq.html:200
 msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
 msgstr "Защо еднократните дарения се появяват като повтарящи се в SEPA?"
 
-#: sites/www.thunderbird.net/includes/faq.html:176
+#: sites/www.thunderbird.net/includes/faq.html:203
 msgid ""
 "When making a one-time gift through SEPA direct debit, you may notice a mention of recurrent transactions. This is because our payment processor Stripe only supports recurring transactions for this "
 "type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
@@ -1259,57 +1265,38 @@ msgstr ""
 "този тип плащане. Независимо от това, ние ще ви таксуваме само веднъж и няма да правим повече плащания по вашата сметка без вашето разрешение. След транзакцията ще получите официална разписка за "
 "дарение, която ясно ще отразява еднократното дарение."
 
-#: sites/www.thunderbird.net/includes/faq.html:184
+#: sites/www.thunderbird.net/includes/faq.html:211
 msgid "Can I give in cryptocurrencies?"
 msgstr "Мога ли да даря в криптовалути?"
 
-#: sites/www.thunderbird.net/includes/faq.html:187
+#: sites/www.thunderbird.net/includes/faq.html:214
 msgid "<strong>No.</strong> We are not currently accepting cryptocurrency gifts."
 msgstr "<strong>Не.</strong> В момента не приемаме дарения в криптовалута."
 
-#: sites/www.thunderbird.net/includes/faq.html:195
+#: sites/www.thunderbird.net/includes/faq.html:222
 msgid "How will my gift be used?"
 msgstr "Как ще се използва дарението ми?"
 
-#: sites/www.thunderbird.net/includes/faq.html:198
-msgid ""
-"Thunderbird is the leading open source cross-platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future "
-"development."
-msgstr ""
-"Thunderbird е водещ многоплатформен клиент за електронна поща и календар с отворен код, свободен и безплатен за бизнес и лична употреба. Вашето дарение ще гарантира, че ще остане такъв и ще "
-"подпомогне бъдещото му развитие."
-
-#: sites/www.thunderbird.net/includes/faq.html:207
-msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
-msgstr "Каква е връзката на Thunderbird с MZLA Technologies Corporation?"
-
-#: sites/www.thunderbird.net/includes/faq.html:210
-msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a wholly owned subsidiary of Mozilla Foundation."
-msgstr "Thunderbird е проект на MZLA Technologies Corporation, която е изцяло притежавано дъщерно дружество на Mozilla Foundation."
-
-#: sites/www.thunderbird.net/includes/faq.html:219
-msgid "Doesn’t Thunderbird earn income?"
-msgstr "Thunderbird няма ли доходи?"
-
-#: sites/www.thunderbird.net/includes/faq.html:222
-msgid ""
-"Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird. Companies and individuals support the development of the product now and in the "
-"future."
-msgstr ""
-"В момента по-голямата част от приходите на Thunderbird идват от щедри подаръци от потребители и приятели на Thunderbird. Фирми и физически лица подкрепят развитието на продукта сега и в бъдеще."
-
-#: sites/www.thunderbird.net/includes/faq.html:231
-msgid "Contact us"
+#: sites/www.thunderbird.net/includes/faq.html:225
+msgid "Thunderbird is the leading open source email and productivity app that is free for business and personal use. Your gift helps ensure it stays that way, and supports ongoing development."
 msgstr ""
 
 #: sites/www.thunderbird.net/includes/faq.html:234
-#, python-format
-msgid ""
-"If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. If you need technical support, please head over to <a href=\"%(support)s\">Thunderbird "
-"Support</a> for assistance."
+msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
+msgstr "Каква е връзката на Thunderbird с MZLA Technologies Corporation?"
+
+#: sites/www.thunderbird.net/includes/faq.html:237
+msgid "MZLA Technologies Corporation is a wholly owned for-profit subsidiary of the Mozilla Foundation and the home of Thunderbird."
 msgstr ""
-"Ако имате въпрос относно дарения към Thunderbird, моля, свържете се с нас чрез <a href=\"%(help)s\">този формуляр</a>. Ако имате нужда от техническа поддръжка, моля, отидете на странизата за <a "
-"href=\"%(support)s\">поддръжка на Thunderbird</a>."
+
+#: sites/www.thunderbird.net/includes/faq.html:245
+msgid "Doesn’t Thunderbird earn income?"
+msgstr "Thunderbird няма ли доходи?"
+
+#: sites/www.thunderbird.net/includes/faq.html:248
+#, python-format
+msgid "Currently, nearly 100% of Thunderbird’s operating revenue comes from the generous gifts of Thunderbird users."
+msgstr ""
 
 #: sites/www.thunderbird.net/includes/lang_switcher.html:10
 msgid "Page language"
@@ -1343,7 +1330,7 @@ msgstr "Получете помощ"
 msgid "Downloads"
 msgstr ""
 
-#: sites/www.thunderbird.net/includes/base/footer.html:28 sites/www.thunderbird.net/thunderbird/all/index.html:141 sites/www.thunderbird.net/thunderbird/all/index.html:155
+#: sites/www.thunderbird.net/includes/base/footer.html:28 sites/www.thunderbird.net/thunderbird/all/index.html:140 sites/www.thunderbird.net/thunderbird/all/index.html:154
 msgid "Release Notes"
 msgstr ""
 
@@ -1383,11 +1370,11 @@ msgstr "Принос към страницата"
 msgid "Translate this site"
 msgstr "Превод на страницата"
 
-#: sites/www.thunderbird.net/includes/base/nav.html:21 sites/www.thunderbird.net/thunderbird/releases/index.html:10
+#: sites/www.thunderbird.net/includes/base/nav.html:21 sites/www.thunderbird.net/thunderbird/releases/index.html:9
 msgid "Products"
 msgstr ""
 
-#: sites/www.thunderbird.net/includes/base/nav.html:25 sites/www.thunderbird.net/thunderbird/releases/index.html:10
+#: sites/www.thunderbird.net/includes/base/nav.html:25 sites/www.thunderbird.net/thunderbird/releases/index.html:9
 msgid "Thunderbird Desktop"
 msgstr ""
 
@@ -1456,12 +1443,8 @@ msgid "Learn What’s <span class=\"txt-gradient\">Next</span>"
 msgstr "Научете какво <span class=\"txt-gradient\">предстои</span>"
 
 #: sites/www.thunderbird.net/includes/base/page.html:83
-msgid ""
-"\n"
-"        Thunderbird keeps getting better. Subscribe to our newsletter and follow us on social media to stay\n"
-"        informed.\n"
-"        "
-msgstr "Thunderbird става все по-добър. За да бъдете информирани се абонирайте за бюлетина и ни следвайте в социалните медии."
+msgid "Thunderbird keeps getting better. Subscribe to our newsletter and follow us on social media to stay informed."
+msgstr ""
 
 #: sites/www.thunderbird.net/includes/base/page.html:94 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:313 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:234
 #: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:253 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:370
@@ -1728,262 +1711,262 @@ msgstr "Изпращане"
 msgid "Join our Newsletter"
 msgstr "Абонирайте се за бюлетина"
 
-#: sites/www.thunderbird.net/newsletter/index.html:13
+#: sites/www.thunderbird.net/newsletter/index.html:12
 msgid ""
 "\n"
 " See exciting previews of upcoming features, read the latest desktop Thunderbird and mobile Thunderbird news, and enjoy personalized tips to protect your privacy and maximize your productivity! From the Thunderbird team directly to your inbox.\n"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:16
+#: sites/www.thunderbird.net/participate/index.html:15
 msgid "We Need Your <span class=\"txt-gradient\">Talents</span>"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:17
+#: sites/www.thunderbird.net/participate/index.html:16
 msgid "Everyone can be a contributor. Here are some of the ways you can help."
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:18
+#: sites/www.thunderbird.net/participate/index.html:17
 msgid ""
 "Volunteers help create Thunderbird and ensure it is accessible throughout the world in dozens of languages. They write the documentation and answer the questions that help regular people use "
 "Thunderbird."
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:20
+#: sites/www.thunderbird.net/participate/index.html:19
 msgid "Code"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:22
+#: sites/www.thunderbird.net/participate/index.html:21
 msgid ""
 "If you have programming experience there are a lot of ways to contribute to the Thunderbird project. Get started by identifying the area where you have the most experience and interest and following"
 " the steps to get started:"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:28
+#: sites/www.thunderbird.net/participate/index.html:27
 msgid "Desktop Development:"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:30 sites/www.thunderbird.net/participate/index.html:38 sites/www.thunderbird.net/participate/index.html:46
-#: sites/www.thunderbird.net/participate/index.html:65
+#: sites/www.thunderbird.net/participate/index.html:29 sites/www.thunderbird.net/participate/index.html:37 sites/www.thunderbird.net/participate/index.html:45
+#: sites/www.thunderbird.net/participate/index.html:64
 #, python-format
 msgid "Explore the <a href=\"%(url)s\">docs</a>"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:31 sites/www.thunderbird.net/participate/index.html:39 sites/www.thunderbird.net/participate/index.html:47
+#: sites/www.thunderbird.net/participate/index.html:30 sites/www.thunderbird.net/participate/index.html:38 sites/www.thunderbird.net/participate/index.html:46
 #, python-format
 msgid "Join the <a href=\"%(url)s\">repository</a>"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:32 sites/www.thunderbird.net/participate/index.html:40 sites/www.thunderbird.net/participate/index.html:48
-#: sites/www.thunderbird.net/participate/index.html:75 sites/www.thunderbird.net/participate/index.html:107
+#: sites/www.thunderbird.net/participate/index.html:31 sites/www.thunderbird.net/participate/index.html:39 sites/www.thunderbird.net/participate/index.html:47
+#: sites/www.thunderbird.net/participate/index.html:74 sites/www.thunderbird.net/participate/index.html:106
 #, python-format
 msgid "Say hello in <a href=\"%(url)s\">Matrix</a>"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:36
+#: sites/www.thunderbird.net/participate/index.html:35
 msgid "Android Development:"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:44
+#: sites/www.thunderbird.net/participate/index.html:43
 msgid "Website Development:"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:52
+#: sites/www.thunderbird.net/participate/index.html:51
 msgid "Test"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:54
+#: sites/www.thunderbird.net/participate/index.html:53
 msgid ""
 "With so many unique hardware environments and workflows, community members who test pre-release builds of Thunderbird play a vital role in the quality of the software. Plus, you help catch bugs "
 "before they can reach the general public!"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:56
+#: sites/www.thunderbird.net/participate/index.html:55
 #, python-format
 msgid "Learn about testing <a href=\"%(url)s\">Beta</a>"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:57
+#: sites/www.thunderbird.net/participate/index.html:56
 #, python-format
 msgid "Report <a href=\"%(url)s\">bugs</a>"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:61
+#: sites/www.thunderbird.net/participate/index.html:60
 msgid "Translate"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:63
+#: sites/www.thunderbird.net/participate/index.html:62
 msgid ""
 "The entire world deserves free and open source software, and Thunderbird is currently translated in more than 50 languages! Use your multilingual talents to help make Thunderbird more widely "
 "available than ever."
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:66
+#: sites/www.thunderbird.net/participate/index.html:65
 #, python-format
 msgid "Join us on <a href=\"%(url)s\">Pontoon</a>"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:72
+#: sites/www.thunderbird.net/participate/index.html:71
 msgid ""
 "Are you an experienced Thunderbird user who loves lending a helping hand? Put your knowledge to great use by joining our Support Crew and helping users around the world with their Thunderbird "
 "questions."
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:73
+#: sites/www.thunderbird.net/participate/index.html:72
 msgid "You can join our Thunderbird Community Support Matrix room to get and give user support."
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:79
+#: sites/www.thunderbird.net/participate/index.html:78
 msgid "Document"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:81
+#: sites/www.thunderbird.net/participate/index.html:80
 msgid ""
 "Help ensure the answers are written down before the question is even asked! From documenting features or APIs to frequently asked user support questions, put your knowledge and writing skills to use"
 " for the benefit of the entire Thunderbird community."
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:83
+#: sites/www.thunderbird.net/participate/index.html:82
 #, python-format
 msgid "User Support <a href=\"%(url)s\">documentation</a>"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:84
+#: sites/www.thunderbird.net/participate/index.html:83
 #, python-format
 msgid "Developer <a href=\"%(url)s\">documentation</a>"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:85
+#: sites/www.thunderbird.net/participate/index.html:84
 #, python-format
 msgid "Code <a href=\"%(url)s\">documentation</a>"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:89
+#: sites/www.thunderbird.net/participate/index.html:88
 msgid "Promote"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:91
+#: sites/www.thunderbird.net/participate/index.html:90
 msgid ""
 "Advocacy is one of the easiest ways to contribute to Thunderbird! Boosting our posts on Mastodon, showcasing the software to a friend, upvoting a helpful answer on Reddit; anything that adds "
 "visibility is a huge help. Here’s where to find us on various social platforms, and how to get involved."
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:93
+#: sites/www.thunderbird.net/participate/index.html:92
 msgid "Reddit"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:94
+#: sites/www.thunderbird.net/participate/index.html:93
 msgid "Mastodon"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:95
+#: sites/www.thunderbird.net/participate/index.html:94
 msgid "X (Formerly Twitter)"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:96
+#: sites/www.thunderbird.net/participate/index.html:95
 msgid "YouTube"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:97
+#: sites/www.thunderbird.net/participate/index.html:96
 msgid "TILVids"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:98
+#: sites/www.thunderbird.net/participate/index.html:97
 msgid "LinkedIn"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:102
+#: sites/www.thunderbird.net/participate/index.html:101
 msgid "Design"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:104
+#: sites/www.thunderbird.net/participate/index.html:103
 msgid ""
 "Share your ideas, and contribute to the ongoing conversations around Thunderbird’s UX and UI. We welcome your feedback to developer designs on our UX mailing list, and our companion Matrix room."
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:106
+#: sites/www.thunderbird.net/participate/index.html:105
 #, python-format
 msgid "Join in on the <a href=\"%(url)s\">discussion</a>"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:112
+#: sites/www.thunderbird.net/participate/index.html:111
 msgid "One more way you can contribute is by sharing <strong>ideas</strong>, <strong>priorities</strong>, and <strong>feedback</strong>. Thunderbird is yours and we're listening."
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:122
+#: sites/www.thunderbird.net/participate/index.html:121
 msgid "Contributor <span class=\"txt-gradient\">Experience</span>"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:123
+#: sites/www.thunderbird.net/participate/index.html:122
 msgid "The ways and reasons to get involved are as diverse as the people who do."
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:124
+#: sites/www.thunderbird.net/participate/index.html:123
 msgid "Our volunteers come from diverse backgrounds and bring unique talents. They're making Thunderbird better for themselves and better for the world at the same time. You can join them."
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:129
+#: sites/www.thunderbird.net/participate/index.html:128
 msgid "Leadership, Switzerland"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:130
+#: sites/www.thunderbird.net/participate/index.html:129
 msgid "Thunderbird is a testament to the power of the open-source community's contribution to driving innovation and efficiency."
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:132
+#: sites/www.thunderbird.net/participate/index.html:131
 msgid "Bug Triager, USA"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:133
+#: sites/www.thunderbird.net/participate/index.html:132
 msgid "If you don't have skin in the game, you can't complain about the direction the product is going in."
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:135
+#: sites/www.thunderbird.net/participate/index.html:134
 msgid "Developer, Germany"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:136
+#: sites/www.thunderbird.net/participate/index.html:135
 msgid "It is great to be able to improve the software by fixing little things that affect me and other users"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:138
+#: sites/www.thunderbird.net/participate/index.html:137
 msgid "Tester & Bug Triager, USA"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:139
+#: sites/www.thunderbird.net/participate/index.html:138
 msgid "I volunteer to use the beta versions as soon as they are built, report issues I find, and test fixes."
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:141
+#: sites/www.thunderbird.net/participate/index.html:140
 msgid "Support & Bug Triager, United Kingdom"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:142
+#: sites/www.thunderbird.net/participate/index.html:141
 msgid "I volunteer to assist others in the Thunderbird Support Forum which I find a very rewarding experience."
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:144
+#: sites/www.thunderbird.net/participate/index.html:143
 msgid "Translator, Bug Triager & Leadership, Bulgaria"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:145
+#: sites/www.thunderbird.net/participate/index.html:144
 msgid "I began by contributing translations, thinking that people who speak my language deserve localized versions."
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:155
+#: sites/www.thunderbird.net/participate/index.html:154
 msgid "Shape the <span class=\"txt-gradient\">Future</span>"
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:156
+#: sites/www.thunderbird.net/participate/index.html:155
 msgid "Improve software and lives by volunteering."
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:157
+#: sites/www.thunderbird.net/participate/index.html:156
 msgid ""
 "Craft tools you want to use. Help others find and use software that respects their privacy and freedom. Become part of a better future for yourself and others by putting your talents to work at "
 "Thunderbird."
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:160
+#: sites/www.thunderbird.net/participate/index.html:159
 msgid "Various gears all working in tandem with a heart, a code symbol, a magnifying glass displaying a very small bug, and the Thunderbird Logo in the centre of it all."
 msgstr ""
 
@@ -1991,22 +1974,22 @@ msgstr ""
 msgid "Thunderbird Privacy Policy"
 msgstr ""
 
-#: sites/www.thunderbird.net/survey/index.html:8 sites/www.thunderbird.net/survey/index.html:26
+#: sites/www.thunderbird.net/survey/index.html:8 sites/www.thunderbird.net/survey/index.html:25
 msgid "User Survey"
 msgstr ""
 
-#: sites/www.thunderbird.net/survey/index.html:27
+#: sites/www.thunderbird.net/survey/index.html:26
 msgid ""
 "<p>Hello from the Thunderbird team! We'd love if you could take approximately 5 minutes to share your experience using Thunderbird. Your anonymous feedback will help us identify our strengths and "
 "the areas we need to improve.</p> <p>Thanks for helping us make Thunderbird better for everyone!</p>"
 msgstr ""
 
-#: sites/www.thunderbird.net/survey/index.html:33
+#: sites/www.thunderbird.net/survey/index.html:32
 #, python-format
 msgid "Please note: you will be redirected to <u>%(domain)s</u> to complete this survey."
 msgstr ""
 
-#: sites/www.thunderbird.net/survey/index.html:38
+#: sites/www.thunderbird.net/survey/index.html:37
 msgid "Start"
 msgstr ""
 
@@ -2014,15 +1997,15 @@ msgstr ""
 msgid "Thank You!"
 msgstr ""
 
-#: sites/www.thunderbird.net/thank-you/index.html:21
+#: sites/www.thunderbird.net/thank-you/index.html:20
 msgid "A laptop with an stylized envelope floating in front of the screen. Three hearts of descending size float above the envelope."
 msgstr ""
 
-#: sites/www.thunderbird.net/thank-you/index.html:23
+#: sites/www.thunderbird.net/thank-you/index.html:22
 msgid "Finish installing, and start enjoying <span class=\"txt-gradient\">Thunderbird</span>."
 msgstr ""
 
-#: sites/www.thunderbird.net/thank-you/index.html:25 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:92
+#: sites/www.thunderbird.net/thank-you/index.html:24 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:92
 #, python-format
 msgid "Having trouble? <a class=\"inline-link\" href=\"%(url)s\">Get help with your installation.</a>"
 msgstr "Имате ли проблем? <a class=\"inline-link\" href=\"%(url)s\">Получете помощ от тук за вашата инсталация.</a>"
@@ -2168,7 +2151,7 @@ msgstr ""
 msgid "<strong>So today we’re asking you to help us out.</strong> If you get value from using Thunderbird, please consider giving a donation to support it!"
 msgstr "<strong>Днес ви молим да ни помогнете.</strong> Ако получавате полза от използването на Thunderbird, моля, помислете дали да дадете дарение, за да ни подкрепите!"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:342 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:152
+#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:342 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:152 sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:84
 #: sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:342 sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:121
 #: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:84
 msgid "The Thunderbird Team"
@@ -2400,11 +2383,47 @@ msgstr ""
 "Затова днес молим за вашата помощ, за да поддържаме Thunderbird жив и процъфтяващ. Ако виждате стойност от използването на\n"
 "        Thunderbird, моля, обмислете дарение, за да го подкрепите!"
 
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:9 sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:19 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:9
+#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:19
+msgid "Thank you for choosing Thunderbird!"
+msgstr "Благодарим ви, че избрахте Thunderbird!"
+
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:20 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:20
+msgid "Thank you for choosing <span>Thunderbird!</span>"
+msgstr "Благодарим ви, че избрахте <span>Thunderbird!</span>"
+
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:23 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:23
+msgid "Thunderbird is proud to be funded by our community, not by selling personal data or showing ads in your inbox."
+msgstr "Thunderbird се гордее, че се финансира от нашата общност, а не чрез продажба на лични данни или показване на реклами във вашата входяща кутия."
+
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:38 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:38
+msgid "Click here to <b>Donate!</b>"
+msgstr "Щракнете тук, за да <b>Дарите!</b>"
+
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:53 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:53
+msgid "Help keep <b>Thunderbird Alive!</b>"
+msgstr "Помогнете да запазим <b>Thunderbird жив!</b>"
+
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:62 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:62
+msgid "Thunderbird’s mission is to give you the best privacy-respecting, customizable communication experience possible. Free for everyone to install and enjoy!"
+msgstr ""
+"Мисията на Thunderbird е да ви даде възможно най-доброто изживяване при разговори с възможност за персонализиране, зачитащо поверителността. Свободно и безплатно за всеки да го инсталира и да му се "
+"наслаждава!"
+
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:65 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:65
+msgid "Maintaining expensive servers, fixing bugs, developing new features, and hiring talented engineers are crucial for this mission."
+msgstr "Поддържането на скъпи сървъри, изправяне на дефекти, разработване на полезни нови възможности и наемане на талантливи инженери за изпълнението на мисията."
+
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:68 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:68
+msgid "Your support is vital in keeping Thunderbird development alive and thriving. If you get value from using Thunderbird, please consider giving a donation to support it."
+msgstr ""
+"Вашата помощ е жизненоважна, за да поддържаме разработката на Thunderbird жива и процъфтяваща. Ако имате полза от използването на Thunderbird, помислете дали да дарите, за да подкрепите проекта."
+
 #: sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:6
 msgid "Experience the future of Thunderbird"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:42
+#: sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:41
 #, python-format
 msgid ""
 "<p>Join the Beta today, and enjoy an exciting preview of the new features and visual enhancements coming to Thunderbird %(beta_version)s. You can still run Thunderbird %(current_version)s after "
@@ -2413,8 +2432,8 @@ msgid ""
 "Topicbox</a> forum.</p>"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:52 sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:55
-#: sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:59
+#: sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:51 sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:54
+#: sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:58
 msgid "Install now"
 msgstr ""
 
@@ -2740,126 +2759,91 @@ msgstr ""
 "Супернова непрекъснато се развива. През следващата година ще предоставим много подобрения на съществуващите \n"
 "        функциина Supernova и ще предложим чисто нови. Надстройте до версия 115 и изживейте бъдещето на Thunderbird!"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:9 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:19
-msgid "Thank you for choosing Thunderbird!"
-msgstr "Благодарим ви, че избрахте Thunderbird!"
-
-#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:20
-msgid "Thank you for choosing <span>Thunderbird!</span>"
-msgstr "Благодарим ви, че избрахте <span>Thunderbird!</span>"
-
-#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:23
-msgid "Thunderbird is proud to be funded by our community, not by selling personal data or showing ads in your inbox."
-msgstr "Thunderbird се гордее, че се финансира от нашата общност, а не чрез продажба на лични данни или показване на реклами във вашата входяща кутия."
-
-#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:38
-msgid "Click here to <b>Donate!</b>"
-msgstr "Щракнете тук, за да <b>Дарите!</b>"
-
-#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:53
-msgid "Help keep <b>Thunderbird Alive!</b>"
-msgstr "Помогнете да запазим <b>Thunderbird жив!</b>"
-
-#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:62
-msgid "Thunderbird’s mission is to give you the best privacy-respecting, customizable communication experience possible. Free for everyone to install and enjoy!"
-msgstr ""
-"Мисията на Thunderbird е да ви даде възможно най-доброто изживяване при разговори с възможност за персонализиране, зачитащо поверителността. Свободно и безплатно за всеки да го инсталира и да му се "
-"наслаждава!"
-
-#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:65
-msgid "Maintaining expensive servers, fixing bugs, developing new features, and hiring talented engineers are crucial for this mission."
-msgstr "Поддържането на скъпи сървъри, изправяне на дефекти, разработване на полезни нови възможности и наемане на талантливи инженери за изпълнението на мисията."
-
-#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:68
-msgid "Your support is vital in keeping Thunderbird development alive and thriving. If you get value from using Thunderbird, please consider giving a donation to support it."
-msgstr ""
-"Вашата помощ е жизненоважна, за да поддържаме разработката на Thunderbird жива и процъфтяваща. Ако имате полза от използването на Thunderbird, помислете дали да дарите, за да подкрепите проекта."
-
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:6 sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:45
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:6 sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:44
 msgid "Welcome to the evolution of Supernova!"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:38
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:37
 msgid "Thunderbird 128 Nebula"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:47
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:46
 msgid "With revolutionary code improvements, Nebula sets the stage for faster delivery of new features, reinforced stability, stellar quality-of-life enhancements and visual refinements."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:64
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:63
 msgid "Fast and Fluid"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:66
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:65
 msgid "Feel the difference smarter code makes possible! Interactions with your message list are faster, the email space is more responsive, and Thunderbird is more stable and reliable."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:79
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:78
 msgid "Cards View"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:83
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:82
 msgid ""
 "The updated design makes scanning your emails faster, with a more attractive layout and an improved threads experience. Plus, the height of email cards adjusts automatically based on your settings, "
 "so everything looks just right."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:99
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:98
 msgid "Accent Colors"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:103
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:102
 msgid "Enhanced theme compatibility, especially for Linux users on Ubuntu and Mint. Your Thunderbird will better blend with your desktop environment, seamlessly matching the system’s accent colors."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:118
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:117
 msgid "Folder Pane"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:122
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:121
 msgid "A bundle of improvements including faster rendering and searching of unified folders, multi-folder selection capabilities, and better recall of message thread states."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:136
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:135
 msgid "Rust Revolution"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:138
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:137
 msgid ""
 "We've overcome major roadblocks to bring Rust into Thunderbird. This paves the way for better code, shared features between desktop and mobile, and faster development time. It's a game-changer for "
 "our developers and for our users."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:154
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:153
 msgid "Streamlined menu navigation with better visual cues and less cognitive burden to make your email experience more efficient and more enjoyable."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:167
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:166
 msgid "Native Windows Notifications"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:170
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:169
 msgid "Fixed and fully functional! Clicking a notification dismisses it, brings Thunderbird to the foreground, and selects the message. Notifications now disappear when Thunderbird closes."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:182
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:181
 msgid "Context Menu Improvements"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:185
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:184
 msgid "Reorganized for a smoother experience, with primary actions now as icons for quick access."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:196
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:195
 msgid "Account Color Customization"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:199
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:198
 msgid "By popular demand, you can now customize the color of your account icons. These colors also show up in the “From” selection when composing emails."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:210
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:209
 msgid "“Nebula” enables an email experience that shines brighter than ever. Expect more updates and helpful new features to materialize over the upcoming months."
 msgstr ""
 
@@ -3152,79 +3136,79 @@ msgstr "Настройка за обработка на .ics файлове, п�
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 91.0 and up</a>."
 msgstr "Можете да видите подробности за всички наши промени в бележките по изданието на <a href=\"%(release)s\">Thunderbird 91.0 и по-нови</a>."
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:20 sites/www.thunderbird.net/thunderbird/all/index.html:167
+#: sites/www.thunderbird.net/thunderbird/all/index.html:19 sites/www.thunderbird.net/thunderbird/all/index.html:166
 msgid "Get <span class=\"txt-gradient\">Thunderbird</span>"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:22
+#: sites/www.thunderbird.net/thunderbird/all/index.html:21
 msgid "These are officially maintained and distributed by Thunderbird. Download the latest Release version unless you wish to test the Beta version and report bugs."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:26
+#: sites/www.thunderbird.net/thunderbird/all/index.html:25
 msgid "The Daily version is an unstable testing and development platform, make sure you back up important data regularly!"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:29
+#: sites/www.thunderbird.net/thunderbird/all/index.html:28
 msgid "Thunderbird Release is available for testing purposes only until releases are deemed stable enough for official support. Make sure you backup important data regularly!"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:34
+#: sites/www.thunderbird.net/thunderbird/all/index.html:33
 msgid "Locale"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:48
+#: sites/www.thunderbird.net/thunderbird/all/index.html:47
 msgid "Release Channel"
 msgstr "Канал за издания"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:59
+#: sites/www.thunderbird.net/thunderbird/all/index.html:58
 msgid "Operating System"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:71
+#: sites/www.thunderbird.net/thunderbird/all/index.html:70
 msgid "Need a specific installer?"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:75
+#: sites/www.thunderbird.net/thunderbird/all/index.html:74
 msgid "Installer Type"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:112
+#: sites/www.thunderbird.net/thunderbird/all/index.html:111
 msgid "Release Information"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:117
+#: sites/www.thunderbird.net/thunderbird/all/index.html:116
 msgid "Other Downloads"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:120
+#: sites/www.thunderbird.net/thunderbird/all/index.html:119
 msgid "Microsoft Apps Store"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:125
+#: sites/www.thunderbird.net/thunderbird/all/index.html:124
 msgid "Flathub"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:128
+#: sites/www.thunderbird.net/thunderbird/all/index.html:127
 msgid "Snap Store"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:135
+#: sites/www.thunderbird.net/thunderbird/all/index.html:134
 msgid "More Information"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:138 sites/www.thunderbird.net/thunderbird/all/index.html:152
+#: sites/www.thunderbird.net/thunderbird/all/index.html:137 sites/www.thunderbird.net/thunderbird/all/index.html:151
 msgid "System Requirements"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:149
+#: sites/www.thunderbird.net/thunderbird/all/index.html:148
 msgid "More Information For Mobile"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:168
+#: sites/www.thunderbird.net/thunderbird/all/index.html:167
 msgid "These are officially maintained and distributed by Thunderbird."
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:169
+#: sites/www.thunderbird.net/thunderbird/all/index.html:168
 msgid "Jump to the language you wish to download by using the legend below."
 msgstr ""
 
@@ -3232,13 +3216,141 @@ msgstr ""
 msgid "Releases"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/releases/index.html:12 sites/www.thunderbird.net/thunderbird/releases/index.html:22
+#: sites/www.thunderbird.net/thunderbird/releases/index.html:11 sites/www.thunderbird.net/thunderbird/releases/index.html:21
 msgid "Thunderbird Release Notes Atom Feed"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/releases/index.html:19
+#: sites/www.thunderbird.net/thunderbird/releases/index.html:18
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Бележките към изданията на Thunderbird са специфични за всяко едно. Изберете номера на издание от списъка и вижте бележките към него."
+
+#~ msgid ""
+#~ "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded\n"
+#~ "with great features!"
+#~ msgstr ""
+#~ "Thunderbird е свободно и безплатно приложение за имейл, което лесно се настройва и персонализира - и е заредено\n"
+#~ "със страхотни характеристики!"
+
+#~ msgid ""
+#~ "\n"
+#~ "          Meet Thunderbird, the <strong>email</strong>,\n"
+#~ "          <strong>calendar</strong>, and <strong>contacts</strong> app that maximizes your freedoms.\n"
+#~ "          "
+#~ msgstr ""
+#~ "\n"
+#~ "          Запознайте се с Thunderbird, <strong>електронната поща</strong>,\n"
+#~ "          Приложение за <strong>календар</strong> и <strong>контакти</strong>, което увеличава максимално свободите ви.\n"
+#~ "          "
+
+#~ msgid ""
+#~ "Thunderbird is a free and open-source software project founded in 2003 to make communicating and collaborating better. We are supported by the talent and donations of thousands of generous "
+#~ "individuals and are backed by Mozilla. Essential values guide us and make our work relevant. Read further to learn more."
+#~ msgstr ""
+#~ "Thunderbird е свободен софтуер с отворен код, основан през 2003 г., с цел да подобри общуването и сътрудничество. Ние сме подкрепени от таланта и даренията на хиляди щедри хора и сме подпомогнати от"
+#~ " Mozilla. Основните ни ценности ни водят и правят работата ни подходяща. Прочетете, за да научите повече."
+
+#~ msgid "Supported by <span class=\"txt-gradient\">Mozilla</span>"
+#~ msgstr "Подкрепя се от <span class=\"txt-gradient\">Mozilla</span>"
+
+#~ msgid "If you need help with a contribution to MZLA/Thunderbird, please fill out this form and a Thunderbird donor care representative will get back to you as soon as possible."
+#~ msgstr "Ако имате нужда от помощ с дарение за MZLA/Thunderbird, моля, попълнете този формуляр и представител на грижата за донори на Thunderbird ще се свърже с вас възможно най-скоро."
+
+#, python-format
+#~ msgid ""
+#~ "Unfortunately, donor care representatives are unable to offer support or help with Thunderbird technical issues. For technical support, please visit our <a href=\"%(support_url)s\">support page.</a>"
+#~ msgstr ""
+#~ "За съжаление, представителите на донорските грижи не могат да предложат поддръжка или помощ при технически проблеми на Thunderbird. За техническа поддръжка, моля, посетете нашата <a "
+#~ "href=\"%(support_url)s\">страница за поддръжка.</a>"
+
+#, python-format
+#~ msgid ""
+#~ "Access your donation account settings using the 'Manage My Donation' button on your recent donation confirmation email. There you can change the amount, frequency, payment method and charge date. "
+#~ "You can also cancel your recurring donation plan. If you run into any issues you can always <a href=\"%(help)s\">contact us</a>!"
+#~ msgstr ""
+#~ "Осъществете достъп до настройките на профила си за дарения, като използвате бутона „Управление на моето дарение“ на последния ви имейл за потвърждение на дарение. Там можете да промените сумата, "
+#~ "честотата, начина на плащане и датата на таксуване. Можете също така да отмените плана си за периодично дарение. Ако срещнете някакви проблеми, винаги можете да <a href=\"%(help)s\">свържете се с "
+#~ "нас</a>!"
+
+#, python-format
+#~ msgid ""
+#~ "Anyone can access tech support for Thunderbird by visiting the <a href=\"%(url)s\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial "
+#~ "gifts."
+#~ msgstr ""
+#~ "Всеки може да получи достъп до техническа поддръжка за Thunderbird, като посети <a href=\"%(url)s\">форума за поддръжка</a>. Thunderbird не предоставя техническа поддръжка или подобрена техническа "
+#~ "поддръжка в замяна на финансови подаръци."
+
+#~ msgid ""
+#~ "Gifts to Thunderbird are <strong>not tax-deductible as charitable gifts</strong>, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-"
+#~ "platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future development."
+#~ msgstr ""
+#~ "Подаръците за Thunderbird <strong>не подлежат на приспадане от данъци като благотворителни подаръци</strong>, но са високо оценени. Даренията към Thunderbird подкрепят развитието на нашия водещ "
+#~ "клиент за електронна поща и календар, който е безплатен за бизнес и лична употреба. Вашият подарък ще гарантира, че ще остане такъв и ще подпомогне бъдещото му развитие."
+
+#, python-format
+#~ msgid ""
+#~ "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box 'Donate as an Organization' and include your company name. The receipt you receive to the email address used to "
+#~ "make your contribution will include your business information."
+#~ msgstr ""
+#~ "Когато дарите чрез нашия <a href=\"%(donate)s\">онлайн формуляр</a>, просто поставете отметка в квадратчето „Дарете като организация“ и включете името на вашата компания. Разписката, която "
+#~ "получавате на имейл адреса, използван, за да направите своя принос, ще включва всичко необходимо."
+
+#~ msgid "Are there additional fees on my donation?"
+#~ msgstr "Има ли допълнителни такси към моето дарение?"
+
+#~ msgid ""
+#~ "We do not collect any additional fees or taxes. When you donate in your local currency you are not charged a conversion fee by your credit card. Optionally, you can choose to cover our transaction "
+#~ "costs on your donation. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to "
+#~ "research any additional external taxes or fees that may be applied by regulators such as your bank or tax authority."
+#~ msgstr ""
+#~ "Ние не събираме никакви допълнителни такси или данъци. Когато дарявате във вашата местна валута, кредитната ви карта не ви начислява такса за конвертиране. По желание можете да изберете да покриете "
+#~ "нашите транзакционни разходи с вашето дарение. Това е напълно доброволно и можете да се включите или откажете, като използвате квадратчето за отметка в нашия формуляр за дарения. Нашата организация "
+#~ "е базирана в Съединените щати. Насърчаваме донорите да проучат всички допълнителни външни данъци или такси, които може да се прилагат от регулаторни органи като вашата банка или данъчен орган."
+
+#~ msgid "What are your transaction costs on donations?"
+#~ msgstr "Какви са вашите транзакционни разходи към даренията?"
+
+#~ msgid ""
+#~ "When you opt to cover our transaction costs, you're covering both our processing and donation platform costs. The costs associated with our robust online donation system allows us to continue "
+#~ "scaling sustainably as our supporter-base grows. Our donation platform and payment processor partners reduce internal costs associated with maintaining our own system from scratch. Our partners "
+#~ "ensure we can accept a wide range of currencies/payment methods and remain PCI compliant in all of the countries that we accept gifts from. The transaction costs donors may choose to cover are based"
+#~ " on an estimate of our overall costs. Due to many factors actual costs may fluctuate."
+#~ msgstr ""
+#~ "Когато решите да покриете нашите транзакционни разходи, вие покривате както разходите ни за обработка, така и за платформата за дарения. Разходите, свързани с нашата стабилна система за онлайн "
+#~ "дарения, ни позволяват да продължим да се увеличаваме устойчиво, докато нашата база от поддръжници расте. Нашата платформа за дарения и партньори за обработка на плащания намаляват вътрешните "
+#~ "разходи, свързани с поддържането на собствената ни система от нулата. Нашите партньори гарантират, че можем да приемем широк набор от валути/методи на плащане и да останем съвместими с PCI във "
+#~ "всички страни, от които приемаме подаръци. Разходите по сделката, които донорите могат да изберат да покрият, се основават на приблизителна оценка на нашите общи разходи. Поради много фактори "
+#~ "действителните разходи могат да варират."
+
+#~ msgid ""
+#~ "Thunderbird is the leading open source cross-platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future "
+#~ "development."
+#~ msgstr ""
+#~ "Thunderbird е водещ многоплатформен клиент за електронна поща и календар с отворен код, свободен и безплатен за бизнес и лична употреба. Вашето дарение ще гарантира, че ще остане такъв и ще "
+#~ "подпомогне бъдещото му развитие."
+
+#~ msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a wholly owned subsidiary of Mozilla Foundation."
+#~ msgstr "Thunderbird е проект на MZLA Technologies Corporation, която е изцяло притежавано дъщерно дружество на Mozilla Foundation."
+
+#~ msgid ""
+#~ "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird. Companies and individuals support the development of the product now and in the "
+#~ "future."
+#~ msgstr ""
+#~ "В момента по-голямата част от приходите на Thunderbird идват от щедри подаръци от потребители и приятели на Thunderbird. Фирми и физически лица подкрепят развитието на продукта сега и в бъдеще."
+
+#, python-format
+#~ msgid ""
+#~ "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. If you need technical support, please head over to <a href=\"%(support)s\">Thunderbird "
+#~ "Support</a> for assistance."
+#~ msgstr ""
+#~ "Ако имате въпрос относно дарения към Thunderbird, моля, свържете се с нас чрез <a href=\"%(help)s\">този формуляр</a>. Ако имате нужда от техническа поддръжка, моля, отидете на странизата за <a "
+#~ "href=\"%(support)s\">поддръжка на Thunderbird</a>."
+
+#~ msgid ""
+#~ "\n"
+#~ "        Thunderbird keeps getting better. Subscribe to our newsletter and follow us on social media to stay\n"
+#~ "        informed.\n"
+#~ "        "
+#~ msgstr "Thunderbird става все по-добър. За да бъдете информирани се абонирайте за бюлетина и ни следвайте в социалните медии."
 
 #~ msgid "laptop frame"
 #~ msgstr "рамка за лаптоп"

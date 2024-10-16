@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-10-01 08:31-0700\n"
+"POT-Creation-Date: 2024-10-16 13:50-0700\n"
 "PO-Revision-Date: 2024-10-01 16:39+0000\n"
 "Last-Translator: Andreas Pettersson <amvpet@gmail.com>\n"
 "Language-Team: none\n"
@@ -27,11 +27,11 @@ msgstr "Välkommen till <div class=\"tb-text\">Thunderbird <small class=\"accent
 msgid "Support us!"
 msgstr "Stöd oss!"
 
-#: sites/start.thunderbird.net/beta/index.html:22 sites/start.thunderbird.net/release/index.html:22 sites/start.thunderbird.net/release/index.html:37
-#: sites/www.thunderbird.net/includes/base/nav.html:83 sites/www.thunderbird.net/includes/download-button.html:102 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:80
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:288 sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:74 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:209
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:228 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:79
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:345
+#: sites/start.thunderbird.net/beta/index.html:22 sites/start.thunderbird.net/release/index.html:22 sites/start.thunderbird.net/release/index.html:37 sites/www.thunderbird.net/donate/index.html:8
+#: sites/www.thunderbird.net/includes/base/footer.html:45 sites/www.thunderbird.net/includes/base/nav.html:71 sites/www.thunderbird.net/includes/base/nav.html:83
+#: sites/www.thunderbird.net/includes/download-button.html:102 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:80 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:288
+#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:74 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:209 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:228
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:79 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:345
 msgid "Donate"
 msgstr "Donera"
 
@@ -200,7 +200,7 @@ msgstr ""
 msgid "Share ideas and feedback."
 msgstr "Dela idéer och feedback."
 
-#: sites/start.thunderbird.net/release/index.html:54 sites/www.thunderbird.net/participate/index.html:113
+#: sites/start.thunderbird.net/release/index.html:54 sites/www.thunderbird.net/participate/index.html:112
 msgid "Mozilla Connect"
 msgstr "Mozilla Connect"
 
@@ -219,6 +219,64 @@ msgstr "Frågor? Problem?"
 #: sites/start.thunderbird.net/release/index.html:95
 msgid "If Crash Reporter appears when Thunderbird crashes, please provide as many details as possible to help developers."
 msgstr "Om kraschrapportören visas när Thunderbird kraschar, vänligen ange så många detaljer som möjligt för att hjälpa utvecklare."
+
+#: sites/updates.thunderbird.net/index.html:8 sites/updates.thunderbird.net/index.html:14
+msgid "Hello!"
+msgstr ""
+
+#: sites/updates.thunderbird.net/index.html:16
+#, python-format
+msgid "You're probably looking for <a href=\"%(url)s\">Thunderbird.net</a>."
+msgstr ""
+
+#: sites/updates.thunderbird.net/includes/base/base.html:1 sites/www.thunderbird.net/includes/base/base.html:15
+msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
+msgstr "Thunderbird är ett gratis e-postprogram som är enkelt att använda och anpassa - och som är späckat med fantastiska funktioner!"
+
+#: sites/updates.thunderbird.net/includes/base/base.html:16 sites/www.thunderbird.net/includes/base/base.html:17 sites/www.thunderbird.net/includes/base/page.html:16
+#: sites/www.thunderbird.net/includes/product-metadata.html:2 sites/www.thunderbird.net/includes/product-metadata.html:21 sites/www.thunderbird.net/index.html:8
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:17 sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:18
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:19 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:18 sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:18
+#: sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:18 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:19
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:17 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:17 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:17
+msgid "Thunderbird"
+msgstr "Thunderbird"
+
+#: sites/updates.thunderbird.net/includes/base/footer.html:8 sites/www.thunderbird.net/about/index.html:56 sites/www.thunderbird.net/includes/appeal-footer.html:7
+#: sites/www.thunderbird.net/includes/base/footer.html:56 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:350 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:426
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:273 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:292
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:408
+msgid "Privacy"
+msgstr "Sekretess"
+
+#: sites/updates.thunderbird.net/includes/base/footer.html:10 sites/www.thunderbird.net/includes/appeal-footer.html:9 sites/www.thunderbird.net/includes/base/footer.html:58
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:353 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:429
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:276 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:295
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:411
+msgid "Cookies"
+msgstr "Kakor"
+
+#: sites/updates.thunderbird.net/includes/base/footer.html:12 sites/www.thunderbird.net/contact/index.html:41 sites/www.thunderbird.net/includes/appeal-footer.html:11
+#: sites/www.thunderbird.net/includes/base/footer.html:60 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:357 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:433
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:280 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:299
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:415
+msgid "Legal"
+msgstr "Juridisk information"
+
+#: sites/updates.thunderbird.net/includes/base/footer.html:14 sites/www.thunderbird.net/includes/appeal-footer.html:13 sites/www.thunderbird.net/includes/base/footer.html:62
+msgid "Send DMCA Notice"
+msgstr "Skicka DMCA-meddelande"
+
+#: sites/updates.thunderbird.net/includes/base/footer.html:16 sites/www.thunderbird.net/includes/appeal-footer.html:15 sites/www.thunderbird.net/includes/base/footer.html:64
+msgid "Report Fraud"
+msgstr "Rapportera bedrägeri"
+
+#: sites/updates.thunderbird.net/includes/base/footer.html:18 sites/www.thunderbird.net/includes/appeal-footer.html:17 sites/www.thunderbird.net/includes/base/footer.html:66
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:361 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:437
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:284 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:303
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:419
+msgid "Participation Guidelines"
+msgstr "Riktlinjer för deltagande"
 
 #: sites/www.thunderbird.net/404.html:8
 #, python-format
@@ -242,61 +300,40 @@ msgstr "Sidan du letar efter finns inte."
 msgid "If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>"
 msgstr "Om du tror att detta är en bugg kan du <a href=\"%(bug_report_url)s\">rapportera ett problem här</a>"
 
-#: sites/www.thunderbird.net/includes/base/base.html:17 sites/www.thunderbird.net/includes/base/page.html:16 sites/www.thunderbird.net/includes/product-metadata.html:2
-#: sites/www.thunderbird.net/includes/product-metadata.html:21 sites/www.thunderbird.net/index.html:8 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:17
-#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:18 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:19 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:18
-#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:18 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:18 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:19
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:17 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:17 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:17
-msgid "Thunderbird"
-msgstr "Thunderbird"
-
 #: sites/www.thunderbird.net/index.html:9
 msgid "Free Your Inbox."
 msgstr "Frigör din inkorg."
 
-#: sites/www.thunderbird.net/index.html:10
-msgid ""
-"Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded\n"
-"with great features!"
-msgstr ""
-"Thunderbird är ett gratis e-postprogram som är lätt att ställa in och anpassa - och det är fulladdat\n"
-"med fantastiska funktioner!"
-
-#: sites/www.thunderbird.net/index.html:24 sites/www.thunderbird.net/index.html:339
+#: sites/www.thunderbird.net/index.html:22 sites/www.thunderbird.net/index.html:336
 msgid "<span class=\"txt-gradient\">Free</span> Your Inbox"
 msgstr "<span class=\"txt-gradient\">Frigör</span> din inkorg"
 
-#: sites/www.thunderbird.net/index.html:26
+#: sites/www.thunderbird.net/index.html:24
 msgid ""
 "\n"
-"          Meet Thunderbird, the <strong>email</strong>,\n"
-"          <strong>calendar</strong>, and <strong>contacts</strong> app that maximizes your freedoms.\n"
+"            Meet Thunderbird, the <strong>email</strong> and <strong>productivity</strong> app that maximizes your freedoms.\n"
 "          "
 msgstr ""
-"\n"
-"          Möt Thunderbird, appen för <strong>e-post</strong>,\n"
-"          <strong>kalender</strong> och <strong>kontakter</strong> som maximerar dina friheter.\n"
-"          "
 
-#: sites/www.thunderbird.net/download/index.html:8 sites/www.thunderbird.net/download/index.html:17 sites/www.thunderbird.net/includes/base/nav.html:78 sites/www.thunderbird.net/index.html:34
-#: sites/www.thunderbird.net/index.html:344 sites/www.thunderbird.net/thunderbird/all/index.html:9 sites/www.thunderbird.net/thunderbird/all/index.html:103
+#: sites/www.thunderbird.net/download/index.html:8 sites/www.thunderbird.net/download/index.html:16 sites/www.thunderbird.net/includes/base/nav.html:78 sites/www.thunderbird.net/index.html:31
+#: sites/www.thunderbird.net/index.html:341 sites/www.thunderbird.net/thunderbird/all/index.html:9 sites/www.thunderbird.net/thunderbird/all/index.html:102
 msgid "Download"
 msgstr "Ladda ner"
 
-#: sites/www.thunderbird.net/index.html:54 sites/www.thunderbird.net/index.html:59 sites/www.thunderbird.net/index.html:64 sites/www.thunderbird.net/index.html:69
-#: sites/www.thunderbird.net/index.html:74
+#: sites/www.thunderbird.net/index.html:51 sites/www.thunderbird.net/index.html:56 sites/www.thunderbird.net/index.html:61 sites/www.thunderbird.net/index.html:66
+#: sites/www.thunderbird.net/index.html:71
 msgid "competitor icon"
 msgstr "ikon för konkurrent"
 
-#: sites/www.thunderbird.net/index.html:86
+#: sites/www.thunderbird.net/index.html:83
 msgid "<span class=\"txt-gradient\">Freedom</span> from Chaos"
 msgstr "<span class=\"txt-gradient\">Frihet</span> från kaos"
 
-#: sites/www.thunderbird.net/index.html:87
+#: sites/www.thunderbird.net/index.html:84
 msgid "Waste less time finding browser tabs."
 msgstr "Slösa mindre tid på att hitta webbläsarflikar."
 
-#: sites/www.thunderbird.net/index.html:89
+#: sites/www.thunderbird.net/index.html:86
 msgid ""
 "\n"
 "          Access all your messages, calendars, and contacts in one fast app. Filter and organize\n"
@@ -310,19 +347,19 @@ msgstr ""
 "          gör helt enkelt ditt liv enklare.\n"
 "          "
 
-#: sites/www.thunderbird.net/index.html:116
+#: sites/www.thunderbird.net/index.html:113
 msgid "See Compatibility"
 msgstr "Se kompatibilitet"
 
-#: sites/www.thunderbird.net/index.html:127
+#: sites/www.thunderbird.net/index.html:124
 msgid "<span class=\"txt-gradient\">Freedom</span> from Manipulation"
 msgstr "<span class=\"txt-gradient\">Frihet</span> från manipulation"
 
-#: sites/www.thunderbird.net/index.html:128
+#: sites/www.thunderbird.net/index.html:125
 msgid "Our agenda isn’t hidden. It’s to make the world better."
 msgstr "Vår agenda är inte dold. Den är här för att göra världen bättre."
 
-#: sites/www.thunderbird.net/index.html:130
+#: sites/www.thunderbird.net/index.html:127
 #, python-format
 msgid ""
 "\n"
@@ -339,27 +376,27 @@ msgstr ""
 "          på att vi alltid sätter din integritet och säkerhet först.\n"
 "          "
 
-#: sites/www.thunderbird.net/index.html:138
+#: sites/www.thunderbird.net/index.html:135
 msgid "Learn Who We Are"
 msgstr "Lär dig vilka vi är"
 
-#: sites/www.thunderbird.net/index.html:147
+#: sites/www.thunderbird.net/index.html:144
 msgid "Firefox planet"
 msgstr "Firefox planet"
 
-#: sites/www.thunderbird.net/index.html:154
+#: sites/www.thunderbird.net/index.html:151
 msgid "Thunderbird planet"
 msgstr "Thunderbird planet"
 
-#: sites/www.thunderbird.net/index.html:166
+#: sites/www.thunderbird.net/index.html:163
 msgid "<span class=\"txt-gradient\">Freedom</span> to Geek Out"
 msgstr "<span class=\"txt-gradient\">Frihet</span> att experimentera"
 
-#: sites/www.thunderbird.net/index.html:167
+#: sites/www.thunderbird.net/index.html:164
 msgid "Thunderbird is yours."
 msgstr "Thunderbird är din."
 
-#: sites/www.thunderbird.net/index.html:169
+#: sites/www.thunderbird.net/index.html:166
 msgid ""
 "\n"
 "              Thunderbird is clean and elegant by default, but easily customizable to match your workflow and visual\n"
@@ -372,7 +409,7 @@ msgstr ""
 "              av det mest populära:\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:180
+#: sites/www.thunderbird.net/index.html:177
 msgid ""
 "\n"
 "              Its <strong>unified inbox</strong> enables me to stay sane even in the busiest of times. I am never\n"
@@ -384,20 +421,20 @@ msgstr ""
 "              aldrig e-postklient igen!\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:192 sites/www.thunderbird.net/index.html:221 sites/www.thunderbird.net/index.html:244 sites/www.thunderbird.net/index.html:266
-#: sites/www.thunderbird.net/index.html:288 sites/www.thunderbird.net/index.html:310
+#: sites/www.thunderbird.net/index.html:189 sites/www.thunderbird.net/index.html:218 sites/www.thunderbird.net/index.html:241 sites/www.thunderbird.net/index.html:263
+#: sites/www.thunderbird.net/index.html:285 sites/www.thunderbird.net/index.html:307
 msgid "profile image"
 msgstr "profilbild"
 
-#: sites/www.thunderbird.net/index.html:196
+#: sites/www.thunderbird.net/index.html:193
 msgid "Software Developer, Austria"
 msgstr "Mjukvaruutvecklare, Österrike"
 
-#: sites/www.thunderbird.net/index.html:203
+#: sites/www.thunderbird.net/index.html:200
 msgid "unified inbox"
 msgstr "enhetlig inkorg"
 
-#: sites/www.thunderbird.net/index.html:210
+#: sites/www.thunderbird.net/index.html:207
 msgid ""
 "\n"
 "              I love the <strong>tag feature</strong>. I tag something important and find it quickly.\n"
@@ -407,11 +444,11 @@ msgstr ""
 "              Jag älskar <strong>tagg-funktionen</strong>. Jag taggar något viktigt och hittar det snabbt.\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:225
+#: sites/www.thunderbird.net/index.html:222
 msgid "Computer Scientist, USA"
 msgstr "Datorforskare, USA"
 
-#: sites/www.thunderbird.net/index.html:232
+#: sites/www.thunderbird.net/index.html:229
 msgid ""
 "\n"
 "              It is the first program I install on any PC I use / own... I use it on\n"
@@ -423,11 +460,11 @@ msgstr ""
 "              använder/äger... Jag använder det på <strong>Windows</strong>/<strong>Mac</strong> och <strong>Linux</strong>.\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:248
+#: sites/www.thunderbird.net/index.html:245
 msgid "I.T. Manager, UK"
 msgstr "IT-chef, Storbritannien"
 
-#: sites/www.thunderbird.net/index.html:255
+#: sites/www.thunderbird.net/index.html:252
 msgid ""
 "\n"
 "              Having an open source alternative [for] receiving and managing email... is great for <strong>privacy</strong>.\n"
@@ -438,11 +475,11 @@ msgstr ""
 "              bra för <strong>integriteten</strong>.\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:270
+#: sites/www.thunderbird.net/index.html:267
 msgid "Web Developer, Costa Rica"
 msgstr "Webbutvecklare, Costa Rica"
 
-#: sites/www.thunderbird.net/index.html:277
+#: sites/www.thunderbird.net/index.html:274
 msgid ""
 "\n"
 "              [Thunderbird] empowers me to maintain <strong>ownership</strong> of my emails.\n"
@@ -452,11 +489,11 @@ msgstr ""
 "              [Thunderbird] ger mig möjlighet att behålla <strong>ägandet</strong> av mina e-postmeddelanden.\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:292
+#: sites/www.thunderbird.net/index.html:289
 msgid "Engineer, USA"
 msgstr "Ingenjör, USA"
 
-#: sites/www.thunderbird.net/index.html:299
+#: sites/www.thunderbird.net/index.html:296
 msgid ""
 "\n"
 "              You'd be hard pressed to find a client more <strong>extensible</strong> than Thunderbird!\n"
@@ -466,124 +503,107 @@ msgstr ""
 "              Du skulle ha svårt att hitta en klient som är mer <strong>utbyggbar</strong> än Thunderbird!\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:314
+#: sites/www.thunderbird.net/index.html:311
 msgid "Student, UK"
 msgstr "Student, Storbritannien"
 
-#: sites/www.thunderbird.net/index.html:321
+#: sites/www.thunderbird.net/index.html:318
 msgid "extensions"
 msgstr "tillägg"
 
-#: sites/www.thunderbird.net/index.html:328
+#: sites/www.thunderbird.net/index.html:325
 msgid "Explore More Features"
 msgstr "Utforska fler funktioner"
 
-#: sites/www.thunderbird.net/index.html:340
+#: sites/www.thunderbird.net/index.html:337
 msgid "Are you ready to love email again?"
 msgstr "Är du redo att älska e-post igen?"
 
-#: sites/www.thunderbird.net/about/index.html:8 sites/www.thunderbird.net/about/mission-statement/index.html:28 sites/www.thunderbird.net/includes/base/footer.html:36
+#: sites/www.thunderbird.net/about/index.html:8 sites/www.thunderbird.net/about/mission-statement/index.html:27 sites/www.thunderbird.net/includes/base/footer.html:36
 #: sites/www.thunderbird.net/includes/base/nav.html:56
 msgid "Who We Are"
 msgstr "Vilka är vi"
 
-#: sites/www.thunderbird.net/about/index.html:9 sites/www.thunderbird.net/about/mission-statement/index.html:9 sites/www.thunderbird.net/calendar/holidays/index.html:9
-#: sites/www.thunderbird.net/calendar/index.html:9 sites/www.thunderbird.net/contact/index.html:9 sites/www.thunderbird.net/donate/index.html:9 sites/www.thunderbird.net/download/index.html:9
-#: sites/www.thunderbird.net/newsletter/index.html:9 sites/www.thunderbird.net/participate/index.html:9 sites/www.thunderbird.net/privacy/index.html:9 sites/www.thunderbird.net/survey/index.html:9
-#: sites/www.thunderbird.net/thank-you/index.html:9 sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:10 sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:10
-#: sites/www.thunderbird.net/thunderbird/all/index.html:10 sites/www.thunderbird.net/thunderbird/releases/index.html:9
-msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
-msgstr "Thunderbird är ett gratis e-postprogram som är enkelt att använda och anpassa - och som är späckat med fantastiska funktioner!"
-
-#: sites/www.thunderbird.net/about/index.html:10 sites/www.thunderbird.net/about/mission-statement/index.html:10 sites/www.thunderbird.net/contact/index.html:10
-#: sites/www.thunderbird.net/includes/base/footer.html:34 sites/www.thunderbird.net/includes/base/nav.html:52 sites/www.thunderbird.net/privacy/index.html:10
+#: sites/www.thunderbird.net/about/index.html:9 sites/www.thunderbird.net/about/mission-statement/index.html:9 sites/www.thunderbird.net/contact/index.html:9
+#: sites/www.thunderbird.net/includes/base/footer.html:34 sites/www.thunderbird.net/includes/base/nav.html:52 sites/www.thunderbird.net/privacy/index.html:9
 msgid "About"
 msgstr "Om"
 
-#: sites/www.thunderbird.net/about/index.html:16
+#: sites/www.thunderbird.net/about/index.html:15
 msgid "Meet <span class=\"txt-gradient\">Thunderbird</span>"
 msgstr "Möt <span class=\"txt-gradient\">Thunderbird</span>"
 
 #: sites/www.thunderbird.net/about/index.html:17
 msgid ""
-"Thunderbird is a free and open-source software project founded in 2003 to make communicating and collaborating better. We are supported by the talent and donations of thousands of generous "
-"individuals and are backed by Mozilla. Essential values guide us and make our work relevant. Read further to learn more."
+"Thunderbird is a free and open-source software project founded in 2003 to make communicating and collaborating better. We are supported by the talent and generosity of thousands of individuals and "
+"part of the Mozilla family. Essential values guide us and make our work relevant. Read further to learn more."
 msgstr ""
-"Thunderbird är ett gratis och öppet källkodsprogram som grundades 2003 för att göra kommunikation och samarbete bättre. Vi stöds av talang och donationer från tusentals generösa individer och stöds "
-"av Mozilla. Grundläggande värderingar vägleder oss och gör vårt arbete relevant. Läs vidare för att lära dig mer."
 
-#: sites/www.thunderbird.net/about/index.html:23
+#: sites/www.thunderbird.net/about/index.html:28
 msgid "Values"
 msgstr "Värderingar"
 
-#: sites/www.thunderbird.net/about/index.html:27
+#: sites/www.thunderbird.net/about/index.html:32
 msgid "Community"
 msgstr "Gemenskap"
 
-#: sites/www.thunderbird.net/about/index.html:31
+#: sites/www.thunderbird.net/about/index.html:36
 msgid "Organization"
 msgstr "Företag"
 
-#: sites/www.thunderbird.net/about/index.html:36 sites/www.thunderbird.net/about/mission-statement/index.html:8
+#: sites/www.thunderbird.net/about/index.html:41 sites/www.thunderbird.net/about/mission-statement/index.html:8
 msgid "Our Mission Statement"
 msgstr "Vårt uppdrag"
 
-#: sites/www.thunderbird.net/about/index.html:44
+#: sites/www.thunderbird.net/about/index.html:49
 msgid "Guided by <span class=\"txt-gradient\">Values</span>"
 msgstr "Styrs av <span class=\"txt-gradient\">värderingar</span>"
 
-#: sites/www.thunderbird.net/about/index.html:48
+#: sites/www.thunderbird.net/about/index.html:53
 msgid "A shield with the Thunderbird logo."
 msgstr "En sköld med Thunderbird-logotypen."
 
-#: sites/www.thunderbird.net/about/index.html:51 sites/www.thunderbird.net/includes/appeal-footer.html:7 sites/www.thunderbird.net/includes/base/footer.html:56
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:350 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:426
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:273 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:292
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:408
-msgid "Privacy"
-msgstr "Sekretess"
-
-#: sites/www.thunderbird.net/about/index.html:52
+#: sites/www.thunderbird.net/about/index.html:57
 msgid "You are not the product."
 msgstr "Du är inte produkten."
 
-#: sites/www.thunderbird.net/about/index.html:53
+#: sites/www.thunderbird.net/about/index.html:58
 msgid "To us, data ownership and privacy are your right wherever you live. Our commitment to <strong>your personal data</strong> is simple:"
 msgstr "För oss är dataägande och integritet din rättighet var du än bor. Vårt engagemang för <strong>dina personuppgifter</strong> är enkel:"
 
-#: sites/www.thunderbird.net/about/index.html:55
+#: sites/www.thunderbird.net/about/index.html:60
 msgid "We do not collect or store it unless you ask us to."
 msgstr "Vi samlar inte in eller lagrar den om du inte begär det."
 
-#: sites/www.thunderbird.net/about/index.html:56
+#: sites/www.thunderbird.net/about/index.html:61
 msgid "We take great care to keep it safe from misuse."
 msgstr "Vi är noga med att hålla den säker från missbruk."
 
-#: sites/www.thunderbird.net/about/index.html:57
+#: sites/www.thunderbird.net/about/index.html:62
 msgid "We will never sell it."
 msgstr "Vi kommer aldrig att sälja den."
 
-#: sites/www.thunderbird.net/about/index.html:58
+#: sites/www.thunderbird.net/about/index.html:63
 msgid "You retain ownership and control of it."
 msgstr "Du behåller ägandet och kontrollen över den."
 
-#: sites/www.thunderbird.net/about/index.html:60
+#: sites/www.thunderbird.net/about/index.html:65
 msgid "Read the Privacy Policy"
 msgstr "Läs sekretesspolicyn"
 
-#: sites/www.thunderbird.net/about/index.html:65
+#: sites/www.thunderbird.net/about/index.html:70
 msgid "A key with the Thunderbird logo."
 msgstr "En nyckel med Thunderbird-logotypen."
 
-#: sites/www.thunderbird.net/about/index.html:68
+#: sites/www.thunderbird.net/about/index.html:73
 msgid "Freedom"
 msgstr "Frihet"
 
-#: sites/www.thunderbird.net/about/index.html:69
+#: sites/www.thunderbird.net/about/index.html:74
 msgid "Thunderbird belongs to you (and the world)."
 msgstr "Thunderbird tillhör dig (och världen)."
 
-#: sites/www.thunderbird.net/about/index.html:70
+#: sites/www.thunderbird.net/about/index.html:75
 msgid ""
 "Thunderbird is Free and Open-Source Software, which means its code is available to see, modify, use, and share freely. Its license also ensures that it will remain free forever. You can think of "
 "Thunderbird as a gift from thousands of contributors to you."
@@ -591,23 +611,23 @@ msgstr ""
 "Thunderbird är gratis och öppen programvara, vilket innebär att dess kod är tillgänglig för att se, ändra, använda och dela fritt. Dess licens säkerställer också att den förblir gratis för alltid. "
 "Du kan tänka på Thunderbird som en gåva från tusentals bidragsgivare till dig."
 
-#: sites/www.thunderbird.net/about/index.html:71
+#: sites/www.thunderbird.net/about/index.html:76
 msgid "Learn About MPL 2.0"
 msgstr "Läs om MPL 2.0"
 
-#: sites/www.thunderbird.net/about/index.html:76
+#: sites/www.thunderbird.net/about/index.html:81
 msgid "A speech bubble with the Thunderbird logo."
 msgstr "En pratbubbla med Thunderbird-logotypen."
 
-#: sites/www.thunderbird.net/about/index.html:79
+#: sites/www.thunderbird.net/about/index.html:84
 msgid "Voice"
 msgstr "Röst"
 
-#: sites/www.thunderbird.net/about/index.html:80
+#: sites/www.thunderbird.net/about/index.html:85
 msgid "You have a part in Thunderbird's future."
 msgstr "Du är en del i Thunderbirds framtid."
 
-#: sites/www.thunderbird.net/about/index.html:81
+#: sites/www.thunderbird.net/about/index.html:86
 msgid ""
 "Thunderbird is free from the commercial requirements and incentives that often guide software development. Anyone can get involved in helping make Thunderbird better and available to more people. A "
 "contributor-elected council ensures Thunderbird remains true to its values and mission."
@@ -615,189 +635,184 @@ msgstr ""
 "Thunderbird är fri från de kommersiella krav och incitament som ofta styr mjukvaruutveckling. Vem som helst kan engagera sig i att hjälpa till att göra Thunderbird bättre och tillgänglig för fler "
 "människor. Ett rådgivare som valts av rådet säkerställer att Thunderbird förblir trogen sina värderingar och uppdrag."
 
-#: sites/www.thunderbird.net/about/index.html:90
+#: sites/www.thunderbird.net/about/index.html:95
 msgid "Driven by <span class=\"txt-gradient\">Community</span>"
 msgstr "Drivs av <span class=\"txt-gradient\">gemenskapen</span>"
 
-#: sites/www.thunderbird.net/about/index.html:91
+#: sites/www.thunderbird.net/about/index.html:97
 msgid ""
 "Anyone can help make Thunderbird better. Programmers can contribute features they are passionate about or improve the existing code. Those who are multilingual can make Thunderbird accessible to "
 "everyone. Those willing can test new versions of Thunderbird and document issues. There are many ways to become part of a thriving community that makes Thunderbird unique. And if you don't have the "
-"time to volunteer, you can help support the project through donations."
+"time to volunteer, you can help support our work with a financial contribution."
 msgstr ""
-"Vem som helst kan hjälpa till att göra Thunderbird bättre. Programmerare kan bidra med funktioner de brinner för eller förbättra den befintliga koden. De som är flerspråkiga kan göra Thunderbird "
-"tillgänglig för alla. De som är villiga kan testa nya versioner av Thunderbird och dokumentproblem. Det finns många sätt att bli en del av en blomstrande gemenskap som gör Thunderbird unik. Och om "
-"du inte har tid att vara volontär kan du hjälpa till att stödja projektet genom donationer."
 
-#: sites/www.thunderbird.net/about/index.html:92
+#: sites/www.thunderbird.net/about/index.html:106
 msgid "Learn How to Get Involved"
 msgstr "Lär dig hur du kan engagera dig"
 
-#: sites/www.thunderbird.net/about/index.html:97
+#: sites/www.thunderbird.net/about/index.html:111
 msgid "Our Contributors"
 msgstr "Våra bidragsgivare"
 
-#: sites/www.thunderbird.net/about/index.html:103
-msgid "Supported by <span class=\"txt-gradient\">Mozilla</span>"
-msgstr "Stöds av <span class=\"txt-gradient\">Mozilla</span>"
-
-#: sites/www.thunderbird.net/about/index.html:104
-msgid ""
-"Thunderbird operates in a for-profit subsidiary of the non-profit Mozilla Foundation. This grants us flexibility in offering optional paid services to sustain Thunderbird's development far into the "
-"future."
+#: sites/www.thunderbird.net/about/index.html:117
+msgid "Part of the <span class=\"txt-gradient\">Mozilla Family</span>"
 msgstr ""
-"Thunderbird verkar i ett vinstdrivande dotterbolag till ideella Mozilla Foundation. Detta ger oss flexibilitet när det gäller att erbjuda valfria betaltjänster för att upprätthålla Thunderbirds "
-"utveckling långt in i framtiden."
 
-#: sites/www.thunderbird.net/about/index.html:105
-msgid "We have a growing team of talented individuals employed to develop and maintain Thunderbird, interface with partner organizations, and maximize the reach of Thunderbird throughout the world."
-msgstr "Vi har ett växande team av begåvade individer anställda för att utveckla och underhålla Thunderbird, samverka med partnerorganisationer och maximera Thunderbirds räckvidd över hela världen."
+#: sites/www.thunderbird.net/about/index.html:119
+msgid ""
+"Thunderbird operates in a separate, for-profit subsidiary of the Mozilla Foundation. This structure gives us the flexibility to offer optional paid services to sustain Thunderbird’s development far "
+"into the future."
+msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:110
+#: sites/www.thunderbird.net/about/index.html:125
+msgid "We have a growing team of talented employees who develop and maintain Thunderbird, collaborate with our community and partners, and work to deliver Thunderbird to users around the world."
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:133
 msgid "Managing Director, Operations"
 msgstr "Managing Director, Operations"
 
-#: sites/www.thunderbird.net/about/index.html:111
+#: sites/www.thunderbird.net/about/index.html:134
 msgid "Managing Director, Product"
 msgstr "Managing Director, Product"
 
-#: sites/www.thunderbird.net/about/index.html:112
+#: sites/www.thunderbird.net/about/index.html:135
 msgid "Director, Desktop & Mobile Apps"
 msgstr "Director, Desktop & Mobile Apps"
 
-#: sites/www.thunderbird.net/about/index.html:113
+#: sites/www.thunderbird.net/about/index.html:136
 msgid "Director, Infrastructure & Services"
 msgstr "Director, Infrastructure & Services"
 
-#: sites/www.thunderbird.net/about/index.html:116 sites/www.thunderbird.net/about/index.html:137
+#: sites/www.thunderbird.net/about/index.html:139 sites/www.thunderbird.net/about/index.html:160
 msgid "Sr. Software Engineer, Services"
 msgstr "Sr. Software Engineer, Services"
 
-#: sites/www.thunderbird.net/about/index.html:117
+#: sites/www.thunderbird.net/about/index.html:140
 msgid "UX Engineer, Desktop"
 msgstr "UX Engineer, Desktop"
 
-#: sites/www.thunderbird.net/about/index.html:118
+#: sites/www.thunderbird.net/about/index.html:141
 msgid "Finance & Accounting Specialist"
 msgstr "Specialist inom ekonomi och redovisning"
 
-#: sites/www.thunderbird.net/about/index.html:119 sites/www.thunderbird.net/about/index.html:127 sites/www.thunderbird.net/about/index.html:133
+#: sites/www.thunderbird.net/about/index.html:142 sites/www.thunderbird.net/about/index.html:150 sites/www.thunderbird.net/about/index.html:156
 msgid "Staff Engineer, Desktop"
 msgstr "Staff Engineer, Desktop"
 
-#: sites/www.thunderbird.net/about/index.html:120 sites/www.thunderbird.net/about/index.html:146 sites/www.thunderbird.net/about/index.html:150
+#: sites/www.thunderbird.net/about/index.html:143 sites/www.thunderbird.net/about/index.html:169 sites/www.thunderbird.net/about/index.html:173
 msgid "Software Engineer, Desktop"
 msgstr "Software Engineer, Desktop"
 
-#: sites/www.thunderbird.net/about/index.html:121
+#: sites/www.thunderbird.net/about/index.html:144
 msgid "Software Engineer, Services"
 msgstr "Software Engineer, Services"
 
-#: sites/www.thunderbird.net/about/index.html:122 sites/www.thunderbird.net/about/index.html:152
+#: sites/www.thunderbird.net/about/index.html:145 sites/www.thunderbird.net/about/index.html:175
 msgid "Sr. Software Engineer, Mobile"
 msgstr "Sr. Software Engineer, Mobile"
 
-#: sites/www.thunderbird.net/about/index.html:123
+#: sites/www.thunderbird.net/about/index.html:146
 msgid "Manager, Release Operations"
 msgstr "Manager, Releaseoperationer"
 
-#: sites/www.thunderbird.net/about/index.html:124
+#: sites/www.thunderbird.net/about/index.html:147
 msgid "Release Engineer"
 msgstr "Release Engineer"
 
-#: sites/www.thunderbird.net/about/index.html:125
+#: sites/www.thunderbird.net/about/index.html:148
 msgid "Sr. Staff Engineer, Desktop"
 msgstr "Sr. Staff Engineer, Desktop"
 
-#: sites/www.thunderbird.net/about/index.html:126
+#: sites/www.thunderbird.net/about/index.html:149
 msgid "Sr. Developer Relations Engineer"
 msgstr "Sr. Developer Relations Engineer"
 
-#: sites/www.thunderbird.net/about/index.html:128
+#: sites/www.thunderbird.net/about/index.html:151
 msgid "Sr. Software Engineer, Desktop Add-ons"
 msgstr "Sr. Software Engineer, Desktop Add-ons"
 
-#: sites/www.thunderbird.net/about/index.html:129
+#: sites/www.thunderbird.net/about/index.html:152
 msgid "Sr. Site Reliability Engineer"
 msgstr "Sr. Site Reliability Engineer"
 
-#: sites/www.thunderbird.net/about/index.html:130
+#: sites/www.thunderbird.net/about/index.html:153
 msgid "Sr. Security Engineer, Desktop"
 msgstr "Sr. Security Engineer, Desktop"
 
-#: sites/www.thunderbird.net/about/index.html:131
+#: sites/www.thunderbird.net/about/index.html:154
 msgid "Sr. Technical PM"
 msgstr "Sr. Technical PM"
 
-#: sites/www.thunderbird.net/about/index.html:132
+#: sites/www.thunderbird.net/about/index.html:155
 msgid "Manager, UI/UX Design Studio"
 msgstr "Manager, UI/UX Design Studio"
 
-#: sites/www.thunderbird.net/about/index.html:134
+#: sites/www.thunderbird.net/about/index.html:157
 msgid "Manager, Web Services"
 msgstr "Manager, Web Services"
 
-#: sites/www.thunderbird.net/about/index.html:135
+#: sites/www.thunderbird.net/about/index.html:158
 msgid "Sr. Employee Experience Partner"
 msgstr "Sr. Employee Experience Partner"
 
-#: sites/www.thunderbird.net/about/index.html:136
+#: sites/www.thunderbird.net/about/index.html:159
 msgid "Staff Software Engineer, Desktop"
 msgstr "Staff Software Engineer, Desktop"
 
-#: sites/www.thunderbird.net/about/index.html:138 sites/www.thunderbird.net/about/index.html:147
+#: sites/www.thunderbird.net/about/index.html:161 sites/www.thunderbird.net/about/index.html:170
 msgid "UI/UX Designer"
 msgstr "UI/UX Designer"
 
-#: sites/www.thunderbird.net/about/index.html:139
+#: sites/www.thunderbird.net/about/index.html:162
 msgid "Community & Marketing Coordinator"
 msgstr "Community & Marketing Coordinator"
 
-#: sites/www.thunderbird.net/about/index.html:140
+#: sites/www.thunderbird.net/about/index.html:163
 msgid "Manager, Comms & Community"
 msgstr "Manager, Comms & Community"
 
-#: sites/www.thunderbird.net/about/index.html:141
+#: sites/www.thunderbird.net/about/index.html:164
 msgid "Sr. Manager, Mobile Engineering"
 msgstr "Sr. Manager, Mobile Engineering"
 
-#: sites/www.thunderbird.net/about/index.html:142
+#: sites/www.thunderbird.net/about/index.html:165
 msgid "Sr. Release Engineer"
 msgstr "Sr. Release Engineer"
 
-#: sites/www.thunderbird.net/about/index.html:143
+#: sites/www.thunderbird.net/about/index.html:166
 msgid "User Support Specialist"
 msgstr "User Support Specialist"
 
-#: sites/www.thunderbird.net/about/index.html:144
+#: sites/www.thunderbird.net/about/index.html:167
 msgid "Sr Site Reliability Engineer"
 msgstr "Sr Site Reliibility Engineer"
 
-#: sites/www.thunderbird.net/about/index.html:145
+#: sites/www.thunderbird.net/about/index.html:168
 msgid "Customer Experience Specialist"
 msgstr "Specialist på kundupplevelse"
 
-#: sites/www.thunderbird.net/about/index.html:148
+#: sites/www.thunderbird.net/about/index.html:171
 msgid "Employee Experience Specialist"
 msgstr "Specialist på medarbetarerfarenhet"
 
-#: sites/www.thunderbird.net/about/index.html:149
+#: sites/www.thunderbird.net/about/index.html:172
 msgid "Sr. Manager, Desktop Engineering"
 msgstr "Sr. Manager, Desktop Engineering"
 
-#: sites/www.thunderbird.net/about/index.html:151
+#: sites/www.thunderbird.net/about/index.html:174
 msgid "Community Manager"
 msgstr "Community Manager"
 
-#: sites/www.thunderbird.net/about/index.html:156
+#: sites/www.thunderbird.net/about/index.html:179
 msgid "Explore Career Opportunities"
 msgstr "Utforska karriärmöjligheter"
 
-#: sites/www.thunderbird.net/about/mission-statement/index.html:16
+#: sites/www.thunderbird.net/about/mission-statement/index.html:15
 msgid "Thunderbird’s <span class=\"txt-gradient\">Mission</span>"
 msgstr "Thunderbirds <span class=\"txt-gradient\">uppdrag</span>"
 
-#: sites/www.thunderbird.net/about/mission-statement/index.html:18
+#: sites/www.thunderbird.net/about/mission-statement/index.html:17
 msgid ""
 "Thunderbird facilitates cross platform, decentralized, open-standard communication, which puts the user in control of their data and workflow. We aspire to offer an interoperable and extensible "
 "open-source platform for messaging and managing personal information, such as email, contacts, and appointments."
@@ -809,17 +824,17 @@ msgstr ""
 msgid "Calendar"
 msgstr "Kalender"
 
-#: sites/www.thunderbird.net/calendar/holidays/index.html:10 sites/www.thunderbird.net/calendar/index.html:10 sites/www.thunderbird.net/download/index.html:10
-#: sites/www.thunderbird.net/includes/base/footer.html:22 sites/www.thunderbird.net/includes/base/nav.html:36 sites/www.thunderbird.net/newsletter/index.html:10
-#: sites/www.thunderbird.net/thank-you/index.html:10 sites/www.thunderbird.net/thunderbird/all/index.html:11
+#: sites/www.thunderbird.net/calendar/holidays/index.html:9 sites/www.thunderbird.net/calendar/index.html:9 sites/www.thunderbird.net/download/index.html:9
+#: sites/www.thunderbird.net/includes/base/footer.html:22 sites/www.thunderbird.net/includes/base/nav.html:36 sites/www.thunderbird.net/newsletter/index.html:9
+#: sites/www.thunderbird.net/thank-you/index.html:9 sites/www.thunderbird.net/thunderbird/all/index.html:10
 msgid "Resources"
 msgstr "Resurser"
 
-#: sites/www.thunderbird.net/calendar/index.html:17
+#: sites/www.thunderbird.net/calendar/index.html:16
 msgid "Looking For Holiday Calendars?"
 msgstr "Letar du efter helgdagskalendrar?"
 
-#: sites/www.thunderbird.net/calendar/index.html:19
+#: sites/www.thunderbird.net/calendar/index.html:18
 #, python-format
 msgid "If you're looking for holiday calendars, please click <a href=\"%(url)s\">here</a>."
 msgstr "Om du letar efter helgdagskalendrar, vänligen klicka <a href=\"%(url)s\">här</a>."
@@ -828,11 +843,11 @@ msgstr "Om du letar efter helgdagskalendrar, vänligen klicka <a href=\"%(url)s\
 msgid "Holiday Calendar"
 msgstr "Helgdagskalender"
 
-#: sites/www.thunderbird.net/calendar/holidays/index.html:15
+#: sites/www.thunderbird.net/calendar/holidays/index.html:14
 msgid "Add your nation’s holidays to <span class=\"txt-gradient\">Calendar</span>!"
 msgstr "Lägg till ditt lands helgdagar i <span class=\"txt-gradient\">kalendern</span>!"
 
-#: sites/www.thunderbird.net/calendar/holidays/index.html:17
+#: sites/www.thunderbird.net/calendar/holidays/index.html:16
 #, python-format
 msgid ""
 "We’ve got some holiday calendar files available for download. You can either download and then import them into Calendar or you can just subscribe to these calendars by copying their URL and then "
@@ -841,12 +856,12 @@ msgstr ""
 "Vi har några semesterkalenderfiler tillgängliga för nedladdning. Du kan antingen ladda ner och sedan importera dem till Calendar eller så kan du bara prenumerera på dessa kalendrar genom att kopiera"
 " deras URL och sedan lägga till dem som nya fjärrkalenderfiler. Mer information om hur du installerar en helgdagskalender finns i artikeln <a href=\"%s\">Lägga till en helgdagskalender</a>."
 
-#: sites/www.thunderbird.net/calendar/holidays/index.html:46
+#: sites/www.thunderbird.net/calendar/holidays/index.html:45
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
 msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
 
-#: sites/www.thunderbird.net/calendar/holidays/index.html:48
+#: sites/www.thunderbird.net/calendar/holidays/index.html:47
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s"
 msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> helgdagar tack till %(authors)s"
@@ -855,49 +870,49 @@ msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> helg
 msgid "Contact Us"
 msgstr "Kontakta oss"
 
-#: sites/www.thunderbird.net/contact/index.html:16
+#: sites/www.thunderbird.net/contact/index.html:15
 msgid "Need to <span class=\"txt-gradient\">Talk?</span>"
 msgstr "Behöver du <span class=\"txt-gradient\">prata?</span>"
 
-#: sites/www.thunderbird.net/contact/index.html:17
+#: sites/www.thunderbird.net/contact/index.html:16
 msgid "Direct your inquiries to the teams below."
 msgstr "Rikta dina frågor till teamen nedan."
 
-#: sites/www.thunderbird.net/contact/index.html:20 sites/www.thunderbird.net/participate/index.html:70
+#: sites/www.thunderbird.net/contact/index.html:19 sites/www.thunderbird.net/participate/index.html:69
 msgid "Support"
 msgstr "Support"
 
-#: sites/www.thunderbird.net/contact/index.html:20
+#: sites/www.thunderbird.net/contact/index.html:19
 msgid "Support Website"
 msgstr "Webbplats för support"
 
-#: sites/www.thunderbird.net/contact/index.html:20 sites/www.thunderbird.net/donate/help/index.html:8 sites/www.thunderbird.net/donate/help/thank-you/index.html:8
-msgid "Donor Help"
-msgstr "Hjälp vid donation"
+#: sites/www.thunderbird.net/contact/index.html:19 sites/www.thunderbird.net/donate/help/index.html:8
+msgid "Donation Help"
+msgstr ""
 
-#: sites/www.thunderbird.net/contact/index.html:21
+#: sites/www.thunderbird.net/contact/index.html:20
 msgid ""
 "For questions about how to use Thunderbird, visit and search our Support Website. Feel free to submit a new question if you cannot find an answer. Please remember to be courteous to our staff and "
 "volunteers."
 msgstr ""
 "För frågor om hur du använder Thunderbird, besök och sök på vår supportwebbplats. Skicka gärna in en ny fråga om du inte hittar ett svar. Kom ihåg att vara artig mot vår personal och volontärer."
 
-#: sites/www.thunderbird.net/contact/index.html:24
+#: sites/www.thunderbird.net/contact/index.html:23
 #, python-format
 msgid "To get the best support, please ask your question in English. If you prefer to ask a question in %(lang)s you can try this non-Mozilla community forum <a class=\"dotted\" href=\"%(link)s\">link</a>."
 msgstr ""
 "För att få bästa möjliga support, ställ din fråga på engelska. Om du föredrar att ställa en fråga på %(lang)s kan du prova den här <a class=\"dotted\" href=\"%(link)s\">länken</a> för forumet som "
 "inte kommer från Mozilla."
 
-#: sites/www.thunderbird.net/contact/index.html:30
+#: sites/www.thunderbird.net/contact/index.html:29
 msgid "Security"
 msgstr "Säkerhet"
 
-#: sites/www.thunderbird.net/contact/index.html:30
+#: sites/www.thunderbird.net/contact/index.html:29
 msgid "Bugzilla"
 msgstr "Bugzilla"
 
-#: sites/www.thunderbird.net/contact/index.html:31
+#: sites/www.thunderbird.net/contact/index.html:30
 msgid ""
 "To report a software vulnerability, please submit an issue on Bugzilla with the security box checked. This checkmark will make the report visible only to our security team, who can address "
 "vulnerabilities before public disclosure."
@@ -905,40 +920,40 @@ msgstr ""
 "För att rapportera en säkerhetsproblem, vänligen skicka in ett problem på Bugzilla med säkerhetsrutan markerad. Den här bocken kommer att göra rapporten endast synlig för vårt säkerhetsteam, som kan"
 " åtgärda sårbarheter innan den avslöjas."
 
-#: sites/www.thunderbird.net/contact/index.html:33
+#: sites/www.thunderbird.net/contact/index.html:32
 msgid "Media"
 msgstr "Media"
 
-#: sites/www.thunderbird.net/contact/index.html:33
+#: sites/www.thunderbird.net/contact/index.html:32
 msgid "Outreach Team"
 msgstr "Outreach-team"
 
-#: sites/www.thunderbird.net/contact/index.html:34
+#: sites/www.thunderbird.net/contact/index.html:33
 msgid "Thunderbird and the people who make it are amazing. Obtain access to our team for your story, review, or other content by emailing our Outreach Team."
 msgstr "Thunderbird och människorna som gör den är fantastiska. Få tillgång till vårt team för din berättelse, recension eller annat innehåll genom att mejla vårt Outreach-team."
 
-#: sites/www.thunderbird.net/contact/index.html:36
+#: sites/www.thunderbird.net/contact/index.html:35
 msgid "Business"
 msgstr "Företag"
 
-#: sites/www.thunderbird.net/contact/index.html:36
+#: sites/www.thunderbird.net/contact/index.html:35
 msgid "Business Team"
 msgstr "Affärsteam"
 
-#: sites/www.thunderbird.net/contact/index.html:37
+#: sites/www.thunderbird.net/contact/index.html:36
 msgid "Organizations wanting to sponsor software development or obtain assistance in large-scale deployments should email our Business Team. This team also handles other partnership inquiries."
 msgstr "Organisationer som vill sponsra mjukvaruutveckling eller få hjälp med storskaliga implementeringar bör e-posta vårt affärsteam. Detta team hanterar även andra partnerskapsfrågor."
 
-#: sites/www.thunderbird.net/contact/index.html:39 sites/www.thunderbird.net/includes/base/footer.html:46 sites/www.thunderbird.net/includes/base/nav.html:72
+#: sites/www.thunderbird.net/contact/index.html:38 sites/www.thunderbird.net/includes/base/footer.html:46 sites/www.thunderbird.net/includes/base/nav.html:72
 #: sites/www.thunderbird.net/participate/index.html:8
 msgid "Participate"
 msgstr "Delta"
 
-#: sites/www.thunderbird.net/contact/index.html:39
+#: sites/www.thunderbird.net/contact/index.html:38
 msgid "Participate Page"
 msgstr "Sidan delta"
 
-#: sites/www.thunderbird.net/contact/index.html:40
+#: sites/www.thunderbird.net/contact/index.html:39
 msgid ""
 "If you have talents you're interested in sharing but don't know where to start, learn how to get started by visiting our Participate page. Here you'll find the volunteer community that matches your "
 "interests."
@@ -946,22 +961,15 @@ msgstr ""
 "Om du har talanger som du är intresserad av att dela men inte vet var du ska börja, lär dig hur du kommer igång genom att besöka vår sida Delta. Här hittar du den volontärgemenskap som matchar dina "
 "intressen."
 
-#: sites/www.thunderbird.net/contact/index.html:42 sites/www.thunderbird.net/includes/appeal-footer.html:11 sites/www.thunderbird.net/includes/base/footer.html:60
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:357 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:433
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:280 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:299
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:415
-msgid "Legal"
-msgstr "Juridisk information"
-
-#: sites/www.thunderbird.net/contact/index.html:42
+#: sites/www.thunderbird.net/contact/index.html:41
 msgid "Trademark Misuse"
 msgstr "Missbruk av varumärken"
 
-#: sites/www.thunderbird.net/contact/index.html:42
+#: sites/www.thunderbird.net/contact/index.html:41
 msgid "DMCA Notice"
 msgstr "DMCA-meddelande"
 
-#: sites/www.thunderbird.net/contact/index.html:43
+#: sites/www.thunderbird.net/contact/index.html:42
 msgid ""
 "Protect future users from malware, data mining, or being fraudulently charged for Thunderbird by reporting trademark misuse. If you believe we are infringing on your copyright or trademark, please "
 "send a DMCA notice."
@@ -969,89 +977,91 @@ msgstr ""
 "Skydda framtida användare från skadlig programvara, datautvinning eller att bedrägligt debiteras för Thunderbird genom att rapportera varumärkesmissbruk. Om du anser att vi gör intrång i din "
 "upphovsrätt eller varumärke, skicka ett DMCA-meddelande."
 
-#: sites/www.thunderbird.net/donate/index.html:8 sites/www.thunderbird.net/includes/base/footer.html:45 sites/www.thunderbird.net/includes/base/nav.html:71
-msgid "Donations"
-msgstr "Donationer"
-
-#: sites/www.thunderbird.net/donate/help/index.html:9 sites/www.thunderbird.net/donate/help/thank-you/index.html:9 sites/www.thunderbird.net/donate/index.html:10
-#: sites/www.thunderbird.net/includes/base/footer.html:43 sites/www.thunderbird.net/includes/base/nav.html:67 sites/www.thunderbird.net/participate/index.html:10
+#: sites/www.thunderbird.net/donate/help/index.html:9 sites/www.thunderbird.net/donate/help/thank-you/index.html:9 sites/www.thunderbird.net/donate/index.html:9
+#: sites/www.thunderbird.net/includes/base/footer.html:43 sites/www.thunderbird.net/includes/base/nav.html:67 sites/www.thunderbird.net/participate/index.html:9
 msgid "Contribute"
 msgstr "Bidra"
 
-#: sites/www.thunderbird.net/donate/index.html:16
+#: sites/www.thunderbird.net/donate/index.html:15
 msgid "Become a <span class=\"txt-gradient\">Supporter</span>"
 msgstr "Bli en <span class=\"txt-gradient\">supporter</span>"
 
-#: sites/www.thunderbird.net/donate/index.html:17
+#: sites/www.thunderbird.net/donate/index.html:16
 msgid "Help us make Thunderbird better."
 msgstr "Hjälp oss att göra Thunderbird bättre."
 
 #: sites/www.thunderbird.net/donate/index.html:18
 msgid ""
-"MZLA Corporation is the for-profit organization sustaining the free software mission of Thunderbird. Our work is to provide open source apps that are secure, private and available for users around "
-"the world. When you donate you help us:"
+"MZLA Technologies Corporation is the for-profit organization sustaining the free software mission of Thunderbird. Our work is to provide open source apps that are secure, private and available for "
+"users around the world. Your support helps us:"
 msgstr ""
-"MZLA Corporation är den vinstdrivande organisationen som upprätthåller Thunderbirds fria mjukvaruuppdrag. Vårt arbete är att tillhandahålla appar med öppen källkod som är säkra, privata och "
-"tillgängliga för användare över hela världen. När du donerar hjälper du oss:"
 
-#: sites/www.thunderbird.net/donate/index.html:20
+#: sites/www.thunderbird.net/donate/index.html:25
 msgid "Develop new apps, integrations and features"
 msgstr "Utveckla nya appar, integrationer och funktioner"
 
-#: sites/www.thunderbird.net/donate/index.html:21
+#: sites/www.thunderbird.net/donate/index.html:26
 msgid "Improve the interface, speed, and stability"
 msgstr "Förbättra gränssnittet, hastigheten och stabiliteten"
 
-#: sites/www.thunderbird.net/donate/index.html:22
+#: sites/www.thunderbird.net/donate/index.html:27
 msgid "Promote Thunderbird and software freedom"
 msgstr "Främja Thunderbird och programfrihet"
 
-#: sites/www.thunderbird.net/donate/index.html:23
+#: sites/www.thunderbird.net/donate/index.html:28
 msgid "Serve millions of free app downloads each year"
 msgstr "Erbjud miljontals gratis appnedladdningar varje år"
 
-#: sites/www.thunderbird.net/donate/index.html:36
-#, python-format
-msgid "<a class=\"dotted\" href=\"%(url)s\">Modify</a> an existing monthly donation."
-msgstr "<a class=\"dotted\" href=\"%(url)s\">Ändra</a> en befintlig månatlig donation."
+#: sites/www.thunderbird.net/donate/index.html:42
+msgid "Not tax deductible as a charitable donation"
+msgstr ""
 
-#: sites/www.thunderbird.net/donate/index.html:44
+#: sites/www.thunderbird.net/donate/index.html:53
 msgid "Frequently Asked Questions"
 msgstr "Vanliga frågor"
 
-#: sites/www.thunderbird.net/donate/index.html:53
+#: sites/www.thunderbird.net/donate/index.html:62
 msgid "Become a <span class=\"txt-gradient\">Corporate Supporter</span>"
 msgstr "Bli en <span class=\"txt-gradient\">företagssupporter</span>"
 
-#: sites/www.thunderbird.net/donate/index.html:54
+#: sites/www.thunderbird.net/donate/index.html:63
 msgid "Secure an open future for yourself and the world."
 msgstr "Säkra en öppen framtid för dig själv och världen."
 
-#: sites/www.thunderbird.net/donate/index.html:55
+#: sites/www.thunderbird.net/donate/index.html:65
 msgid ""
 "Organizations deploying Thunderbird at scale or who share our passion for expanding digital freedoms can make a difference by becoming a one-time or recurring corporate supporter. Small to medium "
-"size contributions can be made with the form above. For donations greater than $5000 USD please contact our business team. Thank you in advance for your generous support!"
+"size contributions can be made with the form above. For contributions greater than $5000 USD please contact our business team. Thank you in advance for your generous support!"
 msgstr ""
-"Organisationer som använder Thunderbird i stor skala eller som delar vår passion för att utöka digitala friheter kan göra skillnad genom att bli en engångs- eller återkommande företagssupporter. Små"
-" till medelstora bidrag kan lämnas med formuläret ovan. För donationer över 5000 USD vänligen kontakta vårt affärsteam. Tack på förhand för ditt generösa stöd!"
 
-#: sites/www.thunderbird.net/donate/index.html:58
+#: sites/www.thunderbird.net/donate/index.html:73
 msgid "Contact the Business Team"
 msgstr "Kontakta företagsgruppen"
 
-#: sites/www.thunderbird.net/donate/index.html:61 sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:48
+#: sites/www.thunderbird.net/donate/index.html:76 sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:47
 msgid "A rocket with the Thunderbird logo."
 msgstr "En raket med Thunderbird-logotypen."
 
 #: sites/www.thunderbird.net/donate/help/index.html:27
-msgid "If you need help with a contribution to MZLA/Thunderbird, please fill out this form and a Thunderbird donor care representative will get back to you as soon as possible."
-msgstr "Om du behöver hjälp med en donation till MZLA/Thunderbird, vänligen fyll i det här formuläret så kommer en representant för Thunderbirds att återkomma till dig så snart som möjligt."
+#, python-format
+msgid "If you need help donating to Thunderbird and did not find an answer in our <a href=\"%(faq)s\">FAQs</a>, please fill out this form and we will get back to you as soon as possible."
+msgstr ""
 
-#: sites/www.thunderbird.net/donate/help/index.html:30
+#: sites/www.thunderbird.net/donate/help/index.html:33
+#, python-format
+msgid "<strong>Use the <a href=\"%(modify)s\">Donor Portal</a> to access your receipts and update or cancel your recurring plan.</strong>"
+msgstr ""
+
+#: sites/www.thunderbird.net/donate/help/index.html:38
 #, python-format
 msgid ""
-"Unfortunately, donor care representatives are unable to offer support or help with Thunderbird technical issues. For technical support, please visit our <a href=\"%(support_url)s\">support page.</a>"
-msgstr "Tyvärr kan vi inte erbjuda support eller hjälp med Thunderbird tekniska problem. För teknisk support, besök vår <a href=\"%(support_url)s\">supportsida.</a>"
+"Please note, our payment support team cannot assist with Thunderbird product questions or technical issues. <strong>For technical support, please visit our <a href=\"%(support)s\">support "
+"page</a></strong> where you will find helpful articles and community forums."
+msgstr ""
+
+#: sites/www.thunderbird.net/donate/help/thank-you/index.html:8
+msgid "Donor Help"
+msgstr "Hjälp vid donation"
 
 #: sites/www.thunderbird.net/donate/help/thank-you/index.html:16
 msgid "Thank you for contacting us. A case has been created for your issue and we will be in touch shortly."
@@ -1065,29 +1075,13 @@ msgstr "Vi återkommer snart."
 msgid "Return to Thunderbird.net"
 msgstr "Gå tillbaka till Thunderbird.net"
 
-#: sites/www.thunderbird.net/download/index.html:16
+#: sites/www.thunderbird.net/donate/mobile/index.html:8
+msgid "Support Thunderbird for Android"
+msgstr ""
+
+#: sites/www.thunderbird.net/download/index.html:15
 msgid "Download <span class=\"txt-gradient\">Thunderbird</span>"
 msgstr "Hämta <span class=\"txt-gradient\">Thunderbird</span>"
-
-#: sites/www.thunderbird.net/includes/appeal-footer.html:9 sites/www.thunderbird.net/includes/base/footer.html:58 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:353
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:429 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:276
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:295 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:411
-msgid "Cookies"
-msgstr "Kakor"
-
-#: sites/www.thunderbird.net/includes/appeal-footer.html:13 sites/www.thunderbird.net/includes/base/footer.html:62
-msgid "Send DMCA Notice"
-msgstr "Skicka DMCA-meddelande"
-
-#: sites/www.thunderbird.net/includes/appeal-footer.html:15 sites/www.thunderbird.net/includes/base/footer.html:64
-msgid "Report Fraud"
-msgstr "Rapportera bedrägeri"
-
-#: sites/www.thunderbird.net/includes/appeal-footer.html:17 sites/www.thunderbird.net/includes/base/footer.html:66 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:361
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:437 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:284
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:303 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:419
-msgid "Participation Guidelines"
-msgstr "Riktlinjer för deltagande"
 
 #: sites/www.thunderbird.net/includes/download-button.html:14 sites/www.thunderbird.net/includes/download-button.html:94
 msgid "Download Thunderbird"
@@ -1128,43 +1122,79 @@ msgid "to make it better."
 msgstr "för att göra den bättre."
 
 #: sites/www.thunderbird.net/includes/faq.html:7
-msgid "What are the ways I can give?"
-msgstr "Vilka sätt kan jag donera?"
+msgid "Contact us"
+msgstr "Kontakta oss"
 
 #: sites/www.thunderbird.net/includes/faq.html:10
 #, python-format
 msgid ""
-"<p>You can <a href=\"%(donate)s\">donate online</a> securely by credit card or PayPal. Google Pay, Apple Pay, and bank transfers through SEPA, iDEAL and ACH are also available online.<br/> "
-"<strong>Give in your local currency!</strong> On <a href=\"%(donate)s\">our online form</a>, use the drop down menu next to the amount. You will be charged in the currency you choose to give "
-"with.<br/> <strong>Additionally you can</strong> give offline in USD by mailing a check or money order made payable to \"MZLA Technologies Corp\". Mail to:</p> <ul class=\"check-address\"> "
-"<li>MZLA</li> <li>PO Box 25718</li> <li>Pasadena CA 91185-5718</li> </ul> <p>Please include your email address on the memo line of your check to help us track and attribute your gift.</p> "
-"<p><strong>Give the gift of your time!</strong> If you would like to learn how to contribute to Thunderbird in other ways such as coding, translating or testing, please visit our <a "
-"href=\"%(ways_to_help)s\">Participate</a> page.</p>"
+"<strong>Questions about donating?</strong> See common answers below. If you still need help donating, please contact us via this <a href=\"%(help)s\">form</a>.<br/> <strong>Want to provide product "
+"feedback?</strong> Head over to <a href=\"%(connect)s\">Mozilla Connect</a>.<br/> <strong>Need product or technical support?</strong> Visit our <a href=\"%(support)s\">knowledgebase and community "
+"support forum</a>."
 msgstr ""
-"<p>Du kan <a href=\"%(donate)s\">donera online</a> säkert med kreditkort eller PayPal. Google Pay, Apple Pay och banköverföringar via SEPA, iDEAL och ACH finns också tillgängliga online.<br/> "
-"<strong>Ge med din lokala valuta!</strong> På <a href=\"%(donate)s\"> vårt onlineformulär</a>använder du rullgardinsmenyn bredvid beloppet. Du debiteras i den valuta du väljer att ge med.<br/> "
-"<strong>Dessutom kan</strong> du ge offline i USD genom att skicka en check eller postanvisning till \"MZLA Technologies Corp\". Maila till:</p> <ul class=\"check-address\"> <li>MZLA</li> <li>PB "
-"25718</li> <li>Pasadena CA 91185-5718</li> </ul > <p>Inkludera din e-postadress på memoraden i din check för att hjälpa oss spåra och tillskriva din gåva.</p> <p><strong>Ge en av din tids "
-"gåva!</strong> Om du vill lära dig hur du kan bidra till Thunderbird på andra sätt som t.ex. kodning, översättning eller testning, besök vår sida <a href=\"%(ways_to_help)s\">Delta</a>.</p>"
 
-#: sites/www.thunderbird.net/includes/faq.html:31
+#: sites/www.thunderbird.net/includes/faq.html:21
+msgid "What are the ways I can give?"
+msgstr "Vilka sätt kan jag donera?"
+
+#: sites/www.thunderbird.net/includes/faq.html:24
+#, python-format
+msgid ""
+"<p>You can <a href=\"%(donate)s\">donate online</a> securely by credit card or PayPal, Google Pay, Apple Pay, and by bank transfers through SEPA, iDEAL and ACH.<br/> <strong>Give in your local "
+"currency!</strong> We accept over 100! Choose yours from the drop down menu next to ‘Amount’.<br/> <strong>You can give offline in USD only</strong> by mailing a check or money order made payable to"
+" \"MZLA Technologies Corp\". Mail to: </p> <ul class=\"check-address\"> <li>MZLA</li> <li>PO Box 25718</li> <li>Pasadena CA 91185-5718</li> </ul> <p>Please include your email address on the memo "
+"line of your check to help us track and attribute your gift. We can only send acknowledgement receipts by email.</p> <p> <strong>Give the gift of your time!</strong> If you would like to learn how "
+"to contribute to Thunderbird in other ways such as coding, translating or testing, please visit our <a href=\"%(ways_to_help)s\">Participate</a> page.</p>"
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/faq.html:47
 msgid "How do I cancel or change my recurring gift? Can I change my payment method or my donation frequency?"
 msgstr "Hur avbryter eller ändrar jag min återkommande donation? Kan jag ändra min betalningsmetod eller min donationsfrekvens?"
 
-#: sites/www.thunderbird.net/includes/faq.html:34
+#: sites/www.thunderbird.net/includes/faq.html:50
 #, python-format
 msgid ""
-"Access your donation account settings using the 'Manage My Donation' button on your recent donation confirmation email. There you can change the amount, frequency, payment method and charge date. "
-"You can also cancel your recurring donation plan. If you run into any issues you can always <a href=\"%(help)s\">contact us</a>!"
+"Access your plan details from the <strong><a href=\"%(modify)s\">Donor Portal</a></strong> or from the 'Manage My Donation' button on your recent donation confirmation email. You can change the "
+"amount, frequency, payment method and charge date. You can also cancel your recurring plan and download your receipts."
 msgstr ""
-"Gå till inställningarna för ditt donationskonto genom att använda knappen \"Hantera min donation\" på din senaste donationsbekräftelse via e-post. Där kan du ändra belopp, frekvens, betalningssätt "
-"och debiteringsdatum. Du kan också avbryta din återkommande donationsplan. Om du stöter på några problem kan du alltid <a href=\"%(help)s\">kontakta oss</a>!"
 
-#: sites/www.thunderbird.net/includes/faq.html:46
+#: sites/www.thunderbird.net/includes/faq.html:61
+msgid "Does my gift give me access to tech support?"
+msgstr "Ger min gåva mig tillgång till teknisk support?"
+
+#: sites/www.thunderbird.net/includes/faq.html:64
+#, python-format
+msgid ""
+"All Thunderbird <strong>technical support is community-based</strong> and available to everyone. Visit our <a href=\"%(url)s\">support forum</a>. We do not provide individual tech support in "
+"exchange for financial gifts."
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/faq.html:73
+msgid "How do I get a receipt?"
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/faq.html:76
+#, python-format
+msgid ""
+"You will receive an email confirmation whenever you donate and this will include a receipt for your records. You can also access your receipt history at any time from our <strong><a "
+"href=\"%(url)s\">Donor Portal</a></strong>."
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/faq.html:85
+msgid "Is my gift tax deductible?"
+msgstr "Är min gåva avdragsgill?"
+
+#: sites/www.thunderbird.net/includes/faq.html:88
+msgid ""
+"Gifts to Thunderbird <strong>are not tax-deductible as charitable gifts</strong>, but are greatly appreciated!<br/> Giving to Thunderbird supports the development of open source apps that are "
+"secure, private and available for users around the world. Your support also ensures that our core apps remain free for everyone."
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/faq.html:98
 msgid "Why do you need my address in order to process a gift?"
 msgstr "Varför behöver du min adress för att behandla en gåva?"
 
-#: sites/www.thunderbird.net/includes/faq.html:49
+#: sites/www.thunderbird.net/includes/faq.html:101
 #, python-format
 msgid ""
 "We understand that your privacy is very important -- we agree, and that's a core value of ours at Thunderbird and Mozilla. Your address is part of our Payment Processing, Contact and Donation "
@@ -1177,58 +1207,31 @@ msgstr ""
 " vill veta mer om den personliga information vi får, vilka tredjepartsleverantörer vi litar på och hur länge vi sparar dina uppgifter, se våra <a href=\"%(website_privacy)s\">webbplatser, "
 "kommunikation & sekretesspolicy för kakor</a>."
 
-#: sites/www.thunderbird.net/includes/faq.html:61
-msgid "Does my gift give me access to tech support?"
-msgstr "Ger min gåva mig tillgång till teknisk support?"
-
-#: sites/www.thunderbird.net/includes/faq.html:64
-#, python-format
-msgid ""
-"Anyone can access tech support for Thunderbird by visiting the <a href=\"%(url)s\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial "
-"gifts."
-msgstr ""
-"Vem som helst kan få tillgång till teknisk support för Thunderbird genom att besöka <a href=\"%(url)s\">supportforumet</a>. Thunderbird tillhandahåller inte teknisk support eller förbättrad teknisk "
-"support i utbyte mot ekonomiska gåvor."
-
-#: sites/www.thunderbird.net/includes/faq.html:73
+#: sites/www.thunderbird.net/includes/faq.html:115
 msgid "How can I turn off the donation message on the Thunderbird start page?"
 msgstr "Hur kan jag stänga av donationsmeddelandet på Thunderbirds startsida?"
 
-#: sites/www.thunderbird.net/includes/faq.html:76
+#: sites/www.thunderbird.net/includes/faq.html:118
 #, python-format
 msgid "To learn how to customize your start page please visit:<br/><a href=\"%(url)s\">%(url)s</a>"
 msgstr "För att lära dig hur du anpassar din startsida besök:<br/><a href=\"%(url)s\">%(url)s</a>"
 
-#: sites/www.thunderbird.net/includes/faq.html:84
-msgid "Is my gift tax deductible?"
-msgstr "Är min gåva avdragsgill?"
-
-#: sites/www.thunderbird.net/includes/faq.html:87
-msgid ""
-"Gifts to Thunderbird are <strong>not tax-deductible as charitable gifts</strong>, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-"
-"platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future development."
-msgstr ""
-"Gåvor till Thunderbird är <strong>inte avdragsgilla som välgörenhetsgåvor</strong>, men de är mycket uppskattade. Donationer till Thunderbird stödjer utvecklingen av vår ledande plattformsoberoende "
-"e-post- och kalenderklient med öppen källkod, gratis för företag och personligt bruk. Din gåva hjälper till att se till att den förblir så och kommer att stödja framtida utveckling."
-
-#: sites/www.thunderbird.net/includes/faq.html:98
+#: sites/www.thunderbird.net/includes/faq.html:126
 msgid "How can I get a business receipt?"
 msgstr "Hur kan jag få ett företagskvitto?"
 
-#: sites/www.thunderbird.net/includes/faq.html:101
+#: sites/www.thunderbird.net/includes/faq.html:129
 #, python-format
 msgid ""
-"When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box 'Donate as an Organization' and include your company name. The receipt you receive to the email address used to "
-"make your contribution will include your business information."
+"When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box <strong>'Donate as an Organization'</strong> and include your company name. Your transaction receipt will include"
+" your company name. If you need a copy of your receipt, download from our <strong><a href=\"%(modify)s\">Donor Portal</a></strong>."
 msgstr ""
-"När du donerar via vårt <a href=\"%(donate)s\">onlineformulär</a> markerar du bara rutan \"Donera som en organisation\" och inkluderar ditt företagsnamn. Kvittot du får till e-postadressen som "
-"användes för att lämna ditt bidrag kommer att innehålla din företagsinformation."
 
-#: sites/www.thunderbird.net/includes/faq.html:112
+#: sites/www.thunderbird.net/includes/faq.html:139
 msgid "Is my donation secure?"
 msgstr "Är min donation säker?"
 
-#: sites/www.thunderbird.net/includes/faq.html:115
+#: sites/www.thunderbird.net/includes/faq.html:142
 #, python-format
 msgid ""
 "Yes, we use industry-standard SSL technology to keep your information secure. We partner with Stripe, the industry's established payment processor trusted by some of the world's largest companies. "
@@ -1239,56 +1242,46 @@ msgstr ""
 "Din känsliga ekonomiska information berör aldrig våra servrar. Vi skickar all data direkt till Stripes PCI-kompatibla servrar via SSL. Vi förstår att din integritet är mycket viktig. För fullständig"
 " information, se <a href=\"%(privacy)s\">Mozillas sekretesspolicy</a>."
 
-#: sites/www.thunderbird.net/includes/faq.html:127
+#: sites/www.thunderbird.net/includes/faq.html:154
 msgid "Can I request a refund?"
 msgstr "Kan jag begära återbetalning?"
 
-#: sites/www.thunderbird.net/includes/faq.html:130
+#: sites/www.thunderbird.net/includes/faq.html:157
 #, python-format
 msgid ""
-"Your donation may be eligible for a refund. You must contact us within 15 days after the date of the donation. If you believe this donation was made without your authorization, please contact us "
-"immediately. Donations made via ACH or SEPA direct debit are ineligible for refunds. Due to the nature of these transactions our policy prioritizes minimizing refund fraud. We sincerely appreciate "
-"your understanding. If you have any further questions, <a href=\"%(help)s\">please contact us</a>."
+"Your donation may be eligible for a refund. You must <strong>contact us within 15 days of payment date.</strong> If you believe this payment was made without your authorization, please contact us "
+"immediately. <strong>Donations made via ACH or SEPA direct debit are ineligible for refunds.</strong> Due to the nature of these transactions our policy prioritizes minimizing refund fraud. We "
+"appreciate your understanding. If you need assistance, <a href=\"%(help)s\">please contact us</a>."
 msgstr ""
-"Din donation kan vara berättigad till återbetalning. Du måste kontakta oss inom 15 dagar efter datumet för donationen. Om du tror att denna donation gjordes utan ditt tillstånd, vänligen kontakta "
-"oss omedelbart. Donationer gjorda via ACH eller SEPA autogiro är inte berättigade till återbetalning. På grund av dessa transaktioners karaktär prioriterar vår policy att minimera "
-"återbetalningsbedrägeri. Vi uppskattar verkligen din förståelse. Om du har ytterligare frågor <a href=\"%(help)s\">vänligen kontakta oss</a>."
 
-#: sites/www.thunderbird.net/includes/faq.html:142
-msgid "Are there additional fees on my donation?"
-msgstr "Tillkommer det några extra avgifter på min donation?"
+#: sites/www.thunderbird.net/includes/faq.html:169
+msgid "Are there additional fees added to my donation?"
+msgstr ""
 
-#: sites/www.thunderbird.net/includes/faq.html:145
+#: sites/www.thunderbird.net/includes/faq.html:172
 msgid ""
-"We do not collect any additional fees or taxes. When you donate in your local currency you are not charged a conversion fee by your credit card. Optionally, you can choose to cover our transaction "
-"costs on your donation. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to "
-"research any additional external taxes or fees that may be applied by regulators such as your bank or tax authority."
+"We do not collect any additional fees or taxes. When you donate in your local currency you are not charged a conversion fee by your credit card. You can choose to also cover the payment processing "
+"transaction costs. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to research any"
+" additional external taxes or fees that may be applied by regulators such as your bank or tax authority."
 msgstr ""
-"Vi tar inte ut några extra avgifter eller skatter. När du donerar i din lokala valuta debiteras du ingen konverteringsavgift av ditt kreditkort. Alternativt kan du välja att täcka våra "
-"transaktionskostnader på din donation. Detta är helt frivilligt och du kan välja att delta eller avstå genom att använda kryssrutan på vårt donationsformulär. Vår organisation är baserad i USA. Vi "
-"uppmuntrar givare att undersöka eventuella ytterligare externa skatter eller avgifter som kan tillämpas av tillsynsmyndigheter som din bank eller skattemyndighet."
 
-#: sites/www.thunderbird.net/includes/faq.html:157
-msgid "What are your transaction costs on donations?"
-msgstr "Vilka är era transaktionskostnader för donationer?"
+#: sites/www.thunderbird.net/includes/faq.html:184
+msgid "What do the transaction costs cover?"
+msgstr ""
 
-#: sites/www.thunderbird.net/includes/faq.html:160
+#: sites/www.thunderbird.net/includes/faq.html:187
 msgid ""
-"When you opt to cover our transaction costs, you're covering both our processing and donation platform costs. The costs associated with our robust online donation system allows us to continue "
-"scaling sustainably as our supporter-base grows. Our donation platform and payment processor partners reduce internal costs associated with maintaining our own system from scratch. Our partners "
-"ensure we can accept a wide range of currencies/payment methods and remain PCI compliant in all of the countries that we accept gifts from. The transaction costs donors may choose to cover are based"
-" on an estimate of our overall costs. Due to many factors actual costs may fluctuate."
+"When you opt to cover our payment transaction costs, you're covering both our payment processing and donation platform fees. The costs associated with our robust online donation system allows us to "
+"continue scaling sustainably as our supporter-base grows. Our donation platform and payment processor partners reduce internal costs associated with maintaining our own system from scratch. Our "
+"partners ensure we can accept a wide range of currencies/payment methods and remain PCI compliant in all of the countries that we accept gifts from. The transaction costs you may choose to cover are"
+" based on an estimate of our overall costs. Due to many factors actual costs may fluctuate."
 msgstr ""
-"När du väljer att täcka våra transaktionskostnader, täcker du både vår bearbetnings- och donationsplattformskostnader. Kostnaderna förknippade med vårt robusta onlinedonationssystem gör att vi kan "
-"fortsätta att skala på ett hållbart sätt när vår supporterbas växer. Vår donationsplattform och betalningsprocessorpartner minskar de interna kostnaderna för att underhålla vårt eget system från "
-"grunden. Våra partners säkerställer att vi kan acceptera ett brett utbud av valutor/betalningsmetoder och förbli PCI-kompatibla i alla länder som vi tar emot gåvor från. De transaktionskostnader som"
-" givarna kan välja att täcka baseras på en uppskattning av våra totala kostnader. På grund av många faktorer kan faktiska kostnader fluktuera."
 
-#: sites/www.thunderbird.net/includes/faq.html:173
+#: sites/www.thunderbird.net/includes/faq.html:200
 msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
 msgstr "Varför visas engångsdonationer som återkommande i SEPA-mandaten?"
 
-#: sites/www.thunderbird.net/includes/faq.html:176
+#: sites/www.thunderbird.net/includes/faq.html:203
 msgid ""
 "When making a one-time gift through SEPA direct debit, you may notice a mention of recurrent transactions. This is because our payment processor Stripe only supports recurring transactions for this "
 "type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
@@ -1298,58 +1291,38 @@ msgstr ""
 "denna typ av betalning. Oavsett detta debiterar vi dig endast en gång och vi kommer inte att göra några ytterligare betalningar på ditt konto utan ditt tillstånd. Efter medgivandet får du ett "
 "officiellt donationskvitto som tydligt återspeglar engångsdonationen."
 
-#: sites/www.thunderbird.net/includes/faq.html:184
+#: sites/www.thunderbird.net/includes/faq.html:211
 msgid "Can I give in cryptocurrencies?"
 msgstr "Kan jag donera in kryptovalutor?"
 
-#: sites/www.thunderbird.net/includes/faq.html:187
+#: sites/www.thunderbird.net/includes/faq.html:214
 msgid "<strong>No.</strong> We are not currently accepting cryptocurrency gifts."
 msgstr "<strong>Nej.</strong> Vi accepterar för närvarande inte gåvor i kryptovalutor."
 
-#: sites/www.thunderbird.net/includes/faq.html:195
+#: sites/www.thunderbird.net/includes/faq.html:222
 msgid "How will my gift be used?"
 msgstr "Hur kommer min gåva att användas?"
 
-#: sites/www.thunderbird.net/includes/faq.html:198
-msgid ""
-"Thunderbird is the leading open source cross-platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future "
-"development."
+#: sites/www.thunderbird.net/includes/faq.html:225
+msgid "Thunderbird is the leading open source email and productivity app that is free for business and personal use. Your gift helps ensure it stays that way, and supports ongoing development."
 msgstr ""
-"Thunderbird är den ledande plattformsoberoende e-post- och kalenderklienten med öppen källkod, gratis för företag och personligt bruk. Din gåva hjälper till att se till att den förblir så och kommer"
-" att stödja framtida utveckling."
 
-#: sites/www.thunderbird.net/includes/faq.html:207
+#: sites/www.thunderbird.net/includes/faq.html:234
 msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
 msgstr "Vad är Thunderbirds förhållande till MZLA Technologies Corporation?"
 
-#: sites/www.thunderbird.net/includes/faq.html:210
-msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a wholly owned subsidiary of Mozilla Foundation."
-msgstr "Thunderbird är ett projekt av MZLA Technologies Corporation, som är ett helägt dotterbolag till Mozilla Foundation."
+#: sites/www.thunderbird.net/includes/faq.html:237
+msgid "MZLA Technologies Corporation is a wholly owned for-profit subsidiary of the Mozilla Foundation and the home of Thunderbird."
+msgstr ""
 
-#: sites/www.thunderbird.net/includes/faq.html:219
+#: sites/www.thunderbird.net/includes/faq.html:245
 msgid "Doesn’t Thunderbird earn income?"
 msgstr "Genererar inte Thunderbird intäkter?"
 
-#: sites/www.thunderbird.net/includes/faq.html:222
-msgid ""
-"Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird. Companies and individuals support the development of the product now and in the "
-"future."
-msgstr ""
-"För närvarande kommer majoriteten av Thunderbirds intäkter från generösa gåvor från användare och vänner till Thunderbird. Företag och privatpersoner stödjer utvecklingen av produkten nu och i "
-"framtiden."
-
-#: sites/www.thunderbird.net/includes/faq.html:231
-msgid "Contact us"
-msgstr "Kontakta oss"
-
-#: sites/www.thunderbird.net/includes/faq.html:234
+#: sites/www.thunderbird.net/includes/faq.html:248
 #, python-format
-msgid ""
-"If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. If you need technical support, please head over to <a href=\"%(support)s\">Thunderbird "
-"Support</a> for assistance."
+msgid "Currently, nearly 100% of Thunderbird’s operating revenue comes from the generous gifts of Thunderbird users."
 msgstr ""
-"Om du har en fråga om att donera till Thunderbird, vänligen kontakta oss via <a href=\"%(help)s\">det här formuläret</a>. Om du behöver teknisk support, gå till <a href=\"%(support)s\">Thunderbird "
-"Support</a> för hjälp."
 
 #: sites/www.thunderbird.net/includes/lang_switcher.html:10
 msgid "Page language"
@@ -1383,7 +1356,7 @@ msgstr "Få hjälp"
 msgid "Downloads"
 msgstr "Hämtningar"
 
-#: sites/www.thunderbird.net/includes/base/footer.html:28 sites/www.thunderbird.net/thunderbird/all/index.html:141 sites/www.thunderbird.net/thunderbird/all/index.html:155
+#: sites/www.thunderbird.net/includes/base/footer.html:28 sites/www.thunderbird.net/thunderbird/all/index.html:140 sites/www.thunderbird.net/thunderbird/all/index.html:154
 msgid "Release Notes"
 msgstr "Versionsfakta"
 
@@ -1426,11 +1399,11 @@ msgstr "Bidra till den här webbplatsen"
 msgid "Translate this site"
 msgstr "Översätt den här webbplatsen"
 
-#: sites/www.thunderbird.net/includes/base/nav.html:21 sites/www.thunderbird.net/thunderbird/releases/index.html:10
+#: sites/www.thunderbird.net/includes/base/nav.html:21 sites/www.thunderbird.net/thunderbird/releases/index.html:9
 msgid "Products"
 msgstr "Produkter"
 
-#: sites/www.thunderbird.net/includes/base/nav.html:25 sites/www.thunderbird.net/thunderbird/releases/index.html:10
+#: sites/www.thunderbird.net/includes/base/nav.html:25 sites/www.thunderbird.net/thunderbird/releases/index.html:9
 msgid "Thunderbird Desktop"
 msgstr "Thunderbird för datorer"
 
@@ -1499,16 +1472,8 @@ msgid "Learn What’s <span class=\"txt-gradient\">Next</span>"
 msgstr "Lär dig vad som händer <span class=\"txt-gradient\">härnäst</span>"
 
 #: sites/www.thunderbird.net/includes/base/page.html:83
-msgid ""
-"\n"
-"        Thunderbird keeps getting better. Subscribe to our newsletter and follow us on social media to stay\n"
-"        informed.\n"
-"        "
+msgid "Thunderbird keeps getting better. Subscribe to our newsletter and follow us on social media to stay informed."
 msgstr ""
-"\n"
-"        Thunderbird blir hela tiden bättre. Prenumerera på vårt nyhetsbrev och följ oss \n"
-"        på sociala medier för att hålla dig uppdaterad.\n"
-"        "
 
 #: sites/www.thunderbird.net/includes/base/page.html:94 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:313 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:234
 #: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:253 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:370
@@ -1771,7 +1736,7 @@ msgstr "Skicka in"
 msgid "Join our Newsletter"
 msgstr "Gå med i vårt nyhetsbrev"
 
-#: sites/www.thunderbird.net/newsletter/index.html:13
+#: sites/www.thunderbird.net/newsletter/index.html:12
 msgid ""
 "\n"
 " See exciting previews of upcoming features, read the latest desktop Thunderbird and mobile Thunderbird news, and enjoy personalized tips to protect your privacy and maximize your productivity! From the Thunderbird team directly to your inbox.\n"
@@ -1779,15 +1744,15 @@ msgstr ""
 "\n"
 "Se spännande förhandstittar av kommande funktioner, läs de senaste nyheterna från Thunderbird och mobila Thunderbird och njut av personliga tips för att skydda din integritet och maximera din produktivitet! Från Thunderbird-teamet direkt till din inkorg.\n"
 
-#: sites/www.thunderbird.net/participate/index.html:16
+#: sites/www.thunderbird.net/participate/index.html:15
 msgid "We Need Your <span class=\"txt-gradient\">Talents</span>"
 msgstr "Vi behöver dina <span class=\"txt-gradient\">talanger</span>"
 
-#: sites/www.thunderbird.net/participate/index.html:17
+#: sites/www.thunderbird.net/participate/index.html:16
 msgid "Everyone can be a contributor. Here are some of the ways you can help."
 msgstr "Alla kan vara bidragsgivare. Här är några av sätten du kan hjälpa till."
 
-#: sites/www.thunderbird.net/participate/index.html:18
+#: sites/www.thunderbird.net/participate/index.html:17
 msgid ""
 "Volunteers help create Thunderbird and ensure it is accessible throughout the world in dozens of languages. They write the documentation and answer the questions that help regular people use "
 "Thunderbird."
@@ -1795,11 +1760,11 @@ msgstr ""
 "Volontärer hjälper till att skapa Thunderbird och se till att den är tillgänglig över hela världen på dussintals språk. De skriver dokumentationen och svarar på frågorna som hjälper vanliga "
 "människor att använda Thunderbird."
 
-#: sites/www.thunderbird.net/participate/index.html:20
+#: sites/www.thunderbird.net/participate/index.html:19
 msgid "Code"
 msgstr "Koda"
 
-#: sites/www.thunderbird.net/participate/index.html:22
+#: sites/www.thunderbird.net/participate/index.html:21
 msgid ""
 "If you have programming experience there are a lot of ways to contribute to the Thunderbird project. Get started by identifying the area where you have the most experience and interest and following"
 " the steps to get started:"
@@ -1807,40 +1772,40 @@ msgstr ""
 "Om du har erfarenhet av programmering finns det många sätt att bidra till Thunderbird-projektet. Kom igång genom att identifiera det område där du har störst erfarenhet och intresse och följ stegen "
 "för att komma igång:"
 
-#: sites/www.thunderbird.net/participate/index.html:28
+#: sites/www.thunderbird.net/participate/index.html:27
 msgid "Desktop Development:"
 msgstr "Utveckling för datorer:"
 
-#: sites/www.thunderbird.net/participate/index.html:30 sites/www.thunderbird.net/participate/index.html:38 sites/www.thunderbird.net/participate/index.html:46
-#: sites/www.thunderbird.net/participate/index.html:65
+#: sites/www.thunderbird.net/participate/index.html:29 sites/www.thunderbird.net/participate/index.html:37 sites/www.thunderbird.net/participate/index.html:45
+#: sites/www.thunderbird.net/participate/index.html:64
 #, python-format
 msgid "Explore the <a href=\"%(url)s\">docs</a>"
 msgstr "Utforska <a href=\"%(url)s\">dokumenten</a>"
 
-#: sites/www.thunderbird.net/participate/index.html:31 sites/www.thunderbird.net/participate/index.html:39 sites/www.thunderbird.net/participate/index.html:47
+#: sites/www.thunderbird.net/participate/index.html:30 sites/www.thunderbird.net/participate/index.html:38 sites/www.thunderbird.net/participate/index.html:46
 #, python-format
 msgid "Join the <a href=\"%(url)s\">repository</a>"
 msgstr "Gå med i <a href=\"%(url)s\">kodförrådet</a>"
 
-#: sites/www.thunderbird.net/participate/index.html:32 sites/www.thunderbird.net/participate/index.html:40 sites/www.thunderbird.net/participate/index.html:48
-#: sites/www.thunderbird.net/participate/index.html:75 sites/www.thunderbird.net/participate/index.html:107
+#: sites/www.thunderbird.net/participate/index.html:31 sites/www.thunderbird.net/participate/index.html:39 sites/www.thunderbird.net/participate/index.html:47
+#: sites/www.thunderbird.net/participate/index.html:74 sites/www.thunderbird.net/participate/index.html:106
 #, python-format
 msgid "Say hello in <a href=\"%(url)s\">Matrix</a>"
 msgstr "Säg hej i <a href=\"%(url)s\">Matrix</a>"
 
-#: sites/www.thunderbird.net/participate/index.html:36
+#: sites/www.thunderbird.net/participate/index.html:35
 msgid "Android Development:"
 msgstr "Utveckling för Android:"
 
-#: sites/www.thunderbird.net/participate/index.html:44
+#: sites/www.thunderbird.net/participate/index.html:43
 msgid "Website Development:"
 msgstr "Webbplatsutveckling:"
 
-#: sites/www.thunderbird.net/participate/index.html:52
+#: sites/www.thunderbird.net/participate/index.html:51
 msgid "Test"
 msgstr "Testa"
 
-#: sites/www.thunderbird.net/participate/index.html:54
+#: sites/www.thunderbird.net/participate/index.html:53
 msgid ""
 "With so many unique hardware environments and workflows, community members who test pre-release builds of Thunderbird play a vital role in the quality of the software. Plus, you help catch bugs "
 "before they can reach the general public!"
@@ -1848,21 +1813,21 @@ msgstr ""
 "Med så många unika hårdvarumiljöer och arbetsflöden spelar communitymedlemmar som testar pre-release-versioner av Thunderbird en viktig roll för kvaliteten på programvaran. Dessutom hjälper du till "
 "att hitta buggar innan de når allmänheten!"
 
-#: sites/www.thunderbird.net/participate/index.html:56
+#: sites/www.thunderbird.net/participate/index.html:55
 #, python-format
 msgid "Learn about testing <a href=\"%(url)s\">Beta</a>"
 msgstr "Läs om hur du testar <a href=\"%(url)s\">Beta</a>"
 
-#: sites/www.thunderbird.net/participate/index.html:57
+#: sites/www.thunderbird.net/participate/index.html:56
 #, python-format
 msgid "Report <a href=\"%(url)s\">bugs</a>"
 msgstr "Rapportera <a href=\"%(url)s\">buggar</a>"
 
-#: sites/www.thunderbird.net/participate/index.html:61
+#: sites/www.thunderbird.net/participate/index.html:60
 msgid "Translate"
 msgstr "Översätta"
 
-#: sites/www.thunderbird.net/participate/index.html:63
+#: sites/www.thunderbird.net/participate/index.html:62
 msgid ""
 "The entire world deserves free and open source software, and Thunderbird is currently translated in more than 50 languages! Use your multilingual talents to help make Thunderbird more widely "
 "available than ever."
@@ -1870,12 +1835,12 @@ msgstr ""
 "Hela världen förtjänar fri programvara med öppen källkod och Thunderbird är för närvarande översatt till mer än 50 språk! Använd dina flerspråkiga talanger för att göra Thunderbird mer tillgänglig "
 "än någonsin."
 
-#: sites/www.thunderbird.net/participate/index.html:66
+#: sites/www.thunderbird.net/participate/index.html:65
 #, python-format
 msgid "Join us on <a href=\"%(url)s\">Pontoon</a>"
 msgstr "Följ med oss på <a href=\"%(url)s\">Pontoon</a>"
 
-#: sites/www.thunderbird.net/participate/index.html:72
+#: sites/www.thunderbird.net/participate/index.html:71
 msgid ""
 "Are you an experienced Thunderbird user who loves lending a helping hand? Put your knowledge to great use by joining our Support Crew and helping users around the world with their Thunderbird "
 "questions."
@@ -1883,15 +1848,15 @@ msgstr ""
 "Är du en erfaren Thunderbird-användare som älskar att ge en hjälpande hand? Använd dina kunskaper till stor nytta genom att gå med i vårt supportteam och hjälpa användare över hela världen med deras"
 " Thunderbird-frågor."
 
-#: sites/www.thunderbird.net/participate/index.html:73
+#: sites/www.thunderbird.net/participate/index.html:72
 msgid "You can join our Thunderbird Community Support Matrix room to get and give user support."
 msgstr "Du kan gå med i vårt Thunderbird Community Support Matrix-rum för att få och ge användarsupport."
 
-#: sites/www.thunderbird.net/participate/index.html:79
+#: sites/www.thunderbird.net/participate/index.html:78
 msgid "Document"
 msgstr "Dokument"
 
-#: sites/www.thunderbird.net/participate/index.html:81
+#: sites/www.thunderbird.net/participate/index.html:80
 msgid ""
 "Help ensure the answers are written down before the question is even asked! From documenting features or APIs to frequently asked user support questions, put your knowledge and writing skills to use"
 " for the benefit of the entire Thunderbird community."
@@ -1899,26 +1864,26 @@ msgstr ""
 "Se till att svaren skrivs ner innan frågan ens ställs! Från att dokumentera funktioner eller API:er till vanliga frågor om användarsupport, använd dina kunskaper och skrivförmåga till nytta för hela"
 " Thunderbird-communityt."
 
-#: sites/www.thunderbird.net/participate/index.html:83
+#: sites/www.thunderbird.net/participate/index.html:82
 #, python-format
 msgid "User Support <a href=\"%(url)s\">documentation</a>"
 msgstr "<a href=\"%(url)s\">Dokumentation</a> för användarsupport"
 
-#: sites/www.thunderbird.net/participate/index.html:84
+#: sites/www.thunderbird.net/participate/index.html:83
 #, python-format
 msgid "Developer <a href=\"%(url)s\">documentation</a>"
 msgstr "<a href=\"%(url)s\">Dokumentation</a> för utvecklare"
 
-#: sites/www.thunderbird.net/participate/index.html:85
+#: sites/www.thunderbird.net/participate/index.html:84
 #, python-format
 msgid "Code <a href=\"%(url)s\">documentation</a>"
 msgstr "<a href=\"%(url)s\">Dokumentation</a> för kod"
 
-#: sites/www.thunderbird.net/participate/index.html:89
+#: sites/www.thunderbird.net/participate/index.html:88
 msgid "Promote"
 msgstr "Främja"
 
-#: sites/www.thunderbird.net/participate/index.html:91
+#: sites/www.thunderbird.net/participate/index.html:90
 msgid ""
 "Advocacy is one of the easiest ways to contribute to Thunderbird! Boosting our posts on Mastodon, showcasing the software to a friend, upvoting a helpful answer on Reddit; anything that adds "
 "visibility is a huge help. Here’s where to find us on various social platforms, and how to get involved."
@@ -1926,117 +1891,117 @@ msgstr ""
 "Advocacy är ett av de enklaste sätten att bidra till Thunderbird! Boosta våra inlägg på Mastodon, visa upp programvaran för en vän, rösta upp ett användbart svar på Reddit; allt som ger synlighet är"
 " till stor hjälp. Här hittar du oss på olika sociala plattformar och hur du kan engagera dig."
 
-#: sites/www.thunderbird.net/participate/index.html:93
+#: sites/www.thunderbird.net/participate/index.html:92
 msgid "Reddit"
 msgstr "Reddit"
 
-#: sites/www.thunderbird.net/participate/index.html:94
+#: sites/www.thunderbird.net/participate/index.html:93
 msgid "Mastodon"
 msgstr "Mastodon"
 
-#: sites/www.thunderbird.net/participate/index.html:95
+#: sites/www.thunderbird.net/participate/index.html:94
 msgid "X (Formerly Twitter)"
 msgstr "X (tidigare Twitter)"
 
-#: sites/www.thunderbird.net/participate/index.html:96
+#: sites/www.thunderbird.net/participate/index.html:95
 msgid "YouTube"
 msgstr "YouTube"
 
-#: sites/www.thunderbird.net/participate/index.html:97
+#: sites/www.thunderbird.net/participate/index.html:96
 msgid "TILVids"
 msgstr "TILVids"
 
-#: sites/www.thunderbird.net/participate/index.html:98
+#: sites/www.thunderbird.net/participate/index.html:97
 msgid "LinkedIn"
 msgstr "LinkedIn"
 
-#: sites/www.thunderbird.net/participate/index.html:102
+#: sites/www.thunderbird.net/participate/index.html:101
 msgid "Design"
 msgstr "Design"
 
-#: sites/www.thunderbird.net/participate/index.html:104
+#: sites/www.thunderbird.net/participate/index.html:103
 msgid ""
 "Share your ideas, and contribute to the ongoing conversations around Thunderbird’s UX and UI. We welcome your feedback to developer designs on our UX mailing list, and our companion Matrix room."
 msgstr "Dela dina idéer och bidra till de pågående samtalen kring Thunderbirds UX och UI. Vi välkomnar din feedback till utvecklardesigner på vår UX-e-postlista och vårt medföljande Matrix-rum."
 
-#: sites/www.thunderbird.net/participate/index.html:106
+#: sites/www.thunderbird.net/participate/index.html:105
 #, python-format
 msgid "Join in on the <a href=\"%(url)s\">discussion</a>"
 msgstr "Delta i <a href=\"%(url)s\">diskussionen</a>"
 
-#: sites/www.thunderbird.net/participate/index.html:112
+#: sites/www.thunderbird.net/participate/index.html:111
 msgid "One more way you can contribute is by sharing <strong>ideas</strong>, <strong>priorities</strong>, and <strong>feedback</strong>. Thunderbird is yours and we're listening."
 msgstr "Ett annat sätt du kan bidra med är genom att dela <strong>idéer</strong>, <strong>prioriteringar</strong> och <strong>feedback</strong>. Thunderbird är din och vi lyssnar."
 
-#: sites/www.thunderbird.net/participate/index.html:122
+#: sites/www.thunderbird.net/participate/index.html:121
 msgid "Contributor <span class=\"txt-gradient\">Experience</span>"
 msgstr "Bidragsgivares <span class=\"txt-gradient\">erfarenhet</span>"
 
-#: sites/www.thunderbird.net/participate/index.html:123
+#: sites/www.thunderbird.net/participate/index.html:122
 msgid "The ways and reasons to get involved are as diverse as the people who do."
 msgstr "Sätten och anledningarna att engagera sig är lika olika som de människor som gör det."
 
-#: sites/www.thunderbird.net/participate/index.html:124
+#: sites/www.thunderbird.net/participate/index.html:123
 msgid "Our volunteers come from diverse backgrounds and bring unique talents. They're making Thunderbird better for themselves and better for the world at the same time. You can join them."
 msgstr "Våra volontärer kommer från olika bakgrunder och har unika talanger. De gör Thunderbird bättre för sig själva och bättre för världen på samma gång. Du kan gå med dem."
 
-#: sites/www.thunderbird.net/participate/index.html:129
+#: sites/www.thunderbird.net/participate/index.html:128
 msgid "Leadership, Switzerland"
 msgstr "Ledarskap, Schweiz"
 
-#: sites/www.thunderbird.net/participate/index.html:130
+#: sites/www.thunderbird.net/participate/index.html:129
 msgid "Thunderbird is a testament to the power of the open-source community's contribution to driving innovation and efficiency."
 msgstr "Thunderbird är ett bevis på kraften i öppen källkodsgemenskapens bidrag till att driva innovation och effektivitet."
 
-#: sites/www.thunderbird.net/participate/index.html:132
+#: sites/www.thunderbird.net/participate/index.html:131
 msgid "Bug Triager, USA"
 msgstr "Bugghantering, USA"
 
-#: sites/www.thunderbird.net/participate/index.html:133
+#: sites/www.thunderbird.net/participate/index.html:132
 msgid "If you don't have skin in the game, you can't complain about the direction the product is going in."
 msgstr "Om du inte delar risken kan du inte klaga på riktningen produkten går i."
 
-#: sites/www.thunderbird.net/participate/index.html:135
+#: sites/www.thunderbird.net/participate/index.html:134
 msgid "Developer, Germany"
 msgstr "Utvecklare, Tyskland"
 
-#: sites/www.thunderbird.net/participate/index.html:136
+#: sites/www.thunderbird.net/participate/index.html:135
 msgid "It is great to be able to improve the software by fixing little things that affect me and other users"
 msgstr "Det är fantastiskt att kunna förbättra mjukvaran genom att fixa små saker som påverkar mig och andra användare"
 
-#: sites/www.thunderbird.net/participate/index.html:138
+#: sites/www.thunderbird.net/participate/index.html:137
 msgid "Tester & Bug Triager, USA"
 msgstr "Testare & Bugghantering, USA"
 
-#: sites/www.thunderbird.net/participate/index.html:139
+#: sites/www.thunderbird.net/participate/index.html:138
 msgid "I volunteer to use the beta versions as soon as they are built, report issues I find, and test fixes."
 msgstr "Jag anmäler mig frivilligt att använda betaversionerna så fort de byggts, rapporterar problem jag hittar och testar lösningar."
 
-#: sites/www.thunderbird.net/participate/index.html:141
+#: sites/www.thunderbird.net/participate/index.html:140
 msgid "Support & Bug Triager, United Kingdom"
 msgstr "Support & Bugghantering, Storbritannien"
 
-#: sites/www.thunderbird.net/participate/index.html:142
+#: sites/www.thunderbird.net/participate/index.html:141
 msgid "I volunteer to assist others in the Thunderbird Support Forum which I find a very rewarding experience."
 msgstr "Jag arbetar frivilligt för att hjälpa andra i Thunderbirds supportforum, vilket jag tycker är en mycket givande upplevelse."
 
-#: sites/www.thunderbird.net/participate/index.html:144
+#: sites/www.thunderbird.net/participate/index.html:143
 msgid "Translator, Bug Triager & Leadership, Bulgaria"
 msgstr "Översättare, Bugghantering & Ledarskap, Bulgarien"
 
-#: sites/www.thunderbird.net/participate/index.html:145
+#: sites/www.thunderbird.net/participate/index.html:144
 msgid "I began by contributing translations, thinking that people who speak my language deserve localized versions."
 msgstr "Jag började med att bidra med översättningar och tänkte att människor som talar mitt språk förtjänar översatta versioner."
 
-#: sites/www.thunderbird.net/participate/index.html:155
+#: sites/www.thunderbird.net/participate/index.html:154
 msgid "Shape the <span class=\"txt-gradient\">Future</span>"
 msgstr "Forma <span class=\"txt-gradient\">framtiden</span>"
 
-#: sites/www.thunderbird.net/participate/index.html:156
+#: sites/www.thunderbird.net/participate/index.html:155
 msgid "Improve software and lives by volunteering."
 msgstr "Förbättra mjukvara och liv genom volontärarbete."
 
-#: sites/www.thunderbird.net/participate/index.html:157
+#: sites/www.thunderbird.net/participate/index.html:156
 msgid ""
 "Craft tools you want to use. Help others find and use software that respects their privacy and freedom. Become part of a better future for yourself and others by putting your talents to work at "
 "Thunderbird."
@@ -2044,7 +2009,7 @@ msgstr ""
 "Skapa verktyg du vill använda. Hjälp andra att hitta och använda programvara som respekterar deras integritet och frihet. Bli en del av en bättre framtid för dig själv och andra genom att sätta dina"
 " talanger i arbete på Thunderbird."
 
-#: sites/www.thunderbird.net/participate/index.html:160
+#: sites/www.thunderbird.net/participate/index.html:159
 msgid "Various gears all working in tandem with a heart, a code symbol, a magnifying glass displaying a very small bug, and the Thunderbird Logo in the centre of it all."
 msgstr "Olika kugghjul arbetar tillsammans med ett hjärta, en kodsymbol, ett förstoringsglas som visar en mycket liten bugg och Thunderbird-logotypen i mitten av det hela."
 
@@ -2052,11 +2017,11 @@ msgstr "Olika kugghjul arbetar tillsammans med ett hjärta, en kodsymbol, ett f�
 msgid "Thunderbird Privacy Policy"
 msgstr "Thunderbirds sekretesspolicy"
 
-#: sites/www.thunderbird.net/survey/index.html:8 sites/www.thunderbird.net/survey/index.html:26
+#: sites/www.thunderbird.net/survey/index.html:8 sites/www.thunderbird.net/survey/index.html:25
 msgid "User Survey"
 msgstr "Användarundersökning"
 
-#: sites/www.thunderbird.net/survey/index.html:27
+#: sites/www.thunderbird.net/survey/index.html:26
 msgid ""
 "<p>Hello from the Thunderbird team! We'd love if you could take approximately 5 minutes to share your experience using Thunderbird. Your anonymous feedback will help us identify our strengths and "
 "the areas we need to improve.</p> <p>Thanks for helping us make Thunderbird better for everyone!</p>"
@@ -2064,12 +2029,12 @@ msgstr ""
 "<p>Hej från Thunderbird-teamet! Vi skulle gilla om du kunde ta cirka 5 minuter att dela med dig av din upplevelse av Thunderbird. Din anonyma feedback hjälper oss att identifiera våra styrkor och de"
 " områden vi behöver förbättra.</p> <p>Tack för att du hjälper oss att göra Thunderbird bättre för alla!</p>"
 
-#: sites/www.thunderbird.net/survey/index.html:33
+#: sites/www.thunderbird.net/survey/index.html:32
 #, python-format
 msgid "Please note: you will be redirected to <u>%(domain)s</u> to complete this survey."
 msgstr "Observera: du kommer att omdirigeras till <u>%(domain)s</u> för att slutföra denna undersökning."
 
-#: sites/www.thunderbird.net/survey/index.html:38
+#: sites/www.thunderbird.net/survey/index.html:37
 msgid "Start"
 msgstr "Starta"
 
@@ -2077,15 +2042,15 @@ msgstr "Starta"
 msgid "Thank You!"
 msgstr "Tack!"
 
-#: sites/www.thunderbird.net/thank-you/index.html:21
+#: sites/www.thunderbird.net/thank-you/index.html:20
 msgid "A laptop with an stylized envelope floating in front of the screen. Three hearts of descending size float above the envelope."
 msgstr "En bärbar dator med ett stiliserat kuvert som svävar framför skärmen. Tre hjärtan av fallande storlek svävar ovanför kuvertet."
 
-#: sites/www.thunderbird.net/thank-you/index.html:23
+#: sites/www.thunderbird.net/thank-you/index.html:22
 msgid "Finish installing, and start enjoying <span class=\"txt-gradient\">Thunderbird</span>."
 msgstr "Avsluta installationen och börja njut av <span class=\"txt-gradient\">Thunderbird</span>."
 
-#: sites/www.thunderbird.net/thank-you/index.html:25 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:92
+#: sites/www.thunderbird.net/thank-you/index.html:24 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:92
 #, python-format
 msgid "Having trouble? <a class=\"inline-link\" href=\"%(url)s\">Get help with your installation.</a>"
 msgstr "Har du problem? <a class=\"inline-link\" href=\"%(url)s\">Få hjälp med din installation.</a>"
@@ -2231,7 +2196,7 @@ msgstr ""
 msgid "<strong>So today we’re asking you to help us out.</strong> If you get value from using Thunderbird, please consider giving a donation to support it!"
 msgstr "<strong>Det är därför vi ber dig att hjälpa oss idag.</strong> Om du har nytta av att använda Thunderbird kan du överväga att göra en donation för att stödja det!"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:342 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:152
+#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:342 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:152 sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:84
 #: sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:342 sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:121
 #: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:84
 msgid "The Thunderbird Team"
@@ -2467,11 +2432,44 @@ msgstr ""
 "Så idag ber vi om din hjälp för att hålla Thunderbird vid liv och blomstrande. Om du får värde av att använda\n"
 "        Thunderbird, överväg att ge en donation för att stödja det!"
 
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:9 sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:19 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:9
+#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:19
+msgid "Thank you for choosing Thunderbird!"
+msgstr "Tack för att du väljer Thunderbird!"
+
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:20 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:20
+msgid "Thank you for choosing <span>Thunderbird!</span>"
+msgstr "Tack för att du väljer <span>Thunderbird!</span>"
+
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:23 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:23
+msgid "Thunderbird is proud to be funded by our community, not by selling personal data or showing ads in your inbox."
+msgstr "Thunderbird är stolta över att finansieras av vår community, inte genom att sälja personlig information eller visa annonser i din inkorg."
+
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:38 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:38
+msgid "Click here to <b>Donate!</b>"
+msgstr "Klicka här för att <b>donera!</b>"
+
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:53 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:53
+msgid "Help keep <b>Thunderbird Alive!</b>"
+msgstr "Hjälp till att hålla <b>Thunderbird vid liv!</b>"
+
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:62 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:62
+msgid "Thunderbird’s mission is to give you the best privacy-respecting, customizable communication experience possible. Free for everyone to install and enjoy!"
+msgstr "Thunderbirds uppdrag är att ge dig den bästa möjliga kommunikationsupplevelsen som respekterar integriteten och kan anpassas. Gratis för alla att installera och njuta av!"
+
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:65 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:65
+msgid "Maintaining expensive servers, fixing bugs, developing new features, and hiring talented engineers are crucial for this mission."
+msgstr "Att underhålla dyra servrar, fixa buggar, utveckla nya funktioner och anställa duktiga ingenjörer är avgörande för det här uppdraget."
+
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:68 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:68
+msgid "Your support is vital in keeping Thunderbird development alive and thriving. If you get value from using Thunderbird, please consider giving a donation to support it."
+msgstr "Ditt stöd är viktigt för att hålla Thunderbirds utveckling levande och blomstrande. Om du får värde av att använda Thunderbird, överväg att ge en donation för att stödja uppdraget."
+
 #: sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:6
 msgid "Experience the future of Thunderbird"
 msgstr "Upplev framtiden för Thunderbird"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:42
+#: sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:41
 #, python-format
 msgid ""
 "<p>Join the Beta today, and enjoy an exciting preview of the new features and visual enhancements coming to Thunderbird %(beta_version)s. You can still run Thunderbird %(current_version)s after "
@@ -2484,8 +2482,8 @@ msgstr ""
 "beta</a>.</p> <p>Thunderbird Beta är programvara för tidig åtkomst, så vänligen rapportera problem med hjälp av hjälpmenyn. Du kan få hjälp via \"Få hjälp\" och \"Dela idéer och feedback\" samt "
 "forumet <a href=\"%(topic_box_url)s\">Beta Topicbox</a>.</p>"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:52 sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:55
-#: sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:59
+#: sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:51 sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:54
+#: sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:58
 msgid "Install now"
 msgstr "Installera nu"
 
@@ -2816,63 +2814,31 @@ msgstr ""
 "Supernova utvecklas ständigt. Under nästa år kommer vi att leverera många förbättringar av befintliga Supernova-funktioner\n"
 "        och introducera helt nya. Uppgradera till version 115 och upplev Thunderbirds framtid!"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:9 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:19
-msgid "Thank you for choosing Thunderbird!"
-msgstr "Tack för att du väljer Thunderbird!"
-
-#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:20
-msgid "Thank you for choosing <span>Thunderbird!</span>"
-msgstr "Tack för att du väljer <span>Thunderbird!</span>"
-
-#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:23
-msgid "Thunderbird is proud to be funded by our community, not by selling personal data or showing ads in your inbox."
-msgstr "Thunderbird är stolta över att finansieras av vår community, inte genom att sälja personlig information eller visa annonser i din inkorg."
-
-#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:38
-msgid "Click here to <b>Donate!</b>"
-msgstr "Klicka här för att <b>donera!</b>"
-
-#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:53
-msgid "Help keep <b>Thunderbird Alive!</b>"
-msgstr "Hjälp till att hålla <b>Thunderbird vid liv!</b>"
-
-#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:62
-msgid "Thunderbird’s mission is to give you the best privacy-respecting, customizable communication experience possible. Free for everyone to install and enjoy!"
-msgstr "Thunderbirds uppdrag är att ge dig den bästa möjliga kommunikationsupplevelsen som respekterar integriteten och kan anpassas. Gratis för alla att installera och njuta av!"
-
-#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:65
-msgid "Maintaining expensive servers, fixing bugs, developing new features, and hiring talented engineers are crucial for this mission."
-msgstr "Att underhålla dyra servrar, fixa buggar, utveckla nya funktioner och anställa duktiga ingenjörer är avgörande för det här uppdraget."
-
-#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:68
-msgid "Your support is vital in keeping Thunderbird development alive and thriving. If you get value from using Thunderbird, please consider giving a donation to support it."
-msgstr "Ditt stöd är viktigt för att hålla Thunderbirds utveckling levande och blomstrande. Om du får värde av att använda Thunderbird, överväg att ge en donation för att stödja uppdraget."
-
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:6 sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:45
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:6 sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:44
 msgid "Welcome to the evolution of Supernova!"
 msgstr "Välkommen till utvecklingen av Supernova!"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:38
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:37
 msgid "Thunderbird 128 Nebula"
 msgstr "Thunderbird 128 Nebula"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:47
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:46
 msgid "With revolutionary code improvements, Nebula sets the stage for faster delivery of new features, reinforced stability, stellar quality-of-life enhancements and visual refinements."
 msgstr "Med revolutionerande kodförbättringar sätter Nebula scenen för snabbare leverans av nya funktioner, förstärkt stabilitet, fantastiska förbättringar av livskvalitet och visuella finesser."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:64
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:63
 msgid "Fast and Fluid"
 msgstr "Snabb och flytande"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:66
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:65
 msgid "Feel the difference smarter code makes possible! Interactions with your message list are faster, the email space is more responsive, and Thunderbird is more stable and reliable."
 msgstr "Känn skillnaden smartare kod gör möjlig! Interaktioner med din meddelandelista är snabbare, e-postutrymmet är mer lyhört och Thunderbird är mer stabil och pålitlig."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:79
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:78
 msgid "Cards View"
 msgstr "Kortvy"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:83
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:82
 msgid ""
 "The updated design makes scanning your emails faster, with a more attractive layout and an improved threads experience. Plus, the height of email cards adjusts automatically based on your settings, "
 "so everything looks just right."
@@ -2880,27 +2846,27 @@ msgstr ""
 "Den uppdaterade designen gör att du kan skanna din e-post snabbare, med en mer attraktiv layout och en förbättrad trådupplevelse. Dessutom justeras höjden på e-postkort automatiskt baserat på dina "
 "inställningar, så att allt ser bra ut."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:99
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:98
 msgid "Accent Colors"
 msgstr "Accentfärger"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:103
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:102
 msgid "Enhanced theme compatibility, especially for Linux users on Ubuntu and Mint. Your Thunderbird will better blend with your desktop environment, seamlessly matching the system’s accent colors."
 msgstr "Förbättrad temakompatibilitet, särskilt för Linux-användare på Ubuntu och Mint. Din Thunderbird kommer att bättre smälta in i din skrivbordsmiljö och sömlöst matcha systemets accentfärger."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:118
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:117
 msgid "Folder Pane"
 msgstr "Mappfönstret"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:122
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:121
 msgid "A bundle of improvements including faster rendering and searching of unified folders, multi-folder selection capabilities, and better recall of message thread states."
 msgstr "En bunt förbättringar, inklusive snabbare återgivning och sökning i enhetliga mappar, val av flera mappar och bättre återkallelse av tillstånd i meddelandetrådar."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:136
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:135
 msgid "Rust Revolution"
 msgstr "Rust-revolution"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:138
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:137
 msgid ""
 "We've overcome major roadblocks to bring Rust into Thunderbird. This paves the way for better code, shared features between desktop and mobile, and faster development time. It's a game-changer for "
 "our developers and for our users."
@@ -2908,35 +2874,35 @@ msgstr ""
 "Vi har övervunnit stora vägar för att få in Rust i Thunderbird. Detta banar väg för bättre kod, delade funktioner mellan stationär dator och mobil och snabbare utvecklingstid. Det är en game-changer"
 " för våra utvecklare och för våra användare."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:154
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:153
 msgid "Streamlined menu navigation with better visual cues and less cognitive burden to make your email experience more efficient and more enjoyable."
 msgstr "Effektiv menynavigering med bättre visuella tecken och mindre kognitiv belastning för att göra din e-postupplevelse mer effektiv och roligare."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:167
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:166
 msgid "Native Windows Notifications"
 msgstr "Interna Windows-meddelanden"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:170
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:169
 msgid "Fixed and fully functional! Clicking a notification dismisses it, brings Thunderbird to the foreground, and selects the message. Notifications now disappear when Thunderbird closes."
 msgstr "Fast och fullt fungerande! Genom att klicka på en avisering avvisas den, Thunderbird visas i förgrunden och meddelandet markeras. Aviseringar försvinner nu när Thunderbird stängs."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:182
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:181
 msgid "Context Menu Improvements"
 msgstr "Förbättringar i snabbmenyn"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:185
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:184
 msgid "Reorganized for a smoother experience, with primary actions now as icons for quick access."
 msgstr "Omorganiserad för en smidigare upplevelse, med primära åtgärder nu som ikoner för snabb åtkomst."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:196
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:195
 msgid "Account Color Customization"
 msgstr "Färganpassning för konto"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:199
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:198
 msgid "By popular demand, you can now customize the color of your account icons. These colors also show up in the “From” selection when composing emails."
 msgstr "På allmän begäran kan du nu anpassa färgen på dina kontoikoner. Dessa färger visas också i valet \"Från\" när du skriver e-postmeddelanden."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:210
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:209
 msgid "“Nebula” enables an email experience that shines brighter than ever. Expect more updates and helpful new features to materialize over the upcoming months."
 msgstr "\"Nebula\" möjliggör en e-postupplevelse som lyser starkare än någonsin. Räkna med att fler uppdateringar och användbara nya funktioner kommer att förverkligas under de kommande månaderna."
 
@@ -3223,79 +3189,79 @@ msgstr "Registrerad att hantera .ics-filer, så att du kan förhandsgranska och 
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 91.0 and up</a>."
 msgstr "Det finns många andra uppdateringar i den här utgåvan, du kan se en lista med alla dem i <a href=\"%(release)s\">versionsfakta för Thunderbird 91.0 och senare</a>."
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:20 sites/www.thunderbird.net/thunderbird/all/index.html:167
+#: sites/www.thunderbird.net/thunderbird/all/index.html:19 sites/www.thunderbird.net/thunderbird/all/index.html:166
 msgid "Get <span class=\"txt-gradient\">Thunderbird</span>"
 msgstr "Hämta <span class=\"txt-gradient\">Thunderbird</span>"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:22
+#: sites/www.thunderbird.net/thunderbird/all/index.html:21
 msgid "These are officially maintained and distributed by Thunderbird. Download the latest Release version unless you wish to test the Beta version and report bugs."
 msgstr "Dessa underhålls och distribueras officiellt av Thunderbird. Ladda ner den senaste versionen om du inte vill testa betaversionen och rapportera buggar."
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:26
+#: sites/www.thunderbird.net/thunderbird/all/index.html:25
 msgid "The Daily version is an unstable testing and development platform, make sure you back up important data regularly!"
 msgstr "Den dagliga versionen är en instabil test- och utvecklingsplattform, se till att du säkerhetskopierar viktig data regelbundet!"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:29
+#: sites/www.thunderbird.net/thunderbird/all/index.html:28
 msgid "Thunderbird Release is available for testing purposes only until releases are deemed stable enough for official support. Make sure you backup important data regularly!"
 msgstr "Thunderbird-utgåvan är endast tillgänglig för teständamål tills utgåvorna anses stabila nog för officiell support. Se till att du säkerhetskopierar viktig data regelbundet!"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:34
+#: sites/www.thunderbird.net/thunderbird/all/index.html:33
 msgid "Locale"
 msgstr "Språk"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:48
+#: sites/www.thunderbird.net/thunderbird/all/index.html:47
 msgid "Release Channel"
 msgstr "Utgåva"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:59
+#: sites/www.thunderbird.net/thunderbird/all/index.html:58
 msgid "Operating System"
 msgstr "Operativsystem"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:71
+#: sites/www.thunderbird.net/thunderbird/all/index.html:70
 msgid "Need a specific installer?"
 msgstr "Behöver du ett specifikt installationsprogram?"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:75
+#: sites/www.thunderbird.net/thunderbird/all/index.html:74
 msgid "Installer Type"
 msgstr "Installationstyp"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:112
+#: sites/www.thunderbird.net/thunderbird/all/index.html:111
 msgid "Release Information"
 msgstr "Versionsinformation"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:117
+#: sites/www.thunderbird.net/thunderbird/all/index.html:116
 msgid "Other Downloads"
 msgstr "Andra nedladdningar"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:120
+#: sites/www.thunderbird.net/thunderbird/all/index.html:119
 msgid "Microsoft Apps Store"
 msgstr "Microsoft App Store"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:125
+#: sites/www.thunderbird.net/thunderbird/all/index.html:124
 msgid "Flathub"
 msgstr "Flathub"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:128
+#: sites/www.thunderbird.net/thunderbird/all/index.html:127
 msgid "Snap Store"
 msgstr "Snap Store"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:135
+#: sites/www.thunderbird.net/thunderbird/all/index.html:134
 msgid "More Information"
 msgstr "Mer information"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:138 sites/www.thunderbird.net/thunderbird/all/index.html:152
+#: sites/www.thunderbird.net/thunderbird/all/index.html:137 sites/www.thunderbird.net/thunderbird/all/index.html:151
 msgid "System Requirements"
 msgstr "Systemkrav"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:149
+#: sites/www.thunderbird.net/thunderbird/all/index.html:148
 msgid "More Information For Mobile"
 msgstr "Mer information för mobila enheter"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:168
+#: sites/www.thunderbird.net/thunderbird/all/index.html:167
 msgid "These are officially maintained and distributed by Thunderbird."
 msgstr "Dessa underhålls och distribueras officiellt av Thunderbird."
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:169
+#: sites/www.thunderbird.net/thunderbird/all/index.html:168
 msgid "Jump to the language you wish to download by using the legend below."
 msgstr "Hoppa till språket du vill ladda ner genom att använda förklaringen nedan."
 
@@ -3303,13 +3269,207 @@ msgstr "Hoppa till språket du vill ladda ner genom att använda förklaringen n
 msgid "Releases"
 msgstr "Utgåvor"
 
-#: sites/www.thunderbird.net/thunderbird/releases/index.html:12 sites/www.thunderbird.net/thunderbird/releases/index.html:22
+#: sites/www.thunderbird.net/thunderbird/releases/index.html:11 sites/www.thunderbird.net/thunderbird/releases/index.html:21
 msgid "Thunderbird Release Notes Atom Feed"
 msgstr "Versionsfakta för Thunderbird Atom-flöde"
 
-#: sites/www.thunderbird.net/thunderbird/releases/index.html:19
+#: sites/www.thunderbird.net/thunderbird/releases/index.html:18
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Thunderbird versionsfakta är specifik för varje version av programmet. Välj din version från listan nedan för att se versionsfakta för den."
+
+#~ msgid ""
+#~ "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded\n"
+#~ "with great features!"
+#~ msgstr ""
+#~ "Thunderbird är ett gratis e-postprogram som är lätt att ställa in och anpassa - och det är fulladdat\n"
+#~ "med fantastiska funktioner!"
+
+#~ msgid ""
+#~ "\n"
+#~ "          Meet Thunderbird, the <strong>email</strong>,\n"
+#~ "          <strong>calendar</strong>, and <strong>contacts</strong> app that maximizes your freedoms.\n"
+#~ "          "
+#~ msgstr ""
+#~ "\n"
+#~ "          Möt Thunderbird, appen för <strong>e-post</strong>,\n"
+#~ "          <strong>kalender</strong> och <strong>kontakter</strong> som maximerar dina friheter.\n"
+#~ "          "
+
+#~ msgid ""
+#~ "Thunderbird is a free and open-source software project founded in 2003 to make communicating and collaborating better. We are supported by the talent and donations of thousands of generous "
+#~ "individuals and are backed by Mozilla. Essential values guide us and make our work relevant. Read further to learn more."
+#~ msgstr ""
+#~ "Thunderbird är ett gratis och öppet källkodsprogram som grundades 2003 för att göra kommunikation och samarbete bättre. Vi stöds av talang och donationer från tusentals generösa individer och stöds "
+#~ "av Mozilla. Grundläggande värderingar vägleder oss och gör vårt arbete relevant. Läs vidare för att lära dig mer."
+
+#~ msgid ""
+#~ "Anyone can help make Thunderbird better. Programmers can contribute features they are passionate about or improve the existing code. Those who are multilingual can make Thunderbird accessible to "
+#~ "everyone. Those willing can test new versions of Thunderbird and document issues. There are many ways to become part of a thriving community that makes Thunderbird unique. And if you don't have the "
+#~ "time to volunteer, you can help support the project through donations."
+#~ msgstr ""
+#~ "Vem som helst kan hjälpa till att göra Thunderbird bättre. Programmerare kan bidra med funktioner de brinner för eller förbättra den befintliga koden. De som är flerspråkiga kan göra Thunderbird "
+#~ "tillgänglig för alla. De som är villiga kan testa nya versioner av Thunderbird och dokumentproblem. Det finns många sätt att bli en del av en blomstrande gemenskap som gör Thunderbird unik. Och om "
+#~ "du inte har tid att vara volontär kan du hjälpa till att stödja projektet genom donationer."
+
+#~ msgid "Supported by <span class=\"txt-gradient\">Mozilla</span>"
+#~ msgstr "Stöds av <span class=\"txt-gradient\">Mozilla</span>"
+
+#~ msgid ""
+#~ "Thunderbird operates in a for-profit subsidiary of the non-profit Mozilla Foundation. This grants us flexibility in offering optional paid services to sustain Thunderbird's development far into the "
+#~ "future."
+#~ msgstr ""
+#~ "Thunderbird verkar i ett vinstdrivande dotterbolag till ideella Mozilla Foundation. Detta ger oss flexibilitet när det gäller att erbjuda valfria betaltjänster för att upprätthålla Thunderbirds "
+#~ "utveckling långt in i framtiden."
+
+#~ msgid "We have a growing team of talented individuals employed to develop and maintain Thunderbird, interface with partner organizations, and maximize the reach of Thunderbird throughout the world."
+#~ msgstr "Vi har ett växande team av begåvade individer anställda för att utveckla och underhålla Thunderbird, samverka med partnerorganisationer och maximera Thunderbirds räckvidd över hela världen."
+
+#~ msgid "Donations"
+#~ msgstr "Donationer"
+
+#~ msgid ""
+#~ "MZLA Corporation is the for-profit organization sustaining the free software mission of Thunderbird. Our work is to provide open source apps that are secure, private and available for users around "
+#~ "the world. When you donate you help us:"
+#~ msgstr ""
+#~ "MZLA Corporation är den vinstdrivande organisationen som upprätthåller Thunderbirds fria mjukvaruuppdrag. Vårt arbete är att tillhandahålla appar med öppen källkod som är säkra, privata och "
+#~ "tillgängliga för användare över hela världen. När du donerar hjälper du oss:"
+
+#, python-format
+#~ msgid "<a class=\"dotted\" href=\"%(url)s\">Modify</a> an existing monthly donation."
+#~ msgstr "<a class=\"dotted\" href=\"%(url)s\">Ändra</a> en befintlig månatlig donation."
+
+#~ msgid ""
+#~ "Organizations deploying Thunderbird at scale or who share our passion for expanding digital freedoms can make a difference by becoming a one-time or recurring corporate supporter. Small to medium "
+#~ "size contributions can be made with the form above. For donations greater than $5000 USD please contact our business team. Thank you in advance for your generous support!"
+#~ msgstr ""
+#~ "Organisationer som använder Thunderbird i stor skala eller som delar vår passion för att utöka digitala friheter kan göra skillnad genom att bli en engångs- eller återkommande företagssupporter. Små"
+#~ " till medelstora bidrag kan lämnas med formuläret ovan. För donationer över 5000 USD vänligen kontakta vårt affärsteam. Tack på förhand för ditt generösa stöd!"
+
+#~ msgid "If you need help with a contribution to MZLA/Thunderbird, please fill out this form and a Thunderbird donor care representative will get back to you as soon as possible."
+#~ msgstr "Om du behöver hjälp med en donation till MZLA/Thunderbird, vänligen fyll i det här formuläret så kommer en representant för Thunderbirds att återkomma till dig så snart som möjligt."
+
+#, python-format
+#~ msgid ""
+#~ "Unfortunately, donor care representatives are unable to offer support or help with Thunderbird technical issues. For technical support, please visit our <a href=\"%(support_url)s\">support page.</a>"
+#~ msgstr "Tyvärr kan vi inte erbjuda support eller hjälp med Thunderbird tekniska problem. För teknisk support, besök vår <a href=\"%(support_url)s\">supportsida.</a>"
+
+#, python-format
+#~ msgid ""
+#~ "<p>You can <a href=\"%(donate)s\">donate online</a> securely by credit card or PayPal. Google Pay, Apple Pay, and bank transfers through SEPA, iDEAL and ACH are also available online.<br/> "
+#~ "<strong>Give in your local currency!</strong> On <a href=\"%(donate)s\">our online form</a>, use the drop down menu next to the amount. You will be charged in the currency you choose to give "
+#~ "with.<br/> <strong>Additionally you can</strong> give offline in USD by mailing a check or money order made payable to \"MZLA Technologies Corp\". Mail to:</p> <ul class=\"check-address\"> "
+#~ "<li>MZLA</li> <li>PO Box 25718</li> <li>Pasadena CA 91185-5718</li> </ul> <p>Please include your email address on the memo line of your check to help us track and attribute your gift.</p> "
+#~ "<p><strong>Give the gift of your time!</strong> If you would like to learn how to contribute to Thunderbird in other ways such as coding, translating or testing, please visit our <a "
+#~ "href=\"%(ways_to_help)s\">Participate</a> page.</p>"
+#~ msgstr ""
+#~ "<p>Du kan <a href=\"%(donate)s\">donera online</a> säkert med kreditkort eller PayPal. Google Pay, Apple Pay och banköverföringar via SEPA, iDEAL och ACH finns också tillgängliga online.<br/> "
+#~ "<strong>Ge med din lokala valuta!</strong> På <a href=\"%(donate)s\"> vårt onlineformulär</a>använder du rullgardinsmenyn bredvid beloppet. Du debiteras i den valuta du väljer att ge med.<br/> "
+#~ "<strong>Dessutom kan</strong> du ge offline i USD genom att skicka en check eller postanvisning till \"MZLA Technologies Corp\". Maila till:</p> <ul class=\"check-address\"> <li>MZLA</li> <li>PB "
+#~ "25718</li> <li>Pasadena CA 91185-5718</li> </ul > <p>Inkludera din e-postadress på memoraden i din check för att hjälpa oss spåra och tillskriva din gåva.</p> <p><strong>Ge en av din tids "
+#~ "gåva!</strong> Om du vill lära dig hur du kan bidra till Thunderbird på andra sätt som t.ex. kodning, översättning eller testning, besök vår sida <a href=\"%(ways_to_help)s\">Delta</a>.</p>"
+
+#, python-format
+#~ msgid ""
+#~ "Access your donation account settings using the 'Manage My Donation' button on your recent donation confirmation email. There you can change the amount, frequency, payment method and charge date. "
+#~ "You can also cancel your recurring donation plan. If you run into any issues you can always <a href=\"%(help)s\">contact us</a>!"
+#~ msgstr ""
+#~ "Gå till inställningarna för ditt donationskonto genom att använda knappen \"Hantera min donation\" på din senaste donationsbekräftelse via e-post. Där kan du ändra belopp, frekvens, betalningssätt "
+#~ "och debiteringsdatum. Du kan också avbryta din återkommande donationsplan. Om du stöter på några problem kan du alltid <a href=\"%(help)s\">kontakta oss</a>!"
+
+#, python-format
+#~ msgid ""
+#~ "Anyone can access tech support for Thunderbird by visiting the <a href=\"%(url)s\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial "
+#~ "gifts."
+#~ msgstr ""
+#~ "Vem som helst kan få tillgång till teknisk support för Thunderbird genom att besöka <a href=\"%(url)s\">supportforumet</a>. Thunderbird tillhandahåller inte teknisk support eller förbättrad teknisk "
+#~ "support i utbyte mot ekonomiska gåvor."
+
+#~ msgid ""
+#~ "Gifts to Thunderbird are <strong>not tax-deductible as charitable gifts</strong>, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-"
+#~ "platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future development."
+#~ msgstr ""
+#~ "Gåvor till Thunderbird är <strong>inte avdragsgilla som välgörenhetsgåvor</strong>, men de är mycket uppskattade. Donationer till Thunderbird stödjer utvecklingen av vår ledande plattformsoberoende "
+#~ "e-post- och kalenderklient med öppen källkod, gratis för företag och personligt bruk. Din gåva hjälper till att se till att den förblir så och kommer att stödja framtida utveckling."
+
+#, python-format
+#~ msgid ""
+#~ "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box 'Donate as an Organization' and include your company name. The receipt you receive to the email address used to "
+#~ "make your contribution will include your business information."
+#~ msgstr ""
+#~ "När du donerar via vårt <a href=\"%(donate)s\">onlineformulär</a> markerar du bara rutan \"Donera som en organisation\" och inkluderar ditt företagsnamn. Kvittot du får till e-postadressen som "
+#~ "användes för att lämna ditt bidrag kommer att innehålla din företagsinformation."
+
+#, python-format
+#~ msgid ""
+#~ "Your donation may be eligible for a refund. You must contact us within 15 days after the date of the donation. If you believe this donation was made without your authorization, please contact us "
+#~ "immediately. Donations made via ACH or SEPA direct debit are ineligible for refunds. Due to the nature of these transactions our policy prioritizes minimizing refund fraud. We sincerely appreciate "
+#~ "your understanding. If you have any further questions, <a href=\"%(help)s\">please contact us</a>."
+#~ msgstr ""
+#~ "Din donation kan vara berättigad till återbetalning. Du måste kontakta oss inom 15 dagar efter datumet för donationen. Om du tror att denna donation gjordes utan ditt tillstånd, vänligen kontakta "
+#~ "oss omedelbart. Donationer gjorda via ACH eller SEPA autogiro är inte berättigade till återbetalning. På grund av dessa transaktioners karaktär prioriterar vår policy att minimera "
+#~ "återbetalningsbedrägeri. Vi uppskattar verkligen din förståelse. Om du har ytterligare frågor <a href=\"%(help)s\">vänligen kontakta oss</a>."
+
+#~ msgid "Are there additional fees on my donation?"
+#~ msgstr "Tillkommer det några extra avgifter på min donation?"
+
+#~ msgid ""
+#~ "We do not collect any additional fees or taxes. When you donate in your local currency you are not charged a conversion fee by your credit card. Optionally, you can choose to cover our transaction "
+#~ "costs on your donation. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to "
+#~ "research any additional external taxes or fees that may be applied by regulators such as your bank or tax authority."
+#~ msgstr ""
+#~ "Vi tar inte ut några extra avgifter eller skatter. När du donerar i din lokala valuta debiteras du ingen konverteringsavgift av ditt kreditkort. Alternativt kan du välja att täcka våra "
+#~ "transaktionskostnader på din donation. Detta är helt frivilligt och du kan välja att delta eller avstå genom att använda kryssrutan på vårt donationsformulär. Vår organisation är baserad i USA. Vi "
+#~ "uppmuntrar givare att undersöka eventuella ytterligare externa skatter eller avgifter som kan tillämpas av tillsynsmyndigheter som din bank eller skattemyndighet."
+
+#~ msgid "What are your transaction costs on donations?"
+#~ msgstr "Vilka är era transaktionskostnader för donationer?"
+
+#~ msgid ""
+#~ "When you opt to cover our transaction costs, you're covering both our processing and donation platform costs. The costs associated with our robust online donation system allows us to continue "
+#~ "scaling sustainably as our supporter-base grows. Our donation platform and payment processor partners reduce internal costs associated with maintaining our own system from scratch. Our partners "
+#~ "ensure we can accept a wide range of currencies/payment methods and remain PCI compliant in all of the countries that we accept gifts from. The transaction costs donors may choose to cover are based"
+#~ " on an estimate of our overall costs. Due to many factors actual costs may fluctuate."
+#~ msgstr ""
+#~ "När du väljer att täcka våra transaktionskostnader, täcker du både vår bearbetnings- och donationsplattformskostnader. Kostnaderna förknippade med vårt robusta onlinedonationssystem gör att vi kan "
+#~ "fortsätta att skala på ett hållbart sätt när vår supporterbas växer. Vår donationsplattform och betalningsprocessorpartner minskar de interna kostnaderna för att underhålla vårt eget system från "
+#~ "grunden. Våra partners säkerställer att vi kan acceptera ett brett utbud av valutor/betalningsmetoder och förbli PCI-kompatibla i alla länder som vi tar emot gåvor från. De transaktionskostnader som"
+#~ " givarna kan välja att täcka baseras på en uppskattning av våra totala kostnader. På grund av många faktorer kan faktiska kostnader fluktuera."
+
+#~ msgid ""
+#~ "Thunderbird is the leading open source cross-platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future "
+#~ "development."
+#~ msgstr ""
+#~ "Thunderbird är den ledande plattformsoberoende e-post- och kalenderklienten med öppen källkod, gratis för företag och personligt bruk. Din gåva hjälper till att se till att den förblir så och kommer"
+#~ " att stödja framtida utveckling."
+
+#~ msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a wholly owned subsidiary of Mozilla Foundation."
+#~ msgstr "Thunderbird är ett projekt av MZLA Technologies Corporation, som är ett helägt dotterbolag till Mozilla Foundation."
+
+#~ msgid ""
+#~ "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird. Companies and individuals support the development of the product now and in the "
+#~ "future."
+#~ msgstr ""
+#~ "För närvarande kommer majoriteten av Thunderbirds intäkter från generösa gåvor från användare och vänner till Thunderbird. Företag och privatpersoner stödjer utvecklingen av produkten nu och i "
+#~ "framtiden."
+
+#, python-format
+#~ msgid ""
+#~ "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. If you need technical support, please head over to <a href=\"%(support)s\">Thunderbird "
+#~ "Support</a> for assistance."
+#~ msgstr ""
+#~ "Om du har en fråga om att donera till Thunderbird, vänligen kontakta oss via <a href=\"%(help)s\">det här formuläret</a>. Om du behöver teknisk support, gå till <a href=\"%(support)s\">Thunderbird "
+#~ "Support</a> för hjälp."
+
+#~ msgid ""
+#~ "\n"
+#~ "        Thunderbird keeps getting better. Subscribe to our newsletter and follow us on social media to stay\n"
+#~ "        informed.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "        Thunderbird blir hela tiden bättre. Prenumerera på vårt nyhetsbrev och följ oss \n"
+#~ "        på sociala medier för att hålla dig uppdaterad.\n"
+#~ "        "
 
 #~ msgid "laptop frame"
 #~ msgstr "ram med en bärbar dator"

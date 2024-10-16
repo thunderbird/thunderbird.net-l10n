@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-10-01 08:31-0700\n"
+"POT-Creation-Date: 2024-10-16 13:50-0700\n"
 "PO-Revision-Date: 2024-10-02 15:32+0000\n"
 "Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
 "Language-Team: none\n"
@@ -27,11 +27,11 @@ msgstr "Chào mừng đến với <div class=\"tb-text\">Thunderbird <small clas
 msgid "Support us!"
 msgstr "Hỗ trợ chúng tôi!"
 
-#: sites/start.thunderbird.net/beta/index.html:22 sites/start.thunderbird.net/release/index.html:22 sites/start.thunderbird.net/release/index.html:37
-#: sites/www.thunderbird.net/includes/base/nav.html:83 sites/www.thunderbird.net/includes/download-button.html:102 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:80
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:288 sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:74 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:209
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:228 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:79
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:345
+#: sites/start.thunderbird.net/beta/index.html:22 sites/start.thunderbird.net/release/index.html:22 sites/start.thunderbird.net/release/index.html:37 sites/www.thunderbird.net/donate/index.html:8
+#: sites/www.thunderbird.net/includes/base/footer.html:45 sites/www.thunderbird.net/includes/base/nav.html:71 sites/www.thunderbird.net/includes/base/nav.html:83
+#: sites/www.thunderbird.net/includes/download-button.html:102 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:80 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:288
+#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:74 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:209 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:228
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:79 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:345
 msgid "Donate"
 msgstr "Quyên góp"
 
@@ -201,7 +201,7 @@ msgstr ""
 msgid "Share ideas and feedback."
 msgstr "Chia sẻ ý kiến và phản hồi."
 
-#: sites/start.thunderbird.net/release/index.html:54 sites/www.thunderbird.net/participate/index.html:113
+#: sites/start.thunderbird.net/release/index.html:54 sites/www.thunderbird.net/participate/index.html:112
 msgid "Mozilla Connect"
 msgstr "Mozilla Connect"
 
@@ -220,6 +220,64 @@ msgstr "Có câu hỏi? Đã gặp sự cố?"
 #: sites/start.thunderbird.net/release/index.html:95
 msgid "If Crash Reporter appears when Thunderbird crashes, please provide as many details as possible to help developers."
 msgstr "Nếu trình báo cáo lỗi xuất hiện khi Thunderbird gặp sự cố, vui lòng cung cấp càng nhiều thông tin chi tiết càng tốt để giúp đỡ các nhà phát triển."
+
+#: sites/updates.thunderbird.net/index.html:8 sites/updates.thunderbird.net/index.html:14
+msgid "Hello!"
+msgstr ""
+
+#: sites/updates.thunderbird.net/index.html:16
+#, python-format
+msgid "You're probably looking for <a href=\"%(url)s\">Thunderbird.net</a>."
+msgstr ""
+
+#: sites/updates.thunderbird.net/includes/base/base.html:1 sites/www.thunderbird.net/includes/base/base.html:15
+msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
+msgstr "Thunderbird là ứng dụng email miễn phí, dễ dàng cài đặt và tùy chỉnh; đi kèm với nhiều tính năng tuyệt vời!"
+
+#: sites/updates.thunderbird.net/includes/base/base.html:16 sites/www.thunderbird.net/includes/base/base.html:17 sites/www.thunderbird.net/includes/base/page.html:16
+#: sites/www.thunderbird.net/includes/product-metadata.html:2 sites/www.thunderbird.net/includes/product-metadata.html:21 sites/www.thunderbird.net/index.html:8
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:17 sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:18
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:19 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:18 sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:18
+#: sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:18 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:19
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:17 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:17 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:17
+msgid "Thunderbird"
+msgstr "Thunderbird"
+
+#: sites/updates.thunderbird.net/includes/base/footer.html:8 sites/www.thunderbird.net/about/index.html:56 sites/www.thunderbird.net/includes/appeal-footer.html:7
+#: sites/www.thunderbird.net/includes/base/footer.html:56 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:350 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:426
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:273 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:292
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:408
+msgid "Privacy"
+msgstr "Riêng tư"
+
+#: sites/updates.thunderbird.net/includes/base/footer.html:10 sites/www.thunderbird.net/includes/appeal-footer.html:9 sites/www.thunderbird.net/includes/base/footer.html:58
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:353 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:429
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:276 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:295
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:411
+msgid "Cookies"
+msgstr "Cookie"
+
+#: sites/updates.thunderbird.net/includes/base/footer.html:12 sites/www.thunderbird.net/contact/index.html:41 sites/www.thunderbird.net/includes/appeal-footer.html:11
+#: sites/www.thunderbird.net/includes/base/footer.html:60 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:357 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:433
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:280 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:299
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:415
+msgid "Legal"
+msgstr "Thông tin pháp lý"
+
+#: sites/updates.thunderbird.net/includes/base/footer.html:14 sites/www.thunderbird.net/includes/appeal-footer.html:13 sites/www.thunderbird.net/includes/base/footer.html:62
+msgid "Send DMCA Notice"
+msgstr "Gửi thông báo DMCA"
+
+#: sites/updates.thunderbird.net/includes/base/footer.html:16 sites/www.thunderbird.net/includes/appeal-footer.html:15 sites/www.thunderbird.net/includes/base/footer.html:64
+msgid "Report Fraud"
+msgstr "Báo cáo gian lận"
+
+#: sites/updates.thunderbird.net/includes/base/footer.html:18 sites/www.thunderbird.net/includes/appeal-footer.html:17 sites/www.thunderbird.net/includes/base/footer.html:66
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:361 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:437
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:284 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:303
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:419
+msgid "Participation Guidelines"
+msgstr "Hướng dẫn tham gia"
 
 #: sites/www.thunderbird.net/404.html:8
 #, python-format
@@ -243,61 +301,40 @@ msgstr "Trang bạn đang tìm kiếm không tồn tại."
 msgid "If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>"
 msgstr "Nếu bạn cho rằng đây là lỗi, bạn có thể <a href=\"%(bug_report_url)s\">báo cáo sự cố ở đây</a>"
 
-#: sites/www.thunderbird.net/includes/base/base.html:17 sites/www.thunderbird.net/includes/base/page.html:16 sites/www.thunderbird.net/includes/product-metadata.html:2
-#: sites/www.thunderbird.net/includes/product-metadata.html:21 sites/www.thunderbird.net/index.html:8 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:17
-#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:18 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:19 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:18
-#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:18 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:18 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:19
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:17 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:17 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:17
-msgid "Thunderbird"
-msgstr "Thunderbird"
-
 #: sites/www.thunderbird.net/index.html:9
 msgid "Free Your Inbox."
 msgstr "Giải phóng hộp thư đến của bạn."
 
-#: sites/www.thunderbird.net/index.html:10
-msgid ""
-"Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded\n"
-"with great features!"
-msgstr ""
-"Thunderbird là ứng dụng email miễn phí, dễ dàng cài đặt và tùy chỉnh - và đi kèm với\n"
-"nhiều tính năng tuyệt vời!"
-
-#: sites/www.thunderbird.net/index.html:24 sites/www.thunderbird.net/index.html:339
+#: sites/www.thunderbird.net/index.html:22 sites/www.thunderbird.net/index.html:336
 msgid "<span class=\"txt-gradient\">Free</span> Your Inbox"
 msgstr "<span class=\"txt-gradient\">Giải phóng</span> hộp thư đến của bạn"
 
-#: sites/www.thunderbird.net/index.html:26
+#: sites/www.thunderbird.net/index.html:24
 msgid ""
 "\n"
-"          Meet Thunderbird, the <strong>email</strong>,\n"
-"          <strong>calendar</strong>, and <strong>contacts</strong> app that maximizes your freedoms.\n"
+"            Meet Thunderbird, the <strong>email</strong> and <strong>productivity</strong> app that maximizes your freedoms.\n"
 "          "
 msgstr ""
-"\n"
-"          Làm quen với Thunderbird, ứng dụng <strong>email</strong>,\n"
-"          <strong>lịch</strong>, và <strong>danh bạ</strong> giúp tối đa hóa quyền tự do của bạn.\n"
-"          "
 
-#: sites/www.thunderbird.net/download/index.html:8 sites/www.thunderbird.net/download/index.html:17 sites/www.thunderbird.net/includes/base/nav.html:78 sites/www.thunderbird.net/index.html:34
-#: sites/www.thunderbird.net/index.html:344 sites/www.thunderbird.net/thunderbird/all/index.html:9 sites/www.thunderbird.net/thunderbird/all/index.html:103
+#: sites/www.thunderbird.net/download/index.html:8 sites/www.thunderbird.net/download/index.html:16 sites/www.thunderbird.net/includes/base/nav.html:78 sites/www.thunderbird.net/index.html:31
+#: sites/www.thunderbird.net/index.html:341 sites/www.thunderbird.net/thunderbird/all/index.html:9 sites/www.thunderbird.net/thunderbird/all/index.html:102
 msgid "Download"
 msgstr "Tải xuống"
 
-#: sites/www.thunderbird.net/index.html:54 sites/www.thunderbird.net/index.html:59 sites/www.thunderbird.net/index.html:64 sites/www.thunderbird.net/index.html:69
-#: sites/www.thunderbird.net/index.html:74
+#: sites/www.thunderbird.net/index.html:51 sites/www.thunderbird.net/index.html:56 sites/www.thunderbird.net/index.html:61 sites/www.thunderbird.net/index.html:66
+#: sites/www.thunderbird.net/index.html:71
 msgid "competitor icon"
 msgstr "biểu tượng đối thủ cạnh tranh"
 
-#: sites/www.thunderbird.net/index.html:86
+#: sites/www.thunderbird.net/index.html:83
 msgid "<span class=\"txt-gradient\">Freedom</span> from Chaos"
 msgstr "<span class=\"txt-gradient\">Tự do</span> khỏi sự hỗn loạn"
 
-#: sites/www.thunderbird.net/index.html:87
+#: sites/www.thunderbird.net/index.html:84
 msgid "Waste less time finding browser tabs."
 msgstr "Tốn ít thời gian hơn khi tìm các thẻ trình duyệt."
 
-#: sites/www.thunderbird.net/index.html:89
+#: sites/www.thunderbird.net/index.html:86
 msgid ""
 "\n"
 "          Access all your messages, calendars, and contacts in one fast app. Filter and organize\n"
@@ -311,19 +348,19 @@ msgstr ""
 "          Thunderbird chỉ đơn giản là làm cho cuộc sống của bạn đơn giản hơn.\n"
 "          "
 
-#: sites/www.thunderbird.net/index.html:116
+#: sites/www.thunderbird.net/index.html:113
 msgid "See Compatibility"
 msgstr "Xem tính tương thích"
 
-#: sites/www.thunderbird.net/index.html:127
+#: sites/www.thunderbird.net/index.html:124
 msgid "<span class=\"txt-gradient\">Freedom</span> from Manipulation"
 msgstr "<span class=\"txt-gradient\">Tự do</span> từ thao túng"
 
-#: sites/www.thunderbird.net/index.html:128
+#: sites/www.thunderbird.net/index.html:125
 msgid "Our agenda isn’t hidden. It’s to make the world better."
 msgstr "Chương trình nghị sự của chúng tôi không bị ẩn. Đó là làm cho thế giới tốt đẹp hơn."
 
-#: sites/www.thunderbird.net/index.html:130
+#: sites/www.thunderbird.net/index.html:127
 #, python-format
 msgid ""
 "\n"
@@ -340,27 +377,27 @@ msgstr ""
 "          luôn đặt quyền riêng tư và bảo mật của bạn lên hàng đầu.\n"
 "          "
 
-#: sites/www.thunderbird.net/index.html:138
+#: sites/www.thunderbird.net/index.html:135
 msgid "Learn Who We Are"
 msgstr "Tìm hiểu chúng tôi là ai"
 
-#: sites/www.thunderbird.net/index.html:147
+#: sites/www.thunderbird.net/index.html:144
 msgid "Firefox planet"
 msgstr "Hành tinh Firefox"
 
-#: sites/www.thunderbird.net/index.html:154
+#: sites/www.thunderbird.net/index.html:151
 msgid "Thunderbird planet"
 msgstr "Hành tinh Thunderbird"
 
-#: sites/www.thunderbird.net/index.html:166
+#: sites/www.thunderbird.net/index.html:163
 msgid "<span class=\"txt-gradient\">Freedom</span> to Geek Out"
 msgstr "<span class=\"txt-gradient\">Tự do</span> tùy chỉnh"
 
-#: sites/www.thunderbird.net/index.html:167
+#: sites/www.thunderbird.net/index.html:164
 msgid "Thunderbird is yours."
 msgstr "Thunderbird là của bạn."
 
-#: sites/www.thunderbird.net/index.html:169
+#: sites/www.thunderbird.net/index.html:166
 msgid ""
 "\n"
 "              Thunderbird is clean and elegant by default, but easily customizable to match your workflow and visual\n"
@@ -373,7 +410,7 @@ msgstr ""
 "              Đây chỉ là một số ít bình luận mà mọi người thích:\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:180
+#: sites/www.thunderbird.net/index.html:177
 msgid ""
 "\n"
 "              Its <strong>unified inbox</strong> enables me to stay sane even in the busiest of times. I am never\n"
@@ -385,20 +422,20 @@ msgstr ""
 "              bận rộn nhất. Tôi không bao giờ chuyển đổi ứng dụng e-mail một lần nữa!\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:192 sites/www.thunderbird.net/index.html:221 sites/www.thunderbird.net/index.html:244 sites/www.thunderbird.net/index.html:266
-#: sites/www.thunderbird.net/index.html:288 sites/www.thunderbird.net/index.html:310
+#: sites/www.thunderbird.net/index.html:189 sites/www.thunderbird.net/index.html:218 sites/www.thunderbird.net/index.html:241 sites/www.thunderbird.net/index.html:263
+#: sites/www.thunderbird.net/index.html:285 sites/www.thunderbird.net/index.html:307
 msgid "profile image"
 msgstr "hình ảnh hồ sơ"
 
-#: sites/www.thunderbird.net/index.html:196
+#: sites/www.thunderbird.net/index.html:193
 msgid "Software Developer, Austria"
 msgstr "Người phát triển phần mềm, Áo"
 
-#: sites/www.thunderbird.net/index.html:203
+#: sites/www.thunderbird.net/index.html:200
 msgid "unified inbox"
 msgstr "hộp thư đến hợp nhất"
 
-#: sites/www.thunderbird.net/index.html:210
+#: sites/www.thunderbird.net/index.html:207
 msgid ""
 "\n"
 "              I love the <strong>tag feature</strong>. I tag something important and find it quickly.\n"
@@ -409,11 +446,11 @@ msgstr ""
 "              và tìm thấy nó một cách nhanh chóng.\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:225
+#: sites/www.thunderbird.net/index.html:222
 msgid "Computer Scientist, USA"
 msgstr "Nhà khoa học máy tính, Hoa Kỳ"
 
-#: sites/www.thunderbird.net/index.html:232
+#: sites/www.thunderbird.net/index.html:229
 msgid ""
 "\n"
 "              It is the first program I install on any PC I use / own... I use it on\n"
@@ -425,11 +462,11 @@ msgstr ""
 "              Tôi sử dụng nó trên <strong>Windows</strong> / <strong>Mac</strong> và <strong>Linux</strong>.\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:248
+#: sites/www.thunderbird.net/index.html:245
 msgid "I.T. Manager, UK"
 msgstr "Quản lý CNTT, Vương quốc Anh"
 
-#: sites/www.thunderbird.net/index.html:255
+#: sites/www.thunderbird.net/index.html:252
 msgid ""
 "\n"
 "              Having an open source alternative [for] receiving and managing email... is great for <strong>privacy</strong>.\n"
@@ -439,11 +476,11 @@ msgstr ""
 "              Có giải pháp thay thế mã nguồn mở [để] nhận và quản lý email... rất tốt cho <strong>sự riêng tư</strong>.\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:270
+#: sites/www.thunderbird.net/index.html:267
 msgid "Web Developer, Costa Rica"
 msgstr "Nhà phát triển Web, Costa Rica"
 
-#: sites/www.thunderbird.net/index.html:277
+#: sites/www.thunderbird.net/index.html:274
 msgid ""
 "\n"
 "              [Thunderbird] empowers me to maintain <strong>ownership</strong> of my emails.\n"
@@ -453,11 +490,11 @@ msgstr ""
 "              [Thunderbird] trao quyền cho tôi để duy trì <strong>quyền sở hữu</strong> email của tôi.\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:292
+#: sites/www.thunderbird.net/index.html:289
 msgid "Engineer, USA"
 msgstr "Kỹ sư, Hoa Kỳ"
 
-#: sites/www.thunderbird.net/index.html:299
+#: sites/www.thunderbird.net/index.html:296
 msgid ""
 "\n"
 "              You'd be hard pressed to find a client more <strong>extensible</strong> than Thunderbird!\n"
@@ -467,124 +504,107 @@ msgstr ""
 "              Bạn sẽ khó tìm được ứng dụng nào <strong>có thể mở rộng</strong> tốt hơn Thunderbird!\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:314
+#: sites/www.thunderbird.net/index.html:311
 msgid "Student, UK"
 msgstr "Sinh viên, Vương quốc Anh"
 
-#: sites/www.thunderbird.net/index.html:321
+#: sites/www.thunderbird.net/index.html:318
 msgid "extensions"
 msgstr "tiện ích mở rộng"
 
-#: sites/www.thunderbird.net/index.html:328
+#: sites/www.thunderbird.net/index.html:325
 msgid "Explore More Features"
 msgstr "Khám phá thêm các tính năng"
 
-#: sites/www.thunderbird.net/index.html:340
+#: sites/www.thunderbird.net/index.html:337
 msgid "Are you ready to love email again?"
 msgstr "Sẵn sàng để khám phá lại tình yêu của bạn cho email?"
 
-#: sites/www.thunderbird.net/about/index.html:8 sites/www.thunderbird.net/about/mission-statement/index.html:28 sites/www.thunderbird.net/includes/base/footer.html:36
+#: sites/www.thunderbird.net/about/index.html:8 sites/www.thunderbird.net/about/mission-statement/index.html:27 sites/www.thunderbird.net/includes/base/footer.html:36
 #: sites/www.thunderbird.net/includes/base/nav.html:56
 msgid "Who We Are"
 msgstr "Chúng tôi là ai"
 
-#: sites/www.thunderbird.net/about/index.html:9 sites/www.thunderbird.net/about/mission-statement/index.html:9 sites/www.thunderbird.net/calendar/holidays/index.html:9
-#: sites/www.thunderbird.net/calendar/index.html:9 sites/www.thunderbird.net/contact/index.html:9 sites/www.thunderbird.net/donate/index.html:9 sites/www.thunderbird.net/download/index.html:9
-#: sites/www.thunderbird.net/newsletter/index.html:9 sites/www.thunderbird.net/participate/index.html:9 sites/www.thunderbird.net/privacy/index.html:9 sites/www.thunderbird.net/survey/index.html:9
-#: sites/www.thunderbird.net/thank-you/index.html:9 sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:10 sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:10
-#: sites/www.thunderbird.net/thunderbird/all/index.html:10 sites/www.thunderbird.net/thunderbird/releases/index.html:9
-msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
-msgstr "Thunderbird là ứng dụng email miễn phí, dễ dàng cài đặt và tùy chỉnh; đi kèm với nhiều tính năng tuyệt vời!"
-
-#: sites/www.thunderbird.net/about/index.html:10 sites/www.thunderbird.net/about/mission-statement/index.html:10 sites/www.thunderbird.net/contact/index.html:10
-#: sites/www.thunderbird.net/includes/base/footer.html:34 sites/www.thunderbird.net/includes/base/nav.html:52 sites/www.thunderbird.net/privacy/index.html:10
+#: sites/www.thunderbird.net/about/index.html:9 sites/www.thunderbird.net/about/mission-statement/index.html:9 sites/www.thunderbird.net/contact/index.html:9
+#: sites/www.thunderbird.net/includes/base/footer.html:34 sites/www.thunderbird.net/includes/base/nav.html:52 sites/www.thunderbird.net/privacy/index.html:9
 msgid "About"
 msgstr "Giới thiệu"
 
-#: sites/www.thunderbird.net/about/index.html:16
+#: sites/www.thunderbird.net/about/index.html:15
 msgid "Meet <span class=\"txt-gradient\">Thunderbird</span>"
 msgstr "Làm quen với <span class=\"txt-gradient\">Thunderbird</span>"
 
 #: sites/www.thunderbird.net/about/index.html:17
 msgid ""
-"Thunderbird is a free and open-source software project founded in 2003 to make communicating and collaborating better. We are supported by the talent and donations of thousands of generous "
-"individuals and are backed by Mozilla. Essential values guide us and make our work relevant. Read further to learn more."
+"Thunderbird is a free and open-source software project founded in 2003 to make communicating and collaborating better. We are supported by the talent and generosity of thousands of individuals and "
+"part of the Mozilla family. Essential values guide us and make our work relevant. Read further to learn more."
 msgstr ""
-"Thunderbird là một dự án phần mềm mã nguồn mở và miễn phí được thành lập vào năm 2003 nhằm giúp việc giao tiếp và cộng tác tốt hơn. Chúng tôi được hỗ trợ bởi tài năng và sự đóng góp của hàng nghìn "
-"cá nhân hào phóng và được hỗ trợ bởi Mozilla. Các giá trị thiết yếu hướng dẫn chúng tôi và làm cho công việc của chúng tôi trở nên phù hợp. Đọc thêm để tìm hiểu thêm."
 
-#: sites/www.thunderbird.net/about/index.html:23
+#: sites/www.thunderbird.net/about/index.html:28
 msgid "Values"
 msgstr "Values"
 
-#: sites/www.thunderbird.net/about/index.html:27
+#: sites/www.thunderbird.net/about/index.html:32
 msgid "Community"
 msgstr "Cộng đồng"
 
-#: sites/www.thunderbird.net/about/index.html:31
+#: sites/www.thunderbird.net/about/index.html:36
 msgid "Organization"
 msgstr "Tổ chức"
 
-#: sites/www.thunderbird.net/about/index.html:36 sites/www.thunderbird.net/about/mission-statement/index.html:8
+#: sites/www.thunderbird.net/about/index.html:41 sites/www.thunderbird.net/about/mission-statement/index.html:8
 msgid "Our Mission Statement"
 msgstr "Tuyên bố sứ mệnh của chúng tôi"
 
-#: sites/www.thunderbird.net/about/index.html:44
+#: sites/www.thunderbird.net/about/index.html:49
 msgid "Guided by <span class=\"txt-gradient\">Values</span>"
 msgstr "Được hướng dẫn bởi <span class=\"txt-gradient\">Values</span>"
 
-#: sites/www.thunderbird.net/about/index.html:48
+#: sites/www.thunderbird.net/about/index.html:53
 msgid "A shield with the Thunderbird logo."
 msgstr "Một tấm khiên có logo Thunderbird."
 
-#: sites/www.thunderbird.net/about/index.html:51 sites/www.thunderbird.net/includes/appeal-footer.html:7 sites/www.thunderbird.net/includes/base/footer.html:56
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:350 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:426
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:273 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:292
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:408
-msgid "Privacy"
-msgstr "Riêng tư"
-
-#: sites/www.thunderbird.net/about/index.html:52
+#: sites/www.thunderbird.net/about/index.html:57
 msgid "You are not the product."
 msgstr "Bạn không phải là sản phẩm."
 
-#: sites/www.thunderbird.net/about/index.html:53
+#: sites/www.thunderbird.net/about/index.html:58
 msgid "To us, data ownership and privacy are your right wherever you live. Our commitment to <strong>your personal data</strong> is simple:"
 msgstr "Đối với chúng tôi, quyền sở hữu dữ liệu và quyền riêng tư là quyền của bạn dù bạn sống ở đâu. Cam kết của chúng tôi về <strong>dữ liệu cá nhân của bạn</strong> thì đơn giản là:"
 
-#: sites/www.thunderbird.net/about/index.html:55
+#: sites/www.thunderbird.net/about/index.html:60
 msgid "We do not collect or store it unless you ask us to."
 msgstr "Chúng tôi không thu thập hoặc lưu trữ trừ khi bạn yêu cầu."
 
-#: sites/www.thunderbird.net/about/index.html:56
+#: sites/www.thunderbird.net/about/index.html:61
 msgid "We take great care to keep it safe from misuse."
 msgstr "Chúng tôi hết sức cẩn thận để giữ nó an toàn khỏi việc sử dụng sai mục đích."
 
-#: sites/www.thunderbird.net/about/index.html:57
+#: sites/www.thunderbird.net/about/index.html:62
 msgid "We will never sell it."
 msgstr "Chúng tôi sẽ không bao giờ bán nó."
 
-#: sites/www.thunderbird.net/about/index.html:58
+#: sites/www.thunderbird.net/about/index.html:63
 msgid "You retain ownership and control of it."
 msgstr "Bạn giữ quyền sở hữu và kiểm soát nó."
 
-#: sites/www.thunderbird.net/about/index.html:60
+#: sites/www.thunderbird.net/about/index.html:65
 msgid "Read the Privacy Policy"
 msgstr "Đọc chính sách riêng tư"
 
-#: sites/www.thunderbird.net/about/index.html:65
+#: sites/www.thunderbird.net/about/index.html:70
 msgid "A key with the Thunderbird logo."
 msgstr "Chìa khóa có logo Thunderbird."
 
-#: sites/www.thunderbird.net/about/index.html:68
+#: sites/www.thunderbird.net/about/index.html:73
 msgid "Freedom"
 msgstr "Tự do"
 
-#: sites/www.thunderbird.net/about/index.html:69
+#: sites/www.thunderbird.net/about/index.html:74
 msgid "Thunderbird belongs to you (and the world)."
 msgstr "Thunderbird thuộc về bạn (và thế giới)."
 
-#: sites/www.thunderbird.net/about/index.html:70
+#: sites/www.thunderbird.net/about/index.html:75
 msgid ""
 "Thunderbird is Free and Open-Source Software, which means its code is available to see, modify, use, and share freely. Its license also ensures that it will remain free forever. You can think of "
 "Thunderbird as a gift from thousands of contributors to you."
@@ -592,23 +612,23 @@ msgstr ""
 "Thunderbird là phần mềm mã nguồn mở và miễn phí, có nghĩa là mã của nó có sẵn để xem, sửa đổi, sử dụng và chia sẻ một cách tự do. Giấy phép của nó cũng đảm bảo rằng nó sẽ miễn phí mãi mãi. Bạn có "
 "thể coi Thunderbird như một món quà từ hàng nghìn người đóng góp dành cho bạn."
 
-#: sites/www.thunderbird.net/about/index.html:71
+#: sites/www.thunderbird.net/about/index.html:76
 msgid "Learn About MPL 2.0"
 msgstr "Tìm hiểu về MPL 2.0"
 
-#: sites/www.thunderbird.net/about/index.html:76
+#: sites/www.thunderbird.net/about/index.html:81
 msgid "A speech bubble with the Thunderbird logo."
 msgstr "Bong bóng lời thoại có logo Thunderbird."
 
-#: sites/www.thunderbird.net/about/index.html:79
+#: sites/www.thunderbird.net/about/index.html:84
 msgid "Voice"
 msgstr "Giọng nói"
 
-#: sites/www.thunderbird.net/about/index.html:80
+#: sites/www.thunderbird.net/about/index.html:85
 msgid "You have a part in Thunderbird's future."
 msgstr "Bạn sẽ là một phần trong tương lai của Thunderbird."
 
-#: sites/www.thunderbird.net/about/index.html:81
+#: sites/www.thunderbird.net/about/index.html:86
 msgid ""
 "Thunderbird is free from the commercial requirements and incentives that often guide software development. Anyone can get involved in helping make Thunderbird better and available to more people. A "
 "contributor-elected council ensures Thunderbird remains true to its values and mission."
@@ -616,191 +636,184 @@ msgstr ""
 "Thunderbird không bị ràng buộc bởi các yêu cầu và ưu đãi thương mại thường hướng dẫn phát triển phần mềm. Bất kỳ ai cũng có thể tham gia vào việc giúp Thunderbird trở nên tốt hơn và sẵn sàng phục vụ"
 " nhiều người hơn. Hội đồng do người đóng góp bầu chọn đảm bảo Thunderbird vẫn đúng với các giá trị và sứ mệnh của mình."
 
-#: sites/www.thunderbird.net/about/index.html:90
+#: sites/www.thunderbird.net/about/index.html:95
 msgid "Driven by <span class=\"txt-gradient\">Community</span>"
 msgstr "Thúc đẩy bởi <span class=\"txt-gradient\">cộng đồng</span>"
 
-#: sites/www.thunderbird.net/about/index.html:91
+#: sites/www.thunderbird.net/about/index.html:97
 msgid ""
 "Anyone can help make Thunderbird better. Programmers can contribute features they are passionate about or improve the existing code. Those who are multilingual can make Thunderbird accessible to "
 "everyone. Those willing can test new versions of Thunderbird and document issues. There are many ways to become part of a thriving community that makes Thunderbird unique. And if you don't have the "
-"time to volunteer, you can help support the project through donations."
+"time to volunteer, you can help support our work with a financial contribution."
 msgstr ""
-"Bất cứ ai cũng có thể giúp làm cho Thunderbird tốt hơn. Lập trình viên có thể đóng góp những tính năng mà họ đam mê hoặc cải thiện mã hiện có. Những người biết đa ngôn ngữ có thể giúp mọi người có "
-"thể tiếp cận Thunderbird. Những người sẵn sàng có thể thử nghiệm các phiên bản mới của Thunderbird và ghi lại các vấn đề. Có nhiều cách để trở thành một phần của cộng đồng thịnh vượng khiến "
-"Thunderbird trở nên độc đáo. Và nếu bạn không có thời gian tham gia tình nguyện, bạn có thể giúp hỗ trợ dự án thông qua quyên góp."
 
-#: sites/www.thunderbird.net/about/index.html:92
+#: sites/www.thunderbird.net/about/index.html:106
 msgid "Learn How to Get Involved"
 msgstr "Tìm hiểu cách tham gia"
 
-#: sites/www.thunderbird.net/about/index.html:97
+#: sites/www.thunderbird.net/about/index.html:111
 msgid "Our Contributors"
 msgstr "Cộng tác viên của chúng tôi"
 
-#: sites/www.thunderbird.net/about/index.html:103
-msgid "Supported by <span class=\"txt-gradient\">Mozilla</span>"
-msgstr "Được hỗ trợ bởi <span class=\"txt-gradient\">Mozilla</span>"
+#: sites/www.thunderbird.net/about/index.html:117
+msgid "Part of the <span class=\"txt-gradient\">Mozilla Family</span>"
+msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:104
+#: sites/www.thunderbird.net/about/index.html:119
 msgid ""
-"Thunderbird operates in a for-profit subsidiary of the non-profit Mozilla Foundation. This grants us flexibility in offering optional paid services to sustain Thunderbird's development far into the "
-"future."
+"Thunderbird operates in a separate, for-profit subsidiary of the Mozilla Foundation. This structure gives us the flexibility to offer optional paid services to sustain Thunderbird’s development far "
+"into the future."
 msgstr ""
-"Thunderbird hoạt động trong một công ty con vì lợi nhuận của tổ chức phi lợi nhuận Mozilla Foundation. Điều này cho phép chúng tôi linh hoạt trong việc cung cấp các dịch vụ trả phí tùy chọn để duy "
-"trì phát triển của Thunderbird trong tương lai xa."
 
-#: sites/www.thunderbird.net/about/index.html:105
-msgid "We have a growing team of talented individuals employed to develop and maintain Thunderbird, interface with partner organizations, and maximize the reach of Thunderbird throughout the world."
+#: sites/www.thunderbird.net/about/index.html:125
+msgid "We have a growing team of talented employees who develop and maintain Thunderbird, collaborate with our community and partners, and work to deliver Thunderbird to users around the world."
 msgstr ""
-"Chúng tôi có một đội ngũ gồm những cá nhân tài năng đang phát triển được tuyển dụng để phát triển và duy trì Thunderbird, giao tiếp với các tổ chức đối tác và tối đa hóa phạm vi tiếp cận của "
-"Thunderbird trên toàn thế giới."
 
-#: sites/www.thunderbird.net/about/index.html:110
+#: sites/www.thunderbird.net/about/index.html:133
 msgid "Managing Director, Operations"
 msgstr "Giám đốc điều hành, Vận hành"
 
-#: sites/www.thunderbird.net/about/index.html:111
+#: sites/www.thunderbird.net/about/index.html:134
 msgid "Managing Director, Product"
 msgstr "Giám đốc điều hành, Sản phẩm"
 
-#: sites/www.thunderbird.net/about/index.html:112
+#: sites/www.thunderbird.net/about/index.html:135
 msgid "Director, Desktop & Mobile Apps"
 msgstr "Giám đốc, Ứng dụng máy tính & di động"
 
-#: sites/www.thunderbird.net/about/index.html:113
+#: sites/www.thunderbird.net/about/index.html:136
 msgid "Director, Infrastructure & Services"
 msgstr "Giám đốc, Cơ sở hạ tầng & dịch vụ"
 
-#: sites/www.thunderbird.net/about/index.html:116 sites/www.thunderbird.net/about/index.html:137
+#: sites/www.thunderbird.net/about/index.html:139 sites/www.thunderbird.net/about/index.html:160
 msgid "Sr. Software Engineer, Services"
 msgstr "Sr. Software Engineer, Dịch vụ"
 
-#: sites/www.thunderbird.net/about/index.html:117
+#: sites/www.thunderbird.net/about/index.html:140
 msgid "UX Engineer, Desktop"
 msgstr "Kỹ sư UX, Ứng dụng máy tính"
 
-#: sites/www.thunderbird.net/about/index.html:118
+#: sites/www.thunderbird.net/about/index.html:141
 msgid "Finance & Accounting Specialist"
 msgstr "Finance & Accounting Specialist"
 
-#: sites/www.thunderbird.net/about/index.html:119 sites/www.thunderbird.net/about/index.html:127 sites/www.thunderbird.net/about/index.html:133
+#: sites/www.thunderbird.net/about/index.html:142 sites/www.thunderbird.net/about/index.html:150 sites/www.thunderbird.net/about/index.html:156
 msgid "Staff Engineer, Desktop"
 msgstr "Staff Engineer, Ứng dụng máy tính"
 
-#: sites/www.thunderbird.net/about/index.html:120 sites/www.thunderbird.net/about/index.html:146 sites/www.thunderbird.net/about/index.html:150
+#: sites/www.thunderbird.net/about/index.html:143 sites/www.thunderbird.net/about/index.html:169 sites/www.thunderbird.net/about/index.html:173
 msgid "Software Engineer, Desktop"
 msgstr "Kỹ sư phần mềm, Ứng dụng máy tính"
 
-#: sites/www.thunderbird.net/about/index.html:121
+#: sites/www.thunderbird.net/about/index.html:144
 msgid "Software Engineer, Services"
 msgstr "Kỹ sư phần mềm, Dịch vụ"
 
-#: sites/www.thunderbird.net/about/index.html:122 sites/www.thunderbird.net/about/index.html:152
+#: sites/www.thunderbird.net/about/index.html:145 sites/www.thunderbird.net/about/index.html:175
 msgid "Sr. Software Engineer, Mobile"
 msgstr "Sr. Software Engineer, Ứng dụng di động"
 
-#: sites/www.thunderbird.net/about/index.html:123
+#: sites/www.thunderbird.net/about/index.html:146
 msgid "Manager, Release Operations"
 msgstr "Manager, Release Operations"
 
-#: sites/www.thunderbird.net/about/index.html:124
+#: sites/www.thunderbird.net/about/index.html:147
 msgid "Release Engineer"
 msgstr "Release Engineer"
 
-#: sites/www.thunderbird.net/about/index.html:125
+#: sites/www.thunderbird.net/about/index.html:148
 msgid "Sr. Staff Engineer, Desktop"
 msgstr "Sr. Staff Engineer, Ứng dụng máy tính"
 
-#: sites/www.thunderbird.net/about/index.html:126
+#: sites/www.thunderbird.net/about/index.html:149
 msgid "Sr. Developer Relations Engineer"
 msgstr "Sr. Developer Relations Engineer"
 
-#: sites/www.thunderbird.net/about/index.html:128
+#: sites/www.thunderbird.net/about/index.html:151
 msgid "Sr. Software Engineer, Desktop Add-ons"
 msgstr "Sr. Software Engineer, Tiện ích mở rộng cho ứng dụng máy tính"
 
-#: sites/www.thunderbird.net/about/index.html:129
+#: sites/www.thunderbird.net/about/index.html:152
 msgid "Sr. Site Reliability Engineer"
 msgstr "Sr. Site Reliability Engineer"
 
-#: sites/www.thunderbird.net/about/index.html:130
+#: sites/www.thunderbird.net/about/index.html:153
 msgid "Sr. Security Engineer, Desktop"
 msgstr "Sr. Security Engineer, Ứng dụng máy tính"
 
-#: sites/www.thunderbird.net/about/index.html:131
+#: sites/www.thunderbird.net/about/index.html:154
 msgid "Sr. Technical PM"
 msgstr "Sr. Technical PM"
 
-#: sites/www.thunderbird.net/about/index.html:132
+#: sites/www.thunderbird.net/about/index.html:155
 msgid "Manager, UI/UX Design Studio"
 msgstr "Quản lý, Studio thiết kế UI/UX"
 
-#: sites/www.thunderbird.net/about/index.html:134
+#: sites/www.thunderbird.net/about/index.html:157
 msgid "Manager, Web Services"
 msgstr "Quản lý, Dịch vụ Web"
 
-#: sites/www.thunderbird.net/about/index.html:135
+#: sites/www.thunderbird.net/about/index.html:158
 msgid "Sr. Employee Experience Partner"
 msgstr "Sr. Employee Experience Partner"
 
-#: sites/www.thunderbird.net/about/index.html:136
+#: sites/www.thunderbird.net/about/index.html:159
 msgid "Staff Software Engineer, Desktop"
 msgstr "Staff Software Engineer, Ứng dụng máy tính"
 
-#: sites/www.thunderbird.net/about/index.html:138 sites/www.thunderbird.net/about/index.html:147
+#: sites/www.thunderbird.net/about/index.html:161 sites/www.thunderbird.net/about/index.html:170
 msgid "UI/UX Designer"
 msgstr "Nhà thiết kế UI/UX"
 
-#: sites/www.thunderbird.net/about/index.html:139
+#: sites/www.thunderbird.net/about/index.html:162
 msgid "Community & Marketing Coordinator"
 msgstr "Người điều phối cộng đồng & tiếp thị"
 
-#: sites/www.thunderbird.net/about/index.html:140
+#: sites/www.thunderbird.net/about/index.html:163
 msgid "Manager, Comms & Community"
 msgstr "Quản lý, Truyền thông & cộng đồng"
 
-#: sites/www.thunderbird.net/about/index.html:141
+#: sites/www.thunderbird.net/about/index.html:164
 msgid "Sr. Manager, Mobile Engineering"
 msgstr "Sr. Manager, Mobile Engineering"
 
-#: sites/www.thunderbird.net/about/index.html:142
+#: sites/www.thunderbird.net/about/index.html:165
 msgid "Sr. Release Engineer"
 msgstr "Sr. Release Engineer"
 
-#: sites/www.thunderbird.net/about/index.html:143
+#: sites/www.thunderbird.net/about/index.html:166
 msgid "User Support Specialist"
 msgstr "Chuyên gia hỗ trợ người dùng"
 
-#: sites/www.thunderbird.net/about/index.html:144
+#: sites/www.thunderbird.net/about/index.html:167
 msgid "Sr Site Reliability Engineer"
 msgstr "Sr Site Reliability Engineer"
 
-#: sites/www.thunderbird.net/about/index.html:145
+#: sites/www.thunderbird.net/about/index.html:168
 msgid "Customer Experience Specialist"
 msgstr "Customer Experience Specialist"
 
-#: sites/www.thunderbird.net/about/index.html:148
+#: sites/www.thunderbird.net/about/index.html:171
 msgid "Employee Experience Specialist"
 msgstr "Employee Experience Specialist"
 
-#: sites/www.thunderbird.net/about/index.html:149
+#: sites/www.thunderbird.net/about/index.html:172
 msgid "Sr. Manager, Desktop Engineering"
 msgstr "Sr. Manager, Desktop Engineering"
 
-#: sites/www.thunderbird.net/about/index.html:151
+#: sites/www.thunderbird.net/about/index.html:174
 msgid "Community Manager"
 msgstr "Quản lý cộng đồng"
 
-#: sites/www.thunderbird.net/about/index.html:156
+#: sites/www.thunderbird.net/about/index.html:179
 msgid "Explore Career Opportunities"
 msgstr "Khám phá cơ hội nghề nghiệp"
 
-#: sites/www.thunderbird.net/about/mission-statement/index.html:16
+#: sites/www.thunderbird.net/about/mission-statement/index.html:15
 msgid "Thunderbird’s <span class=\"txt-gradient\">Mission</span>"
 msgstr "<span class=\"txt-gradient\">Sứ mệnh</span> của Thunderbird"
 
-#: sites/www.thunderbird.net/about/mission-statement/index.html:18
+#: sites/www.thunderbird.net/about/mission-statement/index.html:17
 msgid ""
 "Thunderbird facilitates cross platform, decentralized, open-standard communication, which puts the user in control of their data and workflow. We aspire to offer an interoperable and extensible "
 "open-source platform for messaging and managing personal information, such as email, contacts, and appointments."
@@ -812,17 +825,17 @@ msgstr ""
 msgid "Calendar"
 msgstr "Lịch"
 
-#: sites/www.thunderbird.net/calendar/holidays/index.html:10 sites/www.thunderbird.net/calendar/index.html:10 sites/www.thunderbird.net/download/index.html:10
-#: sites/www.thunderbird.net/includes/base/footer.html:22 sites/www.thunderbird.net/includes/base/nav.html:36 sites/www.thunderbird.net/newsletter/index.html:10
-#: sites/www.thunderbird.net/thank-you/index.html:10 sites/www.thunderbird.net/thunderbird/all/index.html:11
+#: sites/www.thunderbird.net/calendar/holidays/index.html:9 sites/www.thunderbird.net/calendar/index.html:9 sites/www.thunderbird.net/download/index.html:9
+#: sites/www.thunderbird.net/includes/base/footer.html:22 sites/www.thunderbird.net/includes/base/nav.html:36 sites/www.thunderbird.net/newsletter/index.html:9
+#: sites/www.thunderbird.net/thank-you/index.html:9 sites/www.thunderbird.net/thunderbird/all/index.html:10
 msgid "Resources"
 msgstr "Tài nguyên"
 
-#: sites/www.thunderbird.net/calendar/index.html:17
+#: sites/www.thunderbird.net/calendar/index.html:16
 msgid "Looking For Holiday Calendars?"
 msgstr "Bạn đang tìm lịch nghỉ lễ?"
 
-#: sites/www.thunderbird.net/calendar/index.html:19
+#: sites/www.thunderbird.net/calendar/index.html:18
 #, python-format
 msgid "If you're looking for holiday calendars, please click <a href=\"%(url)s\">here</a>."
 msgstr "Nếu bạn đang tìm kiếm lịch nghỉ lễ, vui lòng nhấp vào <a href=\"%(url)s\">đây</a>."
@@ -831,11 +844,11 @@ msgstr "Nếu bạn đang tìm kiếm lịch nghỉ lễ, vui lòng nhấp vào 
 msgid "Holiday Calendar"
 msgstr "Lịch nghỉ lễ"
 
-#: sites/www.thunderbird.net/calendar/holidays/index.html:15
+#: sites/www.thunderbird.net/calendar/holidays/index.html:14
 msgid "Add your nation’s holidays to <span class=\"txt-gradient\">Calendar</span>!"
 msgstr "Thêm ngày lễ của quốc gia bạn vào <span class=\"txt-gradient\">lịch</span>!"
 
-#: sites/www.thunderbird.net/calendar/holidays/index.html:17
+#: sites/www.thunderbird.net/calendar/holidays/index.html:16
 #, python-format
 msgid ""
 "We’ve got some holiday calendar files available for download. You can either download and then import them into Calendar or you can just subscribe to these calendars by copying their URL and then "
@@ -844,12 +857,12 @@ msgstr ""
 "Chúng tôi có sẵn một số tập tin lịch nghỉ lễ để tải xuống. Bạn có thể tải xuống và sau đó nhập chúng vào Lịch hoặc bạn chỉ có thể đăng ký các lịch này bằng cách sao chép URL của chúng rồi thêm chúng"
 " dưới dạng tập tin lịch từ xa mới. Bạn có thể tìm thêm thông tin về cách cài đặt lịch nghỉ lễ trong  <a href=\"%s\">bài viết Thêm một lịch nghỉ lễ</a>."
 
-#: sites/www.thunderbird.net/calendar/holidays/index.html:46
+#: sites/www.thunderbird.net/calendar/holidays/index.html:45
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
 msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
 
-#: sites/www.thunderbird.net/calendar/holidays/index.html:48
+#: sites/www.thunderbird.net/calendar/holidays/index.html:47
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s"
 msgstr "Lịch nghỉ lễ <a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> cảm ơn %(authors)s"
@@ -858,27 +871,27 @@ msgstr "Lịch nghỉ lễ <a href=\"%(url)s\" class=\"inline-link text-blue\">%
 msgid "Contact Us"
 msgstr "Liên hệ với chúng tôi"
 
-#: sites/www.thunderbird.net/contact/index.html:16
+#: sites/www.thunderbird.net/contact/index.html:15
 msgid "Need to <span class=\"txt-gradient\">Talk?</span>"
 msgstr "Cần <span class=\"txt-gradient\">nói chuyện?</span>"
 
-#: sites/www.thunderbird.net/contact/index.html:17
+#: sites/www.thunderbird.net/contact/index.html:16
 msgid "Direct your inquiries to the teams below."
 msgstr "Gửi câu hỏi của bạn đến các nhóm bên dưới."
 
-#: sites/www.thunderbird.net/contact/index.html:20 sites/www.thunderbird.net/participate/index.html:70
+#: sites/www.thunderbird.net/contact/index.html:19 sites/www.thunderbird.net/participate/index.html:69
 msgid "Support"
 msgstr "Hỗ trợ"
 
-#: sites/www.thunderbird.net/contact/index.html:20
+#: sites/www.thunderbird.net/contact/index.html:19
 msgid "Support Website"
 msgstr "Trang web hỗ trợ"
 
-#: sites/www.thunderbird.net/contact/index.html:20 sites/www.thunderbird.net/donate/help/index.html:8 sites/www.thunderbird.net/donate/help/thank-you/index.html:8
-msgid "Donor Help"
-msgstr "Trợ giúp của nhà tài trợ"
+#: sites/www.thunderbird.net/contact/index.html:19 sites/www.thunderbird.net/donate/help/index.html:8
+msgid "Donation Help"
+msgstr ""
 
-#: sites/www.thunderbird.net/contact/index.html:21
+#: sites/www.thunderbird.net/contact/index.html:20
 msgid ""
 "For questions about how to use Thunderbird, visit and search our Support Website. Feel free to submit a new question if you cannot find an answer. Please remember to be courteous to our staff and "
 "volunteers."
@@ -886,22 +899,22 @@ msgstr ""
 "Nếu có câu hỏi về cách sử dụng Thunderbird, hãy truy cập và tìm kiếm trang web hỗ trợ của chúng tôi. Vui lòng gửi câu hỏi mới nếu bạn không thể tìm thấy câu trả lời. Hãy nhớ lịch sự với nhân viên và"
 " tình nguyện viên của chúng tôi."
 
-#: sites/www.thunderbird.net/contact/index.html:24
+#: sites/www.thunderbird.net/contact/index.html:23
 #, python-format
 msgid "To get the best support, please ask your question in English. If you prefer to ask a question in %(lang)s you can try this non-Mozilla community forum <a class=\"dotted\" href=\"%(link)s\">link</a>."
 msgstr ""
 "Để được hỗ trợ tốt nhất, vui lòng đặt câu hỏi bằng tiếng Anh. Nếu bạn muốn đặt câu hỏi bằng %(lang)s bạn có thể thử tham gia trên diễn đàn cộng đồng không phải của Mozilla <a class=\"dotted\" "
 "href=\"%(link)s\">tại đây</a>."
 
-#: sites/www.thunderbird.net/contact/index.html:30
+#: sites/www.thunderbird.net/contact/index.html:29
 msgid "Security"
 msgstr "Bảo mật"
 
-#: sites/www.thunderbird.net/contact/index.html:30
+#: sites/www.thunderbird.net/contact/index.html:29
 msgid "Bugzilla"
 msgstr "Bugzilla"
 
-#: sites/www.thunderbird.net/contact/index.html:31
+#: sites/www.thunderbird.net/contact/index.html:30
 msgid ""
 "To report a software vulnerability, please submit an issue on Bugzilla with the security box checked. This checkmark will make the report visible only to our security team, who can address "
 "vulnerabilities before public disclosure."
@@ -909,44 +922,44 @@ msgstr ""
 "Để báo cáo lỗ hổng phần mềm, vui lòng gửi sự cố trên Bugzilla với hộp bảo mật được chọn. Dấu kiểm này sẽ làm cho báo cáo chỉ hiển thị với nhóm bảo mật của chúng tôi, những người có thể giải quyết "
 "các lỗ hổng trước khi tiết lộ công khai."
 
-#: sites/www.thunderbird.net/contact/index.html:33
+#: sites/www.thunderbird.net/contact/index.html:32
 msgid "Media"
 msgstr "Đa phương tiện"
 
-#: sites/www.thunderbird.net/contact/index.html:33
+#: sites/www.thunderbird.net/contact/index.html:32
 msgid "Outreach Team"
 msgstr "Nhóm tiếp cận"
 
-#: sites/www.thunderbird.net/contact/index.html:34
+#: sites/www.thunderbird.net/contact/index.html:33
 msgid "Thunderbird and the people who make it are amazing. Obtain access to our team for your story, review, or other content by emailing our Outreach Team."
 msgstr ""
 "Thunderbird và những người tạo ra nó thật tuyệt vời. Có quyền truy cập vào nhóm của chúng tôi để biết câu chuyện, đánh giá của bạn hoặc nội dung khác bằng cách gửi email cho nhóm tiếp cận của chúng "
 "tôi."
 
-#: sites/www.thunderbird.net/contact/index.html:36
+#: sites/www.thunderbird.net/contact/index.html:35
 msgid "Business"
 msgstr "Kinh doanh"
 
-#: sites/www.thunderbird.net/contact/index.html:36
+#: sites/www.thunderbird.net/contact/index.html:35
 msgid "Business Team"
 msgstr "Đội ngũ kinh doanh"
 
-#: sites/www.thunderbird.net/contact/index.html:37
+#: sites/www.thunderbird.net/contact/index.html:36
 msgid "Organizations wanting to sponsor software development or obtain assistance in large-scale deployments should email our Business Team. This team also handles other partnership inquiries."
 msgstr ""
 "Các tổ chức muốn tài trợ cho việc phát triển phần mềm hoặc nhận được hỗ trợ trong việc triển khai quy mô lớn nên gửi email cho nhóm kinh doanh của chúng tôi. Nhóm này cũng xử lý các yêu cầu hợp tác "
 "khác."
 
-#: sites/www.thunderbird.net/contact/index.html:39 sites/www.thunderbird.net/includes/base/footer.html:46 sites/www.thunderbird.net/includes/base/nav.html:72
+#: sites/www.thunderbird.net/contact/index.html:38 sites/www.thunderbird.net/includes/base/footer.html:46 sites/www.thunderbird.net/includes/base/nav.html:72
 #: sites/www.thunderbird.net/participate/index.html:8
 msgid "Participate"
 msgstr "Tham gia"
 
-#: sites/www.thunderbird.net/contact/index.html:39
+#: sites/www.thunderbird.net/contact/index.html:38
 msgid "Participate Page"
 msgstr "Trang tham gia"
 
-#: sites/www.thunderbird.net/contact/index.html:40
+#: sites/www.thunderbird.net/contact/index.html:39
 msgid ""
 "If you have talents you're interested in sharing but don't know where to start, learn how to get started by visiting our Participate page. Here you'll find the volunteer community that matches your "
 "interests."
@@ -954,22 +967,15 @@ msgstr ""
 "Nếu bạn có tài năng muốn chia sẻ nhưng không biết bắt đầu từ đâu, hãy bắt đầu bằng cách truy cập trang tham gia của chúng tôi. Tại đây bạn sẽ tìm thấy cộng đồng tình nguyện phù hợp với sở thích của "
 "bạn."
 
-#: sites/www.thunderbird.net/contact/index.html:42 sites/www.thunderbird.net/includes/appeal-footer.html:11 sites/www.thunderbird.net/includes/base/footer.html:60
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:357 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:433
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:280 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:299
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:415
-msgid "Legal"
-msgstr "Thông tin pháp lý"
-
-#: sites/www.thunderbird.net/contact/index.html:42
+#: sites/www.thunderbird.net/contact/index.html:41
 msgid "Trademark Misuse"
 msgstr "Lạm dụng nhãn hiệu"
 
-#: sites/www.thunderbird.net/contact/index.html:42
+#: sites/www.thunderbird.net/contact/index.html:41
 msgid "DMCA Notice"
 msgstr "Thông báo DMCA"
 
-#: sites/www.thunderbird.net/contact/index.html:43
+#: sites/www.thunderbird.net/contact/index.html:42
 msgid ""
 "Protect future users from malware, data mining, or being fraudulently charged for Thunderbird by reporting trademark misuse. If you believe we are infringing on your copyright or trademark, please "
 "send a DMCA notice."
@@ -977,92 +983,91 @@ msgstr ""
 "Bảo vệ người dùng trong tương lai khỏi phần mềm độc hại, khai thác dữ liệu hoặc bị tính phí gian lận cho Thunderbird bằng cách báo cáo việc lạm dụng nhãn hiệu. Nếu bạn cho rằng chúng tôi đang vi "
 "phạm bản quyền hoặc nhãn hiệu của bạn, vui lòng gửi thông báo DMCA."
 
-#: sites/www.thunderbird.net/donate/index.html:8 sites/www.thunderbird.net/includes/base/footer.html:45 sites/www.thunderbird.net/includes/base/nav.html:71
-msgid "Donations"
-msgstr "Quyên góp"
-
-#: sites/www.thunderbird.net/donate/help/index.html:9 sites/www.thunderbird.net/donate/help/thank-you/index.html:9 sites/www.thunderbird.net/donate/index.html:10
-#: sites/www.thunderbird.net/includes/base/footer.html:43 sites/www.thunderbird.net/includes/base/nav.html:67 sites/www.thunderbird.net/participate/index.html:10
+#: sites/www.thunderbird.net/donate/help/index.html:9 sites/www.thunderbird.net/donate/help/thank-you/index.html:9 sites/www.thunderbird.net/donate/index.html:9
+#: sites/www.thunderbird.net/includes/base/footer.html:43 sites/www.thunderbird.net/includes/base/nav.html:67 sites/www.thunderbird.net/participate/index.html:9
 msgid "Contribute"
 msgstr "Đóng góp"
 
-#: sites/www.thunderbird.net/donate/index.html:16
+#: sites/www.thunderbird.net/donate/index.html:15
 msgid "Become a <span class=\"txt-gradient\">Supporter</span>"
 msgstr "Trở thành một <span class=\"txt-gradient\">người hỗ trợ</span>"
 
-#: sites/www.thunderbird.net/donate/index.html:17
+#: sites/www.thunderbird.net/donate/index.html:16
 msgid "Help us make Thunderbird better."
 msgstr "Hãy giúp chúng tôi cải thiện Thunderbird."
 
 #: sites/www.thunderbird.net/donate/index.html:18
 msgid ""
-"MZLA Corporation is the for-profit organization sustaining the free software mission of Thunderbird. Our work is to provide open source apps that are secure, private and available for users around "
-"the world. When you donate you help us:"
+"MZLA Technologies Corporation is the for-profit organization sustaining the free software mission of Thunderbird. Our work is to provide open source apps that are secure, private and available for "
+"users around the world. Your support helps us:"
 msgstr ""
-"Tập đoàn MZLA là tổ chức vì lợi nhuận duy trì sứ mệnh phần mềm miễn phí của Thunderbird. Công việc của chúng tôi là cung cấp các ứng dụng nguồn mở an toàn, riêng tư và có sẵn cho người dùng trên "
-"toàn thế giới. Khi bạn quyên góp, bạn sẽ giúp chúng tôi:"
 
-#: sites/www.thunderbird.net/donate/index.html:20
+#: sites/www.thunderbird.net/donate/index.html:25
 msgid "Develop new apps, integrations and features"
 msgstr "Phát triển ứng dụng, tích hợp và tính năng mới"
 
-#: sites/www.thunderbird.net/donate/index.html:21
+#: sites/www.thunderbird.net/donate/index.html:26
 msgid "Improve the interface, speed, and stability"
 msgstr "Cải thiện giao diện, tốc độ và độ ổn định"
 
-#: sites/www.thunderbird.net/donate/index.html:22
+#: sites/www.thunderbird.net/donate/index.html:27
 msgid "Promote Thunderbird and software freedom"
 msgstr "Thúc đẩy Thunderbird và phần mềm tự do"
 
-#: sites/www.thunderbird.net/donate/index.html:23
+#: sites/www.thunderbird.net/donate/index.html:28
 msgid "Serve millions of free app downloads each year"
 msgstr "Phục vụ hàng triệu lượt tải ứng dụng miễn phí mỗi năm"
 
-#: sites/www.thunderbird.net/donate/index.html:36
-#, python-format
-msgid "<a class=\"dotted\" href=\"%(url)s\">Modify</a> an existing monthly donation."
-msgstr "<a class=\"dotted\" href=\"%(url)s\">Sửa đổi</a> khoản quyên góp hàng tháng hiện có."
+#: sites/www.thunderbird.net/donate/index.html:42
+msgid "Not tax deductible as a charitable donation"
+msgstr ""
 
-#: sites/www.thunderbird.net/donate/index.html:44
+#: sites/www.thunderbird.net/donate/index.html:53
 msgid "Frequently Asked Questions"
 msgstr "Câu hỏi thường gặp"
 
-#: sites/www.thunderbird.net/donate/index.html:53
+#: sites/www.thunderbird.net/donate/index.html:62
 msgid "Become a <span class=\"txt-gradient\">Corporate Supporter</span>"
 msgstr "Trở thành một <span class=\"txt-gradient\">người hỗ trợ doanh nghiệp</span>"
 
-#: sites/www.thunderbird.net/donate/index.html:54
+#: sites/www.thunderbird.net/donate/index.html:63
 msgid "Secure an open future for yourself and the world."
 msgstr "Đảm bảo một tương lai rộng mở cho chính bạn và thế giới."
 
-#: sites/www.thunderbird.net/donate/index.html:55
+#: sites/www.thunderbird.net/donate/index.html:65
 msgid ""
 "Organizations deploying Thunderbird at scale or who share our passion for expanding digital freedoms can make a difference by becoming a one-time or recurring corporate supporter. Small to medium "
-"size contributions can be made with the form above. For donations greater than $5000 USD please contact our business team. Thank you in advance for your generous support!"
+"size contributions can be made with the form above. For contributions greater than $5000 USD please contact our business team. Thank you in advance for your generous support!"
 msgstr ""
-"Các tổ chức triển khai Thunderbird trên quy mô lớn hoặc có chung niềm đam mê mở rộng quyền tự do kỹ thuật số với chúng tôi có thể tạo ra sự khác biệt bằng cách trở thành người hỗ trợ doanh nghiệp "
-"một lần hoặc định kỳ. Đóng góp quy mô vừa và nhỏ có thể được thực hiện bằng biểu mẫu trên. Đối với các khoản quyên góp lớn hơn $5000 USD, vui lòng liên hệ với nhóm kinh doanh của chúng tôi. Cảm ơn "
-"bạn trước vì sự hỗ trợ hào phóng của bạn!"
 
-#: sites/www.thunderbird.net/donate/index.html:58
+#: sites/www.thunderbird.net/donate/index.html:73
 msgid "Contact the Business Team"
 msgstr "Liên hệ với nhóm kinh doanh"
 
-#: sites/www.thunderbird.net/donate/index.html:61 sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:48
+#: sites/www.thunderbird.net/donate/index.html:76 sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:47
 msgid "A rocket with the Thunderbird logo."
 msgstr "Một tên lửa có logo Thunderbird."
 
 #: sites/www.thunderbird.net/donate/help/index.html:27
-msgid "If you need help with a contribution to MZLA/Thunderbird, please fill out this form and a Thunderbird donor care representative will get back to you as soon as possible."
-msgstr "Nếu bạn cần trợ giúp về khoản đóng góp cho MZLA/Thunderbird, vui lòng điền vào biểu mẫu này và đại diện nhà tài trợ của Thunderbird sẽ liên hệ lại với bạn sớm nhất có thể."
+#, python-format
+msgid "If you need help donating to Thunderbird and did not find an answer in our <a href=\"%(faq)s\">FAQs</a>, please fill out this form and we will get back to you as soon as possible."
+msgstr ""
 
-#: sites/www.thunderbird.net/donate/help/index.html:30
+#: sites/www.thunderbird.net/donate/help/index.html:33
+#, python-format
+msgid "<strong>Use the <a href=\"%(modify)s\">Donor Portal</a> to access your receipts and update or cancel your recurring plan.</strong>"
+msgstr ""
+
+#: sites/www.thunderbird.net/donate/help/index.html:38
 #, python-format
 msgid ""
-"Unfortunately, donor care representatives are unable to offer support or help with Thunderbird technical issues. For technical support, please visit our <a href=\"%(support_url)s\">support page.</a>"
+"Please note, our payment support team cannot assist with Thunderbird product questions or technical issues. <strong>For technical support, please visit our <a href=\"%(support)s\">support "
+"page</a></strong> where you will find helpful articles and community forums."
 msgstr ""
-"Rất tiếc, đại diện nhà tài trợ không thể cung cấp hỗ trợ hoặc trợ giúp về các vấn đề kỹ thuật của Thunderbird. Để được hỗ trợ kỹ thuật, vui lòng truy cập <a href=\"%(support_url)s\">trang hỗ trợ của"
-" chúng tôi.</a>"
+
+#: sites/www.thunderbird.net/donate/help/thank-you/index.html:8
+msgid "Donor Help"
+msgstr "Trợ giúp của nhà tài trợ"
 
 #: sites/www.thunderbird.net/donate/help/thank-you/index.html:16
 msgid "Thank you for contacting us. A case has been created for your issue and we will be in touch shortly."
@@ -1076,29 +1081,13 @@ msgstr "Chúng tôi sẽ trả lời cho bạn càng sớm càng tốt."
 msgid "Return to Thunderbird.net"
 msgstr "Quay lại Thunderbird.net"
 
-#: sites/www.thunderbird.net/download/index.html:16
+#: sites/www.thunderbird.net/donate/mobile/index.html:8
+msgid "Support Thunderbird for Android"
+msgstr ""
+
+#: sites/www.thunderbird.net/download/index.html:15
 msgid "Download <span class=\"txt-gradient\">Thunderbird</span>"
 msgstr "Tải xuống <span class=\"txt-gradient\">Thunderbird</span>"
-
-#: sites/www.thunderbird.net/includes/appeal-footer.html:9 sites/www.thunderbird.net/includes/base/footer.html:58 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:353
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:429 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:276
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:295 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:411
-msgid "Cookies"
-msgstr "Cookie"
-
-#: sites/www.thunderbird.net/includes/appeal-footer.html:13 sites/www.thunderbird.net/includes/base/footer.html:62
-msgid "Send DMCA Notice"
-msgstr "Gửi thông báo DMCA"
-
-#: sites/www.thunderbird.net/includes/appeal-footer.html:15 sites/www.thunderbird.net/includes/base/footer.html:64
-msgid "Report Fraud"
-msgstr "Báo cáo gian lận"
-
-#: sites/www.thunderbird.net/includes/appeal-footer.html:17 sites/www.thunderbird.net/includes/base/footer.html:66 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:361
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:437 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:284
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:303 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:419
-msgid "Participation Guidelines"
-msgstr "Hướng dẫn tham gia"
 
 #: sites/www.thunderbird.net/includes/download-button.html:14 sites/www.thunderbird.net/includes/download-button.html:94
 msgid "Download Thunderbird"
@@ -1139,44 +1128,79 @@ msgid "to make it better."
 msgstr "để làm cho nó tốt hơn."
 
 #: sites/www.thunderbird.net/includes/faq.html:7
-msgid "What are the ways I can give?"
-msgstr "Tôi có thể quyên góp bằng những cách nào?"
+msgid "Contact us"
+msgstr "Liên hệ với chúng tôi"
 
 #: sites/www.thunderbird.net/includes/faq.html:10
 #, python-format
 msgid ""
-"<p>You can <a href=\"%(donate)s\">donate online</a> securely by credit card or PayPal. Google Pay, Apple Pay, and bank transfers through SEPA, iDEAL and ACH are also available online.<br/> "
-"<strong>Give in your local currency!</strong> On <a href=\"%(donate)s\">our online form</a>, use the drop down menu next to the amount. You will be charged in the currency you choose to give "
-"with.<br/> <strong>Additionally you can</strong> give offline in USD by mailing a check or money order made payable to \"MZLA Technologies Corp\". Mail to:</p> <ul class=\"check-address\"> "
-"<li>MZLA</li> <li>PO Box 25718</li> <li>Pasadena CA 91185-5718</li> </ul> <p>Please include your email address on the memo line of your check to help us track and attribute your gift.</p> "
-"<p><strong>Give the gift of your time!</strong> If you would like to learn how to contribute to Thunderbird in other ways such as coding, translating or testing, please visit our <a "
-"href=\"%(ways_to_help)s\">Participate</a> page.</p>"
+"<strong>Questions about donating?</strong> See common answers below. If you still need help donating, please contact us via this <a href=\"%(help)s\">form</a>.<br/> <strong>Want to provide product "
+"feedback?</strong> Head over to <a href=\"%(connect)s\">Mozilla Connect</a>.<br/> <strong>Need product or technical support?</strong> Visit our <a href=\"%(support)s\">knowledgebase and community "
+"support forum</a>."
 msgstr ""
-"<p>Bạn có thể <a href=\"%(donate)s\">quyên góp trực tuyến</a> an toàn bằng thẻ tín dụng hoặc PayPal. Google Pay, Apple Pay, và chuyển khoản ngân hàng qua SEPA, iDEAL và ACH cũng có sẵn trực "
-"tuyến.<br/> <strong>Quyên góp bằng đơn vị giá của bạn!</strong> Trên <a href=\"%(donate)s\">biểu mẫu trực tuyến của chúng tôi</a>, sử dụng menu thả xuống bên cạnh số tiền. Bạn sẽ bị tính phí bằng "
-"loại tiền bạn chọn để cung cấp.<br/> <strong>Ngoài ra bạn có thể</strong> quyên góp ngoại tuyến bằng USD bằng cách gửi séc hoặc phiếu chuyển tiền được thanh toán cho \"MZLA Technologies Corp\". Gửi "
-"mail tới:</p> <ul class=\"check-address\"> <li>MZLA</li> <li>PO Box 25718</li> <li>Pasadena CA 91185-5718</li> </ul> <p>Vui lòng ghi địa chỉ email của bạn vào dòng ghi chú trên séc để giúp chúng tôi"
-" theo dõi và phân bổ quà tặng của bạn.</p> <p><strong>Tặng quà theo thời gian của bạn!</strong> Nếu bạn muốn tìm hiểu cách đóng góp cho Thunderbird theo những cách khác như viết mã, dịch thuật hoặc "
-"thử nghiệm, vui lòng xem trang <a href=\"%(ways_to_help)s\">tham gia</a> của chúng tôi.</p>"
 
-#: sites/www.thunderbird.net/includes/faq.html:31
+#: sites/www.thunderbird.net/includes/faq.html:21
+msgid "What are the ways I can give?"
+msgstr "Tôi có thể quyên góp bằng những cách nào?"
+
+#: sites/www.thunderbird.net/includes/faq.html:24
+#, python-format
+msgid ""
+"<p>You can <a href=\"%(donate)s\">donate online</a> securely by credit card or PayPal, Google Pay, Apple Pay, and by bank transfers through SEPA, iDEAL and ACH.<br/> <strong>Give in your local "
+"currency!</strong> We accept over 100! Choose yours from the drop down menu next to ‘Amount’.<br/> <strong>You can give offline in USD only</strong> by mailing a check or money order made payable to"
+" \"MZLA Technologies Corp\". Mail to: </p> <ul class=\"check-address\"> <li>MZLA</li> <li>PO Box 25718</li> <li>Pasadena CA 91185-5718</li> </ul> <p>Please include your email address on the memo "
+"line of your check to help us track and attribute your gift. We can only send acknowledgement receipts by email.</p> <p> <strong>Give the gift of your time!</strong> If you would like to learn how "
+"to contribute to Thunderbird in other ways such as coding, translating or testing, please visit our <a href=\"%(ways_to_help)s\">Participate</a> page.</p>"
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/faq.html:47
 msgid "How do I cancel or change my recurring gift? Can I change my payment method or my donation frequency?"
 msgstr "Làm cách nào để hủy hoặc thay đổi quyên góp định kỳ của tôi? Tôi có thể thay đổi phương thức thanh toán hoặc tần suất quyên góp của mình không?"
 
-#: sites/www.thunderbird.net/includes/faq.html:34
+#: sites/www.thunderbird.net/includes/faq.html:50
 #, python-format
 msgid ""
-"Access your donation account settings using the 'Manage My Donation' button on your recent donation confirmation email. There you can change the amount, frequency, payment method and charge date. "
-"You can also cancel your recurring donation plan. If you run into any issues you can always <a href=\"%(help)s\">contact us</a>!"
+"Access your plan details from the <strong><a href=\"%(modify)s\">Donor Portal</a></strong> or from the 'Manage My Donation' button on your recent donation confirmation email. You can change the "
+"amount, frequency, payment method and charge date. You can also cancel your recurring plan and download your receipts."
 msgstr ""
-"Truy cập cài đặt tài khoản quyên góp của bạn bằng cách sử dụng nút 'Quản lý quyên góp của tôi' trên email xác nhận quyên góp gần đây của bạn. Ở đó bạn có thể thay đổi số tiền, tần suất, phương thức "
-"thanh toán và ngày tính phí. Bạn cũng có thể hủy kế hoạch quyên góp định kỳ của mình. Nếu bạn gặp phải bất kỳ vấn đề nào, bạn luôn có thể <a href=\"%(help)s\">liên hệ với chúng tôi</a>!"
 
-#: sites/www.thunderbird.net/includes/faq.html:46
+#: sites/www.thunderbird.net/includes/faq.html:61
+msgid "Does my gift give me access to tech support?"
+msgstr "Quyên góp của tôi có giúp tôi tiếp cận với hỗ trợ kỹ thuật không?"
+
+#: sites/www.thunderbird.net/includes/faq.html:64
+#, python-format
+msgid ""
+"All Thunderbird <strong>technical support is community-based</strong> and available to everyone. Visit our <a href=\"%(url)s\">support forum</a>. We do not provide individual tech support in "
+"exchange for financial gifts."
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/faq.html:73
+msgid "How do I get a receipt?"
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/faq.html:76
+#, python-format
+msgid ""
+"You will receive an email confirmation whenever you donate and this will include a receipt for your records. You can also access your receipt history at any time from our <strong><a "
+"href=\"%(url)s\">Donor Portal</a></strong>."
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/faq.html:85
+msgid "Is my gift tax deductible?"
+msgstr "Ủng hộ của tôi có được khấu trừ thuế không?"
+
+#: sites/www.thunderbird.net/includes/faq.html:88
+msgid ""
+"Gifts to Thunderbird <strong>are not tax-deductible as charitable gifts</strong>, but are greatly appreciated!<br/> Giving to Thunderbird supports the development of open source apps that are "
+"secure, private and available for users around the world. Your support also ensures that our core apps remain free for everyone."
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/faq.html:98
 msgid "Why do you need my address in order to process a gift?"
 msgstr "Tại sao bạn cần địa chỉ của tôi để thực hiện quyên góp?"
 
-#: sites/www.thunderbird.net/includes/faq.html:49
+#: sites/www.thunderbird.net/includes/faq.html:101
 #, python-format
 msgid ""
 "We understand that your privacy is very important -- we agree, and that's a core value of ours at Thunderbird and Mozilla. Your address is part of our Payment Processing, Contact and Donation "
@@ -1189,58 +1213,31 @@ msgstr ""
 "lận và lưu giữ hồ sơ. Nếu bạn muốn biết thêm về dữ liệu thông tin cá nhân mà chúng tôi nhận được, các nhà cung cấp bên thứ ba mà chúng tôi tin tưởng và thời gian chúng tôi lưu giữ dữ liệu của bạn, "
 "vui lòng tham khảo <a href=\"%(website_privacy)s\">thông báo về quyền riêng tư của trang web, thông tin liên hệ và cookie</a> của chúng tôi."
 
-#: sites/www.thunderbird.net/includes/faq.html:61
-msgid "Does my gift give me access to tech support?"
-msgstr "Quyên góp của tôi có giúp tôi tiếp cận với hỗ trợ kỹ thuật không?"
-
-#: sites/www.thunderbird.net/includes/faq.html:64
-#, python-format
-msgid ""
-"Anyone can access tech support for Thunderbird by visiting the <a href=\"%(url)s\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial "
-"gifts."
-msgstr ""
-"Bất kỳ ai cũng có thể truy cập hỗ trợ kỹ thuật cho Thunderbird bằng cách truy cập <a href=\"%(url)s\">diễn đàn hỗ trợ</a>. Thunderbird không cung cấp hỗ trợ kỹ thuật hoặc hỗ trợ kỹ thuật nâng cao để"
-" đổi lấy quà tặng tài chính."
-
-#: sites/www.thunderbird.net/includes/faq.html:73
+#: sites/www.thunderbird.net/includes/faq.html:115
 msgid "How can I turn off the donation message on the Thunderbird start page?"
 msgstr "Làm cách nào để tắt thông báo quyên góp trên trang bắt đầu Thunderbird?"
 
-#: sites/www.thunderbird.net/includes/faq.html:76
+#: sites/www.thunderbird.net/includes/faq.html:118
 #, python-format
 msgid "To learn how to customize your start page please visit:<br/><a href=\"%(url)s\">%(url)s</a>"
 msgstr "Để tìm hiểu cách tùy chỉnh trang bắt đầu của bạn, vui lòng truy cập:<br/><a href=\"%(url)s\">%(url)s</a>"
 
-#: sites/www.thunderbird.net/includes/faq.html:84
-msgid "Is my gift tax deductible?"
-msgstr "Ủng hộ của tôi có được khấu trừ thuế không?"
-
-#: sites/www.thunderbird.net/includes/faq.html:87
-msgid ""
-"Gifts to Thunderbird are <strong>not tax-deductible as charitable gifts</strong>, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-"
-"platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future development."
-msgstr ""
-"Quà tặng cho Thunderbird <strong>không được khấu trừ thuế như quà tặng từ thiện</strong>, nhưng được đánh giá rất cao. Cung cấp cho Thunderbird hỗ trợ phát triển ứng dụng lập lịch và email đa nền "
-"tảng mã nguồn mở hàng đầu của chúng tôi, miễn phí cho mục đích sử dụng cá nhân và doanh nghiệp. Món quà của bạn sẽ giúp đảm bảo nó luôn như vậy và sẽ hỗ trợ sự phát triển trong tương lai."
-
-#: sites/www.thunderbird.net/includes/faq.html:98
+#: sites/www.thunderbird.net/includes/faq.html:126
 msgid "How can I get a business receipt?"
 msgstr "Làm thế nào tôi có thể nhận được biên lai kinh doanh?"
 
-#: sites/www.thunderbird.net/includes/faq.html:101
+#: sites/www.thunderbird.net/includes/faq.html:129
 #, python-format
 msgid ""
-"When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box 'Donate as an Organization' and include your company name. The receipt you receive to the email address used to "
-"make your contribution will include your business information."
+"When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box <strong>'Donate as an Organization'</strong> and include your company name. Your transaction receipt will include"
+" your company name. If you need a copy of your receipt, download from our <strong><a href=\"%(modify)s\">Donor Portal</a></strong>."
 msgstr ""
-"Khi bạn quyên góp qua <a href=\"%(donate)s\">biểu mẫu trực tuyến</a> của chúng tôi, chỉ cần đánh dấu vào hộp kiểm 'Quyên góp với tư cách là tổ chức' và bao gồm tên công ty của bạn. Biên lai bạn nhận"
-" được đến địa chỉ email được sử dụng để đóng góp sẽ bao gồm thông tin doanh nghiệp của bạn."
 
-#: sites/www.thunderbird.net/includes/faq.html:112
+#: sites/www.thunderbird.net/includes/faq.html:139
 msgid "Is my donation secure?"
 msgstr "Đóng góp của tôi có an toàn không?"
 
-#: sites/www.thunderbird.net/includes/faq.html:115
+#: sites/www.thunderbird.net/includes/faq.html:142
 #, python-format
 msgid ""
 "Yes, we use industry-standard SSL technology to keep your information secure. We partner with Stripe, the industry's established payment processor trusted by some of the world's largest companies. "
@@ -1251,59 +1248,46 @@ msgstr ""
 "cậy. Thông tin tài chính nhạy cảm của bạn sẽ không bao giờ được lưu vào máy chủ của chúng tôi. Chúng tôi gửi trực tiếp tất cả dữ liệu đến các máy chủ tuân thủ PCI của Stripe thông qua SSL. Chúng tôi"
 " hiểu rằng sự riêng tư của bạn là rất quan trọng. Để biết thông tin đầy đủ, vui lòng tham khảo <a href=\"%(privacy)s\">chính sách riêng tư của Mozilla</a>."
 
-#: sites/www.thunderbird.net/includes/faq.html:127
+#: sites/www.thunderbird.net/includes/faq.html:154
 msgid "Can I request a refund?"
 msgstr "Tôi có thể yêu cầu hoàn lại tiền không?"
 
-#: sites/www.thunderbird.net/includes/faq.html:130
+#: sites/www.thunderbird.net/includes/faq.html:157
 #, python-format
 msgid ""
-"Your donation may be eligible for a refund. You must contact us within 15 days after the date of the donation. If you believe this donation was made without your authorization, please contact us "
-"immediately. Donations made via ACH or SEPA direct debit are ineligible for refunds. Due to the nature of these transactions our policy prioritizes minimizing refund fraud. We sincerely appreciate "
-"your understanding. If you have any further questions, <a href=\"%(help)s\">please contact us</a>."
+"Your donation may be eligible for a refund. You must <strong>contact us within 15 days of payment date.</strong> If you believe this payment was made without your authorization, please contact us "
+"immediately. <strong>Donations made via ACH or SEPA direct debit are ineligible for refunds.</strong> Due to the nature of these transactions our policy prioritizes minimizing refund fraud. We "
+"appreciate your understanding. If you need assistance, <a href=\"%(help)s\">please contact us</a>."
 msgstr ""
-"Khoản đóng góp của bạn có thể đủ điều kiện để được hoàn lại. Bạn phải liên hệ với chúng tôi trong vòng 15 ngày sau ngày quyên góp. Nếu bạn tin rằng khoản quyên góp này được thực hiện mà không có sự "
-"cho phép của bạn, vui lòng liên hệ với chúng tôi ngay lập tức. Các khoản quyên góp được thực hiện thông qua ghi nợ trực tiếp ACH hoặc SEPA sẽ không đủ điều kiện để được hoàn lại tiền. Do tính chất "
-"của các giao dịch này, chính sách của chúng tôi ưu tiên giảm thiểu gian lận hoàn tiền. Chúng tôi chân thành đánh giá cao sự hiểu biết của bạn. Nếu bạn có thêm bất kỳ câu hỏi nào, <a "
-"href=\"%(help)s\">vui lòng liên hệ với chúng tôi</a>."
 
-#: sites/www.thunderbird.net/includes/faq.html:142
-msgid "Are there additional fees on my donation?"
-msgstr "Có phí bổ sung cho khoản đóng góp của tôi hay không?"
+#: sites/www.thunderbird.net/includes/faq.html:169
+msgid "Are there additional fees added to my donation?"
+msgstr ""
 
-#: sites/www.thunderbird.net/includes/faq.html:145
+#: sites/www.thunderbird.net/includes/faq.html:172
 msgid ""
-"We do not collect any additional fees or taxes. When you donate in your local currency you are not charged a conversion fee by your credit card. Optionally, you can choose to cover our transaction "
-"costs on your donation. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to "
-"research any additional external taxes or fees that may be applied by regulators such as your bank or tax authority."
+"We do not collect any additional fees or taxes. When you donate in your local currency you are not charged a conversion fee by your credit card. You can choose to also cover the payment processing "
+"transaction costs. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to research any"
+" additional external taxes or fees that may be applied by regulators such as your bank or tax authority."
 msgstr ""
-"Chúng tôi không thu thêm bất kỳ khoản phí hoặc thuế nào. Khi bạn quyên góp bằng tiền tệ địa phương của mình, bạn sẽ không bị tính phí chuyển đổi bằng thẻ tín dụng của mình. Theo tùy chọn, bạn có thể"
-" chọn trang trải chi phí giao dịch của chúng tôi cho khoản đóng góp của mình. Điều này là hoàn toàn tự nguyện và bạn có thể chọn tham gia hoặc không tham gia bằng cách sử dụng hộp kiểm trên biểu mẫu"
-" quyên góp của chúng tôi. Tổ chức của chúng tôi có trụ sở tại Hoa Kỳ. Chúng tôi khuyến khích các nhà tài trợ nghiên cứu bất kỳ loại thuế hoặc phí bên ngoài bổ sung nào có thể được áp dụng bởi các cơ"
-" quan quản lý như ngân hàng hoặc cơ quan thuế của bạn."
 
-#: sites/www.thunderbird.net/includes/faq.html:157
-msgid "What are your transaction costs on donations?"
-msgstr "Chi phí giao dịch của bạn đối với các khoản đóng góp là gì?"
+#: sites/www.thunderbird.net/includes/faq.html:184
+msgid "What do the transaction costs cover?"
+msgstr ""
 
-#: sites/www.thunderbird.net/includes/faq.html:160
+#: sites/www.thunderbird.net/includes/faq.html:187
 msgid ""
-"When you opt to cover our transaction costs, you're covering both our processing and donation platform costs. The costs associated with our robust online donation system allows us to continue "
-"scaling sustainably as our supporter-base grows. Our donation platform and payment processor partners reduce internal costs associated with maintaining our own system from scratch. Our partners "
-"ensure we can accept a wide range of currencies/payment methods and remain PCI compliant in all of the countries that we accept gifts from. The transaction costs donors may choose to cover are based"
-" on an estimate of our overall costs. Due to many factors actual costs may fluctuate."
+"When you opt to cover our payment transaction costs, you're covering both our payment processing and donation platform fees. The costs associated with our robust online donation system allows us to "
+"continue scaling sustainably as our supporter-base grows. Our donation platform and payment processor partners reduce internal costs associated with maintaining our own system from scratch. Our "
+"partners ensure we can accept a wide range of currencies/payment methods and remain PCI compliant in all of the countries that we accept gifts from. The transaction costs you may choose to cover are"
+" based on an estimate of our overall costs. Due to many factors actual costs may fluctuate."
 msgstr ""
-"Khi bạn chọn thanh toán chi phí giao dịch của chúng tôi, bạn sẽ thanh toán cả chi phí nền tảng xử lý và quyên góp của chúng tôi. Chi phí liên quan đến hệ thống quyên góp trực tuyến mạnh mẽ của chúng"
-" tôi cho phép chúng tôi tiếp tục mở rộng quy mô một cách bền vững khi cơ sở người ủng hộ của chúng tôi phát triển. Nền tảng quyên góp và các đối tác xử lý thanh toán của chúng tôi giảm chi phí nội "
-"bộ liên quan đến việc duy trì hệ thống của chính chúng tôi từ đầu. Các đối tác của chúng tôi đảm bảo rằng chúng tôi có thể chấp nhận nhiều loại tiền tệ/phương thức thanh toán và vẫn tuân thủ PCI ở "
-"tất cả các quốc gia mà nơi chúng tôi chấp nhận quà. Chi phí giao dịch mà các nhà tài trợ có thể chọn chi trả dựa trên ước tính tổng chi phí của chúng tôi. Do nhiều yếu tố chi phí thực tế có thể dao "
-"động."
 
-#: sites/www.thunderbird.net/includes/faq.html:173
+#: sites/www.thunderbird.net/includes/faq.html:200
 msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
 msgstr "Tại sao các khoản quyên góp một lần xuất hiện dưới dạng định kỳ trong các quy định của SEPA?"
 
-#: sites/www.thunderbird.net/includes/faq.html:176
+#: sites/www.thunderbird.net/includes/faq.html:203
 msgid ""
 "When making a one-time gift through SEPA direct debit, you may notice a mention of recurrent transactions. This is because our payment processor Stripe only supports recurring transactions for this "
 "type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
@@ -1313,58 +1297,38 @@ msgstr ""
 "cho loại thanh toán này. Bất kể điều này, chúng tôi sẽ chỉ tính phí bạn một lần và chúng tôi sẽ không thực hiện thêm bất kỳ khoản thanh toán nào vào tài khoản của bạn mà không có sự cho phép của "
 "bạn. Theo ủy quyền, bạn sẽ nhận được biên nhận quyên góp chính thức phản ánh rõ ràng khoản quyên góp một lần."
 
-#: sites/www.thunderbird.net/includes/faq.html:184
+#: sites/www.thunderbird.net/includes/faq.html:211
 msgid "Can I give in cryptocurrencies?"
 msgstr "Tôi có thể quyên góp tiền điện tử không?"
 
-#: sites/www.thunderbird.net/includes/faq.html:187
+#: sites/www.thunderbird.net/includes/faq.html:214
 msgid "<strong>No.</strong> We are not currently accepting cryptocurrency gifts."
 msgstr "<strong>Không.</strong> Chúng tôi hiện không chấp nhận quà tặng bằng tiền điện tử."
 
-#: sites/www.thunderbird.net/includes/faq.html:195
+#: sites/www.thunderbird.net/includes/faq.html:222
 msgid "How will my gift be used?"
 msgstr "Quyên góp của tôi sẽ được sử dụng như thế nào?"
 
-#: sites/www.thunderbird.net/includes/faq.html:198
-msgid ""
-"Thunderbird is the leading open source cross-platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future "
-"development."
+#: sites/www.thunderbird.net/includes/faq.html:225
+msgid "Thunderbird is the leading open source email and productivity app that is free for business and personal use. Your gift helps ensure it stays that way, and supports ongoing development."
 msgstr ""
-"Thunderbird là ứng dụng khách về lịch và email đa nền tảng mã nguồn mở hàng đầu, miễn phí cho doanh nghiệp và cá nhân. Quyên góp của bạn sẽ giúp đảm bảo nó vẫn như vậy và sẽ hỗ trợ sự phát triển "
-"trong tương lai."
 
-#: sites/www.thunderbird.net/includes/faq.html:207
+#: sites/www.thunderbird.net/includes/faq.html:234
 msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
 msgstr "Mối quan hệ của Thunderbird với MZLA Technologies Corporation là gì?"
 
-#: sites/www.thunderbird.net/includes/faq.html:210
-msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a wholly owned subsidiary of Mozilla Foundation."
-msgstr "Thunderbird là một dự án của MZLA Technologies Corporation, là công ty con thuộc sở hữu hoàn toàn của Mozilla Foundation."
+#: sites/www.thunderbird.net/includes/faq.html:237
+msgid "MZLA Technologies Corporation is a wholly owned for-profit subsidiary of the Mozilla Foundation and the home of Thunderbird."
+msgstr ""
 
-#: sites/www.thunderbird.net/includes/faq.html:219
+#: sites/www.thunderbird.net/includes/faq.html:245
 msgid "Doesn’t Thunderbird earn income?"
 msgstr "Thunderbird không kiếm được thu nhập?"
 
-#: sites/www.thunderbird.net/includes/faq.html:222
-msgid ""
-"Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird. Companies and individuals support the development of the product now and in the "
-"future."
-msgstr ""
-"Hiện tại, phần lớn doanh thu của Thunderbird đến từ những món quà hào phóng từ người dùng và bạn bè của Thunderbird. Các công ty và cá nhân hỗ trợ sự phát triển của sản phẩm hiện tại và trong tương "
-"lai."
-
-#: sites/www.thunderbird.net/includes/faq.html:231
-msgid "Contact us"
-msgstr "Liên hệ với chúng tôi"
-
-#: sites/www.thunderbird.net/includes/faq.html:234
+#: sites/www.thunderbird.net/includes/faq.html:248
 #, python-format
-msgid ""
-"If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. If you need technical support, please head over to <a href=\"%(support)s\">Thunderbird "
-"Support</a> for assistance."
+msgid "Currently, nearly 100% of Thunderbird’s operating revenue comes from the generous gifts of Thunderbird users."
 msgstr ""
-"Nếu bạn có câu hỏi về việc quyên góp cho Thunderbird, vui lòng liên hệ với chúng tôi qua <a href=\"%(help)s\">biểu mẫu này</a>. Nếu bạn cần hỗ trợ kỹ thuật, vui lòng truy cập <a "
-"href=\"%(support)s\">hỗ trợ Thunderbird</a> để được hỗ trợ."
 
 #: sites/www.thunderbird.net/includes/lang_switcher.html:10
 msgid "Page language"
@@ -1398,7 +1362,7 @@ msgstr "Nhận trợ giúp"
 msgid "Downloads"
 msgstr "Tải xuống"
 
-#: sites/www.thunderbird.net/includes/base/footer.html:28 sites/www.thunderbird.net/thunderbird/all/index.html:141 sites/www.thunderbird.net/thunderbird/all/index.html:155
+#: sites/www.thunderbird.net/includes/base/footer.html:28 sites/www.thunderbird.net/thunderbird/all/index.html:140 sites/www.thunderbird.net/thunderbird/all/index.html:154
 msgid "Release Notes"
 msgstr "Ghi chú phát hành"
 
@@ -1441,11 +1405,11 @@ msgstr "Đóng góp cho trang web này"
 msgid "Translate this site"
 msgstr "Dịch trang này"
 
-#: sites/www.thunderbird.net/includes/base/nav.html:21 sites/www.thunderbird.net/thunderbird/releases/index.html:10
+#: sites/www.thunderbird.net/includes/base/nav.html:21 sites/www.thunderbird.net/thunderbird/releases/index.html:9
 msgid "Products"
 msgstr "Sản phẩm"
 
-#: sites/www.thunderbird.net/includes/base/nav.html:25 sites/www.thunderbird.net/thunderbird/releases/index.html:10
+#: sites/www.thunderbird.net/includes/base/nav.html:25 sites/www.thunderbird.net/thunderbird/releases/index.html:9
 msgid "Thunderbird Desktop"
 msgstr "Thunderbird cho máy tính để bàn"
 
@@ -1514,16 +1478,8 @@ msgid "Learn What’s <span class=\"txt-gradient\">Next</span>"
 msgstr "Tìm hiểu cái gì <span class=\"txt-gradient\">tiếp theo</span>"
 
 #: sites/www.thunderbird.net/includes/base/page.html:83
-msgid ""
-"\n"
-"        Thunderbird keeps getting better. Subscribe to our newsletter and follow us on social media to stay\n"
-"        informed.\n"
-"        "
+msgid "Thunderbird keeps getting better. Subscribe to our newsletter and follow us on social media to stay informed."
 msgstr ""
-"\n"
-"        Thunderbird ngày càng tốt hơn. Đăng ký nhận bản tin của chúng tôi và theo dõi chúng tôi trên\n"
-"        phương tiện truyền thông xã hội để duy trì cập nhật tin tưc.\n"
-"        "
 
 #: sites/www.thunderbird.net/includes/base/page.html:94 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:313 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:234
 #: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:253 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:370
@@ -1788,7 +1744,7 @@ msgstr "Gửi"
 msgid "Join our Newsletter"
 msgstr "Đăng ký bản tin của chúng tôi"
 
-#: sites/www.thunderbird.net/newsletter/index.html:13
+#: sites/www.thunderbird.net/newsletter/index.html:12
 msgid ""
 "\n"
 " See exciting previews of upcoming features, read the latest desktop Thunderbird and mobile Thunderbird news, and enjoy personalized tips to protect your privacy and maximize your productivity! From the Thunderbird team directly to your inbox.\n"
@@ -1796,15 +1752,15 @@ msgstr ""
 "\n"
 " Xem bản xem trước thú vị của các tính năng sắp ra mắt, đọc tin tức Thunderbird trên máy tính để bàn và thiết bị di động mới nhất, đồng thời tận hưởng các mẹo được cá nhân hóa để bảo vệ quyền riêng tư và tối đa hóa năng suất của bạn! Từ nhóm Thunderbird trực tiếp tới hộp thư đến của bạn.\n"
 
-#: sites/www.thunderbird.net/participate/index.html:16
+#: sites/www.thunderbird.net/participate/index.html:15
 msgid "We Need Your <span class=\"txt-gradient\">Talents</span>"
 msgstr "Chúng tôi cần <span class=\"txt-gradient\">tài năng</span> của bạn"
 
-#: sites/www.thunderbird.net/participate/index.html:17
+#: sites/www.thunderbird.net/participate/index.html:16
 msgid "Everyone can be a contributor. Here are some of the ways you can help."
 msgstr "Mọi người đều có thể là người đóng góp. Dưới đây là một số cách bạn có thể giúp đỡ."
 
-#: sites/www.thunderbird.net/participate/index.html:18
+#: sites/www.thunderbird.net/participate/index.html:17
 msgid ""
 "Volunteers help create Thunderbird and ensure it is accessible throughout the world in dozens of languages. They write the documentation and answer the questions that help regular people use "
 "Thunderbird."
@@ -1812,11 +1768,11 @@ msgstr ""
 "Các tình nguyện viên giúp tạo ra Thunderbird và đảm bảo nó có thể truy cập được trên toàn thế giới bằng hàng chục ngôn ngữ. Họ viết tài liệu và trả lời các câu hỏi giúp người dùng thường xuyên sử "
 "dụng Thunderbird."
 
-#: sites/www.thunderbird.net/participate/index.html:20
+#: sites/www.thunderbird.net/participate/index.html:19
 msgid "Code"
 msgstr "Đoạn mã"
 
-#: sites/www.thunderbird.net/participate/index.html:22
+#: sites/www.thunderbird.net/participate/index.html:21
 msgid ""
 "If you have programming experience there are a lot of ways to contribute to the Thunderbird project. Get started by identifying the area where you have the most experience and interest and following"
 " the steps to get started:"
@@ -1824,40 +1780,40 @@ msgstr ""
 "Nếu bạn có kinh nghiệm lập trình, có rất nhiều cách để đóng góp cho dự án Thunderbird. Hãy bắt đầu bằng cách xác định lĩnh vực mà bạn có nhiều kinh nghiệm và hứng thú nhất rồi làm theo các bước để "
 "bắt đầu:"
 
-#: sites/www.thunderbird.net/participate/index.html:28
+#: sites/www.thunderbird.net/participate/index.html:27
 msgid "Desktop Development:"
 msgstr "Phát triển phần mềm máy tính để bàn:"
 
-#: sites/www.thunderbird.net/participate/index.html:30 sites/www.thunderbird.net/participate/index.html:38 sites/www.thunderbird.net/participate/index.html:46
-#: sites/www.thunderbird.net/participate/index.html:65
+#: sites/www.thunderbird.net/participate/index.html:29 sites/www.thunderbird.net/participate/index.html:37 sites/www.thunderbird.net/participate/index.html:45
+#: sites/www.thunderbird.net/participate/index.html:64
 #, python-format
 msgid "Explore the <a href=\"%(url)s\">docs</a>"
 msgstr "Khám phá <a href=\"%(url)s\">tài liệu</a>"
 
-#: sites/www.thunderbird.net/participate/index.html:31 sites/www.thunderbird.net/participate/index.html:39 sites/www.thunderbird.net/participate/index.html:47
+#: sites/www.thunderbird.net/participate/index.html:30 sites/www.thunderbird.net/participate/index.html:38 sites/www.thunderbird.net/participate/index.html:46
 #, python-format
 msgid "Join the <a href=\"%(url)s\">repository</a>"
 msgstr "Tham gia <a href=\"%(url)s\">repository</a>"
 
-#: sites/www.thunderbird.net/participate/index.html:32 sites/www.thunderbird.net/participate/index.html:40 sites/www.thunderbird.net/participate/index.html:48
-#: sites/www.thunderbird.net/participate/index.html:75 sites/www.thunderbird.net/participate/index.html:107
+#: sites/www.thunderbird.net/participate/index.html:31 sites/www.thunderbird.net/participate/index.html:39 sites/www.thunderbird.net/participate/index.html:47
+#: sites/www.thunderbird.net/participate/index.html:74 sites/www.thunderbird.net/participate/index.html:106
 #, python-format
 msgid "Say hello in <a href=\"%(url)s\">Matrix</a>"
 msgstr "Gửi lời chào trên <a href=\"%(url)s\">Matrix</a>"
 
-#: sites/www.thunderbird.net/participate/index.html:36
+#: sites/www.thunderbird.net/participate/index.html:35
 msgid "Android Development:"
 msgstr "Phát triển phần mềm Android:"
 
-#: sites/www.thunderbird.net/participate/index.html:44
+#: sites/www.thunderbird.net/participate/index.html:43
 msgid "Website Development:"
 msgstr "Phát triển phần mềm trang web:"
 
-#: sites/www.thunderbird.net/participate/index.html:52
+#: sites/www.thunderbird.net/participate/index.html:51
 msgid "Test"
 msgstr "Thử nghiệm"
 
-#: sites/www.thunderbird.net/participate/index.html:54
+#: sites/www.thunderbird.net/participate/index.html:53
 msgid ""
 "With so many unique hardware environments and workflows, community members who test pre-release builds of Thunderbird play a vital role in the quality of the software. Plus, you help catch bugs "
 "before they can reach the general public!"
@@ -1865,21 +1821,21 @@ msgstr ""
 "Với rất nhiều môi trường phần cứng và quy trình làm việc độc đáo, các thành viên cộng đồng thử nghiệm các bản dựng trước khi phát hành của Thunderbird đóng một vai trò quan trọng đối với chất lượng "
 "của phần mềm. Ngoài ra, bạn còn giúp phát hiện lỗi trước khi chúng có thể đến được với công chúng!"
 
-#: sites/www.thunderbird.net/participate/index.html:56
+#: sites/www.thunderbird.net/participate/index.html:55
 #, python-format
 msgid "Learn about testing <a href=\"%(url)s\">Beta</a>"
 msgstr "Tìm hiểu về thử nghiệm <a href=\"%(url)s\">Beta</a>"
 
-#: sites/www.thunderbird.net/participate/index.html:57
+#: sites/www.thunderbird.net/participate/index.html:56
 #, python-format
 msgid "Report <a href=\"%(url)s\">bugs</a>"
 msgstr "Báo cáo <a href=\"%(url)s\">lỗi</a>"
 
-#: sites/www.thunderbird.net/participate/index.html:61
+#: sites/www.thunderbird.net/participate/index.html:60
 msgid "Translate"
 msgstr "Dịch"
 
-#: sites/www.thunderbird.net/participate/index.html:63
+#: sites/www.thunderbird.net/participate/index.html:62
 msgid ""
 "The entire world deserves free and open source software, and Thunderbird is currently translated in more than 50 languages! Use your multilingual talents to help make Thunderbird more widely "
 "available than ever."
@@ -1887,12 +1843,12 @@ msgstr ""
 "Toàn bộ thế giới xứng đáng có phần mềm mã nguồn mở và miễn phí, và Thunderbird hiện được dịch sang hơn 50 ngôn ngữ! Sử dụng tài năng đa ngôn ngữ của bạn để giúp Thunderbird được phổ biến rộng rãi "
 "hơn bao giờ hết."
 
-#: sites/www.thunderbird.net/participate/index.html:66
+#: sites/www.thunderbird.net/participate/index.html:65
 #, python-format
 msgid "Join us on <a href=\"%(url)s\">Pontoon</a>"
 msgstr "Tham gia cùng chúng tôi trên <a href=\"%(url)s\">Pontoon</a>"
 
-#: sites/www.thunderbird.net/participate/index.html:72
+#: sites/www.thunderbird.net/participate/index.html:71
 msgid ""
 "Are you an experienced Thunderbird user who loves lending a helping hand? Put your knowledge to great use by joining our Support Crew and helping users around the world with their Thunderbird "
 "questions."
@@ -1900,15 +1856,15 @@ msgstr ""
 "Bạn có phải là người dùng Thunderbird có kinh nghiệm và muốn được giúp đỡ không? Tận dụng tối đa kiến ​​thức của bạn bằng cách tham gia nhóm hỗ trợ của chúng tôi và giúp đỡ người dùng trên khắp thế "
 "giới giải đáp các câu hỏi về Thunderbird của họ."
 
-#: sites/www.thunderbird.net/participate/index.html:73
+#: sites/www.thunderbird.net/participate/index.html:72
 msgid "You can join our Thunderbird Community Support Matrix room to get and give user support."
 msgstr "Bạn có thể tham gia phòng Matrix hỗ trợ cộng đồng Thunderbird của chúng tôi để nhận và hỗ trợ người dùng."
 
-#: sites/www.thunderbird.net/participate/index.html:79
+#: sites/www.thunderbird.net/participate/index.html:78
 msgid "Document"
 msgstr "Tài liệu"
 
-#: sites/www.thunderbird.net/participate/index.html:81
+#: sites/www.thunderbird.net/participate/index.html:80
 msgid ""
 "Help ensure the answers are written down before the question is even asked! From documenting features or APIs to frequently asked user support questions, put your knowledge and writing skills to use"
 " for the benefit of the entire Thunderbird community."
@@ -1916,26 +1872,26 @@ msgstr ""
 "Giúp đảm bảo các câu trả lời được viết ra trước khi câu hỏi được hỏi! Từ việc ghi lại các tính năng hoặc API cho đến các câu hỏi hỗ trợ người dùng thường gặp, hãy vận dụng kiến ​​thức và kỹ năng "
 "viết của bạn vì lợi ích của toàn bộ cộng đồng Thunderbird."
 
-#: sites/www.thunderbird.net/participate/index.html:83
+#: sites/www.thunderbird.net/participate/index.html:82
 #, python-format
 msgid "User Support <a href=\"%(url)s\">documentation</a>"
 msgstr "<a href=\"%(url)s\">Tài liệu</a> hỗ trợ người dùng"
 
-#: sites/www.thunderbird.net/participate/index.html:84
+#: sites/www.thunderbird.net/participate/index.html:83
 #, python-format
 msgid "Developer <a href=\"%(url)s\">documentation</a>"
 msgstr "<a href=\"%(url)s\">Tài liệu</a> dành cho nhà phát triển"
 
-#: sites/www.thunderbird.net/participate/index.html:85
+#: sites/www.thunderbird.net/participate/index.html:84
 #, python-format
 msgid "Code <a href=\"%(url)s\">documentation</a>"
 msgstr "<a href=\"%(url)s\">Tài liệu</a> đoạn mã"
 
-#: sites/www.thunderbird.net/participate/index.html:89
+#: sites/www.thunderbird.net/participate/index.html:88
 msgid "Promote"
 msgstr "Quảng bá"
 
-#: sites/www.thunderbird.net/participate/index.html:91
+#: sites/www.thunderbird.net/participate/index.html:90
 msgid ""
 "Advocacy is one of the easiest ways to contribute to Thunderbird! Boosting our posts on Mastodon, showcasing the software to a friend, upvoting a helpful answer on Reddit; anything that adds "
 "visibility is a huge help. Here’s where to find us on various social platforms, and how to get involved."
@@ -1943,121 +1899,121 @@ msgstr ""
 "Vận động chính sách là một trong những cách dễ dàng nhất để đóng góp cho Thunderbird! Quảng cáo các bài đăng của chúng tôi trên Mastodon, giới thiệu phần mềm với bạn bè, bình chọn câu trả lời hữu "
 "ích trên Reddit; bất cứ điều gì bổ sung khả năng hiển thị đều là một sự trợ giúp rất lớn. Đây là nơi để tìm thấy chúng tôi trên nhiều nền tảng xã hội khác nhau và cách tham gia."
 
-#: sites/www.thunderbird.net/participate/index.html:93
+#: sites/www.thunderbird.net/participate/index.html:92
 msgid "Reddit"
 msgstr "Reddit"
 
-#: sites/www.thunderbird.net/participate/index.html:94
+#: sites/www.thunderbird.net/participate/index.html:93
 msgid "Mastodon"
 msgstr "Mastodon"
 
-#: sites/www.thunderbird.net/participate/index.html:95
+#: sites/www.thunderbird.net/participate/index.html:94
 msgid "X (Formerly Twitter)"
 msgstr "X (trước đây là Twitter)"
 
-#: sites/www.thunderbird.net/participate/index.html:96
+#: sites/www.thunderbird.net/participate/index.html:95
 msgid "YouTube"
 msgstr "YouTube"
 
-#: sites/www.thunderbird.net/participate/index.html:97
+#: sites/www.thunderbird.net/participate/index.html:96
 msgid "TILVids"
 msgstr "TILVids"
 
-#: sites/www.thunderbird.net/participate/index.html:98
+#: sites/www.thunderbird.net/participate/index.html:97
 msgid "LinkedIn"
 msgstr "LinkedIn"
 
-#: sites/www.thunderbird.net/participate/index.html:102
+#: sites/www.thunderbird.net/participate/index.html:101
 msgid "Design"
 msgstr "Thiết kế"
 
-#: sites/www.thunderbird.net/participate/index.html:104
+#: sites/www.thunderbird.net/participate/index.html:103
 msgid ""
 "Share your ideas, and contribute to the ongoing conversations around Thunderbird’s UX and UI. We welcome your feedback to developer designs on our UX mailing list, and our companion Matrix room."
 msgstr ""
 "Chia sẻ ý tưởng của bạn và đóng góp vào các cuộc trò chuyện đang diễn ra xung quanh UX và UI của Thunderbird. Chúng tôi hoan nghênh phản hồi của bạn về các thiết kế của nhà phát triển trong danh "
 "sách gửi thư UX và đồng hành của chúng tôi trong phòng Matrix."
 
-#: sites/www.thunderbird.net/participate/index.html:106
+#: sites/www.thunderbird.net/participate/index.html:105
 #, python-format
 msgid "Join in on the <a href=\"%(url)s\">discussion</a>"
 msgstr "Tham gia <a href=\"%(url)s\">thảo luận</a>"
 
-#: sites/www.thunderbird.net/participate/index.html:112
+#: sites/www.thunderbird.net/participate/index.html:111
 msgid "One more way you can contribute is by sharing <strong>ideas</strong>, <strong>priorities</strong>, and <strong>feedback</strong>. Thunderbird is yours and we're listening."
 msgstr "Một cách nữa bạn có thể đóng góp là chia sẻ <strong>ý tưởng</strong>, <strong>ưu tiên</strong>, và <strong>nhận xét</strong>. Thunderbird là của bạn và chúng tôi đang lắng nghe."
 
-#: sites/www.thunderbird.net/participate/index.html:122
+#: sites/www.thunderbird.net/participate/index.html:121
 msgid "Contributor <span class=\"txt-gradient\">Experience</span>"
 msgstr "Người đóng góp có <span class=\"txt-gradient\">kinh nghiệm</span>"
 
-#: sites/www.thunderbird.net/participate/index.html:123
+#: sites/www.thunderbird.net/participate/index.html:122
 msgid "The ways and reasons to get involved are as diverse as the people who do."
 msgstr "Cách thức và lý do để tham gia cũng đa dạng như những người tham gia."
 
-#: sites/www.thunderbird.net/participate/index.html:124
+#: sites/www.thunderbird.net/participate/index.html:123
 msgid "Our volunteers come from diverse backgrounds and bring unique talents. They're making Thunderbird better for themselves and better for the world at the same time. You can join them."
 msgstr ""
 "Các tình nguyện viên của chúng tôi đến từ nhiều nước khác nhau và mang đến những tài năng độc đáo. Họ đang làm cho Thunderbird trở nên tốt hơn cho chính họ và đồng thời tốt hơn cho thế giới. Bạn có "
 "thể tham gia cùng họ."
 
-#: sites/www.thunderbird.net/participate/index.html:129
+#: sites/www.thunderbird.net/participate/index.html:128
 msgid "Leadership, Switzerland"
 msgstr "Lãnh đạo, Thụy Sĩ"
 
-#: sites/www.thunderbird.net/participate/index.html:130
+#: sites/www.thunderbird.net/participate/index.html:129
 msgid "Thunderbird is a testament to the power of the open-source community's contribution to driving innovation and efficiency."
 msgstr "Thunderbird là minh chứng cho sức mạnh đóng góp của cộng đồng nguồn mở trong việc thúc đẩy đổi mới và hiệu quả."
 
-#: sites/www.thunderbird.net/participate/index.html:132
+#: sites/www.thunderbird.net/participate/index.html:131
 msgid "Bug Triager, USA"
 msgstr "Người xử lí lỗi, Hoa Kỳ"
 
-#: sites/www.thunderbird.net/participate/index.html:133
+#: sites/www.thunderbird.net/participate/index.html:132
 msgid "If you don't have skin in the game, you can't complain about the direction the product is going in."
 msgstr "Nếu bạn không có skin trong trò chơi, bạn không thể phàn nàn về hướng đi của sản phẩm."
 
-#: sites/www.thunderbird.net/participate/index.html:135
+#: sites/www.thunderbird.net/participate/index.html:134
 msgid "Developer, Germany"
 msgstr "Nhà phát triển, Đức"
 
-#: sites/www.thunderbird.net/participate/index.html:136
+#: sites/www.thunderbird.net/participate/index.html:135
 msgid "It is great to be able to improve the software by fixing little things that affect me and other users"
 msgstr "Thật tuyệt khi có thể cải thiện phần mềm bằng cách sửa những điều nhỏ nhặt ảnh hưởng đến tôi và những người dùng khác"
 
-#: sites/www.thunderbird.net/participate/index.html:138
+#: sites/www.thunderbird.net/participate/index.html:137
 msgid "Tester & Bug Triager, USA"
 msgstr "Người kiểm tra & xử lí lỗi, Hoa Kỳ"
 
-#: sites/www.thunderbird.net/participate/index.html:139
+#: sites/www.thunderbird.net/participate/index.html:138
 msgid "I volunteer to use the beta versions as soon as they are built, report issues I find, and test fixes."
 msgstr "Tôi tình nguyện sử dụng các phiên bản beta ngay khi chúng được xây dựng, báo cáo các vấn đề tôi tìm thấy và kiểm tra các bản sửa lỗi."
 
-#: sites/www.thunderbird.net/participate/index.html:141
+#: sites/www.thunderbird.net/participate/index.html:140
 msgid "Support & Bug Triager, United Kingdom"
 msgstr "Hỗ trợ & xử lí lỗi, Vương quốc Anh"
 
-#: sites/www.thunderbird.net/participate/index.html:142
+#: sites/www.thunderbird.net/participate/index.html:141
 msgid "I volunteer to assist others in the Thunderbird Support Forum which I find a very rewarding experience."
 msgstr "Tôi tình nguyện hỗ trợ những người khác trong diễn đàn hỗ trợ Thunderbird và tôi thấy đó là một trải nghiệm rất bổ ích."
 
-#: sites/www.thunderbird.net/participate/index.html:144
+#: sites/www.thunderbird.net/participate/index.html:143
 msgid "Translator, Bug Triager & Leadership, Bulgaria"
 msgstr "Phiên dịch viên, xử lí lỗi & lãnh đạo, Bulgaria"
 
-#: sites/www.thunderbird.net/participate/index.html:145
+#: sites/www.thunderbird.net/participate/index.html:144
 msgid "I began by contributing translations, thinking that people who speak my language deserve localized versions."
 msgstr "Tôi bắt đầu bằng việc đóng góp các bản dịch, nghĩ rằng những người nói ngôn ngữ của tôi xứng đáng có được các phiên bản được bản địa hóa."
 
-#: sites/www.thunderbird.net/participate/index.html:155
+#: sites/www.thunderbird.net/participate/index.html:154
 msgid "Shape the <span class=\"txt-gradient\">Future</span>"
 msgstr "Định hình <span class=\"txt-gradient\">tương lai</span>"
 
-#: sites/www.thunderbird.net/participate/index.html:156
+#: sites/www.thunderbird.net/participate/index.html:155
 msgid "Improve software and lives by volunteering."
 msgstr "Cải thiện phần mềm và cuộc sống bằng hoạt động tình nguyện."
 
-#: sites/www.thunderbird.net/participate/index.html:157
+#: sites/www.thunderbird.net/participate/index.html:156
 msgid ""
 "Craft tools you want to use. Help others find and use software that respects their privacy and freedom. Become part of a better future for yourself and others by putting your talents to work at "
 "Thunderbird."
@@ -2065,7 +2021,7 @@ msgstr ""
 "Các công cụ thủ công mà bạn muốn sử dụng. Giúp người khác tìm và sử dụng phần mềm tôn trọng quyền riêng tư và tự do của họ. Trở thành một phần của tương lai tốt đẹp hơn cho bản thân và những người "
 "khác bằng cách sử dụng tài năng của bạn tại Thunderbird."
 
-#: sites/www.thunderbird.net/participate/index.html:160
+#: sites/www.thunderbird.net/participate/index.html:159
 msgid "Various gears all working in tandem with a heart, a code symbol, a magnifying glass displaying a very small bug, and the Thunderbird Logo in the centre of it all."
 msgstr "Tất cả các bánh răng khác nhau đều hoạt động song song với một trái tim, code symbol, kính lúp hiển thị một lỗi rất nhỏ và Logo Thunderbird ở trung tâm của tất cả."
 
@@ -2073,11 +2029,11 @@ msgstr "Tất cả các bánh răng khác nhau đều hoạt động song song v
 msgid "Thunderbird Privacy Policy"
 msgstr "Chính sách riêng tư Thunderbird"
 
-#: sites/www.thunderbird.net/survey/index.html:8 sites/www.thunderbird.net/survey/index.html:26
+#: sites/www.thunderbird.net/survey/index.html:8 sites/www.thunderbird.net/survey/index.html:25
 msgid "User Survey"
 msgstr "Khảo sát người dùng"
 
-#: sites/www.thunderbird.net/survey/index.html:27
+#: sites/www.thunderbird.net/survey/index.html:26
 msgid ""
 "<p>Hello from the Thunderbird team! We'd love if you could take approximately 5 minutes to share your experience using Thunderbird. Your anonymous feedback will help us identify our strengths and "
 "the areas we need to improve.</p> <p>Thanks for helping us make Thunderbird better for everyone!</p>"
@@ -2085,12 +2041,12 @@ msgstr ""
 "<p>Xin chào từ nhóm Thunderbird! Chúng tôi rất mong bạn có thể dành khoảng 5 phút để chia sẻ trải nghiệm của mình khi sử dụng Thunderbird. Phản hồi ẩn danh của bạn sẽ giúp chúng tôi xác định điểm "
 "mạnh của mình và những thứ chúng tôi cần cải thiện.</p> <p>Cảm ơn vì đã giúp chúng tôi cải thiện Thunderbird cho mọi người!</p>"
 
-#: sites/www.thunderbird.net/survey/index.html:33
+#: sites/www.thunderbird.net/survey/index.html:32
 #, python-format
 msgid "Please note: you will be redirected to <u>%(domain)s</u> to complete this survey."
 msgstr "Lưu ý rằng: bạn sẽ được chuyển hướng đến <u>%(domain)s</u> để hoàn thành cuộc khảo sát này."
 
-#: sites/www.thunderbird.net/survey/index.html:38
+#: sites/www.thunderbird.net/survey/index.html:37
 msgid "Start"
 msgstr "Bắt đầu"
 
@@ -2098,15 +2054,15 @@ msgstr "Bắt đầu"
 msgid "Thank You!"
 msgstr "Cảm ơn bạn!"
 
-#: sites/www.thunderbird.net/thank-you/index.html:21
+#: sites/www.thunderbird.net/thank-you/index.html:20
 msgid "A laptop with an stylized envelope floating in front of the screen. Three hearts of descending size float above the envelope."
 msgstr "Một chiếc máy tính xách tay với phong bì cách điệu lơ lửng trước màn hình. Ba trái tim có kích thước giảm dần nổi phía trên phong bì."
 
-#: sites/www.thunderbird.net/thank-you/index.html:23
+#: sites/www.thunderbird.net/thank-you/index.html:22
 msgid "Finish installing, and start enjoying <span class=\"txt-gradient\">Thunderbird</span>."
 msgstr "Cài đặt xong và bắt đầu thưởng thức <span class=\"txt-gradient\">Thunderbird</span>."
 
-#: sites/www.thunderbird.net/thank-you/index.html:25 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:92
+#: sites/www.thunderbird.net/thank-you/index.html:24 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:92
 #, python-format
 msgid "Having trouble? <a class=\"inline-link\" href=\"%(url)s\">Get help with your installation.</a>"
 msgstr "Gặp sự cố? <a class=\"inline-link\" href=\"%(url)s\">Nhận trợ giúp về trình cài đặt của bạn.</a>"
@@ -2252,7 +2208,7 @@ msgstr ""
 msgid "<strong>So today we’re asking you to help us out.</strong> If you get value from using Thunderbird, please consider giving a donation to support it!"
 msgstr "<strong>Vì vậy, hôm nay chúng tôi cần bạn giúp.</strong> Nếu bạn nhận được giá trị từ việc sử dụng Thunderbird, vui lòng cân nhắc quyên góp để hỗ trợ nó!"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:342 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:152
+#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:342 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:152 sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:84
 #: sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:342 sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:121
 #: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:84
 msgid "The Thunderbird Team"
@@ -2488,11 +2444,44 @@ msgstr ""
 "Vì vậy, hôm nay chúng tôi yêu cầu sự giúp đỡ của bạn để giữ cho Thunderbird tồn tại và phát triển. Nếu bạn nhận được giá trị từ việc sử dụng\n"
 "        Thunderbird, hãy cân nhắc việc quyên góp để hỗ trợ nó!"
 
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:9 sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:19 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:9
+#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:19
+msgid "Thank you for choosing Thunderbird!"
+msgstr "Cảm ơn bạn đã chọn Thunderbird!"
+
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:20 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:20
+msgid "Thank you for choosing <span>Thunderbird!</span>"
+msgstr "Cảm ơn bạn đã chọn <span>Thunderbird!</span>"
+
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:23 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:23
+msgid "Thunderbird is proud to be funded by our community, not by selling personal data or showing ads in your inbox."
+msgstr "Thunderbird tự hào được cộng đồng của chúng tôi tài trợ chứ không phải bằng cách bán dữ liệu cá nhân hoặc hiển thị quảng cáo trong hộp thư đến của bạn."
+
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:38 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:38
+msgid "Click here to <b>Donate!</b>"
+msgstr "Nhấn vào đây để <b>quyên góp!</b>"
+
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:53 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:53
+msgid "Help keep <b>Thunderbird Alive!</b>"
+msgstr "Hãy giúp <b>Thunderbird tồn tại!</b>"
+
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:62 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:62
+msgid "Thunderbird’s mission is to give you the best privacy-respecting, customizable communication experience possible. Free for everyone to install and enjoy!"
+msgstr "Sứ mệnh của Thunderbird là mang đến cho bạn trải nghiệm giao tiếp có thể tùy chỉnh, tôn trọng quyền riêng tư tốt nhất có thể. Miễn phí cho mọi người cài đặt và thưởng thức!"
+
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:65 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:65
+msgid "Maintaining expensive servers, fixing bugs, developing new features, and hiring talented engineers are crucial for this mission."
+msgstr "Bảo trì các máy chủ đắt tiền, sửa lỗi, phát triển các tính năng mới và thuê các kỹ sư tài năng là những điều quan trọng cho sứ mệnh này."
+
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:68 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:68
+msgid "Your support is vital in keeping Thunderbird development alive and thriving. If you get value from using Thunderbird, please consider giving a donation to support it."
+msgstr "Hỗ trợ của bạn rất quan trọng trong việc duy trì phát triển của Thunderbird. Nếu bạn nhận được giá trị từ việc sử dụng Thunderbird, vui lòng cân nhắc quyên góp để hỗ trợ nó."
+
 #: sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:6
 msgid "Experience the future of Thunderbird"
 msgstr "Trải nghiệm tương lai của Thunderbird"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:42
+#: sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:41
 #, python-format
 msgid ""
 "<p>Join the Beta today, and enjoy an exciting preview of the new features and visual enhancements coming to Thunderbird %(beta_version)s. You can still run Thunderbird %(current_version)s after "
@@ -2505,8 +2494,8 @@ msgstr ""
 " bản beta</a>.</p> <p>Thunderbird Beta là phần mềm truy cập sớm, vì vậy vui lòng báo cáo lỗi bằng menu Trợ giúp. Bạn có thể tìm sự trợ giúp qua “Nhận trợ giúp” và “Chia sẻ ý tưởng và phản hồi” cũng "
 "như diễn đàn <a href=\"%(topic_box_url)s\">Beta Topicbox</a>.</p>"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:52 sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:55
-#: sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:59
+#: sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:51 sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:54
+#: sites/www.thunderbird.net/thunderbird/115.0/beta-appeal/index.html:58
 msgid "Install now"
 msgstr "Cài đặt ngay"
 
@@ -2836,64 +2825,32 @@ msgstr ""
 "Supernova đang không ngừng phát triển. Trong suốt năm tới, chúng tôi sẽ cung cấp nhiều cải tiến cho các tính năng\n"
 "        của Supernova và giới thiệu những cái mới. Nâng cấp lên phiên bản 115 và trải nghiệm tương lai của Thunderbird!"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:9 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:19
-msgid "Thank you for choosing Thunderbird!"
-msgstr "Cảm ơn bạn đã chọn Thunderbird!"
-
-#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:20
-msgid "Thank you for choosing <span>Thunderbird!</span>"
-msgstr "Cảm ơn bạn đã chọn <span>Thunderbird!</span>"
-
-#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:23
-msgid "Thunderbird is proud to be funded by our community, not by selling personal data or showing ads in your inbox."
-msgstr "Thunderbird tự hào được cộng đồng của chúng tôi tài trợ chứ không phải bằng cách bán dữ liệu cá nhân hoặc hiển thị quảng cáo trong hộp thư đến của bạn."
-
-#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:38
-msgid "Click here to <b>Donate!</b>"
-msgstr "Nhấn vào đây để <b>quyên góp!</b>"
-
-#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:53
-msgid "Help keep <b>Thunderbird Alive!</b>"
-msgstr "Hãy giúp <b>Thunderbird tồn tại!</b>"
-
-#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:62
-msgid "Thunderbird’s mission is to give you the best privacy-respecting, customizable communication experience possible. Free for everyone to install and enjoy!"
-msgstr "Sứ mệnh của Thunderbird là mang đến cho bạn trải nghiệm giao tiếp có thể tùy chỉnh, tôn trọng quyền riêng tư tốt nhất có thể. Miễn phí cho mọi người cài đặt và thưởng thức!"
-
-#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:65
-msgid "Maintaining expensive servers, fixing bugs, developing new features, and hiring talented engineers are crucial for this mission."
-msgstr "Bảo trì các máy chủ đắt tiền, sửa lỗi, phát triển các tính năng mới và thuê các kỹ sư tài năng là những điều quan trọng cho sứ mệnh này."
-
-#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:68
-msgid "Your support is vital in keeping Thunderbird development alive and thriving. If you get value from using Thunderbird, please consider giving a donation to support it."
-msgstr "Hỗ trợ của bạn rất quan trọng trong việc duy trì phát triển của Thunderbird. Nếu bạn nhận được giá trị từ việc sử dụng Thunderbird, vui lòng cân nhắc quyên góp để hỗ trợ nó."
-
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:6 sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:45
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:6 sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:44
 msgid "Welcome to the evolution of Supernova!"
 msgstr "Chào mừng đến với sự phát triển của Supernova!"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:38
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:37
 msgid "Thunderbird 128 Nebula"
 msgstr "Thunderbird 128 Nebula"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:47
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:46
 msgid "With revolutionary code improvements, Nebula sets the stage for faster delivery of new features, reinforced stability, stellar quality-of-life enhancements and visual refinements."
 msgstr ""
 "Với những cải tiến mã mang tính cách mạng, Nebula tạo tiền đề cho việc cung cấp các tính năng mới nhanh hơn, tăng cường độ ổn định, cải tiến chất lượng cuộc sống vượt trội và cải tiến hình ảnh."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:64
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:63
 msgid "Fast and Fluid"
 msgstr "Nhanh chóng và trôi chảy"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:66
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:65
 msgid "Feel the difference smarter code makes possible! Interactions with your message list are faster, the email space is more responsive, and Thunderbird is more stable and reliable."
 msgstr "Hãy cảm nhận sự khác biệt mà mã tối ưu hơn có thể tạo ra! Tương tác với danh sách thư của bạn nhanh hơn, không gian email phản hồi nhanh hơn và Thunderbird ổn định và đáng tin cậy hơn."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:79
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:78
 msgid "Cards View"
 msgstr "Chế độ xem thẻ"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:83
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:82
 msgid ""
 "The updated design makes scanning your emails faster, with a more attractive layout and an improved threads experience. Plus, the height of email cards adjusts automatically based on your settings, "
 "so everything looks just right."
@@ -2901,29 +2858,29 @@ msgstr ""
 "Thiết kế được cập nhật giúp quét email của bạn nhanh hơn, với bố cục hấp dẫn hơn và trải nghiệm chủ đề được cải thiện. Ngoài ra, chiều cao của thẻ email sẽ tự động điều chỉnh dựa trên cài đặt của "
 "bạn để mọi thứ trông vừa phải."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:99
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:98
 msgid "Accent Colors"
 msgstr "Màu nhấn"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:103
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:102
 msgid "Enhanced theme compatibility, especially for Linux users on Ubuntu and Mint. Your Thunderbird will better blend with your desktop environment, seamlessly matching the system’s accent colors."
 msgstr ""
 "Khả năng tương thích chủ đề nâng cao, đặc biệt đối với người dùng Linux trên Ubuntu và Mint. Thunderbird của bạn sẽ hòa hợp tốt hơn với môi trường máy tính để bàn của bạn, kết hợp hoàn hảo với màu "
 "nhấn của hệ thống."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:118
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:117
 msgid "Folder Pane"
 msgstr "Ngăn thư mục"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:122
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:121
 msgid "A bundle of improvements including faster rendering and searching of unified folders, multi-folder selection capabilities, and better recall of message thread states."
 msgstr "Một loạt cải tiến bao gồm kết xuất và tìm kiếm các thư mục hợp nhất nhanh hơn, khả năng chọn nhiều thư mục và thu hồi tốt hơn các trạng thái chủ đề thư."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:136
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:135
 msgid "Rust Revolution"
 msgstr "Sự phát triển của Rust"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:138
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:137
 msgid ""
 "We've overcome major roadblocks to bring Rust into Thunderbird. This paves the way for better code, shared features between desktop and mobile, and faster development time. It's a game-changer for "
 "our developers and for our users."
@@ -2931,35 +2888,35 @@ msgstr ""
 "Chúng tôi đã vượt qua những trở ngại lớn để đưa Rust vào Thunderbird. Điều này mở đường cho mã tốt hơn, các tính năng được chia sẻ giữa máy tính để bàn và thiết bị di động và thời gian phát triển "
 "nhanh hơn. Đó là công cụ thay đổi cuộc chơi cho các nhà phát triển và người dùng của chúng tôi."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:154
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:153
 msgid "Streamlined menu navigation with better visual cues and less cognitive burden to make your email experience more efficient and more enjoyable."
 msgstr "Điều hướng menu đã được đơn giản hóa, lời nhắc trực quan, hợp lý hơn và logic vận hành tốt hơn để việc gửi và nhận email hiệu quả hơn và thú vị hơn."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:167
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:166
 msgid "Native Windows Notifications"
 msgstr "Thông báo Native trên Windows"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:170
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:169
 msgid "Fixed and fully functional! Clicking a notification dismisses it, brings Thunderbird to the foreground, and selects the message. Notifications now disappear when Thunderbird closes."
 msgstr "Đã sửa và đầy đủ chức năng! Việc nhấp vào thông báo sẽ loại bỏ thông báo đó, đưa Thunderbird lên trước màn hình của bạn và chọn thư. Thông báo bây giờ sẽ biến mất khi Thunderbird đóng."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:182
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:181
 msgid "Context Menu Improvements"
 msgstr "Cải tiến menu ngữ cảnh"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:185
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:184
 msgid "Reorganized for a smoother experience, with primary actions now as icons for quick access."
 msgstr "Được sắp xếp lại để có trải nghiệm mượt mà hơn, với các hành động chính hiện dưới dạng biểu tượng để truy cập nhanh."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:196
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:195
 msgid "Account Color Customization"
 msgstr "Tùy chỉnh màu tài khoản"
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:199
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:198
 msgid "By popular demand, you can now customize the color of your account icons. These colors also show up in the “From” selection when composing emails."
 msgstr "Theo nhu cầu phổ biến, giờ đây bạn có thể tùy chỉnh màu sắc của biểu tượng tài khoản của mình. Những màu này cũng hiển thị trong phần lựa chọn “Từ” khi soạn email."
 
-#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:210
+#: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:209
 msgid "“Nebula” enables an email experience that shines brighter than ever. Expect more updates and helpful new features to materialize over the upcoming months."
 msgstr "“Nebula” cho phép trải nghiệm email tỏa sáng hơn bao giờ hết. Nhiều thông tin cập nhật hơn và các tính năng mới hữu ích sẽ xuất hiện trong những tháng tới."
 
@@ -3249,79 +3206,79 @@ msgstr "Đăng ký để xử lý các tệp .ics, cho phép bạn xem trước 
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 91.0 and up</a>."
 msgstr "Bạn có thể xem chi tiết về tất cả các thay đổi của chúng tôi trong ghi chú phát hành cho <a href=\"%(release)s\">Thunderbird 91.0 trở lên</a>."
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:20 sites/www.thunderbird.net/thunderbird/all/index.html:167
+#: sites/www.thunderbird.net/thunderbird/all/index.html:19 sites/www.thunderbird.net/thunderbird/all/index.html:166
 msgid "Get <span class=\"txt-gradient\">Thunderbird</span>"
 msgstr "Tải xuống <span class=\"txt-gradient\">Thunderbird</span>"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:22
+#: sites/www.thunderbird.net/thunderbird/all/index.html:21
 msgid "These are officially maintained and distributed by Thunderbird. Download the latest Release version unless you wish to test the Beta version and report bugs."
 msgstr "Chúng được duy trì và phân phối chính thức bởi Thunderbird. Tải xuống phiên bản chính thức mới nhất trừ khi bạn muốn thử nghiệm phiên bản Beta và báo cáo lỗi."
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:26
+#: sites/www.thunderbird.net/thunderbird/all/index.html:25
 msgid "The Daily version is an unstable testing and development platform, make sure you back up important data regularly!"
 msgstr "Phiên bản Daily là một nền tảng thử nghiệm và phát triển không ổn định, hãy đảm bảo bạn sao lưu dữ liệu quan trọng thường xuyên!"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:29
+#: sites/www.thunderbird.net/thunderbird/all/index.html:28
 msgid "Thunderbird Release is available for testing purposes only until releases are deemed stable enough for official support. Make sure you backup important data regularly!"
 msgstr "Bản phát hành Thunderbird chỉ có sẵn cho mục đích thử nghiệm cho đến khi đủ ổn định để được hỗ trợ chính thức. Hãy sao lưu dữ liệu quan trọng của bạn thường xuyên!"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:34
+#: sites/www.thunderbird.net/thunderbird/all/index.html:33
 msgid "Locale"
 msgstr "Ngôn ngữ"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:48
+#: sites/www.thunderbird.net/thunderbird/all/index.html:47
 msgid "Release Channel"
 msgstr "Kênh chính thức"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:59
+#: sites/www.thunderbird.net/thunderbird/all/index.html:58
 msgid "Operating System"
 msgstr "Hệ điều hành"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:71
+#: sites/www.thunderbird.net/thunderbird/all/index.html:70
 msgid "Need a specific installer?"
 msgstr "Cần một trình cài đặt cụ thể?"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:75
+#: sites/www.thunderbird.net/thunderbird/all/index.html:74
 msgid "Installer Type"
 msgstr "Loại trình cài đặt"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:112
+#: sites/www.thunderbird.net/thunderbird/all/index.html:111
 msgid "Release Information"
 msgstr "Thông tin phát hành"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:117
+#: sites/www.thunderbird.net/thunderbird/all/index.html:116
 msgid "Other Downloads"
 msgstr "Tải xuống khác"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:120
+#: sites/www.thunderbird.net/thunderbird/all/index.html:119
 msgid "Microsoft Apps Store"
 msgstr "Cửa hàng ứng dụng Microsoft"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:125
+#: sites/www.thunderbird.net/thunderbird/all/index.html:124
 msgid "Flathub"
 msgstr "Flathub"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:128
+#: sites/www.thunderbird.net/thunderbird/all/index.html:127
 msgid "Snap Store"
 msgstr "Cửa hàng Snap"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:135
+#: sites/www.thunderbird.net/thunderbird/all/index.html:134
 msgid "More Information"
 msgstr "Thông tin chi tiết"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:138 sites/www.thunderbird.net/thunderbird/all/index.html:152
+#: sites/www.thunderbird.net/thunderbird/all/index.html:137 sites/www.thunderbird.net/thunderbird/all/index.html:151
 msgid "System Requirements"
 msgstr "Yêu cầu hệ thống"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:149
+#: sites/www.thunderbird.net/thunderbird/all/index.html:148
 msgid "More Information For Mobile"
 msgstr "Thông tin chi tiết dành cho ứng dụng di động"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:168
+#: sites/www.thunderbird.net/thunderbird/all/index.html:167
 msgid "These are officially maintained and distributed by Thunderbird."
 msgstr "Chúng được duy trì và phân phối chính thức bởi Thunderbird."
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:169
+#: sites/www.thunderbird.net/thunderbird/all/index.html:168
 msgid "Jump to the language you wish to download by using the legend below."
 msgstr "Chuyển đến ngôn ngữ bạn muốn tải xuống bằng cách sử dụng chú giải bên dưới."
 
@@ -3329,13 +3286,216 @@ msgstr "Chuyển đến ngôn ngữ bạn muốn tải xuống bằng cách sử
 msgid "Releases"
 msgstr "Các bản phát hành"
 
-#: sites/www.thunderbird.net/thunderbird/releases/index.html:12 sites/www.thunderbird.net/thunderbird/releases/index.html:22
+#: sites/www.thunderbird.net/thunderbird/releases/index.html:11 sites/www.thunderbird.net/thunderbird/releases/index.html:21
 msgid "Thunderbird Release Notes Atom Feed"
 msgstr "Nguồn cấp dữ liệu Atom cho ghi chú phát hành Thunderbird"
 
-#: sites/www.thunderbird.net/thunderbird/releases/index.html:19
+#: sites/www.thunderbird.net/thunderbird/releases/index.html:18
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Ghi chú phát hành Thunderbird dành riêng cho từng phiên bản của ứng dụng. Chọn phiên bản của bạn từ danh sách dưới đây để xem ghi chú phát hành cho nó."
+
+#~ msgid ""
+#~ "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded\n"
+#~ "with great features!"
+#~ msgstr ""
+#~ "Thunderbird là ứng dụng email miễn phí, dễ dàng cài đặt và tùy chỉnh - và đi kèm với\n"
+#~ "nhiều tính năng tuyệt vời!"
+
+#~ msgid ""
+#~ "\n"
+#~ "          Meet Thunderbird, the <strong>email</strong>,\n"
+#~ "          <strong>calendar</strong>, and <strong>contacts</strong> app that maximizes your freedoms.\n"
+#~ "          "
+#~ msgstr ""
+#~ "\n"
+#~ "          Làm quen với Thunderbird, ứng dụng <strong>email</strong>,\n"
+#~ "          <strong>lịch</strong>, và <strong>danh bạ</strong> giúp tối đa hóa quyền tự do của bạn.\n"
+#~ "          "
+
+#~ msgid ""
+#~ "Thunderbird is a free and open-source software project founded in 2003 to make communicating and collaborating better. We are supported by the talent and donations of thousands of generous "
+#~ "individuals and are backed by Mozilla. Essential values guide us and make our work relevant. Read further to learn more."
+#~ msgstr ""
+#~ "Thunderbird là một dự án phần mềm mã nguồn mở và miễn phí được thành lập vào năm 2003 nhằm giúp việc giao tiếp và cộng tác tốt hơn. Chúng tôi được hỗ trợ bởi tài năng và sự đóng góp của hàng nghìn "
+#~ "cá nhân hào phóng và được hỗ trợ bởi Mozilla. Các giá trị thiết yếu hướng dẫn chúng tôi và làm cho công việc của chúng tôi trở nên phù hợp. Đọc thêm để tìm hiểu thêm."
+
+#~ msgid ""
+#~ "Anyone can help make Thunderbird better. Programmers can contribute features they are passionate about or improve the existing code. Those who are multilingual can make Thunderbird accessible to "
+#~ "everyone. Those willing can test new versions of Thunderbird and document issues. There are many ways to become part of a thriving community that makes Thunderbird unique. And if you don't have the "
+#~ "time to volunteer, you can help support the project through donations."
+#~ msgstr ""
+#~ "Bất cứ ai cũng có thể giúp làm cho Thunderbird tốt hơn. Lập trình viên có thể đóng góp những tính năng mà họ đam mê hoặc cải thiện mã hiện có. Những người biết đa ngôn ngữ có thể giúp mọi người có "
+#~ "thể tiếp cận Thunderbird. Những người sẵn sàng có thể thử nghiệm các phiên bản mới của Thunderbird và ghi lại các vấn đề. Có nhiều cách để trở thành một phần của cộng đồng thịnh vượng khiến "
+#~ "Thunderbird trở nên độc đáo. Và nếu bạn không có thời gian tham gia tình nguyện, bạn có thể giúp hỗ trợ dự án thông qua quyên góp."
+
+#~ msgid "Supported by <span class=\"txt-gradient\">Mozilla</span>"
+#~ msgstr "Được hỗ trợ bởi <span class=\"txt-gradient\">Mozilla</span>"
+
+#~ msgid ""
+#~ "Thunderbird operates in a for-profit subsidiary of the non-profit Mozilla Foundation. This grants us flexibility in offering optional paid services to sustain Thunderbird's development far into the "
+#~ "future."
+#~ msgstr ""
+#~ "Thunderbird hoạt động trong một công ty con vì lợi nhuận của tổ chức phi lợi nhuận Mozilla Foundation. Điều này cho phép chúng tôi linh hoạt trong việc cung cấp các dịch vụ trả phí tùy chọn để duy "
+#~ "trì phát triển của Thunderbird trong tương lai xa."
+
+#~ msgid "We have a growing team of talented individuals employed to develop and maintain Thunderbird, interface with partner organizations, and maximize the reach of Thunderbird throughout the world."
+#~ msgstr ""
+#~ "Chúng tôi có một đội ngũ gồm những cá nhân tài năng đang phát triển được tuyển dụng để phát triển và duy trì Thunderbird, giao tiếp với các tổ chức đối tác và tối đa hóa phạm vi tiếp cận của "
+#~ "Thunderbird trên toàn thế giới."
+
+#~ msgid "Donations"
+#~ msgstr "Quyên góp"
+
+#~ msgid ""
+#~ "MZLA Corporation is the for-profit organization sustaining the free software mission of Thunderbird. Our work is to provide open source apps that are secure, private and available for users around "
+#~ "the world. When you donate you help us:"
+#~ msgstr ""
+#~ "Tập đoàn MZLA là tổ chức vì lợi nhuận duy trì sứ mệnh phần mềm miễn phí của Thunderbird. Công việc của chúng tôi là cung cấp các ứng dụng nguồn mở an toàn, riêng tư và có sẵn cho người dùng trên "
+#~ "toàn thế giới. Khi bạn quyên góp, bạn sẽ giúp chúng tôi:"
+
+#, python-format
+#~ msgid "<a class=\"dotted\" href=\"%(url)s\">Modify</a> an existing monthly donation."
+#~ msgstr "<a class=\"dotted\" href=\"%(url)s\">Sửa đổi</a> khoản quyên góp hàng tháng hiện có."
+
+#~ msgid ""
+#~ "Organizations deploying Thunderbird at scale or who share our passion for expanding digital freedoms can make a difference by becoming a one-time or recurring corporate supporter. Small to medium "
+#~ "size contributions can be made with the form above. For donations greater than $5000 USD please contact our business team. Thank you in advance for your generous support!"
+#~ msgstr ""
+#~ "Các tổ chức triển khai Thunderbird trên quy mô lớn hoặc có chung niềm đam mê mở rộng quyền tự do kỹ thuật số với chúng tôi có thể tạo ra sự khác biệt bằng cách trở thành người hỗ trợ doanh nghiệp "
+#~ "một lần hoặc định kỳ. Đóng góp quy mô vừa và nhỏ có thể được thực hiện bằng biểu mẫu trên. Đối với các khoản quyên góp lớn hơn $5000 USD, vui lòng liên hệ với nhóm kinh doanh của chúng tôi. Cảm ơn "
+#~ "bạn trước vì sự hỗ trợ hào phóng của bạn!"
+
+#~ msgid "If you need help with a contribution to MZLA/Thunderbird, please fill out this form and a Thunderbird donor care representative will get back to you as soon as possible."
+#~ msgstr "Nếu bạn cần trợ giúp về khoản đóng góp cho MZLA/Thunderbird, vui lòng điền vào biểu mẫu này và đại diện nhà tài trợ của Thunderbird sẽ liên hệ lại với bạn sớm nhất có thể."
+
+#, python-format
+#~ msgid ""
+#~ "Unfortunately, donor care representatives are unable to offer support or help with Thunderbird technical issues. For technical support, please visit our <a href=\"%(support_url)s\">support page.</a>"
+#~ msgstr ""
+#~ "Rất tiếc, đại diện nhà tài trợ không thể cung cấp hỗ trợ hoặc trợ giúp về các vấn đề kỹ thuật của Thunderbird. Để được hỗ trợ kỹ thuật, vui lòng truy cập <a href=\"%(support_url)s\">trang hỗ trợ của"
+#~ " chúng tôi.</a>"
+
+#, python-format
+#~ msgid ""
+#~ "<p>You can <a href=\"%(donate)s\">donate online</a> securely by credit card or PayPal. Google Pay, Apple Pay, and bank transfers through SEPA, iDEAL and ACH are also available online.<br/> "
+#~ "<strong>Give in your local currency!</strong> On <a href=\"%(donate)s\">our online form</a>, use the drop down menu next to the amount. You will be charged in the currency you choose to give "
+#~ "with.<br/> <strong>Additionally you can</strong> give offline in USD by mailing a check or money order made payable to \"MZLA Technologies Corp\". Mail to:</p> <ul class=\"check-address\"> "
+#~ "<li>MZLA</li> <li>PO Box 25718</li> <li>Pasadena CA 91185-5718</li> </ul> <p>Please include your email address on the memo line of your check to help us track and attribute your gift.</p> "
+#~ "<p><strong>Give the gift of your time!</strong> If you would like to learn how to contribute to Thunderbird in other ways such as coding, translating or testing, please visit our <a "
+#~ "href=\"%(ways_to_help)s\">Participate</a> page.</p>"
+#~ msgstr ""
+#~ "<p>Bạn có thể <a href=\"%(donate)s\">quyên góp trực tuyến</a> an toàn bằng thẻ tín dụng hoặc PayPal. Google Pay, Apple Pay, và chuyển khoản ngân hàng qua SEPA, iDEAL và ACH cũng có sẵn trực "
+#~ "tuyến.<br/> <strong>Quyên góp bằng đơn vị giá của bạn!</strong> Trên <a href=\"%(donate)s\">biểu mẫu trực tuyến của chúng tôi</a>, sử dụng menu thả xuống bên cạnh số tiền. Bạn sẽ bị tính phí bằng "
+#~ "loại tiền bạn chọn để cung cấp.<br/> <strong>Ngoài ra bạn có thể</strong> quyên góp ngoại tuyến bằng USD bằng cách gửi séc hoặc phiếu chuyển tiền được thanh toán cho \"MZLA Technologies Corp\". Gửi "
+#~ "mail tới:</p> <ul class=\"check-address\"> <li>MZLA</li> <li>PO Box 25718</li> <li>Pasadena CA 91185-5718</li> </ul> <p>Vui lòng ghi địa chỉ email của bạn vào dòng ghi chú trên séc để giúp chúng tôi"
+#~ " theo dõi và phân bổ quà tặng của bạn.</p> <p><strong>Tặng quà theo thời gian của bạn!</strong> Nếu bạn muốn tìm hiểu cách đóng góp cho Thunderbird theo những cách khác như viết mã, dịch thuật hoặc "
+#~ "thử nghiệm, vui lòng xem trang <a href=\"%(ways_to_help)s\">tham gia</a> của chúng tôi.</p>"
+
+#, python-format
+#~ msgid ""
+#~ "Access your donation account settings using the 'Manage My Donation' button on your recent donation confirmation email. There you can change the amount, frequency, payment method and charge date. "
+#~ "You can also cancel your recurring donation plan. If you run into any issues you can always <a href=\"%(help)s\">contact us</a>!"
+#~ msgstr ""
+#~ "Truy cập cài đặt tài khoản quyên góp của bạn bằng cách sử dụng nút 'Quản lý quyên góp của tôi' trên email xác nhận quyên góp gần đây của bạn. Ở đó bạn có thể thay đổi số tiền, tần suất, phương thức "
+#~ "thanh toán và ngày tính phí. Bạn cũng có thể hủy kế hoạch quyên góp định kỳ của mình. Nếu bạn gặp phải bất kỳ vấn đề nào, bạn luôn có thể <a href=\"%(help)s\">liên hệ với chúng tôi</a>!"
+
+#, python-format
+#~ msgid ""
+#~ "Anyone can access tech support for Thunderbird by visiting the <a href=\"%(url)s\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial "
+#~ "gifts."
+#~ msgstr ""
+#~ "Bất kỳ ai cũng có thể truy cập hỗ trợ kỹ thuật cho Thunderbird bằng cách truy cập <a href=\"%(url)s\">diễn đàn hỗ trợ</a>. Thunderbird không cung cấp hỗ trợ kỹ thuật hoặc hỗ trợ kỹ thuật nâng cao để"
+#~ " đổi lấy quà tặng tài chính."
+
+#~ msgid ""
+#~ "Gifts to Thunderbird are <strong>not tax-deductible as charitable gifts</strong>, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-"
+#~ "platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future development."
+#~ msgstr ""
+#~ "Quà tặng cho Thunderbird <strong>không được khấu trừ thuế như quà tặng từ thiện</strong>, nhưng được đánh giá rất cao. Cung cấp cho Thunderbird hỗ trợ phát triển ứng dụng lập lịch và email đa nền "
+#~ "tảng mã nguồn mở hàng đầu của chúng tôi, miễn phí cho mục đích sử dụng cá nhân và doanh nghiệp. Món quà của bạn sẽ giúp đảm bảo nó luôn như vậy và sẽ hỗ trợ sự phát triển trong tương lai."
+
+#, python-format
+#~ msgid ""
+#~ "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box 'Donate as an Organization' and include your company name. The receipt you receive to the email address used to "
+#~ "make your contribution will include your business information."
+#~ msgstr ""
+#~ "Khi bạn quyên góp qua <a href=\"%(donate)s\">biểu mẫu trực tuyến</a> của chúng tôi, chỉ cần đánh dấu vào hộp kiểm 'Quyên góp với tư cách là tổ chức' và bao gồm tên công ty của bạn. Biên lai bạn nhận"
+#~ " được đến địa chỉ email được sử dụng để đóng góp sẽ bao gồm thông tin doanh nghiệp của bạn."
+
+#, python-format
+#~ msgid ""
+#~ "Your donation may be eligible for a refund. You must contact us within 15 days after the date of the donation. If you believe this donation was made without your authorization, please contact us "
+#~ "immediately. Donations made via ACH or SEPA direct debit are ineligible for refunds. Due to the nature of these transactions our policy prioritizes minimizing refund fraud. We sincerely appreciate "
+#~ "your understanding. If you have any further questions, <a href=\"%(help)s\">please contact us</a>."
+#~ msgstr ""
+#~ "Khoản đóng góp của bạn có thể đủ điều kiện để được hoàn lại. Bạn phải liên hệ với chúng tôi trong vòng 15 ngày sau ngày quyên góp. Nếu bạn tin rằng khoản quyên góp này được thực hiện mà không có sự "
+#~ "cho phép của bạn, vui lòng liên hệ với chúng tôi ngay lập tức. Các khoản quyên góp được thực hiện thông qua ghi nợ trực tiếp ACH hoặc SEPA sẽ không đủ điều kiện để được hoàn lại tiền. Do tính chất "
+#~ "của các giao dịch này, chính sách của chúng tôi ưu tiên giảm thiểu gian lận hoàn tiền. Chúng tôi chân thành đánh giá cao sự hiểu biết của bạn. Nếu bạn có thêm bất kỳ câu hỏi nào, <a "
+#~ "href=\"%(help)s\">vui lòng liên hệ với chúng tôi</a>."
+
+#~ msgid "Are there additional fees on my donation?"
+#~ msgstr "Có phí bổ sung cho khoản đóng góp của tôi hay không?"
+
+#~ msgid ""
+#~ "We do not collect any additional fees or taxes. When you donate in your local currency you are not charged a conversion fee by your credit card. Optionally, you can choose to cover our transaction "
+#~ "costs on your donation. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to "
+#~ "research any additional external taxes or fees that may be applied by regulators such as your bank or tax authority."
+#~ msgstr ""
+#~ "Chúng tôi không thu thêm bất kỳ khoản phí hoặc thuế nào. Khi bạn quyên góp bằng tiền tệ địa phương của mình, bạn sẽ không bị tính phí chuyển đổi bằng thẻ tín dụng của mình. Theo tùy chọn, bạn có thể"
+#~ " chọn trang trải chi phí giao dịch của chúng tôi cho khoản đóng góp của mình. Điều này là hoàn toàn tự nguyện và bạn có thể chọn tham gia hoặc không tham gia bằng cách sử dụng hộp kiểm trên biểu mẫu"
+#~ " quyên góp của chúng tôi. Tổ chức của chúng tôi có trụ sở tại Hoa Kỳ. Chúng tôi khuyến khích các nhà tài trợ nghiên cứu bất kỳ loại thuế hoặc phí bên ngoài bổ sung nào có thể được áp dụng bởi các cơ"
+#~ " quan quản lý như ngân hàng hoặc cơ quan thuế của bạn."
+
+#~ msgid "What are your transaction costs on donations?"
+#~ msgstr "Chi phí giao dịch của bạn đối với các khoản đóng góp là gì?"
+
+#~ msgid ""
+#~ "When you opt to cover our transaction costs, you're covering both our processing and donation platform costs. The costs associated with our robust online donation system allows us to continue "
+#~ "scaling sustainably as our supporter-base grows. Our donation platform and payment processor partners reduce internal costs associated with maintaining our own system from scratch. Our partners "
+#~ "ensure we can accept a wide range of currencies/payment methods and remain PCI compliant in all of the countries that we accept gifts from. The transaction costs donors may choose to cover are based"
+#~ " on an estimate of our overall costs. Due to many factors actual costs may fluctuate."
+#~ msgstr ""
+#~ "Khi bạn chọn thanh toán chi phí giao dịch của chúng tôi, bạn sẽ thanh toán cả chi phí nền tảng xử lý và quyên góp của chúng tôi. Chi phí liên quan đến hệ thống quyên góp trực tuyến mạnh mẽ của chúng"
+#~ " tôi cho phép chúng tôi tiếp tục mở rộng quy mô một cách bền vững khi cơ sở người ủng hộ của chúng tôi phát triển. Nền tảng quyên góp và các đối tác xử lý thanh toán của chúng tôi giảm chi phí nội "
+#~ "bộ liên quan đến việc duy trì hệ thống của chính chúng tôi từ đầu. Các đối tác của chúng tôi đảm bảo rằng chúng tôi có thể chấp nhận nhiều loại tiền tệ/phương thức thanh toán và vẫn tuân thủ PCI ở "
+#~ "tất cả các quốc gia mà nơi chúng tôi chấp nhận quà. Chi phí giao dịch mà các nhà tài trợ có thể chọn chi trả dựa trên ước tính tổng chi phí của chúng tôi. Do nhiều yếu tố chi phí thực tế có thể dao "
+#~ "động."
+
+#~ msgid ""
+#~ "Thunderbird is the leading open source cross-platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future "
+#~ "development."
+#~ msgstr ""
+#~ "Thunderbird là ứng dụng khách về lịch và email đa nền tảng mã nguồn mở hàng đầu, miễn phí cho doanh nghiệp và cá nhân. Quyên góp của bạn sẽ giúp đảm bảo nó vẫn như vậy và sẽ hỗ trợ sự phát triển "
+#~ "trong tương lai."
+
+#~ msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a wholly owned subsidiary of Mozilla Foundation."
+#~ msgstr "Thunderbird là một dự án của MZLA Technologies Corporation, là công ty con thuộc sở hữu hoàn toàn của Mozilla Foundation."
+
+#~ msgid ""
+#~ "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird. Companies and individuals support the development of the product now and in the "
+#~ "future."
+#~ msgstr ""
+#~ "Hiện tại, phần lớn doanh thu của Thunderbird đến từ những món quà hào phóng từ người dùng và bạn bè của Thunderbird. Các công ty và cá nhân hỗ trợ sự phát triển của sản phẩm hiện tại và trong tương "
+#~ "lai."
+
+#, python-format
+#~ msgid ""
+#~ "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. If you need technical support, please head over to <a href=\"%(support)s\">Thunderbird "
+#~ "Support</a> for assistance."
+#~ msgstr ""
+#~ "Nếu bạn có câu hỏi về việc quyên góp cho Thunderbird, vui lòng liên hệ với chúng tôi qua <a href=\"%(help)s\">biểu mẫu này</a>. Nếu bạn cần hỗ trợ kỹ thuật, vui lòng truy cập <a "
+#~ "href=\"%(support)s\">hỗ trợ Thunderbird</a> để được hỗ trợ."
+
+#~ msgid ""
+#~ "\n"
+#~ "        Thunderbird keeps getting better. Subscribe to our newsletter and follow us on social media to stay\n"
+#~ "        informed.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "        Thunderbird ngày càng tốt hơn. Đăng ký nhận bản tin của chúng tôi và theo dõi chúng tôi trên\n"
+#~ "        phương tiện truyền thông xã hội để duy trì cập nhật tin tưc.\n"
+#~ "        "
 
 #~ msgid "laptop frame"
 #~ msgstr "khung máy tính xách tay"
