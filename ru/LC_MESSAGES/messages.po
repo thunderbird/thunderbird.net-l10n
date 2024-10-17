@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-10-16 13:50-0700\n"
-"PO-Revision-Date: 2024-10-17 08:50+0000\n"
+"PO-Revision-Date: 2024-10-17 08:58+0000\n"
 "Last-Translator: Valery Ledovskoy <valery@ledovskoy.com>\n"
 "Language-Team: none\n"
 "Language: ru\n"
@@ -1071,7 +1071,7 @@ msgstr "Если вам нужна помощь с пожертвованиям�
 #: sites/www.thunderbird.net/donate/help/index.html:33
 #, python-format
 msgid "<strong>Use the <a href=\"%(modify)s\">Donor Portal</a> to access your receipts and update or cancel your recurring plan.</strong>"
-msgstr ""
+msgstr "<strong>Используйте <a href=\"%(modify)s\">Портал доноров</a>, чтобы получить доступ к вашим квитанциям и обновить или отменить свой регулярный план.</strong>"
 
 #: sites/www.thunderbird.net/donate/help/index.html:38
 #, python-format
@@ -1079,6 +1079,8 @@ msgid ""
 "Please note, our payment support team cannot assist with Thunderbird product questions or technical issues. <strong>For technical support, please visit our <a href=\"%(support)s\">support "
 "page</a></strong> where you will find helpful articles and community forums."
 msgstr ""
+"Обратите внимание, что наша команда поддержки платежей не может помочь с вопросами по продукту Thunderbird или техническими проблемами. <strong>Для получения технической поддержки посетите нашу <a "
+"href=\"%(support)s\">страницу поддержки</a></strong>, где вы найдёте полезные статьи и форумы сообщества."
 
 #: sites/www.thunderbird.net/donate/help/thank-you/index.html:8
 msgid "Donor Help"
@@ -1098,7 +1100,7 @@ msgstr "Вернуться на Thunderbird.net"
 
 #: sites/www.thunderbird.net/donate/mobile/index.html:8
 msgid "Support Thunderbird for Android"
-msgstr ""
+msgstr "Поддержать Thunderbird для Android"
 
 #: sites/www.thunderbird.net/download/index.html:15
 msgid "Download <span class=\"txt-gradient\">Thunderbird</span>"
@@ -1153,6 +1155,9 @@ msgid ""
 "feedback?</strong> Head over to <a href=\"%(connect)s\">Mozilla Connect</a>.<br/> <strong>Need product or technical support?</strong> Visit our <a href=\"%(support)s\">knowledgebase and community "
 "support forum</a>."
 msgstr ""
+"<strong>Есть вопросы о пожертвовании?</strong> Посмотрите типичные ответы ниже. Если вам по-прежнему нужна помощь с пожертвованием, свяжитесь с нами через эту <a href=\"%(help)s\">форму</a>.<br/> "
+"<strong>Хотите оставить отзыв о продукте?</strong> Зайдите на <a href=\"%(connect)s\">Mozilla Connect</a>.<br/> <strong>Нужен продукт или техническая поддержка?</strong> Посетите нашу <a "
+"href=\"%(support)s\"> базу знаний и форум поддержки сообщества</a>."
 
 #: sites/www.thunderbird.net/includes/faq.html:21
 msgid "What are the ways I can give?"
@@ -1167,6 +1172,12 @@ msgid ""
 "line of your check to help us track and attribute your gift. We can only send acknowledgement receipts by email.</p> <p> <strong>Give the gift of your time!</strong> If you would like to learn how "
 "to contribute to Thunderbird in other ways such as coding, translating or testing, please visit our <a href=\"%(ways_to_help)s\">Participate</a> page.</p>"
 msgstr ""
+"<p>Вы можете  безопасно <a href=\"%(donate)s\">пожертвовать онлайн</a> с помощью кредитной карты, PayPal, Google Pay, Apple Pay, а также банковскими переводами через SEPA, iDEAL и ACH.<br/> "
+"<strong>Пожертвуйте в вашей местной валюте!</strong> Мы принимаем более 100! Выберите свою из выпадающего меню рядом с «Сумма».<br/> <strong>Офлайн вы можете пожертвовать только в долларах "
+"США</strong>, отправив по почте чек или денежный перевод, выписанный на «MZLA Technologies Corp». Почтовый адрес: </p> <ul class=\"check-address\"> <li>MZLA</li> <li>pobox 25718</li> <li>Pasadena CA"
+" 91185-5718</li> </ul > <p>Пожалуйста, укажите свой адрес электронной почты в строке примечания вашего чека, чтобы помочь нам отслеживать и отметить ваш взнос. Мы можем отправлять квитанции "
+"подтверждения только по электронной почте.</p> <p> <strong>Пожертвуйте своим временем!</strong> Если вы хотите узнать, как внести свой вклад в Thunderbird другими способами, такими как "
+"программирование, перевод или тестирование, пожалуйста, посетите нашу страницу <a href=\"%(ways_to_help)s\">Участвовать</a>.</p>"
 
 #: sites/www.thunderbird.net/includes/faq.html:47
 msgid "How do I cancel or change my recurring gift? Can I change my payment method or my donation frequency?"
