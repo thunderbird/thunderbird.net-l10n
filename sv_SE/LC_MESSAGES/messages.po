@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-10-16 13:50-0700\n"
-"PO-Revision-Date: 2024-10-19 00:10+0000\n"
+"PO-Revision-Date: 2024-10-19 00:17+0000\n"
 "Last-Translator: Andreas Pettersson <amvpet@gmail.com>\n"
 "Language-Team: none\n"
 "Language: sv_SE\n"
@@ -1068,7 +1068,7 @@ msgstr ""
 #: sites/www.thunderbird.net/donate/help/index.html:33
 #, python-format
 msgid "<strong>Use the <a href=\"%(modify)s\">Donor Portal</a> to access your receipts and update or cancel your recurring plan.</strong>"
-msgstr "<strong>Använd <a href=\"%(modify)s\">Donationsportalen</a> för att komma åt dina kvitton och uppdatera eller avbryta din återkommande plan.</strong>"
+msgstr "<strong>Använd <a href=\"%(modify)s\">givarportalen</a> för att komma åt dina kvitton och uppdatera eller avbryta din återkommande plan.</strong>"
 
 #: sites/www.thunderbird.net/donate/help/index.html:38
 #, python-format
@@ -1169,6 +1169,11 @@ msgid ""
 "line of your check to help us track and attribute your gift. We can only send acknowledgement receipts by email.</p> <p> <strong>Give the gift of your time!</strong> If you would like to learn how "
 "to contribute to Thunderbird in other ways such as coding, translating or testing, please visit our <a href=\"%(ways_to_help)s\">Participate</a> page.</p>"
 msgstr ""
+"<p>Du kan <a href=\"%(donate)s\">donera online</a> säkert med kreditkort eller PayPal, Google Pay, Apple Pay och via banköverföringar via SEPA, iDEAL och ACH.<br/ > <strong>Ge med din lokala "
+"valuta!</strong> Vi tar emot över 100! Välj din från rullgardinsmenyn bredvid ‘Belopp’.<br/> <strong>Du kan ge offline endast i USD</strong> genom att skicka en check eller postanvisning till \"MZLA"
+" Technologies Corp\". Posta till: </p> <ul class=\"check-address\"> <li>MZLA</li> <li>PB 25718</li> <li>Pasadena CA 91185-5718</li> </ul > <p>Inkludera din e-postadress på memoraden i din check för "
+"att hjälpa oss spåra och tillskriva din gåva. Vi kan endast skicka bekräftelsekvitton via e-post.</p> <p> <strong>Ge bort din tid!</strong> Om du vill lära dig hur du kan bidra till Thunderbird på "
+"andra sätt som kodning, översättning eller testning, besök vår sida <a href=\"%(ways_to_help)s\">Delta</a>.</p>"
 
 #: sites/www.thunderbird.net/includes/faq.html:47
 msgid "How do I cancel or change my recurring gift? Can I change my payment method or my donation frequency?"
@@ -1180,6 +1185,8 @@ msgid ""
 "Access your plan details from the <strong><a href=\"%(modify)s\">Donor Portal</a></strong> or from the 'Manage My Donation' button on your recent donation confirmation email. You can change the "
 "amount, frequency, payment method and charge date. You can also cancel your recurring plan and download your receipts."
 msgstr ""
+"Få åtkomst till dina plandetaljer från <strong><a href=\"%(modify)s\">Givarportalen</a></strong> eller från knappen \"Hantera min donation\" på din senaste donationsbekräftelse via e-post. Du kan "
+"ändra belopp, frekvens, betalningssätt och debiteringsdatum. Du kan också avbryta din återkommande plan och ladda ner dina kvitton."
 
 #: sites/www.thunderbird.net/includes/faq.html:61
 msgid "Does my gift give me access to tech support?"
@@ -1204,6 +1211,7 @@ msgid ""
 "You will receive an email confirmation whenever you donate and this will include a receipt for your records. You can also access your receipt history at any time from our <strong><a "
 "href=\"%(url)s\">Donor Portal</a></strong>."
 msgstr ""
+"Du får en bekräftelse via e-post när du donerar med ett kvitto för era poster. Du kan också komma åt din kvittohistorik när som helst från vår <strong><a href=\"%(url)s\">givarportal</a></strong>."
 
 #: sites/www.thunderbird.net/includes/faq.html:85
 msgid "Is my gift tax deductible?"
@@ -1214,6 +1222,8 @@ msgid ""
 "Gifts to Thunderbird <strong>are not tax-deductible as charitable gifts</strong>, but are greatly appreciated!<br/> Giving to Thunderbird supports the development of open source apps that are "
 "secure, private and available for users around the world. Your support also ensures that our core apps remain free for everyone."
 msgstr ""
+"Gåvor till Thunderbird <strong>är inte avdragsgilla som välgörenhetsgåvor</strong>, men är mycket uppskattade!<br/> Donationer till Thunderbird stöder utvecklingen av appar med öppen källkod som är "
+"säkra, privata och tillgängliga för användare över hela världen. Din support ser också till att våra kärnappar förblir gratis för alla."
 
 #: sites/www.thunderbird.net/includes/faq.html:98
 msgid "Why do you need my address in order to process a gift?"
@@ -1251,6 +1261,8 @@ msgid ""
 "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box <strong>'Donate as an Organization'</strong> and include your company name. Your transaction receipt will include"
 " your company name. If you need a copy of your receipt, download from our <strong><a href=\"%(modify)s\">Donor Portal</a></strong>."
 msgstr ""
+"När du donerar via vårt <a href=\"%(donate)s\">onlineformulär</a> markerar du bara rutan <strong>\"Donera som en organisation\"</strong> och inkluderar ditt företagsnamn. Ditt transaktionskvitto "
+"kommer att innehålla ditt företagsnamn. Om du behöver en kopia av ditt kvitto, hämta från vår <strong><a href=\"%(modify)s\">givarportal</a></strong>."
 
 #: sites/www.thunderbird.net/includes/faq.html:139
 msgid "Is my donation secure?"
@@ -1278,6 +1290,9 @@ msgid ""
 "immediately. <strong>Donations made via ACH or SEPA direct debit are ineligible for refunds.</strong> Due to the nature of these transactions our policy prioritizes minimizing refund fraud. We "
 "appreciate your understanding. If you need assistance, <a href=\"%(help)s\">please contact us</a>."
 msgstr ""
+"Din donation kan vara berättigad till återbetalning. Du måste <strong>kontakta oss inom 15 dagar från betalningsdatum.</strong> Om du tror att denna betalning gjordes utan din tillstånd, vänligen "
+"kontakta oss omedelbart. <strong>Donationer gjorda via ACH eller SEPA autogiro är inte berättigade till återbetalningar.</strong> På grund av dessa transaktioners art prioriterar vår policy att "
+"minimera återbetalningsbedrägerierna. Vi uppskattar din förståelse. Om du behöver hjälp, <a href=\"%(help)s\">vänligen kontakta oss</a>."
 
 #: sites/www.thunderbird.net/includes/faq.html:169
 msgid "Are there additional fees added to my donation?"
@@ -1289,6 +1304,9 @@ msgid ""
 "transaction costs. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to research any"
 " additional external taxes or fees that may be applied by regulators such as your bank or tax authority."
 msgstr ""
+"Vi tar inte ut några extra avgifter eller skatter. När du donerar i din lokala valuta debiteras du ingen konverteringsavgift från ditt kreditkort. Du kan välja att också stå för betalningskostnader "
+"för betalningshantering. Detta är helt frivilligt och du kan anmäla dig eller inte genom att använda kryssrutan på vårt donationsformulär. Vår organisation är baserad i USA. Vi uppmuntrar givare att"
+" undersöka eventuella ytterligare externa skatter eller avgifter som kan tillämpas av tillsynsmyndigheter som din bank eller skattemyndighet."
 
 #: sites/www.thunderbird.net/includes/faq.html:184
 msgid "What do the transaction costs cover?"
@@ -1301,6 +1319,10 @@ msgid ""
 "partners ensure we can accept a wide range of currencies/payment methods and remain PCI compliant in all of the countries that we accept gifts from. The transaction costs you may choose to cover are"
 " based on an estimate of our overall costs. Due to many factors actual costs may fluctuate."
 msgstr ""
+"När du väljer att täcka våra betalningstransaktionskostnader täcker du både vår betalningshantering och donationsplattformsavgifter. Kostnaderna förknippade med vårt robusta onlinedonationssystem "
+"gör att vi kan fortsätta att skala på ett hållbart sätt i takt med att vår supporterbas växer. Vår donationsplattform och betalningsprocessorpartners minskar interna kostnader i samband med att "
+"underhålla vårt eget system från grunden. Våra partners ser till att vi kan acceptera ett brett utbud av valutor/betalningsmetoder och förbli PCI-kompatibla i alla de länder där vi tar emot gåvor "
+"från. De transaktionskostnader du kan välja att täcka baseras på en uppskattning av våra totala kostnader. Beroende på många faktorer kan de faktiska kostnaderna fluktuera."
 
 #: sites/www.thunderbird.net/includes/faq.html:200
 msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
@@ -1331,6 +1353,8 @@ msgstr "Hur kommer min gåva att användas?"
 #: sites/www.thunderbird.net/includes/faq.html:225
 msgid "Thunderbird is the leading open source email and productivity app that is free for business and personal use. Your gift helps ensure it stays that way, and supports ongoing development."
 msgstr ""
+"Thunderbird är den ledande e-post- och produktivitetsappen med öppen källkod som är gratis för företag och personligt bruk. Din gåva hjälper till att se till att den förblir så och stöder pågående "
+"utveckling."
 
 #: sites/www.thunderbird.net/includes/faq.html:234
 msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
