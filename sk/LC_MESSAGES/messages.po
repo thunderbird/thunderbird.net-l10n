@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-10-16 13:50-0700\n"
-"PO-Revision-Date: 2024-10-19 16:02+0000\n"
+"PO-Revision-Date: 2024-10-19 16:09+0000\n"
 "Last-Translator: wladow <valastiak@mozilla.sk>\n"
 "Language-Team: none\n"
 "Language: sk\n"
@@ -1147,6 +1147,12 @@ msgid ""
 "line of your check to help us track and attribute your gift. We can only send acknowledgement receipts by email.</p> <p> <strong>Give the gift of your time!</strong> If you would like to learn how "
 "to contribute to Thunderbird in other ways such as coding, translating or testing, please visit our <a href=\"%(ways_to_help)s\">Participate</a> page.</p>"
 msgstr ""
+"<p>Môžete <a href=\"%(donate)s\">prispievať online</a> bezpečne kreditnou kartou alebo pomocou služieb PayPal, Google Pay, Apple Pay a bankovým prevodom prostredníctvom SEPA, iDEAL a ACH.<br/ > "
+"<strong>Darujte vo svojej miestnej mene!</strong> Akceptujeme ich viac ako 100! Vyberte si svoju z rozbaľovacej ponuky vedľa položky „Čiastka“.<br/> <strong>Offline darovať môžete iba v USD</strong>"
+" zaslaním šeku alebo peňažného poukazu na účet „MZLA Technologies Corp“. Zašlite ho na adresu: </p> <ul class=\"check-address\"> <li>MZLA</li> <li>PO Box 25718</li> <li>Pasadena CA 91185-5718</li> "
+"</ul > <p>V riadku poznámky šeku uveďte svoju e‑mailovú adresu, aby sme mohli sledovať a pripísať váš dar. Potvrdenia o prijatí môžeme posielať iba e‑mailom.</p> <p> <strong>Venujte svoj "
+"čas!</strong> Ak by ste sa chceli naučiť, ako prispieť do Thunderbirdu inými spôsobmi, ako je programovanie, preklad alebo testovanie, navštívte našu stránku <a href=\"%(ways_to_help)s\">Zapojte "
+"sa</a>.</p>"
 
 #: sites/www.thunderbird.net/includes/faq.html:47
 msgid "How do I cancel or change my recurring gift? Can I change my payment method or my donation frequency?"
@@ -1158,6 +1164,8 @@ msgid ""
 "Access your plan details from the <strong><a href=\"%(modify)s\">Donor Portal</a></strong> or from the 'Manage My Donation' button on your recent donation confirmation email. You can change the "
 "amount, frequency, payment method and charge date. You can also cancel your recurring plan and download your receipts."
 msgstr ""
+"Získajte prístup k podrobnostiam svojho plánu z <strong><a href=\"%(modify)s\">portálu darcov</a></strong> alebo pomocou tlačidla „Spravovať môj dar“ v nedávnom e‑maile s potvrdením daru. Môžete "
+"zmeniť sumu, frekvenciu, spôsob platby a dátum účtovania. Môžete tiež zrušiť svoj opakujúci sa príspevok a stiahnuť si účtenky."
 
 #: sites/www.thunderbird.net/includes/faq.html:61
 msgid "Does my gift give me access to tech support?"
@@ -1169,6 +1177,8 @@ msgid ""
 "All Thunderbird <strong>technical support is community-based</strong> and available to everyone. Visit our <a href=\"%(url)s\">support forum</a>. We do not provide individual tech support in "
 "exchange for financial gifts."
 msgstr ""
+"Všetka <strong>technická podpora Thunderbirdu je založená na komunite</strong> a je dostupná pre každého. Navštívte naše <a href=\"%(url)s\">fórum podpory</a>. Neposkytujeme individuálnu technickú "
+"podporu výmenou za finančné dary."
 
 #: sites/www.thunderbird.net/includes/faq.html:73
 msgid "How do I get a receipt?"
@@ -1192,6 +1202,8 @@ msgid ""
 "Gifts to Thunderbird <strong>are not tax-deductible as charitable gifts</strong>, but are greatly appreciated!<br/> Giving to Thunderbird supports the development of open source apps that are "
 "secure, private and available for users around the world. Your support also ensures that our core apps remain free for everyone."
 msgstr ""
+"Dary pre Thunderbird <strong>nie sú odpočítateľné z daní ako charitatívne dary</strong>, ale veľmi si ich ceníme!<br/> Darovanie pre Thunderbird podporuje vývoj aplikácií s otvoreným zdrojovým "
+"kódom, ktoré sú bezpečné, súkromné a dostupné pre používateľov na celom svete. Vaša podpora tiež zaisťuje, že naše základné aplikácie zostanú bezplatné pre všetkých."
 
 #: sites/www.thunderbird.net/includes/faq.html:98
 msgid "Why do you need my address in order to process a gift?"
@@ -1229,6 +1241,8 @@ msgid ""
 "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box <strong>'Donate as an Organization'</strong> and include your company name. Your transaction receipt will include"
 " your company name. If you need a copy of your receipt, download from our <strong><a href=\"%(modify)s\">Donor Portal</a></strong>."
 msgstr ""
+"Keď prispejete prostredníctvom nášho <a href=\"%(donate)s\">online formulára</a>, jednoducho začiarknite políčko <strong>'Darovať ako organizácia'</strong> a uveďte názov svojej spoločnosti. "
+"Potvrdenie o transakcii bude obsahovať názov vašej spoločnosti. Ak potrebujete kópiu potvrdenky, stiahnite si ju z nášho <strong><a href=\"%(modify)s\">portálu darcov</a></strong>."
 
 #: sites/www.thunderbird.net/includes/faq.html:139
 msgid "Is my donation secure?"
@@ -1256,10 +1270,13 @@ msgid ""
 "immediately. <strong>Donations made via ACH or SEPA direct debit are ineligible for refunds.</strong> Due to the nature of these transactions our policy prioritizes minimizing refund fraud. We "
 "appreciate your understanding. If you need assistance, <a href=\"%(help)s\">please contact us</a>."
 msgstr ""
+"Váš dar môže mať nárok na vrátenie peňazí. Musíte nás <strong>kontaktovať do 15 dní od dátumu platby.</strong> Ak sa domnievate, že táto platba bola vykonaná bez vašej autorizácie, ihneď nás "
+"kontaktujte. <strong>Dary uskutočnené prostredníctvom inkasa ACH alebo SEPA nie sú oprávnené na vrátenie peňazí.</strong> Vzhľadom na povahu týchto transakcií naše pravidlá uprednostňujú "
+"minimalizáciu podvodov pri vrátení peňazí. Ďakujeme za pochopenie. Ak potrebujete pomoc, <a href=\"%(help)s\">kontaktujte nás</a>."
 
 #: sites/www.thunderbird.net/includes/faq.html:169
 msgid "Are there additional fees added to my donation?"
-msgstr ""
+msgstr "Sú k môjmu daru pripočítané ďalšie poplatky?"
 
 #: sites/www.thunderbird.net/includes/faq.html:172
 msgid ""
@@ -1267,10 +1284,13 @@ msgid ""
 "transaction costs. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to research any"
 " additional external taxes or fees that may be applied by regulators such as your bank or tax authority."
 msgstr ""
+"Nevyberáme žiadne ďalšie poplatky ani dane. Keď darujete vo svojej miestnej mene, z vašej kreditnej karty sa vám neúčtuje poplatok za konverziu. Môžete sa rozhodnúť pokryť aj transakčné náklady na "
+"spracovanie platieb. Je to úplne dobrovoľné a môžete sa prihlásiť alebo odhlásiť pomocou začiarkavacieho políčka na našom darcovskom formulári. Naša organizácia sídli v Spojených štátoch amerických."
+" Odporúčame darcom, aby preskúmali akékoľvek dodatočné externé dane alebo poplatky, ktoré môžu uplatňovať regulačné orgány, ako je vaša banka alebo daňový úrad."
 
 #: sites/www.thunderbird.net/includes/faq.html:184
 msgid "What do the transaction costs cover?"
-msgstr ""
+msgstr "Čo pokrývajú transakčné náklady?"
 
 #: sites/www.thunderbird.net/includes/faq.html:187
 msgid ""
@@ -1279,6 +1299,10 @@ msgid ""
 "partners ensure we can accept a wide range of currencies/payment methods and remain PCI compliant in all of the countries that we accept gifts from. The transaction costs you may choose to cover are"
 " based on an estimate of our overall costs. Due to many factors actual costs may fluctuate."
 msgstr ""
+"Keď sa rozhodnete pokryť naše náklady na platobné transakcie, kryjete poplatky za spracovanie platieb aj poplatky za darovaciu platformu. Náklady spojené s naším robustným online darcovským systémom"
+" nám umožňujú pokračovať v udržateľnom rozširovaní, keďže naša základňa podporovateľov rastie. Naša darovacia platforma a partneri na spracovanie platieb znižujú interné náklady spojené s údržbou "
+"nášho vlastného systému od nuly. Naši partneri zaručujú, že dokážeme akceptovať širokú škálu mien/platobných metód a zostaneme v súlade s PCI vo všetkých krajinách, z ktorých prijímame dary. "
+"Transakčné náklady, ktoré sa môžete rozhodnúť pokryť, sú založené na odhade našich celkových nákladov. V dôsledku mnohých faktorov môžu skutočné náklady kolísať."
 
 #: sites/www.thunderbird.net/includes/faq.html:200
 msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
