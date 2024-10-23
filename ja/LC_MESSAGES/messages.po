@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-10-16 13:50-0700\n"
+"POT-Creation-Date: 2024-10-23 12:41-0700\n"
 "PO-Revision-Date: 2024-10-17 21:52+0000\n"
 "Last-Translator: marsf <chimantaea_mirabilis@yahoo.co.jp>\n"
 "Language-Team: none\n"
@@ -30,10 +30,12 @@ msgid "Support us!"
 msgstr "ご支援ありがとうございます！"
 
 #: sites/start.thunderbird.net/beta/index.html:22 sites/start.thunderbird.net/release/index.html:22 sites/start.thunderbird.net/release/index.html:37 sites/www.thunderbird.net/donate/index.html:8
-#: sites/www.thunderbird.net/includes/base/footer.html:45 sites/www.thunderbird.net/includes/base/nav.html:71 sites/www.thunderbird.net/includes/base/nav.html:83
-#: sites/www.thunderbird.net/includes/download-button.html:102 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:80 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:288
-#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:74 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:209 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:228
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:79 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:345
+#: sites/www.thunderbird.net/includes/base/footer.html:42 sites/www.thunderbird.net/includes/base/nav.html:68 sites/www.thunderbird.net/includes/base/nav.html:90
+#: sites/www.thunderbird.net/includes/download-button.html:102 sites/www.thunderbird.net/includes/macros/download-desktop.html:31 sites/www.thunderbird.net/includes/macros/download-mobile.html:29
+#: sites/www.thunderbird.net/includes/macros/download-smart.html:39 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:80
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:288 sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:74 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:209
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:228 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:79
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:345
 msgid "Donate"
 msgstr "寄付"
 
@@ -194,7 +196,8 @@ msgstr "他のユーザーを助けることに興味がありますか？ ユ�
 msgid "Share ideas and feedback."
 msgstr "アイデアの共有とフィードバックはこちら。"
 
-#: sites/start.thunderbird.net/release/index.html:54 sites/www.thunderbird.net/participate/index.html:112
+#: sites/start.thunderbird.net/release/index.html:54 sites/www.thunderbird.net/desktop/index.html:207 sites/www.thunderbird.net/mobile/index.html:203
+#: sites/www.thunderbird.net/participate/index.html:153
 msgid "Mozilla Connect"
 msgstr "Mozilla Connect"
 
@@ -214,11 +217,11 @@ msgstr "質問や問題の報告は？"
 msgid "If Crash Reporter appears when Thunderbird crashes, please provide as many details as possible to help developers."
 msgstr "Thunderbird がクラッシュしてクラッシュレポーターが表示されたときは、開発者の助けとなる問題の詳細をできるだけ多く報告してください。"
 
-#: sites/updates.thunderbird.net/index.html:8 sites/updates.thunderbird.net/index.html:14
+#: sites/updates.thunderbird.net/index.html:8 sites/updates.thunderbird.net/index.html:24
 msgid "Hello!"
 msgstr "こんにちは！"
 
-#: sites/updates.thunderbird.net/index.html:16
+#: sites/updates.thunderbird.net/index.html:26
 #, python-format
 msgid "You're probably looking for <a href=\"%(url)s\">Thunderbird.net</a>."
 msgstr "もしかして <a href=\"%(url)s\">thunderbird.net</a> をお探しでしょうか。"
@@ -227,23 +230,26 @@ msgstr "もしかして <a href=\"%(url)s\">thunderbird.net</a> をお探しで�
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
 msgstr "メッセージの高速全文検索、タブ表示、アーカイブ。設定も簡単で、カスタマイズ自由自在。そんなメールソフトが Thunderbird です。"
 
-#: sites/updates.thunderbird.net/includes/base/base.html:16 sites/www.thunderbird.net/includes/base/base.html:17 sites/www.thunderbird.net/includes/base/page.html:16
-#: sites/www.thunderbird.net/includes/product-metadata.html:2 sites/www.thunderbird.net/includes/product-metadata.html:21 sites/www.thunderbird.net/index.html:8
+#: sites/updates.thunderbird.net/includes/base/base.html:16 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:20 sites/www.thunderbird.net/desktop/index.html:24
+#: sites/www.thunderbird.net/includes/base/base.html:17 sites/www.thunderbird.net/includes/base/page.html:16 sites/www.thunderbird.net/includes/product-metadata.html:2
+#: sites/www.thunderbird.net/includes/product-metadata.html:21 sites/www.thunderbird.net/index.html:10 sites/www.thunderbird.net/mobile/index.html:23
 #: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:17 sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:18
 #: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:19 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:18 sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:18
 #: sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:18 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:19
 #: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:17 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:17 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:17
+#: sites/www.thunderbird.net/thunderbird/all/index.html:21 sites/www.thunderbird.net/thunderbird/all/index.html:139 sites/www.thunderbird.net/thunderbird/all/index.html:178
+#: sites/www.thunderbird.net/thunderbird/all/index.html:187
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
 #: sites/updates.thunderbird.net/includes/base/footer.html:8 sites/www.thunderbird.net/about/index.html:56 sites/www.thunderbird.net/includes/appeal-footer.html:7
-#: sites/www.thunderbird.net/includes/base/footer.html:56 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:350 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:426
+#: sites/www.thunderbird.net/includes/base/footer.html:53 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:350 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:426
 #: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:273 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:292
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:408
 msgid "Privacy"
 msgstr "プライバシー"
 
-#: sites/updates.thunderbird.net/includes/base/footer.html:10 sites/www.thunderbird.net/includes/appeal-footer.html:9 sites/www.thunderbird.net/includes/base/footer.html:58
+#: sites/updates.thunderbird.net/includes/base/footer.html:10 sites/www.thunderbird.net/includes/appeal-footer.html:9 sites/www.thunderbird.net/includes/base/footer.html:55
 #: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:353 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:429
 #: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:276 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:295
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:411
@@ -251,26 +257,55 @@ msgid "Cookies"
 msgstr "Cookie"
 
 #: sites/updates.thunderbird.net/includes/base/footer.html:12 sites/www.thunderbird.net/contact/index.html:41 sites/www.thunderbird.net/includes/appeal-footer.html:11
-#: sites/www.thunderbird.net/includes/base/footer.html:60 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:357 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:433
+#: sites/www.thunderbird.net/includes/base/footer.html:57 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:357 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:433
 #: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:280 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:299
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:415
 msgid "Legal"
 msgstr "法的情報"
 
-#: sites/updates.thunderbird.net/includes/base/footer.html:14 sites/www.thunderbird.net/includes/appeal-footer.html:13 sites/www.thunderbird.net/includes/base/footer.html:62
+#: sites/updates.thunderbird.net/includes/base/footer.html:14 sites/www.thunderbird.net/includes/appeal-footer.html:13 sites/www.thunderbird.net/includes/base/footer.html:59
 msgid "Send DMCA Notice"
 msgstr "DMCA通知を送信"
 
-#: sites/updates.thunderbird.net/includes/base/footer.html:16 sites/www.thunderbird.net/includes/appeal-footer.html:15 sites/www.thunderbird.net/includes/base/footer.html:64
+#: sites/updates.thunderbird.net/includes/base/footer.html:16 sites/www.thunderbird.net/includes/appeal-footer.html:15 sites/www.thunderbird.net/includes/base/footer.html:61
 msgid "Report Fraud"
 msgstr "不正行為を報告する"
 
-#: sites/updates.thunderbird.net/includes/base/footer.html:18 sites/www.thunderbird.net/includes/appeal-footer.html:17 sites/www.thunderbird.net/includes/base/footer.html:66
+#: sites/updates.thunderbird.net/includes/base/footer.html:18 sites/www.thunderbird.net/includes/appeal-footer.html:17 sites/www.thunderbird.net/includes/base/footer.html:63
 #: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:361 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:437
 #: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:284 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:303
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:419
 msgid "Participation Guidelines"
 msgstr "参加ガイドライン"
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:14
+msgid "20 Years of Thunderbird!"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:20
+msgid "Turns 20, Thanks to You!"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:22
+msgid "The text 20 Years with a the Thunderbird logo in place of the zero."
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:30
+msgid "On December 7, 2004, Thunderbird 1.0 was released."
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:31
+msgid "Thunderbird is free. Free to use. Free of ads. Free of data tracking."
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:32
+#, python-format
+msgid "We rely solely on the generosity of our supporters and less than <b>3% of Thunderbird users keep us going.</b>"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:33
+msgid "Please help us continue for another 20 years."
+msgstr ""
 
 #: sites/www.thunderbird.net/404.html:8
 #, python-format
@@ -294,29 +329,20 @@ msgstr "お探しのページは存在しません。"
 msgid "If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>"
 msgstr "バグだと思われる場合は、<a href=\"%(bug_report_url)s\">こちらから問題を報告してください</a>"
 
-#: sites/www.thunderbird.net/index.html:9
+#: sites/www.thunderbird.net/index.html:11
 msgid "Free Your Inbox."
 msgstr "受信トレイを身軽に。"
 
-#: sites/www.thunderbird.net/index.html:22 sites/www.thunderbird.net/index.html:336
+#: sites/www.thunderbird.net/includes/macros/download-block.html:12 sites/www.thunderbird.net/index.html:24
 msgid "<span class=\"txt-gradient\">Free</span> Your Inbox"
 msgstr "受信トレイを<span class=\"txt-gradient\">身軽</span>にする"
 
-#: sites/www.thunderbird.net/index.html:24
+#: sites/www.thunderbird.net/index.html:26
 msgid ""
 "\n"
-"            Meet Thunderbird, the <strong>email</strong> and <strong>productivity</strong> app that maximizes your freedoms.\n"
+"            Meet Thunderbird, the <strong>email and productivity</strong> app that maximizes your freedoms.\n"
 "          "
 msgstr ""
-"\n"
-"            あなたの自由を最大限に引き出す<strong>メール</strong>、\n"
-"<strong>生産性</strong>アプリの Thunderbird をご紹介します。\n"
-"          "
-
-#: sites/www.thunderbird.net/download/index.html:8 sites/www.thunderbird.net/download/index.html:16 sites/www.thunderbird.net/includes/base/nav.html:78 sites/www.thunderbird.net/index.html:31
-#: sites/www.thunderbird.net/index.html:341 sites/www.thunderbird.net/thunderbird/all/index.html:9 sites/www.thunderbird.net/thunderbird/all/index.html:102
-msgid "Download"
-msgstr "ダウンロード"
 
 #: sites/www.thunderbird.net/index.html:51 sites/www.thunderbird.net/index.html:56 sites/www.thunderbird.net/index.html:61 sites/www.thunderbird.net/index.html:66
 #: sites/www.thunderbird.net/index.html:71
@@ -345,19 +371,23 @@ msgstr ""
 "          あなたの生活をよりシンプルにしてくれます。\n"
 "          "
 
-#: sites/www.thunderbird.net/index.html:113
+#: sites/www.thunderbird.net/index.html:114
+msgid "A phone displaying Thunderbird for Android's interface."
+msgstr ""
+
+#: sites/www.thunderbird.net/index.html:118
 msgid "See Compatibility"
 msgstr "互換性を参照"
 
-#: sites/www.thunderbird.net/index.html:124
+#: sites/www.thunderbird.net/index.html:129
 msgid "<span class=\"txt-gradient\">Freedom</span> from Manipulation"
 msgstr "操作からの<span class=\"txt-gradient\">解放</span>"
 
-#: sites/www.thunderbird.net/index.html:125
+#: sites/www.thunderbird.net/index.html:130
 msgid "Our agenda isn’t hidden. It’s to make the world better."
 msgstr "私たちのアジェンダは隠されていません。世界をより良くするためです。"
 
-#: sites/www.thunderbird.net/index.html:127
+#: sites/www.thunderbird.net/index.html:132
 #, python-format
 msgid ""
 "\n"
@@ -374,27 +404,27 @@ msgstr ""
 "常にプライバシーとセキュリティを第一に考えています。\n"
 "          "
 
-#: sites/www.thunderbird.net/index.html:135
+#: sites/www.thunderbird.net/index.html:140
 msgid "Learn Who We Are"
 msgstr "私たちについて学ぶ"
 
-#: sites/www.thunderbird.net/index.html:144
+#: sites/www.thunderbird.net/index.html:149
 msgid "Firefox planet"
 msgstr "Firefox プラネット"
 
-#: sites/www.thunderbird.net/index.html:151
+#: sites/www.thunderbird.net/index.html:156
 msgid "Thunderbird planet"
 msgstr "Thunderbird プラネット"
 
-#: sites/www.thunderbird.net/index.html:163
+#: sites/www.thunderbird.net/index.html:168
 msgid "<span class=\"txt-gradient\">Freedom</span> to Geek Out"
 msgstr "<span class=\"txt-gradient\">自由</span>に夢中になれます"
 
-#: sites/www.thunderbird.net/index.html:164
+#: sites/www.thunderbird.net/index.html:169
 msgid "Thunderbird is yours."
 msgstr "Thunderbird はあなたのものです。"
 
-#: sites/www.thunderbird.net/index.html:166
+#: sites/www.thunderbird.net/index.html:171
 msgid ""
 "\n"
 "              Thunderbird is clean and elegant by default, but easily customizable to match your workflow and visual\n"
@@ -406,7 +436,7 @@ msgstr ""
 " 好みに合わせて簡単にカスタマイズできます。ユニークでパワフルな機能が搭載されています。以下はその一部です。\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:177
+#: sites/www.thunderbird.net/index.html:182
 msgid ""
 "\n"
 "              Its <strong>unified inbox</strong> enables me to stay sane even in the busiest of times. I am never\n"
@@ -418,20 +448,20 @@ msgstr ""
 "乗り換えることはないでしょう！\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:189 sites/www.thunderbird.net/index.html:218 sites/www.thunderbird.net/index.html:241 sites/www.thunderbird.net/index.html:263
-#: sites/www.thunderbird.net/index.html:285 sites/www.thunderbird.net/index.html:307
+#: sites/www.thunderbird.net/index.html:194 sites/www.thunderbird.net/index.html:223 sites/www.thunderbird.net/index.html:246 sites/www.thunderbird.net/index.html:268
+#: sites/www.thunderbird.net/index.html:290 sites/www.thunderbird.net/index.html:312
 msgid "profile image"
 msgstr "プロフィール画像"
 
-#: sites/www.thunderbird.net/index.html:193
+#: sites/www.thunderbird.net/index.html:198
 msgid "Software Developer, Austria"
 msgstr "ソフトウェア開発者、オーストリア"
 
-#: sites/www.thunderbird.net/index.html:200
+#: sites/www.thunderbird.net/index.html:205
 msgid "unified inbox"
 msgstr "統合受信トレイ"
 
-#: sites/www.thunderbird.net/index.html:207
+#: sites/www.thunderbird.net/index.html:212
 msgid ""
 "\n"
 "              I love the <strong>tag feature</strong>. I tag something important and find it quickly.\n"
@@ -441,11 +471,11 @@ msgstr ""
 "              <strong>タグ機能</strong>が気に入っています。重要なことをタグを付けして、すぐに見つけられます。\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:222
+#: sites/www.thunderbird.net/index.html:227
 msgid "Computer Scientist, USA"
 msgstr "コンピュータサイエンティスト、米国"
 
-#: sites/www.thunderbird.net/index.html:229
+#: sites/www.thunderbird.net/index.html:234
 msgid ""
 "\n"
 "              It is the first program I install on any PC I use / own... I use it on\n"
@@ -457,11 +487,11 @@ msgstr ""
 "              <strong>Windows</strong> / <strong>Mac</strong>、<strong>Linux</strong>で使っています。\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:245
+#: sites/www.thunderbird.net/index.html:250
 msgid "I.T. Manager, UK"
 msgstr "ITマネージャー、英国"
 
-#: sites/www.thunderbird.net/index.html:252
+#: sites/www.thunderbird.net/index.html:257
 msgid ""
 "\n"
 "              Having an open source alternative [for] receiving and managing email... is great for <strong>privacy</strong>.\n"
@@ -471,11 +501,11 @@ msgstr ""
 "              メールの受信と管理を行えるオープンソースの代替手段があることは<strong>プライバシー</strong>にとって素晴らしいことです。\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:267
+#: sites/www.thunderbird.net/index.html:272
 msgid "Web Developer, Costa Rica"
 msgstr "ウェブ開発者、コスタリカ"
 
-#: sites/www.thunderbird.net/index.html:274
+#: sites/www.thunderbird.net/index.html:279
 msgid ""
 "\n"
 "              [Thunderbird] empowers me to maintain <strong>ownership</strong> of my emails.\n"
@@ -485,11 +515,11 @@ msgstr ""
 "              [Thunderbird]のおかげで、電子メールの<strong>所有権</strong>を維持することができます。\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:289
+#: sites/www.thunderbird.net/index.html:294
 msgid "Engineer, USA"
 msgstr "エンジニア、米国"
 
-#: sites/www.thunderbird.net/index.html:296
+#: sites/www.thunderbird.net/index.html:301
 msgid ""
 "\n"
 "              You'd be hard pressed to find a client more <strong>extensible</strong> than Thunderbird!\n"
@@ -499,29 +529,39 @@ msgstr ""
 "              Thunderbirdよりも<strong> 拡張性</strong>の高いクライアントを見つけるのは難しいでしょう！\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:311
+#: sites/www.thunderbird.net/index.html:316
 msgid "Student, UK"
 msgstr "学生、英国"
 
-#: sites/www.thunderbird.net/index.html:318
+#: sites/www.thunderbird.net/index.html:323
 msgid "extensions"
 msgstr "拡張機能"
 
-#: sites/www.thunderbird.net/index.html:325
-msgid "Explore More Features"
-msgstr "その他の機能を見る"
-
 #: sites/www.thunderbird.net/index.html:337
-msgid "Are you ready to love email again?"
-msgstr "メールをもう一度好きになる準備はできていますか？"
+msgid "<span class=\"txt-gradient\">Freedom</span> to Go Anywhere"
+msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:8 sites/www.thunderbird.net/about/mission-statement/index.html:27 sites/www.thunderbird.net/includes/base/footer.html:36
-#: sites/www.thunderbird.net/includes/base/nav.html:56
+#: sites/www.thunderbird.net/index.html:338
+msgid "Introducing Thunderbird Mobile"
+msgstr ""
+
+#: sites/www.thunderbird.net/index.html:340
+msgid ""
+"The freedom and joy of Thunderbird are now available to you anywhere you go. With Thunderbird Mobile your most important messages are sent and received by an open-source, secure app that respects "
+"your privacy"
+msgstr ""
+
+#: sites/www.thunderbird.net/index.html:355
+msgid "A rendering of a mobile phone."
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:8 sites/www.thunderbird.net/about/mission-statement/index.html:27 sites/www.thunderbird.net/includes/base/footer.html:33
+#: sites/www.thunderbird.net/includes/base/nav.html:53
 msgid "Who We Are"
 msgstr "私たちについて"
 
 #: sites/www.thunderbird.net/about/index.html:9 sites/www.thunderbird.net/about/mission-statement/index.html:9 sites/www.thunderbird.net/contact/index.html:9
-#: sites/www.thunderbird.net/includes/base/footer.html:34 sites/www.thunderbird.net/includes/base/nav.html:52 sites/www.thunderbird.net/privacy/index.html:9
+#: sites/www.thunderbird.net/includes/base/footer.html:31 sites/www.thunderbird.net/includes/base/nav.html:49 sites/www.thunderbird.net/privacy/index.html:9
 msgid "About"
 msgstr "詳細"
 
@@ -817,9 +857,10 @@ msgstr ""
 msgid "Calendar"
 msgstr "カレンダー"
 
-#: sites/www.thunderbird.net/calendar/holidays/index.html:9 sites/www.thunderbird.net/calendar/index.html:9 sites/www.thunderbird.net/download/index.html:9
-#: sites/www.thunderbird.net/includes/base/footer.html:22 sites/www.thunderbird.net/includes/base/nav.html:36 sites/www.thunderbird.net/newsletter/index.html:9
-#: sites/www.thunderbird.net/thank-you/index.html:9 sites/www.thunderbird.net/thunderbird/all/index.html:10
+#: sites/www.thunderbird.net/calendar/holidays/index.html:9 sites/www.thunderbird.net/calendar/index.html:9 sites/www.thunderbird.net/desktop/index.html:192
+#: sites/www.thunderbird.net/download/index.html:10 sites/www.thunderbird.net/includes/base/footer.html:20 sites/www.thunderbird.net/includes/base/nav.html:34
+#: sites/www.thunderbird.net/mobile/index.html:188 sites/www.thunderbird.net/newsletter/index.html:9 sites/www.thunderbird.net/thank-you/index.html:9
+#: sites/www.thunderbird.net/thunderbird/all/index.html:11
 msgid "Resources"
 msgstr "リソース"
 
@@ -857,7 +898,7 @@ msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s"
 msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>の祝日です。%(authors)sさん、ありがとうございます"
 
-#: sites/www.thunderbird.net/contact/index.html:8 sites/www.thunderbird.net/includes/base/footer.html:37 sites/www.thunderbird.net/includes/base/nav.html:57
+#: sites/www.thunderbird.net/contact/index.html:8 sites/www.thunderbird.net/includes/base/footer.html:34 sites/www.thunderbird.net/includes/base/nav.html:54
 msgid "Contact Us"
 msgstr "お問い合わせ"
 
@@ -869,7 +910,7 @@ msgstr "<span class=\"txt-gradient\">話す</span>必要がありますか？"
 msgid "Direct your inquiries to the teams below."
 msgstr "お問い合わせは下記のチームまでお願いします。"
 
-#: sites/www.thunderbird.net/contact/index.html:19 sites/www.thunderbird.net/participate/index.html:69
+#: sites/www.thunderbird.net/contact/index.html:19 sites/www.thunderbird.net/participate/index.html:89
 msgid "Support"
 msgstr "サポート"
 
@@ -930,7 +971,7 @@ msgstr "ビジネスチーム"
 msgid "Organizations wanting to sponsor software development or obtain assistance in large-scale deployments should email our Business Team. This team also handles other partnership inquiries."
 msgstr "ソフトウェア開発のスポンサーになったり、大規模なデプロイメントで支援を受けたいと考えている組織は、当社のビジネスチームに電子メールを送信する必要があります。このチームは、他のパートナーシップに関する問い合わせも処理します。"
 
-#: sites/www.thunderbird.net/contact/index.html:38 sites/www.thunderbird.net/includes/base/footer.html:46 sites/www.thunderbird.net/includes/base/nav.html:72
+#: sites/www.thunderbird.net/contact/index.html:38 sites/www.thunderbird.net/includes/base/footer.html:43 sites/www.thunderbird.net/includes/base/nav.html:69
 #: sites/www.thunderbird.net/participate/index.html:8
 msgid "Participate"
 msgstr "参加"
@@ -959,8 +1000,221 @@ msgid ""
 "send a DMCA notice."
 msgstr "商標の不正使用を報告することで、将来のユーザーをマルウェア、データマイニング、またはThunderbirdの不正請求から保護します。Googleがお客様の著作権または商標を侵害していると思われる場合は、DMCA通知を送信してください。"
 
+#: sites/www.thunderbird.net/desktop/index.html:10 sites/www.thunderbird.net/includes/base/footer.html:15 sites/www.thunderbird.net/includes/base/nav.html:24
+#: sites/www.thunderbird.net/thunderbird/releases/index.html:9
+msgid "Thunderbird Desktop"
+msgstr "Thunderbirdデスクトップ"
+
+#: sites/www.thunderbird.net/desktop/index.html:23 sites/www.thunderbird.net/thunderbird/all/index.html:20 sites/www.thunderbird.net/thunderbird/all/index.html:186
+msgid "Thunderbird Desktop."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:24 sites/www.thunderbird.net/thunderbird/all/index.html:21 sites/www.thunderbird.net/thunderbird/all/index.html:187
+msgid "Desktop"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:27
+msgid "Powerful Email, Calendar, and Contacts for Windows, Linux, and macOS. Free software designed to make you free."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:50 sites/www.thunderbird.net/mobile/index.html:49
+msgid "Core Features."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:51 sites/www.thunderbird.net/mobile/index.html:50
+msgid "Core"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:51 sites/www.thunderbird.net/mobile/index.html:50
+msgid "Features"
+msgstr "主な機能"
+
+#: sites/www.thunderbird.net/desktop/index.html:54 sites/www.thunderbird.net/mobile/index.html:53
+msgid "Your new productivity superpowers."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:63 sites/www.thunderbird.net/mobile/index.html:83
+msgid "A video of Thunderbird with various email service icons rotating around it."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:71
+msgid "Multiple Account Support"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:72
+msgid "Manage all your emails in one place."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:73
+msgid "All your email accounts have a home in Thunderbird. Manage accounts separately or in a unified Inbox. Search and organize with ease. Say goodbye to all those browser tabs!"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:78 sites/www.thunderbird.net/mobile/index.html:59
+msgid "A crossed out circle against a pink background."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:81
+msgid "Ad Free Experience"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:82
+msgid "Free without strings attached."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:83
+msgid "We do not make money by reading your email. We do not clutter your inbox with ads. Enjoy a clean interface free from commercials and data mining."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:84 sites/www.thunderbird.net/mobile/index.html:65
+msgid "Read Our Privacy Policy"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:92
+msgid "A video of a heart with various operating system logos around it."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:100
+msgid "Cross Platform Support"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:101
+msgid "Your email should work wherever you do."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:102
+msgid "Never find yourself locked into an ecosystem. Use the operating system you like and change whenever you like while enjoying the same desktop app experience."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:103
+msgid "See All Available Versions"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:130
+msgid "A cropped screenshot of the Thunderbird interface."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:133
+msgid "Calendar, Contacts, and Tasks"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:134
+msgid "Because email is just one part of being productive."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:135
+msgid "Thunderbird helps your manage your appointments, contact, and tasks. Stay organized, productive, and connected in one place."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:143
+msgid "A video of a shield with the Thunderbird logo in the center of it."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:151
+msgid "Better Security and Privacy"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:152
+msgid "Be safe and in charge by default."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:153
+msgid "Thunderbird is open source. Its code has been constantly reviewed and improved over 20 years. Transparency keeps us accountable and you safe."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:154
+msgid "View the Source Code"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:159 sites/www.thunderbird.net/mobile/index.html:156
+msgid "The Thunderbird logo in an opened gift box."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:162 sites/www.thunderbird.net/mobile/index.html:159
+msgid "Always Free and Open"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:163 sites/www.thunderbird.net/mobile/index.html:160
+msgid "Thunderbird is a gift from people like you."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:164 sites/www.thunderbird.net/mobile/index.html:161
+msgid "Thousands have contributed time and money to make Thunderbird possible. Its code is open source and freely licensed to use, modify, and share. Thunderbird isn't just free, it makes you free."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:165 sites/www.thunderbird.net/mobile/index.html:162
+msgid "Learn Our Mission"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:174
+msgid "Third-Party Ecosystem."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:175
+msgid "Third-Party"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:175
+msgid "Ecosystem"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:178
+msgid "What you can do with Thunderbird doesn't stop with us."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:180
+msgid "Explore Thunderbird Add-Ons"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:185
+msgid "A grid of various add-on icons."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:191 sites/www.thunderbird.net/mobile/index.html:187
+msgid "Helpful Resources."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:192 sites/www.thunderbird.net/mobile/index.html:188
+msgid "Helpful"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:195 sites/www.thunderbird.net/mobile/index.html:191
+msgid "Level up your Thunderbird Skills."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:200 sites/www.thunderbird.net/mobile/index.html:196
+msgid "Getting Started"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:201 sites/www.thunderbird.net/mobile/index.html:197
+msgid "Almost anyone can participate in making Thunderbird better and more accessible to others. Come and learn what opportunities are available. Find ways to contribute to the project:"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:202 sites/www.thunderbird.net/mobile/index.html:198
+msgid "How to Participate"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:205 sites/www.thunderbird.net/mobile/index.html:201
+msgid "Share Ideas"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:206 sites/www.thunderbird.net/mobile/index.html:202
+msgid "When developers, designers, and users work together amazing things happen. Come share your ideas for how Thunderbird could be better."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:210 sites/www.thunderbird.net/mobile/index.html:206
+msgid "Find Support"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:211 sites/www.thunderbird.net/mobile/index.html:207
+msgid "Learn how to use Thunderbird and ask your questions. Thunderbird contributors from around the world are working to make your experience great."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:212 sites/www.thunderbird.net/mobile/index.html:208
+msgid "Support Site"
+msgstr ""
+
 #: sites/www.thunderbird.net/donate/help/index.html:9 sites/www.thunderbird.net/donate/help/thank-you/index.html:9 sites/www.thunderbird.net/donate/index.html:9
-#: sites/www.thunderbird.net/includes/base/footer.html:43 sites/www.thunderbird.net/includes/base/nav.html:67 sites/www.thunderbird.net/participate/index.html:9
+#: sites/www.thunderbird.net/includes/base/footer.html:40 sites/www.thunderbird.net/includes/base/nav.html:64 sites/www.thunderbird.net/participate/index.html:9
 msgid "Contribute"
 msgstr "寄付"
 
@@ -1061,28 +1315,32 @@ msgstr "Thunderbird.netへ戻る"
 msgid "Support Thunderbird for Android"
 msgstr ""
 
-#: sites/www.thunderbird.net/download/index.html:15
+#: sites/www.thunderbird.net/download/index.html:9 sites/www.thunderbird.net/thunderbird/all/index.html:10 sites/www.thunderbird.net/thunderbird/all/index.html:100
+msgid "Download"
+msgstr "ダウンロード"
+
+#: sites/www.thunderbird.net/download/index.html:16
 msgid "Download <span class=\"txt-gradient\">Thunderbird</span>"
 msgstr " <span class=\"txt-gradient\">Thunderbird</span>をダウンロード"
 
-#: sites/www.thunderbird.net/includes/download-button.html:14 sites/www.thunderbird.net/includes/download-button.html:94
-msgid "Download Thunderbird"
-msgstr "Thunderbird をダウンロード"
+#: sites/www.thunderbird.net/includes/download-and-options.html:3 sites/www.thunderbird.net/includes/download-button.html:36
+msgid "Available on Windows, Linux, Mac, and Android."
+msgstr ""
 
-#: sites/www.thunderbird.net/includes/download-button.html:35
-msgid "Available on Windows, Linux, Mac"
-msgstr "Windows、Linux、Macで利用可能"
-
-#: sites/www.thunderbird.net/includes/download-button.html:57
+#: sites/www.thunderbird.net/includes/download-and-options.html:23 sites/www.thunderbird.net/includes/download-button.html:56
 msgid "Download and languages options"
 msgstr "ダウンロードと言語のオプション"
 
-#: sites/www.thunderbird.net/includes/download-button.html:69
+#: sites/www.thunderbird.net/includes/download-button.html:14 sites/www.thunderbird.net/includes/download-button.html:94 sites/www.thunderbird.net/includes/macros/download-smart.html:18
+msgid "Download Thunderbird"
+msgstr "Thunderbird をダウンロード"
+
+#: sites/www.thunderbird.net/includes/download-button.html:68
 #, python-format
 msgid "Your system doesn't meet the <a href=\"%(url)s\">requirements</a> to run Thunderbird."
 msgstr "お使いのシステムは Thunderbird が動作する <a href=\"%(url)s\">要件</a> を満たしていません。"
 
-#: sites/www.thunderbird.net/includes/download-button.html:72
+#: sites/www.thunderbird.net/includes/download-button.html:71
 #, python-format
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
 msgstr "Thunderbird をインストールするには <a href=\"%(url)s\">こちらの手順</a> に従ってください。"
@@ -1095,11 +1353,13 @@ msgstr "Thunderbird Beta"
 msgid "Thunderbird Daily"
 msgstr "Thunderbird Daily"
 
-#: sites/www.thunderbird.net/includes/download-button.html:102
+#: sites/www.thunderbird.net/includes/download-button.html:102 sites/www.thunderbird.net/includes/macros/download-desktop.html:30 sites/www.thunderbird.net/includes/macros/download-mobile.html:29
+#: sites/www.thunderbird.net/includes/macros/download-smart.html:39
 msgid "Free forever."
 msgstr "永久無料です。"
 
-#: sites/www.thunderbird.net/includes/download-button.html:102
+#: sites/www.thunderbird.net/includes/download-button.html:102 sites/www.thunderbird.net/includes/macros/download-desktop.html:31 sites/www.thunderbird.net/includes/macros/download-mobile.html:29
+#: sites/www.thunderbird.net/includes/macros/download-smart.html:39
 msgid "to make it better."
 msgstr "しましょう。より良くするために。"
 
@@ -1322,39 +1582,47 @@ msgstr "Mozilla"
 msgid "Home"
 msgstr "ホーム"
 
-#: sites/www.thunderbird.net/includes/base/footer.html:24 sites/www.thunderbird.net/includes/base/nav.html:40
+#: sites/www.thunderbird.net/includes/base/footer.html:13 sites/www.thunderbird.net/includes/base/nav.html:20 sites/www.thunderbird.net/thunderbird/releases/index.html:9
+msgid "Products"
+msgstr "製品"
+
+#: sites/www.thunderbird.net/includes/base/footer.html:16 sites/www.thunderbird.net/includes/base/nav.html:25 sites/www.thunderbird.net/mobile/index.html:10
+msgid "Thunderbird Mobile"
+msgstr "Thunderbirdモバイル"
+
+#: sites/www.thunderbird.net/includes/base/footer.html:22 sites/www.thunderbird.net/includes/base/nav.html:38
 msgid "Blog"
 msgstr "ブログ"
 
-#: sites/www.thunderbird.net/includes/base/footer.html:25 sites/www.thunderbird.net/includes/base/nav.html:41
+#: sites/www.thunderbird.net/includes/base/footer.html:23
 msgid "Get Help"
 msgstr "ヘルプサポート"
 
-#: sites/www.thunderbird.net/includes/base/footer.html:27 sites/www.thunderbird.net/includes/base/nav.html:43
+#: sites/www.thunderbird.net/includes/base/footer.html:24 sites/www.thunderbird.net/includes/base/nav.html:78 sites/www.thunderbird.net/includes/base/nav.html:83
 msgid "Downloads"
 msgstr "ダウンロード"
 
-#: sites/www.thunderbird.net/includes/base/footer.html:28 sites/www.thunderbird.net/thunderbird/all/index.html:140 sites/www.thunderbird.net/thunderbird/all/index.html:154
+#: sites/www.thunderbird.net/includes/base/footer.html:25 sites/www.thunderbird.net/thunderbird/all/index.html:127 sites/www.thunderbird.net/thunderbird/all/index.html:166
 msgid "Release Notes"
 msgstr "リリースノート"
 
-#: sites/www.thunderbird.net/includes/base/footer.html:29
+#: sites/www.thunderbird.net/includes/base/footer.html:26
 msgid "For Enterprises"
 msgstr "法人向け"
 
-#: sites/www.thunderbird.net/includes/base/footer.html:30
+#: sites/www.thunderbird.net/includes/base/footer.html:27
 msgid "Holiday Calendars"
 msgstr "休日カレンダー"
 
-#: sites/www.thunderbird.net/includes/base/footer.html:38 sites/www.thunderbird.net/includes/base/nav.html:58
+#: sites/www.thunderbird.net/includes/base/footer.html:35 sites/www.thunderbird.net/includes/base/nav.html:55
 msgid "Careers"
 msgstr "採用情報"
 
-#: sites/www.thunderbird.net/includes/base/footer.html:39
+#: sites/www.thunderbird.net/includes/base/footer.html:36
 msgid "Thunderbird Privacy"
 msgstr "Thunderbird プライバシー"
 
-#: sites/www.thunderbird.net/includes/base/footer.html:69
+#: sites/www.thunderbird.net/includes/base/footer.html:66
 #, python-format
 msgid ""
 "<small> Thunderbird is part of <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a>, a wholly owned subsidiary of Mozilla Foundation. Portions of"
@@ -1369,77 +1637,69 @@ msgstr ""
 "        </small>\n"
 "        "
 
-#: sites/www.thunderbird.net/includes/base/footer.html:79 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:385 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:461
+#: sites/www.thunderbird.net/includes/base/footer.html:76 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:385 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:461
 #: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:308 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:327
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:443
 msgid "Contribute to this site"
 msgstr "このサイトに貢献"
 
-#: sites/www.thunderbird.net/includes/base/footer.html:83 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:388 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:464
+#: sites/www.thunderbird.net/includes/base/footer.html:80 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:388 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:464
 #: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:311 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:330
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:446
 msgid "Translate this site"
 msgstr "このサイトを翻訳"
 
-#: sites/www.thunderbird.net/includes/base/nav.html:21 sites/www.thunderbird.net/thunderbird/releases/index.html:9
-msgid "Products"
-msgstr "製品"
-
-#: sites/www.thunderbird.net/includes/base/nav.html:25 sites/www.thunderbird.net/thunderbird/releases/index.html:9
-msgid "Thunderbird Desktop"
-msgstr "Thunderbirdデスクトップ"
-
-#: sites/www.thunderbird.net/includes/base/nav.html:25
+#: sites/www.thunderbird.net/includes/base/nav.html:24
 msgid "Meet the powerful email, calendar, and contacts app for Windows, Linux, and macOS."
 msgstr "Windows、Linux、macOS用の強力なメール、カレンダー、連絡先アプリをご紹介します。"
 
-#: sites/www.thunderbird.net/includes/base/nav.html:26
-msgid "Thunderbird Mobile"
-msgstr "Thunderbirdモバイル"
-
-#: sites/www.thunderbird.net/includes/base/nav.html:26
+#: sites/www.thunderbird.net/includes/base/nav.html:25
 msgid "Learn about the leading open-source email app for Android."
 msgstr "Android用の主要なオープンソースメールアプリについて説明します。"
 
-#: sites/www.thunderbird.net/includes/base/nav.html:40
+#: sites/www.thunderbird.net/includes/base/nav.html:38
 msgid "Learn about new product releases, community events, tech tips, and more."
 msgstr "新製品のリリース、コミュニティイベント、技術的なヒントなどについてご紹介します。"
 
-#: sites/www.thunderbird.net/includes/base/nav.html:41
-msgid "Find the help you need configuring and using Thunderbird."
-msgstr "Thunderbirdの設定と使用に必要なヘルプを見つけてください。"
+#: sites/www.thunderbird.net/includes/base/nav.html:39
+msgid "Desktop Help"
+msgstr ""
 
-#: sites/www.thunderbird.net/includes/base/nav.html:42
-msgid "Podcasts"
-msgstr "ポッドキャスト"
+#: sites/www.thunderbird.net/includes/base/nav.html:39
+msgid "Find the help you need configuring and using Thunderbird Desktop."
+msgstr ""
 
-#: sites/www.thunderbird.net/includes/base/nav.html:42
-msgid "Meet interesting people and hear their Thunderbird stories."
-msgstr "興味深い人々と出会い、彼らのThunderbirdの話を聞きましょう。"
+#: sites/www.thunderbird.net/includes/base/nav.html:40
+msgid "Mobile Help"
+msgstr ""
 
-#: sites/www.thunderbird.net/includes/base/nav.html:43
-msgid "Find the latest version of Thunderbird."
-msgstr "Thunderbirdの最新バージョンを見つけてください。"
+#: sites/www.thunderbird.net/includes/base/nav.html:40
+msgid "Find the help you need configuring and using Thunderbird Mobile."
+msgstr ""
 
-#: sites/www.thunderbird.net/includes/base/nav.html:56
+#: sites/www.thunderbird.net/includes/base/nav.html:53
 msgid "Learn how our values, community, and organization shape the future of Thunderbird."
 msgstr "当社の価値観、コミュニティ、組織がThunderbirdの未来をどのように形作っているかをご覧ください。"
 
-#: sites/www.thunderbird.net/includes/base/nav.html:57
+#: sites/www.thunderbird.net/includes/base/nav.html:54
 msgid "Find out who to contact and how."
 msgstr "連絡先と連絡方法をご確認ください。"
 
-#: sites/www.thunderbird.net/includes/base/nav.html:58
+#: sites/www.thunderbird.net/includes/base/nav.html:55
 msgid "We have an enthusiastic team with diverse talents. Learn how to join us."
 msgstr "私たちは、多様な才能を持つ熱心なチームを持っています。参加方法をご覧ください。"
 
-#: sites/www.thunderbird.net/includes/base/nav.html:71
+#: sites/www.thunderbird.net/includes/base/nav.html:68
 msgid "Learn how to donate as an individual or business to support Thunderbird and open source."
 msgstr "Thunderbirdとオープンソースをサポートするために、個人または企業として寄付する方法を学びます。"
 
-#: sites/www.thunderbird.net/includes/base/nav.html:72
+#: sites/www.thunderbird.net/includes/base/nav.html:69
 msgid "We need helping hands of all kinds. Learn how you can help Thunderbird and others."
 msgstr "私たちはあらゆる種類の助けを必要としています。Thunderbirdなどを支援する方法をご覧ください。"
+
+#: sites/www.thunderbird.net/includes/base/nav.html:83
+msgid "Find the latest version of Thunderbird."
+msgstr "Thunderbirdの最新バージョンを見つけてください。"
 
 #: sites/www.thunderbird.net/includes/base/page.html:16
 msgid "Thunderbird Logo"
@@ -1709,6 +1969,124 @@ msgstr "CAPTCHAを完了するまで、送信ボタンは無効になります�
 msgid "Submit"
 msgstr "送信"
 
+#: sites/www.thunderbird.net/includes/macros/download-block.html:13
+msgid "Are you ready to love email again?"
+msgstr "メールをもう一度好きになる準備はできていますか？"
+
+#: sites/www.thunderbird.net/includes/macros/download-mobile.html:14
+msgid "Google Play"
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/macros/download-mobile.html:25
+msgid "F-Droid"
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:22 sites/www.thunderbird.net/thunderbird/all/index.html:138 sites/www.thunderbird.net/thunderbird/all/index.html:177
+msgid "Thunderbird Mobile."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:23 sites/www.thunderbird.net/thunderbird/all/index.html:139 sites/www.thunderbird.net/thunderbird/all/index.html:178
+msgid "Mobile"
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:26
+msgid "Meet the leading open-source email app for Android. Enjoy complete freedom anywhere you take your smartphone."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:62
+msgid "No Ads or Spyware"
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:63
+msgid "It’s actually free!"
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:64
+msgid "Instead of making money with ads or data, Thunderbird is developed with donations of time and money from people just like you. Manage your email without giving up more of your privacy."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:70
+msgid "A cropped screenshot of the Thunderbird for Android's interface."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:73
+msgid "All-in-One Email App"
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:74
+msgid "Reduce app clutter."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:75
+msgid "Consolidate all your email apps into one powerful app that respects your privacy and freedom. View messages separately or in one unified inbox."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:91
+msgid "Multiple Account Support "
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:92
+msgid "Don’t miss a message."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:93
+msgid "Sync with email accounts for home, school, and work. Almost anywhere you receive messages, we will have you covered."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:123
+msgid "A video of an envelope with password masking asterisks in front of it."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:131
+msgid "Advanced Email Encryption"
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:132
+msgid "Send and receive secure messages on any account."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:133
+msgid ""
+"Advanced users who want the highest level of privacy can send and receive encrypted emails using the OpenPGP standard when paired with the free and open source OpenKeychain app. Even your email "
+"provider won’t have access to your messages."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:141
+msgid "A video of the Thunderbird for Android's interface transitioning from light mode to dark mode and back again."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:149
+msgid "Light and Dark Interface"
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:150
+msgid "Match your preference or environment."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:151
+msgid "Read your email any time of day and in the way you love with native dark and light mode support. Many small interface features will make you fall in love with Thunderbird Mobile."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:171
+msgid "Instant Setup."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:172
+msgid "Instant"
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:172
+msgid "Setup"
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:175
+msgid "Thunderbird Desktop users can migrate their settings quickly. Just scan the desktop app QR code from the mobile app."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:181
+msgid "Two QR codes are shown, one on a mobile device and another in the distance on a desktop."
+msgstr ""
+
 #: sites/www.thunderbird.net/newsletter/index.html:8 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:302 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:223
 #: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:242 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:359
 msgid "Join our Newsletter"
@@ -1751,7 +2129,7 @@ msgid "Desktop Development:"
 msgstr "デスクトップ開発："
 
 #: sites/www.thunderbird.net/participate/index.html:29 sites/www.thunderbird.net/participate/index.html:37 sites/www.thunderbird.net/participate/index.html:45
-#: sites/www.thunderbird.net/participate/index.html:64
+#: sites/www.thunderbird.net/participate/index.html:76 sites/www.thunderbird.net/participate/index.html:83
 #, python-format
 msgid "Explore the <a href=\"%(url)s\">docs</a>"
 msgstr "<a href=\"%(url)s\">ドキュメント</a>を見る"
@@ -1762,7 +2140,7 @@ msgid "Join the <a href=\"%(url)s\">repository</a>"
 msgstr "<a href=\"%(url)s\">リポジトリに参加する</a>"
 
 #: sites/www.thunderbird.net/participate/index.html:31 sites/www.thunderbird.net/participate/index.html:39 sites/www.thunderbird.net/participate/index.html:47
-#: sites/www.thunderbird.net/participate/index.html:74 sites/www.thunderbird.net/participate/index.html:106
+#: sites/www.thunderbird.net/participate/index.html:96 sites/www.thunderbird.net/participate/index.html:102 sites/www.thunderbird.net/participate/index.html:147
 #, python-format
 msgid "Say hello in <a href=\"%(url)s\">Matrix</a>"
 msgstr "<a href=\"%(url)s\">マトリックス</a>で挨拶する"
@@ -1779,199 +2157,218 @@ msgstr "ウェブサイト開発："
 msgid "Test"
 msgstr "テスト"
 
-#: sites/www.thunderbird.net/participate/index.html:53
+#: sites/www.thunderbird.net/participate/index.html:52
 msgid ""
 "With so many unique hardware environments and workflows, community members who test pre-release builds of Thunderbird play a vital role in the quality of the software. Plus, you help catch bugs "
 "before they can reach the general public!"
 msgstr "多くのユニークなハードウェア環境やワークフローを使い、Thunderbirdのプレリリースビルドをテストするコミュニティメンバーは、ソフトウェアの品質に重要な役割を果たしています。さらに、バグが一般公開される前にバグを発見することもできます！"
 
-#: sites/www.thunderbird.net/participate/index.html:55
+#: sites/www.thunderbird.net/participate/index.html:55 sites/www.thunderbird.net/participate/index.html:74 sites/www.thunderbird.net/participate/index.html:94
+#: sites/www.thunderbird.net/participate/index.html:111
+msgid "Desktop:"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:57 sites/www.thunderbird.net/participate/index.html:64
 #, python-format
 msgid "Learn about testing <a href=\"%(url)s\">Beta</a>"
 msgstr "<a href=\"%(url)s\">ベータ版</a>のテストについて学ぶ"
 
-#: sites/www.thunderbird.net/participate/index.html:56
+#: sites/www.thunderbird.net/participate/index.html:58 sites/www.thunderbird.net/participate/index.html:65
 #, python-format
 msgid "Report <a href=\"%(url)s\">bugs</a>"
 msgstr " <a href=\"%(url)s\">バグを</a>報告する"
 
-#: sites/www.thunderbird.net/participate/index.html:60
+#: sites/www.thunderbird.net/participate/index.html:62 sites/www.thunderbird.net/participate/index.html:81 sites/www.thunderbird.net/participate/index.html:100
+#: sites/www.thunderbird.net/participate/index.html:119
+msgid "Mobile:"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:70
 msgid "Translate"
 msgstr "翻訳"
 
-#: sites/www.thunderbird.net/participate/index.html:62
+#: sites/www.thunderbird.net/participate/index.html:71
 msgid ""
 "The entire world deserves free and open source software, and Thunderbird is currently translated in more than 50 languages! Use your multilingual talents to help make Thunderbird more widely "
 "available than ever."
 msgstr "世界中が無料のオープンソースソフトウェアに値し、Thunderbirdは現在50以上の言語に翻訳されています！外国語の才能を活用して、Thunderbirdをこれまで以上に広く利用できるようにしましょう。"
 
-#: sites/www.thunderbird.net/participate/index.html:65
+#: sites/www.thunderbird.net/participate/index.html:77
 #, python-format
 msgid "Join us on <a href=\"%(url)s\">Pontoon</a>"
 msgstr "<a href=\"%(url)s\">Pontoon</a>で参加できます"
 
-#: sites/www.thunderbird.net/participate/index.html:71
+#: sites/www.thunderbird.net/participate/index.html:84
+#, python-format
+msgid "Join us on <a href=\"%(url)s\">Weblate</a>"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:90
 msgid ""
 "Are you an experienced Thunderbird user who loves lending a helping hand? Put your knowledge to great use by joining our Support Crew and helping users around the world with their Thunderbird "
 "questions."
 msgstr "お手伝いが大好きなThunderbirdユーザーですか？サポートクルーに参加して、世界中のユーザーからのThunderbirdに関する質問に回答し、あなたの知識を最大限に活用してください。"
 
-#: sites/www.thunderbird.net/participate/index.html:72
+#: sites/www.thunderbird.net/participate/index.html:91
 msgid "You can join our Thunderbird Community Support Matrix room to get and give user support."
 msgstr "Thunderbirdコミュニティサポートマトリックスルームに参加して、ユーザーサポートを取得し、提供することができます。"
 
-#: sites/www.thunderbird.net/participate/index.html:78
+#: sites/www.thunderbird.net/participate/index.html:107
 msgid "Document"
 msgstr "ドキュメント"
 
-#: sites/www.thunderbird.net/participate/index.html:80
+#: sites/www.thunderbird.net/participate/index.html:108
 msgid ""
 "Help ensure the answers are written down before the question is even asked! From documenting features or APIs to frequently asked user support questions, put your knowledge and writing skills to use"
 " for the benefit of the entire Thunderbird community."
 msgstr "質問される前に回答が書き留められていることを確認するのに役立ちます！機能やAPIの文書化からユーザーサポートに関するよくある質問まで、Thunderbirdコミュニティ全体の利益のためにあなたの知識とライティングスキルを使用してください。"
 
-#: sites/www.thunderbird.net/participate/index.html:82
+#: sites/www.thunderbird.net/participate/index.html:113 sites/www.thunderbird.net/participate/index.html:121
 #, python-format
 msgid "User Support <a href=\"%(url)s\">documentation</a>"
 msgstr "ユーザーサポート<a href=\"%(url)s\">ドキュメント</a>"
 
-#: sites/www.thunderbird.net/participate/index.html:83
+#: sites/www.thunderbird.net/participate/index.html:114
 #, python-format
 msgid "Developer <a href=\"%(url)s\">documentation</a>"
 msgstr "デベロッパー<a href=\"%(url)s\">ドキュメント</a>"
 
-#: sites/www.thunderbird.net/participate/index.html:84
+#: sites/www.thunderbird.net/participate/index.html:115
 #, python-format
 msgid "Code <a href=\"%(url)s\">documentation</a>"
 msgstr "コード<a href=\"%(url)s\">ドキュメント</a>"
 
-#: sites/www.thunderbird.net/participate/index.html:88
+#: sites/www.thunderbird.net/participate/index.html:126
 msgid "Promote"
 msgstr "昇格"
 
-#: sites/www.thunderbird.net/participate/index.html:90
+#: sites/www.thunderbird.net/participate/index.html:128
 msgid ""
 "Advocacy is one of the easiest ways to contribute to Thunderbird! Boosting our posts on Mastodon, showcasing the software to a friend, upvoting a helpful answer on Reddit; anything that adds "
 "visibility is a huge help. Here’s where to find us on various social platforms, and how to get involved."
 msgstr "アドボカシーは、Thunderbirdに貢献する最も簡単な方法の1つです！ Mastodonでの投稿をブーストし、ソフトウェアを友達に紹介し、Redditで役に立つ回答に投票します。可視性を高めるものはすべて大きな助けになります。さまざまなソーシャルプラットフォームで私たちを見つける方法と参加する方法について説明します。"
 
-#: sites/www.thunderbird.net/participate/index.html:92
+#: sites/www.thunderbird.net/participate/index.html:130
 msgid "Reddit"
 msgstr "Reddit"
 
-#: sites/www.thunderbird.net/participate/index.html:93
+#: sites/www.thunderbird.net/participate/index.html:131
 msgid "Mastodon"
 msgstr "Mastodon"
 
-#: sites/www.thunderbird.net/participate/index.html:94
+#: sites/www.thunderbird.net/participate/index.html:132
 msgid "X (Formerly Twitter)"
 msgstr "X（旧Twitter）"
 
-#: sites/www.thunderbird.net/participate/index.html:95
+#: sites/www.thunderbird.net/participate/index.html:133
 msgid "YouTube"
 msgstr "YouTube"
 
-#: sites/www.thunderbird.net/participate/index.html:96
+#: sites/www.thunderbird.net/participate/index.html:134
 msgid "TILVids"
 msgstr "TILVids"
 
-#: sites/www.thunderbird.net/participate/index.html:97
+#: sites/www.thunderbird.net/participate/index.html:135
 msgid "LinkedIn"
 msgstr "LinkedIn"
 
-#: sites/www.thunderbird.net/participate/index.html:101
+#: sites/www.thunderbird.net/participate/index.html:137
+msgid "Leave a review on the Google Play"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:142
 msgid "Design"
 msgstr "デザイン"
 
-#: sites/www.thunderbird.net/participate/index.html:103
+#: sites/www.thunderbird.net/participate/index.html:144
 msgid ""
 "Share your ideas, and contribute to the ongoing conversations around Thunderbird’s UX and UI. We welcome your feedback to developer designs on our UX mailing list, and our companion Matrix room."
 msgstr "あなたのアイデアを共有し、ThunderbirdのUXとUIに関する進行中の会話に貢献してください。UXメーリングリストとコンパニオンマトリックスルームのデベロッパーデザインへのフィードバックを歓迎します。"
 
-#: sites/www.thunderbird.net/participate/index.html:105
+#: sites/www.thunderbird.net/participate/index.html:146
 #, python-format
 msgid "Join in on the <a href=\"%(url)s\">discussion</a>"
 msgstr "<a href=\"%(url)s\">ディスカッション</a>に参加する"
 
-#: sites/www.thunderbird.net/participate/index.html:111
+#: sites/www.thunderbird.net/participate/index.html:152
 msgid "One more way you can contribute is by sharing <strong>ideas</strong>, <strong>priorities</strong>, and <strong>feedback</strong>. Thunderbird is yours and we're listening."
 msgstr "もう1つの方法は、<strong>アイデア</strong>、<strong>優先順位</strong>、<strong>フィードバック</strong>を共有することです。Thunderbirdはあなたのものであり、私たちは耳を傾けています。"
 
-#: sites/www.thunderbird.net/participate/index.html:121
+#: sites/www.thunderbird.net/participate/index.html:162
 msgid "Contributor <span class=\"txt-gradient\">Experience</span>"
 msgstr "コントリビューター<span class=\"txt-gradient\">エクスペリエンス</span>"
 
-#: sites/www.thunderbird.net/participate/index.html:122
+#: sites/www.thunderbird.net/participate/index.html:163
 msgid "The ways and reasons to get involved are as diverse as the people who do."
 msgstr "参加する方法と理由は、参加する人と同じくらい多様です。"
 
-#: sites/www.thunderbird.net/participate/index.html:123
+#: sites/www.thunderbird.net/participate/index.html:164
 msgid "Our volunteers come from diverse backgrounds and bring unique talents. They're making Thunderbird better for themselves and better for the world at the same time. You can join them."
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:128
+#: sites/www.thunderbird.net/participate/index.html:169
 msgid "Leadership, Switzerland"
 msgstr "スイス、リーダーシップ"
 
-#: sites/www.thunderbird.net/participate/index.html:129
+#: sites/www.thunderbird.net/participate/index.html:170
 msgid "Thunderbird is a testament to the power of the open-source community's contribution to driving innovation and efficiency."
 msgstr "Thunderbirdは、オープンソースコミュニティがイノベーションと効率性を促進するために貢献する力があることを証明しています。"
 
-#: sites/www.thunderbird.net/participate/index.html:131
+#: sites/www.thunderbird.net/participate/index.html:172
 msgid "Bug Triager, USA"
 msgstr "バグのトリアージ担当、米国"
 
-#: sites/www.thunderbird.net/participate/index.html:132
+#: sites/www.thunderbird.net/participate/index.html:173
 msgid "If you don't have skin in the game, you can't complain about the direction the product is going in."
 msgstr "もしゲームに参加していないなら、製品の方向性に文句を言うことはできません。"
 
-#: sites/www.thunderbird.net/participate/index.html:134
+#: sites/www.thunderbird.net/participate/index.html:175
 msgid "Developer, Germany"
 msgstr "デベロッパー、ドイツ"
 
-#: sites/www.thunderbird.net/participate/index.html:135
+#: sites/www.thunderbird.net/participate/index.html:176
 msgid "It is great to be able to improve the software by fixing little things that affect me and other users"
 msgstr "私や他のユーザーに影響を与えるような小さなことを修正することで、ソフトウェアを改善できるのは素晴らしいことです。"
 
-#: sites/www.thunderbird.net/participate/index.html:137
+#: sites/www.thunderbird.net/participate/index.html:178
 msgid "Tester & Bug Triager, USA"
 msgstr "テストとバグのトリアージ担当、米国"
 
-#: sites/www.thunderbird.net/participate/index.html:138
+#: sites/www.thunderbird.net/participate/index.html:179
 msgid "I volunteer to use the beta versions as soon as they are built, report issues I find, and test fixes."
 msgstr "私は、ベータ版が構築されたらすぐに使用し、見つけた問題を報告し、修正をテストします。"
 
-#: sites/www.thunderbird.net/participate/index.html:140
+#: sites/www.thunderbird.net/participate/index.html:181
 msgid "Support & Bug Triager, United Kingdom"
 msgstr "サポートとバグのトリアージ担当、英国"
 
-#: sites/www.thunderbird.net/participate/index.html:141
+#: sites/www.thunderbird.net/participate/index.html:182
 msgid "I volunteer to assist others in the Thunderbird Support Forum which I find a very rewarding experience."
 msgstr "私はThunderbirdサポートフォーラムで他の人を支援するためにボランティアをしています。これは非常にやりがいのある経験です。"
 
-#: sites/www.thunderbird.net/participate/index.html:143
+#: sites/www.thunderbird.net/participate/index.html:184
 msgid "Translator, Bug Triager & Leadership, Bulgaria"
 msgstr "翻訳、バグのトリアージ担当、リーダーシップ、ブルガリア"
 
-#: sites/www.thunderbird.net/participate/index.html:144
+#: sites/www.thunderbird.net/participate/index.html:185
 msgid "I began by contributing translations, thinking that people who speak my language deserve localized versions."
 msgstr "私は、母国語を話す人々にはローカライズされたバージョンがふさわしいと考え、翻訳することから始めました。"
 
-#: sites/www.thunderbird.net/participate/index.html:154
+#: sites/www.thunderbird.net/participate/index.html:195
 msgid "Shape the <span class=\"txt-gradient\">Future</span>"
 msgstr " <span class=\"txt-gradient\">未来</span>を形作る"
 
-#: sites/www.thunderbird.net/participate/index.html:155
+#: sites/www.thunderbird.net/participate/index.html:196
 msgid "Improve software and lives by volunteering."
 msgstr "ボランティア活動により、ソフトウェアと生活を向上させます。"
 
-#: sites/www.thunderbird.net/participate/index.html:156
+#: sites/www.thunderbird.net/participate/index.html:197
 msgid ""
 "Craft tools you want to use. Help others find and use software that respects their privacy and freedom. Become part of a better future for yourself and others by putting your talents to work at "
 "Thunderbird."
 msgstr ""
 
-#: sites/www.thunderbird.net/participate/index.html:159
+#: sites/www.thunderbird.net/participate/index.html:200
 msgid "Various gears all working in tandem with a heart, a code symbol, a magnifying glass displaying a very small bug, and the Thunderbird Logo in the centre of it all."
 msgstr "さまざまなギアが、ハート、コードシンボル、非常に小さなバグを表示する虫眼鏡、そしてすべての中心にあるThunderbirdロゴと連携して機能します。"
 
@@ -3074,79 +3471,79 @@ msgstr ".icsファイルを処理するために登録し、ファイルをダ�
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 91.0 and up</a>."
 msgstr "すべての変更点の詳細は、<a href=\"%(release)s\">Thunderbird 91.0 以降</a> のリリースノートをご覧ください。"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:19 sites/www.thunderbird.net/thunderbird/all/index.html:166
-msgid "Get <span class=\"txt-gradient\">Thunderbird</span>"
-msgstr "<span class=\"txt-gradient\">Thunderbird</span>を入手する"
-
-#: sites/www.thunderbird.net/thunderbird/all/index.html:21
+#: sites/www.thunderbird.net/thunderbird/all/index.html:24
 msgid "These are officially maintained and distributed by Thunderbird. Download the latest Release version unless you wish to test the Beta version and report bugs."
 msgstr "これらは、Thunderbirdによって公式に維持および配布されています。ベータ版をテストしてバグを報告する場合を除き、最新のリリースバージョンをダウンロードしてください。"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:25
+#: sites/www.thunderbird.net/thunderbird/all/index.html:28
 msgid "The Daily version is an unstable testing and development platform, make sure you back up important data regularly!"
 msgstr "デイリーバージョンはテストおよび開発用のプラットフォームで不安定です。重要なデータは定期的にバックアップするようにしてください！"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:28
+#: sites/www.thunderbird.net/thunderbird/all/index.html:31
 msgid "Thunderbird Release is available for testing purposes only until releases are deemed stable enough for official support. Make sure you backup important data regularly!"
 msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:33
+#: sites/www.thunderbird.net/thunderbird/all/index.html:36
 msgid "Locale"
 msgstr "ロケール"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:47
+#: sites/www.thunderbird.net/thunderbird/all/index.html:50
 msgid "Release Channel"
 msgstr "チャンネルをリリース"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:58
+#: sites/www.thunderbird.net/thunderbird/all/index.html:61
 msgid "Operating System"
 msgstr "オペレーティングシステム"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:70
+#: sites/www.thunderbird.net/thunderbird/all/index.html:73
 msgid "Need a specific installer?"
 msgstr "特定のインストーラーが必要ですか？"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:74
+#: sites/www.thunderbird.net/thunderbird/all/index.html:77
 msgid "Installer Type"
 msgstr "インストーラタイプ"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:111
-msgid "Release Information"
-msgstr "リリース情報"
-
-#: sites/www.thunderbird.net/thunderbird/all/index.html:116
+#: sites/www.thunderbird.net/thunderbird/all/index.html:105 sites/www.thunderbird.net/thunderbird/all/index.html:150
 msgid "Other Downloads"
 msgstr "その他のダウンロードパス"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:119
+#: sites/www.thunderbird.net/thunderbird/all/index.html:108
 msgid "Microsoft Apps Store"
 msgstr "Microsoft Apps Store"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:124
+#: sites/www.thunderbird.net/thunderbird/all/index.html:111
 msgid "Flathub"
 msgstr "Flathub"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:127
+#: sites/www.thunderbird.net/thunderbird/all/index.html:114
 msgid "Snap Store"
 msgstr "Snap Store"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:134
+#: sites/www.thunderbird.net/thunderbird/all/index.html:121 sites/www.thunderbird.net/thunderbird/all/index.html:160
 msgid "More Information"
 msgstr "詳細情報"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:137 sites/www.thunderbird.net/thunderbird/all/index.html:151
+#: sites/www.thunderbird.net/thunderbird/all/index.html:124 sites/www.thunderbird.net/thunderbird/all/index.html:163
 msgid "System Requirements"
 msgstr "動作環境"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:148
-msgid "More Information For Mobile"
-msgstr "モバイル用の詳細情報"
+#: sites/www.thunderbird.net/thunderbird/all/index.html:140
+msgid "New"
+msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:167
+#: sites/www.thunderbird.net/thunderbird/all/index.html:143 sites/www.thunderbird.net/thunderbird/all/index.html:180
+msgid "These are officially maintained and distributed by Thunderbird Mobile."
+msgstr ""
+
+#: sites/www.thunderbird.net/thunderbird/all/index.html:153
+msgid "Binary (.apk)"
+msgstr ""
+
+#: sites/www.thunderbird.net/thunderbird/all/index.html:189
 msgid "These are officially maintained and distributed by Thunderbird."
 msgstr "これらは、Thunderbirdによって公式に維持および配布されています。"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:168
+#: sites/www.thunderbird.net/thunderbird/all/index.html:190
 msgid "Jump to the language you wish to download by using the legend below."
 msgstr "以下の例を使用して、ダウンロードする言語に移動します。"
 
@@ -3161,6 +3558,40 @@ msgstr "Thunderbird リリースノートの Atom フィード"
 #: sites/www.thunderbird.net/thunderbird/releases/index.html:18
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Thunderbird のリリースノートはアプリケーションのバージョンごとに作成されています。リリースノートを見るには以下のリストから該当するバージョンを選択してください。"
+
+#~ msgid ""
+#~ "\n"
+#~ "            Meet Thunderbird, the <strong>email</strong> and <strong>productivity</strong> app that maximizes your freedoms.\n"
+#~ "          "
+#~ msgstr ""
+#~ "\n"
+#~ "            あなたの自由を最大限に引き出す<strong>メール</strong>、\n"
+#~ "<strong>生産性</strong>アプリの Thunderbird をご紹介します。\n"
+#~ "          "
+
+#~ msgid "Explore More Features"
+#~ msgstr "その他の機能を見る"
+
+#~ msgid "Available on Windows, Linux, Mac"
+#~ msgstr "Windows、Linux、Macで利用可能"
+
+#~ msgid "Find the help you need configuring and using Thunderbird."
+#~ msgstr "Thunderbirdの設定と使用に必要なヘルプを見つけてください。"
+
+#~ msgid "Podcasts"
+#~ msgstr "ポッドキャスト"
+
+#~ msgid "Meet interesting people and hear their Thunderbird stories."
+#~ msgstr "興味深い人々と出会い、彼らのThunderbirdの話を聞きましょう。"
+
+#~ msgid "Get <span class=\"txt-gradient\">Thunderbird</span>"
+#~ msgstr "<span class=\"txt-gradient\">Thunderbird</span>を入手する"
+
+#~ msgid "Release Information"
+#~ msgstr "リリース情報"
+
+#~ msgid "More Information For Mobile"
+#~ msgstr "モバイル用の詳細情報"
 
 #~ msgid ""
 #~ "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded\n"
@@ -3817,9 +4248,6 @@ msgstr "Thunderbird のリリースノートはアプリケーションのバー
 
 #~ msgid "Thunderbird Vector Wordmark"
 #~ msgstr "Thunderbird Vector Wordmark"
-
-#~ msgid "Features"
-#~ msgstr "主な機能"
 
 #~ msgid "Pay What You Want"
 #~ msgstr "希望額を寄付してください"

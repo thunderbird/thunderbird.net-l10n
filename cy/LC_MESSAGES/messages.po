@@ -2,12 +2,12 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-10-16 13:50-0700\n"
+"POT-Creation-Date: 2024-10-23 12:41-0700\n"
 "PO-Revision-Date: 2024-10-17 10:41+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language-Team: none\n"
@@ -28,10 +28,12 @@ msgid "Support us!"
 msgstr "Cefnogwch ni!"
 
 #: sites/start.thunderbird.net/beta/index.html:22 sites/start.thunderbird.net/release/index.html:22 sites/start.thunderbird.net/release/index.html:37 sites/www.thunderbird.net/donate/index.html:8
-#: sites/www.thunderbird.net/includes/base/footer.html:45 sites/www.thunderbird.net/includes/base/nav.html:71 sites/www.thunderbird.net/includes/base/nav.html:83
-#: sites/www.thunderbird.net/includes/download-button.html:102 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:80 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:288
-#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:74 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:209 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:228
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:79 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:345
+#: sites/www.thunderbird.net/includes/base/footer.html:42 sites/www.thunderbird.net/includes/base/nav.html:68 sites/www.thunderbird.net/includes/base/nav.html:90
+#: sites/www.thunderbird.net/includes/download-button.html:102 sites/www.thunderbird.net/includes/macros/download-desktop.html:31 sites/www.thunderbird.net/includes/macros/download-mobile.html:29
+#: sites/www.thunderbird.net/includes/macros/download-smart.html:39 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:80
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:288 sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:74 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:209
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:228 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:79
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:345
 msgid "Donate"
 msgstr "Cyfrannwch"
 
@@ -200,7 +202,8 @@ msgstr ""
 msgid "Share ideas and feedback."
 msgstr "Rhannwch syniadau ac adborth."
 
-#: sites/start.thunderbird.net/release/index.html:54 sites/www.thunderbird.net/participate/index.html:112
+#: sites/start.thunderbird.net/release/index.html:54 sites/www.thunderbird.net/desktop/index.html:207 sites/www.thunderbird.net/mobile/index.html:203
+#: sites/www.thunderbird.net/participate/index.html:153
 msgid "Mozilla Connect"
 msgstr "Mozilla Connect"
 
@@ -220,11 +223,11 @@ msgstr "Cwestiynau? Problemau?"
 msgid "If Crash Reporter appears when Thunderbird crashes, please provide as many details as possible to help developers."
 msgstr "Os bydd yr Adroddwr Chwalu'n ymddangos pan fydd Thunderbird wedi chwalu, rhowch ragor o fanylion i helpu datblygwyr."
 
-#: sites/updates.thunderbird.net/index.html:8 sites/updates.thunderbird.net/index.html:14
+#: sites/updates.thunderbird.net/index.html:8 sites/updates.thunderbird.net/index.html:24
 msgid "Hello!"
 msgstr "Helo!"
 
-#: sites/updates.thunderbird.net/index.html:16
+#: sites/updates.thunderbird.net/index.html:26
 #, python-format
 msgid "You're probably looking for <a href=\"%(url)s\">Thunderbird.net</a>."
 msgstr "Mae'n debyg eich bod yn chwilio am <a href=\"%(url)s\">Thunderbird.net</a>."
@@ -233,23 +236,26 @@ msgstr "Mae'n debyg eich bod yn chwilio am <a href=\"%(url)s\">Thunderbird.net</
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
 msgstr "Mae Thunderbird yn rhaglen e-bost am ddim, sy'n hawdd ei osod a'i addasu - ac mae'n llawn o nodweddion gwych!"
 
-#: sites/updates.thunderbird.net/includes/base/base.html:16 sites/www.thunderbird.net/includes/base/base.html:17 sites/www.thunderbird.net/includes/base/page.html:16
-#: sites/www.thunderbird.net/includes/product-metadata.html:2 sites/www.thunderbird.net/includes/product-metadata.html:21 sites/www.thunderbird.net/index.html:8
+#: sites/updates.thunderbird.net/includes/base/base.html:16 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:20 sites/www.thunderbird.net/desktop/index.html:24
+#: sites/www.thunderbird.net/includes/base/base.html:17 sites/www.thunderbird.net/includes/base/page.html:16 sites/www.thunderbird.net/includes/product-metadata.html:2
+#: sites/www.thunderbird.net/includes/product-metadata.html:21 sites/www.thunderbird.net/index.html:10 sites/www.thunderbird.net/mobile/index.html:23
 #: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:17 sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:18
 #: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:19 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:18 sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:18
 #: sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:18 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:19
 #: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:17 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:17 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:17
+#: sites/www.thunderbird.net/thunderbird/all/index.html:21 sites/www.thunderbird.net/thunderbird/all/index.html:139 sites/www.thunderbird.net/thunderbird/all/index.html:178
+#: sites/www.thunderbird.net/thunderbird/all/index.html:187
 msgid "Thunderbird"
 msgstr "Thunderbird"
 
 #: sites/updates.thunderbird.net/includes/base/footer.html:8 sites/www.thunderbird.net/about/index.html:56 sites/www.thunderbird.net/includes/appeal-footer.html:7
-#: sites/www.thunderbird.net/includes/base/footer.html:56 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:350 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:426
+#: sites/www.thunderbird.net/includes/base/footer.html:53 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:350 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:426
 #: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:273 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:292
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:408
 msgid "Privacy"
 msgstr "Preifatrwydd"
 
-#: sites/updates.thunderbird.net/includes/base/footer.html:10 sites/www.thunderbird.net/includes/appeal-footer.html:9 sites/www.thunderbird.net/includes/base/footer.html:58
+#: sites/updates.thunderbird.net/includes/base/footer.html:10 sites/www.thunderbird.net/includes/appeal-footer.html:9 sites/www.thunderbird.net/includes/base/footer.html:55
 #: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:353 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:429
 #: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:276 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:295
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:411
@@ -257,26 +263,55 @@ msgid "Cookies"
 msgstr "Cwcis"
 
 #: sites/updates.thunderbird.net/includes/base/footer.html:12 sites/www.thunderbird.net/contact/index.html:41 sites/www.thunderbird.net/includes/appeal-footer.html:11
-#: sites/www.thunderbird.net/includes/base/footer.html:60 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:357 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:433
+#: sites/www.thunderbird.net/includes/base/footer.html:57 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:357 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:433
 #: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:280 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:299
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:415
 msgid "Legal"
 msgstr "Cyfreithiol"
 
-#: sites/updates.thunderbird.net/includes/base/footer.html:14 sites/www.thunderbird.net/includes/appeal-footer.html:13 sites/www.thunderbird.net/includes/base/footer.html:62
+#: sites/updates.thunderbird.net/includes/base/footer.html:14 sites/www.thunderbird.net/includes/appeal-footer.html:13 sites/www.thunderbird.net/includes/base/footer.html:59
 msgid "Send DMCA Notice"
 msgstr "Anfon Hysbysiad DMCA"
 
-#: sites/updates.thunderbird.net/includes/base/footer.html:16 sites/www.thunderbird.net/includes/appeal-footer.html:15 sites/www.thunderbird.net/includes/base/footer.html:64
+#: sites/updates.thunderbird.net/includes/base/footer.html:16 sites/www.thunderbird.net/includes/appeal-footer.html:15 sites/www.thunderbird.net/includes/base/footer.html:61
 msgid "Report Fraud"
 msgstr "Adrodd am Dwyll"
 
-#: sites/updates.thunderbird.net/includes/base/footer.html:18 sites/www.thunderbird.net/includes/appeal-footer.html:17 sites/www.thunderbird.net/includes/base/footer.html:66
+#: sites/updates.thunderbird.net/includes/base/footer.html:18 sites/www.thunderbird.net/includes/appeal-footer.html:17 sites/www.thunderbird.net/includes/base/footer.html:63
 #: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:361 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:437
 #: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:284 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:303
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:419
 msgid "Participation Guidelines"
 msgstr "Canllawiau Cyfranogi"
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:14
+msgid "20 Years of Thunderbird!"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:20
+msgid "Turns 20, Thanks to You!"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:22
+msgid "The text 20 Years with a the Thunderbird logo in place of the zero."
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:30
+msgid "On December 7, 2004, Thunderbird 1.0 was released."
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:31
+msgid "Thunderbird is free. Free to use. Free of ads. Free of data tracking."
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:32
+#, python-format
+msgid "We rely solely on the generosity of our supporters and less than <b>3% of Thunderbird users keep us going.</b>"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:33
+msgid "Please help us continue for another 20 years."
+msgstr ""
 
 #: sites/www.thunderbird.net/404.html:8
 #, python-format
@@ -300,29 +335,20 @@ msgstr "Nid yw'r dudalen rydych yn chwilio amdani'n bodoli."
 msgid "If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>"
 msgstr "Os ydych chi'n meddwl mai gwall yw hwn, gallwch <a href=\"%(bug_report_url)s\">adrodd ar y mater hwn</a>"
 
-#: sites/www.thunderbird.net/index.html:9
+#: sites/www.thunderbird.net/index.html:11
 msgid "Free Your Inbox."
 msgstr "Ryddhewch eich Blwch Derbyn."
 
-#: sites/www.thunderbird.net/index.html:22 sites/www.thunderbird.net/index.html:336
+#: sites/www.thunderbird.net/includes/macros/download-block.html:12 sites/www.thunderbird.net/index.html:24
 msgid "<span class=\"txt-gradient\">Free</span> Your Inbox"
 msgstr "<span class=\"txt-gradient\">Ryddhewch</span> Eich Blwch Derbyn"
 
-#: sites/www.thunderbird.net/index.html:24
+#: sites/www.thunderbird.net/index.html:26
 msgid ""
 "\n"
-"            Meet Thunderbird, the <strong>email</strong> and <strong>productivity</strong> app that maximizes your freedoms.\n"
+"            Meet Thunderbird, the <strong>email and productivity</strong> app that maximizes your freedoms.\n"
 "          "
 msgstr ""
-"\n"
-"          Dyma Thunderbird, y rhaglen <strong>e-bost</strong>,\n"
-"          <strong>calendr</strong> a <strong>chysylltiadau</strong> sy'n gwneud y mwyaf o'ch rhyddid.\n"
-"          "
-
-#: sites/www.thunderbird.net/download/index.html:8 sites/www.thunderbird.net/download/index.html:16 sites/www.thunderbird.net/includes/base/nav.html:78 sites/www.thunderbird.net/index.html:31
-#: sites/www.thunderbird.net/index.html:341 sites/www.thunderbird.net/thunderbird/all/index.html:9 sites/www.thunderbird.net/thunderbird/all/index.html:102
-msgid "Download"
-msgstr "Llwytho i Lawr"
 
 #: sites/www.thunderbird.net/index.html:51 sites/www.thunderbird.net/index.html:56 sites/www.thunderbird.net/index.html:61 sites/www.thunderbird.net/index.html:66
 #: sites/www.thunderbird.net/index.html:71
@@ -350,19 +376,23 @@ msgstr ""
 "          Hidlwch a threfnwch eich gwaith yn ôl eich angen. Rheolwch bob cyfrif ar wahân\n"
 "           neu mewn blwch derbyn cyfun. Mae Thunderbird yma i symleiddio eich bywyd."
 
-#: sites/www.thunderbird.net/index.html:113
+#: sites/www.thunderbird.net/index.html:114
+msgid "A phone displaying Thunderbird for Android's interface."
+msgstr ""
+
+#: sites/www.thunderbird.net/index.html:118
 msgid "See Compatibility"
 msgstr "Gweld y Cydnawsedd"
 
-#: sites/www.thunderbird.net/index.html:124
+#: sites/www.thunderbird.net/index.html:129
 msgid "<span class=\"txt-gradient\">Freedom</span> from Manipulation"
 msgstr "<span class=\"txt-gradient\">Rhyddid</span> rhag Cam Drafod"
 
-#: sites/www.thunderbird.net/index.html:125
+#: sites/www.thunderbird.net/index.html:130
 msgid "Our agenda isn’t hidden. It’s to make the world better."
 msgstr "Nid yw ein hagenda ni yn un cudd. Rydym yma i wneud y byd yn well."
 
-#: sites/www.thunderbird.net/index.html:127
+#: sites/www.thunderbird.net/index.html:132
 #, python-format
 msgid ""
 "\n"
@@ -380,27 +410,27 @@ msgstr ""
 "          blaenoriaethu eich preifatrwydd a'ch diogelwch bob amser.\n"
 "          "
 
-#: sites/www.thunderbird.net/index.html:135
+#: sites/www.thunderbird.net/index.html:140
 msgid "Learn Who We Are"
 msgstr "Dyma Pwy Ydym Ni"
 
-#: sites/www.thunderbird.net/index.html:144
+#: sites/www.thunderbird.net/index.html:149
 msgid "Firefox planet"
 msgstr "Planed Firefox"
 
-#: sites/www.thunderbird.net/index.html:151
+#: sites/www.thunderbird.net/index.html:156
 msgid "Thunderbird planet"
 msgstr "Planed Thunderbird"
 
-#: sites/www.thunderbird.net/index.html:163
+#: sites/www.thunderbird.net/index.html:168
 msgid "<span class=\"txt-gradient\">Freedom</span> to Geek Out"
 msgstr "<span class=\"txt-gradient\">Rhyddid</span> i fod yn Gîc"
 
-#: sites/www.thunderbird.net/index.html:164
+#: sites/www.thunderbird.net/index.html:169
 msgid "Thunderbird is yours."
 msgstr "Mae Thunderbird i chi."
 
-#: sites/www.thunderbird.net/index.html:166
+#: sites/www.thunderbird.net/index.html:171
 msgid ""
 "\n"
 "              Thunderbird is clean and elegant by default, but easily customizable to match your workflow and visual\n"
@@ -412,7 +442,7 @@ msgstr ""
 "              a'ch dewisiadau gweledol. Mae'n llawn nodweddion unigryw a phwerus. Dyma rai y mae pobl yn eu gwerthfawrogi:\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:177
+#: sites/www.thunderbird.net/index.html:182
 msgid ""
 "\n"
 "              Its <strong>unified inbox</strong> enables me to stay sane even in the busiest of times. I am never\n"
@@ -424,20 +454,20 @@ msgstr ""
 "               prysuraf. Dwi byth am newid rhaglen e-bost eto!\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:189 sites/www.thunderbird.net/index.html:218 sites/www.thunderbird.net/index.html:241 sites/www.thunderbird.net/index.html:263
-#: sites/www.thunderbird.net/index.html:285 sites/www.thunderbird.net/index.html:307
+#: sites/www.thunderbird.net/index.html:194 sites/www.thunderbird.net/index.html:223 sites/www.thunderbird.net/index.html:246 sites/www.thunderbird.net/index.html:268
+#: sites/www.thunderbird.net/index.html:290 sites/www.thunderbird.net/index.html:312
 msgid "profile image"
 msgstr "delwedd proffil"
 
-#: sites/www.thunderbird.net/index.html:193
+#: sites/www.thunderbird.net/index.html:198
 msgid "Software Developer, Austria"
 msgstr "Datblygwr Meddalwedd, Awstria"
 
-#: sites/www.thunderbird.net/index.html:200
+#: sites/www.thunderbird.net/index.html:205
 msgid "unified inbox"
 msgstr "blwch derbyn cyfun"
 
-#: sites/www.thunderbird.net/index.html:207
+#: sites/www.thunderbird.net/index.html:212
 msgid ""
 "\n"
 "              I love the <strong>tag feature</strong>. I tag something important and find it quickly.\n"
@@ -447,11 +477,11 @@ msgstr ""
 "              Rwy wrth fy modd gyda'r <strong>nodwedd tag</strong>. Rwy'n tagio rhywbeth pwysig ac yn dod o hyd iddo'n gyflym.\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:222
+#: sites/www.thunderbird.net/index.html:227
 msgid "Computer Scientist, USA"
 msgstr "Gwyddonydd Cyfrifiadurol, UDA"
 
-#: sites/www.thunderbird.net/index.html:229
+#: sites/www.thunderbird.net/index.html:234
 msgid ""
 "\n"
 "              It is the first program I install on any PC I use / own... I use it on\n"
@@ -464,11 +494,11 @@ msgstr ""
 "              ddefnyddio ar <strong>Windows</strong> / <strong>Mac</strong> a <strong>Linux</strong>.\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:245
+#: sites/www.thunderbird.net/index.html:250
 msgid "I.T. Manager, UK"
 msgstr "Rheolwr TG, DU"
 
-#: sites/www.thunderbird.net/index.html:252
+#: sites/www.thunderbird.net/index.html:257
 msgid ""
 "\n"
 "              Having an open source alternative [for] receiving and managing email... is great for <strong>privacy</strong>.\n"
@@ -478,11 +508,11 @@ msgstr ""
 "              Mae cael dewis cod agored arall [ar gyfer] derbyn a rheoli e-bost... yn wych ar gyfer <strong>preifatrwydd</strong>.\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:267
+#: sites/www.thunderbird.net/index.html:272
 msgid "Web Developer, Costa Rica"
 msgstr "Datblygwr Gwe, Costa Rica"
 
-#: sites/www.thunderbird.net/index.html:274
+#: sites/www.thunderbird.net/index.html:279
 msgid ""
 "\n"
 "              [Thunderbird] empowers me to maintain <strong>ownership</strong> of my emails.\n"
@@ -492,11 +522,11 @@ msgstr ""
 "              Mae [Thunderbird] yn fy ngrymuso i gadw <strong>perchnogaeth</strong> ar fy e-byst.\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:289
+#: sites/www.thunderbird.net/index.html:294
 msgid "Engineer, USA"
 msgstr "Peiriannydd, UDA"
 
-#: sites/www.thunderbird.net/index.html:296
+#: sites/www.thunderbird.net/index.html:301
 msgid ""
 "\n"
 "              You'd be hard pressed to find a client more <strong>extensible</strong> than Thunderbird!\n"
@@ -506,29 +536,39 @@ msgstr ""
 "              Bydd yn her i chi i ddod o hyd i raglen sy'n fwy <strong>estynadwy</strong> na Thunderbird!\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:311
+#: sites/www.thunderbird.net/index.html:316
 msgid "Student, UK"
 msgstr "Myfyriwr, DU"
 
-#: sites/www.thunderbird.net/index.html:318
+#: sites/www.thunderbird.net/index.html:323
 msgid "extensions"
 msgstr "estyniadau"
 
-#: sites/www.thunderbird.net/index.html:325
-msgid "Explore More Features"
-msgstr "Edrych ar Ragor o Nodweddion"
-
 #: sites/www.thunderbird.net/index.html:337
-msgid "Are you ready to love email again?"
-msgstr "Ydych chi'n barod i garu e-bost eto?"
+msgid "<span class=\"txt-gradient\">Freedom</span> to Go Anywhere"
+msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:8 sites/www.thunderbird.net/about/mission-statement/index.html:27 sites/www.thunderbird.net/includes/base/footer.html:36
-#: sites/www.thunderbird.net/includes/base/nav.html:56
+#: sites/www.thunderbird.net/index.html:338
+msgid "Introducing Thunderbird Mobile"
+msgstr ""
+
+#: sites/www.thunderbird.net/index.html:340
+msgid ""
+"The freedom and joy of Thunderbird are now available to you anywhere you go. With Thunderbird Mobile your most important messages are sent and received by an open-source, secure app that respects "
+"your privacy"
+msgstr ""
+
+#: sites/www.thunderbird.net/index.html:355
+msgid "A rendering of a mobile phone."
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:8 sites/www.thunderbird.net/about/mission-statement/index.html:27 sites/www.thunderbird.net/includes/base/footer.html:33
+#: sites/www.thunderbird.net/includes/base/nav.html:53
 msgid "Who We Are"
 msgstr "Pwy Ydym Ni"
 
 #: sites/www.thunderbird.net/about/index.html:9 sites/www.thunderbird.net/about/mission-statement/index.html:9 sites/www.thunderbird.net/contact/index.html:9
-#: sites/www.thunderbird.net/includes/base/footer.html:34 sites/www.thunderbird.net/includes/base/nav.html:52 sites/www.thunderbird.net/privacy/index.html:9
+#: sites/www.thunderbird.net/includes/base/footer.html:31 sites/www.thunderbird.net/includes/base/nav.html:49 sites/www.thunderbird.net/privacy/index.html:9
 msgid "About"
 msgstr "Ynghylch"
 
@@ -834,9 +874,10 @@ msgstr ""
 msgid "Calendar"
 msgstr "Calendr"
 
-#: sites/www.thunderbird.net/calendar/holidays/index.html:9 sites/www.thunderbird.net/calendar/index.html:9 sites/www.thunderbird.net/download/index.html:9
-#: sites/www.thunderbird.net/includes/base/footer.html:22 sites/www.thunderbird.net/includes/base/nav.html:36 sites/www.thunderbird.net/newsletter/index.html:9
-#: sites/www.thunderbird.net/thank-you/index.html:9 sites/www.thunderbird.net/thunderbird/all/index.html:10
+#: sites/www.thunderbird.net/calendar/holidays/index.html:9 sites/www.thunderbird.net/calendar/index.html:9 sites/www.thunderbird.net/desktop/index.html:192
+#: sites/www.thunderbird.net/download/index.html:10 sites/www.thunderbird.net/includes/base/footer.html:20 sites/www.thunderbird.net/includes/base/nav.html:34
+#: sites/www.thunderbird.net/mobile/index.html:188 sites/www.thunderbird.net/newsletter/index.html:9 sites/www.thunderbird.net/thank-you/index.html:9
+#: sites/www.thunderbird.net/thunderbird/all/index.html:11
 msgid "Resources"
 msgstr "Adnoddau"
 
@@ -876,7 +917,7 @@ msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a>"
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s"
 msgstr "<a href=\"%(url)s\" class=\"inline-link text-blue\">Gwyliau %(country)s</a> diolch i %(authors)s"
 
-#: sites/www.thunderbird.net/contact/index.html:8 sites/www.thunderbird.net/includes/base/footer.html:37 sites/www.thunderbird.net/includes/base/nav.html:57
+#: sites/www.thunderbird.net/contact/index.html:8 sites/www.thunderbird.net/includes/base/footer.html:34 sites/www.thunderbird.net/includes/base/nav.html:54
 msgid "Contact Us"
 msgstr "Cysylltu â ni"
 
@@ -888,7 +929,7 @@ msgstr "Angen <span class=\"txt-gradient\">Siarad?</span>"
 msgid "Direct your inquiries to the teams below."
 msgstr "Cyfeiriwch eich ymholiadau at y timau isod."
 
-#: sites/www.thunderbird.net/contact/index.html:19 sites/www.thunderbird.net/participate/index.html:69
+#: sites/www.thunderbird.net/contact/index.html:19 sites/www.thunderbird.net/participate/index.html:89
 msgid "Support"
 msgstr "Cefnogaeth"
 
@@ -957,7 +998,7 @@ msgstr ""
 "Dylai sefydliadau sydd am noddi datblygiad meddalwedd neu gael cymorth gyda gosodiadau ar raddfa fawr anfon e-bost at ein Tîm Busnes. Mae'r tîm hwn hefyd yn delio gydag ymholiadau partneriaeth "
 "eraill."
 
-#: sites/www.thunderbird.net/contact/index.html:38 sites/www.thunderbird.net/includes/base/footer.html:46 sites/www.thunderbird.net/includes/base/nav.html:72
+#: sites/www.thunderbird.net/contact/index.html:38 sites/www.thunderbird.net/includes/base/footer.html:43 sites/www.thunderbird.net/includes/base/nav.html:69
 #: sites/www.thunderbird.net/participate/index.html:8
 msgid "Participate"
 msgstr "Cymryd rhan"
@@ -988,8 +1029,221 @@ msgstr ""
 "Diogelwch ddefnyddwyr y dyfodol rhag drwgwar, cloddio data neu gael eich gorfodi i dalu'n dwyllodrus am Thunderbird trwy adrodd ar gamddefnyddio'r nod masnach. Os ydych yn credu ein bod yn torri "
 "eich hawlfraint neu nod masnach, anfonwch hysbysiad DMCA."
 
+#: sites/www.thunderbird.net/desktop/index.html:10 sites/www.thunderbird.net/includes/base/footer.html:15 sites/www.thunderbird.net/includes/base/nav.html:24
+#: sites/www.thunderbird.net/thunderbird/releases/index.html:9
+msgid "Thunderbird Desktop"
+msgstr "Thunderbird y Bwrdd Gwaith"
+
+#: sites/www.thunderbird.net/desktop/index.html:23 sites/www.thunderbird.net/thunderbird/all/index.html:20 sites/www.thunderbird.net/thunderbird/all/index.html:186
+msgid "Thunderbird Desktop."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:24 sites/www.thunderbird.net/thunderbird/all/index.html:21 sites/www.thunderbird.net/thunderbird/all/index.html:187
+msgid "Desktop"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:27
+msgid "Powerful Email, Calendar, and Contacts for Windows, Linux, and macOS. Free software designed to make you free."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:50 sites/www.thunderbird.net/mobile/index.html:49
+msgid "Core Features."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:51 sites/www.thunderbird.net/mobile/index.html:50
+msgid "Core"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:51 sites/www.thunderbird.net/mobile/index.html:50
+msgid "Features"
+msgstr "Nodweddion"
+
+#: sites/www.thunderbird.net/desktop/index.html:54 sites/www.thunderbird.net/mobile/index.html:53
+msgid "Your new productivity superpowers."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:63 sites/www.thunderbird.net/mobile/index.html:83
+msgid "A video of Thunderbird with various email service icons rotating around it."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:71
+msgid "Multiple Account Support"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:72
+msgid "Manage all your emails in one place."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:73
+msgid "All your email accounts have a home in Thunderbird. Manage accounts separately or in a unified Inbox. Search and organize with ease. Say goodbye to all those browser tabs!"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:78 sites/www.thunderbird.net/mobile/index.html:59
+msgid "A crossed out circle against a pink background."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:81
+msgid "Ad Free Experience"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:82
+msgid "Free without strings attached."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:83
+msgid "We do not make money by reading your email. We do not clutter your inbox with ads. Enjoy a clean interface free from commercials and data mining."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:84 sites/www.thunderbird.net/mobile/index.html:65
+msgid "Read Our Privacy Policy"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:92
+msgid "A video of a heart with various operating system logos around it."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:100
+msgid "Cross Platform Support"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:101
+msgid "Your email should work wherever you do."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:102
+msgid "Never find yourself locked into an ecosystem. Use the operating system you like and change whenever you like while enjoying the same desktop app experience."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:103
+msgid "See All Available Versions"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:130
+msgid "A cropped screenshot of the Thunderbird interface."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:133
+msgid "Calendar, Contacts, and Tasks"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:134
+msgid "Because email is just one part of being productive."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:135
+msgid "Thunderbird helps your manage your appointments, contact, and tasks. Stay organized, productive, and connected in one place."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:143
+msgid "A video of a shield with the Thunderbird logo in the center of it."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:151
+msgid "Better Security and Privacy"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:152
+msgid "Be safe and in charge by default."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:153
+msgid "Thunderbird is open source. Its code has been constantly reviewed and improved over 20 years. Transparency keeps us accountable and you safe."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:154
+msgid "View the Source Code"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:159 sites/www.thunderbird.net/mobile/index.html:156
+msgid "The Thunderbird logo in an opened gift box."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:162 sites/www.thunderbird.net/mobile/index.html:159
+msgid "Always Free and Open"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:163 sites/www.thunderbird.net/mobile/index.html:160
+msgid "Thunderbird is a gift from people like you."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:164 sites/www.thunderbird.net/mobile/index.html:161
+msgid "Thousands have contributed time and money to make Thunderbird possible. Its code is open source and freely licensed to use, modify, and share. Thunderbird isn't just free, it makes you free."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:165 sites/www.thunderbird.net/mobile/index.html:162
+msgid "Learn Our Mission"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:174
+msgid "Third-Party Ecosystem."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:175
+msgid "Third-Party"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:175
+msgid "Ecosystem"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:178
+msgid "What you can do with Thunderbird doesn't stop with us."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:180
+msgid "Explore Thunderbird Add-Ons"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:185
+msgid "A grid of various add-on icons."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:191 sites/www.thunderbird.net/mobile/index.html:187
+msgid "Helpful Resources."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:192 sites/www.thunderbird.net/mobile/index.html:188
+msgid "Helpful"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:195 sites/www.thunderbird.net/mobile/index.html:191
+msgid "Level up your Thunderbird Skills."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:200 sites/www.thunderbird.net/mobile/index.html:196
+msgid "Getting Started"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:201 sites/www.thunderbird.net/mobile/index.html:197
+msgid "Almost anyone can participate in making Thunderbird better and more accessible to others. Come and learn what opportunities are available. Find ways to contribute to the project:"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:202 sites/www.thunderbird.net/mobile/index.html:198
+msgid "How to Participate"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:205 sites/www.thunderbird.net/mobile/index.html:201
+msgid "Share Ideas"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:206 sites/www.thunderbird.net/mobile/index.html:202
+msgid "When developers, designers, and users work together amazing things happen. Come share your ideas for how Thunderbird could be better."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:210 sites/www.thunderbird.net/mobile/index.html:206
+msgid "Find Support"
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:211 sites/www.thunderbird.net/mobile/index.html:207
+msgid "Learn how to use Thunderbird and ask your questions. Thunderbird contributors from around the world are working to make your experience great."
+msgstr ""
+
+#: sites/www.thunderbird.net/desktop/index.html:212 sites/www.thunderbird.net/mobile/index.html:208
+msgid "Support Site"
+msgstr ""
+
 #: sites/www.thunderbird.net/donate/help/index.html:9 sites/www.thunderbird.net/donate/help/thank-you/index.html:9 sites/www.thunderbird.net/donate/index.html:9
-#: sites/www.thunderbird.net/includes/base/footer.html:43 sites/www.thunderbird.net/includes/base/nav.html:67 sites/www.thunderbird.net/participate/index.html:9
+#: sites/www.thunderbird.net/includes/base/footer.html:40 sites/www.thunderbird.net/includes/base/nav.html:64 sites/www.thunderbird.net/participate/index.html:9
 msgid "Contribute"
 msgstr "Cyfrannu"
 
@@ -1096,28 +1350,32 @@ msgstr "Dychwelyd i Thunderbird.net"
 msgid "Support Thunderbird for Android"
 msgstr "Cefnogwch Thunderbird ar gyfer Android"
 
-#: sites/www.thunderbird.net/download/index.html:15
+#: sites/www.thunderbird.net/download/index.html:9 sites/www.thunderbird.net/thunderbird/all/index.html:10 sites/www.thunderbird.net/thunderbird/all/index.html:100
+msgid "Download"
+msgstr "Llwytho i Lawr"
+
+#: sites/www.thunderbird.net/download/index.html:16
 msgid "Download <span class=\"txt-gradient\">Thunderbird</span>"
 msgstr "Llwythwch <span class=\"txt-gradient\">Thunderbird</span> i lawr"
 
-#: sites/www.thunderbird.net/includes/download-button.html:14 sites/www.thunderbird.net/includes/download-button.html:94
-msgid "Download Thunderbird"
-msgstr "Llwytho Thunderbird i Lawr"
+#: sites/www.thunderbird.net/includes/download-and-options.html:3 sites/www.thunderbird.net/includes/download-button.html:36
+msgid "Available on Windows, Linux, Mac, and Android."
+msgstr ""
 
-#: sites/www.thunderbird.net/includes/download-button.html:35
-msgid "Available on Windows, Linux, Mac"
-msgstr "Ar gael ar Windows, Linux, Mac"
-
-#: sites/www.thunderbird.net/includes/download-button.html:57
+#: sites/www.thunderbird.net/includes/download-and-options.html:23 sites/www.thunderbird.net/includes/download-button.html:56
 msgid "Download and languages options"
 msgstr "Dewisiadau llwytho i lawr ac ieithoedd"
 
-#: sites/www.thunderbird.net/includes/download-button.html:69
+#: sites/www.thunderbird.net/includes/download-button.html:14 sites/www.thunderbird.net/includes/download-button.html:94 sites/www.thunderbird.net/includes/macros/download-smart.html:18
+msgid "Download Thunderbird"
+msgstr "Llwytho Thunderbird i Lawr"
+
+#: sites/www.thunderbird.net/includes/download-button.html:68
 #, python-format
 msgid "Your system doesn't meet the <a href=\"%(url)s\">requirements</a> to run Thunderbird."
 msgstr "Nid yw eich system yn cyrraedd y <a href=\"%(url)s\">gofynion</a> ar gyfer rhedeg Thunderbird."
 
-#: sites/www.thunderbird.net/includes/download-button.html:72
+#: sites/www.thunderbird.net/includes/download-button.html:71
 #, python-format
 msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
 msgstr "Dilynwch y <a href=\"%(url)s\">cyfarwyddiadau hyn</a> er mwyn gosod Thunderbird."
@@ -1130,11 +1388,13 @@ msgstr "Thunderbird Beta"
 msgid "Thunderbird Daily"
 msgstr "Thunderbird Daily"
 
-#: sites/www.thunderbird.net/includes/download-button.html:102
+#: sites/www.thunderbird.net/includes/download-button.html:102 sites/www.thunderbird.net/includes/macros/download-desktop.html:30 sites/www.thunderbird.net/includes/macros/download-mobile.html:29
+#: sites/www.thunderbird.net/includes/macros/download-smart.html:39
 msgid "Free forever."
 msgstr "Yn rhydd a rhad am byth."
 
-#: sites/www.thunderbird.net/includes/download-button.html:102
+#: sites/www.thunderbird.net/includes/download-button.html:102 sites/www.thunderbird.net/includes/macros/download-desktop.html:31 sites/www.thunderbird.net/includes/macros/download-mobile.html:29
+#: sites/www.thunderbird.net/includes/macros/download-smart.html:39
 msgid "to make it better."
 msgstr "i'w wneud yn well."
 
@@ -1391,39 +1651,47 @@ msgstr "Mozilla"
 msgid "Home"
 msgstr "Cartref"
 
-#: sites/www.thunderbird.net/includes/base/footer.html:24 sites/www.thunderbird.net/includes/base/nav.html:40
+#: sites/www.thunderbird.net/includes/base/footer.html:13 sites/www.thunderbird.net/includes/base/nav.html:20 sites/www.thunderbird.net/thunderbird/releases/index.html:9
+msgid "Products"
+msgstr "Cynnyrch"
+
+#: sites/www.thunderbird.net/includes/base/footer.html:16 sites/www.thunderbird.net/includes/base/nav.html:25 sites/www.thunderbird.net/mobile/index.html:10
+msgid "Thunderbird Mobile"
+msgstr "Thunderbird Symudol"
+
+#: sites/www.thunderbird.net/includes/base/footer.html:22 sites/www.thunderbird.net/includes/base/nav.html:38
 msgid "Blog"
 msgstr "Blog"
 
-#: sites/www.thunderbird.net/includes/base/footer.html:25 sites/www.thunderbird.net/includes/base/nav.html:41
+#: sites/www.thunderbird.net/includes/base/footer.html:23
 msgid "Get Help"
 msgstr "Derbyn Cymorth"
 
-#: sites/www.thunderbird.net/includes/base/footer.html:27 sites/www.thunderbird.net/includes/base/nav.html:43
+#: sites/www.thunderbird.net/includes/base/footer.html:24 sites/www.thunderbird.net/includes/base/nav.html:78 sites/www.thunderbird.net/includes/base/nav.html:83
 msgid "Downloads"
 msgstr "Llwytho i Lawr"
 
-#: sites/www.thunderbird.net/includes/base/footer.html:28 sites/www.thunderbird.net/thunderbird/all/index.html:140 sites/www.thunderbird.net/thunderbird/all/index.html:154
+#: sites/www.thunderbird.net/includes/base/footer.html:25 sites/www.thunderbird.net/thunderbird/all/index.html:127 sites/www.thunderbird.net/thunderbird/all/index.html:166
 msgid "Release Notes"
 msgstr "Nodiadau Rhyddhau"
 
-#: sites/www.thunderbird.net/includes/base/footer.html:29
+#: sites/www.thunderbird.net/includes/base/footer.html:26
 msgid "For Enterprises"
 msgstr "Ar gyfer Mentrau"
 
-#: sites/www.thunderbird.net/includes/base/footer.html:30
+#: sites/www.thunderbird.net/includes/base/footer.html:27
 msgid "Holiday Calendars"
 msgstr "Calendrau Gwyliau"
 
-#: sites/www.thunderbird.net/includes/base/footer.html:38 sites/www.thunderbird.net/includes/base/nav.html:58
+#: sites/www.thunderbird.net/includes/base/footer.html:35 sites/www.thunderbird.net/includes/base/nav.html:55
 msgid "Careers"
 msgstr "Gyrfaoedd"
 
-#: sites/www.thunderbird.net/includes/base/footer.html:39
+#: sites/www.thunderbird.net/includes/base/footer.html:36
 msgid "Thunderbird Privacy"
 msgstr "Preifatrwydd Thunderbird"
 
-#: sites/www.thunderbird.net/includes/base/footer.html:69
+#: sites/www.thunderbird.net/includes/base/footer.html:66
 #, python-format
 msgid ""
 "<small> Thunderbird is part of <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a>, a wholly owned subsidiary of Mozilla Foundation. Portions of"
@@ -1434,77 +1702,69 @@ msgstr ""
 "rhannau o'r cynnwys hwn yn ©1998–%(current_year)s gan gyfranwyr unigol. Mae'r cynnwys sydd ar gael o dan <a href=\"https://www.mozilla.org/foundation/licensing/website-content/\">trwydded Creative "
 "Commons</a>. </small>"
 
-#: sites/www.thunderbird.net/includes/base/footer.html:79 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:385 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:461
+#: sites/www.thunderbird.net/includes/base/footer.html:76 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:385 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:461
 #: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:308 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:327
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:443
 msgid "Contribute to this site"
 msgstr "Cyfrannwch i'r wefan hon"
 
-#: sites/www.thunderbird.net/includes/base/footer.html:83 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:388 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:464
+#: sites/www.thunderbird.net/includes/base/footer.html:80 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:388 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:464
 #: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:311 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:330
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:446
 msgid "Translate this site"
 msgstr "Cyfieithwch y wefan hon"
 
-#: sites/www.thunderbird.net/includes/base/nav.html:21 sites/www.thunderbird.net/thunderbird/releases/index.html:9
-msgid "Products"
-msgstr "Cynnyrch"
-
-#: sites/www.thunderbird.net/includes/base/nav.html:25 sites/www.thunderbird.net/thunderbird/releases/index.html:9
-msgid "Thunderbird Desktop"
-msgstr "Thunderbird y Bwrdd Gwaith"
-
-#: sites/www.thunderbird.net/includes/base/nav.html:25
+#: sites/www.thunderbird.net/includes/base/nav.html:24
 msgid "Meet the powerful email, calendar, and contacts app for Windows, Linux, and macOS."
 msgstr "Hwn yw'r ap e-bost, calendr, a chysylltiadau pwerus ar gyfer Windows, Linux, a macOS."
 
-#: sites/www.thunderbird.net/includes/base/nav.html:26
-msgid "Thunderbird Mobile"
-msgstr "Thunderbird Symudol"
-
-#: sites/www.thunderbird.net/includes/base/nav.html:26
+#: sites/www.thunderbird.net/includes/base/nav.html:25
 msgid "Learn about the leading open-source email app for Android."
 msgstr "Dysgwch am yr ap e-bost cod agored blaenllaw ar gyfer Android."
 
-#: sites/www.thunderbird.net/includes/base/nav.html:40
+#: sites/www.thunderbird.net/includes/base/nav.html:38
 msgid "Learn about new product releases, community events, tech tips, and more."
 msgstr "Dysgwch am fersiynnau cynnyrch newydd, digwyddiadau cymunedol, awgrymiadau technolegol, a mwy."
 
-#: sites/www.thunderbird.net/includes/base/nav.html:41
-msgid "Find the help you need configuring and using Thunderbird."
-msgstr "Dewch o hyd i'r help sydd ei angen arnoch i ffurfweddu a defnyddio Thunderbird."
+#: sites/www.thunderbird.net/includes/base/nav.html:39
+msgid "Desktop Help"
+msgstr ""
 
-#: sites/www.thunderbird.net/includes/base/nav.html:42
-msgid "Podcasts"
-msgstr "Podlediadau"
+#: sites/www.thunderbird.net/includes/base/nav.html:39
+msgid "Find the help you need configuring and using Thunderbird Desktop."
+msgstr ""
 
-#: sites/www.thunderbird.net/includes/base/nav.html:42
-msgid "Meet interesting people and hear their Thunderbird stories."
-msgstr "Dewch i gwrdd â phobl ddiddorol a chlywed eu straeon am Thunderbird."
+#: sites/www.thunderbird.net/includes/base/nav.html:40
+msgid "Mobile Help"
+msgstr ""
 
-#: sites/www.thunderbird.net/includes/base/nav.html:43
-msgid "Find the latest version of Thunderbird."
-msgstr "Dewch o hyd i'r fersiwn diweddaraf o Thunderbird."
+#: sites/www.thunderbird.net/includes/base/nav.html:40
+msgid "Find the help you need configuring and using Thunderbird Mobile."
+msgstr ""
 
-#: sites/www.thunderbird.net/includes/base/nav.html:56
+#: sites/www.thunderbird.net/includes/base/nav.html:53
 msgid "Learn how our values, community, and organization shape the future of Thunderbird."
 msgstr "Dysgwch sut mae ein gwerthoedd, ein cymuned, a'n trefniadau'n llunio dyfodol Thunderbird."
 
-#: sites/www.thunderbird.net/includes/base/nav.html:57
+#: sites/www.thunderbird.net/includes/base/nav.html:54
 msgid "Find out who to contact and how."
 msgstr "Darganfod â phwy i gysylltu a sut."
 
-#: sites/www.thunderbird.net/includes/base/nav.html:58
+#: sites/www.thunderbird.net/includes/base/nav.html:55
 msgid "We have an enthusiastic team with diverse talents. Learn how to join us."
 msgstr "Mae gennym dîm brwdfrydig gyda thalentau amrywiol. Dysgwch sut i ymuno â ni."
 
-#: sites/www.thunderbird.net/includes/base/nav.html:71
+#: sites/www.thunderbird.net/includes/base/nav.html:68
 msgid "Learn how to donate as an individual or business to support Thunderbird and open source."
 msgstr "Dysgwch sut i gyfrannu fel unigolyn neu fusnes i gefnogi Thunderbird a chod agored."
 
-#: sites/www.thunderbird.net/includes/base/nav.html:72
+#: sites/www.thunderbird.net/includes/base/nav.html:69
 msgid "We need helping hands of all kinds. Learn how you can help Thunderbird and others."
 msgstr "Mae angen help llaw o bob math arnom. Dysgwch sut y gallwch chi helpu Thunderbird ac eraill."
+
+#: sites/www.thunderbird.net/includes/base/nav.html:83
+msgid "Find the latest version of Thunderbird."
+msgstr "Dewch o hyd i'r fersiwn diweddaraf o Thunderbird."
 
 #: sites/www.thunderbird.net/includes/base/page.html:16
 msgid "Thunderbird Logo"
@@ -1780,6 +2040,124 @@ msgstr "Bydd y botwm cyflwyno yn cael ei analluogi nes i chi gwblhau'r CAPTCHA."
 msgid "Submit"
 msgstr "Cyflwyno"
 
+#: sites/www.thunderbird.net/includes/macros/download-block.html:13
+msgid "Are you ready to love email again?"
+msgstr "Ydych chi'n barod i garu e-bost eto?"
+
+#: sites/www.thunderbird.net/includes/macros/download-mobile.html:14
+msgid "Google Play"
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/macros/download-mobile.html:25
+msgid "F-Droid"
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:22 sites/www.thunderbird.net/thunderbird/all/index.html:138 sites/www.thunderbird.net/thunderbird/all/index.html:177
+msgid "Thunderbird Mobile."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:23 sites/www.thunderbird.net/thunderbird/all/index.html:139 sites/www.thunderbird.net/thunderbird/all/index.html:178
+msgid "Mobile"
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:26
+msgid "Meet the leading open-source email app for Android. Enjoy complete freedom anywhere you take your smartphone."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:62
+msgid "No Ads or Spyware"
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:63
+msgid "It’s actually free!"
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:64
+msgid "Instead of making money with ads or data, Thunderbird is developed with donations of time and money from people just like you. Manage your email without giving up more of your privacy."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:70
+msgid "A cropped screenshot of the Thunderbird for Android's interface."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:73
+msgid "All-in-One Email App"
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:74
+msgid "Reduce app clutter."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:75
+msgid "Consolidate all your email apps into one powerful app that respects your privacy and freedom. View messages separately or in one unified inbox."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:91
+msgid "Multiple Account Support "
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:92
+msgid "Don’t miss a message."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:93
+msgid "Sync with email accounts for home, school, and work. Almost anywhere you receive messages, we will have you covered."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:123
+msgid "A video of an envelope with password masking asterisks in front of it."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:131
+msgid "Advanced Email Encryption"
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:132
+msgid "Send and receive secure messages on any account."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:133
+msgid ""
+"Advanced users who want the highest level of privacy can send and receive encrypted emails using the OpenPGP standard when paired with the free and open source OpenKeychain app. Even your email "
+"provider won’t have access to your messages."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:141
+msgid "A video of the Thunderbird for Android's interface transitioning from light mode to dark mode and back again."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:149
+msgid "Light and Dark Interface"
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:150
+msgid "Match your preference or environment."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:151
+msgid "Read your email any time of day and in the way you love with native dark and light mode support. Many small interface features will make you fall in love with Thunderbird Mobile."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:171
+msgid "Instant Setup."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:172
+msgid "Instant"
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:172
+msgid "Setup"
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:175
+msgid "Thunderbird Desktop users can migrate their settings quickly. Just scan the desktop app QR code from the mobile app."
+msgstr ""
+
+#: sites/www.thunderbird.net/mobile/index.html:181
+msgid "Two QR codes are shown, one on a mobile device and another in the distance on a desktop."
+msgstr ""
+
 #: sites/www.thunderbird.net/newsletter/index.html:8 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:302 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:223
 #: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:242 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:359
 msgid "Join our Newsletter"
@@ -1826,7 +2204,7 @@ msgid "Desktop Development:"
 msgstr "Datblygiad y Bwrdd Gwaith:"
 
 #: sites/www.thunderbird.net/participate/index.html:29 sites/www.thunderbird.net/participate/index.html:37 sites/www.thunderbird.net/participate/index.html:45
-#: sites/www.thunderbird.net/participate/index.html:64
+#: sites/www.thunderbird.net/participate/index.html:76 sites/www.thunderbird.net/participate/index.html:83
 #, python-format
 msgid "Explore the <a href=\"%(url)s\">docs</a>"
 msgstr "Darllenwch y <a href=\"%(url)s\">ddogfennaeth</a>"
@@ -1837,7 +2215,7 @@ msgid "Join the <a href=\"%(url)s\">repository</a>"
 msgstr "Ymunwch â'r <a href=\"%(url)s\">storfa</a>"
 
 #: sites/www.thunderbird.net/participate/index.html:31 sites/www.thunderbird.net/participate/index.html:39 sites/www.thunderbird.net/participate/index.html:47
-#: sites/www.thunderbird.net/participate/index.html:74 sites/www.thunderbird.net/participate/index.html:106
+#: sites/www.thunderbird.net/participate/index.html:96 sites/www.thunderbird.net/participate/index.html:102 sites/www.thunderbird.net/participate/index.html:147
 #, python-format
 msgid "Say hello in <a href=\"%(url)s\">Matrix</a>"
 msgstr "Dywedwch helo yn <a href=\"%(url)s\">Matrics</a>"
@@ -1854,7 +2232,7 @@ msgstr "Datblygiad Gwefan:"
 msgid "Test"
 msgstr "Profi"
 
-#: sites/www.thunderbird.net/participate/index.html:53
+#: sites/www.thunderbird.net/participate/index.html:52
 msgid ""
 "With so many unique hardware environments and workflows, community members who test pre-release builds of Thunderbird play a vital role in the quality of the software. Plus, you help catch bugs "
 "before they can reach the general public!"
@@ -1862,21 +2240,31 @@ msgstr ""
 "Gyda chymaint o amgylcheddau caledwedd a llifoedd gwaith unigryw, mae aelodau'r gymuned sy'n profi adeiladau Thunderbird cyn rhyddhau yn chwarae rhan hanfodol yn ansawdd y feddalwedd. Hefyd, rydych "
 "chi'n helpu i ddal gwallau cyn y gallan nhw gyrraedd y cyhoedd!"
 
-#: sites/www.thunderbird.net/participate/index.html:55
+#: sites/www.thunderbird.net/participate/index.html:55 sites/www.thunderbird.net/participate/index.html:74 sites/www.thunderbird.net/participate/index.html:94
+#: sites/www.thunderbird.net/participate/index.html:111
+msgid "Desktop:"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:57 sites/www.thunderbird.net/participate/index.html:64
 #, python-format
 msgid "Learn about testing <a href=\"%(url)s\">Beta</a>"
 msgstr "Dysgwch am brofi'r <a href=\"%(url)s\">Beta</a>"
 
-#: sites/www.thunderbird.net/participate/index.html:56
+#: sites/www.thunderbird.net/participate/index.html:58 sites/www.thunderbird.net/participate/index.html:65
 #, python-format
 msgid "Report <a href=\"%(url)s\">bugs</a>"
 msgstr "Adrodd ar <a href=\"%(url)s\">wallau</a>"
 
-#: sites/www.thunderbird.net/participate/index.html:60
+#: sites/www.thunderbird.net/participate/index.html:62 sites/www.thunderbird.net/participate/index.html:81 sites/www.thunderbird.net/participate/index.html:100
+#: sites/www.thunderbird.net/participate/index.html:119
+msgid "Mobile:"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:70
 msgid "Translate"
 msgstr "Cyfieithu"
 
-#: sites/www.thunderbird.net/participate/index.html:62
+#: sites/www.thunderbird.net/participate/index.html:71
 msgid ""
 "The entire world deserves free and open source software, and Thunderbird is currently translated in more than 50 languages! Use your multilingual talents to help make Thunderbird more widely "
 "available than ever."
@@ -1884,12 +2272,17 @@ msgstr ""
 "Mae'r byd i gyd yn haeddu meddalwedd cod agored am ddim, ac ar hyn o bryd mae Thunderbird yn cael ei gyfieithu i fwy na 50 o ieithoedd! Defnyddiwch eich doniau amlieithog i helpu i wneud Thunderbird"
 " ar gael yn ehangach nag erioed."
 
-#: sites/www.thunderbird.net/participate/index.html:65
+#: sites/www.thunderbird.net/participate/index.html:77
 #, python-format
 msgid "Join us on <a href=\"%(url)s\">Pontoon</a>"
 msgstr "Ymunwch â ni ar <a href=\"%(url)s\">Pontoon</a>"
 
-#: sites/www.thunderbird.net/participate/index.html:71
+#: sites/www.thunderbird.net/participate/index.html:84
+#, python-format
+msgid "Join us on <a href=\"%(url)s\">Weblate</a>"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:90
 msgid ""
 "Are you an experienced Thunderbird user who loves lending a helping hand? Put your knowledge to great use by joining our Support Crew and helping users around the world with their Thunderbird "
 "questions."
@@ -1897,15 +2290,15 @@ msgstr ""
 "Ydych chi'n ddefnyddiwr Thunderbird profiadol sydd wrth ei fodd yn rhoi help llaw? Gwnewch ddefnydd mawr o'ch gwybodaeth trwy ymuno â'n Criw Cefnogi a helpu defnyddwyr ledled y byd gyda'u cwestiynau"
 " am Thunderbird."
 
-#: sites/www.thunderbird.net/participate/index.html:72
+#: sites/www.thunderbird.net/participate/index.html:91
 msgid "You can join our Thunderbird Community Support Matrix room to get and give user support."
 msgstr "Gallwch ymuno â'n hystafell Cymorth Cymunedol Thunderbird ar Matrix i gael a rhoi cymorth i ddefnyddwyr."
 
-#: sites/www.thunderbird.net/participate/index.html:78
+#: sites/www.thunderbird.net/participate/index.html:107
 msgid "Document"
 msgstr "Dogfennu"
 
-#: sites/www.thunderbird.net/participate/index.html:80
+#: sites/www.thunderbird.net/participate/index.html:108
 msgid ""
 "Help ensure the answers are written down before the question is even asked! From documenting features or APIs to frequently asked user support questions, put your knowledge and writing skills to use"
 " for the benefit of the entire Thunderbird community."
@@ -1913,26 +2306,26 @@ msgstr ""
 "Helpwch i sicrhau bod yr atebion yn cael eu cofnodi cyn i'r cwestiwn gael ei ofyn hyd yn oed! O ddogfennu nodweddion neu APIs i gwestiynau cymorth defnyddwyr cyffredin, cyfrannwch eich gwybodaeth "
 "a'ch sgiliau ysgrifennu i'w defnyddio er budd cymuned Thunderbird gyfan."
 
-#: sites/www.thunderbird.net/participate/index.html:82
+#: sites/www.thunderbird.net/participate/index.html:113 sites/www.thunderbird.net/participate/index.html:121
 #, python-format
 msgid "User Support <a href=\"%(url)s\">documentation</a>"
 msgstr "<a href=\"%(url)s\">Dogfennaeth</a> Cefnogaeth Defnyddiwr"
 
-#: sites/www.thunderbird.net/participate/index.html:83
+#: sites/www.thunderbird.net/participate/index.html:114
 #, python-format
 msgid "Developer <a href=\"%(url)s\">documentation</a>"
 msgstr "<a href=\"%(url)s\">Dogfennaeth</a> Datblygwyr"
 
-#: sites/www.thunderbird.net/participate/index.html:84
+#: sites/www.thunderbird.net/participate/index.html:115
 #, python-format
 msgid "Code <a href=\"%(url)s\">documentation</a>"
 msgstr "<a href=\"%(url)s\">Dogfennaeth</a> Cod"
 
-#: sites/www.thunderbird.net/participate/index.html:88
+#: sites/www.thunderbird.net/participate/index.html:126
 msgid "Promote"
 msgstr "Hyrwyddo"
 
-#: sites/www.thunderbird.net/participate/index.html:90
+#: sites/www.thunderbird.net/participate/index.html:128
 msgid ""
 "Advocacy is one of the easiest ways to contribute to Thunderbird! Boosting our posts on Mastodon, showcasing the software to a friend, upvoting a helpful answer on Reddit; anything that adds "
 "visibility is a huge help. Here’s where to find us on various social platforms, and how to get involved."
@@ -1940,119 +2333,123 @@ msgstr ""
 "Eiriolaeth yw un o'r ffyrdd hawsaf o gyfrannu at Thunderbird! Rhowch hwb i'n negeseuon ar Mastodon, dangos y feddalwedd i ffrindiau, annog ateb defnyddiol ar Reddit; mae unrhyw beth sy'n ychwanegu "
 "gwelededd yn help mawr. Dyma ble i ddod o hyd i ni ar lwyfannau cymdeithasol amrywiol, a sut i gymryd rhan."
 
-#: sites/www.thunderbird.net/participate/index.html:92
+#: sites/www.thunderbird.net/participate/index.html:130
 msgid "Reddit"
 msgstr "Reddit"
 
-#: sites/www.thunderbird.net/participate/index.html:93
+#: sites/www.thunderbird.net/participate/index.html:131
 msgid "Mastodon"
 msgstr "Mastodon"
 
-#: sites/www.thunderbird.net/participate/index.html:94
+#: sites/www.thunderbird.net/participate/index.html:132
 msgid "X (Formerly Twitter)"
 msgstr "X (Twitter gynt)"
 
-#: sites/www.thunderbird.net/participate/index.html:95
+#: sites/www.thunderbird.net/participate/index.html:133
 msgid "YouTube"
 msgstr "YouTube"
 
-#: sites/www.thunderbird.net/participate/index.html:96
+#: sites/www.thunderbird.net/participate/index.html:134
 msgid "TILVids"
 msgstr "TILVids"
 
-#: sites/www.thunderbird.net/participate/index.html:97
+#: sites/www.thunderbird.net/participate/index.html:135
 msgid "LinkedIn"
 msgstr "LinkedIn"
 
-#: sites/www.thunderbird.net/participate/index.html:101
+#: sites/www.thunderbird.net/participate/index.html:137
+msgid "Leave a review on the Google Play"
+msgstr ""
+
+#: sites/www.thunderbird.net/participate/index.html:142
 msgid "Design"
 msgstr "Dylunio"
 
-#: sites/www.thunderbird.net/participate/index.html:103
+#: sites/www.thunderbird.net/participate/index.html:144
 msgid ""
 "Share your ideas, and contribute to the ongoing conversations around Thunderbird’s UX and UI. We welcome your feedback to developer designs on our UX mailing list, and our companion Matrix room."
 msgstr ""
 "Rhannwch eich syniadau, a chyfrannwch at y sgyrsiau parhaus am UX ac UI Thunderbird. Rydym yn croesawu eich adborth i ddyluniadau datblygwyr ar ein rhestr bostio UX, a'n hystafell Matrix cydymaith."
 
-#: sites/www.thunderbird.net/participate/index.html:105
+#: sites/www.thunderbird.net/participate/index.html:146
 #, python-format
 msgid "Join in on the <a href=\"%(url)s\">discussion</a>"
 msgstr "Ymunwch â ni i'w <a href=\"%(url)s\">drafod</a>"
 
-#: sites/www.thunderbird.net/participate/index.html:111
+#: sites/www.thunderbird.net/participate/index.html:152
 msgid "One more way you can contribute is by sharing <strong>ideas</strong>, <strong>priorities</strong>, and <strong>feedback</strong>. Thunderbird is yours and we're listening."
 msgstr "Un ffordd arall y gallwch gyfrannu yw drwy rannu <strong>syniadau</strong>, <strong>blaenoriaethau</strong> ac <strong>adborth</strong>. Chi biau Thunderbird ac rydyn ni'n gwrando."
 
-#: sites/www.thunderbird.net/participate/index.html:121
+#: sites/www.thunderbird.net/participate/index.html:162
 msgid "Contributor <span class=\"txt-gradient\">Experience</span>"
 msgstr "Profiad <span class=\"txt-gradient\">Cyfranwyr</span>"
 
-#: sites/www.thunderbird.net/participate/index.html:122
+#: sites/www.thunderbird.net/participate/index.html:163
 msgid "The ways and reasons to get involved are as diverse as the people who do."
 msgstr "Mae'r ffyrdd a'r rhesymau dros gymryd rhan mor amrywiol â'r bobl sy'n gwneud hynny."
 
-#: sites/www.thunderbird.net/participate/index.html:123
+#: sites/www.thunderbird.net/participate/index.html:164
 msgid "Our volunteers come from diverse backgrounds and bring unique talents. They're making Thunderbird better for themselves and better for the world at the same time. You can join them."
 msgstr ""
 "Mae ein gwirfoddolwyr yn dod o gefndiroedd amrywiol ac yn dod â doniau unigryw. Maen nhw'n gwneud Thunderbird yn well iddyn nhw eu hunain ac yn well i'r byd ar yr un pryd. Gallwch chi ymuno â nhw."
 
-#: sites/www.thunderbird.net/participate/index.html:128
+#: sites/www.thunderbird.net/participate/index.html:169
 msgid "Leadership, Switzerland"
 msgstr "Arweinyddiaeth, y Swistir"
 
-#: sites/www.thunderbird.net/participate/index.html:129
+#: sites/www.thunderbird.net/participate/index.html:170
 msgid "Thunderbird is a testament to the power of the open-source community's contribution to driving innovation and efficiency."
 msgstr "Mae Thunderbird yn dyst i bŵer cyfraniad y gymuned cod agored at ysgogi arloesedd ac effeithlonrwydd."
 
-#: sites/www.thunderbird.net/participate/index.html:131
+#: sites/www.thunderbird.net/participate/index.html:172
 msgid "Bug Triager, USA"
 msgstr "Triagwr Gwallau, UDA"
 
-#: sites/www.thunderbird.net/participate/index.html:132
+#: sites/www.thunderbird.net/participate/index.html:173
 msgid "If you don't have skin in the game, you can't complain about the direction the product is going in."
 msgstr "Os nad oes gennych gyfraniad i'r gêm, does dim modd i chi gwyno am y cyfeiriad y mae'r cynnyrch yn mynd iddo."
 
-#: sites/www.thunderbird.net/participate/index.html:134
+#: sites/www.thunderbird.net/participate/index.html:175
 msgid "Developer, Germany"
 msgstr "Datblygwr, yr Almaen"
 
-#: sites/www.thunderbird.net/participate/index.html:135
+#: sites/www.thunderbird.net/participate/index.html:176
 msgid "It is great to be able to improve the software by fixing little things that affect me and other users"
 msgstr "Mae'n wych gallu gwella'r meddalwedd trwy drwsio pethau bach sy'n effeithio arnaf i a defnyddwyr eraill"
 
-#: sites/www.thunderbird.net/participate/index.html:137
+#: sites/www.thunderbird.net/participate/index.html:178
 msgid "Tester & Bug Triager, USA"
 msgstr "Profwr a Triagwr Gwallau, UDA"
 
-#: sites/www.thunderbird.net/participate/index.html:138
+#: sites/www.thunderbird.net/participate/index.html:179
 msgid "I volunteer to use the beta versions as soon as they are built, report issues I find, and test fixes."
 msgstr "Rwy'n gwirfoddoli i ddefnyddio'r fersiynau beta cyn gynted ag y maen nhw'n cael eu hadeiladu, adrodd am faterion wrth ddod o hyd iddyn nhw a phrofi'r atebion."
 
-#: sites/www.thunderbird.net/participate/index.html:140
+#: sites/www.thunderbird.net/participate/index.html:181
 msgid "Support & Bug Triager, United Kingdom"
 msgstr "Cymorth a Triagwr Gwallau, Y Deyrnas Unedig"
 
-#: sites/www.thunderbird.net/participate/index.html:141
+#: sites/www.thunderbird.net/participate/index.html:182
 msgid "I volunteer to assist others in the Thunderbird Support Forum which I find a very rewarding experience."
 msgstr "Rwy'n gwirfoddoli i gynorthwyo eraill yn Fforwm Cefnogi Thunderbird, sy'n brofiad gwerth chweil i mi."
 
-#: sites/www.thunderbird.net/participate/index.html:143
+#: sites/www.thunderbird.net/participate/index.html:184
 msgid "Translator, Bug Triager & Leadership, Bulgaria"
 msgstr "Cyfieithydd, Triagwr Gwallau ac Arweinyddiaeth, Bwlgaria"
 
-#: sites/www.thunderbird.net/participate/index.html:144
+#: sites/www.thunderbird.net/participate/index.html:185
 msgid "I began by contributing translations, thinking that people who speak my language deserve localized versions."
 msgstr "Dechreuais trwy gyfrannu cyfieithiadau, gan feddwl bod pobl sy'n siarad fy iaith yn haeddu fersiynau lleol."
 
-#: sites/www.thunderbird.net/participate/index.html:154
+#: sites/www.thunderbird.net/participate/index.html:195
 msgid "Shape the <span class=\"txt-gradient\">Future</span>"
 msgstr "Siapio'r <span class=\"txt-gradient\">Dyfodol</span>"
 
-#: sites/www.thunderbird.net/participate/index.html:155
+#: sites/www.thunderbird.net/participate/index.html:196
 msgid "Improve software and lives by volunteering."
 msgstr "Gwella meddalwedd a bywydau trwy wirfoddoli."
 
-#: sites/www.thunderbird.net/participate/index.html:156
+#: sites/www.thunderbird.net/participate/index.html:197
 msgid ""
 "Craft tools you want to use. Help others find and use software that respects their privacy and freedom. Become part of a better future for yourself and others by putting your talents to work at "
 "Thunderbird."
@@ -2060,7 +2457,7 @@ msgstr ""
 "Lluniwch offer rydych am eu defnyddio. Helpwch eraill i ddod o hyd i a defnyddio meddalwedd sy'n parchu eu preifatrwydd a'u rhyddid. Dewch yn rhan o ddyfodol gwell i chi'ch hun ac eraill trwy roi "
 "eich doniau ar waith yn Thunderbird. Darllenwch ymhellach i ddysgu sut mae gwneud."
 
-#: sites/www.thunderbird.net/participate/index.html:159
+#: sites/www.thunderbird.net/participate/index.html:200
 msgid "Various gears all working in tandem with a heart, a code symbol, a magnifying glass displaying a very small bug, and the Thunderbird Logo in the centre of it all."
 msgstr "Gêrs amrywiol i gyd yn gweithio ochr yn ochr â chalon, symbol cod, chwyddwydr yn dangos byg bach iawn, a Logo Thunderbird yng nghanol y cyfan."
 
@@ -3247,81 +3644,81 @@ msgstr "Wedi'i gofrestru i drin ffeiliau .ics, gan adael i chi gael rhagolwg a m
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 91.0 and up</a>."
 msgstr "Gallwch weld manylion ein holl newidiadau yn y nodiadau rhyddhau ar gyfer <a href=\"%(release)s\">Thunderbird 91.0 ac uwch</a>."
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:19 sites/www.thunderbird.net/thunderbird/all/index.html:166
-msgid "Get <span class=\"txt-gradient\">Thunderbird</span>"
-msgstr "Cael <span class=\"txt-gradient\">Thunderbird</span>"
-
-#: sites/www.thunderbird.net/thunderbird/all/index.html:21
+#: sites/www.thunderbird.net/thunderbird/all/index.html:24
 msgid "These are officially maintained and distributed by Thunderbird. Download the latest Release version unless you wish to test the Beta version and report bugs."
 msgstr "Mae'r rhain yn cael eu cynnal yn swyddogol a'u dosbarthu gan Thunderbird. Llwythwch y fersiwn Rhyddhau diweddaraf i lawr oni bai eich bod am brofi'r fersiwn Beta ac adrodd ar wallau."
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:25
+#: sites/www.thunderbird.net/thunderbird/all/index.html:28
 msgid "The Daily version is an unstable testing and development platform, make sure you back up important data regularly!"
 msgstr "Mae Daily yn blatfform profi a datblygu ansefydlog, gwnewch yn siŵr eich bod yn gwneud copi wrth gefn o ddata pwysig yn rheolaidd!"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:28
+#: sites/www.thunderbird.net/thunderbird/all/index.html:31
 msgid "Thunderbird Release is available for testing purposes only until releases are deemed stable enough for official support. Make sure you backup important data regularly!"
 msgstr ""
 "Mae Thunderbird Release ar gael at ddibenion profi yn unig nes bod datganiadau yn cael eu hystyried yn ddigon sefydlog ar gyfer cefnogaeth swyddogol. Gwnewch yn siŵr eich bod yn gwneud copi wrth "
 "gefn o ddata pwysig yn rheolaidd!"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:33
+#: sites/www.thunderbird.net/thunderbird/all/index.html:36
 msgid "Locale"
 msgstr "Locale"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:47
+#: sites/www.thunderbird.net/thunderbird/all/index.html:50
 msgid "Release Channel"
 msgstr "Sianel Rhyddhau"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:58
+#: sites/www.thunderbird.net/thunderbird/all/index.html:61
 msgid "Operating System"
 msgstr "System Weithredu"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:70
+#: sites/www.thunderbird.net/thunderbird/all/index.html:73
 msgid "Need a specific installer?"
 msgstr "Angen gosodwr penodol?"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:74
+#: sites/www.thunderbird.net/thunderbird/all/index.html:77
 msgid "Installer Type"
 msgstr "Math o Osodwr"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:111
-msgid "Release Information"
-msgstr "Gwybodaeth Rhyddhau"
-
-#: sites/www.thunderbird.net/thunderbird/all/index.html:116
+#: sites/www.thunderbird.net/thunderbird/all/index.html:105 sites/www.thunderbird.net/thunderbird/all/index.html:150
 msgid "Other Downloads"
 msgstr "Llwythi Eraill"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:119
+#: sites/www.thunderbird.net/thunderbird/all/index.html:108
 msgid "Microsoft Apps Store"
 msgstr "Microsoft Apps Store"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:124
+#: sites/www.thunderbird.net/thunderbird/all/index.html:111
 msgid "Flathub"
 msgstr "Flathub"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:127
+#: sites/www.thunderbird.net/thunderbird/all/index.html:114
 msgid "Snap Store"
 msgstr "Snap Store"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:134
+#: sites/www.thunderbird.net/thunderbird/all/index.html:121 sites/www.thunderbird.net/thunderbird/all/index.html:160
 msgid "More Information"
 msgstr "Rhagor o Wybodaeth"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:137 sites/www.thunderbird.net/thunderbird/all/index.html:151
+#: sites/www.thunderbird.net/thunderbird/all/index.html:124 sites/www.thunderbird.net/thunderbird/all/index.html:163
 msgid "System Requirements"
 msgstr "Gofynion System"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:148
-msgid "More Information For Mobile"
-msgstr "Rhagor o Wybodaeth ar gyfer Symudol"
+#: sites/www.thunderbird.net/thunderbird/all/index.html:140
+msgid "New"
+msgstr ""
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:167
+#: sites/www.thunderbird.net/thunderbird/all/index.html:143 sites/www.thunderbird.net/thunderbird/all/index.html:180
+msgid "These are officially maintained and distributed by Thunderbird Mobile."
+msgstr ""
+
+#: sites/www.thunderbird.net/thunderbird/all/index.html:153
+msgid "Binary (.apk)"
+msgstr ""
+
+#: sites/www.thunderbird.net/thunderbird/all/index.html:189
 msgid "These are officially maintained and distributed by Thunderbird."
 msgstr "Mae'r rhain yn cael eu cynnal a'u dosbarthu'n swyddogol gan Thunderbird."
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:168
+#: sites/www.thunderbird.net/thunderbird/all/index.html:190
 msgid "Jump to the language you wish to download by using the legend below."
 msgstr "Ewch i'r iaith yr hoffech ei llwytho i lawr trwy ddefnyddio'r panel isod."
 
@@ -3336,6 +3733,40 @@ msgstr "Llif Atom Nodiadau Rhyddhau Thunderbird"
 #: sites/www.thunderbird.net/thunderbird/releases/index.html:18
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "Mae nodiadau rhyddhau Thunderbird yn benodol i bob fersiwn o'r rhaglen. Dewiswch eich fersiwn chi o'r rhestr isod i weld y nodiadau rhyddhau ar ei gyfer."
+
+#~ msgid ""
+#~ "\n"
+#~ "            Meet Thunderbird, the <strong>email</strong> and <strong>productivity</strong> app that maximizes your freedoms.\n"
+#~ "          "
+#~ msgstr ""
+#~ "\n"
+#~ "          Dyma Thunderbird, y rhaglen <strong>e-bost</strong>,\n"
+#~ "          <strong>calendr</strong> a <strong>chysylltiadau</strong> sy'n gwneud y mwyaf o'ch rhyddid.\n"
+#~ "          "
+
+#~ msgid "Explore More Features"
+#~ msgstr "Edrych ar Ragor o Nodweddion"
+
+#~ msgid "Available on Windows, Linux, Mac"
+#~ msgstr "Ar gael ar Windows, Linux, Mac"
+
+#~ msgid "Find the help you need configuring and using Thunderbird."
+#~ msgstr "Dewch o hyd i'r help sydd ei angen arnoch i ffurfweddu a defnyddio Thunderbird."
+
+#~ msgid "Podcasts"
+#~ msgstr "Podlediadau"
+
+#~ msgid "Meet interesting people and hear their Thunderbird stories."
+#~ msgstr "Dewch i gwrdd â phobl ddiddorol a chlywed eu straeon am Thunderbird."
+
+#~ msgid "Get <span class=\"txt-gradient\">Thunderbird</span>"
+#~ msgstr "Cael <span class=\"txt-gradient\">Thunderbird</span>"
+
+#~ msgid "Release Information"
+#~ msgstr "Gwybodaeth Rhyddhau"
+
+#~ msgid "More Information For Mobile"
+#~ msgstr "Rhagor o Wybodaeth ar gyfer Symudol"
 
 #~ msgid ""
 #~ "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded\n"
@@ -4317,9 +4748,6 @@ msgstr "Mae nodiadau rhyddhau Thunderbird yn benodol i bob fersiwn o'r rhaglen. 
 
 #~ msgid "Thunderbird Vector Wordmark"
 #~ msgstr "Marc Gair Fector Thunderbird"
-
-#~ msgid "Features"
-#~ msgstr "Nodweddion"
 
 #~ msgid "Pay What You Want"
 #~ msgstr "Cyfrannu Faint Fynnwch Chi"
