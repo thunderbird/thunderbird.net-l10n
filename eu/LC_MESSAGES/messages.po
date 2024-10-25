@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-10-24 08:30-0700\n"
-"PO-Revision-Date: 2024-10-25 10:49+0000\n"
+"PO-Revision-Date: 2024-10-25 11:02+0000\n"
 "Last-Translator: Ander Elortondo <ander.elor@gmail.com>\n"
 "Language-Team: none\n"
 "Language: eu\n"
@@ -1419,6 +1419,12 @@ msgid ""
 "line of your check to help us track and attribute your gift. We can only send acknowledgement receipts by email.</p> <p> <strong>Give the gift of your time!</strong> If you would like to learn how "
 "to contribute to Thunderbird in other ways such as coding, translating or testing, please visit our <a href=\"%(ways_to_help)s\">Participate</a> page.</p>"
 msgstr ""
+"<p>Segurtasunez <a href=\"%(donate)s\">sarean emaria egin</a> dezakezu kreditu-txartel edo PayPal, Google Pay, Apple Pay eta banku-transferentzia bidez SEPA, iDEAL eta ACH bidez.<br/ > "
+"<strong>Emaria zure tokiko monetan!</strong> 100 baino gehiago onartzen ditugu! Aukeratu zurea \"Kopurua\" aukeraren ondoko goitibeherako menuan.<br/> <strong>Lineaz kanpo USDtan soilik eman "
+"dezakezu</strong> \"MZLA Technologies Corp\"-ri ordaindutako txeke edo diru-agindu bat bidalita. Bidali helbide honetara: </p> <ul class=\"check-address\"> <li>MZLA</li> <li>PO Box 25718</li> "
+"<li>Pasadena CA 91185-5718</li> </ul > <p>Mesedez, sartu zure helbide elektronikoa txekearen ohar-lerroan, zure oparia jarraitzen eta egozten laguntzeko. Posta elektronikoz soilik bidal ditzakegu "
+"aitorpen-agiriak.</p> <p> <strong>Eman zure denboraren oparia!</strong> Thunderbird-en beste modu batzuetan nola lagundu ikasi nahi baduzu, esate baterako, kodetzen, itzultzen edo probak egiten, "
+"bisitatu gure <a href=\"%(ways_to_help)s\">Parte hartu</a> orria.</p>"
 
 #: sites/www.thunderbird.net/includes/faq.html:47
 msgid "How do I cancel or change my recurring gift? Can I change my payment method or my donation frequency?"
@@ -1430,6 +1436,8 @@ msgid ""
 "Access your plan details from the <strong><a href=\"%(modify)s\">Donor Portal</a></strong> or from the 'Manage My Donation' button on your recent donation confirmation email. You can change the "
 "amount, frequency, payment method and charge date. You can also cancel your recurring plan and download your receipts."
 msgstr ""
+"Sartu zure planaren xehetasunak <strong><a href=\"%(modify)s\">Emaileen ataritik</a></strong> edo azken dohaintza berrespen-mezuko 'Kudeatu nire dohaintza' botoian. Zenbatekoa, maiztasuna, "
+"ordainketa-metodoa eta kobratzeko data alda ditzakezu. Zure plana errepikakorra bertan behera utz dezakezu eta zure ordainagiriak deskargatu ere egin ditzakezu."
 
 #: sites/www.thunderbird.net/includes/faq.html:61
 msgid "Does my gift give me access to tech support?"
@@ -1441,10 +1449,12 @@ msgid ""
 "All Thunderbird <strong>technical support is community-based</strong> and available to everyone. Visit our <a href=\"%(url)s\">support forum</a>. We do not provide individual tech support in "
 "exchange for financial gifts."
 msgstr ""
+"Thunderbird-en <strong>laguntza tekniko guztia komunitatean oinarrituta dago</strong> eta guztion eskura dago. Bisitatu gure <a href=\"%(url)s\">laguntza-foroa</a>. Ez dugu laguntza teknologiko "
+"indibiduala eskaintzen opari ekonomikoen truke."
 
 #: sites/www.thunderbird.net/includes/faq.html:73
 msgid "How do I get a receipt?"
-msgstr ""
+msgstr "Nola lortu ordainagiria?"
 
 #: sites/www.thunderbird.net/includes/faq.html:76
 #, python-format
@@ -1452,6 +1462,8 @@ msgid ""
 "You will receive an email confirmation whenever you donate and this will include a receipt for your records. You can also access your receipt history at any time from our <strong><a "
 "href=\"%(url)s\">Donor Portal</a></strong>."
 msgstr ""
+"Dohaintza egiten duzun bakoitzean posta elektroniko bidezko berrespena jasoko duzu eta honek zure erregistroen ordainagiria jasoko du. Zure ordainagirien historia edonoiz atzi dezakezu gure "
+"<strong><a href=\"%(url)s\">Emaileen ataritik</a></strong>."
 
 #: sites/www.thunderbird.net/includes/faq.html:85
 msgid "Is my gift tax deductible?"
@@ -1462,6 +1474,8 @@ msgid ""
 "Gifts to Thunderbird <strong>are not tax-deductible as charitable gifts</strong>, but are greatly appreciated!<br/> Giving to Thunderbird supports the development of open source apps that are "
 "secure, private and available for users around the world. Your support also ensures that our core apps remain free for everyone."
 msgstr ""
+"Thunderbirdi egindako opariak <strong>ez dira zerga kengarriak karitate opari gisa</strong>, baina asko eskertzen dira!<br/> Thunderbirdi emateak kode irekiko aplikazioak garatzen laguntzen du, "
+"seguruak, pribatuak eta mundu osoko erabiltzaileentzat eskuragarri. Zure laguntzak gure oinarrizko aplikazioak guztientzako doakoak izango direla ziurtatzen du."
 
 #: sites/www.thunderbird.net/includes/faq.html:98
 msgid "Why do you need my address in order to process a gift?"
@@ -1499,6 +1513,8 @@ msgid ""
 "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box <strong>'Donate as an Organization'</strong> and include your company name. Your transaction receipt will include"
 " your company name. If you need a copy of your receipt, download from our <strong><a href=\"%(modify)s\">Donor Portal</a></strong>."
 msgstr ""
+"Gure <a href=\"%(donate)s\">online formularioa</a> bidez emaria egiten duzunean, markatu <strong>'Eman erakunde gisa'</strong> laukia eta sartu zure enpresaren izena. Zure transakzio-agiriak zure "
+"enpresaren izena jasoko du. Ordainagiriaren kopia bat behar baduzu, deskargatu gure <strong><a href=\"%(modify)s\">Emaileen ataritik</a></strong>."
 
 #: sites/www.thunderbird.net/includes/faq.html:139
 msgid "Is my donation secure?"
@@ -1526,6 +1542,9 @@ msgid ""
 "immediately. <strong>Donations made via ACH or SEPA direct debit are ineligible for refunds.</strong> Due to the nature of these transactions our policy prioritizes minimizing refund fraud. We "
 "appreciate your understanding. If you need assistance, <a href=\"%(help)s\">please contact us</a>."
 msgstr ""
+"Baliteke zure dohaintzak itzultzeko aukera izatea. Ordainketa-datatik <strong>jarri gurekin harremanetan 15 eguneko epean.</strong> Ordainketa hau zure baimenik gabe egin dela uste baduzu, jar "
+"zaitez gurekin harremanetan berehala. <strong>ACH edo SEPA zuzeneko zordunketa bidez egindako dohaintzek ezin dute itzulketarik jaso.</strong> Transakzio horien izaera dela eta, gure gidalerroak "
+"itzulketen iruzurra gutxitzea lehenesten du. Zure ulermena eskertzen dugu. Laguntza behar baduzu, <a href=\"%(help)s\">jar zaitez gurekin harremanetan</a>."
 
 #: sites/www.thunderbird.net/includes/faq.html:169
 msgid "Are there additional fees added to my donation?"
