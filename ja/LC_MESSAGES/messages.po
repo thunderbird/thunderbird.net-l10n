@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-10-24 08:30-0700\n"
+"POT-Creation-Date: 2024-10-28 13:56-0700\n"
 "PO-Revision-Date: 2024-10-17 21:52+0000\n"
 "Last-Translator: marsf <chimantaea_mirabilis@yahoo.co.jp>\n"
 "Language-Team: none\n"
@@ -230,9 +230,10 @@ msgstr "もしかして <a href=\"%(url)s\">thunderbird.net</a> をお探しで�
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
 msgstr "メッセージの高速全文検索、タブ表示、アーカイブ。設定も簡単で、カスタマイズ自由自在。そんなメールソフトが Thunderbird です。"
 
-#: sites/updates.thunderbird.net/includes/base/base.html:16 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:20 sites/www.thunderbird.net/includes/base/base.html:17
-#: sites/www.thunderbird.net/includes/base/page.html:16 sites/www.thunderbird.net/includes/product-metadata.html:2 sites/www.thunderbird.net/includes/product-metadata.html:21
-#: sites/www.thunderbird.net/index.html:10 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:17 sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:18
+#: sites/updates.thunderbird.net/includes/base/base.html:19 sites/updates.thunderbird.net/thunderbird/128.0/nov24/donate/index.html:20
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:21 sites/www.thunderbird.net/includes/base/base.html:17 sites/www.thunderbird.net/includes/base/page.html:16
+#: sites/www.thunderbird.net/includes/product-metadata.html:2 sites/www.thunderbird.net/includes/product-metadata.html:21 sites/www.thunderbird.net/index.html:10
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:17 sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:18
 #: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:19 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:18 sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:18
 #: sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:18 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:19
 #: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:17 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:17 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:17
@@ -275,34 +276,60 @@ msgstr "不正行為を報告する"
 msgid "Participation Guidelines"
 msgstr "参加ガイドライン"
 
-#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:14
+#: sites/updates.thunderbird.net/includes/macros/donate-button.html:4 sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:38
+#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:38
+msgid "Click here to <b>Donate!</b>"
+msgstr "<b>寄付はこちらへ。</b>ご協力をお願いします。"
+
+#: sites/updates.thunderbird.net/includes/macros/donate-button.html:19 sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:53
+#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:53
+msgid "Help keep <b>Thunderbird Alive!</b>"
+msgstr "<b>Thunderbirdの存続</b>にご協力ください！"
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/donate/index.html:14 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:15
 msgid "20 Years of Thunderbird!"
 msgstr ""
 
-#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:20
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/donate/index.html:20 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:21
 msgid "Turns 20, Thanks to You!"
 msgstr ""
 
-#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:22
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/donate/index.html:21 sites/updates.thunderbird.net/thunderbird/128.0/nov24/donate/index.html:152
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:22 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:153
 msgid "The text 20 Years with a the Thunderbird logo in place of the zero."
 msgstr ""
 
-#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:30
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/donate/index.html:22 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:23
+msgid "20"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/donate/index.html:23 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:24
+msgid "Years"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/donate/index.html:32 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:33
 msgid "On December 7, 2004, Thunderbird 1.0 was released."
 msgstr ""
 
-#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:31
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/donate/index.html:33 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:34
 msgid "Thunderbird is free. Free to use. Free of ads. Free of data tracking."
 msgstr ""
 
-#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:32
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/donate/index.html:34 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:35
 #, python-format
 msgid "We rely solely on the generosity of our supporters and less than <b>3% of Thunderbird users keep us going.</b>"
 msgstr ""
 
-#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:33
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/donate/index.html:35 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:36
 msgid "Please help us continue for another 20 years."
 msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/donate/index.html:168 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:169
+#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:342 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:152 sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:84
+#: sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:342 sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:121
+#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:84
+msgid "The Thunderbird Team"
+msgstr "Thunderbirdチーム"
 
 #: sites/www.thunderbird.net/404.html:8
 #, python-format
@@ -2527,12 +2554,6 @@ msgstr "この使命を達成するには、<strong>Thunderbird</strong>を安�
 msgid "<strong>So today we’re asking you to help us out.</strong> If you get value from using Thunderbird, please consider giving a donation to support it!"
 msgstr "<strong>皆さんの助けが必要です</strong>Thunderbirdから価値を得ているとお考えであれば、寄付によるサポートをお願いします。"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:342 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:152 sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:84
-#: sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:342 sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:121
-#: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:84
-msgid "The Thunderbird Team"
-msgstr "Thunderbirdチーム"
-
 #: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:16 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:22
 #: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:64
 msgid "What’s New in Thunderbird 102"
@@ -2762,14 +2783,6 @@ msgstr "<span>Thunderbird</span>をお選びいただきありがとうござい
 #: sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:23 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:23
 msgid "Thunderbird is proud to be funded by our community, not by selling personal data or showing ads in your inbox."
 msgstr "Thunderbirdは、個人情報の販売や受信トレイに広告を表示するのではなく、コミュニティの支援によって資金提供されています。"
-
-#: sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:38 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:38
-msgid "Click here to <b>Donate!</b>"
-msgstr "<b>寄付はこちらへ。</b>ご協力をお願いします。"
-
-#: sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:53 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:53
-msgid "Help keep <b>Thunderbird Alive!</b>"
-msgstr "<b>Thunderbirdの存続</b>にご協力ください！"
 
 #: sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:62 sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:62
 msgid "Thunderbird’s mission is to give you the best privacy-respecting, customizable communication experience possible. Free for everyone to install and enjoy!"
