@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-11-06 13:33-0800\n"
-"PO-Revision-Date: 2024-11-08 19:22+0000\n"
+"PO-Revision-Date: 2024-11-08 19:31+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: none\n"
 "Language: fr\n"
@@ -1913,6 +1913,8 @@ msgid ""
 "Thunderbird will only use your submitted information for purposes of communicating with you about your request. See our <a href=\"%(url)s\" target=\"_blank\">privacy policy</a> for further "
 "information."
 msgstr ""
+"Thunderbird utilisera les informations soumises uniquement pour communiquer avec vous au sujet de votre demande. Veuillez consulter notre <a href=\"%(url)s\" target=\"_blank\">politique de "
+"confidentialité</a> pour plus d’informations."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:185
 #, python-format
@@ -1920,6 +1922,8 @@ msgid ""
 "Our Donor Support Team is unable to respond to any technical support questions. We do not provide technical support in exchange for financial gifts. To ensure that you get the help that you need, "
 "please <a target=\"_blank\" href=\"%(url)s\">visit our technical support page</a>."
 msgstr ""
+"Notre équipe d’assistance aux dons n’est pas en mesure de répondre aux questions d’assistance technique. Nous ne fournissons pas d’assistance technique en échange de dons. Pour vous assurer "
+"d’obtenir l’aide dont vous avez besoin, veuillez <a target=\"_blank\" href=\"%(url)s\">visiter notre page d’assistance technique</a>."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:190
 #, python-format
@@ -1927,6 +1931,8 @@ msgid ""
 "Thunderbird <b>technical support is community-based </b>and available to everyone. Our technical support page <b>includes knowledge base articles and a community of volunteers ready to "
 "help</b>!<br><br><a target=\"_blank\" href=\"%(url)s\"><b>Visit our technical support site to get more help</b></a>."
 msgstr ""
+"L’assistance technique de Thunderbird <b>est effectuée par la communauté</b> et est accessible à tout le monde. Notre page d’assistance technique <b>comprend des articles de la base de connaissances"
+" et une communauté de bénévoles prête à vous aider</b> !<br><br><a target=\"_blank\" href=\"%(url)s\"><b> Consultez notre site d’assistance technique pour obtenir davantage d’aide</b></a>."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:210
 #, python-format
@@ -1934,6 +1940,8 @@ msgid ""
 "Our Donor Support Team is unable to respond to your Thunderbird product feedback and feature requests. But, we want to hear from you! Please visit<b> <a target=\"_blank\" href=\"%(url)s\">Mozilla "
 "Connect</a></b>."
 msgstr ""
+"Notre équipe d’assistance aux dons n’est pas en mesure de répondre à vos commentaires relatifs au produit ni à vos demandes de fonctionnalités pour Thunderbird. Cependant, nous voulons votre avis ! "
+"Veuillez visiter <b> <a target=\"_blank\" href=\"%(url)s\">Mozilla Connect</a></b>."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:215
 #, python-format
@@ -1942,10 +1950,13 @@ msgid ""
 "target=\"_blank\" href=\"%(url2)s\"><b>Submit your ideas</b></a> and be sure to tag Thunderbird so others can find and vote on your suggestions.<br><br> For Thunderbird technical support, please "
 "visit our <a target=\"_blank\" href=\"%(url3)s\"><b>support page</b></a>"
 msgstr ""
+"<a target=\"_blank\" href=\"%(url)s\"><b>Mozilla Connect</b></a> est un espace collaboratif qui permet de partager des idées, des retours et des discussions qui aideront à façonner les prochaines "
+"versions de Thunderbird. <a target=\"_blank\" href=\"%(url2)s\"><b>Envoyez vos idées</b></a> et assurez-vous d’ajouter l’étiquette Thunderbird afin que d’autres personnes puissent découvrir et voter"
+" pour vos suggestions.<br> <br> Pour l’assistance technique de Thunderbird, veuillez visiter notre <a target=\"_blank\" href=\"%(url3)s\"><b>page d’assistance</b></a>."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:228
 msgid "Visit Mozilla Connect to submit your ideas for Thunderbird."
-msgstr ""
+msgstr "Consultez Mozilla Connect pour soumettre vos idées pour Thunderbird."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:244
 msgid "Chinese Simplified"
@@ -2006,35 +2017,39 @@ msgstr "Espagnol"
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:271
 #, python-format
 msgid "To update the email that you are using to make and manage your donations, please <b>visit our <a target=\"_blank\" href=\"%(url)s\">Donor Portal</a></b>."
-msgstr ""
+msgstr "Pour mettre à jour l’adresse e-mail que vous utilisez pour effectuer et gérer vos dons, veuillez <b>consulter le <a target=\"_blank\" href=\"%(url)s\">portail des dons</a></b>."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:275
 msgid "To sign in to your donor portal, please use the email that you used to make your donation."
-msgstr ""
+msgstr "Pour vous connecter au portail des dons, veuillez utiliser l’adresse e-mail avec laquelle vous avez effectué votre don."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:286
 #, python-format
 msgid "We currently <b>accept over 100 currencies through our <a target=\"_blank\" href=\"%(url)s\">donation form</a>!</b>"
-msgstr ""
+msgstr "Nous <b>acceptons actuellement plus de 100 devises via notre <a target=\"_blank\" href=\"%(url)s\">formulaire de don</a> !</b>"
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:291
 msgid "If you do not see your preferred currency listed, we unfortunately cannot accept that currency at this time."
-msgstr ""
+msgstr "Si vous ne voyez pas votre devise préférée, nous ne pouvons malheureusement pas l’accepter pour le moment."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:295
 msgid ""
 "We <b>also accept a number of payment methods</b> which, depending upon your location, include by Credit Card, PayPal, SEPA Direct Debit, iDEAL, Google Pay, Apple Pay, and ACH. If you do not see "
 "your preferred payment method listed, we unfortunately do not accept that method at this time."
 msgstr ""
+"Nous <b>acceptons également un certain nombre de modes de paiement</b> qui, selon votre emplacement, incluent les cartes bancaires, PayPal, les prélèvements SEPA, iDEAL, Google Pay, Apple Pay et "
+"ACS. Si votre mode de paiement préféré ne s’affiche pas, c’est que nous ne l’acceptons malheureusement pas pour le moment."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:300
 msgid "We do not accept donations in crypto."
-msgstr ""
+msgstr "Nous n’acceptons pas les dons en cryptomonnaies."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:304
 #, python-format
 msgid "If you are in the US (or using a US bank account), you can donate via check. Detailed instructions are available on our <a target=\"_blank\" href=\"%(url)s\"><b>Donation FAQ</b></a> page."
 msgstr ""
+"Si vous vous trouvez aux États-Unis (ou si vous utilisez un compte bancaire aux États-Unis), vous pouvez faire un don par chèque. Des instructions détaillées sont disponibles sur notre page <a "
+"target=\"_blank\" href=\"%(url)s\"><b>FAQ sur les dons</b></a>."
 
 #: sites/www.thunderbird.net/includes/macros/download-block.html:13
 msgid "Are you ready to love email again?"
@@ -2042,31 +2057,31 @@ msgstr "Êtes-vous prêts à aimer à nouveau les e-mails ?"
 
 #: sites/www.thunderbird.net/includes/macros/download-mobile.html:14
 msgid "Google Play"
-msgstr ""
+msgstr "Google Play"
 
 #: sites/www.thunderbird.net/includes/macros/download-mobile.html:25
 msgid "F-Droid"
-msgstr ""
+msgstr "F-Droid"
 
 #: sites/www.thunderbird.net/mobile/index.html:24 sites/www.thunderbird.net/thunderbird/all/index.html:138 sites/www.thunderbird.net/thunderbird/all/index.html:204
 msgid "Thunderbird Mobile."
-msgstr ""
+msgstr "Thunderbird Mobile."
 
 #: sites/www.thunderbird.net/mobile/index.html:25 sites/www.thunderbird.net/thunderbird/all/index.html:139 sites/www.thunderbird.net/thunderbird/all/index.html:205
 msgid "Thunderbird <span class=\"txt-gradient\">Mobile</span>"
-msgstr ""
+msgstr "Thunderbird <span class=\"txt-gradient\">Mobile</span>"
 
 #: sites/www.thunderbird.net/mobile/index.html:28
 msgid "Meet the leading open-source email app for Android. Enjoy complete freedom anywhere you take your smartphone."
-msgstr ""
+msgstr "Découvrez la principale application e-mail open source pour Android. Profitez d’une liberté totale où que vous emmeniez votre smartphone."
 
 #: sites/www.thunderbird.net/mobile/index.html:64
 msgid "No Ads or Spyware"
-msgstr ""
+msgstr "Sans publicités ni spyware"
 
 #: sites/www.thunderbird.net/mobile/index.html:65
 msgid "It’s actually free!"
-msgstr ""
+msgstr "C’est gratuit !"
 
 #: sites/www.thunderbird.net/mobile/index.html:66
 msgid "Instead of making money with ads or data, Thunderbird is developed with donations of time and money from people just like you. Manage your email without giving up more of your privacy."
@@ -2074,11 +2089,11 @@ msgstr ""
 
 #: sites/www.thunderbird.net/mobile/index.html:72
 msgid "A cropped screenshot of the Thunderbird for Android's interface."
-msgstr ""
+msgstr "Une capture d’écran rognée de l’interface de Thunderbird pour Android."
 
 #: sites/www.thunderbird.net/mobile/index.html:75
 msgid "All-in-One Email App"
-msgstr ""
+msgstr "Application de messagerie tout-en-un"
 
 #: sites/www.thunderbird.net/mobile/index.html:76
 msgid "Reduce app clutter."
