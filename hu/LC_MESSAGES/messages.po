@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-11-06 13:33-0800\n"
-"PO-Revision-Date: 2024-11-11 10:31+0000\n"
+"PO-Revision-Date: 2024-11-11 10:41+0000\n"
 "Last-Translator: Balázs Meskó <meskobalazs@mailbox.org>\n"
 "Language-Team: none\n"
 "Language: hu\n"
@@ -1607,10 +1607,13 @@ msgid ""
 "transaction costs. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to research any"
 " additional external taxes or fees that may be applied by regulators such as your bank or tax authority."
 msgstr ""
+"Nem szedünk be semmilyen további díjat vagy adót. Ha a helyi pénznemben adományoz, akkor nem terheli átváltási díj a bankkártyáját. Dönthet úgy, hogy az adományából fedezi a fizetésfeldolgozás "
+"tranzakciós költségeit is. Ez teljesen önkéntes, be- és kikapcsolhatja az adományozói űrlapunkon található jelölőnégyzet segítségével. Szervezetünk az Egyesült Államokban van bejegyezve. Arra "
+"biztatjuk az adományozókat, hogy nézzenek utána az esetleges további külső adóknak vagy illetékeknek, amelyeket a szabályozók, például a bankja vagy az adóhatósága alkalmazhat."
 
 #: sites/www.thunderbird.net/includes/faq.html:184
 msgid "What do the transaction costs cover?"
-msgstr ""
+msgstr "Mit fedeznek a tranzakciós költségek?"
 
 #: sites/www.thunderbird.net/includes/faq.html:187
 msgid ""
@@ -1619,6 +1622,10 @@ msgid ""
 "partners ensure we can accept a wide range of currencies/payment methods and remain PCI compliant in all of the countries that we accept gifts from. The transaction costs you may choose to cover are"
 " based on an estimate of our overall costs. Due to many factors actual costs may fluctuate."
 msgstr ""
+"Ha úgy dönt, hogy fedezi a tranzakciós költségeinket, akkor állja a feldolgozási és az adományozási platformmal kapcsolatos költségeket is. A robusztus online adományozási rendszerünk költségei "
+"lehetővé teszik, hogy fenntartható módon folytassuk a bővítést, ahogy a támogatói körünk nő. Az adományozó platformunk és fizetésfeldolgozó partnereink csökkentik azokat a költségeket, amelyeket egy"
+" saját rendszer karbantartása okozna. Partnereink biztosítják, hogy a pénznemek/fizetési módok széles skáláját tudjuk elfogadni, és hogy továbbra is PCI kompatibilisek maradjunk, minden országban, "
+"ahonnan adományokat fogadunk. A tranzakciós költségek, amelyeket Ön fedezhet, a teljes költségünk becslésén alapulnak. Számos tényező miatt a tényleges költségek ingadozhatnak."
 
 #: sites/www.thunderbird.net/includes/faq.html:200
 msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
@@ -1649,6 +1656,7 @@ msgstr "Hogyan lesz felhasználva az adománya?"
 #: sites/www.thunderbird.net/includes/faq.html:225
 msgid "Thunderbird is the leading open source email and productivity app that is free for business and personal use. Your gift helps ensure it stays that way, and supports ongoing development."
 msgstr ""
+"A Thunderbird a vezető nyílt forráskódú levelező- és szervezőprogram, amely üzleti és személyes használatra is ingyenes. Adománya segít abban, hogy ez így is maradjon, és a fejlesztéseket támogatja."
 
 #: sites/www.thunderbird.net/includes/faq.html:234
 msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
@@ -1656,7 +1664,7 @@ msgstr "Mi a Thunderbird kapcsolata az MZLA Technologies Corporation vállalatta
 
 #: sites/www.thunderbird.net/includes/faq.html:237
 msgid "MZLA Technologies Corporation is a wholly owned for-profit subsidiary of the Mozilla Foundation and the home of Thunderbird."
-msgstr ""
+msgstr "A MZLA Technologies Corporation a Mozilla Alapítvány teljes tulajdonú profitorientált leányvállalata, és a Thunderbird otthona."
 
 #: sites/www.thunderbird.net/includes/faq.html:245
 msgid "Doesn’t Thunderbird earn income?"
@@ -1665,7 +1673,7 @@ msgstr "A Thunderbirdnek nincs bevétele?"
 #: sites/www.thunderbird.net/includes/faq.html:248
 #, python-format
 msgid "Currently, nearly 100% of Thunderbird’s operating revenue comes from the generous gifts of Thunderbird users."
-msgstr ""
+msgstr "Jelenleg a Thunderbird működési bevételének közel 100%-a a Thunderbird felhasználók nagylelkű felajánlásaiból származik."
 
 #: sites/www.thunderbird.net/includes/lang_switcher.html:10
 msgid "Page language"
@@ -1764,19 +1772,19 @@ msgstr "Tudjon meg többet az új termékkiadásokról, közösségi eseményekr
 
 #: sites/www.thunderbird.net/includes/base/nav.html:39
 msgid "Desktop Help"
-msgstr ""
+msgstr "Asztali súgó"
 
 #: sites/www.thunderbird.net/includes/base/nav.html:39
 msgid "Find the help you need configuring and using Thunderbird Desktop."
-msgstr ""
+msgstr "Találja meg az asztali Thunderbird beállításához és használatához szükséges segítséget."
 
 #: sites/www.thunderbird.net/includes/base/nav.html:40
 msgid "Mobile Help"
-msgstr ""
+msgstr "Mobilos súgó"
 
 #: sites/www.thunderbird.net/includes/base/nav.html:40
 msgid "Find the help you need configuring and using Thunderbird Mobile."
-msgstr ""
+msgstr "Találja meg a mobilos Thunderbird beállításához és használatához szükséges segítséget."
 
 #: sites/www.thunderbird.net/includes/base/nav.html:53
 msgid "Learn how our values, community, and organization shape the future of Thunderbird."
@@ -1882,7 +1890,7 @@ msgstr "Segítség egy nem engedélyezett vagy csaló adományozással kapcsolat
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:72
 msgid "To update my donation email address"
-msgstr ""
+msgstr "Az adományozási e-mail-címe frissítéséhez"
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:73
 msgid "To change or cancel my monthly recurring donation"
