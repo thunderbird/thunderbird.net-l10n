@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-11-06 13:33-0800\n"
-"PO-Revision-Date: 2024-11-04 16:29+0000\n"
+"PO-Revision-Date: 2024-11-11 12:09+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language-Team: none\n"
 "Language: cy\n"
@@ -1338,11 +1338,11 @@ msgstr "Roced gyda logo Thunderbird arno."
 
 #: sites/www.thunderbird.net/donate/help/index.html:28
 msgid "Our Team is experiencing a backlog in donor inquiries. Please expect a delay in our response time to your inquiry."
-msgstr ""
+msgstr "Mae gan ein tîm restr hir o ymholiadau rhoddwyr. Disgwyliwch oedi o hyd at 5 diwrnod busnes am ymateb i'ch ymholiad."
 
 #: sites/www.thunderbird.net/donate/help/index.html:32
 msgid "We appreciate your understanding and thank you in advance for your support!"
-msgstr ""
+msgstr "Rydym yn gwerthfawrogi eich amynedd ac yn diolch ymlaen llaw am eich cefnogaeth!"
 
 #: sites/www.thunderbird.net/donate/help/index.html:40
 #, python-format
@@ -1879,7 +1879,7 @@ msgstr "Help gyda rhodd anawdurdodedig neu dwyllodrus"
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:72
 msgid "To update my donation email address"
-msgstr ""
+msgstr "I ddiweddaru fy nghyfeiriad e-bost rhodd"
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:73
 msgid "To change or cancel my monthly recurring donation"
@@ -1914,10 +1914,13 @@ msgid ""
 "We truly appreciate your generous support and are happy to offer an easy way for you to give through <b>online bank transfer</b>. We accept donations via direct debit in Euros <b>through Single "
 "European Payment Area (SEPA) transfer</b>. To keep our administrative costs to a minimum, we are unfortunately <b>not able to accept offline SEPA bank transfers using IBAN</b>."
 msgstr ""
+"Rydym wir yn gwerthfawrogi eich cefnogaeth hael ac yn hapus i gynnig ffordd hawdd i chi roi trwy <b>trosglwyddiad banc ar-lein</b>. Rydym yn derbyn rhoddion trwy ddebyd uniongyrchol mewn Ewros "
+"<b>trwy drosglwyddiad Single European Payment Area (SEPA)</b>. Er mwyn cadw ein costau gweinyddol mor isel â phosibl, yn anffodus <b>nid ydym yn gallu dderbyn trosglwyddiadau banc SEPA all-lein sy'n"
+" defnyddio IBAN</b>."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:92
 msgid "Please visit our secure <b>Online Donation Form</b> to make your donation"
-msgstr ""
+msgstr "Ewch i'n <b>Ffurflen Rhodd Ar-lein</b> ddiogel i wneud eich rhodd"
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:102
 #, python-format
@@ -1925,23 +1928,25 @@ msgid ""
 "<b>Visit our </b> <a target=\"_blank\" href=\"%(url)s\"><b>Donor Portal</b></a> for <b>on-demand access to your receipts and to modify or cancel a recurring plan</b> including changing the amount, "
 "frequency, payment method and charge date."
 msgstr ""
+"<b>Ewch i'n </b> <a target=\"_blank\" href=\"%(url)s\"><b>Porth Rhoddwyr</b></a> ar gyfer <b>mynediad ar-alw i'ch derbynebau ac i addasu neu diddymu cynllun cylchol</b> gan gynnwys newid y swm, "
+"amlder, dull talu a dyddiad codi tâl."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:107
 msgid "Please note: we are unable to provide customized or summary receipts."
-msgstr ""
+msgstr "Sylwch: ni allwn ddarparu derbynebau wedi'u cyfaddasu na'u crynhoi."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:116
 #, python-format
 msgid "Please be sure to check our <a target=\"_blank\" href=\"%(url)s\"><b>Donation FAQ</b></a> page first as your question may be answered there."
-msgstr ""
+msgstr "Gwnewch yn siŵr eich bod yn darllen ein tudalen <a target=\"_blank\" href=\"%(url)s\"><b>Cwestiynau Cyffredin am Roi</b></a> yn gyntaf gan y gall eich cwestiwn gael ateb yno."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:124 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:126
 msgid "Issue Summary"
-msgstr ""
+msgstr "Crynodeb o'r Mater"
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:131 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:134
 msgid "Please provide more details as needed"
-msgstr ""
+msgstr "Rhowch fwy o fanylion yn ôl yr angen"
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:139 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:145
 msgid "Add a screenshot to help us with your request (optional)"
@@ -1965,6 +1970,8 @@ msgid ""
 "Thunderbird will only use your submitted information for purposes of communicating with you about your request. See our <a href=\"%(url)s\" target=\"_blank\">privacy policy</a> for further "
 "information."
 msgstr ""
+"Dim ond at ddibenion cyfathrebu â chi am eich cais y bydd Thunderbird yn defnyddio'r wybodaeth a gyflwynwyd gennych. Gweler ein <a href=\"%(url)s\" target=\"_blank\">polisi preifatrwydd</a> am ragor"
+" o wybodaeth."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:185
 #, python-format
@@ -3809,35 +3816,29 @@ msgstr "Mae nodiadau rhyddhau Thunderbird yn benodol i bob fersiwn o'r rhaglen. 
 #~ msgid "Any other details that might help"
 #~ msgstr "Unrhyw fanylion eraill a allai fod o gymorth"
 
-#, python-format
 #~ msgid "Thunderbird will only use your submitted information for purposes of communicating with you about your request. See our <a href=\"%(url)s\">privacy policy</a> for further information."
 #~ msgstr "Dim ond at ddibenion cyfathrebu â chi am eich cais y bydd Thunderbird yn defnyddio'r manylion rydych wedi'i gyflwyno. Gweler ein <a href=\"%(url)s\">polisi preifatrwydd</a> am ragor o wybodaeth."
 
 #~ msgid "We are unable to offer help with Thunderbird technical issues through the Donor Help form."
 #~ msgstr "Nid oes modd i ni gynnig cymorth gyda materion technegol Thunderbird trwy'r ffurflen Cymorth Rhoddwyr."
 
-#, python-format
 #~ msgid "Our <a href=\"%(url)s\" target=\"_blank\">knowledge base</a> and active user community can help!"
 #~ msgstr "Gall ein <a href=\"%(url)s\" target=\"_blank\">sylfaen wybodaeth</a> a'n cymuned defnyddwyr gweithredol helpu!"
 
 #~ msgid "Visit our technical support site to get more help"
 #~ msgstr "Ewch i'n gwefan cymorth technegol i gael mwy o help"
 
-#, python-format
 #~ msgid "<a href=\"%(url)s\" target=\"_blank\">Mozilla Connect</a> is a collaborative space for ideas, feedback, and discussions that will help shape future Thunderbird product releases."
 #~ msgstr ""
 #~ "Mae <a href=\"%(url)s\" target=\"_blank\">Mozilla Connect</a> yn ofod cydweithredol ar gyfer syniadau, adborth a thrafodaethau a fydd yn helpu i lunio fersiynau newydd o gynnyrch Thunderbird yn y "
 #~ "dyfodol."
 
-#, python-format
 #~ msgid "<a href=\"%(url)s\" target=\"_blank\">Submit your idea</a> and be sure to tag Thunderbird so others can find and vote on your suggestion."
 #~ msgstr "<a href=\"%(url)s\" target=\"_blank\">Cyflwynwch eich syniad</a> a gwnewch yn siŵr eich bod yn tagio Thunderbird fel y gall eraill ddod o hyd i'ch awgrym a phleidleisio arno."
 
-#, python-format
 #~ msgid "For product technical support, please visit our <a href=\"%(url)s\" target=\"_blank\">support page</a>."
 #~ msgstr "I gael cymorth technegol cynnyrch, ewch i'n <a href=\"%(url)s\" target=\"_blank\">dudalen cymorth</a>."
 
-#, python-format
 #~ msgid "<a href=\"%(url)s\" target=\"_blank\">Visit Mozilla Connect to submit your idea for Thunderbird</a>"
 #~ msgstr "<a href=\"%(url)s\" target=\"_blank\">Ewch i Mozilla Connect i gyflwyno'ch syniad ar gyfer Thunderbird</a>"
 
