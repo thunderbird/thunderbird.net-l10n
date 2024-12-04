@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-11-19 08:50-0800\n"
-"PO-Revision-Date: 2024-12-04 17:21+0000\n"
+"PO-Revision-Date: 2024-12-04 17:30+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: none\n"
 "Language: fr\n"
@@ -1171,11 +1171,11 @@ msgstr "Agenda, contacts et tâches"
 
 #: sites/www.thunderbird.net/desktop/index.html:134
 msgid "Because email is just one part of being productive."
-msgstr "Parce que le courrier électronique n’est qu’une partie de la productivité."
+msgstr "Parce que les e-mails ne représentent qu’une partie de la productivité."
 
 #: sites/www.thunderbird.net/desktop/index.html:135
 msgid "Thunderbird helps your manage your appointments, contacts, and tasks. Stay organized, productive, and connected in one place."
-msgstr "Thunderbird vous aide à gérer vos rendez-vous, vos contacts et vos tâches. Restez organisé, productif et connecté depuis un seul endroit."
+msgstr "Thunderbird vous aide à gérer vos rendez-vous, vos contacts et vos tâches. Restez organisé·e, productif·ve et connecté·e depuis un seul endroit."
 
 #: sites/www.thunderbird.net/desktop/index.html:143
 msgid "A video of a shield with the Thunderbird logo in the center of it."
@@ -1670,7 +1670,7 @@ msgstr "Quelle est la relation entre Thunderbird et MZLA Technologies Corporatio
 
 #: sites/www.thunderbird.net/includes/faq.html:237
 msgid "MZLA Technologies Corporation is a wholly owned for-profit subsidiary of the Mozilla Foundation and the home of Thunderbird."
-msgstr "MZLA Technologies Corporation est une filiale à but lucratif de la Fondation Mozilla et le fondateur de Thunderbird."
+msgstr ""
 
 #: sites/www.thunderbird.net/includes/faq.html:245
 msgid "Doesn’t Thunderbird earn income?"
@@ -1679,7 +1679,7 @@ msgstr "Thunderbird ne génère-t-il pas des revenus ?"
 #: sites/www.thunderbird.net/includes/faq.html:248
 #, python-format
 msgid "Currently, nearly 100% of Thunderbird’s operating revenue comes from the generous gifts of Thunderbird users."
-msgstr "Actuellement, près de 100 % des revenus d’exploitation de Thunderbird proviennent des généreux dons des utilisateurs de Thunderbird."
+msgstr "Actuellement, près de 100 % des revenus d’exploitation de Thunderbird proviennent des généreux dons des utilisateurs·trices de Thunderbird."
 
 #: sites/www.thunderbird.net/includes/lang_switcher.html:10
 msgid "Page language"
@@ -1778,15 +1778,15 @@ msgstr "Obtenez des informations sur les nouvelles versions des produits, des é
 
 #: sites/www.thunderbird.net/includes/base/nav.html:39
 msgid "Desktop Help"
-msgstr "Aide pour ordinateur"
+msgstr "Assistance pour ordinateur"
 
 #: sites/www.thunderbird.net/includes/base/nav.html:39
 msgid "Find the help you need configuring and using Thunderbird Desktop."
-msgstr "Trouvez l’aide dont vous avez besoin pour configurer et utiliser Thunderbird Desktop."
+msgstr "Trouvez l’aide dont vous avez besoin pour configurer et utiliser Thunderbird pour ordinateur."
 
 #: sites/www.thunderbird.net/includes/base/nav.html:40
 msgid "Mobile Help"
-msgstr "Assistance mobile"
+msgstr "Assistance pour mobile"
 
 #: sites/www.thunderbird.net/includes/base/nav.html:40
 msgid "Find the help you need configuring and using Thunderbird Mobile."
@@ -1896,7 +1896,7 @@ msgstr "D’aide par rapport à un don non autorisé ou frauduleux"
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:72
 msgid "To update my donation email address"
-msgstr "Pour mettre à jour mon adresse électronique de don"
+msgstr "Pour mettre à jour l’adresse e-mail associée à mon don"
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:73
 msgid "To change or cancel my monthly recurring donation"
@@ -1945,8 +1945,6 @@ msgid ""
 "<b>Visit our </b> <a target=\"_blank\" href=\"%(url)s\"><b>Donor Portal</b></a> for <b>on-demand access to your receipts and to modify or cancel a recurring plan</b> including changing the amount, "
 "frequency, payment method and charge date."
 msgstr ""
-"<b>Consultez notre </b> <a target=\"_blank\" href=\"%(url)s\"><b>portail des dons</b></a> pour <b>accéder à vos reçus à la demande et de modifier ou d’annuler un forfait récurrent</b>, y compris en "
-"changeant le montant, la fréquence, le mode de paiement et la date de facturation."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:107
 msgid "Please note: we are unable to provide customized or summary receipts."
@@ -1955,7 +1953,7 @@ msgstr "Remarque : nous ne sommes pas en mesure de fournir des reçus personnal
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:116
 #, python-format
 msgid "Please be sure to check our <a target=\"_blank\" href=\"%(url)s\"><b>Donation FAQ</b></a> page first as your question may be answered there."
-msgstr "Veuillez vous assurer de consulter notre <a target=\"_blank\" href=\"%(url)s\"><b>FAQ sur les dons</b></a> d’abord car votre question pourrait y trouver une réponse."
+msgstr "Veuillez vous assurer de consulter notre <a target=\"_blank\" href=\"%(url)s\"><b>FAQ sur les dons</b></a> en premier lieu, car la réponse à votre question pourrait déjà s’y trouver."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:124 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:126
 msgid "Issue Summary"
@@ -2160,8 +2158,6 @@ msgstr "C’est gratuit !"
 #: sites/www.thunderbird.net/mobile/index.html:66
 msgid "Instead of making money with ads or data, Thunderbird is developed with donations of time and money from people just like you. Manage your email without giving up more of your privacy."
 msgstr ""
-"Au lieu de gagner de l’argent avec des publicités ou des données, Thunderbird est développé avec les dons en temps et en argent de personnes comme vous. Gérez votre messagerie sans sacrifier "
-"davantage votre vie privée."
 
 #: sites/www.thunderbird.net/mobile/index.html:72
 msgid "A cropped screenshot of the Thunderbird for Android's interface."
@@ -2178,8 +2174,7 @@ msgstr "Supprimez les applications superflues."
 #: sites/www.thunderbird.net/mobile/index.html:77
 msgid "Consolidate all your email apps into one powerful app that respects your privacy and freedom. View messages separately or in one unified inbox."
 msgstr ""
-"Regroupez toutes vos applications de courrier électronique en une seule application puissante qui respecte votre vie privée et votre liberté. Consultez les messages séparément ou dans une boîte de "
-"réception unifiée."
+"Regroupez toutes vos applications e-mail en une seule application puissante qui respecte votre vie privée et votre liberté. Consultez les messages séparément ou dans une boîte de réception unifiée."
 
 #: sites/www.thunderbird.net/mobile/index.html:93
 msgid "Multiple Account Support "
@@ -2191,11 +2186,11 @@ msgstr "Ne manquez aucun message."
 
 #: sites/www.thunderbird.net/mobile/index.html:95
 msgid "Sync with email accounts for home, school, and work. Almost anywhere you receive messages, we will have you covered."
-msgstr "Synchronisation avec les comptes de messagerie personnels, scolaires et professionnel. Presque partout où vous recevez des messages, nous vous aurons couvert."
+msgstr ""
 
 #: sites/www.thunderbird.net/mobile/index.html:125
 msgid "A video of an envelope with password masking asterisks in front of it."
-msgstr "Une vidéo d’une enveloppe masquant le mot de passe avec un astérisque."
+msgstr ""
 
 #: sites/www.thunderbird.net/mobile/index.html:133
 msgid "Advanced Email Encryption"
@@ -2219,7 +2214,7 @@ msgstr "Une vidéo de l’interface de Thunderbird pour Android passant du mode 
 
 #: sites/www.thunderbird.net/mobile/index.html:151
 msgid "Light and Dark Interface"
-msgstr "Interface clair et sombre"
+msgstr "Interface claire et sombre"
 
 #: sites/www.thunderbird.net/mobile/index.html:152
 msgid "Match your preference or environment."
@@ -2241,7 +2236,7 @@ msgstr "<span class=\"txt-gradient\">Configuration</span> instantanée"
 
 #: sites/www.thunderbird.net/mobile/index.html:177
 msgid "Thunderbird Desktop users can migrate their settings quickly. Just scan the desktop app QR code from the mobile app."
-msgstr "Les utilisateurs de Thunderbird Desktop peuvent migrer leurs paramètres rapidement. Scannez simplement le QR code de l’application pour ordinateur depuis l’application mobile."
+msgstr "Les utilisateurs de Thunderbird pour ordinateur peuvent migrer leurs paramètres rapidement. Scannez simplement le code QR de l’application pour ordinateur depuis l’application mobile."
 
 #: sites/www.thunderbird.net/mobile/index.html:183
 msgid "Two QR codes are shown, one on a mobile device and another in the distance on a desktop."
@@ -3727,8 +3722,6 @@ msgstr "La version Daily est une plateforme de test et de développement instabl
 #: sites/www.thunderbird.net/thunderbird/all/index.html:31
 msgid "Thunderbird Release is available for testing purposes only until releases are deemed stable enough for official support. Make sure you backup important data regularly!"
 msgstr ""
-"Les versions de Thunderbird sont disponibles à des fins de test uniquement jusqu’à ce que des versions soient considérées comme suffisamment stables pour être prises en charge officiellement. "
-"Assurez-vous de sauvegarder régulièrement les données importantes !"
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:36
 msgid "Locale"
