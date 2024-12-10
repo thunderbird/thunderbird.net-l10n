@@ -2,13 +2,13 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2018.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-11-19 08:50-0800\n"
-"PO-Revision-Date: 2023-12-20 23:42+0000\n"
+"PO-Revision-Date: 2024-12-10 15:50+0000\n"
 "Last-Translator: G12r <georgianization@outlook.com>\n"
 "Language-Team: none\n"
 "Language: ka\n"
@@ -406,6 +406,9 @@ msgid ""
 "            Meet Thunderbird, the <strong>email and productivity</strong> app that maximizes your freedoms.\n"
 "          "
 msgstr ""
+"\n"
+"            გაიცანით Thunderbird, <strong>ელფოსტისა და შედეგიანობის</strong> პროგრამა, რომელიც სრულ თავისუფლებას განიჭებთ.\n"
+"          "
 
 #: sites/www.thunderbird.net/index.html:51 sites/www.thunderbird.net/index.html:56 sites/www.thunderbird.net/index.html:61 sites/www.thunderbird.net/index.html:66
 #: sites/www.thunderbird.net/index.html:71
@@ -628,7 +631,7 @@ msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:15
 msgid "Meet <span class=\"txt-gradient\">Thunderbird</span>"
-msgstr ""
+msgstr "გაიცანით <span class=\"txt-gradient\">Thunderbird</span>"
 
 #: sites/www.thunderbird.net/about/index.html:17
 msgid ""
@@ -1066,15 +1069,15 @@ msgstr ""
 #: sites/www.thunderbird.net/desktop/index.html:10 sites/www.thunderbird.net/includes/base/footer.html:15 sites/www.thunderbird.net/includes/base/nav.html:24
 #: sites/www.thunderbird.net/thunderbird/releases/index.html:9
 msgid "Thunderbird Desktop"
-msgstr ""
+msgstr "Thunderbird კომპიუტერზე"
 
 #: sites/www.thunderbird.net/desktop/index.html:23 sites/www.thunderbird.net/thunderbird/all/index.html:20 sites/www.thunderbird.net/thunderbird/all/index.html:213
 msgid "Thunderbird Desktop."
-msgstr ""
+msgstr "Thunderbird კომპიუტერზე"
 
 #: sites/www.thunderbird.net/desktop/index.html:24 sites/www.thunderbird.net/thunderbird/all/index.html:21 sites/www.thunderbird.net/thunderbird/all/index.html:214
 msgid "Thunderbird <span class=\"txt-gradient\">Desktop</span>"
-msgstr ""
+msgstr "Thunderbird <span class=\"txt-gradient\">კომპიუტერზე</span>"
 
 #: sites/www.thunderbird.net/desktop/index.html:27
 msgid "Powerful Email, Calendar, and Contacts for Windows, Linux, and macOS. Free software designed to make you free."
@@ -1401,7 +1404,7 @@ msgstr "ჩამოტვირთეთ Thunderbird"
 #: sites/www.thunderbird.net/includes/download-button.html:68
 #, python-format
 msgid "Your system doesn't meet the <a href=\"%(url)s\">requirements</a> to run Thunderbird."
-msgstr "თქვენი სისტემა ვერ აკმაყოფილებს Thunderbird ბრაუზერის <a href=\"%(url)s\">მოთხოვნებს</a>."
+msgstr "თქვენი სისტემა ვერ აკმაყოფილებს <a href=\"%(url)s\">მოთხოვნებს</a>, რომ გაეშვას Thunderbird."
 
 #: sites/www.thunderbird.net/includes/download-button.html:71
 #, python-format
@@ -1720,7 +1723,7 @@ msgstr ""
 
 #: sites/www.thunderbird.net/includes/base/nav.html:39
 msgid "Find the help you need configuring and using Thunderbird Desktop."
-msgstr ""
+msgstr "მოიძიეთ მხარდაჭერა Thunderbird-ის კომპიუტერზე გასამართად და გამოსაყენებლად."
 
 #: sites/www.thunderbird.net/includes/base/nav.html:40
 msgid "Mobile Help"
@@ -3692,14 +3695,12 @@ msgstr "Thunderbird-ის გამოშვებების მონაც�
 #~ msgid "If you need help with a contribution to MZLA/Thunderbird, please fill out this form and a Thunderbird donor care representative will get back to you as soon as possible."
 #~ msgstr "თუ გესაჭიროებათ დახმარება MZLA/Thunderbird-ში შემოწირულობისთვის, გთხოვთ შეავსოთ კითხვარი და Thunderbird-ის შემოწირულობებზე პასუხისმგებელი პირი მოკლე დროში გამოგეხმაურებათ."
 
-#, python-format
 #~ msgid ""
 #~ "Unfortunately, donor care representatives are unable to offer support or help with Thunderbird technical issues. For technical support, please visit our <a href=\"%(support_url)s\">support page.</a>"
 #~ msgstr ""
 #~ "სამწუხაროდ, შემოწირულობებზე პასუხისმგებელი პირი ვერ გაგიწევთ მხარდაჭერას და ვერ დაგეხმარებათ Thunderbird-ის ტექნიკურ საკითხებში. სანაცვლოდ, გთხოვთ ეწვიოთ ჩვენი <a "
 #~ "href=\"%(support_url)s\">მხარდაჭერის გვერდს.</a>"
 
-#, python-format
 #~ msgid ""
 #~ "Access your donation account settings using the 'Manage My Donation' button on your recent donation confirmation email. There you can change the amount, frequency, payment method and charge date. "
 #~ "You can also cancel your recurring donation plan. If you run into any issues you can always <a href=\"%(help)s\">contact us</a>!"
@@ -3707,7 +3708,6 @@ msgstr "Thunderbird-ის გამოშვებების მონაც�
 #~ "გადადით თქვენი შემოწირულობის ანგარიშის პარამეტრებზე „ჩემი შემოწირულობების მართვის“ ღილაკით ბოლო გადახდის დამადასტურებელ ელფოსტაზე. აქ შეგიძლიათ შეცვალოთ თანხა, სიხშირე, გადახდის საშუალება და თანხის "
 #~ "ჩამოჭრის თარიღი. ასევე შეგიძლიათ გააუქმოთ განმეორებადი შემოწირულობის გეგმა. თუ რამე ხარვეზს წააწყდით, ნებისმიერ დროს შეგიძლიათ <a href=\"%(help)s\">შეგვეხმიანოთ</a>!"
 
-#, python-format
 #~ msgid ""
 #~ "Anyone can access tech support for Thunderbird by visiting the <a href=\"%(url)s\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial "
 #~ "gifts."
@@ -3723,7 +3723,6 @@ msgstr "Thunderbird-ის გამოშვებების მონაც�
 #~ "წყაროს მქონე პროგრამის შეუფერხებელი შემუშავებისა და თავისუფალი ხელმისაწვდომობისა, როგორც მომგებიანი საქმიანობისთვის, ასევე პირადი გამოყენებისთვის. თქვენი შემოწირულობა დაგვეხმარება, არ გადავუხვიოთ "
 #~ "მიზანს და განვაგრძოთ მომავალი განვითარება."
 
-#, python-format
 #~ msgid ""
 #~ "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box 'Donate as an Organization' and include your company name. The receipt you receive to the email address used to "
 #~ "make your contribution will include your business information."
@@ -3775,7 +3774,6 @@ msgstr "Thunderbird-ის გამოშვებების მონაც�
 #~ "ამჟამად Thunderbird-ის შემოსავლის უმეტეს ნაწილს შეადგენს Thunderbird-ის მომხმარებლებისა და მეგობრების გულუხვი საჩუქრები. დაწესებულებები და კერძო პირები მხარში უდგანან პროდუქტის მიმდინარე და "
 #~ "სამომავლო განვითარებას."
 
-#, python-format
 #~ msgid ""
 #~ "If you have a question about giving to Thunderbird, please contact us via <a href=\"%(help)s\">this form</a>. If you need technical support, please head over to <a href=\"%(support)s\">Thunderbird "
 #~ "Support</a> for assistance."
@@ -3792,7 +3790,6 @@ msgstr "Thunderbird-ის გამოშვებების მონაც�
 #~ msgid "115 calendar"
 #~ msgstr "კალენდარი 115"
 
-#, python-format
 #~ msgid ""
 #~ "You can <a href=\"%(donate)s\">donate online</a> securely by credit card or PayPal. Google Pay, Apple Pay, and bank transfers through SEPA, iDEAL and ACH are also available online.<br/> <strong>Give"
 #~ " in your local currency!</strong> On <a href=\"%(donate)s\">our online form</a>, use the drop down menu next to the amount. You will be charged in the currency you choose to give with.<br/> "
@@ -3808,7 +3805,6 @@ msgstr "Thunderbird-ის გამოშვებების მონაც�
 #~ msgid "Who can I email directly with questions about giving?"
 #~ msgstr "ვის შეიძლება მივმართო შემოწირულობის შესახებ შეკითხვებით?"
 
-#, python-format
 #~ msgid "You can also find calendars to subscribe to at <a href=\"%s\">iCalShare.com</a>."
 #~ msgstr "აგრეთვე, შეგიძლია მოიძიოთ გამოსაწერი კალენდრები მისამართზე <a href=\"%s\">iCalShare.com</a>."
 
@@ -3961,7 +3957,6 @@ msgstr "Thunderbird-ის გამოშვებების მონაც�
 #~ msgid "Our Community"
 #~ msgstr "ჩვენი ერთობა"
 
-#, python-format
 #~ msgid ""
 #~ "There is a passionate team of volunteers involved in developing Thunderbird and assisting its users who would welcome your involvement. Check out our <a href=\"%(volunteer)s\">Get Involved page</a> "
 #~ "to learn how you can participate on the Thunderbird team. We also have paid staff working full-time on Thunderbird, <a href=\"%(donate)s\" data-donate-btn data-donate-content=\"about\">funded by "
@@ -3975,7 +3970,6 @@ msgstr "Thunderbird-ის გამოშვებების მონაც�
 #~ msgid "Thunderbird Council"
 #~ msgstr "Thunderbird-წარმომადგენელი"
 
-#, python-format
 #~ msgid ""
 #~ "The Thunderbird project is governed by seven councilors, elected by the Thunderbird community’s active contributors. You can see the current elected Thunderbird Council members <a "
 #~ "href=\"%(council)s\">on the Thunderbird wiki</a>."
@@ -4547,7 +4541,6 @@ msgstr "Thunderbird-ის გამოშვებების მონაც�
 #~ msgid "Check (via postal service)"
 #~ msgstr "ჩეკი (ფოსტის მეშვეობით)"
 
-#, python-format
 #~ msgid ""
 #~ "MZLA/Thunderbird is happy to accept your donation <span class=\"%(class)s\">(made payable to “MZLA Technologies Corp”)</span> via check;\n"
 #~ "    however please note that we can only accept checks in US dollars drawn on a US bank."
@@ -4613,7 +4606,6 @@ msgstr "Thunderbird-ის გამოშვებების მონაც�
 #~ msgid "<b>≡ > Go > Mail Start Page (aka Beta Start Page)</b> is a handy reference which documents several of the above items and more."
 #~ msgstr "<b>≡ > გადასვლა > ფოსტის საწყისი გვერდი (ე.წ. Beta-ს საწყისი გვერდი)</b> მეტად მოსახერხებელი ადგილია ზემოაღნიშნულ და სხვა მასალებთან მარტივი წვდომისთვის."
 
-#, python-format
 #~ msgid ""
 #~ "Thunderbird is now part of\n"
 #~ "      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>,\n"
@@ -4646,7 +4638,6 @@ msgstr "Thunderbird-ის გამოშვებების მონაც�
 #~ "        </small>\n"
 #~ "        "
 
-#, python-format
 #~ msgid ""
 #~ "We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
 #~ " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a "
