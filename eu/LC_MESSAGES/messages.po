@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-11-19 08:50-0800\n"
-"PO-Revision-Date: 2024-12-19 10:21+0000\n"
+"PO-Revision-Date: 2024-12-19 10:31+0000\n"
 "Last-Translator: Ander Elortondo <ander.elor@gmail.com>\n"
 "Language-Team: none\n"
 "Language: eu\n"
@@ -1953,7 +1953,7 @@ msgstr ""
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:92
 msgid "Please visit our secure <b>Online Donation Form</b> to make your donation"
-msgstr ""
+msgstr "Mesedez, bisitatu gure <b>Interneteko Dohaintza Inprimaki</b> segurua zure dohaintza egiteko"
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:102
 #, python-format
@@ -1961,23 +1961,25 @@ msgid ""
 "<b>Visit our </b> <a target=\"_blank\" href=\"%(url)s\"><b>Donor Portal</b></a> for <b>on-demand access to your receipts and to modify or cancel a recurring plan</b> including changing the amount, "
 "frequency, payment method and charge date."
 msgstr ""
+"<b>Bisitatu gure </b> <a target=\"_blank\" href=\"%(url)s\"><b>Emaileen ataria</b></a> zure ordainagiriei eskatutako <b>atzitzeko eta errepikatzen den plan bat aldatzeko edo bertan behera uzteko</b>"
+" zenbatekoa, maiztasuna, ordainketa-metodoa eta kobratzeko data aldatzea barne."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:107
 msgid "Please note: we are unable to provide customized or summary receipts."
-msgstr ""
+msgstr "Kontuan izan: ezin dugu ordainagiri pertsonalizatua edo laburtua eman."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:116
 #, python-format
 msgid "Please be sure to check our <a target=\"_blank\" href=\"%(url)s\"><b>Donation FAQ</b></a> page first as your question may be answered there."
-msgstr ""
+msgstr "Mesedez, ziurtatu lehenik gure <a target=\"_blank\" href=\"%(url)s\"><b>Dohaintzen ohiko galderak</b></a> orria egiaztatzea, zure galdera bertan erantzun daitekeelako."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:124 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:126
 msgid "Issue Summary"
-msgstr ""
+msgstr "Arazoaren Laburpena"
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:131 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:134
 msgid "Please provide more details as needed"
-msgstr ""
+msgstr "Mesedez, eman xehetasun gehiago behar izanez gero"
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:139 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:145
 msgid "Add a screenshot to help us with your request (optional)"
@@ -2001,6 +2003,8 @@ msgid ""
 "Thunderbird will only use your submitted information for purposes of communicating with you about your request. See our <a href=\"%(url)s\" target=\"_blank\">privacy policy</a> for further "
 "information."
 msgstr ""
+"Thunderbirdek bidalitako informazioa zure eskaerari buruz zurekin komunikatzeko soilik erabiliko du. Ikus gure <a href=\"%(url)s\" target=\"_blank\">pribatutasun-politika</a> informazio gehiago "
+"lortzeko."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:185
 #, python-format
@@ -2008,6 +2012,8 @@ msgid ""
 "Our Donor Support Team is unable to respond to any technical support questions. We do not provide technical support in exchange for financial gifts. To ensure that you get the help that you need, "
 "please <a target=\"_blank\" href=\"%(url)s\">visit our technical support page</a>."
 msgstr ""
+"Gure Emaileen Laguntza Taldeak ezin du erantzun laguntza-tekniko galderarik. Ez dugu laguntza teknikorik ematen diru-oparien truke. Behar duzun laguntza jasotzen duzula ziurtatzeko, <a "
+"target=\"_blank\" href=\"%(url)s\">bisitatu gure laguntza teknikoaren orria</a>."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:190
 #, python-format
@@ -2015,6 +2021,8 @@ msgid ""
 "Thunderbird <b>technical support is community-based </b>and available to everyone. Our technical support page <b>includes knowledge base articles and a community of volunteers ready to "
 "help</b>!<br><br><a target=\"_blank\" href=\"%(url)s\"><b>Visit our technical support site to get more help</b></a>."
 msgstr ""
+"Thunderbirden <b>laguntza teknikoa komunitatean oinarrituta dago </b> eta guztion eskura dago. Gure laguntza teknikoko orriak <b>ezagutza-baseko artikuluak eta laguntzeko prest dauden boluntarioen "
+"komunitatea biltzen ditu</b>!<br><br><a target=\"_blank\" href=\"%(url)s\"><b> Bisitatu gure laguntza teknikoaren webgunea laguntza gehiago lortzeko</b></a>."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:210
 #, python-format
@@ -2022,6 +2030,8 @@ msgid ""
 "Our Donor Support Team is unable to respond to your Thunderbird product feedback and feature requests. But, we want to hear from you! Please visit<b> <a target=\"_blank\" href=\"%(url)s\">Mozilla "
 "Connect</a></b>."
 msgstr ""
+"Gure emaileen laguntza-taldeak ezin die erantzun Thunderbird produktuari eta eginbideen eskaerei. Baina, zure berri izan nahi dugu! Mesedez, bisitatu<b> <a target=\"_blank\" href=\"%(url)s\">Mozilla"
+" Connect</a></b>."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:215
 #, python-format
@@ -2030,10 +2040,13 @@ msgid ""
 "target=\"_blank\" href=\"%(url2)s\"><b>Submit your ideas</b></a> and be sure to tag Thunderbird so others can find and vote on your suggestions.<br><br> For Thunderbird technical support, please "
 "visit our <a target=\"_blank\" href=\"%(url3)s\"><b>support page</b></a>"
 msgstr ""
+"<a target=\"_blank\" href=\"%(url)s\"><b>Mozilla Connect</b></a> ideiak, iritziak eta eztabaidak egiteko lankidetza-espazioa da, etorkizuneko Thunderbird produktuen kaleratzeak moldatzen lagunduko "
+"duena. <a target=\"_blank\" href=\"%(url2)s\"><b>Bidali zure ideiak</b></a> eta ziurtatu Thunderbird etiketatzea, besteek zure iradokizunak aurkitu eta bozkatu ditzaten.<br> <br> Thunderbirden "
+"laguntza teknikorako, bisitatu gure <a target=\"_blank\" href=\"%(url3)s\"><b>laguntza orria</b></a>"
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:228
 msgid "Visit Mozilla Connect to submit your ideas for Thunderbird."
-msgstr ""
+msgstr "Bisitatu Mozilla Connect Thunderbirderako zure ideiak bidaltzeko."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:244
 msgid "Chinese Simplified"
@@ -2094,11 +2107,11 @@ msgstr "Gaztelania"
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:271
 #, python-format
 msgid "To update the email that you are using to make and manage your donations, please <b>visit our <a target=\"_blank\" href=\"%(url)s\">Donor Portal</a></b>."
-msgstr ""
+msgstr "Dohaintzak egiteko eta kudeatzeko erabiltzen ari zaren posta elektronikoa eguneratzeko, <b>bisitatu gure <a target=\"_blank\" href=\"%(url)s\">Emaileen ataria</a></b>."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:275
 msgid "To sign in to your donor portal, please use the email that you used to make your donation."
-msgstr ""
+msgstr "Zure emaileen atarian saioa hasteko, erabili dohaintza egiteko erabili zenuen posta elektronikoa."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:286
 #, python-format
