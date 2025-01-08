@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-11-19 08:50-0800\n"
-"PO-Revision-Date: 2025-01-08 10:41+0000\n"
+"PO-Revision-Date: 2025-01-08 10:48+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language-Team: none\n"
 "Language: zh_TW\n"
@@ -1305,7 +1305,7 @@ msgstr "若您需要捐款給 Thunderbird 的相關協助，但我們的<a href=
 #: sites/www.thunderbird.net/donate/help/index.html:46
 #, python-format
 msgid "<strong>Use the <a href=\"%(modify)s\">Donor Portal</a> to access your receipts and update or cancel your recurring plan.</strong>"
-msgstr "可<strong>使用 <a href=\"%(modify)s\">捐款人網站</a>來取得捐款收據，並可更新或取消定期捐款方案。</strong>"
+msgstr "可<strong>使用 <a href=\"%(modify)s\">捐款網站</a>來取得捐款收據，並可更新或取消定期捐款方案。</strong>"
 
 #: sites/www.thunderbird.net/donate/help/index.html:51
 #, python-format
@@ -1423,7 +1423,7 @@ msgstr "我要如何取消或更改定期捐款？我可以更換付款方式或
 msgid ""
 "Access your plan details from the <strong><a href=\"%(modify)s\">Donor Portal</a></strong> or from the 'Manage My Donation' button on your recent donation confirmation email. You can change the "
 "amount, frequency, payment method and charge date. You can also cancel your recurring plan and download your receipts."
-msgstr "您可以到<strong><a href=\"%(modify)s\">捐款人網站</a></strong>或透過最近收到的捐款確認信當中的「管理我的捐款」按鈕了解捐款方案詳細資訊。您可以在網站中更改捐款金額、頻續、付款方式、捐款日，也可以取消定期捐款方案或下載捐款收據。"
+msgstr "您可以到<strong><a href=\"%(modify)s\">捐款網站</a></strong>或透過最近收到的捐款確認信當中的「管理我的捐款」按鈕了解捐款方案詳細資訊。您可以在網站中更改捐款金額、頻續、付款方式、捐款日，也可以取消定期捐款方案或下載捐款收據。"
 
 #: sites/www.thunderbird.net/includes/faq.html:61
 msgid "Does my gift give me access to tech support?"
@@ -1445,7 +1445,7 @@ msgstr "要如何收到捐款收據？"
 msgid ""
 "You will receive an email confirmation whenever you donate and this will include a receipt for your records. You can also access your receipt history at any time from our <strong><a "
 "href=\"%(url)s\">Donor Portal</a></strong>."
-msgstr "當您每次捐款完成後，就會收到一封確認信與收據。您也可以隨時到<strong><a href=\"%(url)s\">捐款人網站</a></strong>檢視所有捐款紀錄與收據。"
+msgstr "當您每次捐款完成後，就會收到一封確認信與收據。您也可以隨時到<strong><a href=\"%(url)s\">捐款網站</a></strong>檢視所有捐款紀錄與收據。"
 
 #: sites/www.thunderbird.net/includes/faq.html:85
 msgid "Is my gift tax deductible?"
@@ -1490,7 +1490,7 @@ msgstr "我要如何收到商業收據？"
 msgid ""
 "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box <strong>'Donate as an Organization'</strong> and include your company name. Your transaction receipt will include"
 " your company name. If you need a copy of your receipt, download from our <strong><a href=\"%(modify)s\">Donor Portal</a></strong>."
-msgstr "當您透過我們的<a href=\"%(donate)s\">線上表單</a>捐款時，請勾選<strong>「以組織身分捐款」</strong>並註明您的公司名稱，收據中就會列明您的公司名稱。若您需要收據副本，可到我們的<strong><a href=\"%(modify)s\">捐款人網站</a></strong>下載。"
+msgstr "當您透過我們的<a href=\"%(donate)s\">線上表單</a>捐款時，請勾選<strong>「以組織身分捐款」</strong>並註明您的公司名稱，收據中就會列明您的公司名稱。若您需要收據副本，可到我們的<strong><a href=\"%(modify)s\">捐款網站</a></strong>下載。"
 
 #: sites/www.thunderbird.net/includes/faq.html:139
 msgid "Is my donation secure?"
@@ -1844,7 +1844,7 @@ msgstr "請到我們安全的<b>線上捐款表單</b>進行捐款"
 msgid ""
 "<b>Visit our </b> <a target=\"_blank\" href=\"%(url)s\"><b>Donor Portal</b></a> for <b>on-demand access to your receipts and to modify or cancel a recurring plan</b> including changing the amount, "
 "frequency, payment method and charge date."
-msgstr "<b>請到我們的</b><a target=\"_blank\" href=\"%(url)s\"><b>捐款人網站</b></a>取得<b>捐款收據，或修改、取消定期捐款</b>，包含修改捐款金額、捐款頻率、付款方式與捐款日期等功能。"
+msgstr "<b>請到我們的</b><a target=\"_blank\" href=\"%(url)s\"><b>捐款網站</b></a>取得<b>捐款收據，或修改、取消定期捐款</b>，包含修改捐款金額、捐款頻率、付款方式與捐款日期等功能。"
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:107
 msgid "Please note: we are unable to provide customized or summary receipts."
@@ -1978,20 +1978,20 @@ msgstr "西班牙語"
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:271
 #, python-format
 msgid "To update the email that you are using to make and manage your donations, please <b>visit our <a target=\"_blank\" href=\"%(url)s\">Donor Portal</a></b>."
-msgstr ""
+msgstr "若要更新用來捐款的電子郵件地址，或管理捐款方式，<b>請到我們的<a target=\"_blank\" href=\"%(url)s\">捐款網站</a></b>。"
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:275
 msgid "To sign in to your donor portal, please use the email that you used to make your donation."
-msgstr ""
+msgstr "請使用您用來捐款的信箱來登入捐款網站。"
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:286
 #, python-format
 msgid "We currently <b>accept over 100 currencies through our <a target=\"_blank\" href=\"%(url)s\">donation form</a>!</b>"
-msgstr ""
+msgstr "我們目前<b>透過<a target=\"_blank\" href=\"%(url)s\">捐款表單</a>接受超過 100 種貨幣捐款！</b>"
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:291
 msgid "If you do not see your preferred currency listed, we unfortunately cannot accept that currency at this time."
-msgstr ""
+msgstr "若您沒有看到偏好使用的幣別，很抱歉，我們暫時無法接受該貨幣的捐款。"
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:295
 msgid ""
