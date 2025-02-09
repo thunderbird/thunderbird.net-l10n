@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-11-19 08:50-0800\n"
-"PO-Revision-Date: 2024-10-13 07:21+0000\n"
+"PO-Revision-Date: 2025-02-09 04:10+0000\n"
 "Last-Translator: Hyeonseok Shin <hyeonseok@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ko\n"
@@ -139,9 +139,8 @@ msgid "Report"
 msgstr "보고하기"
 
 #: sites/start.thunderbird.net/beta/index.html:120 sites/start.thunderbird.net/release/index.html:83
-#, fuzzy
 msgid "Think you’ve found a new problem or rough edge? Create a bug report so we can make sure it gets solved, resulting in a better Thunderbird experience for all."
-msgstr "Thunderbird의 문제를 찾은 것 같다는 생각이 드시나요? <a href=\"%(bug)s\">버그 리포트를 작성</a>하여 저희가 해결할 수 있도록 도와주세요. 버그를 확인하고 고쳐서 모두를 위해 더 나은 Thunderbird를 만들 수 있습니다."
+msgstr "새로운 문제나 사용하기 어려운 점을 찾으신 것 같나요? 버그 리포트를 작성하여 문제를 해결하고 더 나은 Thunberbird를 만들 수 있도록 도와주세요."
 
 #: sites/start.thunderbird.net/beta/index.html:122 sites/start.thunderbird.net/release/index.html:85
 msgid "Report a Bug"
@@ -173,20 +172,19 @@ msgid "We recommend downloading the <a href=\"%(download_url)s\">latest stable v
 msgstr "<a href=\"%(download_url)s\">Thunderbird의 최신 안정 버전</a>의 다운로드를 권장합니다."
 
 #: sites/start.thunderbird.net/release/index.html:8
-#, fuzzy
 msgid "Welcome to <div class=\"tb-text\">Thunderbird</div>"
-msgstr "<div class=\"tb-text\">Thunderbird <small class=\"beta-text\">Beta</small></div>에 오신 것을 환영합니다."
+msgstr "<div class=\"tb-text\">Thunderbird</div>에 오신 것을 환영합니다"
 
 #: sites/start.thunderbird.net/release/index.html:33
 msgid "Support Us"
 msgstr "지원하기"
 
 #: sites/start.thunderbird.net/release/index.html:35
-#, fuzzy
 msgid ""
 "Thank you for supporting Thunderbird, which is funded by users like you! Producing Thunderbird requires software engineers, designers, system administrators and server infrastructure. So if you like"
 " Thunderbird, the best way to ensure Thunderbird remains available is to make a donation."
-msgstr "<strong>Thunderbird는 여러분과 같은 사용자에 의해서 자금을 지원받습니다. Thunderbird를 좋아하신다면, 기부를 고려해주십시오.</strong>Thunderbird를 계속 사용할 수 있도록 하는 가장 좋은 방법은 <a class=\"more\" href=\"%(donate)s\">기부하는 것입니다.</a>"
+msgstr ""
+"Thunderbird는 여러분과 같은 사용자에 의해서 자금을 지원받습니다. Thunderbird가 계속 제공되려면 소프트웨어 엔지니어, 디자이너, 시스템 관리직, 그리고 서버 인프라가 필요합니다. Thunderbird를 좋아하신다면, 기부를 고려해주세요. Thunderbird를 계속 사용할 수 있도록 하는 가장 좋은 방법은 기부하는 것입니다."
 
 #: sites/start.thunderbird.net/release/index.html:47
 msgid ""
@@ -217,16 +215,16 @@ msgstr "질문이 있나요? 문제가 있나요?"
 
 #: sites/start.thunderbird.net/release/index.html:95
 msgid "If Crash Reporter appears when Thunderbird crashes, please provide as many details as possible to help developers."
-msgstr "Thunderbird가 충돌하여 충돌 보고서가 나나오면 개발자를 도울 수 있도록 가능한 상세한 정보를 제공해 주세요."
+msgstr "Thunderbird가 충돌하여 충돌 보고서가 나오면 개발자를 도울 수 있도록 가능한 상세한 정보를 제공해 주세요."
 
 #: sites/updates.thunderbird.net/index.html:8 sites/updates.thunderbird.net/index.html:24
 msgid "Hello!"
-msgstr ""
+msgstr "안녕하세요!"
 
 #: sites/updates.thunderbird.net/index.html:26
 #, python-format
 msgid "You're probably looking for <a href=\"%(url)s\">Thunderbird.net</a>."
-msgstr ""
+msgstr "<a href=\"%(url)s\">Thunderbird.net</a>을 찾고 계신 것 같네요."
 
 #: sites/updates.thunderbird.net/includes/base/base.html:1 sites/www.thunderbird.net/includes/base/base.html:15
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
@@ -285,7 +283,7 @@ msgstr "여기를 클릭하여 <b>기부하세요!</b>"
 #: sites/updates.thunderbird.net/includes/macros/donate-button.html:19 sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:53
 #: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:53
 msgid "Help keep <b>Thunderbird Alive!</b>"
-msgstr ""
+msgstr "<b>Thunderbird가 유지될 수 있도록</b> 도와주세요!"
 
 #: sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:23 sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:31 sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:15
 #: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:21 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:15 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:21
@@ -300,11 +298,11 @@ msgstr ""
 #: sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:44
 #, python-format
 msgid "All of the work we do is funded by less than 3% of our users."
-msgstr ""
+msgstr "3%도 안되는 사용자들이 우리가 하는 모든 일의 자금을 지원합니다."
 
 #: sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:46
 msgid "We never show advertisements or sell your data. We don’t have corporate funding. We are fully funded by financial contributions from our users."
-msgstr ""
+msgstr "우리는 절대 광고를 보여주거나 데이터를 팔지 않습니다. 기업 자금 지원도 받지 않고 있습니다. 전적으로 사용자들의 재정적 기부만으로 운영됩니다."
 
 #: sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:49
 msgid ""
@@ -325,40 +323,40 @@ msgstr "Thunderbird 팀"
 
 #: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:22
 msgid "20 Years of Thunderbird!"
-msgstr ""
+msgstr "Thunderbird 20주년!"
 
 #: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:32
 msgid "Thunderbird <span role=\"complementary\">Turns 20, Thanks to You!</span>"
-msgstr ""
+msgstr "Thunderbird가 <span role=\"complementary\">20살이 되었습니다, 감사합니다!</span>"
 
 #: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:33 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:164
 msgid "The text 20 Years with a the Thunderbird logo in place of the zero."
-msgstr ""
+msgstr "0자리에 Thunderbird 로고가 있는 20주년 글자."
 
 #: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:34
 msgid "20"
-msgstr ""
+msgstr "20"
 
 #: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:35
 msgid "Years"
-msgstr ""
+msgstr "주년"
 
 #: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:44
 msgid "On December 7, 2004, Thunderbird 1.0 was released."
-msgstr ""
+msgstr "2004년 12월 7일, Thunderbird 1.0이 배포되었습니다."
 
 #: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:45
 msgid "Thunderbird is free. Free to use. Free of ads. Free of data tracking."
-msgstr ""
+msgstr "Thunderbird는 자유롭습니다. 요금으로부터 자유롭습니다. 광고로부터 자유롭습니다. 데이터 추적으로부터 자유롭습니다."
 
 #: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:46
 #, python-format
 msgid "We rely solely on the generosity of our supporters and less than <b>3% of Thunderbird users keep us going.</b>"
-msgstr ""
+msgstr "우리는 오로지 후원자의 관대한 지원금으로만 운영되며 <b>Thunderbird 사용자의 3% 미만으로부터 지원받습니다.</b>"
 
 #: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:47
 msgid "Please help us continue for another 20 years."
-msgstr ""
+msgstr "다가올 20년 동안도 계속 서비스할 수 있게 도와주세요."
 
 #: sites/www.thunderbird.net/404.html:8
 #, python-format
@@ -371,7 +369,7 @@ msgstr "여기에는 아무것도 없습니다."
 
 #: sites/www.thunderbird.net/404.html:18
 msgid "A pile of unopened spam mail covering a sign post that reads No Reply."
-msgstr ""
+msgstr "발신 전용이라고 쓰여 있는 푯말을 뒤덮은 열지 않은 스팸 메일 더미."
 
 #: sites/www.thunderbird.net/404.html:19
 msgid "The page you are looking for doesn’t exist."
@@ -396,6 +394,9 @@ msgid ""
 "            Meet Thunderbird, the <strong>email and productivity</strong> app that maximizes your freedoms.\n"
 "          "
 msgstr ""
+"\n"
+"            Thunderbird를 만나 보세요. 사용자의 자유도를 극대화한 <strong>이메일 및 생산성</strong> 앱입니다.\n"
+"            "
 
 #: sites/www.thunderbird.net/index.html:51 sites/www.thunderbird.net/index.html:56 sites/www.thunderbird.net/index.html:61 sites/www.thunderbird.net/index.html:66
 #: sites/www.thunderbird.net/index.html:71
@@ -426,7 +427,7 @@ msgstr ""
 
 #: sites/www.thunderbird.net/index.html:114
 msgid "A phone displaying Thunderbird for Android's interface."
-msgstr ""
+msgstr "Android용 Thunderbird의 인터페이스가 띄워진 전화기."
 
 #: sites/www.thunderbird.net/index.html:118
 msgid "See Compatibility"
