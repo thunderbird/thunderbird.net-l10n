@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-11-19 08:50-0800\n"
+"POT-Creation-Date: 2025-02-20 08:26-0800\n"
 "PO-Revision-Date: 2025-01-13 15:35+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: none\n"
@@ -23,22 +23,22 @@ msgstr ""
 msgid "Welcome to <div class=\"tb-text\">Thunderbird <small class=\"accent-text\">Beta</small></div>"
 msgstr "Boas-vindas ao <div class=\"tb-text\">Thunderbird <small class=\"accent-text\">Beta</small></div>"
 
-#: sites/start.thunderbird.net/beta/index.html:19 sites/start.thunderbird.net/release/index.html:19
+#: sites/start.thunderbird.net/beta/index.html:19 sites/start.thunderbird.net/monthly/index.html:19 sites/start.thunderbird.net/release/index.html:19
 msgid "Support us!"
 msgstr "Nos apoie!"
 
-#: sites/start.thunderbird.net/beta/index.html:22 sites/start.thunderbird.net/release/index.html:22 sites/start.thunderbird.net/release/index.html:37
-#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:174 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:178 sites/www.thunderbird.net/donate/index.html:8
-#: sites/www.thunderbird.net/includes/base/footer.html:42 sites/www.thunderbird.net/includes/base/nav.html:68 sites/www.thunderbird.net/includes/base/nav.html:90
-#: sites/www.thunderbird.net/includes/download-button.html:102 sites/www.thunderbird.net/includes/macros/download-desktop.html:31 sites/www.thunderbird.net/includes/macros/download-mobile.html:29
-#: sites/www.thunderbird.net/includes/macros/download-smart.html:48 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:80
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:288 sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:74 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:209
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:228 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:79
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:345
+#: sites/start.thunderbird.net/beta/index.html:22 sites/start.thunderbird.net/monthly/index.html:22 sites/start.thunderbird.net/monthly/index.html:66 sites/start.thunderbird.net/release/index.html:22
+#: sites/start.thunderbird.net/release/index.html:37 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:174 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:178
+#: sites/www.thunderbird.net/donate/index.html:8 sites/www.thunderbird.net/includes/base/footer.html:41 sites/www.thunderbird.net/includes/base/nav.html:68
+#: sites/www.thunderbird.net/includes/base/nav.html:90 sites/www.thunderbird.net/includes/download-button.html:102 sites/www.thunderbird.net/includes/macros/download-desktop.html:31
+#: sites/www.thunderbird.net/includes/macros/download-mobile.html:29 sites/www.thunderbird.net/includes/macros/download-smart.html:48 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:79
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:287 sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:73 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:208
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:227 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:78
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:344
 msgid "Donate"
 msgstr "Faça uma doação"
 
-#: sites/start.thunderbird.net/beta/index.html:31
+#: sites/start.thunderbird.net/beta/index.html:31 sites/start.thunderbird.net/monthly/index.html:31
 msgid "Warning!"
 msgstr "Atenção!"
 
@@ -82,7 +82,7 @@ msgstr "Conheça outros usuários beta e saiba mais sobre o beta."
 msgid "Beta Discussion Group"
 msgstr "Grupo de discussão do Beta"
 
-#: sites/start.thunderbird.net/beta/index.html:72 sites/start.thunderbird.net/release/index.html:45
+#: sites/start.thunderbird.net/beta/index.html:72 sites/start.thunderbird.net/monthly/index.html:74 sites/start.thunderbird.net/release/index.html:45
 msgid "Help"
 msgstr "Ajuda"
 
@@ -94,11 +94,11 @@ msgstr ""
 "Tem curiosidade sobre como ajudar? Você não precisa ser especialista para ajudar outros usuários ou oferecer sugestões para melhorar a experiência de uso! Junte-se a nós neste projeto de código "
 "aberto, onde qualquer pessoa pode participar da comunidade Thunderbird (você não precisa ser especialista e nem saber programar)."
 
-#: sites/start.thunderbird.net/beta/index.html:76 sites/start.thunderbird.net/release/index.html:49
+#: sites/start.thunderbird.net/beta/index.html:76 sites/start.thunderbird.net/monthly/index.html:78 sites/start.thunderbird.net/release/index.html:49
 msgid "Get Involved"
 msgstr "Participe"
 
-#: sites/start.thunderbird.net/beta/index.html:84 sites/start.thunderbird.net/release/index.html:93
+#: sites/start.thunderbird.net/beta/index.html:84 sites/start.thunderbird.net/monthly/index.html:117 sites/start.thunderbird.net/release/index.html:93
 msgid "Crashed?"
 msgstr "Falhou?"
 
@@ -106,15 +106,15 @@ msgstr "Falhou?"
 msgid "If Crash Reporter appeared (when Thunderbird crashes), please provide more details to help developers"
 msgstr "Se aparecer o relator de travamentos (quando o Thunderbird falhar), forneça mais detalhes para ajudar os desenvolvedores"
 
-#: sites/start.thunderbird.net/beta/index.html:88 sites/start.thunderbird.net/release/index.html:97
+#: sites/start.thunderbird.net/beta/index.html:88 sites/start.thunderbird.net/monthly/index.html:121 sites/start.thunderbird.net/release/index.html:97
 msgid "In Thunderbird do Help > More Troubleshooting Information, scroll to \"Crash Reports\", click a recent report link to open the crash report page."
 msgstr "No Thunderbird, clique em 'Ajuda' > 'Informações técnicas', deslize até \"Relatórios de travamento\", clique em um link de relatório recente para abrir a página do relatório de travamento."
 
-#: sites/start.thunderbird.net/beta/index.html:89 sites/start.thunderbird.net/release/index.html:98
+#: sites/start.thunderbird.net/beta/index.html:89 sites/start.thunderbird.net/monthly/index.html:122 sites/start.thunderbird.net/release/index.html:98
 msgid "Click the Bugzilla tab, then click on an existing bug report under \"Related Bugs\" and add a comment to the bug, or click \"Thunderbird\" to submit a new bug report."
 msgstr "Clique na aba Bugzilla, depois em um relatório de bug existente em \"Related Bugs\" e adicione um comentário ao bug, ou clique em \"Thunderbird\" para enviar um novo relatório de bug."
 
-#: sites/start.thunderbird.net/beta/index.html:92 sites/start.thunderbird.net/release/index.html:101
+#: sites/start.thunderbird.net/beta/index.html:92 sites/start.thunderbird.net/monthly/index.html:125 sites/start.thunderbird.net/release/index.html:101
 msgid "Crash Reporter"
 msgstr "Relator de travamentos"
 
@@ -122,11 +122,11 @@ msgstr "Relator de travamentos"
 msgid "Question? Problem?"
 msgstr "Dúvida? Problema?"
 
-#: sites/start.thunderbird.net/beta/index.html:103 sites/start.thunderbird.net/release/index.html:71
+#: sites/start.thunderbird.net/beta/index.html:103 sites/start.thunderbird.net/monthly/index.html:95 sites/start.thunderbird.net/release/index.html:71
 msgid "Post your general Thunderbird usage questions or problems on the support page, where many knowledgeable users can help you."
 msgstr "Publique suas dúvidas ou problemas gerais de uso do Thunderbird na página de suporte, onde muitos usuários experientes podem ajudar."
 
-#: sites/start.thunderbird.net/beta/index.html:105 sites/start.thunderbird.net/release/index.html:73
+#: sites/start.thunderbird.net/beta/index.html:105 sites/start.thunderbird.net/monthly/index.html:97 sites/start.thunderbird.net/release/index.html:73
 msgid "Support Page"
 msgstr "Página de suporte"
 
@@ -138,17 +138,17 @@ msgstr "No Fórum do Beta, você pode publicar comentários, dúvidas e aprender
 msgid "Beta Forum"
 msgstr "Fórum do Beta"
 
-#: sites/start.thunderbird.net/beta/index.html:118 sites/start.thunderbird.net/release/index.html:81
+#: sites/start.thunderbird.net/beta/index.html:118 sites/start.thunderbird.net/monthly/index.html:105 sites/start.thunderbird.net/release/index.html:81
 msgid "Report"
 msgstr "Relatar"
 
-#: sites/start.thunderbird.net/beta/index.html:120 sites/start.thunderbird.net/release/index.html:83
+#: sites/start.thunderbird.net/beta/index.html:120 sites/start.thunderbird.net/monthly/index.html:107 sites/start.thunderbird.net/release/index.html:83
 msgid "Think you’ve found a new problem or rough edge? Create a bug report so we can make sure it gets solved, resulting in a better Thunderbird experience for all."
 msgstr ""
 "Acha que encontrou um novo problema ou irregularidade? Crie um relatório de erro para que possamos ter certeza que será resolvido, resultando em uma melhor experiência de uso do Thunderbird para "
 "todos."
 
-#: sites/start.thunderbird.net/beta/index.html:122 sites/start.thunderbird.net/release/index.html:85
+#: sites/start.thunderbird.net/beta/index.html:122 sites/start.thunderbird.net/monthly/index.html:109 sites/start.thunderbird.net/release/index.html:85
 msgid "Report a Bug"
 msgstr "Relate uma falha"
 
@@ -156,36 +156,19 @@ msgstr "Relate uma falha"
 msgid "Unsure? Ask for help in the beta forum."
 msgstr "Não tem certeza? Peça ajuda no fórum do beta."
 
-#: sites/start.thunderbird.net/monthly/index.html:10
-msgid "Unsupported Thunderbird Version!"
-msgstr "Versão não suportada do Thunderbird!"
-
-#: sites/start.thunderbird.net/monthly/index.html:21
-msgid "This is an unsupported version of Thunderbird!!"
-msgstr "Esta é uma versão sem suporte do Thunderbird!!"
-
-#: sites/start.thunderbird.net/monthly/index.html:22
-msgid "Thunderbird monthly releases are not considered stable for general use."
-msgstr "Os lançamentos mensais do Thunderbird não são considerados estáveis para uso geral."
-
-#: sites/start.thunderbird.net/monthly/index.html:23
-msgid "Use at your own risk, this build is the same quality as Thunderbird Beta."
-msgstr "Use por sua conta e risco, esta versão tem a mesma qualidade do Thunderbird Beta."
-
-#: sites/start.thunderbird.net/monthly/index.html:24
-#, python-format
-msgid "We recommend downloading the <a href=\"%(download_url)s\">latest stable version of Thunderbird</a>."
-msgstr "Recomendamos baixar a <a href=\"%(download_url)s\">versão estável mais recente do Thunderbird</a>."
-
-#: sites/start.thunderbird.net/release/index.html:8
+#: sites/start.thunderbird.net/monthly/index.html:8 sites/start.thunderbird.net/release/index.html:8
 msgid "Welcome to <div class=\"tb-text\">Thunderbird</div>"
 msgstr "Boas-vindas ao <div class=\"tb-text\">Thunderbird</div>"
 
-#: sites/start.thunderbird.net/release/index.html:33
+#: sites/start.thunderbird.net/monthly/index.html:32
+msgid "Monthly release builds can be unstable, and there is potential to lose data."
+msgstr ""
+
+#: sites/start.thunderbird.net/monthly/index.html:62 sites/start.thunderbird.net/release/index.html:33
 msgid "Support Us"
 msgstr "Apoie-nos"
 
-#: sites/start.thunderbird.net/release/index.html:35
+#: sites/start.thunderbird.net/monthly/index.html:64 sites/start.thunderbird.net/release/index.html:35
 msgid ""
 "Thank you for supporting Thunderbird, which is funded by users like you! Producing Thunderbird requires software engineers, designers, system administrators and server infrastructure. So if you like"
 " Thunderbird, the best way to ensure Thunderbird remains available is to make a donation."
@@ -193,7 +176,7 @@ msgstr ""
 "Obrigado por apoiar o Thunderbird, financiado por usuários como você! A produção do Thunderbird requer engenheiros de software, designers, administradores de sistema e infraestrutura de servidores. "
 "Portanto, se você gosta do Thunderbird, a melhor maneira de garantir que ele permaneça disponível é fazer uma doação."
 
-#: sites/start.thunderbird.net/release/index.html:47
+#: sites/start.thunderbird.net/monthly/index.html:76 sites/start.thunderbird.net/release/index.html:47
 msgid ""
 "Curious about helping? You don’t need to be an expert or know how to code to help other users or offer suggestions about improving the experience! Join us in this open source project where anyone "
 "can participate in the Thunderbird community."
@@ -201,14 +184,22 @@ msgstr ""
 "Curioso em saber como ajudar? Você não precisa ser especialista nem saber codificar para ajudar outros usuários ou oferecer sugestões para melhorar a experiência de uso! Junte-se a nós neste projeto"
 " de código aberto, onde qualquer pessoa pode participar da comunidade Thunderbird."
 
-#: sites/start.thunderbird.net/release/index.html:52
+#: sites/start.thunderbird.net/monthly/index.html:81 sites/start.thunderbird.net/release/index.html:52
 msgid "Share ideas and feedback."
 msgstr "Compartilhe ideias e comentários."
 
-#: sites/start.thunderbird.net/release/index.html:54 sites/www.thunderbird.net/desktop/index.html:207 sites/www.thunderbird.net/mobile/index.html:205
-#: sites/www.thunderbird.net/participate/index.html:153
+#: sites/start.thunderbird.net/monthly/index.html:83 sites/start.thunderbird.net/release/index.html:54 sites/www.thunderbird.net/desktop/index.html:207 sites/www.thunderbird.net/mobile/index.html:205
+#: sites/www.thunderbird.net/participate/index.html:151
 msgid "Mozilla Connect"
 msgstr "Mozilla Connect"
+
+#: sites/start.thunderbird.net/monthly/index.html:93 sites/start.thunderbird.net/release/index.html:69
+msgid "Questions? Problems?"
+msgstr "Dúvidas? Problemas?"
+
+#: sites/start.thunderbird.net/monthly/index.html:119 sites/start.thunderbird.net/release/index.html:95
+msgid "If Crash Reporter appears when Thunderbird crashes, please provide as many details as possible to help developers."
+msgstr "Se aparecer o relator de travamentos quando o Thunderbird travar, forneça o máximo de detalhes possível para ajudar os desenvolvedores."
 
 #: sites/start.thunderbird.net/release/index.html:57
 msgid "Help make Thunderbird better."
@@ -217,14 +208,6 @@ msgstr "Ajude a melhorar o Thunderbird."
 #: sites/start.thunderbird.net/release/index.html:59
 msgid "Get the Beta"
 msgstr "Obter o Beta"
-
-#: sites/start.thunderbird.net/release/index.html:69
-msgid "Questions? Problems?"
-msgstr "Dúvidas? Problemas?"
-
-#: sites/start.thunderbird.net/release/index.html:95
-msgid "If Crash Reporter appears when Thunderbird crashes, please provide as many details as possible to help developers."
-msgstr "Se aparecer o relator de travamentos quando o Thunderbird travar, forneça o máximo de detalhes possível para ajudar os desenvolvedores."
 
 #: sites/updates.thunderbird.net/index.html:8 sites/updates.thunderbird.net/index.html:24
 msgid "Hello!"
@@ -240,7 +223,7 @@ msgid "Thunderbird is a free email application that’s easy to set up and custo
 msgstr "O Thunderbird é um aplicativo de email gratuito, fácil de configurar e personalizar, além de estar repleto de recursos fantásticos!"
 
 #: sites/updates.thunderbird.net/includes/base/base.html:19 sites/www.thunderbird.net/includes/base/base.html:17 sites/www.thunderbird.net/includes/base/page.html:16
-#: sites/www.thunderbird.net/includes/product-metadata.html:2 sites/www.thunderbird.net/includes/product-metadata.html:21 sites/www.thunderbird.net/index.html:10
+#: sites/www.thunderbird.net/includes/product-metadata.html:2 sites/www.thunderbird.net/includes/product-metadata.html:21 sites/www.thunderbird.net/index.html:11
 #: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:17 sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:18
 #: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:19 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:18 sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:18
 #: sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:18 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:19
@@ -249,38 +232,38 @@ msgid "Thunderbird"
 msgstr "Thunderbird"
 
 #: sites/updates.thunderbird.net/includes/base/footer.html:8 sites/www.thunderbird.net/about/index.html:56 sites/www.thunderbird.net/includes/appeal-footer.html:7
-#: sites/www.thunderbird.net/includes/base/footer.html:53 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:350 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:426
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:273 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:292
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:408
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:349 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:425
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:272 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:291
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:407
 msgid "Privacy"
 msgstr "Privacidade"
 
-#: sites/updates.thunderbird.net/includes/base/footer.html:10 sites/www.thunderbird.net/includes/appeal-footer.html:9 sites/www.thunderbird.net/includes/base/footer.html:55
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:353 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:429
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:276 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:295
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:411
+#: sites/updates.thunderbird.net/includes/base/footer.html:10 sites/www.thunderbird.net/includes/appeal-footer.html:9 sites/www.thunderbird.net/includes/base/footer.html:54
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:352 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:428
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:275 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:294
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:410
 msgid "Cookies"
 msgstr "Cookies"
 
 #: sites/updates.thunderbird.net/includes/base/footer.html:12 sites/www.thunderbird.net/contact/index.html:41 sites/www.thunderbird.net/includes/appeal-footer.html:11
-#: sites/www.thunderbird.net/includes/base/footer.html:57 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:357 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:433
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:280 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:299
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:415
+#: sites/www.thunderbird.net/includes/base/footer.html:56 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:356 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:432
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:279 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:298
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:414
 msgid "Legal"
 msgstr "Jurídico"
 
-#: sites/updates.thunderbird.net/includes/base/footer.html:14 sites/www.thunderbird.net/includes/appeal-footer.html:13 sites/www.thunderbird.net/includes/base/footer.html:59
+#: sites/updates.thunderbird.net/includes/base/footer.html:14 sites/www.thunderbird.net/includes/appeal-footer.html:13 sites/www.thunderbird.net/includes/base/footer.html:58
 msgid "Send DMCA Notice"
 msgstr "Enviar notificação de DMCA"
 
-#: sites/updates.thunderbird.net/includes/base/footer.html:16 sites/www.thunderbird.net/includes/appeal-footer.html:15 sites/www.thunderbird.net/includes/base/footer.html:61
+#: sites/updates.thunderbird.net/includes/base/footer.html:16 sites/www.thunderbird.net/includes/appeal-footer.html:15 sites/www.thunderbird.net/includes/base/footer.html:60
 msgid "Report Fraud"
 msgstr "Denunciar fraude"
 
-#: sites/updates.thunderbird.net/includes/base/footer.html:18 sites/www.thunderbird.net/includes/appeal-footer.html:17 sites/www.thunderbird.net/includes/base/footer.html:63
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:361 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:437
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:284 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:303
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:419
+#: sites/updates.thunderbird.net/includes/base/footer.html:18 sites/www.thunderbird.net/includes/appeal-footer.html:17 sites/www.thunderbird.net/includes/base/footer.html:62
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:360 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:436
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:283 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:302
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:418
 msgid "Participation Guidelines"
 msgstr "Diretrizes de participação"
 
@@ -294,7 +277,7 @@ msgstr "Clique aqui para <b>fazer uma doação!</b>"
 msgid "Help keep <b>Thunderbird Alive!</b>"
 msgstr "Ajude a manter o <b>Thunderbird vivo!</b>"
 
-#: sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:23 sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:31 sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:15
+#: sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:25 sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:31 sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:15
 #: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:21 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:15 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:21
 #: sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:15 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:21
 msgid "Help Keep Thunderbird Alive!"
@@ -304,16 +287,16 @@ msgstr "Ajude a manter o Thunderbird vivo!"
 msgid "Help Keep <span>Thunderbird Alive</span>"
 msgstr "Ajude a manter o <span>Thunderbird vivo</span>"
 
-#: sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:44
+#: sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:48
 #, python-format
 msgid "All of the work we do is funded by less than 3% of our users."
 msgstr "Todo o trabalho que fazemos é financiado por menos de 3% dos nossos usuários."
 
-#: sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:46
+#: sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:50
 msgid "We never show advertisements or sell your data. We don’t have corporate funding. We are fully funded by financial contributions from our users."
 msgstr "Nunca exibimos anúncios nem vendemos seus dados. Não recebemos apoio corporativo. Somos totalmente sustentados pelas contribuições financeiras de nossos usuários."
 
-#: sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:49
+#: sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:53
 msgid ""
 "Thunderbird’s mission is to give you the best privacy-respecting, customizable email experience possible. Free for everyone to install and enjoy! Maintaining expensive servers, fixing bugs, "
 "developing new features, and hiring talented engineers are crucial for this mission."
@@ -321,13 +304,13 @@ msgstr ""
 "A missão do Thunderbird é oferecer a melhor experiência possível de email, personalizável e que respeita sua privacidade. Gratuito para qualquer um instalar e aproveitar! Manter servidores caros, "
 "corrigir erros, desenvolver novos recursos e contratar desenvolvedores talentosos é crucial para esta missão."
 
-#: sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:52
+#: sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:56
 msgid "If you get value from using Thunderbird, please help support it. We can’t do this without you."
 msgstr "Se você se beneficia do uso do Thunderbird, ajude a sustentá-lo. Não podemos fazer isso sem sua ajuda."
 
-#: sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:67 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:187
-#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:342 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:152 sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:84
-#: sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:342 sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:121
+#: sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:71 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:187
+#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:341 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:151 sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:84
+#: sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:341 sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:120
 #: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:84
 msgid "The Thunderbird Team"
 msgstr "A equipe do Thunderbird"
@@ -391,15 +374,15 @@ msgstr "A página que você está procurando não existe."
 msgid "If you think this is a bug, you can <a href=\"%(bug_report_url)s\">report an issue here</a>"
 msgstr "Se você acha que isso é um erro, pode <a href=\"%(bug_report_url)s\">relatar um problema aqui</a>"
 
-#: sites/www.thunderbird.net/index.html:11
+#: sites/www.thunderbird.net/index.html:12
 msgid "Free Your Inbox."
 msgstr "Liberte sua caixa de entrada."
 
-#: sites/www.thunderbird.net/includes/macros/download-block.html:12 sites/www.thunderbird.net/index.html:24
+#: sites/www.thunderbird.net/includes/macros/download-block.html:12 sites/www.thunderbird.net/index.html:25
 msgid "<span class=\"txt-gradient\">Free</span> Your Inbox"
 msgstr "<span class=\"txt-gradient\">Liberte</span> sua caixa de entrada de email"
 
-#: sites/www.thunderbird.net/index.html:26
+#: sites/www.thunderbird.net/index.html:27
 msgid ""
 "\n"
 "            Meet Thunderbird, the <strong>email and productivity</strong> app that maximizes your freedoms.\n"
@@ -409,20 +392,20 @@ msgstr ""
 "            Conheça o Thunderbird, o aplicativo de <strong>email e produtividade</strong> que maximiza sua liberdade.\n"
 "          "
 
-#: sites/www.thunderbird.net/index.html:51 sites/www.thunderbird.net/index.html:56 sites/www.thunderbird.net/index.html:61 sites/www.thunderbird.net/index.html:66
-#: sites/www.thunderbird.net/index.html:71
+#: sites/www.thunderbird.net/index.html:52 sites/www.thunderbird.net/index.html:57 sites/www.thunderbird.net/index.html:62 sites/www.thunderbird.net/index.html:67
+#: sites/www.thunderbird.net/index.html:72
 msgid "competitor icon"
 msgstr "ícone de concorrente"
 
-#: sites/www.thunderbird.net/index.html:83
+#: sites/www.thunderbird.net/index.html:84
 msgid "<span class=\"txt-gradient\">Freedom</span> from Chaos"
 msgstr "<span class=\"txt-gradient\">Liberte-se</span> do caos"
 
-#: sites/www.thunderbird.net/index.html:84
+#: sites/www.thunderbird.net/index.html:85
 msgid "Waste less time finding browser tabs."
 msgstr "Perca menos tempo procurando abas no navegador."
 
-#: sites/www.thunderbird.net/index.html:86
+#: sites/www.thunderbird.net/index.html:87
 msgid ""
 "\n"
 "          Access all your messages, calendars, and contacts in one fast app. Filter and organize\n"
@@ -434,23 +417,23 @@ msgstr ""
 "          Acesse todas as suas mensagens, agendas e contatos em um único aplicativo rápido. Filtre e organize do jeito que quiser. Gerencie todas as contas separadamente ou em uma caixa de entrada unificada. O Thunderbird simplesmente torna sua vida mais simples.\n"
 "          "
 
-#: sites/www.thunderbird.net/index.html:114
+#: sites/www.thunderbird.net/index.html:115
 msgid "A phone displaying Thunderbird for Android's interface."
 msgstr "Um celular exibindo a interface do Thunderbird para Android."
 
-#: sites/www.thunderbird.net/index.html:118
+#: sites/www.thunderbird.net/index.html:119
 msgid "See Compatibility"
 msgstr "Ver compatibilidade"
 
-#: sites/www.thunderbird.net/index.html:129
+#: sites/www.thunderbird.net/index.html:130
 msgid "<span class=\"txt-gradient\">Freedom</span> from Manipulation"
 msgstr "<span class=\"txt-gradient\">Livre</span> de manipulação"
 
-#: sites/www.thunderbird.net/index.html:130
+#: sites/www.thunderbird.net/index.html:131
 msgid "Our agenda isn’t hidden. It’s to make the world better."
 msgstr "Nossas motivações não são ocultas. Queremos tornar o mundo um lugar melhor."
 
-#: sites/www.thunderbird.net/index.html:132
+#: sites/www.thunderbird.net/index.html:133
 #, python-format
 msgid ""
 "\n"
@@ -466,27 +449,27 @@ msgstr ""
 "            href=\"%(mozilla)s\">Mozilla</a> você pode ter certeza que sempre colocamos sua privacidade e segurança em primeiro lugar.\n"
 "          "
 
-#: sites/www.thunderbird.net/index.html:140
+#: sites/www.thunderbird.net/index.html:141
 msgid "Learn Who We Are"
 msgstr "Saiba quem somos"
 
-#: sites/www.thunderbird.net/index.html:149
+#: sites/www.thunderbird.net/index.html:150
 msgid "Firefox planet"
 msgstr "Planeta Firefox"
 
-#: sites/www.thunderbird.net/index.html:156
+#: sites/www.thunderbird.net/index.html:157
 msgid "Thunderbird planet"
 msgstr "Planeta Thunderbird"
 
-#: sites/www.thunderbird.net/index.html:168
+#: sites/www.thunderbird.net/index.html:169
 msgid "<span class=\"txt-gradient\">Freedom</span> to Geek Out"
 msgstr "<span class=\"txt-gradient\">Liberdade</span> de modificação"
 
-#: sites/www.thunderbird.net/index.html:169
+#: sites/www.thunderbird.net/index.html:170
 msgid "Thunderbird is yours."
 msgstr "O Thunderbird é seu."
 
-#: sites/www.thunderbird.net/index.html:171
+#: sites/www.thunderbird.net/index.html:172
 msgid ""
 "\n"
 "              Thunderbird is clean and elegant by default, but easily customizable to match your workflow and visual\n"
@@ -496,7 +479,7 @@ msgstr ""
 "O Thunderbird é limpo e elegante por padrão, mas facilmente personalizável para combinar com seu jeito de usar e suas preferências de aparência. Ele é repleto de recursos exclusivos e poderosos. "
 "Aqui estão apenas alguns que as pessoas adoram:"
 
-#: sites/www.thunderbird.net/index.html:182
+#: sites/www.thunderbird.net/index.html:183
 msgid ""
 "\n"
 "              Its <strong>unified inbox</strong> enables me to stay sane even in the busiest of times. I am never\n"
@@ -504,31 +487,31 @@ msgid ""
 "              "
 msgstr "Sua <strong>caixa de entrada unificada</strong> me permite manter a sanidade mental, mesmo nos momentos mais movimentados. Não fico mais mudando de um cliente de email para outro!"
 
-#: sites/www.thunderbird.net/index.html:194 sites/www.thunderbird.net/index.html:223 sites/www.thunderbird.net/index.html:246 sites/www.thunderbird.net/index.html:268
-#: sites/www.thunderbird.net/index.html:290 sites/www.thunderbird.net/index.html:312
+#: sites/www.thunderbird.net/index.html:195 sites/www.thunderbird.net/index.html:224 sites/www.thunderbird.net/index.html:247 sites/www.thunderbird.net/index.html:269
+#: sites/www.thunderbird.net/index.html:291 sites/www.thunderbird.net/index.html:313
 msgid "profile image"
 msgstr "imagem de perfil"
 
-#: sites/www.thunderbird.net/index.html:198
+#: sites/www.thunderbird.net/index.html:199
 msgid "Software Developer, Austria"
 msgstr "Desenvolvedor de software, Áustria"
 
-#: sites/www.thunderbird.net/index.html:205
+#: sites/www.thunderbird.net/index.html:206
 msgid "unified inbox"
 msgstr "caixa de entrada unificada"
 
-#: sites/www.thunderbird.net/index.html:212
+#: sites/www.thunderbird.net/index.html:213
 msgid ""
 "\n"
 "              I love the <strong>tag feature</strong>. I tag something important and find it quickly.\n"
 "              "
 msgstr "Adoro o <strong>recurso de etiquetas</strong>. Eu marco algo importante e encontro rapidamente."
 
-#: sites/www.thunderbird.net/index.html:227
+#: sites/www.thunderbird.net/index.html:228
 msgid "Computer Scientist, USA"
 msgstr "Cientista da computação, EUA"
 
-#: sites/www.thunderbird.net/index.html:234
+#: sites/www.thunderbird.net/index.html:235
 msgid ""
 "\n"
 "              It is the first program I install on any PC I use / own... I use it on\n"
@@ -540,56 +523,56 @@ msgstr ""
 "              <strong>Windows</strong>, <strong>Mac</strong> e <strong>Linux</strong>.\n"
 "              "
 
-#: sites/www.thunderbird.net/index.html:250
+#: sites/www.thunderbird.net/index.html:251
 msgid "I.T. Manager, UK"
 msgstr "Gerente de TI, Reino Unido"
 
-#: sites/www.thunderbird.net/index.html:257
+#: sites/www.thunderbird.net/index.html:258
 msgid ""
 "\n"
 "              Having an open source alternative [for] receiving and managing email... is great for <strong>privacy</strong>.\n"
 "              "
 msgstr "Ter uma alternativa de código aberto para receber e gerenciar email... é ótimo para <strong>privacidade</strong>."
 
-#: sites/www.thunderbird.net/index.html:272
+#: sites/www.thunderbird.net/index.html:273
 msgid "Web Developer, Costa Rica"
 msgstr "Desenvolvedor web, Costa Rica"
 
-#: sites/www.thunderbird.net/index.html:279
+#: sites/www.thunderbird.net/index.html:280
 msgid ""
 "\n"
 "              [Thunderbird] empowers me to maintain <strong>ownership</strong> of my emails.\n"
 "              "
 msgstr "O Thunderbird me permite manter o <strong>controle</strong> sobre meus emails."
 
-#: sites/www.thunderbird.net/index.html:294
+#: sites/www.thunderbird.net/index.html:295
 msgid "Engineer, USA"
 msgstr "Engenheiro, EUA"
 
-#: sites/www.thunderbird.net/index.html:301
+#: sites/www.thunderbird.net/index.html:302
 msgid ""
 "\n"
 "              You'd be hard pressed to find a client more <strong>extensible</strong> than Thunderbird!\n"
 "              "
 msgstr "É difícil encontrar um cliente de email mais <strong>extensível</strong> do que o Thunderbird!"
 
-#: sites/www.thunderbird.net/index.html:316
+#: sites/www.thunderbird.net/index.html:317
 msgid "Student, UK"
 msgstr "Estudante, Reino Unido"
 
-#: sites/www.thunderbird.net/index.html:323
+#: sites/www.thunderbird.net/index.html:324
 msgid "extensions"
 msgstr "extensões"
 
-#: sites/www.thunderbird.net/index.html:337
+#: sites/www.thunderbird.net/index.html:338
 msgid "<span class=\"txt-gradient\">Freedom</span> to Go Anywhere"
 msgstr "<span class=\"txt-gradient\">Liberdade</span> para ir aonde você quiser"
 
-#: sites/www.thunderbird.net/index.html:338
+#: sites/www.thunderbird.net/index.html:339
 msgid "Introducing Thunderbird Mobile"
 msgstr "Apresentamos o Thunderbird para dispositivos móveis"
 
-#: sites/www.thunderbird.net/index.html:340
+#: sites/www.thunderbird.net/index.html:341
 msgid ""
 "The freedom and joy of Thunderbird are now available to you anywhere you go. With Thunderbird Mobile your most important messages are sent and received by an open-source, secure app that respects "
 "your privacy"
@@ -597,11 +580,11 @@ msgstr ""
 "A liberdade e o prazer de usar o Thunderbird agora estão disponíveis onde quer que você vá. Com o Thunderbird para dispositivos móveis, suas mensagens mais importantes são enviadas e recebidas por "
 "um aplicativo seguro, de código aberto, que respeita sua privacidade"
 
-#: sites/www.thunderbird.net/index.html:347
+#: sites/www.thunderbird.net/index.html:348
 msgid "Read the announcement"
 msgstr "Leia o comunicado"
 
-#: sites/www.thunderbird.net/index.html:352
+#: sites/www.thunderbird.net/index.html:353
 msgid "A rendering of a mobile phone."
 msgstr "Representação gráfica de um telefone celular."
 
@@ -778,7 +761,7 @@ msgstr "Diretor, Aplicativos de computador e dispositivos móveis"
 msgid "Director, Infrastructure & Services"
 msgstr "Diretor, Infraestrutura e serviços"
 
-#: sites/www.thunderbird.net/about/index.html:139 sites/www.thunderbird.net/about/index.html:160
+#: sites/www.thunderbird.net/about/index.html:139 sites/www.thunderbird.net/about/index.html:158
 msgid "Sr. Software Engineer, Services"
 msgstr "Engenheiro de software sênior, Serviços"
 
@@ -790,11 +773,11 @@ msgstr "Engenheiro de UX, Computador"
 msgid "Finance & Accounting Specialist"
 msgstr "Especialista em finanças e contabilidade"
 
-#: sites/www.thunderbird.net/about/index.html:142 sites/www.thunderbird.net/about/index.html:150 sites/www.thunderbird.net/about/index.html:156
+#: sites/www.thunderbird.net/about/index.html:142 sites/www.thunderbird.net/about/index.html:154
 msgid "Staff Engineer, Desktop"
 msgstr "Engenheiro de equipe, Computador"
 
-#: sites/www.thunderbird.net/about/index.html:143 sites/www.thunderbird.net/about/index.html:170 sites/www.thunderbird.net/about/index.html:174
+#: sites/www.thunderbird.net/about/index.html:143 sites/www.thunderbird.net/about/index.html:171
 msgid "Software Engineer, Desktop"
 msgstr "Engenheiro de software, Computador"
 
@@ -802,7 +785,7 @@ msgstr "Engenheiro de software, Computador"
 msgid "Software Engineer, Services"
 msgstr "Engenheiro de software, Serviços"
 
-#: sites/www.thunderbird.net/about/index.html:145 sites/www.thunderbird.net/about/index.html:176
+#: sites/www.thunderbird.net/about/index.html:145 sites/www.thunderbird.net/about/index.html:173
 msgid "Sr. Software Engineer, Mobile"
 msgstr "Engenheiro de software sênior, Dispositivos móveis"
 
@@ -822,87 +805,83 @@ msgstr "Engenheiro de equipe sênior, Computador"
 msgid "Sr. Developer Relations Engineer"
 msgstr "Engenheiro sênior de relações com desenvolvedores"
 
-#: sites/www.thunderbird.net/about/index.html:151
+#: sites/www.thunderbird.net/about/index.html:150
 msgid "Sr. Software Engineer, Desktop Add-ons"
 msgstr "Engenheiro de software sênior, Extensões para computador"
 
-#: sites/www.thunderbird.net/about/index.html:152
-msgid "Sr. Site Reliability Engineer"
-msgstr "Engenheiro sênior de confiabilidade de site"
-
-#: sites/www.thunderbird.net/about/index.html:153
+#: sites/www.thunderbird.net/about/index.html:151
 msgid "Sr. Security Engineer, Desktop"
 msgstr "Engenheiro de segurança sênior, Computador"
 
-#: sites/www.thunderbird.net/about/index.html:154
+#: sites/www.thunderbird.net/about/index.html:152
 msgid "Sr. Technical PM"
 msgstr "Gerente técnico de projetos sênior"
 
-#: sites/www.thunderbird.net/about/index.html:155
+#: sites/www.thunderbird.net/about/index.html:153
 msgid "Manager, UI/UX Design Studio"
 msgstr "Gerente, Estúdio de design UI/UX"
 
-#: sites/www.thunderbird.net/about/index.html:157
+#: sites/www.thunderbird.net/about/index.html:155
 msgid "Manager, Web Services"
 msgstr "Gerente, Serviços web"
 
-#: sites/www.thunderbird.net/about/index.html:158
+#: sites/www.thunderbird.net/about/index.html:156
 msgid "Sr. Employee Experience Partner"
 msgstr "Parceiro sênior de experiência de funcionários"
 
-#: sites/www.thunderbird.net/about/index.html:159
+#: sites/www.thunderbird.net/about/index.html:157
 msgid "Staff Software Engineer, Desktop"
 msgstr "Engenheiro de software de equipe, Computador"
 
-#: sites/www.thunderbird.net/about/index.html:161 sites/www.thunderbird.net/about/index.html:171
+#: sites/www.thunderbird.net/about/index.html:159 sites/www.thunderbird.net/about/index.html:168
 msgid "UI/UX Designer"
 msgstr "Designer UI/UX"
 
-#: sites/www.thunderbird.net/about/index.html:162
+#: sites/www.thunderbird.net/about/index.html:160
 msgid "Community & Marketing Coordinator"
 msgstr "Coordenador de comunidade e marketing"
 
-#: sites/www.thunderbird.net/about/index.html:163
+#: sites/www.thunderbird.net/about/index.html:161
 msgid "Manager, Comms & Community"
 msgstr "Gerente, Comunicação e comunidade"
 
-#: sites/www.thunderbird.net/about/index.html:164
+#: sites/www.thunderbird.net/about/index.html:162
 msgid "Sr. Manager, Mobile Engineering"
 msgstr "Gerente sênior, Engenharia de dispositivos móveis"
 
-#: sites/www.thunderbird.net/about/index.html:165
+#: sites/www.thunderbird.net/about/index.html:163
 msgid "Sr. Release Engineer"
 msgstr "Engenheiro de lançamento sênior"
 
-#: sites/www.thunderbird.net/about/index.html:166
+#: sites/www.thunderbird.net/about/index.html:164
 msgid "Sr Software Engineer, Test"
 msgstr "Engenheiro de software sênior, Testes"
 
-#: sites/www.thunderbird.net/about/index.html:167
+#: sites/www.thunderbird.net/about/index.html:165
 msgid "User Support Specialist"
 msgstr "Especialista em suporte ao usuário"
 
-#: sites/www.thunderbird.net/about/index.html:168
+#: sites/www.thunderbird.net/about/index.html:166
 msgid "Sr Site Reliability Engineer"
 msgstr "Engenheiro sênior de confiabilidade de site"
 
-#: sites/www.thunderbird.net/about/index.html:169
+#: sites/www.thunderbird.net/about/index.html:167
 msgid "Customer Experience Specialist"
 msgstr "Especialista em experiência do cliente"
 
-#: sites/www.thunderbird.net/about/index.html:172
+#: sites/www.thunderbird.net/about/index.html:169
 msgid "Employee Experience Specialist"
 msgstr "Especialista em experiência do funcionário"
 
-#: sites/www.thunderbird.net/about/index.html:173
+#: sites/www.thunderbird.net/about/index.html:170
 msgid "Sr. Manager, Desktop Engineering"
 msgstr "Gerente sênior, Engenharia de computador"
 
-#: sites/www.thunderbird.net/about/index.html:175
+#: sites/www.thunderbird.net/about/index.html:172
 msgid "Community Manager"
 msgstr "Gerente de comunidade"
 
-#: sites/www.thunderbird.net/about/index.html:180
+#: sites/www.thunderbird.net/about/index.html:177
 msgid "Explore Career Opportunities"
 msgstr "Conheça oportunidades de carreira"
 
@@ -1045,7 +1024,7 @@ msgstr ""
 "Organizações que queiram patrocinar o desenvolvimento de software ou obter assistência em implementações em larga escala devem enviar email para nossa equipe comercial. Esta equipe também lida com "
 "outras consultas sobre parcerias."
 
-#: sites/www.thunderbird.net/contact/index.html:38 sites/www.thunderbird.net/includes/base/footer.html:43 sites/www.thunderbird.net/includes/base/nav.html:69
+#: sites/www.thunderbird.net/contact/index.html:38 sites/www.thunderbird.net/includes/base/footer.html:42 sites/www.thunderbird.net/includes/base/nav.html:69
 #: sites/www.thunderbird.net/participate/index.html:8
 msgid "Participate"
 msgstr "Participe"
@@ -1288,7 +1267,7 @@ msgid "Support Site"
 msgstr "Site de suporte"
 
 #: sites/www.thunderbird.net/donate/help/index.html:9 sites/www.thunderbird.net/donate/help/thank-you/index.html:9 sites/www.thunderbird.net/donate/index.html:9
-#: sites/www.thunderbird.net/includes/base/footer.html:40 sites/www.thunderbird.net/includes/base/nav.html:64 sites/www.thunderbird.net/participate/index.html:9
+#: sites/www.thunderbird.net/includes/base/footer.html:39 sites/www.thunderbird.net/includes/base/nav.html:64 sites/www.thunderbird.net/participate/index.html:9
 msgid "Contribute"
 msgstr "Participe"
 
@@ -1726,11 +1705,11 @@ msgstr "Agendas de feriados"
 msgid "Careers"
 msgstr "Empregos"
 
-#: sites/www.thunderbird.net/includes/base/footer.html:36
-msgid "Thunderbird Privacy"
-msgstr "Privacidade do Thunderbird"
+#: sites/www.thunderbird.net/includes/base/footer.html:52
+msgid "Privacy Policy"
+msgstr "Política de privacidade"
 
-#: sites/www.thunderbird.net/includes/base/footer.html:66
+#: sites/www.thunderbird.net/includes/base/footer.html:65
 #, python-format
 msgid ""
 "<small> Thunderbird is part of <a href=\"https://blog.thunderbird.net/2020/01/thunderbirds-new-home/\">MZLA Technologies Corporation</a>, a wholly owned subsidiary of Mozilla Foundation. Portions of"
@@ -1741,15 +1720,15 @@ msgstr ""
 "deste conteúdo têm direitos autorais ©1998–%(current_year)s de colaboradores individuais. Conteúdo disponível sob uma <a href=\"https://www.mozilla.org/foundation/licensing/website-"
 "content/\">licença Creative Commons</a>. </small>"
 
-#: sites/www.thunderbird.net/includes/base/footer.html:76 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:385 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:461
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:308 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:327
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:443
+#: sites/www.thunderbird.net/includes/base/footer.html:75 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:384 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:460
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:307 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:326
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:442
 msgid "Contribute to this site"
 msgstr "Contribua com este site"
 
-#: sites/www.thunderbird.net/includes/base/footer.html:80 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:388 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:464
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:311 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:330
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:446
+#: sites/www.thunderbird.net/includes/base/footer.html:79 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:387 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:463
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:310 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:329
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:445
 msgid "Translate this site"
 msgstr "Traduzir este site"
 
@@ -1821,8 +1800,8 @@ msgstr "Saiba o que vem a <span class=\"txt-gradient\">a seguir</span>"
 msgid "Thunderbird keeps getting better. Subscribe to our newsletter and follow us on social media to stay informed."
 msgstr "O Thunderbird continua a ficar cada vez melhor. Inscreva-se em nosso boletim informativo e siga-nos nas redes sociais para se manter informado."
 
-#: sites/www.thunderbird.net/includes/base/page.html:94 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:313 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:234
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:253 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:370
+#: sites/www.thunderbird.net/includes/base/page.html:94 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:312 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:233
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:252 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:369
 msgid "Your Email"
 msgstr "Seu email"
 
@@ -1837,18 +1816,18 @@ msgstr "Seguir %(mastodon)s no Mastodon"
 
 #: sites/www.thunderbird.net/includes/base/page.html:108
 #, python-format
-msgid "Follow %(facebook)s on Facebook"
-msgstr "Siga %(facebook)s no Facebook"
+msgid "Follow %(bluesky)s on Bluesky"
+msgstr ""
 
 #: sites/www.thunderbird.net/includes/base/page.html:112
 #, python-format
-msgid "Follow %(youtube)s on YouTube"
-msgstr "Siga %(youtube)s no YouTube"
+msgid "Follow %(facebook)s on Facebook"
+msgstr "Siga %(facebook)s no Facebook"
 
 #: sites/www.thunderbird.net/includes/base/page.html:116
 #, python-format
-msgid "Follow %(twitter)s on Twitter"
-msgstr "Seguir %(twitter)s no Twitter"
+msgid "Follow %(youtube)s on YouTube"
+msgstr "Siga %(youtube)s no YouTube"
 
 #: sites/www.thunderbird.net/includes/base/page.html:120
 #, python-format
@@ -1867,7 +1846,7 @@ msgstr "smartphone"
 msgid "I need"
 msgstr "Eu preciso de"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:68 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:243
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:68 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:253
 msgid "Please select..."
 msgstr "Selecione..."
 
@@ -1916,19 +1895,42 @@ msgid "Help with something else"
 msgstr "Ajuda com outra coisa"
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:86
-msgid ""
-"We truly appreciate your generous support and are happy to offer an easy way for you to give through <b>online bank transfer</b>. We accept donations via direct debit in Euros <b>through Single "
-"European Payment Area (SEPA) transfer</b>. To keep our administrative costs to a minimum, we are unfortunately <b>not able to accept offline SEPA bank transfers using IBAN</b>."
+msgid "Please note that due to the limited contact information we receive, we are unable to issue donation receipts or acknowledgements."
 msgstr ""
-"Agradecemos sinceramente seu generoso apoio e estamos felizes em oferecer uma maneira fácil de doar através de <b>transferência bancária online</b>. Nós aceitamos doações via débito direto em euros "
-"<b>através de transferência na Área Única de Pagamentos em Euros (SEPA)</b>. Para manter nossos custos administrativos ao mínimo, infelizmente <b>não podemos aceitar transferências bancárias SEPA "
-"offline usando IBAN</b>."
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:92
-msgid "Please visit our secure <b>Online Donation Form</b> to make your donation"
-msgstr "Visite nosso <b>formulário seguro de doação online</b> para fazer sua doação"
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:88
+msgid "Account currency:"
+msgstr ""
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:102
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:89
+msgid "Name of payee:"
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:90
+msgid "IBAN:"
+msgstr "IBAN:"
+
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:91
+msgid "Purpose:"
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:94
+msgid "Beneficiary's bank:"
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:95
+msgid "Location:"
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:96
+msgid "BIC:"
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:98
+msgid "If your bank requires our office address:"
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:112
 #, python-format
 msgid ""
 "<b>Visit our </b> <a target=\"_blank\" href=\"%(url)s\"><b>Donor Portal</b></a> for <b>on-demand access to your receipts and to modify or cancel a recurring plan</b> including changing the amount, "
@@ -1937,40 +1939,40 @@ msgstr ""
 "<b>Visite nosso </b> <a target=\"_blank\" href=\"%(url)s\"><b>Portal do doador</b></a> para <b>acessar seus recibos sob demanda e modificar ou cancelar um plano recorrente</b>, incluindo alterar o "
 "valor, frequência, forma de pagamento e data de cobrança."
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:107
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:117
 msgid "Please note: we are unable to provide customized or summary receipts."
 msgstr "Atenção: não podemos fornecer recibos personalizados ou resumidos."
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:116
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:126
 #, python-format
 msgid "Please be sure to check our <a target=\"_blank\" href=\"%(url)s\"><b>Donation FAQ</b></a> page first as your question may be answered there."
 msgstr "Certifique-se de verificar primeiro nossa página de <a target=\"_blank\" href=\"%(url)s\"><b>dúvidas frequentes sobre doação</b></a>, pois sua pergunta pode já estar respondida lá."
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:124 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:126
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:134 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:136
 msgid "Issue Summary"
 msgstr "Resumo do problema"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:131 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:134
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:141 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:144
 msgid "Please provide more details as needed"
 msgstr "Forneça mais detalhes conforme necessário"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:139 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:145
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:149 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:155
 msgid "Add a screenshot to help us with your request (optional)"
 msgstr "Adicione uma captura de tela para nos ajudar a resolver sua solicitação (opcional)"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:145
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:155
 msgid "JPG, PNG and BMP files only"
 msgstr "Somente arquivos JPG, PNG ou BMP"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:152 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:157
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:162 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:167
 msgid "Name"
 msgstr "Nome"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:162 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:167
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:172 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:177
 msgid "Email"
 msgstr "Email"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:173
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:183
 #, python-format
 msgid ""
 "Thunderbird will only use your submitted information for purposes of communicating with you about your request. See our <a href=\"%(url)s\" target=\"_blank\">privacy policy</a> for further "
@@ -1979,21 +1981,21 @@ msgstr ""
 "O Thunderbird usará as informações enviadas apenas para fins de comunicação com você sobre sua solicitação. Consulte nossa <a href=\"%(url)s\" target=\"_blank\">política de privacidade</a> para mais"
 " informações."
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:185
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:195
 #, python-format
 msgid ""
 "Our Donor Support Team is unable to respond to any technical support questions. We do not provide technical support in exchange for financial gifts. To ensure that you get the help that you need, "
 "please <a target=\"_blank\" href=\"%(url)s\">visit our technical support page</a>."
 msgstr ""
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:190
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:200
 #, python-format
 msgid ""
 "Thunderbird <b>technical support is community-based </b>and available to everyone. Our technical support page <b>includes knowledge base articles and a community of volunteers ready to "
 "help</b>!<br><br><a target=\"_blank\" href=\"%(url)s\"><b>Visit our technical support site to get more help</b></a>."
 msgstr ""
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:210
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:220
 #, python-format
 msgid ""
 "Our Donor Support Team is unable to respond to your Thunderbird product feedback and feature requests. But, we want to hear from you! Please visit<b> <a target=\"_blank\" href=\"%(url)s\">Mozilla "
@@ -2002,7 +2004,7 @@ msgstr ""
 "Nossa equipe de suporte a doadores não pode responder à sua avaliação sobre o produto e às solicitações de recursos. Mas queremos ouvir você! Visite <b> <a target=\"_blank\" href=\"%(url)s\">Mozilla"
 " Connect</a></b>."
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:215
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:225
 #, python-format
 msgid ""
 "<a target=\"_blank\" href=\"%(url)s\"><b>Mozilla Connect</b></a> is a collaborative space for ideas, feedback, and discussions that will help shape future Thunderbird product releases. <a "
@@ -2013,95 +2015,95 @@ msgstr ""
 "href=\"%(url2)s\"><b>Envie suas ideias</b></a> e certifique-se de marcar o Thunderbird para que outros possam encontrar e votar em suas sugestões.<br><br> Para suporte técnico do Thunderbird, visite"
 " nossa <a target=\"_blank\" href=\"%(url3)s\"><b>página de suporte</b></a>"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:228
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:238
 msgid "Visit Mozilla Connect to submit your ideas for Thunderbird."
 msgstr "Visite o Mozilla Connect para enviar suas ideias sobre o Thunderbird."
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:244
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:254
 msgid "Chinese Simplified"
 msgstr "Chinês simplificado"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:245
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:255
 msgid "Czech"
 msgstr "Tcheco"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:246
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:256
 msgid "Danish"
 msgstr "Dinamarquês"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:247
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:257
 msgid "Dutch"
 msgstr "Holandês"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:248
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:258
 msgid "English"
 msgstr "Inglês"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:249
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:259
 msgid "French"
 msgstr "Francês"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:250
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:260
 msgid "German"
 msgstr "Alemão"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:251
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:261
 msgid "Italian"
 msgstr "Italiano"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:252
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:262
 msgid "Japanese"
 msgstr "Japonês"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:253
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:263
 msgid "Other"
 msgstr "Outro"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:254
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:264
 msgid "Polish"
 msgstr "Polonês"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:255
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:265
 msgid "Portuguese"
 msgstr "Português"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:256
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:266
 msgid "Russian"
 msgstr "Russo"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:257
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:267
 msgid "Spanish"
 msgstr "Espanhol"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:271
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:281
 #, python-format
 msgid "To update the email that you are using to make and manage your donations, please <b>visit our <a target=\"_blank\" href=\"%(url)s\">Donor Portal</a></b>."
 msgstr "Para atualizar o email que você está usando para fazer e gerenciar suas doações, <b>visite nosso <a target=\"_blank\" href=\"%(url)s\">Portal do doador</a></b>."
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:275
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:285
 msgid "To sign in to your donor portal, please use the email that you used to make your donation."
 msgstr "Para entrar no portal do doador, use o email que você usou para fazer sua doação."
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:286
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:296
 #, python-format
 msgid "We currently <b>accept over 100 currencies through our <a target=\"_blank\" href=\"%(url)s\">donation form</a>!</b>"
 msgstr "Atualmente, nós <b>aceitamos mais de 100 moedas através do nosso <a target=\"_blank\" href=\"%(url)s\">formulário de doação</a>!</b>"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:291
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:301
 msgid "If you do not see your preferred currency listed, we unfortunately cannot accept that currency at this time."
 msgstr "Se não encontrar sua moeda preferida, infelizmente não podemos aceitar essa moeda no momento."
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:295
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:305
 msgid ""
 "We <b>also accept a number of payment methods</b> which, depending upon your location, include by Credit Card, PayPal, SEPA Direct Debit, iDEAL, Google Pay, Apple Pay, and ACH. If you do not see "
 "your preferred payment method listed, we unfortunately do not accept that method at this time."
 msgstr ""
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:300
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:310
 msgid "We do not accept donations in crypto."
 msgstr "Não aceitamos doações em criptomoedas."
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:304
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:314
 #, python-format
 msgid "If you are in the US (or using a US bank account), you can donate via check. Detailed instructions are available on our <a target=\"_blank\" href=\"%(url)s\"><b>Donation FAQ</b></a> page."
 msgstr ""
@@ -2222,8 +2224,8 @@ msgstr "Quem usa o Thunderbird de computador pode migrar suas configurações ra
 msgid "Two QR codes are shown, one on a mobile device and another in the distance on a desktop."
 msgstr "São mostrados dois códigos QR, um em um dispositivo móvel e outro, à distância, em um computador."
 
-#: sites/www.thunderbird.net/newsletter/index.html:8 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:302 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:223
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:242 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:359
+#: sites/www.thunderbird.net/newsletter/index.html:8 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:301 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:222
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:241 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:358
 msgid "Join our Newsletter"
 msgstr "Inscreva-se no nosso boletim informativo"
 
@@ -2279,7 +2281,7 @@ msgid "Join the <a href=\"%(url)s\">repository</a>"
 msgstr "Junte-se ao <a href=\"%(url)s\">repositório</a>"
 
 #: sites/www.thunderbird.net/participate/index.html:31 sites/www.thunderbird.net/participate/index.html:39 sites/www.thunderbird.net/participate/index.html:47
-#: sites/www.thunderbird.net/participate/index.html:96 sites/www.thunderbird.net/participate/index.html:102 sites/www.thunderbird.net/participate/index.html:147
+#: sites/www.thunderbird.net/participate/index.html:96 sites/www.thunderbird.net/participate/index.html:102 sites/www.thunderbird.net/participate/index.html:145
 #, python-format
 msgid "Say hello in <a href=\"%(url)s\">Matrix</a>"
 msgstr "Diga olá no <a href=\"%(url)s\">Matrix</a>"
@@ -2406,8 +2408,8 @@ msgid "Mastodon"
 msgstr "Mastodon"
 
 #: sites/www.thunderbird.net/participate/index.html:132
-msgid "X (Formerly Twitter)"
-msgstr "X (anteriormente Twitter)"
+msgid "Bluesky"
+msgstr ""
 
 #: sites/www.thunderbird.net/participate/index.html:133
 msgid "YouTube"
@@ -2421,99 +2423,99 @@ msgstr "TILVids"
 msgid "LinkedIn"
 msgstr "LinkedIn"
 
-#: sites/www.thunderbird.net/participate/index.html:137
+#: sites/www.thunderbird.net/participate/index.html:136
 msgid "Leave a review on the Google Play"
 msgstr "Deixe uma avaliação no Google Play"
 
-#: sites/www.thunderbird.net/participate/index.html:142
+#: sites/www.thunderbird.net/participate/index.html:140
 msgid "Design"
 msgstr "Projete"
 
-#: sites/www.thunderbird.net/participate/index.html:144
+#: sites/www.thunderbird.net/participate/index.html:142
 msgid ""
 "Share your ideas, and contribute to the ongoing conversations around Thunderbird’s UX and UI. We welcome your feedback to developer designs on our UX mailing list, and our companion Matrix room."
 msgstr ""
 "Compartilhe suas ideias e participe de conversas em andamento sobre experiência de uso e interface do usuário do Thunderbird. Sua opinião sobre projetos de desenvolvimento é bem-vinda na nossa lista"
 " de emails sobre experiência de uso e na nossa sala associada no Matrix."
 
-#: sites/www.thunderbird.net/participate/index.html:146
+#: sites/www.thunderbird.net/participate/index.html:144
 #, python-format
 msgid "Join in on the <a href=\"%(url)s\">discussion</a>"
 msgstr "Participe da <a href=\"%(url)s\">discussão</a>"
 
-#: sites/www.thunderbird.net/participate/index.html:152
+#: sites/www.thunderbird.net/participate/index.html:150
 msgid "One more way you can contribute is by sharing <strong>ideas</strong>, <strong>priorities</strong>, and <strong>feedback</strong>. Thunderbird is yours and we're listening."
 msgstr "Mais uma forma de contribuir é compartilhar <strong>ideias</strong>, <strong>prioridades</strong> e <strong>opiniões</strong>. O Thunderbird é seu e estamos atentos."
 
-#: sites/www.thunderbird.net/participate/index.html:162
+#: sites/www.thunderbird.net/participate/index.html:160
 msgid "Contributor <span class=\"txt-gradient\">Experience</span>"
 msgstr "<span class=\"txt-gradient\">Experiência</span> do colaborador"
 
-#: sites/www.thunderbird.net/participate/index.html:163
+#: sites/www.thunderbird.net/participate/index.html:161
 msgid "The ways and reasons to get involved are as diverse as the people who do."
 msgstr "As formas e motivos de participar são tão diversos quanto as pessoas que o fazem."
 
-#: sites/www.thunderbird.net/participate/index.html:164
+#: sites/www.thunderbird.net/participate/index.html:162
 msgid "Our volunteers come from diverse backgrounds and bring unique talents. They're making Thunderbird better for themselves and better for the world at the same time. You can join them."
 msgstr "Nossos voluntários vêm de diversas formações e trazem talentos únicos. Eles estão tornando o Thunderbird melhor para eles mesmos e para o mundo ao mesmo tempo. Você pode se juntar a eles."
 
-#: sites/www.thunderbird.net/participate/index.html:169
+#: sites/www.thunderbird.net/participate/index.html:167
 msgid "Leadership, Switzerland"
 msgstr "Liderança, Suíça"
 
-#: sites/www.thunderbird.net/participate/index.html:170
+#: sites/www.thunderbird.net/participate/index.html:168
 msgid "Thunderbird is a testament to the power of the open-source community's contribution to driving innovation and efficiency."
 msgstr "O Thunderbird é um testamento ao poder da contribuição da comunidade de código aberto em conduzir inovação e eficiência."
 
-#: sites/www.thunderbird.net/participate/index.html:172
+#: sites/www.thunderbird.net/participate/index.html:170
 msgid "Bug Triager, USA"
 msgstr "Triagem de bugs, Estados Unidos"
 
-#: sites/www.thunderbird.net/participate/index.html:173
+#: sites/www.thunderbird.net/participate/index.html:171
 msgid "If you don't have skin in the game, you can't complain about the direction the product is going in."
 msgstr "Se você não tem participação no jogo, não pode reclamar da direção que o produto está tomando."
 
-#: sites/www.thunderbird.net/participate/index.html:175
+#: sites/www.thunderbird.net/participate/index.html:173
 msgid "Developer, Germany"
 msgstr "Desenvolvedor, Alemanha"
 
-#: sites/www.thunderbird.net/participate/index.html:176
+#: sites/www.thunderbird.net/participate/index.html:174
 msgid "It is great to be able to improve the software by fixing little things that affect me and other users"
 msgstr "É ótimo poder melhorar o software, corrigindo pequenas coisas que me afetam e a outros usuários"
 
-#: sites/www.thunderbird.net/participate/index.html:178
+#: sites/www.thunderbird.net/participate/index.html:176
 msgid "Tester & Bug Triager, USA"
 msgstr "Testador e triagem de bugs, Estados Unidos"
 
-#: sites/www.thunderbird.net/participate/index.html:179
+#: sites/www.thunderbird.net/participate/index.html:177
 msgid "I volunteer to use the beta versions as soon as they are built, report issues I find, and test fixes."
 msgstr "Eu me ofereço para usar versões beta assim que elas são criadas, relatar problemas que encontrar e testar correções."
 
-#: sites/www.thunderbird.net/participate/index.html:181
+#: sites/www.thunderbird.net/participate/index.html:179
 msgid "Support & Bug Triager, United Kingdom"
 msgstr "Suporte e triagem de bugs, Reino Unido"
 
-#: sites/www.thunderbird.net/participate/index.html:182
+#: sites/www.thunderbird.net/participate/index.html:180
 msgid "I volunteer to assist others in the Thunderbird Support Forum which I find a very rewarding experience."
 msgstr "Eu me ofereço para ajudar outras pessoas no fórum de suporte do Thunderbird, que considero uma experiência muito gratificante."
 
-#: sites/www.thunderbird.net/participate/index.html:184
+#: sites/www.thunderbird.net/participate/index.html:182
 msgid "Translator, Bug Triager & Leadership, Bulgaria"
 msgstr "Tradutor, triagem de bugs e liderança, Bulgária"
 
-#: sites/www.thunderbird.net/participate/index.html:185
+#: sites/www.thunderbird.net/participate/index.html:183
 msgid "I began by contributing translations, thinking that people who speak my language deserve localized versions."
 msgstr "Comecei contribuindo com traduções, pensando que as pessoas que falam meu idioma merecem versões traduzidas."
 
-#: sites/www.thunderbird.net/participate/index.html:195
+#: sites/www.thunderbird.net/participate/index.html:193
 msgid "Shape the <span class=\"txt-gradient\">Future</span>"
 msgstr "Molde o <span class=\"txt-gradient\">futuro</span>"
 
-#: sites/www.thunderbird.net/participate/index.html:196
+#: sites/www.thunderbird.net/participate/index.html:194
 msgid "Improve software and lives by volunteering."
 msgstr "Aprimore softwares e vidas sendo voluntário."
 
-#: sites/www.thunderbird.net/participate/index.html:197
+#: sites/www.thunderbird.net/participate/index.html:195
 msgid ""
 "Craft tools you want to use. Help others find and use software that respects their privacy and freedom. Become part of a better future for yourself and others by putting your talents to work at "
 "Thunderbird."
@@ -2521,13 +2523,17 @@ msgstr ""
 "Crie ferramentas que você queira usar. Ajude outras pessoas a encontrar e usar aplicativos que respeitam sua privacidade e liberdade. Torne-se parte de um futuro melhor para você e para os outros, "
 "colocando seus talentos para trabalhar no Thunderbird."
 
-#: sites/www.thunderbird.net/participate/index.html:200
+#: sites/www.thunderbird.net/participate/index.html:198
 msgid "Various gears all working in tandem with a heart, a code symbol, a magnifying glass displaying a very small bug, and the Thunderbird Logo in the centre of it all."
 msgstr "Várias engrenagens funcionando em conjunto com um coração, um símbolo de código, uma lente de aumento exibindo um inseto muito pequeno e o logotipo do Thunderbird no centro de tudo."
 
-#: sites/www.thunderbird.net/privacy/index.html:8
+#: sites/www.thunderbird.net/privacy/index.html:8 sites/www.thunderbird.net/privacy/index.html:18
 msgid "Thunderbird Privacy Policy"
 msgstr "Política de privacidade do Thunderbird"
+
+#: sites/www.thunderbird.net/privacy/index.html:19
+msgid "Website Privacy Policy"
+msgstr ""
 
 #: sites/www.thunderbird.net/survey/index.html:8 sites/www.thunderbird.net/survey/index.html:25
 msgid "User Survey"
@@ -2562,17 +2568,17 @@ msgstr "Um notebook com um envelopee estilizado flutuando em frente à tela. Tr�
 msgid "Finish installing, and start enjoying <span class=\"txt-gradient\">Thunderbird</span>."
 msgstr "Conclua a instalação e comece a desfrutar do <span class=\"txt-gradient\">Thunderbird</span>."
 
-#: sites/www.thunderbird.net/thank-you/index.html:24 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:92
+#: sites/www.thunderbird.net/thank-you/index.html:24 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:91
 #, python-format
 msgid "Having trouble? <a class=\"inline-link\" href=\"%(url)s\">Get help with your installation.</a>"
 msgstr "Está com problemas? <a class=\"inline-link\" href=\"%(url)s\">Peça ajuda para sua instalação.</a>"
 
 #: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:14 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:20
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:66
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:65
 msgid "Experience The Future Of Thunderbird"
 msgstr "Experimente o futuro do Thunderbird"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:70
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:69
 #, python-format
 msgid ""
 "Join the Beta today, and enjoy an exciting preview of the new features and visual enhancements coming to Thunderbird 115 Supernova. You can still run Thunderbird 102 after installing Beta on Windows"
@@ -2581,7 +2587,7 @@ msgstr ""
 "Use o Beta e desfrute de uma emocionante prévia dos novos recursos e aprimoramentos visuais do Thunderbird 115 Supernova. Você ainda pode usar o Thunderbird 102 após instalar o Beta no Windows sem "
 "configurações especiais, a menos que esteja usando contas POP de email. Veja detalhes na <a href=\"%(beta_kb_url)s\">base de conhecimento do beta</a>."
 
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:74
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:73
 #, python-format
 msgid ""
 "Thunderbird Beta is early access software, so please report the rough edges using the Help menu. You can find assistance via “Get Help” and “Share Ideas and Feedback” as well as the <a "
@@ -2590,27 +2596,27 @@ msgstr ""
 "O Thunderbird Beta é um software de acesso antecipado, portanto, favor informar irregularidades através do menu Ajuda. Você pode obter assistência via “Obter ajuda” e “Compartilhar ideias e "
 "opiniões”, bem como no fórum <a href=\"%(beta_topicbox_url)s\">Beta Topicbox</a>."
 
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:79
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:78
 msgid "Install now!"
 msgstr "Instale agora!"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:90
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:89
 msgid "Just one more step!"
 msgstr "Só mais uma coisa!"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:90
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:89
 msgid "Finish installing, and start enjoying Thunderbird Beta."
 msgstr "Conclua a instalação e comece a desfrutar do Thunderbird Beta."
 
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:100
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:99
 msgid "Learn more about Thunderbird 115 Supernova"
 msgstr "Saiba mais sobre o Thunderbird 115 Supernova"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:106
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:105
 msgid "Thunderbird 115 Supernova Preview: The New Folder Pane"
 msgstr "Visão prévia do Thunderbird 115 Supernova: O novo painel de pastas"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:110
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:109
 msgid ""
 "Thunderbird 115 \"Supernova\" will be intuitive and welcoming to new users, while remaining familiar and comfortable for veteran users. See how we're accomplishing that balance with a preview of the"
 " new Folder Pane."
@@ -2618,32 +2624,32 @@ msgstr ""
 "O Thunderbird 115 \"Supernova\" será intuitivo e acolhedor para novos usuários, mas permanecendo familiar e confortável para usuários veteranos. Veja como estamos alcançando esse equilíbrio com uma "
 "prévia do novo painel de pastas."
 
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:113
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:112
 msgid "February 14, 2023"
 msgstr "14 de fevereiro de 2023"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:114 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:127
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:140
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:113 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:126
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:139
 msgid "Continue Reading"
 msgstr "Continuar lendo"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:119
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:118
 msgid "Why We’re Rebuilding The Thunderbird Interface From Scratch"
 msgstr "Por que estamos reconstruindo do zero a interface do Thunderbird"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:123
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:122
 msgid "\"Why does Thunderbird look so old, and why does it take so long to change?\" Let's answer that burning question with some important history, and a look into the future."
 msgstr "\"Por que o Thunderbird parece tão antigo e por que demora tanto para mudar?\" Vamos responder a essa questão premente com parte importante da história e um olhar no futuro."
 
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:126
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:125
 msgid "February 9, 2023"
 msgstr "9 de fevereiro de 2023"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:132
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:131
 msgid "Thunderbird Supernova Preview: The New Calendar Design"
 msgstr "Visão prévia do Thunderbird Supernova: O novo visual da agenda"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:136
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:135
 msgid ""
 "Life gets busy. That's why the new  calendar in Thunderbird Supernova is being designed to look and feel comfortable. It will help you more efficiently sift, sort, and digest all the crucial details"
 " of your day."
@@ -2651,37 +2657,37 @@ msgstr ""
 "A vida fica movimentada. É por isso que a nova agenda do Thunderbird Supernova está sendo projetada para ter aparência e comportamento confortável. Isso ajudará você a filtrar, classificar e resumir"
 " com mais eficiência todos os detalhes cruciais do seu dia."
 
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:139
+#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:138
 msgid "November 9, 2022"
 msgstr "9 de novembro de 2022"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:64 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:64
+#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:63 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:63
 msgid "<span class=\"block font-light font-4xl\">Help Keep</span> Thunderbird Alive!"
 msgstr "<span class=\"block font-light font-4xl\">Ajude a manter</span> o Thunderbird vivo!"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:67 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:67
+#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:66 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:66
 msgid "Did you know that <strong>less than 1%</strong> of Thunderbird users fund all the work we do?"
 msgstr "Você sabia que <strong>menos de 1%</strong> dos usuários do Thunderbird financiam todo o trabalho que fazemos?"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:70 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:70
+#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:69 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:69
 msgid "<strong>Not too long ago Thunderbird was on the verge of extinction.</strong> It’s because of donations from that small group of users that we are here today!"
 msgstr "<strong>Não muito tempo atrás, o Thunderbird estava à beira da extinção.</strong> Estamos aqui hoje graças a doações desse pequeno grupo de usuários!"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:73 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:73
+#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:72 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:72
 msgid "We don’t show advertisements or sell your data and we are completely funded by donations from our community."
 msgstr "Não exibimos anúncios nem vendemos seus dados. Somos totalmente financiados por doações da nossa comunidade."
 
-#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:280 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:82 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:280
-#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:75
+#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:279 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:81 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:279
+#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:74
 msgid "Click here to <strong class=\"block\">Donate!</strong>"
 msgstr "Clique aqui para <strong class=\"block\">fazer uma doação!</strong>"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:295 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:97 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:295
-#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:90
+#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:294 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:96 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:294
+#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:89
 msgid "Help keep <strong class=\"block\">Thunderbird Alive!</strong>"
 msgstr "Ajude a manter o <strong class=\"block\">Thunderbird vivo!</strong>"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:316 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:316
+#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:315 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:315
 msgid ""
 "<strong>Thunderbird</strong>’s mission is to offer a time and privacy-respecting, customizable communication experience that gives you control of your data and experience. <strong>Free to "
 "everyone!</strong>"
@@ -2689,7 +2695,7 @@ msgstr ""
 "A missão do <strong>Thunderbird</strong> é oferecer uma experiência de comunicação personalizável, que respeita seu tempo e sua privacidade, permitindo que você controle seus dados e sua experiência"
 " de uso. <strong>De graça para todos!</strong>"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:319 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:319
+#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:318 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:318
 msgid ""
 "Accomplishing that mission means keeping <strong>Thunderbird</strong> secure, maintaining complex server infrastructure, updating old code, fixing bugs and developing new features. <strong>These "
 "activities aren’t cheap</strong> - requiring talented software engineers and robust infrastructure."
@@ -2697,21 +2703,21 @@ msgstr ""
 "Cumprir esta missão significa manter o <strong>Thunderbird</strong> seguro, sustentando uma infraestrutura complexa de servidores, atualizando códigos antigos, corrigindo erros e desenvolvendo novos"
 " recursos. <strong>Essas atividades não são baratas</strong>, exigem engenheiros de software talentosos e infraestrutura robusta."
 
-#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:322 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:322
-#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:105
+#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:321 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:321
+#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:104
 msgid "<strong>So today we’re asking you to help us out.</strong> If you get value from using Thunderbird, please consider giving a donation to support it!"
 msgstr "<strong>Portanto, pedimos que você nos ajude.</strong> Se você dá valor ao uso do Thunderbird, considere fazer uma doação para apoiar!"
 
 #: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:16 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:22
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:64
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:63
 msgid "What’s New in Thunderbird 102"
 msgstr "Novidades no Thunderbird 102"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:66
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:65
 msgid "Explore the new features and changes in the new release of Thunderbird."
 msgstr "Conheça os novos recursos e mudanças na nova versão do Thunderbird."
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:71
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:70
 msgid ""
 "<strong>Thunderbird is completely funded by your donations.</strong> <br> Producing Thunderbird requires software engineers, designers, system administrators and server infrastructure. <strong>Help "
 "us keep Thunderbird alive!</strong>"
@@ -2719,11 +2725,11 @@ msgstr ""
 "<strong>O Thunderbird é totalmente financiado por suas doações.</strong><br>A produção do Thunderbird requer engenheiros de software, designers, administradores de sistema e infraestrutura de "
 "servidores. <strong>Ajude a manter o Thunderbird vivo!</strong>"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:141
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:140
 msgid "Message Header Redesign"
 msgstr "Redesenho do cabeçalho de mensagens"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:144
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:143
 msgid ""
 "Thunderbird 102 helps you be more productive with less effort. When reading your email, the redesigned message header allows you to focus on what matters as it highlights important information. It’s"
 " also more responsive and easier to navigate. Plus, you can star important messages from the message header itself, and easily convert them into a calendar event or a task."
@@ -2732,11 +2738,11 @@ msgstr ""
 " Também é mais responsivo e mais fácil de navegar. Além disso, você pode marcar mensagens importantes com estrela no próprio cabeçalho da mensagem e converter facilmente em um evento de agenda ou "
 "uma tarefa."
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:159
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:158
 msgid "New Address Book"
 msgstr "Novo catálogo de endereços"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:162
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:161
 msgid ""
 "Thunderbird 102 gives your contacts a serious upgrade! The refreshed design makes it easier to navigate and interact with your contacts, and helps you better understand who you’re communicating "
 "with. The new Address Book has compatibility with vCard specs, meaning if your app can export your existing contacts into vCard format, Thunderbird can import them. Each contact card also acts as a "
@@ -2746,11 +2752,11 @@ msgstr ""
 "endereços tem compatibilidade com as especificações vCard, ou seja, se seu aplicativo pode exportar contatos existentes no formato vCard, o Thunderbird pode importar. Cada cartão de contato também "
 "funciona como uma plataforma de lançamento de mensagens, email e criação de eventos."
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:184
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:183
 msgid "New Import/Export Wizard"
 msgstr "Novo assistente de importação/exportação"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:187
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:186
 msgid ""
 "Thunderbird 102 makes it quick and simple to move your accounts and data around. The new step-by-step wizard provides a guided experience for importing all that data that’s important to you. We’ve "
 "also taken extra precautions to ensure that no data is accidentally duplicated in your profile after an import. Moving from Outlook, SeaMonkey, or another Thunderbird installation is easier than "
@@ -2760,11 +2766,11 @@ msgstr ""
 "precauções adicionais para assegurar que nenhum dado fique duplicado acidentalmente em seu perfil após uma importação. Mudar do Outlook, SeaMonkey ou de outra instalação do Thunderbird é mais fácil "
 "do que nunca. Não é necessária nenhuma extensão!"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:203
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:202
 msgid "New Spaces Toolbar"
 msgstr "Nova barra de áreas"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:206
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:205
 msgid ""
 "Thunderbird 102 makes navigating the application more intuitive thanks to the new Spaces Toolbar. Move between all of your activities with ease, whether it’s managing email, working with contacts "
 "through the awesome new address book, using the calendar and tasks functionality, chat, and even add-ons! If you want to save screen real estate, the Spaces Toolbar can be dismissed, and you can "
@@ -2774,11 +2780,11 @@ msgstr ""
 "contatos por meio do incrível novo catálogo de endereços, usando funcionalidades de agendas e tarefas, conversas e até extensões! Se quiser economizar espaço na tela, você pode ocultar a barra de "
 "áreas e navegar pelas diferentes atividades que o Thunderbird oferece com a nova aba fixa de áreas."
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:227
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:226
 msgid "New Matrix Chat Support"
 msgstr "Novo suporte a conversa no Matrix"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:230
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:229
 msgid ""
 "Thunderbird 102 offers a new way to chat privately and securely with your colleagues, friends, and family. We’ve added support for the open-source, decentralized chat protocol Matrix, and it’s "
 "usable right out of the box! (As always, we welcome your feedback since it’s an evolving service.)"
@@ -2786,44 +2792,44 @@ msgstr ""
 "O Thunderbird 102 oferece uma nova maneira de conversar com privacidade e segurança com seus colegas, amigos e familiares. Adicionamos suporte ao protocolo de conversa Matrix, descentralizado e de "
 "código aberto, pronto para uso! (como sempre, agradecemos seus comentários, pois é um serviço em evolução)"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:245 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:175
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:194 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:304
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:244 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:174
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:193 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:303
 msgid "Other Notable Changes"
 msgstr "Outras mudanças notáveis"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:248
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:247
 msgid "There are many other big changes that make Thunderbird 102 a very large release including:"
 msgstr "Existem muitas outras grandes mudanças que tornam o Thunderbird 102 uma atualização de larga escala, incluindo:"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:251
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:250
 msgid "New Icons and Default Folder Colors"
 msgstr "Novos ícones e cores padrão de pastas"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:252
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:251
 msgid "Use Thunderbird without an email account (for example, as an RSS reader)"
 msgstr "Use o Thunderbird sem uma conta de email (por exemplo, como leitor de canais RSS)"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:253
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:252
 msgid "Numerous OpenPGP improvements"
 msgstr "Muitas melhorias no OpenPGP"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:254
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:253
 msgid "CalendarLocal parser converted to javascript"
 msgstr "Analisador CalendarLocal convertido em javascript"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:255
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:254
 msgid "Today Pane calendar UI refresh"
 msgstr "Renovação da interface do usuário do painel diário de agendas"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:256
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:255
 msgid "POP3 implemented in javascript"
 msgstr "POP3 implementado em javascript"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:257
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:256
 msgid "Account settings moved to macOS application menu"
 msgstr "Configurações de contas movidas para o menu de aplicativo do macOS"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:258
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:257
 msgid ""
 "Plus: Application-wide font size control, Theme fixes, FileLink fixes, Accessibility fixes, improved vCard integration, improved calendar startup performance, Calendar fixes including correct order "
 "of week view headers and days for right to left locales."
@@ -2831,47 +2837,47 @@ msgstr ""
 "Além disso: controle de tamanho de fontes em todo o aplicativo, correções de temas, correções de FileLink, correções de acessibilidade, integração vCard aprimorada, desempenho de início de agendas "
 "aprimorado, correções de agendas incluindo ordem correta de cabeçalhos na exibição semanal e dias em idiomas escritos da direita para esquerda."
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:261
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:260
 #, python-format
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 102.0 and up</a>."
 msgstr "Você pode ver detalhes de todas as alterações nas notas de atualização do <a href=\"%(release)s\">Thunderbird 102.0 em diante</a>."
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:277 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:198
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:217 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:334
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:276 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:197
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:216 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:333
 msgid "Thunderbird is funded by users like you"
 msgstr "O Thunderbird é financiado por usuários como você"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:280 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:201
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:220 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:69
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:337
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:279 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:200
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:219 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:68
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:336
 msgid "Thunderbird is both free and freedom respecting, but we’re also completely funded by donations! Help us sustain the project and continue to improve."
 msgstr "O Thunderbird é gratuito e respeita a liberdade, mas também somos totalmente financiados por doações! Ajude-nos a sustentar o projeto e continuar a melhorar."
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:305 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:226
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:245 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:362
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:304 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:225
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:244 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:361
 msgid "Keep up with the latest and greatest updates on news, features, events, and previews, and get a sneak peek on the upcoming releases."
 msgstr "Acompanhe as melhores e mais recentes novidades sobre notícias, recursos, eventos e prévias, além de dar uma espiada nos próximos lançamentos."
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:314 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:235
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:254 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:371
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:313 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:234
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:253 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:370
 msgid "Sign me up!"
 msgstr "Inscrever!"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:365 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:441
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:288 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:307
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:423
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:364 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:440
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:287 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:306
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:422
 msgid "Report Trademark or Copyright Infringement"
 msgstr "Denunciar violação de marca registrada ou direitos autorais"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:369 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:445
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:292 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:311
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:427
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:368 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:444
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:291 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:310
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:426
 msgid "Report Misuse of Thunderbird Trademark"
 msgstr "Denunciar uso indevido da marca registrada Thunderbird"
 
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:374 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:450
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:297 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:316
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:432
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:373 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:449
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:296 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:315
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:431
 #, python-format
 msgid ""
 "Thunderbird is part of\n"
@@ -2888,7 +2894,7 @@ msgstr ""
 "      individuais. Conteúdo disponível sob\n"
 "      uma <a href=\"%(url)s\" class=\"inline-link\">licença Creative Commons</a>."
 
-#: sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:63
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:62
 msgid ""
 "Help Keep\n"
 "      <br>\n"
@@ -2900,25 +2906,25 @@ msgstr ""
 "      <span class=\"tb-title\">Thunderbird</span>\n"
 "      <span class=\"alive\">vivo</span>"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:119
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:118
 msgid ""
 "Thunderbird’s mission is to give you the best privacy-respecting, customizable communication experience possible.\n"
 "        Free for everyone to install and enjoy!"
 msgstr "A missão do Thunderbird é oferecer a melhor experiência possível de comunicação, personalização e respeito à sua privacidade. Gratuito para quem quiser instalar e aproveitar!"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:123
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:122
 msgid ""
 "Accomplishing that mission means maintaining expensive servers, fixing bugs, developing useful new features, and\n"
 "        hiring talented engineers to improve the software."
 msgstr "Cumprir esta missão significa manter servidores caros, corrigir erros, desenvolver novos recursos úteis e contratar engenheiros talentosos para melhorar o software."
 
-#: sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:127
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:126
 msgid ""
 "Thunderbird is proud to be funded exclusively by our community, not by selling personal data or displaying ads in\n"
 "        your inbox."
 msgstr "O Thunderbird tem orgulho de ser financiado exclusivamente por nossa comunidade, não vendendo dados pessoais ou exibindo anúncios em sua caixa de entrada."
 
-#: sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:131
+#: sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:130
 msgid ""
 "So today we’re asking for your help to keep Thunderbird alive and thriving. If you get value from using\n"
 "        Thunderbird, please consider giving a donation to support it!"
@@ -2975,7 +2981,7 @@ msgstr "Instale agora"
 msgid "Thunderbird Everywhere!"
 msgstr "Thunderbird em todo lugar!"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:65
+#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:64
 msgid ""
 "<span class=\"title\">Thunderbird</span>\n"
 "        <span class=\"everywhere\">Everywhere!</span>"
@@ -2983,11 +2989,11 @@ msgstr ""
 "<span class=\"title\">Thunderbird</span>\n"
 "        <span class=\"everywhere\">em todo lugar!</span>"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:68
+#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:67
 msgid "Help us bring Thunderbird to <span class=\"platform-gradient\">Android</span> and <span class=\"platform-gradient\">iOS.</span>"
 msgstr "Ajude-nos a levar o Thunderbird para <span class=\"platform-gradient\">Android</span> e <span class=\"platform-gradient\">iOS</span>."
 
-#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:69
+#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:68
 msgid ""
 "Did you know that <strong>less than 1%</strong> of Thunderbird users fund all the work we do? We don’t show advertisements or sell your data, and we are completely funded by donations from our "
 "community."
@@ -2995,11 +3001,11 @@ msgstr ""
 "Você sabia que <strong>menos de 1%</strong> dos usuários do Thunderbird financiam todo o trabalho que fazemos? Não exibimos anúncios nem vendemos seus dados e somos totalmente financiados por "
 "doações de nossa comunidade."
 
-#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:114
+#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:113
 msgid "You kept us alive - now help us thrive!"
 msgstr "Você nos manteve vivos, agora ajude-nos a prosperar!"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:117
+#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:116
 #, python-format
 msgid ""
 "This year, we delivered outstanding visual changes in Thunderbird 115 and <a href=\"%(url)s\">other major improvements</a>. In 2024, we want to make our privacy-respecting email software available "
@@ -3008,46 +3014,46 @@ msgstr ""
 "Este ano, entregamos mudanças visuais incríveis no Thunderbird 115 e <a href=\"%(url)s\">outras melhorias importantes</a>. Em 2024, queremos disponibilizar nosso software de email que respeita a "
 "privacidade para bilhões de pessoas. Imagine o Thunderbird em seus dispositivos <strong>Android</strong> e <strong>iOS</strong>!"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:118
+#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:117
 msgid "<strong>We can’t do this without you!</strong> If you get value from using Thunderbird, please consider giving a donation to support this goal."
 msgstr "<strong>Não podemos fazer isso sem você!</strong> Se você se beneficia ao usar o Thunderbird, considere fazer uma doação para apoiar este objetivo."
 
-#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:124
+#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:123
 msgid "An illustration of Thunderbird on a phone, a desktop, and a tablet."
 msgstr "Ilustração do Thunderbird em um celular, um computador e um tablet."
 
-#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:139
+#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:138
 msgid "The <strong>Thunderbird</strong> Team"
 msgstr "Equipe do <strong>Thunderbird</strong>"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:17 sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:44
+#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:16 sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:43
 msgid "Thunderbird is Powered by You!"
 msgstr "O Thunderbird é mantido por você!"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:45
+#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:44
 msgid "Thunderbird <span>is Powered by You!</span>"
 msgstr "O Thunderbird <span>existe graças a você!</span>"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:48
+#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:47
 msgid "<strong>Did you know Thunderbird is funded only by donations from users like you?</strong>"
 msgstr "<strong>Sabia que o Thunderbird é financiado apenas por doações de usuários como você?</strong>"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:51
+#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:50
 msgid "We don’t show advertisements or sell your data. <strong>You are not the product.</strong>"
 msgstr "Não exibimos anúncios nem vendemos seus dados. <strong>Você não é o produto.</strong>"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:54
+#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:53
 msgid "<strong>Without you, Thunderbird can’t exist.</strong> Giving a gift today means Thunderbird continues to remain available!"
 msgstr "<strong>Sem você, o Thunderbird não pode existir.</strong> Fazer uma doação significa manter o Thunderbird disponível!"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:99
+#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:98
 msgid ""
 "Since 2003, Thunderbird's mission has been to offer a powerful and customizable communication experience that respects your time, your data, and your privacy. <strong>Free for everyone!</strong>"
 msgstr ""
 "Desde 2003, a missão do Thunderbird tem sido oferecer uma experiência de comunicação poderosa e personalizável, que respeita seu tempo, seus dados e sua privacidade. <strong>De graça para "
 "todos!</strong>"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:102
+#: sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:101
 msgid ""
 "Accomplishing that mission means keeping <strong>Thunderbird</strong> secure, maintaining complex server infrastructure, updating old code, fixing bugs, and developing new features. <strong>These "
 "activities are expensive</strong> - requiring talented software engineers and robust infrastructure."
@@ -3059,7 +3065,7 @@ msgstr ""
 msgid "What’s New in Thunderbird 115"
 msgstr "Novidades no Thunderbird 115"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:63
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:62
 msgid ""
 "What’s New in\n"
 "        <br>\n"
@@ -3073,27 +3079,27 @@ msgstr ""
 "        <span class=\"version\">115</span>\n"
 "        <span class=\"sr-only\">Supernova</span>"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:69
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:68
 msgid "Supernova wordmark"
 msgstr "Marca registrada Supernova"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:91
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:90
 msgid "Learn how to get the new look"
 msgstr "Saiba como ter o novo visual"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:95 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:120
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:144 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:194
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:218 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:261
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:290 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:314
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:352 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:376
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:94 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:119
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:143 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:193
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:217 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:260
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:289 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:313
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:351 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:375
 msgid "A nebula of stars"
 msgstr "Uma nebulosa de estrelas"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:106
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:105
 msgid "Dynamic Unified Toolbar"
 msgstr "Barra de ferramentas dinâmica unificada"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:109
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:108
 msgid ""
 "Supernova features a single dynamic toolbar, presenting frequently used and contextual options based on the tab\n"
 "          or Space that is currently active. Take full control by customizing the toolbar and window layout to perfectly fit your\n"
@@ -3102,15 +3108,15 @@ msgstr ""
 "O Supernova apresenta uma única barra de ferramentas dinâmica, com opções contextuais e usadas com frequência, com base na aba ou área ativa no momento. Assuma o controle total, personalizando a "
 "barra de ferramentas e a disposição da janela para se adequar perfeitamente ao seu jeito de usar."
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:115
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:114
 msgid "The all new Unified Toolbar"
 msgstr "A novíssima barra de ferramentas unificada"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:131
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:130
 msgid "Beautiful Iconography"
 msgstr "Bela iconografia"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:134
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:133
 msgid ""
 "More than just a refreshed set of graphics, Supernova introduces beautiful icons with a more consistent visual\n"
 "          style unique to Thunderbird. Our new designs remain sharp and pixel-perfect at any density setting."
@@ -3118,15 +3124,15 @@ msgstr ""
 "Mais do que apenas um novo conjunto de artes gráficas, o Supernova apresenta belos ícones com um estilo visual mais consistente, exclusivo do Thunderbird. Nossos novos designs permanecem nítidos e "
 "perfeitos em qualquer configuração de densidade."
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:139
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:138
 msgid "The improved icons"
 msgstr "Os ícones melhorados"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:155
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:154
 msgid "Easy Density Control"
 msgstr "Fácil controle de densidade"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:158
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:157
 msgid ""
 "Working with multiple monitors and display resolutions? Supernova lets you dial in the perfect density settings\n"
 "          and font sizes for the entire application, with just a single click from the App Menu."
@@ -3134,28 +3140,28 @@ msgstr ""
 "Você usa vários monitores com diferentes resoluções de exibição? O Supernova permite escolher configurações de densidade e tamanhos de fonte perfeitos para o aplicativo todo, com apenas um clique no"
 " menu do aplicativo."
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:181
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:180
 msgid "Compact density icon"
 msgstr "Ícone de densidade compacta"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:182
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:181
 msgid "Default density icon"
 msgstr "Ícone de densidade padrão"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:183
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:182
 msgid "Relaxed density icon"
 msgstr "Ícone de densidade moderada"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:186 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:187
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:188
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:185 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:186
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:187
 msgid "An example of the relaxed density"
 msgstr "Um exemplo da densidade moderada"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:204
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:203
 msgid "Intuitive App Menu"
 msgstr "Menu intuitivo do aplicativo"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:207
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:206
 msgid ""
 "The new Application Menu (≡) in Supernova is now keyboard-accessible, and redesigned for faster, easier\n"
 "          navigation. Fewer submenus, persistent global options, and consistent iconography combine to create a much\n"
@@ -3164,15 +3170,15 @@ msgstr ""
 "O novo menu do aplicativo (≡) no Supernova agora é acessível pelo teclado e foi reprojetado para ser usado de forma mais rápida e fácil. Menos submenus, opções globais persistentes e iconografia "
 "consistente se combinam para criar uma experiência de uso muito mais intuitiva."
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:213
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:212
 msgid "The new AppMenu"
 msgstr "O novo menu do aplicativo"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:230
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:229
 msgid "New + Sortable Folder Modes"
 msgstr "Novos modos de pasta ordenáveis"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:233
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:232
 msgid ""
 "Supernova gives you more control by introducing sortable Folder Modes. Display all of your Tags in the Folder\n"
 "            Pane, turn on and off Local Folders, or move your favorite Folder Mode sections up and down with one click. Less\n"
@@ -3181,11 +3187,11 @@ msgstr ""
 "O Supernova te dá mais controle ao oferecer modos de pasta ordenáveis. Exiba todas as suas etiquetas no painel de pastas, ative ou desative pastas locais, ou mova suas seções preferidas de modo de "
 "pastas para cima ou para baixo com apenas um clique. Menos deslizamento, mais produtividade."
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:246
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:245
 msgid "Eye-Catching Tags View"
 msgstr "Exibição atraente de etiquetas"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:249
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:248
 msgid ""
 "Tags are a familiar and powerful part of your workflow, so Supernova adds an eye-catching “Tags” view to the\n"
 "            Folder Pane. Quickly jump to your custom, color-coded tag categories to find and filter your messages even faster."
@@ -3193,15 +3199,15 @@ msgstr ""
 "Usar etiquetas é parte poderosa e habitual de seu fluxo de trabalho, então o Supernova adiciona a atraente exibição “Etiquetas” ao painel de pastas. Mude rapidamente para suas categorias "
 "personalizadas de etiquetas, codificadas por cores, para encontrar e filtrar mensagens ainda mais rápido."
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:256
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:255
 msgid "The improved folder pane"
 msgstr "O painel de pastas aprimorado"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:272
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:271
 msgid "Modernized Cards View"
 msgstr "Exibição em cartões modernizada"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:275
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:274
 msgid ""
 "Supernova’s new Card View is our version of the well-known vertical layout for the Message List, perfect for\n"
 "          people used to modern webmail. Card View emulates a mobile interface list with multi-line support, offering a more\n"
@@ -3210,17 +3216,17 @@ msgstr ""
 "A nova exibição em cartões do Supernova é nossa versão do conhecido layout vertical de lista de mensagens, perfeito para quem está acostumado com aplicativos modernos de email. A exibição em cartões"
 " emula uma lista de interface de dispositivos móveis, com suporte a múltiplas linhas em cada item, oferecendo uma aparência mais confortável para reduzir a carga cognitiva."
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:281 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:282
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:283 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:284
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:285
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:280 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:281
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:282 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:283
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:284
 msgid "An example of a message in card view"
 msgstr "Exemplo de uma mensagem na exibição em cartões"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:301
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:300
 msgid "Improved Address Book"
 msgstr "Catálogo de endereços aprimorado"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:304
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:303
 msgid ""
 "Supernova continues to iterate on the modernized Address Book introduced in Thunderbird 102. You’ll enjoy a new\n"
 "          tabular view, an improved Edit view, delete buttons, and better accessibility."
@@ -3228,15 +3234,15 @@ msgstr ""
 "O Supernova dá continuidade à evolução do catálogo de endereços modernizado, lançado no Thunderbird 102. Você desfruta de uma nova exibição tabular, formato de edição aprimorado, botões de exclusão "
 "e melhor acessibilidade."
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:309
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:308
 msgid "The improved address book edit pane"
 msgstr "O painel de edição do catálogo de endereços aprimorado"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:325
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:324
 msgid "Expanded Accessibility"
 msgstr "Acessibilidade expandida"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:328
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:327
 msgid ""
 "Supernova substantially improves Thunderbird’s keyboard navigation and screen reader accessibility across the\n"
 "          entire application. We’ve also greatly expanded the ability to navigate Mail content and buttons using the TAB and\n"
@@ -3245,31 +3251,31 @@ msgstr ""
 "O Supernova melhora substancialmente a navegação no Thunderbird no aplicativo todo, com teclado e com acessibilidade de leitores de tela. Também expandimos bastante a capacidade de navegar por "
 "botões e pelo conteúdo de emails usando as teclas Tab e de setas."
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:335
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:334
 msgid "Button"
 msgstr "Botão"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:337
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:336
 msgid "Button 1"
 msgstr "Botão 1"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:338
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:337
 msgid "Button 2"
 msgstr "Botão 2"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:339
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:338
 msgid "Button 3"
 msgstr "Botão 3"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:340
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:339
 msgid "Button 4"
 msgstr "Botão 4"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:363
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:362
 msgid "Improved Calendar Design"
 msgstr "Design de agenda aprimorado"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:366
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:365
 msgid ""
 "As part of an ongoing effort to modernize and upgrade Thunderbird’s Calendar, Supernova introduces an improved\n"
 "          “mini-month” layout, improvements to the day/week/month grid, a pleasing color palette, and several more minor changes."
@@ -3277,15 +3283,15 @@ msgstr ""
 "Como parte de um esforço contínuo para modernizar e atualizar a agenda do Thunderbird, o Supernova apresenta um layout de “mini-mês”, melhorias na grade de dia/semana/mês, uma paleta de cores "
 "agradável e muitas outras pequenas mudanças."
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:371
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:370
 msgid "The improved calendar"
 msgstr "A agenda aprimorada"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:380
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:379
 msgid "More to come!"
 msgstr "Mais novidades estão a caminho!"
 
-#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:382
+#: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:381
 msgid ""
 "Supernova is constantly evolving. Throughout the next year, we’ll deliver many improvements to existing Supernova\n"
 "        features and introduce brand new ones. Upgrade to version 115 and experience the future of Thunderbird!"
@@ -3391,11 +3397,11 @@ msgstr "Atendendo à demanda popular, agora você pode personalizar a cor dos í
 msgid "“Nebula” enables an email experience that shines brighter than ever. Expect more updates and helpful new features to materialize over the upcoming months."
 msgstr "O “Nebula” proporciona uma experiência de uso de email mais brilhante do que nunca. Espere mais atualizações e novos recursos úteis nos próximos meses."
 
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:14 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:20 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:63
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:14 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:20 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:62
 msgid "New in Thunderbird 68"
 msgstr "Novidades no Thunderbird 68"
 
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:65
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:64
 #, python-format
 msgid ""
 "This article describes some of the major changes visible to users in Thunderbird version 68.0. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird 68 release "
@@ -3404,19 +3410,19 @@ msgstr ""
 "Este artigo descreve algumas das principais mudanças visíveis aos usuários no Thunderbird versão 68.0. Detalhes completos de todas as mudanças podem ser encontradas nas <a href=\"%(release)s\">notas"
 " de atualização do Thunderbird 68</a>."
 
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:118 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:262
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:117 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:261
 msgid "Better Dark Theme"
 msgstr "Tema escuro melhorado"
 
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:121
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:120
 msgid "The dark theme available in Thunderbird has been enhanced with a dark message thread pane as well as many other small improvements."
 msgstr "O tema escuro disponível no Thunderbird foi aprimorado com um painel escuro de tópicos de mensagens, além de muitas outras pequenas melhorias."
 
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:136
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:135
 msgid "Filelink Improved"
 msgstr "Filelink aprimorado"
 
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:139
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:138
 msgid ""
 "Filelink attachments that have already been uploaded can now be linked to again instead of having to re-upload them. Also, an account is no longer required to use the default Filelink provider - "
 "<strong>WeTransfer</strong>."
@@ -3424,16 +3430,16 @@ msgstr ""
 "Anexos Filelink que já foram enviados agora podem ter link adicionado novamente em vez de precisar reenviar. Além disso, não é mais obrigatório ter uma conta para usar o provedor de Filelink padrão "
 "- <strong>WeTransfer</strong>."
 
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:142
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:141
 #, python-format
 msgid "Other Filelink providers like Box and Dropbox are not included by default, but can be added by grabbing the <a href=\"%(dropbox)s\">Dropbox</a> and <a href=\"%(box)s\">Box</a> add-ons."
 msgstr "Outros provedores de Filelink como Box e Dropbox não são incluídos por padrão, mas podem ser adicionados instalando as extensões <a href=\"%(dropbox)s\">Dropbox</a> e <a href=\"%(box)s\">Box</a>."
 
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:155
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:154
 msgid "Options/Preferences in a Tab"
 msgstr "Opções/preferências em uma aba"
 
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:158
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:157
 msgid ""
 "Thunderbirdʼs Options/Preferences have been converted from a dialog window to its own dedicated tab. The new Preferences tab provides more space which allows for better organized content and is more"
 " consistent with the look and feel of the rest of Thunderbird."
@@ -3441,11 +3447,11 @@ msgstr ""
 "As opções/preferências do Thunderbird foram convertidas de uma janela de diálogo para uma aba própria. A nova aba de preferências oferece mais espaço, permitindo melhor organização do conteúdo, e é "
 "mais consistente com o visual do restante do Thunderbird."
 
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:161
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:160
 msgid "The new Preferences tab also makes it easier to multi-task without the problem of losing track of where your preferences are when switching between windows."
 msgstr "A nova aba de preferências também facilita fazer várias coisas ao mesmo tempo, sem o problema não saber mais onde estão suas preferências ao mudar de uma janela para outra."
 
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:178
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:177
 msgid ""
 "There are many other smaller changes that make Thunderbird 68 feel polished and powerful including: a new App Menu UI, an updated To/CC/BCC selector in compose, improved attachment management, full "
 "color support across the app, filters can now be set to run periodically, and feed articles now show external attachments as links."
@@ -3454,16 +3460,16 @@ msgstr ""
 "gerenciamento de anexos aprimorado, suporte total a cores em várias áreas da aplicação, filtros agora podem ser configurados para ser aplicados periodicamente e artigos de fontes de notícias agora "
 "mostram anexos externos como links."
 
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:181
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:180
 #, python-format
 msgid "There are many other updates in this release, you can see a list of all of them in the <a href=\"%(release)s\">Thunderbird 68 release notes</a>."
 msgstr "Há muitas outras novidades nesta versão, você pode ver uma lista de todas elas nas <a href=\"%(release)s\">notas de atualização do Thunderbird 68</a>."
 
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:14 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:20 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:63
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:14 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:20 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:62
 msgid "New in Thunderbird 78"
 msgstr "Novidades no Thunderbird 78"
 
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:65
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:64
 #, python-format
 msgid ""
 "This article describes some of the major changes visible to users in Thunderbird version 78. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird release notes "
@@ -3472,22 +3478,22 @@ msgstr ""
 "Este artigo descreve algumas das principais mudanças visíveis aos usuários no Thunderbird versão 78. Detalhes completos de todas as mudanças podem ser encontradas nas <a href=\"%(release)s\">notas "
 "de atualização do Thunderbird 78.0 em diante</a>."
 
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:118
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:117
 msgid "Dark mode"
 msgstr "Modo escuro"
 
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:121
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:120
 msgid ""
 "There is now a dark mode in Thunderbird, making late-night email easier on the eyes. To enable, Thunderbird will use your operating system settings to see if you have enabled dark mode OS-wide."
 msgstr ""
 "Agora há um modo escuro no Thunderbird, tornando a leitura de emails à noite mais confortável para os olhos. Você pode usar sempre assim, ou deixar o Thunderbird usar as configurações do sistema "
 "operacional para saber se você ativou o modo escuro no sistema como um todo."
 
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:136
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:135
 msgid "Account Setup & Account Central Updated"
 msgstr "Configuração de conta e central de contas atualizadas"
 
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:139
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:138
 msgid ""
 "The Account Setup window and the Account Central tab have both been updated. The Account Central tab appears when you do not have an account setup, or when you select an existing account in the "
 "folder tree."
@@ -3495,7 +3501,7 @@ msgstr ""
 "A janela de configuração de conta e a aba da central de contas foram atualizadas. A aba da central de contas aparece quando você não tem uma conta configurada, ou quando seleciona uma conta "
 "existente na árvore de pastas."
 
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:142
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:141
 msgid ""
 "The layout and dialogues have been improved to make it easier to understand the information displayed and to find relevant settings. The Account Central tab also has new information about the "
 "Thunderbird project and displays the version you are using."
@@ -3503,11 +3509,11 @@ msgstr ""
 "O layout e os diálogos foram aprimorados para facilitar a compreensão das informações exibidas e para encontrar configurações relevantes. A aba da central de contas também contém novas informações "
 "sobre o projeto Thunderbird e exibe a versão que você está usando."
 
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:155
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:154
 msgid "Redesigned Compose Window"
 msgstr "Janela de edição reprojetada"
 
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:158
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:157
 msgid ""
 "The compose window has been reworked to make composing a message faster, easier and more straightforward. The compose window now also takes up less space with recipients listed in “pills” instead of"
 " an entire line for each address."
@@ -3515,15 +3521,15 @@ msgstr ""
 "A janela de redação foi reformulada para tornar a redação de uma mensagem mais rápida, fácil e direta. A janela de redação agora também ocupa menos espaço, com destinatários agrupados em vez de uma "
 "linha inteira para cada endereço."
 
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:161
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:160
 msgid "The redesigned compose window makes it easier to manage many email recipients, and the new intuitive layout helps users to discover its features."
 msgstr "A janela de redação reprojetada facilita gerenciar muitos destinatários de email e o novo layout intuitivo ajuda os usuários a descobrir os recursos."
 
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:177
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:176
 msgid "End-to-End Encrypted Email Support"
 msgstr "Suporte a email criptografado de ponta a ponta"
 
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:180
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:179
 #, python-format
 msgid ""
 "End-to-end encryption for email can be used to ensure that only the sender and the recipients of a message can read the contents. Without this protection it is easy for email providers and mass "
@@ -3534,7 +3540,7 @@ msgstr ""
 "provedores de email e a vigilância em massa ler suas mensagens. Se você quer saber mais sobre como funciona a criptografia de ponta a ponta no Thunderbird, consulte nosso artigo: <a "
 "href=\"%(encryption)s\">Introdução à criptografia de ponta a ponta no Thunderbird</a>."
 
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:197
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:196
 msgid ""
 "There are many other big changes that make Thunderbird 78 a very large release including: calendar and tasks are now integrated into Thunderbird, folder icons are now updated and their colors are "
 "customizable, the preferences are now searchable, and minimize to tray is now supported on Windows."
@@ -3542,16 +3548,16 @@ msgstr ""
 "Há muitas outras grandes mudanças que tornam o Thunderbird 78 um lançamento de grande porte, incluindo: agenda e tarefas agora estão integradas ao Thunderbird, ícones de pastas agora estão "
 "atualizados e suas cores são personalizáveis, as preferências agora são pesquisáveis e minimizar para a bandeja agora é suportado no Windows."
 
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:200
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:199
 #, python-format
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 78.0 and up</a>."
 msgstr "Você pode ver os detalhes de todas as nossas alterações nas notas de atualização do <a href=\"%(release)s\">Thunderbird 78.0 em diante</a>."
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:14 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:20 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:64
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:14 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:20 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:63
 msgid "New in Thunderbird 91"
 msgstr "Novidades no Thunderbird 91"
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:66
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:65
 #, python-format
 msgid ""
 "This article describes some of the major changes visible to users in Thunderbird version 91. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird release notes "
@@ -3560,11 +3566,11 @@ msgstr ""
 "Este artigo descreve algumas das principais mudanças visíveis aos usuários no Thunderbird versão 91. Detalhes completos de todas as mudanças podem ser encontrados nas <a href=\"%(release)s\">notas "
 "de atualização do Thunderbird 91.0 em diante</a>."
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:140
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:139
 msgid "New Account Setup"
 msgstr "Nova configuração de contas"
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:143
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:142
 msgid ""
 "One of the most noticeable changes for Thunderbird 91 is the new account setup wizard. The new wizard not only features a better look, but does auto-discovery of calendars and address books and "
 "allows most users to set them up with just a click. After setting up an account, the wizard also points users at additional (optional) things to do – such as adding a signature or setting up end-to-"
@@ -3574,11 +3580,11 @@ msgstr ""
 "catálogos de endereços, além de permitir que a maioria dos usuários os configure com apenas um clique. Após configurar uma conta, o assistente também indica coisas opcionais a fazer, como adicionar "
 "uma assinatura ou configurar criptografia de ponta a ponta."
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:160
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:159
 msgid "Attachments & Drag-and-Drop"
 msgstr "Anexos e arrastar e soltar"
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:163
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:162
 msgid ""
 "The attachments pane has been moved to the bottom of the compose window for better visibility of filenames as well as being able to see many at once. We’ve also added an overlay that appears when "
 "you drag-and-drop a file into the compose window asking how you would like to handle the file in that email (such as putting a picture in-line in your message or simply attaching it to the email)."
@@ -3587,11 +3593,11 @@ msgstr ""
 "aparece quando você arrasta um arquivo para a janela de redação, para você escolher como lidar com o arquivo naquele email (por exemplo, colocar uma imagem no meio do texto da mensagem ou "
 "simplesmente incluir como anexo)."
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:186
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:185
 msgid "UI Density Control"
 msgstr "Controle de densidade da interface do usuário"
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:189
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:188
 msgid ""
 "Whether you are using it on a large desktop monitor or a small laptop touchscreen, you may want the icons and text of the interface to be larger and more spread out or very compact. In Thunderbird "
 "91, under View -> Density in the menu, you can select the UI density for the entire application. Three options are available: compact (small), normal(medium), and touch(large)."
@@ -3599,11 +3605,11 @@ msgstr ""
 "Esteja em um monitor grande ou em uma tela pequena sensível ao toque, você pode escolher ícones e texto da interface maiores e mais espalhados, ou bem compactos. No Thunderbird 91, no menu Exibir > "
 "Densidade, você pode selecionar a densidade da interface do usuário em todo o aplicativo. Estão disponíveis três opções: compacto (pequeno), normal (médio) e toque (grande)."
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:209
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:208
 msgid "Protect Your Privacy"
 msgstr "Proteja sua privacidade"
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:212
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:211
 msgid ""
 "Whether it’s work or play, you deserve to have privacy when you are online. A VPN, Virtual Private Network, can help you create a secure, private connection to the internet. So that when you are "
 "traveling, connecting to WiFi, or simply want more online security - you know that your information is protected from prying eyes."
@@ -3611,15 +3617,15 @@ msgstr ""
 "Seja para trabalho ou lazer, você merece ter privacidade quando estiver online. Uma VPN, Rede Privada Virtual, pode ajudar a criar uma conexão segura e privativa com a internet. Assim, quando você "
 "viajar, se conectar a uma rede WiFi ou simplesmente quiser mais segurança online, saiba que suas informações estão protegidas de intrometidos."
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:215
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:214
 msgid "Learn More"
 msgstr "Saiba mais"
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:242
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:241
 msgid "Calendar Improvements"
 msgstr "Melhorias na agenda"
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:245
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:244
 msgid ""
 "Managing multiple calendars has been made easier with the calendar sidebar improvements in this release. There is a quick enable button for disabled calendars, a lock indicator for read-only "
 "calendars, and a show/hide icon for easily toggling what calendars are visible. Outside the sidebar, there are now better color accents to highlight the current day in the calendar."
@@ -3627,7 +3633,7 @@ msgstr ""
 "Nesta versão ficou mais fácil gerenciar várias agendas com as melhorias na barra lateral de agendas. Há um botão de ativação rápida em agendas desativadas, um indicador de bloqueio em agendas "
 "somente leitura e um ícone de exibir/ocultar para alternar facilmente quais agendas ficam visíveis. Fora da barra lateral, agora há melhor tonalidades de cor para destacar o dia atual na agenda."
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:265
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:264
 msgid ""
 "Thunderbird’s Dark Theme got even better in this release. In the past some windows and dialogues looked a bit out of place if you had Thunderbird’s dark theme selected. Now almost every dialogue and"
 " window in Thunderbird is fully styled to respect the user’s color scheme preferences."
@@ -3635,11 +3641,11 @@ msgstr ""
 "O tema escuro do Thunderbird ficou ainda melhor nesta versão. Antes, alguns diálogos e janelas pareciam ficar um tanto deslocados se você tivesse o tema escuro do Thunderbird selecionado. Agora, "
 "quase todos os diálogos e janelas do Thunderbird seguem totalmente o estilo para respeitar as preferências de esquema de cores do usuário."
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:286
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:285
 msgid "PDF Viewer"
 msgstr "Visor de PDF"
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:289
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:288
 msgid ""
 "Thunderbird now has a built-in PDF viewer, which means you can read and even do some editing on PDFs sent to you as attachments. You can do all this without ever leaving Thunderbird, allowing you to"
 " return to your inbox without missing a beat."
@@ -3647,31 +3653,31 @@ msgstr ""
 "O Thunderbird agora tem um visor de PDF integrado, o que significa que você pode ler e até mesmo editar algumas coisas em PDFs recebidos como anexos. Você pode fazer tudo isso sem sair do "
 "Thunderbird, permitindo voltar para a caixa de entrada sem perder o ritmo."
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:307
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:306
 msgid "There are many other big changes that make Thunderbird 91 a very large release including:"
 msgstr "Existem muitas outras mudanças consideráveis que tornam o Thunderbird 91 uma atualização de grande escala, incluindo:"
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:310
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:309
 msgid "Native support for macOS devices built with Apple Silicon CPU"
 msgstr "Suporte nativo para dispositivos macOS que têm a CPU Apple Silicon"
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:311
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:310
 msgid "CardDAV Address Book Support (and CardDAV auto-detection support)"
 msgstr "Suporte a catálogos de endereços CardDAV (e suporte à detecção automática de CardDAV)"
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:312
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:311
 msgid "Printing UI updated"
 msgstr "Nova interface do usuário de impressão"
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:313
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:312
 msgid "Ability to change order of accounts in UI"
 msgstr "Capacidade de mudar a ordem das contas na interface do usuário"
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:314
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:313
 msgid "Registers to handle .ics files, letting you preview and import events to the calendar by double clicking the file"
 msgstr "Registros para lidar com arquivos '.ics', permitindo ver e importar eventos para a agenda com um duplo-clique no arquivo"
 
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:317
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:316
 #, python-format
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 91.0 and up</a>."
 msgstr "Você pode ver os detalhes de todas as nossas alterações nas notas de atualização do <a href=\"%(release)s\">Thunderbird 91.0 em diante</a>."
@@ -3773,6 +3779,58 @@ msgstr "Feed Atom de notas de atualização do Thunderbird"
 #: sites/www.thunderbird.net/thunderbird/releases/index.html:18
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
 msgstr "As notas de atualização do Thunderbird são específicas para cada versão. Selecione sua versão na lista abaixo para ver as notas de atualização."
+
+#: sites/www.thunderbird.net/thunderbird/wallpaper/index.html:8
+msgid "Wallpaper"
+msgstr ""
+
+#: sites/www.thunderbird.net/thunderbird/wallpaper/index.html:9
+msgid "Thunderbird Desktop Wallpaper"
+msgstr ""
+
+#: sites/www.thunderbird.net/thunderbird/wallpaper/index.html:17
+msgid "Thunderbird Desktop Wallpaer"
+msgstr ""
+
+#~ msgid "Unsupported Thunderbird Version!"
+#~ msgstr "Versão não suportada do Thunderbird!"
+
+#~ msgid "This is an unsupported version of Thunderbird!!"
+#~ msgstr "Esta é uma versão sem suporte do Thunderbird!!"
+
+#~ msgid "Thunderbird monthly releases are not considered stable for general use."
+#~ msgstr "Os lançamentos mensais do Thunderbird não são considerados estáveis para uso geral."
+
+#~ msgid "Use at your own risk, this build is the same quality as Thunderbird Beta."
+#~ msgstr "Use por sua conta e risco, esta versão tem a mesma qualidade do Thunderbird Beta."
+
+#, python-format
+#~ msgid "We recommend downloading the <a href=\"%(download_url)s\">latest stable version of Thunderbird</a>."
+#~ msgstr "Recomendamos baixar a <a href=\"%(download_url)s\">versão estável mais recente do Thunderbird</a>."
+
+#~ msgid "Sr. Site Reliability Engineer"
+#~ msgstr "Engenheiro sênior de confiabilidade de site"
+
+#~ msgid "Thunderbird Privacy"
+#~ msgstr "Privacidade do Thunderbird"
+
+#, python-format
+#~ msgid "Follow %(twitter)s on Twitter"
+#~ msgstr "Seguir %(twitter)s no Twitter"
+
+#~ msgid ""
+#~ "We truly appreciate your generous support and are happy to offer an easy way for you to give through <b>online bank transfer</b>. We accept donations via direct debit in Euros <b>through Single "
+#~ "European Payment Area (SEPA) transfer</b>. To keep our administrative costs to a minimum, we are unfortunately <b>not able to accept offline SEPA bank transfers using IBAN</b>."
+#~ msgstr ""
+#~ "Agradecemos sinceramente seu generoso apoio e estamos felizes em oferecer uma maneira fácil de doar através de <b>transferência bancária online</b>. Nós aceitamos doações via débito direto em euros "
+#~ "<b>através de transferência na Área Única de Pagamentos em Euros (SEPA)</b>. Para manter nossos custos administrativos ao mínimo, infelizmente <b>não podemos aceitar transferências bancárias SEPA "
+#~ "offline usando IBAN</b>."
+
+#~ msgid "Please visit our secure <b>Online Donation Form</b> to make your donation"
+#~ msgstr "Visite nosso <b>formulário seguro de doação online</b> para fazer sua doação"
+
+#~ msgid "X (Formerly Twitter)"
+#~ msgstr "X (anteriormente Twitter)"
 
 #~ msgid "To update my email address or contact info"
 #~ msgstr "Atualizar meu endereço de email ou informação de contato"
@@ -4859,9 +4917,6 @@ msgstr "As notas de atualização do Thunderbird são específicas para cada ver
 #~ msgid "Secure"
 #~ msgstr "Seguro"
 
-#~ msgid "Privacy Policy"
-#~ msgstr "Política de privacidade"
-
 #~ msgid "Other ways to donate"
 #~ msgstr "Outras formas de doar"
 
@@ -5175,9 +5230,6 @@ msgstr "As notas de atualização do Thunderbird são específicas para cada ver
 
 #~ msgid "Beneficiary Name (For credit to):"
 #~ msgstr "Nome do beneficiário (para crédito de):"
-
-#~ msgid "IBAN:"
-#~ msgstr "IBAN:"
 
 #~ msgid "Memo field:"
 #~ msgstr "Campo de anotação:"
