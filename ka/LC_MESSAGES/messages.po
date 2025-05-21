@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-05-21 09:43-0700\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
@@ -1589,36 +1591,30 @@ msgstr ""
 "დარჩეს თავისუფლად ხელმისაწვდომი."
 
 #: sites/www.thunderbird.net/includes/faq.html:98
-msgid "Why do you need my address in order to process a gift?"
-msgstr "რატომ არის საჭირო ჩემი მისამართი გადარიცხვის შესასრულებლად?"
+msgid "How do you handle my data?"
+msgstr ""
 
 #: sites/www.thunderbird.net/includes/faq.html:101
 #, python-format
 msgid ""
-"We understand that your privacy is very important -- we agree, and that's a core value of ours at Thunderbird and Mozilla. Your address is part of our Payment Processing, Contact and Donation "
-"Information that we outline in our <a href=\"%(url)s\">Privacy Policy</a>. This data is used for payment processing, transactional receipts, fraud detection and record-keeping purposes. If you want "
-"to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
-"Communications & Cookies Privacy Notice</a>."
+"To learn more about the personal information we receive as part of the donation process, the third-party vendors we trust, and how long we keep your data, please review our <a "
+"href=\"%(privacy)s\">Websites, Communications & Cookies Privacy Notice</a>."
 msgstr ""
-"კარგად ვაცნობიერებთ, რომ თქვენი პირადულობა უმნიშვნელოვანესია -- სწორედ ამ მთავარ ღირებულებებზე დაყრდნობით მოქმედებენ Thunderbird და Mozilla. თქვენი მისამართი საჭიროა გადახდის შესასრულებლად, "
-"დაკავშირებისა და შემოწირულობის გაღებისთვის, რაც მიმოხილულია ჩვენს <a href=\"%(url)s\">პირადულობის დებულებაში</a>. ამგვარი მონაცემები გამოიყენება გადახდის დამოწმებისას, გადარიცხვის ქვითრებისთვის, "
-"თაღლითობის გამოსავლენად და ჩანაწერთა აღრიცხვისთვის. თუ უფრო ვრცლად გსურთ გაეცნოთ, რა სახის პირად ინფორმაციას ვიღებთ ჩვენ, ჩვენი სანდო გარეშე მომწოდებლები და რამდენი ხანი ინახება ეს მონაცემები, "
-"გთხოვთ იხილოთ ჩვენი <a href=\"%(website_privacy)s\">ვებსაიტების, ურთიერთკავშირისა და ფუნთუშების პირადულობის განაცხადი</a>."
 
-#: sites/www.thunderbird.net/includes/faq.html:115
+#: sites/www.thunderbird.net/includes/faq.html:110
 msgid "How can I turn off the donation message on the Thunderbird start page?"
 msgstr "როგორ გამოვრთო შემოწირულობის მოთხოვნა Thunderbird-ის მთავარ გვერდზე?"
 
-#: sites/www.thunderbird.net/includes/faq.html:118
+#: sites/www.thunderbird.net/includes/faq.html:113
 #, python-format
 msgid "To learn how to customize your start page please visit:<br/><a href=\"%(url)s\">%(url)s</a>"
 msgstr "თუ როგორ შეგიძლიათ შეცვალოთ თქვენი საწყისი გვერდი, იხილეთ:<br/><a href=\"%(url)s\">%(url)s</a>"
 
-#: sites/www.thunderbird.net/includes/faq.html:126
+#: sites/www.thunderbird.net/includes/faq.html:121
 msgid "How can I get a business receipt?"
 msgstr "როგორ მივიღო ბიზნესქვითარი?"
 
-#: sites/www.thunderbird.net/includes/faq.html:129
+#: sites/www.thunderbird.net/includes/faq.html:124
 #, python-format
 msgid ""
 "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box <strong>'Donate as an Organization'</strong> and include your company name. Your transaction receipt will include"
@@ -1627,11 +1623,11 @@ msgstr ""
 "როცა თანხას გაიღებთ <a href=\"%(donate)s\">ინტერნეტის ველიდან</a>, მხოლოდ მონიშნეთ უჯრა <strong>'შემოწირულობა დაწესებულებისგან'</strong> და დაურთეთ თქვენი კომპანიის სახელი. გადარიცხვის ქვითარში "
 "მითითებული იქნება თქვენი კომპანიის დასახელება. თუ ქვითრის ასლი გესაჭიროებათ, ჩამოტვირთეთ <strong><a href=\"%(modify)s\">შემწირველთა გვერდიდან</a></strong>."
 
-#: sites/www.thunderbird.net/includes/faq.html:139
+#: sites/www.thunderbird.net/includes/faq.html:134
 msgid "Is my donation secure?"
 msgstr "ჩემი შემოწირულობა დაცულია?"
 
-#: sites/www.thunderbird.net/includes/faq.html:142
+#: sites/www.thunderbird.net/includes/faq.html:137
 #, python-format
 msgid ""
 "Yes, we use industry-standard SSL technology to keep your information secure. We partner with Stripe, the industry's established payment processor trusted by some of the world's largest companies. "
@@ -1642,11 +1638,11 @@ msgstr ""
 "კომპანია. თქვენი საფრთხილო ფინანსური მონაცემები არასოდეს მოხვდება ჩვენს სერვერებზე. ინფორმაცია პირდაპირ იგზავნება Stripe-ის PCI-ს შესაბამის სერვერებზე SSL-ით. ჩვენთვის მნიშვნელოვანია თქვენი "
 "პირადულობის უზრუნველყოფა. ვრცლად გთხოვთ, იხილოთ <a href=\"%(privacy)s\">Mozilla-ს პირადი მონაცემების დაცვის დებულება</a>."
 
-#: sites/www.thunderbird.net/includes/faq.html:154
+#: sites/www.thunderbird.net/includes/faq.html:149
 msgid "Can I request a refund?"
 msgstr "შემიძლია თანხის დაბრუნების მოთხოვნა?"
 
-#: sites/www.thunderbird.net/includes/faq.html:157
+#: sites/www.thunderbird.net/includes/faq.html:152
 #, python-format
 msgid ""
 "Your donation may be eligible for a refund. You must <strong>contact us within 15 days of payment date.</strong> If you believe this payment was made without your authorization, please contact us "
@@ -1657,11 +1653,11 @@ msgstr ""
 "შეგვეხმიანოთ დაუყოვნებლივ. <strong>თუ გამოყენებულია ACH ან SEPA პირდაპირი სადებეტო გადახდით, შემოწირულობის დაბრუნება ვერ მოხერხდება.</strong> ამ მოქმედებების თავისებურებიდან გამომდინარე, ჩვენი "
 "დებულება უპირატესობას ანიჭებს თანხის თაღლითურად დაბრუნების შემთხვევების აღკვეთას. გვჯერა თქვენი გულისხმიერების. დახმარებისთვის <a href=\"%(help)s\">გთხოვთ, დაგვიკავშირდეთ</a>."
 
-#: sites/www.thunderbird.net/includes/faq.html:169
+#: sites/www.thunderbird.net/includes/faq.html:164
 msgid "Are there additional fees added to my donation?"
 msgstr "დამატებითი გადასახადიც ახლავს ჩემს შემოწირულობას?"
 
-#: sites/www.thunderbird.net/includes/faq.html:172
+#: sites/www.thunderbird.net/includes/faq.html:167
 msgid ""
 "We do not collect any additional fees or taxes. When you donate in your local currency you are not charged a conversion fee by your credit card. You can choose to also cover the payment processing "
 "transaction costs. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to research any"
@@ -1672,11 +1668,11 @@ msgstr ""
 "ველების არეში მოსანიშნის მეშვეობით. ჩვენი დაწესებულება დაარსებულია შეერთებულ შტატებში. მოვუწოდებთ ყველა შემომწირველს, კარგად მოიძიონ დამატებითი გადასახადები ან მოსაკრებლები, რომლებიც შეიძლება "
 "მარეგულირებლებმა ჩამოჭრას, მათ შორის საკუთარმა ბანკმა ან საგადასახადო ორგანომ."
 
-#: sites/www.thunderbird.net/includes/faq.html:184
+#: sites/www.thunderbird.net/includes/faq.html:179
 msgid "What do the transaction costs cover?"
 msgstr "რას მოიცავს გადარიცხვის ხარჯები?"
 
-#: sites/www.thunderbird.net/includes/faq.html:187
+#: sites/www.thunderbird.net/includes/faq.html:182
 msgid ""
 "When you opt to cover our payment transaction costs, you're covering both our payment processing and donation platform fees. The costs associated with our robust online donation system allows us to "
 "continue scaling sustainably as our supporter-base grows. Our donation platform and payment processor partners reduce internal costs associated with maintaining our own system from scratch. Our "
@@ -1688,11 +1684,11 @@ msgstr ""
 "სისტემის შესანარჩუნებლად. ისინი უზრუნველყოფენ, რომ შევძლოთ მრავალი სახის ვალუტით/გადახდის საშუალებით სარგებლობა და შევინარჩუნოთ PCI-თავსებადობა ყველა იმ ქვეყანაში, საიდანაც ვიღებთ შემოწირულობებს. "
 "გადარიცხვის ხარჯები, რომლებიც შეგიძლიათ დაფაროთ, გამოთვლილია ჩვენი საერთო ხარჯების მიახლოებითი შეფასებით. სინამდვილეში ხარჯები შეიძლება მერყეობდეს სხვადასხვა გარემოების შესაბამისად."
 
-#: sites/www.thunderbird.net/includes/faq.html:200
+#: sites/www.thunderbird.net/includes/faq.html:195
 msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
 msgstr "რატომ აღირიცხება ერთჯერადი სახის შემოწირულობები განმეორებითი სახით SEPA-ს განკარგულებებში?"
 
-#: sites/www.thunderbird.net/includes/faq.html:203
+#: sites/www.thunderbird.net/includes/faq.html:198
 msgid ""
 "When making a one-time gift through SEPA direct debit, you may notice a mention of recurrent transactions. This is because our payment processor Stripe only supports recurring transactions for this "
 "type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
@@ -1702,37 +1698,37 @@ msgstr ""
 "განმეორებითი გადარიცხვებით ამგვარი სახით გადახდის შემთხვევაში. მიუხედავად ამისა, თანხა მხოლოდ ერთჯერადად ჩამოგეჭრებათ და თქვენი ნებართვის გარეშე ამ ანგარიშიდან გადახდა მეტჯერ აღარ მოხდება. "
 "განკარგულების შესაბამისად მიიღებთ შემოწირულობის ოფიციალურ ქვითარს, რომელშიც ნათლად იქნება ასახული ერთჯერადი შემოწირულობა."
 
-#: sites/www.thunderbird.net/includes/faq.html:211
+#: sites/www.thunderbird.net/includes/faq.html:206
 msgid "Can I give in cryptocurrencies?"
 msgstr "შემიძლია კრიპტოვალუტის შემოწირვა?"
 
-#: sites/www.thunderbird.net/includes/faq.html:214
+#: sites/www.thunderbird.net/includes/faq.html:209
 msgid "<strong>No.</strong> We are not currently accepting cryptocurrency gifts."
 msgstr "<strong>არა.</strong> ჩვენ ამჟამად არ ვიღებთ შემოწირულობებს კრიპტოვალუტაში."
 
-#: sites/www.thunderbird.net/includes/faq.html:222
+#: sites/www.thunderbird.net/includes/faq.html:217
 msgid "How will my gift be used?"
 msgstr "რისთვის გამოიყენება ჩემი შემოწირულობა?"
 
-#: sites/www.thunderbird.net/includes/faq.html:225
+#: sites/www.thunderbird.net/includes/faq.html:220
 msgid "Thunderbird is the leading open source email and productivity app that is free for business and personal use. Your gift helps ensure it stays that way, and supports ongoing development."
 msgstr ""
 "Thunderbird არის წამყვანი, ღია წყაროს კოდის მქონე, ელფოსტისა და შედეგიანობისთვის განკუთვნილი უფასო პროგრამა, პირადი და მომგებიანი საქმიანობისთვის. თქვენი შემოწირულობა დაგვეხმარება მომსახურების "
 "მაღალი დონის შენარჩუნებასა და მომავალი განვითარებისთვის."
 
-#: sites/www.thunderbird.net/includes/faq.html:234
+#: sites/www.thunderbird.net/includes/faq.html:229
 msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
 msgstr "რითაა ერთმანეთთან დაკავშირებული Thunderbird და MZLA Technologies Corporation?"
 
-#: sites/www.thunderbird.net/includes/faq.html:237
+#: sites/www.thunderbird.net/includes/faq.html:232
 msgid "MZLA Technologies Corporation is a wholly owned for-profit subsidiary of the Mozilla Foundation and the home of Thunderbird."
 msgstr "MZLA Technologies Corporation სრულად ეკუთვნის შვილობილ კომპანიად Mozilla-ფონდს და აგრეთვე სახლია Thunderbird-ისთვის."
 
-#: sites/www.thunderbird.net/includes/faq.html:245
+#: sites/www.thunderbird.net/includes/faq.html:240
 msgid "Doesn’t Thunderbird earn income?"
 msgstr "Thunderbird-ს არ მოაქვს შემოსავალი?"
 
-#: sites/www.thunderbird.net/includes/faq.html:248
+#: sites/www.thunderbird.net/includes/faq.html:243
 #, python-format
 msgid "Currently, nearly 100% of Thunderbird’s operating revenue comes from the generous gifts of Thunderbird users."
 msgstr "ამჟამად Thunderbird-ის საქმიანობისთვის საჭირო შემოსავლის თითქმის 100% Thunderbird-ის მომხმარებლების კეთილშობილურ ძღვენს წარმოადგენს."
@@ -3913,3 +3909,18 @@ msgstr "Thunderbird-ის სამუშაო ეკრანის ფონ
 #: sites/www.thunderbird.net/thunderbird/wallpaper/index.html:17
 msgid "Thunderbird Desktop Wallpaer"
 msgstr "Thunderbird-ის სამუშაო ეკრანის ფონი"
+
+#~ msgid "Why do you need my address in order to process a gift?"
+#~ msgstr "რატომ არის საჭირო ჩემი მისამართი გადარიცხვის შესასრულებლად?"
+
+#, python-format
+#~ msgid ""
+#~ "We understand that your privacy is very important -- we agree, and that's a core value of ours at Thunderbird and Mozilla. Your address is part of our Payment Processing, Contact and Donation "
+#~ "Information that we outline in our <a href=\"%(url)s\">Privacy Policy</a>. This data is used for payment processing, transactional receipts, fraud detection and record-keeping purposes. If you want "
+#~ "to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
+#~ "Communications & Cookies Privacy Notice</a>."
+#~ msgstr ""
+#~ "კარგად ვაცნობიერებთ, რომ თქვენი პირადულობა უმნიშვნელოვანესია -- სწორედ ამ მთავარ ღირებულებებზე დაყრდნობით მოქმედებენ Thunderbird და Mozilla. თქვენი მისამართი საჭიროა გადახდის შესასრულებლად, "
+#~ "დაკავშირებისა და შემოწირულობის გაღებისთვის, რაც მიმოხილულია ჩვენს <a href=\"%(url)s\">პირადულობის დებულებაში</a>. ამგვარი მონაცემები გამოიყენება გადახდის დამოწმებისას, გადარიცხვის ქვითრებისთვის, "
+#~ "თაღლითობის გამოსავლენად და ჩანაწერთა აღრიცხვისთვის. თუ უფრო ვრცლად გსურთ გაეცნოთ, რა სახის პირად ინფორმაციას ვიღებთ ჩვენ, ჩვენი სანდო გარეშე მომწოდებლები და რამდენი ხანი ინახება ეს მონაცემები, "
+#~ "გთხოვთ იხილოთ ჩვენი <a href=\"%(website_privacy)s\">ვებსაიტების, ურთიერთკავშირისა და ფუნთუშების პირადულობის განაცხადი</a>."

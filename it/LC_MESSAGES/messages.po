@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-05-21 09:43-0700\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
@@ -1575,36 +1577,30 @@ msgstr ""
 "disponibili per gli utenti di tutto il mondo. Il tuo supporto garantisce anche che le nostre app principali rimangano gratuite per tutti."
 
 #: sites/www.thunderbird.net/includes/faq.html:98
-msgid "Why do you need my address in order to process a gift?"
-msgstr "Perché bisogna fornire l’indirizzo per fare una donazione?"
+msgid "How do you handle my data?"
+msgstr ""
 
 #: sites/www.thunderbird.net/includes/faq.html:101
 #, python-format
 msgid ""
-"We understand that your privacy is very important -- we agree, and that's a core value of ours at Thunderbird and Mozilla. Your address is part of our Payment Processing, Contact and Donation "
-"Information that we outline in our <a href=\"%(url)s\">Privacy Policy</a>. This data is used for payment processing, transactional receipts, fraud detection and record-keeping purposes. If you want "
-"to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
-"Communications & Cookies Privacy Notice</a>."
+"To learn more about the personal information we receive as part of the donation process, the third-party vendors we trust, and how long we keep your data, please review our <a "
+"href=\"%(privacy)s\">Websites, Communications & Cookies Privacy Notice</a>."
 msgstr ""
-"Siamo consapevoli che la tua privacy è importante, per questo il rispetto della privacy è uno dei valori fondamentali di Thunderbird e Mozilla. Il tuo indirizzo è incluso nelle sezioni “Elaborazione"
-" pagamenti\" e “Informazioni di contatto e sulle donazioni” della nostra <a href=\"%(url)s\">informativa sulla privacy</a>. Questi dati vengono utilizzati per l’elaborazione dei pagamenti, la "
-"generazione di ricevute per le transazioni, il rilevamento di frodi e l’archiviazione di documenti. Per ulteriori informazioni sulle informazioni personali che riceviamo, sui fornitori di terze "
-"parti di cui ci fidiamo e per quanto tempo conserviamo i tuoi dati, consulta la pagina <a href=\"%(website_privacy)s\">Siti web, comunicazioni e Informativa sulla privacy e sui cookie</a>."
 
-#: sites/www.thunderbird.net/includes/faq.html:115
+#: sites/www.thunderbird.net/includes/faq.html:110
 msgid "How can I turn off the donation message on the Thunderbird start page?"
 msgstr "Come posso disattivare la richiesta di donazione presente sulla pagina iniziale di Thunderbird?"
 
-#: sites/www.thunderbird.net/includes/faq.html:118
+#: sites/www.thunderbird.net/includes/faq.html:113
 #, python-format
 msgid "To learn how to customize your start page please visit:<br/><a href=\"%(url)s\">%(url)s</a>"
 msgstr "Per scoprire come personalizzare la tua pagina iniziale visita: <br/><a href=\"%(url)s\">%(url)s</a>"
 
-#: sites/www.thunderbird.net/includes/faq.html:126
+#: sites/www.thunderbird.net/includes/faq.html:121
 msgid "How can I get a business receipt?"
 msgstr "Come posso ricevere una fattura commerciale?"
 
-#: sites/www.thunderbird.net/includes/faq.html:129
+#: sites/www.thunderbird.net/includes/faq.html:124
 #, python-format
 msgid ""
 "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box <strong>'Donate as an Organization'</strong> and include your company name. Your transaction receipt will include"
@@ -1614,11 +1610,11 @@ msgstr ""
 "della tua azienda, che apparirà sulla ricevuta della transazione. Se hai bisogno di una copia della ricevuta, scaricala dal nostro <strong><a href=\"%(modify)s\">Portale per le "
 "donazioni</a></strong>."
 
-#: sites/www.thunderbird.net/includes/faq.html:139
+#: sites/www.thunderbird.net/includes/faq.html:134
 msgid "Is my donation secure?"
 msgstr "La mia donazione è sicura?"
 
-#: sites/www.thunderbird.net/includes/faq.html:142
+#: sites/www.thunderbird.net/includes/faq.html:137
 #, python-format
 msgid ""
 "Yes, we use industry-standard SSL technology to keep your information secure. We partner with Stripe, the industry's established payment processor trusted by some of the world's largest companies. "
@@ -1629,11 +1625,11 @@ msgstr ""
 " delle più grandi aziende del mondo. I tuoi dati finanziari sensibili non vengono mai elaborati nei nostri server. Inviamo tutti i dati direttamente ai server di Stripe tramite SSL, in conformità "
 "alla normativa PCI. Siamo consapevoli che la tua privacy è molto importante. Per maggiori dettagli, fai riferimento all’<a href=\"%(privacy)s\">Informativa sulla privacy di Mozilla</a>."
 
-#: sites/www.thunderbird.net/includes/faq.html:154
+#: sites/www.thunderbird.net/includes/faq.html:149
 msgid "Can I request a refund?"
 msgstr "Posso chiedere un rimborso?"
 
-#: sites/www.thunderbird.net/includes/faq.html:157
+#: sites/www.thunderbird.net/includes/faq.html:152
 #, python-format
 msgid ""
 "Your donation may be eligible for a refund. You must <strong>contact us within 15 days of payment date.</strong> If you believe this payment was made without your authorization, please contact us "
@@ -1645,11 +1641,11 @@ msgstr ""
 "transazioni, la nostra politica ha come priorità la riduzione al minimo delle frodi sui rimborsi. Ti ringraziamo per la tua comprensione. Se hai bisogno di assistenza, <a "
 "href=\"%(help)s\">contattaci</a>."
 
-#: sites/www.thunderbird.net/includes/faq.html:169
+#: sites/www.thunderbird.net/includes/faq.html:164
 msgid "Are there additional fees added to my donation?"
 msgstr "Vengono applicati ulteriori costi alla mia donazione?"
 
-#: sites/www.thunderbird.net/includes/faq.html:172
+#: sites/www.thunderbird.net/includes/faq.html:167
 msgid ""
 "We do not collect any additional fees or taxes. When you donate in your local currency you are not charged a conversion fee by your credit card. You can choose to also cover the payment processing "
 "transaction costs. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to research any"
@@ -1660,11 +1656,11 @@ msgstr ""
 "donazione. La nostra organizzazione ha sede negli Stati Uniti. Invitiamo chiunque voglia effettuare una donazione a informarsi su eventuali tasse o commissioni aggiuntive che potrebbero essere "
 "applicate da enti regolatori come banche o autorità fiscali."
 
-#: sites/www.thunderbird.net/includes/faq.html:184
+#: sites/www.thunderbird.net/includes/faq.html:179
 msgid "What do the transaction costs cover?"
 msgstr "Che cos’è incluso nei costi di transazione?"
 
-#: sites/www.thunderbird.net/includes/faq.html:187
+#: sites/www.thunderbird.net/includes/faq.html:182
 msgid ""
 "When you opt to cover our payment transaction costs, you're covering both our payment processing and donation platform fees. The costs associated with our robust online donation system allows us to "
 "continue scaling sustainably as our supporter-base grows. Our donation platform and payment processor partners reduce internal costs associated with maintaining our own system from scratch. Our "
@@ -1677,11 +1673,11 @@ msgstr ""
 "accettare un’ampia gamma di valute e metodi di pagamento e di rimanere conformi alla normativa PCI in tutti i Paesi da cui accettiamo donazioni. I costi di transazione che puoi scegliere di "
 "includere si basano su una stima dei costi complessivi. A causa di molti fattori, i costi effettivi possono variare."
 
-#: sites/www.thunderbird.net/includes/faq.html:200
+#: sites/www.thunderbird.net/includes/faq.html:195
 msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
 msgstr "Perché le donazioni una tantum compaiono come ricorrenti nei mandati SEPA?"
 
-#: sites/www.thunderbird.net/includes/faq.html:203
+#: sites/www.thunderbird.net/includes/faq.html:198
 msgid ""
 "When making a one-time gift through SEPA direct debit, you may notice a mention of recurrent transactions. This is because our payment processor Stripe only supports recurring transactions for this "
 "type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
@@ -1691,37 +1687,37 @@ msgstr ""
 "pagamenti) supporta solo transazioni ricorrenti per questo tipo di pagamento. Indipendentemente da ciò, addebiteremo la donazione una sola volta e non effettueremo ulteriori pagamenti sul tuo "
 "account senza la tua autorizzazione. Dopo il mandato, riceverai una ricevuta ufficiale che rifletterà chiaramente la donazione come una tantum."
 
-#: sites/www.thunderbird.net/includes/faq.html:211
+#: sites/www.thunderbird.net/includes/faq.html:206
 msgid "Can I give in cryptocurrencies?"
 msgstr "Posso effettuare una donazione tramite criptovalute?"
 
-#: sites/www.thunderbird.net/includes/faq.html:214
+#: sites/www.thunderbird.net/includes/faq.html:209
 msgid "<strong>No.</strong> We are not currently accepting cryptocurrency gifts."
 msgstr "<strong>No</strong>, al momento non accettiamo donazioni in criptovalute."
 
-#: sites/www.thunderbird.net/includes/faq.html:222
+#: sites/www.thunderbird.net/includes/faq.html:217
 msgid "How will my gift be used?"
 msgstr "Come verrà utilizzata la mia donazione?"
 
-#: sites/www.thunderbird.net/includes/faq.html:225
+#: sites/www.thunderbird.net/includes/faq.html:220
 msgid "Thunderbird is the leading open source email and productivity app that is free for business and personal use. Your gift helps ensure it stays that way, and supports ongoing development."
 msgstr ""
 "Thunderbird è la principale app open source per posta elettronica e produttività, gratuita sia per uso personale che commerciale. La tua donazione ci aiuta a garantire che rimanga tale e ne supporta"
 " il continuo sviluppo."
 
-#: sites/www.thunderbird.net/includes/faq.html:234
+#: sites/www.thunderbird.net/includes/faq.html:229
 msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
 msgstr "Qual è il rapporto tra Thunderbird e MZLA Technologies Corporation?"
 
-#: sites/www.thunderbird.net/includes/faq.html:237
+#: sites/www.thunderbird.net/includes/faq.html:232
 msgid "MZLA Technologies Corporation is a wholly owned for-profit subsidiary of the Mozilla Foundation and the home of Thunderbird."
 msgstr "MZLA Technologies Corporation è una società sussidiaria a fini di lucro interamente controllata da Mozilla Foundation, nonché la “casa” di Thunderbird."
 
-#: sites/www.thunderbird.net/includes/faq.html:245
+#: sites/www.thunderbird.net/includes/faq.html:240
 msgid "Doesn’t Thunderbird earn income?"
 msgstr "Thunderbird non genera ricavi?"
 
-#: sites/www.thunderbird.net/includes/faq.html:248
+#: sites/www.thunderbird.net/includes/faq.html:243
 #, python-format
 msgid "Currently, nearly 100% of Thunderbird’s operating revenue comes from the generous gifts of Thunderbird users."
 msgstr "Attualmente, quasi il 100% dei ricavi operativi di Thunderbird proviene dalle generose donazioni dei suoi utilizzatori."
@@ -3905,3 +3901,18 @@ msgstr "Sfondo di Thunderbird per computer desktop"
 #: sites/www.thunderbird.net/thunderbird/wallpaper/index.html:17
 msgid "Thunderbird Desktop Wallpaer"
 msgstr "Sfondo di Thunderbird per computer desktop"
+
+#~ msgid "Why do you need my address in order to process a gift?"
+#~ msgstr "Perché bisogna fornire l’indirizzo per fare una donazione?"
+
+#, python-format
+#~ msgid ""
+#~ "We understand that your privacy is very important -- we agree, and that's a core value of ours at Thunderbird and Mozilla. Your address is part of our Payment Processing, Contact and Donation "
+#~ "Information that we outline in our <a href=\"%(url)s\">Privacy Policy</a>. This data is used for payment processing, transactional receipts, fraud detection and record-keeping purposes. If you want "
+#~ "to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
+#~ "Communications & Cookies Privacy Notice</a>."
+#~ msgstr ""
+#~ "Siamo consapevoli che la tua privacy è importante, per questo il rispetto della privacy è uno dei valori fondamentali di Thunderbird e Mozilla. Il tuo indirizzo è incluso nelle sezioni “Elaborazione"
+#~ " pagamenti\" e “Informazioni di contatto e sulle donazioni” della nostra <a href=\"%(url)s\">informativa sulla privacy</a>. Questi dati vengono utilizzati per l’elaborazione dei pagamenti, la "
+#~ "generazione di ricevute per le transazioni, il rilevamento di frodi e l’archiviazione di documenti. Per ulteriori informazioni sulle informazioni personali che riceviamo, sui fornitori di terze "
+#~ "parti di cui ci fidiamo e per quanto tempo conserviamo i tuoi dati, consulta la pagina <a href=\"%(website_privacy)s\">Siti web, comunicazioni e Informativa sulla privacy e sui cookie</a>."

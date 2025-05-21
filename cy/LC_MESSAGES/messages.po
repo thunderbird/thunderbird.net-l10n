@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-05-21 09:43-0700\n"
 "Language: cy\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n == 3) ? 3 : ((n == 6) ? 4 : 5))));\n"
 "Generated-By: Pontoon\n"
@@ -1581,36 +1583,30 @@ msgstr ""
 "traws-lwyfan cod agored blaengar, sydd am ddim at ddefnydd busnes a phersonol. Bydd eich rhodd yn helpu i sicrhau ei fod yn aros felly, a bydd yn cefnogi ei ddatblygiad i'r dyfodol."
 
 #: sites/www.thunderbird.net/includes/faq.html:98
-msgid "Why do you need my address in order to process a gift?"
-msgstr "Pam mae angen fy nghyfeiriad arnoch er mwyn prosesu rhodd?"
+msgid "How do you handle my data?"
+msgstr ""
 
 #: sites/www.thunderbird.net/includes/faq.html:101
 #, python-format
 msgid ""
-"We understand that your privacy is very important -- we agree, and that's a core value of ours at Thunderbird and Mozilla. Your address is part of our Payment Processing, Contact and Donation "
-"Information that we outline in our <a href=\"%(url)s\">Privacy Policy</a>. This data is used for payment processing, transactional receipts, fraud detection and record-keeping purposes. If you want "
-"to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
-"Communications & Cookies Privacy Notice</a>."
+"To learn more about the personal information we receive as part of the donation process, the third-party vendors we trust, and how long we keep your data, please review our <a "
+"href=\"%(privacy)s\">Websites, Communications & Cookies Privacy Notice</a>."
 msgstr ""
-"Rydym yn deall bod eich preifatrwydd yn bwysig iawn -- rydym yn cytuno, ac mae hynny'n un o'n gwerthoedd craidd ni yn Thunderbird a Mozilla. Mae eich cyfeiriad yn rhan o'n Manylion Prosesu Talu, "
-"Cyswllt a Rhoi rydym yn ei hamlinellu yn ein <a href=\"%(url)s\">Polisi Preifatrwydd</a>. Mae'r data hwn yn cael ei ddefnyddio at ddibenion prosesu taliadau, derbynebau trafodion, canfod twyll a "
-"chadw cofnodion. Os hoffech wybod mwy am y data manylion personol rydym yn ei dderbyn, y gwerthwyr trydydd parti rydym yn ymddiried ynddyn nhw, a pha mor hir rydym yn cadw eich data, darllenwch ein "
-"<a href=\"%(website_privacy)s\">Hysbysiad Preifatrwydd Gwefannau, Cyfathrebu a Chwcis</a>."
 
-#: sites/www.thunderbird.net/includes/faq.html:115
+#: sites/www.thunderbird.net/includes/faq.html:110
 msgid "How can I turn off the donation message on the Thunderbird start page?"
 msgstr "A oes modd i mi i ddiffodd yr apêl ar dudalen gychwyn Thunderbird?"
 
-#: sites/www.thunderbird.net/includes/faq.html:118
+#: sites/www.thunderbird.net/includes/faq.html:113
 #, python-format
 msgid "To learn how to customize your start page please visit:<br/><a href=\"%(url)s\">%(url)s</a>"
 msgstr "I weld sut i newid eich tudalen gychwyn ewch i:<br/><a href=\"%(url)s\">%(url)s</a>"
 
-#: sites/www.thunderbird.net/includes/faq.html:126
+#: sites/www.thunderbird.net/includes/faq.html:121
 msgid "How can I get a business receipt?"
 msgstr "Sut ga i dderbynneb busnes?"
 
-#: sites/www.thunderbird.net/includes/faq.html:129
+#: sites/www.thunderbird.net/includes/faq.html:124
 #, python-format
 msgid ""
 "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box <strong>'Donate as an Organization'</strong> and include your company name. Your transaction receipt will include"
@@ -1619,11 +1615,11 @@ msgstr ""
 "Pan fyddwch yn rhoi drwy ein <a href=\"%(donate)s\">ffurflen ar-lein</a>, ticiwch y blwch <strong>'Cyfrannu fel Sefydliad'</strong> a chynnwys enw eich cwmni. Bydd eich derbynneb trafodiad yn "
 "cynnwys enw eich cwmni. Os oes angen copi o'ch derbynneb arnoch, llwythwch ef i lawr o'n <strong><a href=\"%(modify)s\">Porth Rhoddwyr</a></strong>."
 
-#: sites/www.thunderbird.net/includes/faq.html:139
+#: sites/www.thunderbird.net/includes/faq.html:134
 msgid "Is my donation secure?"
 msgstr "A yw fy rhodd yn ddiogel?"
 
-#: sites/www.thunderbird.net/includes/faq.html:142
+#: sites/www.thunderbird.net/includes/faq.html:137
 #, python-format
 msgid ""
 "Yes, we use industry-standard SSL technology to keep your information secure. We partner with Stripe, the industry's established payment processor trusted by some of the world's largest companies. "
@@ -1634,11 +1630,11 @@ msgstr ""
 "ymddiried ynddo. Nid yw eich manylion ariannol sensitif byth yn cyffwrdd â'n gweinyddion. Rydym yn anfon yr holl ddata yn uniongyrchol at weinyddion sy'n cydymffurfio â PCI Stripe trwy SSL. Rydym yn"
 " deall bod eich preifatrwydd yn bwysig iawn. Am wybodaeth bellach cyfeiriwch at <a href=\"%(privacy)s\">Bolisi Preifatrwydd Mozilla</a>."
 
-#: sites/www.thunderbird.net/includes/faq.html:154
+#: sites/www.thunderbird.net/includes/faq.html:149
 msgid "Can I request a refund?"
 msgstr "A allaf ofyn am ad-daliad?"
 
-#: sites/www.thunderbird.net/includes/faq.html:157
+#: sites/www.thunderbird.net/includes/faq.html:152
 #, python-format
 msgid ""
 "Your donation may be eligible for a refund. You must <strong>contact us within 15 days of payment date.</strong> If you believe this payment was made without your authorization, please contact us "
@@ -1649,11 +1645,11 @@ msgstr ""
 "caniatâd, cysylltwch â ni ar unwaith. <strong>Nid yw rhoddion sydd wedi eu gwneud trwy ddebyd uniongyrchol ACH neu SEPA yn gymwys i gael ad-daliadau.</strong> Oherwydd natur y trafodion hyn mae ein "
 "polisi yn rhoi blaenoriaeth i leihau twyll ad-daliadau. Rydym yn gwerthfawrogi eich dealltwriaeth am hyn. Os ydych angen cymorth, <a href=\"%(help)s\">cysylltwch â ni</a>, os gwelwch yn dda."
 
-#: sites/www.thunderbird.net/includes/faq.html:169
+#: sites/www.thunderbird.net/includes/faq.html:164
 msgid "Are there additional fees added to my donation?"
 msgstr "A oes ffioedd ychwanegol at fy rhodd?"
 
-#: sites/www.thunderbird.net/includes/faq.html:172
+#: sites/www.thunderbird.net/includes/faq.html:167
 msgid ""
 "We do not collect any additional fees or taxes. When you donate in your local currency you are not charged a conversion fee by your credit card. You can choose to also cover the payment processing "
 "transaction costs. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to research any"
@@ -1663,11 +1659,11 @@ msgstr ""
 "costau trafodion yn eich rhodd. Mae hyn yn gwbl wirfoddol a gallwch optio i mewn neu allan gan ddefnyddio'r blwch ticio ar ein ffurflen gyfrannu. Mae ein sefydliad wedi'i leoli yn yr Unol "
 "Daleithiau. Rydym yn annog rhoddwyr i ymchwilio i unrhyw drethi neu ffioedd allanol ychwanegol y mae modd eu gosod gan reoleiddwyr fel eich banc neu awdurdod trethi."
 
-#: sites/www.thunderbird.net/includes/faq.html:184
+#: sites/www.thunderbird.net/includes/faq.html:179
 msgid "What do the transaction costs cover?"
 msgstr "Beth mae costau trafodion yn ei gynnwys?"
 
-#: sites/www.thunderbird.net/includes/faq.html:187
+#: sites/www.thunderbird.net/includes/faq.html:182
 msgid ""
 "When you opt to cover our payment transaction costs, you're covering both our payment processing and donation platform fees. The costs associated with our robust online donation system allows us to "
 "continue scaling sustainably as our supporter-base grows. Our donation platform and payment processor partners reduce internal costs associated with maintaining our own system from scratch. Our "
@@ -1679,11 +1675,11 @@ msgstr ""
 "ein hunain o'r dechrau. Mae ein partneriaid yn sicrhau y gallwn dderbyn ystod eang o arian cyfred/dulliau talu ac yn parhau i gydymffurfio â PCI ym mhob un o'r gwledydd rydym yn derbyn rhoddion oddi"
 " wrthyn nhw. Mae'r costau trafodion y gall rhoddwyr ddewis eu talu yn seiliedig ar amcangyfrif o'n costau cyffredinol. Oherwydd llawer o ffactorau gall costau gwirioneddol amrywio."
 
-#: sites/www.thunderbird.net/includes/faq.html:200
+#: sites/www.thunderbird.net/includes/faq.html:195
 msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
 msgstr "Pam mae rhoddion un-tro yn ymddangos fel rhai cylchol yng ngorchymyn SEPA?"
 
-#: sites/www.thunderbird.net/includes/faq.html:203
+#: sites/www.thunderbird.net/includes/faq.html:198
 msgid ""
 "When making a one-time gift through SEPA direct debit, you may notice a mention of recurrent transactions. This is because our payment processor Stripe only supports recurring transactions for this "
 "type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
@@ -1693,37 +1689,37 @@ msgstr ""
 " ein prosesydd taliadau Stripe yn ei gefnogi . Er hynny, dim ond unwaith y byddwn yn codi tâl arnoch ac ni fyddwn yn gwneud unrhyw daliadau pellach ar eich cyfrif heb i chi ei awdurdodi. Yn dilyn y "
 "mandad, byddwch yn derbyn derbynneb rhodd swyddogol a fydd yn dangos yn glir y rhodd un-tro."
 
-#: sites/www.thunderbird.net/includes/faq.html:211
+#: sites/www.thunderbird.net/includes/faq.html:206
 msgid "Can I give in cryptocurrencies?"
 msgstr "A allaf roi arian cyfred digidol i mewn?"
 
-#: sites/www.thunderbird.net/includes/faq.html:214
+#: sites/www.thunderbird.net/includes/faq.html:209
 msgid "<strong>No.</strong> We are not currently accepting cryptocurrency gifts."
 msgstr "<strong>Na.</strong> Nid ydym yn derbyn rhoddion arian cyfred digidol ar hyn o bryd."
 
-#: sites/www.thunderbird.net/includes/faq.html:222
+#: sites/www.thunderbird.net/includes/faq.html:217
 msgid "How will my gift be used?"
 msgstr "Sut fydd fy rhodd yn cael ei defnyddio?"
 
-#: sites/www.thunderbird.net/includes/faq.html:225
+#: sites/www.thunderbird.net/includes/faq.html:220
 msgid "Thunderbird is the leading open source email and productivity app that is free for business and personal use. Your gift helps ensure it stays that way, and supports ongoing development."
 msgstr ""
 "Thunderbird yw'r prif raglen e-bost cod agored a chynhyrchiant sydd am ddim at ddefnydd busnes a phersonol. Mae eich rhodd yn helpu i sicrhau ei fod yn aros felly, ac yn cefnogi ei ddatblygiad "
 "parhaus."
 
-#: sites/www.thunderbird.net/includes/faq.html:234
+#: sites/www.thunderbird.net/includes/faq.html:229
 msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
 msgstr "Beth yw perthynas Thunderbird â MZLA Technologies Corporation?"
 
-#: sites/www.thunderbird.net/includes/faq.html:237
+#: sites/www.thunderbird.net/includes/faq.html:232
 msgid "MZLA Technologies Corporation is a wholly owned for-profit subsidiary of the Mozilla Foundation and the home of Thunderbird."
 msgstr "Mae MZLA Technologies Corporation yn is-gwmni er elw sy'n eiddo llwyr i'r Mozilla Foundation a chartref Thunderbird."
 
-#: sites/www.thunderbird.net/includes/faq.html:245
+#: sites/www.thunderbird.net/includes/faq.html:240
 msgid "Doesn’t Thunderbird earn income?"
 msgstr "Onid yw Thunderbird yn ennill incwm?"
 
-#: sites/www.thunderbird.net/includes/faq.html:248
+#: sites/www.thunderbird.net/includes/faq.html:243
 #, python-format
 msgid "Currently, nearly 100% of Thunderbird’s operating revenue comes from the generous gifts of Thunderbird users."
 msgstr "Ar hyn o bryd, mae bron i 100% o refeniw gweithredu Thunderbird yn dod o roddion hael defnyddwyr Thunderbird."
@@ -3907,3 +3903,18 @@ msgstr "Papur Wal Bwrdd Gwaith Thunderbird"
 #: sites/www.thunderbird.net/thunderbird/wallpaper/index.html:17
 msgid "Thunderbird Desktop Wallpaer"
 msgstr "Papur Wal Bwrdd Gwaith Thunderbird"
+
+#~ msgid "Why do you need my address in order to process a gift?"
+#~ msgstr "Pam mae angen fy nghyfeiriad arnoch er mwyn prosesu rhodd?"
+
+#, python-format
+#~ msgid ""
+#~ "We understand that your privacy is very important -- we agree, and that's a core value of ours at Thunderbird and Mozilla. Your address is part of our Payment Processing, Contact and Donation "
+#~ "Information that we outline in our <a href=\"%(url)s\">Privacy Policy</a>. This data is used for payment processing, transactional receipts, fraud detection and record-keeping purposes. If you want "
+#~ "to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
+#~ "Communications & Cookies Privacy Notice</a>."
+#~ msgstr ""
+#~ "Rydym yn deall bod eich preifatrwydd yn bwysig iawn -- rydym yn cytuno, ac mae hynny'n un o'n gwerthoedd craidd ni yn Thunderbird a Mozilla. Mae eich cyfeiriad yn rhan o'n Manylion Prosesu Talu, "
+#~ "Cyswllt a Rhoi rydym yn ei hamlinellu yn ein <a href=\"%(url)s\">Polisi Preifatrwydd</a>. Mae'r data hwn yn cael ei ddefnyddio at ddibenion prosesu taliadau, derbynebau trafodion, canfod twyll a "
+#~ "chadw cofnodion. Os hoffech wybod mwy am y data manylion personol rydym yn ei dderbyn, y gwerthwyr trydydd parti rydym yn ymddiried ynddyn nhw, a pha mor hir rydym yn cadw eich data, darllenwch ein "
+#~ "<a href=\"%(website_privacy)s\">Hysbysiad Preifatrwydd Gwefannau, Cyfathrebu a Chwcis</a>."

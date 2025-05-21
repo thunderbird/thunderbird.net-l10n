@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-05-21 09:43-0700\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Pontoon\n"
@@ -1598,36 +1600,30 @@ msgstr ""
 "toàn, riêng tư và có sẵn cho người dùng trên toàn thế giới. Hỗ trợ của bạn cũng đảm bảo rằng các ứng dụng cốt lõi của chúng tôi vẫn miễn phí cho mọi người."
 
 #: sites/www.thunderbird.net/includes/faq.html:98
-msgid "Why do you need my address in order to process a gift?"
-msgstr "Tại sao bạn cần địa chỉ của tôi để thực hiện quyên góp?"
+msgid "How do you handle my data?"
+msgstr ""
 
 #: sites/www.thunderbird.net/includes/faq.html:101
 #, python-format
 msgid ""
-"We understand that your privacy is very important -- we agree, and that's a core value of ours at Thunderbird and Mozilla. Your address is part of our Payment Processing, Contact and Donation "
-"Information that we outline in our <a href=\"%(url)s\">Privacy Policy</a>. This data is used for payment processing, transactional receipts, fraud detection and record-keeping purposes. If you want "
-"to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
-"Communications & Cookies Privacy Notice</a>."
+"To learn more about the personal information we receive as part of the donation process, the third-party vendors we trust, and how long we keep your data, please review our <a "
+"href=\"%(privacy)s\">Websites, Communications & Cookies Privacy Notice</a>."
 msgstr ""
-"Chúng tôi hiểu rằng quyền riêng tư của bạn rất quan trọng -- chúng tôi đồng ý và đó là giá trị cốt lõi của chúng tôi tại Thunderbird và Mozilla. Địa chỉ của bạn là một phần trong Thông tin xử lý "
-"thanh toán, liên hệ và quyên góp mà chúng tôi nêu trong <a href=\"%(url)s\">chính sách riêng tư</a> của chúng tôi. Dữ liệu này được sử dụng để xử lý thanh toán, biên nhận giao dịch, phát hiện gian "
-"lận và lưu giữ hồ sơ. Nếu bạn muốn biết thêm về dữ liệu thông tin cá nhân mà chúng tôi nhận được, các nhà cung cấp bên thứ ba mà chúng tôi tin tưởng và thời gian chúng tôi lưu giữ dữ liệu của bạn, "
-"vui lòng tham khảo <a href=\"%(website_privacy)s\">thông báo về quyền riêng tư của trang web, thông tin liên hệ và cookie</a> của chúng tôi."
 
-#: sites/www.thunderbird.net/includes/faq.html:115
+#: sites/www.thunderbird.net/includes/faq.html:110
 msgid "How can I turn off the donation message on the Thunderbird start page?"
 msgstr "Làm cách nào để tắt thông báo quyên góp trên trang bắt đầu Thunderbird?"
 
-#: sites/www.thunderbird.net/includes/faq.html:118
+#: sites/www.thunderbird.net/includes/faq.html:113
 #, python-format
 msgid "To learn how to customize your start page please visit:<br/><a href=\"%(url)s\">%(url)s</a>"
 msgstr "Để tìm hiểu cách tùy chỉnh trang bắt đầu của bạn, vui lòng truy cập:<br/><a href=\"%(url)s\">%(url)s</a>"
 
-#: sites/www.thunderbird.net/includes/faq.html:126
+#: sites/www.thunderbird.net/includes/faq.html:121
 msgid "How can I get a business receipt?"
 msgstr "Làm thế nào tôi có thể nhận được biên lai kinh doanh?"
 
-#: sites/www.thunderbird.net/includes/faq.html:129
+#: sites/www.thunderbird.net/includes/faq.html:124
 #, python-format
 msgid ""
 "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box <strong>'Donate as an Organization'</strong> and include your company name. Your transaction receipt will include"
@@ -1636,11 +1632,11 @@ msgstr ""
 "Khi bạn quyên góp qua <a href=\"%(donate)s\">biểu mẫu trực tuyến</a> của chúng tôi, chỉ cần đánh dấu vào ô <strong>'Đóng góp như một tổ chức'</strong> và bao gồm tên công ty của bạn. Biên nhận giao "
 "dịch của bạn sẽ bao gồm tên công ty của bạn. Nếu bạn cần một bản sao biên nhận của mình, hãy tải xuống từ <strong><a href=\"%(modify)s\">cổng thông tin tài trợ</a></strong> của chúng tôi."
 
-#: sites/www.thunderbird.net/includes/faq.html:139
+#: sites/www.thunderbird.net/includes/faq.html:134
 msgid "Is my donation secure?"
 msgstr "Đóng góp của tôi có an toàn không?"
 
-#: sites/www.thunderbird.net/includes/faq.html:142
+#: sites/www.thunderbird.net/includes/faq.html:137
 #, python-format
 msgid ""
 "Yes, we use industry-standard SSL technology to keep your information secure. We partner with Stripe, the industry's established payment processor trusted by some of the world's largest companies. "
@@ -1651,11 +1647,11 @@ msgstr ""
 "cậy. Thông tin tài chính nhạy cảm của bạn sẽ không bao giờ được lưu vào máy chủ của chúng tôi. Chúng tôi gửi trực tiếp tất cả dữ liệu đến các máy chủ tuân thủ PCI của Stripe thông qua SSL. Chúng tôi"
 " hiểu rằng sự riêng tư của bạn là rất quan trọng. Để biết thông tin đầy đủ, vui lòng tham khảo <a href=\"%(privacy)s\">chính sách riêng tư của Mozilla</a>."
 
-#: sites/www.thunderbird.net/includes/faq.html:154
+#: sites/www.thunderbird.net/includes/faq.html:149
 msgid "Can I request a refund?"
 msgstr "Tôi có thể yêu cầu hoàn lại tiền không?"
 
-#: sites/www.thunderbird.net/includes/faq.html:157
+#: sites/www.thunderbird.net/includes/faq.html:152
 #, python-format
 msgid ""
 "Your donation may be eligible for a refund. You must <strong>contact us within 15 days of payment date.</strong> If you believe this payment was made without your authorization, please contact us "
@@ -1667,11 +1663,11 @@ msgstr ""
 "được hoàn lại tiền.</strong> Do tính chất của các giao dịch này, chính sách của chúng tôi ưu tiên giảm thiểu gian lận hoàn tiền. Chúng tôi cảm ơn bạn đã hiểu điều đó. Nếu bạn cần hỗ trợ, <a "
 "href=\"%(help)s\">vui lòng liên hệ với chúng tôi</a>."
 
-#: sites/www.thunderbird.net/includes/faq.html:169
+#: sites/www.thunderbird.net/includes/faq.html:164
 msgid "Are there additional fees added to my donation?"
 msgstr "Có khoản phí bổ sung nào được thêm vào quyên góp của tôi không?"
 
-#: sites/www.thunderbird.net/includes/faq.html:172
+#: sites/www.thunderbird.net/includes/faq.html:167
 msgid ""
 "We do not collect any additional fees or taxes. When you donate in your local currency you are not charged a conversion fee by your credit card. You can choose to also cover the payment processing "
 "transaction costs. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to research any"
@@ -1681,11 +1677,11 @@ msgstr ""
 "xử lý thanh toán. Điều này là hoàn toàn tự nguyện và bạn có thể chọn tham gia hoặc không tham gia bằng cách sử dụng hộp kiểm trên mẫu quyên góp của chúng tôi. Tổ chức của chúng tôi có trụ sở tại Hoa"
 " Kỳ. Chúng tôi khuyến khích các nhà tài trợ nghiên cứu bất kỳ khoản thuế hoặc phí bổ sung nào từ bên ngoài có thể được áp dụng bởi các cơ quan quản lý như ngân hàng hoặc cơ quan thuế của bạn."
 
-#: sites/www.thunderbird.net/includes/faq.html:184
+#: sites/www.thunderbird.net/includes/faq.html:179
 msgid "What do the transaction costs cover?"
 msgstr "Chi phí giao dịch bao gồm những gì?"
 
-#: sites/www.thunderbird.net/includes/faq.html:187
+#: sites/www.thunderbird.net/includes/faq.html:182
 msgid ""
 "When you opt to cover our payment transaction costs, you're covering both our payment processing and donation platform fees. The costs associated with our robust online donation system allows us to "
 "continue scaling sustainably as our supporter-base grows. Our donation platform and payment processor partners reduce internal costs associated with maintaining our own system from scratch. Our "
@@ -1697,11 +1693,11 @@ msgstr ""
 "đến việc duy trì hệ thống của chính chúng tôi từ đầu. Các đối tác của chúng tôi đảm bảo rằng chúng tôi có thể chấp nhận nhiều loại tiền tệ/phương thức thanh toán và vẫn tuân thủ PCI ở tất cả các "
 "quốc gia mà nơi chúng tôi nhận quyên góp. Chi phí giao dịch mà bạn có thể chọn chi trả dựa trên ước tính tổng chi phí của chúng tôi. Do nhiều yếu tố chi phí thực tế có thể dao động."
 
-#: sites/www.thunderbird.net/includes/faq.html:200
+#: sites/www.thunderbird.net/includes/faq.html:195
 msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
 msgstr "Tại sao các khoản quyên góp một lần xuất hiện dưới dạng định kỳ trong các quy định của SEPA?"
 
-#: sites/www.thunderbird.net/includes/faq.html:203
+#: sites/www.thunderbird.net/includes/faq.html:198
 msgid ""
 "When making a one-time gift through SEPA direct debit, you may notice a mention of recurrent transactions. This is because our payment processor Stripe only supports recurring transactions for this "
 "type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
@@ -1711,37 +1707,37 @@ msgstr ""
 "cho loại thanh toán này. Bất kể điều này, chúng tôi sẽ chỉ tính phí bạn một lần và chúng tôi sẽ không thực hiện thêm bất kỳ khoản thanh toán nào vào tài khoản của bạn mà không có sự cho phép của "
 "bạn. Theo ủy quyền, bạn sẽ nhận được biên nhận quyên góp chính thức phản ánh rõ ràng khoản quyên góp một lần."
 
-#: sites/www.thunderbird.net/includes/faq.html:211
+#: sites/www.thunderbird.net/includes/faq.html:206
 msgid "Can I give in cryptocurrencies?"
 msgstr "Tôi có thể quyên góp tiền điện tử không?"
 
-#: sites/www.thunderbird.net/includes/faq.html:214
+#: sites/www.thunderbird.net/includes/faq.html:209
 msgid "<strong>No.</strong> We are not currently accepting cryptocurrency gifts."
 msgstr "<strong>Không.</strong> Chúng tôi hiện không chấp nhận quà tặng bằng tiền điện tử."
 
-#: sites/www.thunderbird.net/includes/faq.html:222
+#: sites/www.thunderbird.net/includes/faq.html:217
 msgid "How will my gift be used?"
 msgstr "Quyên góp của tôi sẽ được sử dụng như thế nào?"
 
-#: sites/www.thunderbird.net/includes/faq.html:225
+#: sites/www.thunderbird.net/includes/faq.html:220
 msgid "Thunderbird is the leading open source email and productivity app that is free for business and personal use. Your gift helps ensure it stays that way, and supports ongoing development."
 msgstr ""
 "Thunderbird là ứng dụng email và năng suất mã nguồn mở hàng đầu, miễn phí cho mục đích sử dụng cá nhân và doanh nghiệp. Quyên góp của bạn giúp đảm bảo nó luôn như vậy và hỗ trợ sự phát triển không "
 "ngừng."
 
-#: sites/www.thunderbird.net/includes/faq.html:234
+#: sites/www.thunderbird.net/includes/faq.html:229
 msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
 msgstr "Mối quan hệ của Thunderbird với MZLA Technologies Corporation là gì?"
 
-#: sites/www.thunderbird.net/includes/faq.html:237
+#: sites/www.thunderbird.net/includes/faq.html:232
 msgid "MZLA Technologies Corporation is a wholly owned for-profit subsidiary of the Mozilla Foundation and the home of Thunderbird."
 msgstr "MZLA Technologies Corporation là một công ty con hoạt động vì lợi nhuận thuộc sở hữu hoàn toàn của Mozilla Foundation và là ngôi nhà của Thunderbird."
 
-#: sites/www.thunderbird.net/includes/faq.html:245
+#: sites/www.thunderbird.net/includes/faq.html:240
 msgid "Doesn’t Thunderbird earn income?"
 msgstr "Thunderbird không kiếm được thu nhập?"
 
-#: sites/www.thunderbird.net/includes/faq.html:248
+#: sites/www.thunderbird.net/includes/faq.html:243
 #, python-format
 msgid "Currently, nearly 100% of Thunderbird’s operating revenue comes from the generous gifts of Thunderbird users."
 msgstr "Hiện tại, gần 100% doanh thu hoạt động của Thunderbird đến từ những khoản quyên góp hào phóng của người dùng Thunderbird."
@@ -3920,3 +3916,18 @@ msgstr "Hình nền máy tính để bàn Thunderbird"
 #: sites/www.thunderbird.net/thunderbird/wallpaper/index.html:17
 msgid "Thunderbird Desktop Wallpaer"
 msgstr "Hình nền máy tính để bàn Thunderbird"
+
+#~ msgid "Why do you need my address in order to process a gift?"
+#~ msgstr "Tại sao bạn cần địa chỉ của tôi để thực hiện quyên góp?"
+
+#, python-format
+#~ msgid ""
+#~ "We understand that your privacy is very important -- we agree, and that's a core value of ours at Thunderbird and Mozilla. Your address is part of our Payment Processing, Contact and Donation "
+#~ "Information that we outline in our <a href=\"%(url)s\">Privacy Policy</a>. This data is used for payment processing, transactional receipts, fraud detection and record-keeping purposes. If you want "
+#~ "to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
+#~ "Communications & Cookies Privacy Notice</a>."
+#~ msgstr ""
+#~ "Chúng tôi hiểu rằng quyền riêng tư của bạn rất quan trọng -- chúng tôi đồng ý và đó là giá trị cốt lõi của chúng tôi tại Thunderbird và Mozilla. Địa chỉ của bạn là một phần trong Thông tin xử lý "
+#~ "thanh toán, liên hệ và quyên góp mà chúng tôi nêu trong <a href=\"%(url)s\">chính sách riêng tư</a> của chúng tôi. Dữ liệu này được sử dụng để xử lý thanh toán, biên nhận giao dịch, phát hiện gian "
+#~ "lận và lưu giữ hồ sơ. Nếu bạn muốn biết thêm về dữ liệu thông tin cá nhân mà chúng tôi nhận được, các nhà cung cấp bên thứ ba mà chúng tôi tin tưởng và thời gian chúng tôi lưu giữ dữ liệu của bạn, "
+#~ "vui lòng tham khảo <a href=\"%(website_privacy)s\">thông báo về quyền riêng tư của trang web, thông tin liên hệ và cookie</a> của chúng tôi."

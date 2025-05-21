@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-05-21 09:43-0700\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Generated-By: Pontoon\n"
@@ -1564,36 +1566,30 @@ msgstr ""
 "kódom, ktoré sú bezpečné, súkromné a dostupné pre používateľov na celom svete. Vaša podpora tiež zaisťuje, že naše základné aplikácie zostanú bezplatné pre všetkých."
 
 #: sites/www.thunderbird.net/includes/faq.html:98
-msgid "Why do you need my address in order to process a gift?"
-msgstr "Prečo potrebujete moju adresu na spracovanie daru?"
+msgid "How do you handle my data?"
+msgstr ""
 
 #: sites/www.thunderbird.net/includes/faq.html:101
 #, python-format
 msgid ""
-"We understand that your privacy is very important -- we agree, and that's a core value of ours at Thunderbird and Mozilla. Your address is part of our Payment Processing, Contact and Donation "
-"Information that we outline in our <a href=\"%(url)s\">Privacy Policy</a>. This data is used for payment processing, transactional receipts, fraud detection and record-keeping purposes. If you want "
-"to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
-"Communications & Cookies Privacy Notice</a>."
+"To learn more about the personal information we receive as part of the donation process, the third-party vendors we trust, and how long we keep your data, please review our <a "
+"href=\"%(privacy)s\">Websites, Communications & Cookies Privacy Notice</a>."
 msgstr ""
-"Chápeme, že vaše súkromie je veľmi dôležité – súhlasíme s tým, a to je naša základná hodnota v Thunderbirde a Mozille. Vaša adresa je súčasťou našich informácií o spracovaní platieb, kontaktoch a "
-"daroch, ako uvádzame v našom <a href=\"%(url)s\">Vyhlásení o ochrane osobných údajov</a>. Tieto údaje sa používajú na účely spracovania platieb, potvrdení o transakciách, odhaľovania podvodov a "
-"uchovávania záznamov. Ak sa chcete dozvedieť viac o osobných údajoch, ktoré spracovávame, o dodávateľoch tretích strán, ktorým dôverujeme, a o tom, ako dlho uchovávame vaše údaje, pozrite si stránku"
-" <a href=\"%(website_privacy)s\">Oznámenie o ochrane osobných údajov pre webové stránky, komunikáciu a súbory cookie</a>."
 
-#: sites/www.thunderbird.net/includes/faq.html:115
+#: sites/www.thunderbird.net/includes/faq.html:110
 msgid "How can I turn off the donation message on the Thunderbird start page?"
 msgstr "Ako môžem vypnúť správu o darovaní na úvodnej stránke Thunderbirdu?"
 
-#: sites/www.thunderbird.net/includes/faq.html:118
+#: sites/www.thunderbird.net/includes/faq.html:113
 #, python-format
 msgid "To learn how to customize your start page please visit:<br/><a href=\"%(url)s\">%(url)s</a>"
 msgstr "Ak chcete zistiť, ako prispôsobiť svoju úvodnú stránku, navštívte stránku:<br/><a href=\"%(url)s\">%(url)s</a>"
 
-#: sites/www.thunderbird.net/includes/faq.html:126
+#: sites/www.thunderbird.net/includes/faq.html:121
 msgid "How can I get a business receipt?"
 msgstr "Ako môžem získať daňový doklad?"
 
-#: sites/www.thunderbird.net/includes/faq.html:129
+#: sites/www.thunderbird.net/includes/faq.html:124
 #, python-format
 msgid ""
 "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box <strong>'Donate as an Organization'</strong> and include your company name. Your transaction receipt will include"
@@ -1602,11 +1598,11 @@ msgstr ""
 "Keď prispejete prostredníctvom nášho <a href=\"%(donate)s\">online formulára</a>, jednoducho začiarknite políčko <strong>'Darovať ako organizácia'</strong> a uveďte názov svojej spoločnosti. "
 "Potvrdenie o transakcii bude obsahovať názov vašej spoločnosti. Ak potrebujete kópiu potvrdenky, stiahnite si ju z nášho <strong><a href=\"%(modify)s\">portálu pre darcov</a></strong>."
 
-#: sites/www.thunderbird.net/includes/faq.html:139
+#: sites/www.thunderbird.net/includes/faq.html:134
 msgid "Is my donation secure?"
 msgstr "Je môj dar bezpečný?"
 
-#: sites/www.thunderbird.net/includes/faq.html:142
+#: sites/www.thunderbird.net/includes/faq.html:137
 #, python-format
 msgid ""
 "Yes, we use industry-standard SSL technology to keep your information secure. We partner with Stripe, the industry's established payment processor trusted by some of the world's largest companies. "
@@ -1617,11 +1613,11 @@ msgstr ""
 "najväčších svetových spoločností. Vaše citlivé finančné informácie sa nikdy nedotknú našich serverov. Všetky údaje posielame priamo na servery Stripe kompatibilné s PCI cez SSL. Chápeme, že vaše "
 "súkromie je veľmi dôležité. Úplné informácie nájdete v <a href=\"%(privacy)s\">Zásadách ochrany osobných údajov Mozilly</a>."
 
-#: sites/www.thunderbird.net/includes/faq.html:154
+#: sites/www.thunderbird.net/includes/faq.html:149
 msgid "Can I request a refund?"
 msgstr "Môžem požiadať o vrátenie peňazí?"
 
-#: sites/www.thunderbird.net/includes/faq.html:157
+#: sites/www.thunderbird.net/includes/faq.html:152
 #, python-format
 msgid ""
 "Your donation may be eligible for a refund. You must <strong>contact us within 15 days of payment date.</strong> If you believe this payment was made without your authorization, please contact us "
@@ -1632,11 +1628,11 @@ msgstr ""
 "kontaktujte. <strong>Dary uskutočnené prostredníctvom inkasa ACH alebo SEPA nie sú oprávnené na vrátenie peňazí.</strong> Vzhľadom na povahu týchto transakcií naše pravidlá uprednostňujú "
 "minimalizáciu podvodov pri vrátení peňazí. Ďakujeme za pochopenie. Ak potrebujete pomoc, <a href=\"%(help)s\">kontaktujte nás</a>."
 
-#: sites/www.thunderbird.net/includes/faq.html:169
+#: sites/www.thunderbird.net/includes/faq.html:164
 msgid "Are there additional fees added to my donation?"
 msgstr "Sú k môjmu daru pripočítané ďalšie poplatky?"
 
-#: sites/www.thunderbird.net/includes/faq.html:172
+#: sites/www.thunderbird.net/includes/faq.html:167
 msgid ""
 "We do not collect any additional fees or taxes. When you donate in your local currency you are not charged a conversion fee by your credit card. You can choose to also cover the payment processing "
 "transaction costs. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to research any"
@@ -1646,11 +1642,11 @@ msgstr ""
 "spracovanie platieb. Je to úplne dobrovoľné a môžete sa prihlásiť alebo odhlásiť pomocou začiarkavacieho políčka na našom darcovskom formulári. Naša organizácia sídli v Spojených štátoch amerických."
 " Odporúčame darcom, aby preskúmali akékoľvek dodatočné externé dane alebo poplatky, ktoré môžu uplatňovať regulačné orgány, ako je vaša banka alebo daňový úrad."
 
-#: sites/www.thunderbird.net/includes/faq.html:184
+#: sites/www.thunderbird.net/includes/faq.html:179
 msgid "What do the transaction costs cover?"
 msgstr "Čo pokrývajú transakčné náklady?"
 
-#: sites/www.thunderbird.net/includes/faq.html:187
+#: sites/www.thunderbird.net/includes/faq.html:182
 msgid ""
 "When you opt to cover our payment transaction costs, you're covering both our payment processing and donation platform fees. The costs associated with our robust online donation system allows us to "
 "continue scaling sustainably as our supporter-base grows. Our donation platform and payment processor partners reduce internal costs associated with maintaining our own system from scratch. Our "
@@ -1662,11 +1658,11 @@ msgstr ""
 "nášho vlastného systému od nuly. Naši partneri zaručujú, že dokážeme akceptovať širokú škálu mien/platobných metód a zostaneme v súlade s PCI vo všetkých krajinách, z ktorých prijímame dary. "
 "Transakčné náklady, ktoré sa môžete rozhodnúť pokryť, sú založené na odhade našich celkových nákladov. V dôsledku mnohých faktorov môžu skutočné náklady kolísať."
 
-#: sites/www.thunderbird.net/includes/faq.html:200
+#: sites/www.thunderbird.net/includes/faq.html:195
 msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
 msgstr "Prečo sa jednorazové dary objavujú v mandátoch SEPA ako opakované?"
 
-#: sites/www.thunderbird.net/includes/faq.html:203
+#: sites/www.thunderbird.net/includes/faq.html:198
 msgid ""
 "When making a one-time gift through SEPA direct debit, you may notice a mention of recurrent transactions. This is because our payment processor Stripe only supports recurring transactions for this "
 "type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
@@ -1676,37 +1672,37 @@ msgstr ""
 "tento typ platby. Bez ohľadu na to vám budeme účtovať iba raz a bez vášho súhlasu nebudeme vykonávať žiadne ďalšie platby na váš účet. Na základe splnomocnenia dostanete oficiálny doklad o dare, "
 "ktorý bude jasne odrážať jednorazový dar."
 
-#: sites/www.thunderbird.net/includes/faq.html:211
+#: sites/www.thunderbird.net/includes/faq.html:206
 msgid "Can I give in cryptocurrencies?"
 msgstr "Môžem darovať v kryptomenách?"
 
-#: sites/www.thunderbird.net/includes/faq.html:214
+#: sites/www.thunderbird.net/includes/faq.html:209
 msgid "<strong>No.</strong> We are not currently accepting cryptocurrency gifts."
 msgstr "<strong>Nie.</strong> Momentálne neprijímame dary v podobe kryptomien."
 
-#: sites/www.thunderbird.net/includes/faq.html:222
+#: sites/www.thunderbird.net/includes/faq.html:217
 msgid "How will my gift be used?"
 msgstr "Ako bude môj dar použitý?"
 
-#: sites/www.thunderbird.net/includes/faq.html:225
+#: sites/www.thunderbird.net/includes/faq.html:220
 msgid "Thunderbird is the leading open source email and productivity app that is free for business and personal use. Your gift helps ensure it stays that way, and supports ongoing development."
 msgstr ""
 "Thunderbird je popredná e‑mailová aplikácia s dôrazom na produktivitu a s otvoreným zdrojom, ktorá je bezplatná na obchodné a osobné použitie. Váš dar pomáha zabezpečiť, aby to tak zostalo, a "
 "podporuje neustály rozvoj."
 
-#: sites/www.thunderbird.net/includes/faq.html:234
+#: sites/www.thunderbird.net/includes/faq.html:229
 msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
 msgstr "Aký je vzťah Thunderbirdu k MZLA Technologies Corporation?"
 
-#: sites/www.thunderbird.net/includes/faq.html:237
+#: sites/www.thunderbird.net/includes/faq.html:232
 msgid "MZLA Technologies Corporation is a wholly owned for-profit subsidiary of the Mozilla Foundation and the home of Thunderbird."
 msgstr "MZLA Technologies Corporation je stopercentne vlastnená zisková dcérska spoločnosť Mozilla Foundation a domov Thunderbirdu."
 
-#: sites/www.thunderbird.net/includes/faq.html:245
+#: sites/www.thunderbird.net/includes/faq.html:240
 msgid "Doesn’t Thunderbird earn income?"
 msgstr "Nemá Thunderbird príjem?"
 
-#: sites/www.thunderbird.net/includes/faq.html:248
+#: sites/www.thunderbird.net/includes/faq.html:243
 #, python-format
 msgid "Currently, nearly 100% of Thunderbird’s operating revenue comes from the generous gifts of Thunderbird users."
 msgstr "V súčasnosti takmer 100 % prevádzkových príjmov Thunderbirdu pochádza zo štedrých darov používateľov Thunderbirdu."
@@ -3851,3 +3847,18 @@ msgstr "Tapeta na plochu Thunderbird"
 #: sites/www.thunderbird.net/thunderbird/wallpaper/index.html:17
 msgid "Thunderbird Desktop Wallpaer"
 msgstr "Tapeta na plochu Thunderbird"
+
+#~ msgid "Why do you need my address in order to process a gift?"
+#~ msgstr "Prečo potrebujete moju adresu na spracovanie daru?"
+
+#, python-format
+#~ msgid ""
+#~ "We understand that your privacy is very important -- we agree, and that's a core value of ours at Thunderbird and Mozilla. Your address is part of our Payment Processing, Contact and Donation "
+#~ "Information that we outline in our <a href=\"%(url)s\">Privacy Policy</a>. This data is used for payment processing, transactional receipts, fraud detection and record-keeping purposes. If you want "
+#~ "to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
+#~ "Communications & Cookies Privacy Notice</a>."
+#~ msgstr ""
+#~ "Chápeme, že vaše súkromie je veľmi dôležité – súhlasíme s tým, a to je naša základná hodnota v Thunderbirde a Mozille. Vaša adresa je súčasťou našich informácií o spracovaní platieb, kontaktoch a "
+#~ "daroch, ako uvádzame v našom <a href=\"%(url)s\">Vyhlásení o ochrane osobných údajov</a>. Tieto údaje sa používajú na účely spracovania platieb, potvrdení o transakciách, odhaľovania podvodov a "
+#~ "uchovávania záznamov. Ak sa chcete dozvedieť viac o osobných údajoch, ktoré spracovávame, o dodávateľoch tretích strán, ktorým dôverujeme, a o tom, ako dlho uchovávame vaše údaje, pozrite si stránku"
+#~ " <a href=\"%(website_privacy)s\">Oznámenie o ochrane osobných údajov pre webové stránky, komunikáciu a súbory cookie</a>."

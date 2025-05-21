@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-05-21 09:43-0700\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Pontoon\n"
@@ -1484,45 +1486,41 @@ msgid ""
 msgstr ""
 
 #: sites/www.thunderbird.net/includes/faq.html:98
-msgid "Why do you need my address in order to process a gift?"
-msgstr "為什麼您們需要我的地址才能處理捐款？"
+msgid "How do you handle my data?"
+msgstr ""
 
 #: sites/www.thunderbird.net/includes/faq.html:101
 #, python-format
 msgid ""
-"We understand that your privacy is very important -- we agree, and that's a core value of ours at Thunderbird and Mozilla. Your address is part of our Payment Processing, Contact and Donation "
-"Information that we outline in our <a href=\"%(url)s\">Privacy Policy</a>. This data is used for payment processing, transactional receipts, fraud detection and record-keeping purposes. If you want "
-"to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
-"Communications & Cookies Privacy Notice</a>."
+"To learn more about the personal information we receive as part of the donation process, the third-party vendors we trust, and how long we keep your data, please review our <a "
+"href=\"%(privacy)s\">Websites, Communications & Cookies Privacy Notice</a>."
 msgstr ""
-"我們了解您的隱私非常重要，我們也相當同意，這也是 Thunderbird 與 Mozilla 的核心價值。我們的<a "
-"href=\"%(url)s\">隱私權保護政策</a>當中的〈金流處理、聯絡與捐款資訊〉章節描述了我們會如何處理您提供的地址資訊。此資料僅用於金流處理、交易收據、詐騙偵測、紀錄保留等用途。若您想了解我們會接收哪些個人資料、信任哪些第三方供應商，以及會保存您的資料多久，請參考<a href=\"%(website_privacy)s\">網站、通訊與 Cookie 隱私權公告</a>。"
 
-#: sites/www.thunderbird.net/includes/faq.html:115
+#: sites/www.thunderbird.net/includes/faq.html:110
 msgid "How can I turn off the donation message on the Thunderbird start page?"
 msgstr "我要怎麼關掉 Thunderbird 開始頁的募款廣告？"
 
-#: sites/www.thunderbird.net/includes/faq.html:118
+#: sites/www.thunderbird.net/includes/faq.html:113
 #, python-format
 msgid "To learn how to customize your start page please visit:<br/><a href=\"%(url)s\">%(url)s</a>"
 msgstr "請到 <a href=\"%(url)s\">%(url)s</a> 了解如何自訂開始頁面"
 
-#: sites/www.thunderbird.net/includes/faq.html:126
+#: sites/www.thunderbird.net/includes/faq.html:121
 msgid "How can I get a business receipt?"
 msgstr "我要如何收到商業收據？"
 
-#: sites/www.thunderbird.net/includes/faq.html:129
+#: sites/www.thunderbird.net/includes/faq.html:124
 #, python-format
 msgid ""
 "When you donate via our <a href=\"%(donate)s\">online form</a>, simply check the box <strong>'Donate as an Organization'</strong> and include your company name. Your transaction receipt will include"
 " your company name. If you need a copy of your receipt, download from our <strong><a href=\"%(modify)s\">Donor Portal</a></strong>."
 msgstr "當您透過我們的<a href=\"%(donate)s\">線上表單</a>捐款時，請勾選<strong>「以組織身分捐款」</strong>並註明您的公司名稱，收據中就會列明您的公司名稱。若您需要收據副本，可到我們的<strong><a href=\"%(modify)s\">捐款網站</a></strong>下載。"
 
-#: sites/www.thunderbird.net/includes/faq.html:139
+#: sites/www.thunderbird.net/includes/faq.html:134
 msgid "Is my donation secure?"
 msgstr "捐款過程安全嗎？"
 
-#: sites/www.thunderbird.net/includes/faq.html:142
+#: sites/www.thunderbird.net/includes/faq.html:137
 #, python-format
 msgid ""
 "Yes, we use industry-standard SSL technology to keep your information secure. We partner with Stripe, the industry's established payment processor trusted by some of the world's largest companies. "
@@ -1530,11 +1528,11 @@ msgid ""
 "complete information please refer to the <a href=\"%(privacy)s\">Mozilla Privacy Policy</a>."
 msgstr "是的，我們使用業界標準的 SSL 技術來確保您的資訊安全。我們與受到世界許多最大型企業信任的金流業者 Stripe 合作，以 SSL 方式將所有資料直接送交 Stripe 符合 PCI 標準的伺服器進行處理，您的敏感金融資訊不會被我們的伺服器接觸。我們了解您的隱私權相當重要，若需完整資訊，請參考<a href=\"%(privacy)s\">Mozilla 的隱私權保護政策</a>。"
 
-#: sites/www.thunderbird.net/includes/faq.html:154
+#: sites/www.thunderbird.net/includes/faq.html:149
 msgid "Can I request a refund?"
 msgstr "我可以要求退款嗎？"
 
-#: sites/www.thunderbird.net/includes/faq.html:157
+#: sites/www.thunderbird.net/includes/faq.html:152
 #, python-format
 msgid ""
 "Your donation may be eligible for a refund. You must <strong>contact us within 15 days of payment date.</strong> If you believe this payment was made without your authorization, please contact us "
@@ -1542,22 +1540,22 @@ msgid ""
 "appreciate your understanding. If you need assistance, <a href=\"%(help)s\">please contact us</a>."
 msgstr "您可以在<strong>捐款後的 15 天內要求退費。</strong>若您認為這筆捐款未經授權，請立即聯絡我們。<strong>透過 ACH 或 SEPA 直接扣帳方式的捐款無法退費。</strong>由於捐款性質使然，我們的政策會以盡可能減少未經授權的退款優先，感謝您的理解。若您需要任何協助，<a href=\"%(help)s\">請聯絡我們</a>。"
 
-#: sites/www.thunderbird.net/includes/faq.html:169
+#: sites/www.thunderbird.net/includes/faq.html:164
 msgid "Are there additional fees added to my donation?"
 msgstr "捐款時會加收其他費用嗎？"
 
-#: sites/www.thunderbird.net/includes/faq.html:172
+#: sites/www.thunderbird.net/includes/faq.html:167
 msgid ""
 "We do not collect any additional fees or taxes. When you donate in your local currency you are not charged a conversion fee by your credit card. You can choose to also cover the payment processing "
 "transaction costs. This is completely voluntary and you may opt in or out using the checkbox on our donation form. Our organization is based in the United States. We encourage donors to research any"
 " additional external taxes or fees that may be applied by regulators such as your bank or tax authority."
 msgstr "我們不額外收取任何費用或稅金。當您使用本地貨幣捐款時，我們也不加收貨幣轉換費用。若您願意的話，可以選擇由您來負擔處理捐款的交易成本。此選項完全出於自願，可以在捐款表單上自由選擇是否由您負擔。我們的組織位於美國，我們鼓勵捐款人自行確認您的銀行或稅務機構是否會於交易金額之外，額外再徵收其他稅捐或交易手續費。"
 
-#: sites/www.thunderbird.net/includes/faq.html:184
+#: sites/www.thunderbird.net/includes/faq.html:179
 msgid "What do the transaction costs cover?"
 msgstr "交易成本包含哪些項目？"
 
-#: sites/www.thunderbird.net/includes/faq.html:187
+#: sites/www.thunderbird.net/includes/faq.html:182
 msgid ""
 "When you opt to cover our payment transaction costs, you're covering both our payment processing and donation platform fees. The costs associated with our robust online donation system allows us to "
 "continue scaling sustainably as our supporter-base grows. Our donation platform and payment processor partners reduce internal costs associated with maintaining our own system from scratch. Our "
@@ -1567,46 +1565,46 @@ msgstr ""
 "若您選擇為我們負擔交易成本，代表由您來支付我們的捐款處理成本與捐款平台的使用成本。這些成本與我們強大的線上捐款系統有關，讓我們可以隨著支持者數量的增加，也持續擴大可持續性。透過與我們的捐款平台與金流業者合作，可降低我們須從頭開始，完全自行開發維護捐款系統的內部成本。這些夥伴也讓我們可以從各個接受捐款的國家來接受各種廣泛的捐款方式與不同幣別的捐款，同時符合 PCI "
 "規範。您需負擔的交易成本將依照我們的所有成本進行估計，可能會因為多種因素而有所浮動。"
 
-#: sites/www.thunderbird.net/includes/faq.html:200
+#: sites/www.thunderbird.net/includes/faq.html:195
 msgid "Why do one-time donations appear as recurring in the SEPA mandates?"
 msgstr "為什麼單次捐款在 SEPA 授權書裡卻顯示為定期捐款？"
 
-#: sites/www.thunderbird.net/includes/faq.html:203
+#: sites/www.thunderbird.net/includes/faq.html:198
 msgid ""
 "When making a one-time gift through SEPA direct debit, you may notice a mention of recurrent transactions. This is because our payment processor Stripe only supports recurring transactions for this "
 "type of payment. Regardless of this, we will only charge you once and we will not make any further payments on your account without your authorization. Following the mandate, you will receive an "
 "official donation receipt that will clearly reflect the one-time donation."
 msgstr "透過 SEPA direct debit 方式進行單次捐款時，您可能會在相關說明中發現交易方式記載為「定期交易」。這是因為我們的金流處理業者 Stripe 對此類金流機制僅支援定期交易機制。但我們仍只會向您收費一次，未來未經您授權，不會再發動扣款。捐款完成後，您將會收到一份上面明確記載了「單次捐款」的捐款收據。"
 
-#: sites/www.thunderbird.net/includes/faq.html:211
+#: sites/www.thunderbird.net/includes/faq.html:206
 msgid "Can I give in cryptocurrencies?"
 msgstr "我可以捐贈加密貨幣嗎？"
 
-#: sites/www.thunderbird.net/includes/faq.html:214
+#: sites/www.thunderbird.net/includes/faq.html:209
 msgid "<strong>No.</strong> We are not currently accepting cryptocurrency gifts."
 msgstr "<strong>不行。</strong>我們目前不接受加密貨幣捐款。"
 
-#: sites/www.thunderbird.net/includes/faq.html:222
+#: sites/www.thunderbird.net/includes/faq.html:217
 msgid "How will my gift be used?"
 msgstr "我的捐款會被如何運用？"
 
-#: sites/www.thunderbird.net/includes/faq.html:225
+#: sites/www.thunderbird.net/includes/faq.html:220
 msgid "Thunderbird is the leading open source email and productivity app that is free for business and personal use. Your gift helps ensure it stays that way, and supports ongoing development."
 msgstr "Thunderbird 是業界領先，開放原始碼、跨平台的生產力軟體，個人與商業上皆可免費使用。您的捐款可幫助我們持續發展。"
 
-#: sites/www.thunderbird.net/includes/faq.html:234
+#: sites/www.thunderbird.net/includes/faq.html:229
 msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
 msgstr "Thunderbird 與 MZLA Technologies Corporation 的關係是什麼？"
 
-#: sites/www.thunderbird.net/includes/faq.html:237
+#: sites/www.thunderbird.net/includes/faq.html:232
 msgid "MZLA Technologies Corporation is a wholly owned for-profit subsidiary of the Mozilla Foundation and the home of Thunderbird."
 msgstr "MZLA Technologies Corporation 是 Mozilla Foundation 的營利性全資子公司，也是 Thunderbird 的所在地。"
 
-#: sites/www.thunderbird.net/includes/faq.html:245
+#: sites/www.thunderbird.net/includes/faq.html:240
 msgid "Doesn’t Thunderbird earn income?"
 msgstr "Thunderbird 不賺錢嗎？"
 
-#: sites/www.thunderbird.net/includes/faq.html:248
+#: sites/www.thunderbird.net/includes/faq.html:243
 #, python-format
 msgid "Currently, nearly 100% of Thunderbird’s operating revenue comes from the generous gifts of Thunderbird users."
 msgstr "目前 Thunderbird 接近 100% 的營運收入都來自 Thunderbird 使用者的慷慨捐款。"
@@ -3607,3 +3605,16 @@ msgstr "Thunderbird 桌面板桌布"
 #: sites/www.thunderbird.net/thunderbird/wallpaper/index.html:17
 msgid "Thunderbird Desktop Wallpaer"
 msgstr "Thunderbird 桌面板桌布"
+
+#~ msgid "Why do you need my address in order to process a gift?"
+#~ msgstr "為什麼您們需要我的地址才能處理捐款？"
+
+#, python-format
+#~ msgid ""
+#~ "We understand that your privacy is very important -- we agree, and that's a core value of ours at Thunderbird and Mozilla. Your address is part of our Payment Processing, Contact and Donation "
+#~ "Information that we outline in our <a href=\"%(url)s\">Privacy Policy</a>. This data is used for payment processing, transactional receipts, fraud detection and record-keeping purposes. If you want "
+#~ "to know more about the personal information data we receive, the third-party vendors we trust, and how long we keep your data, please refer to our <a href=\"%(website_privacy)s\">Websites, "
+#~ "Communications & Cookies Privacy Notice</a>."
+#~ msgstr ""
+#~ "我們了解您的隱私非常重要，我們也相當同意，這也是 Thunderbird 與 Mozilla 的核心價值。我們的<a "
+#~ "href=\"%(url)s\">隱私權保護政策</a>當中的〈金流處理、聯絡與捐款資訊〉章節描述了我們會如何處理您提供的地址資訊。此資料僅用於金流處理、交易收據、詐騙偵測、紀錄保留等用途。若您想了解我們會接收哪些個人資料、信任哪些第三方供應商，以及會保存您的資料多久，請參考<a href=\"%(website_privacy)s\">網站、通訊與 Cookie 隱私權公告</a>。"
