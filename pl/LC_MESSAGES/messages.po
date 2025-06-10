@@ -1569,6 +1569,8 @@ msgid ""
 "Access your plan details from the <strong><a href=\"%(modify)s\">Donor Portal</a></strong> or from the 'Manage My Donation' button on your recent donation confirmation email. You can change the "
 "amount, frequency, payment method and charge date. You can also cancel your recurring plan and download your receipts."
 msgstr ""
+"Uzyskaj dostęp do szczegółów swojego planu z <strong><a href=\"%(modify)s\">Portalu Darczyńców</a></strong> lub z przycisku „Zarządzaj moją darowizną” w ostatnim e-mailu z potwierdzeniem darowizny. "
+"Możesz zmienić kwotę, częstotliwość, metodę płatności i datę obciążenia. Możesz również anulować swój plan cykliczny i pobrać swoje paragony."
 
 #: sites/www.thunderbird.net/includes/faq.html:61
 msgid "Does my gift give me access to tech support?"
@@ -1594,7 +1596,7 @@ msgid ""
 "href=\"%(url)s\">Donor Portal</a></strong>."
 msgstr ""
 "Otrzymasz potwierdzenie e-mailem za każdym razem, gdy przekażesz darowiznę, a w nim paragon do Twojej dokumentacji. Możesz także uzyskać dostęp do swojej historii darowizn na naszym <strong><a "
-"href=\"%(url)s\">portalu dla darczyńców</a></strong>."
+"href=\"%(url)s\">Portalu Darczyńców</a></strong>."
 
 #: sites/www.thunderbird.net/includes/faq.html:85
 msgid "Is my gift tax deductible?"
@@ -1652,6 +1654,9 @@ msgid ""
 "Your sensitive financial information never touches our servers. We send all data directly to Stripe's PCI-compliant servers through SSL. We understand that your privacy is very important. For "
 "complete information please refer to the <a href=\"%(privacy)s\">Mozilla Privacy Policy</a>."
 msgstr ""
+"Tak, używamy standardowej w branży technologii SSL, aby zapewnić bezpieczeństwo Twoich informacji. Współpracujemy ze Stripe, uznanym w branży procesorem płatności, któremu zaufały niektóre z "
+"największych firm na świecie. Twoje poufne informacje finansowe nigdy nie trafiają na nasze serwery. Wszystkie dane wysyłamy bezpośrednio na zgodne ze standardem PCI serwery Stripe za pośrednictwem "
+"protokołu SSL. Rozumiemy, że Twoja prywatność jest bardzo ważna. Aby uzyskać pełne informacje, zapoznaj się z <a href=\"%(privacy)s\">Zasadami ochrony prywatności Mozilli</a>."
 
 #: sites/www.thunderbird.net/includes/faq.html:149
 msgid "Can I request a refund?"
@@ -2022,6 +2027,8 @@ msgid ""
 "<b>Visit our </b> <a target=\"_blank\" href=\"%(url)s\"><b>Donor Portal</b></a> for <b>on-demand access to your receipts and to modify or cancel a recurring plan</b> including changing the amount, "
 "frequency, payment method and charge date."
 msgstr ""
+"<b>Odwiedź nasz </b> <a target=\"_blank\" href=\"%(url)s\"><b>Portal darczyńców</b></a>, aby uzyskać <b>dostęp na żądanie do swoich rachunków oraz zmodyfikować lub anulować plan cykliczny</b>, w tym"
+" zmienić kwotę, częstotliwość, metodę płatności i datę obciążenia."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:117
 msgid "Please note: we are unable to provide customized or summary receipts."
@@ -2155,11 +2162,11 @@ msgstr "hiszpański"
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:281
 #, python-format
 msgid "To update the email that you are using to make and manage your donations, please <b>visit our <a target=\"_blank\" href=\"%(url)s\">Donor Portal</a></b>."
-msgstr ""
+msgstr "Aby zaktualizować adres e-mail, którego używasz do przekazywania i zarządzania darowiznami, <b>odwiedź nasz <a target=\"_blank\" href=\"%(url)s\">Portal darczyńców</a></b>."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:285
 msgid "To sign in to your donor portal, please use the email that you used to make your donation."
-msgstr ""
+msgstr "Aby zalogować się do Portalu darczyńców, użyj adresu e-mail, którego użyłeś do przekazania darowizny."
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:296
 #, python-format
