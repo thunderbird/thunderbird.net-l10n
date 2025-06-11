@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-06-11 23:19+0000\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Pontoon\n"
@@ -24,11 +26,11 @@ msgstr "Подржите нас!"
 #: sites/start.thunderbird.net/beta/index.html:22 sites/start.thunderbird.net/monthly/index.html:22 sites/start.thunderbird.net/monthly/index.html:37 sites/start.thunderbird.net/release/index.html:22
 #: sites/start.thunderbird.net/release/index.html:37 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:174 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:178
 #: sites/www.thunderbird.net/donate/index.html:8 sites/www.thunderbird.net/includes/base/footer.html:41 sites/www.thunderbird.net/includes/base/nav.html:68
-#: sites/www.thunderbird.net/includes/base/nav.html:90 sites/www.thunderbird.net/includes/download-button.html:102 sites/www.thunderbird.net/includes/macros/download-desktop.html:31
-#: sites/www.thunderbird.net/includes/macros/download-mobile.html:29 sites/www.thunderbird.net/includes/macros/download-smart.html:48 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:79
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:287 sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:73 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:208
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:227 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:78
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:344
+#: sites/www.thunderbird.net/includes/base/nav.html:90 sites/www.thunderbird.net/includes/download/download-button.html:102 sites/www.thunderbird.net/includes/download/macros/download-desktop.html:31
+#: sites/www.thunderbird.net/includes/download/macros/download-mobile.html:29 sites/www.thunderbird.net/includes/download/macros/download-smart.html:48
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:79 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:287 sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:73
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:208 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:227
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:78 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:344
 msgid "Donate"
 msgstr "Донирајте"
 
@@ -342,6 +344,95 @@ msgstr ""
 msgid "If you get value from using Thunderbird, please help support it. We can’t do this without you."
 msgstr ""
 
+#: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:14
+msgid "Get New Features Every Month with <span class=\"txt-gradient\">Thunderbird Release</span>"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:23
+msgid "Get New Features <strong>Every Month</strong> with"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:24
+msgid "Thunderbird Release."
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:25
+msgid "Thunderbird <span class=\"txt-gradient\">Release</span>"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:28
+msgid "Don't wait a year for improvements, updates, and fixes. Enjoy the right balance of speed and stability for most users by switching to Thunderbird Release."
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:45
+msgid "Which release channel is best for you?"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:49
+msgid "Channel"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:50
+msgid "Stability"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:51
+msgid "New Features"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:52
+msgid "Best For"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:57
+msgid "ESR"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:58 sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:61
+#: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:68 sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:71
+#: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:81 sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:84
+#: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:91 sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:94
+#, python-format
+msgid "%(rating)s out of 5"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:64
+msgid "For those who value long-term stability and are willing to wait up to a year for new features."
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:67
+msgid "Release"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:75
+msgid "For those looking for great stability and want new features monthly."
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:76
+msgid "Most users."
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:80
+msgid "Beta"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:87
+msgid "For those willing to test releases a few weeks early and report any issues they discover."
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:90
+msgid "Daily"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:97
+msgid "For those actively developing and testing Thunderbird. Not recommended for most."
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:103
+#, python-format
+msgid "Not yet available on Microsoft Store, Snap, and Flatpak.<br> Visit our <a href=\"%(support_url)s\">Support Page</a> for more details about making the change."
+msgstr ""
+
 #: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:22
 msgid "20 Years of Thunderbird!"
 msgstr ""
@@ -405,7 +496,7 @@ msgstr ""
 msgid "Free Your Inbox."
 msgstr ""
 
-#: sites/www.thunderbird.net/includes/macros/download-block.html:12 sites/www.thunderbird.net/index.html:25
+#: sites/www.thunderbird.net/includes/download/macros/download-block.html:12 sites/www.thunderbird.net/index.html:25
 msgid "<span class=\"txt-gradient\">Free</span> Your Inbox"
 msgstr ""
 
@@ -1411,46 +1502,6 @@ msgstr ""
 msgid "Thunderbird Monthly releases are now the default download. Click to learn more"
 msgstr ""
 
-#: sites/www.thunderbird.net/includes/download-and-options.html:3 sites/www.thunderbird.net/includes/download-button.html:36
-msgid "Available on Windows, Linux, Mac, and Android."
-msgstr ""
-
-#: sites/www.thunderbird.net/includes/download-and-options.html:23 sites/www.thunderbird.net/includes/download-button.html:56
-msgid "Download and languages options"
-msgstr ""
-
-#: sites/www.thunderbird.net/includes/download-button.html:14 sites/www.thunderbird.net/includes/download-button.html:94
-msgid "Download Thunderbird"
-msgstr "Преузми Thunderbird"
-
-#: sites/www.thunderbird.net/includes/download-button.html:68
-#, python-format
-msgid "Your system doesn't meet the <a href=\"%(url)s\">requirements</a> to run Thunderbird."
-msgstr "Ваш систем не испуњава <a href=\"%(url)s\">услове</a> да покрене Thunderbird."
-
-#: sites/www.thunderbird.net/includes/download-button.html:71
-#, python-format
-msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
-msgstr "Пратите <a href=\"%(url)s\">ова упутства</a> да инсталирате Thunderbird."
-
-#: sites/www.thunderbird.net/includes/download-button.html:90
-msgid "Thunderbird Beta"
-msgstr "Thunderbird Beta"
-
-#: sites/www.thunderbird.net/includes/download-button.html:92
-msgid "Thunderbird Daily"
-msgstr "Thunderbird Daily"
-
-#: sites/www.thunderbird.net/includes/download-button.html:102 sites/www.thunderbird.net/includes/macros/download-desktop.html:30 sites/www.thunderbird.net/includes/macros/download-mobile.html:29
-#: sites/www.thunderbird.net/includes/macros/download-smart.html:48
-msgid "Free forever."
-msgstr ""
-
-#: sites/www.thunderbird.net/includes/download-button.html:102 sites/www.thunderbird.net/includes/macros/download-desktop.html:31 sites/www.thunderbird.net/includes/macros/download-mobile.html:29
-#: sites/www.thunderbird.net/includes/macros/download-smart.html:48
-msgid "to make it better."
-msgstr ""
-
 #: sites/www.thunderbird.net/includes/faq.html:7
 msgid "Contact us"
 msgstr ""
@@ -2092,15 +2143,55 @@ msgstr ""
 msgid "If you are in the US (or using a US bank account), you can donate via check. Detailed instructions are available on our <a target=\"_blank\" href=\"%(url)s\"><b>Donation FAQ</b></a> page."
 msgstr ""
 
-#: sites/www.thunderbird.net/includes/macros/download-block.html:13
+#: sites/www.thunderbird.net/includes/download/download-and-options.html:3 sites/www.thunderbird.net/includes/download/download-button.html:36
+msgid "Available on Windows, Linux, Mac, and Android."
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/download/download-and-options.html:23 sites/www.thunderbird.net/includes/download/download-button.html:56
+msgid "Download and languages options"
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/download/download-button.html:14 sites/www.thunderbird.net/includes/download/download-button.html:94
+msgid "Download Thunderbird"
+msgstr "Преузми Thunderbird"
+
+#: sites/www.thunderbird.net/includes/download/download-button.html:68
+#, python-format
+msgid "Your system doesn't meet the <a href=\"%(url)s\">requirements</a> to run Thunderbird."
+msgstr "Ваш систем не испуњава <a href=\"%(url)s\">услове</a> да покрене Thunderbird."
+
+#: sites/www.thunderbird.net/includes/download/download-button.html:71
+#, python-format
+msgid "Please follow <a href=\"%(url)s\">these instructions</a> to install Thunderbird."
+msgstr "Пратите <a href=\"%(url)s\">ова упутства</a> да инсталирате Thunderbird."
+
+#: sites/www.thunderbird.net/includes/download/download-button.html:90
+msgid "Thunderbird Beta"
+msgstr "Thunderbird Beta"
+
+#: sites/www.thunderbird.net/includes/download/download-button.html:92
+msgid "Thunderbird Daily"
+msgstr "Thunderbird Daily"
+
+#: sites/www.thunderbird.net/includes/download/download-button.html:102 sites/www.thunderbird.net/includes/download/macros/download-desktop.html:30
+#: sites/www.thunderbird.net/includes/download/macros/download-mobile.html:29 sites/www.thunderbird.net/includes/download/macros/download-smart.html:48
+msgid "Free forever."
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/download/download-button.html:102 sites/www.thunderbird.net/includes/download/macros/download-desktop.html:31
+#: sites/www.thunderbird.net/includes/download/macros/download-mobile.html:29 sites/www.thunderbird.net/includes/download/macros/download-smart.html:48
+msgid "to make it better."
+msgstr ""
+
+#: sites/www.thunderbird.net/includes/download/macros/download-block.html:13
 msgid "Are you ready to love email again?"
 msgstr ""
 
-#: sites/www.thunderbird.net/includes/macros/download-mobile.html:14
+#: sites/www.thunderbird.net/includes/download/macros/download-mobile.html:14
 msgid "Google Play"
 msgstr ""
 
-#: sites/www.thunderbird.net/includes/macros/download-mobile.html:25
+#: sites/www.thunderbird.net/includes/download/macros/download-mobile.html:25
 msgid "F-Droid"
 msgstr ""
 
