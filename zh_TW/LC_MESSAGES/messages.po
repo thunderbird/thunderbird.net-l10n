@@ -6,188 +6,130 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-06-24 06:09+0000\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Pontoon\n"
 
 #: sites/start.thunderbird.net/beta/index.html:8
-msgid "Welcome to <div class=\"tb-text\">Thunderbird <small class=\"accent-text\">Beta</small></div>"
-msgstr "歡迎使用 <div class=\"tb-text\">Thunderbird <small class=\"accent-text\">Beta 測試版</small></div>"
+msgid "Sharing Freedom – Thunderbird"
+msgstr ""
 
-#: sites/start.thunderbird.net/beta/index.html:19 sites/start.thunderbird.net/monthly/index.html:19 sites/start.thunderbird.net/release/index.html:19
-msgid "Support us!"
-msgstr "支援我們！"
+#: sites/start.thunderbird.net/beta/index.html:13
+msgid "Beta Channel"
+msgstr ""
 
-#: sites/start.thunderbird.net/beta/index.html:22 sites/start.thunderbird.net/monthly/index.html:22 sites/start.thunderbird.net/monthly/index.html:37 sites/start.thunderbird.net/release/index.html:22
-#: sites/start.thunderbird.net/release/index.html:37 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:174 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:178
-#: sites/www.thunderbird.net/donate/index.html:8 sites/www.thunderbird.net/includes/base/footer.html:41 sites/www.thunderbird.net/includes/base/nav.html:68
-#: sites/www.thunderbird.net/includes/base/nav.html:90 sites/www.thunderbird.net/includes/download/download-button.html:102 sites/www.thunderbird.net/includes/download/macros/download-desktop.html:31
-#: sites/www.thunderbird.net/includes/download/macros/download-mobile.html:29 sites/www.thunderbird.net/includes/download/macros/download-smart.html:48
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:79 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:287 sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:73
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:208 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:227
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:78 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:344
+#: sites/start.thunderbird.net/beta/index.html:16 sites/start.thunderbird.net/beta/index.html:24
+msgid "Report Issues"
+msgstr ""
+
+#: sites/start.thunderbird.net/beta/index.html:21
+msgid ""
+"Thunderbird is a gift from thousands of people like you. By using our Beta release and reporting issues, you contribute to that gift of productivity, privacy, and freedom to the world. Thank you!"
+msgstr ""
+
+#: sites/start.thunderbird.net/beta/index.html:23
+msgid "Read Docs"
+msgstr ""
+
+#: sites/start.thunderbird.net/beta/index.html:25
+msgid "Discuss"
+msgstr ""
+
+#: sites/start.thunderbird.net/beta/index.html:31
+msgid "Know the Risks First"
+msgstr ""
+
+#: sites/start.thunderbird.net/beta/index.html:32
+msgid "Thunderbird Beta is for testing."
+msgstr ""
+
+#: sites/start.thunderbird.net/beta/index.html:33
+msgid "Thunderbird Beta is not intended for general use. It can be unstable and in rare cases result in data loss. We strongly recommend you read the knowledge base article before proceeding."
+msgstr ""
+
+#: sites/start.thunderbird.net/beta/index.html:36
+msgid "Be Prepared"
+msgstr ""
+
+#: sites/start.thunderbird.net/beta/index.html:49
+#, python-format
+msgid "<a href=\"%(donate_url)s\"><strong>Donate</strong></a> to help fund the work to fix issues."
+msgstr ""
+
+#: sites/start.thunderbird.net/monthly/index.html:4 sites/www.thunderbird.net/thunderbird/all/index.html:58
+msgid "Release Channel"
+msgstr "發行頻道"
+
+#: sites/start.thunderbird.net/monthly/index.html:8
+#, python-format
+msgid "Have you tried <a href=\"%(mobile_url)s\">Thunderbird Mobile</a> for Android?"
+msgstr ""
+
+#: sites/start.thunderbird.net/release/index.html:8
+msgid "Welcome to Freedom – Thunderbird"
+msgstr ""
+
+#: sites/start.thunderbird.net/release/index.html:13
+msgid "ESR Channel"
+msgstr ""
+
+#: sites/start.thunderbird.net/release/index.html:16 sites/start.thunderbird.net/release/index.html:24 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:174
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:178 sites/www.thunderbird.net/donate/index.html:8 sites/www.thunderbird.net/includes/base/footer.html:41
+#: sites/www.thunderbird.net/includes/base/nav.html:68 sites/www.thunderbird.net/includes/base/nav.html:90 sites/www.thunderbird.net/includes/download/download-button.html:102
+#: sites/www.thunderbird.net/includes/download/macros/download-desktop.html:31 sites/www.thunderbird.net/includes/download/macros/download-mobile.html:29
+#: sites/www.thunderbird.net/includes/download/macros/download-smart.html:48 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:79
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:287 sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:73 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:208
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:227 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:78
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:344
 msgid "Donate"
 msgstr "捐款"
 
-#: sites/start.thunderbird.net/beta/index.html:31
-msgid "Warning!"
-msgstr "警告！"
+#: sites/start.thunderbird.net/release/index.html:21
+msgid "Thunderbird is a gift from thousands of people like you. We hope you'll enjoy the productivity, privacy, and freedom they make possible and we invite you to become part of that gift to others."
+msgstr ""
 
-#: sites/start.thunderbird.net/beta/index.html:32
-msgid "Beta can be unstable, and there is potential to lose data."
-msgstr "Beta 測試版可能不夠穩定，可能會遺失資料。"
-
-#: sites/start.thunderbird.net/beta/index.html:36
-msgid "Protect your data and other best practices."
-msgstr "保護您的資料與其他最佳做法。"
-
-#: sites/start.thunderbird.net/beta/index.html:38
-msgid "Knowledge Base"
-msgstr "知識庫"
-
-#: sites/start.thunderbird.net/beta/index.html:43
-msgid "Add-ons may not work properly, or not work at all."
-msgstr "無法正常使用或完全無法使用附加元件。"
-
-#: sites/start.thunderbird.net/beta/index.html:45
-msgid "Add-ons Guide"
-msgstr "附加元件指南"
-
-#: sites/start.thunderbird.net/beta/index.html:52
-msgid ""
-"Thank you for using Thunderbird Beta. Your experiences with beta are important, so please report rough edges, bugs, and provide feedback in the ways suggested below - to help make the next "
-"Thunderbird release as awesome as possible."
-msgstr "感謝您使用 Thunderbird Beta 測試版。您的測試體驗相當重要，如果有功能不夠完善或臭蟲，或想要提供意見回饋的地方，請以下面的方式回報，讓我們能夠讓下一版的 Thunderbird 更臻於完美。"
-
-#: sites/start.thunderbird.net/beta/index.html:60
-msgid "Learn and Connect"
-msgstr "了解與聯繫"
-
-#: sites/start.thunderbird.net/beta/index.html:62
-msgid "Meet other beta users and learn more about beta."
-msgstr "認識其他 Beta 使用者，也了解 Beta 版的更多資訊。"
-
-#: sites/start.thunderbird.net/beta/index.html:64
-msgid "Beta Discussion Group"
-msgstr "Beta 版使用者討論區"
-
-#: sites/start.thunderbird.net/beta/index.html:72 sites/start.thunderbird.net/monthly/index.html:45 sites/start.thunderbird.net/release/index.html:45
-msgid "Help"
-msgstr "取得幫助"
-
-#: sites/start.thunderbird.net/beta/index.html:74
-msgid ""
-"Curious about helping?  You don’t need to be an expert to help other users or offer suggestions about improving the experience! Join us in this open source project where anyone can participate in "
-"the Thunderbird community (You don’t need to be an expert, and you don’t need to know how to code)."
-msgstr "想了解要如何協助？您不需要是專家，也可以幫助其他使用者，或是提供能改善使用體驗的建議！與我們一起成為這套任何人都可以參與的 Thunderbird 開放原始碼軟體社群的一員（不是軟體專家，也不會寫任何一行程式都歡迎加入）。"
-
-#: sites/start.thunderbird.net/beta/index.html:76 sites/start.thunderbird.net/monthly/index.html:49 sites/start.thunderbird.net/release/index.html:49
-msgid "Get Involved"
+#: sites/start.thunderbird.net/release/index.html:23 sites/www.thunderbird.net/contact/index.html:38 sites/www.thunderbird.net/includes/base/footer.html:42
+#: sites/www.thunderbird.net/includes/base/nav.html:69 sites/www.thunderbird.net/participate/index.html:8
+msgid "Participate"
 msgstr "參與我們"
 
-#: sites/start.thunderbird.net/beta/index.html:84 sites/start.thunderbird.net/monthly/index.html:88 sites/start.thunderbird.net/release/index.html:93
-msgid "Crashed?"
-msgstr "發生程式錯誤？"
+#: sites/start.thunderbird.net/release/index.html:25 sites/www.thunderbird.net/includes/base/footer.html:23
+msgid "Get Help"
+msgstr "取得幫助"
 
-#: sites/start.thunderbird.net/beta/index.html:86
-msgid "If Crash Reporter appeared (when Thunderbird crashes), please provide more details to help developers"
-msgstr "若在 Thunderbird 發生錯誤（出現錯誤回報員）時，請提供更多詳細資訊來協助開發者"
+#: sites/start.thunderbird.net/release/index.html:31
+msgid "Free and Open Source"
+msgstr ""
 
-#: sites/start.thunderbird.net/beta/index.html:88 sites/start.thunderbird.net/monthly/index.html:92 sites/start.thunderbird.net/release/index.html:97
-msgid "In Thunderbird do Help > More Troubleshooting Information, scroll to \"Crash Reports\", click a recent report link to open the crash report page."
-msgstr "點擊 Thunderbird「說明」選單當中的「更多疑難排解資訊」，滾動到「錯誤報告」，點擊近期的回報鏈結，即可開啟對應的錯誤報告頁面。"
+#: sites/start.thunderbird.net/release/index.html:32
+msgid "Thunderbird is now yours forever."
+msgstr ""
 
-#: sites/start.thunderbird.net/beta/index.html:89 sites/start.thunderbird.net/monthly/index.html:93 sites/start.thunderbird.net/release/index.html:98
-msgid "Click the Bugzilla tab, then click on an existing bug report under \"Related Bugs\" and add a comment to the bug, or click \"Thunderbird\" to submit a new bug report."
-msgstr "點擊 Bugzilla 標籤，然後點擊「Related Bugs」下方的 Bug 編號來加入留言，或者是點擊「Thunderbird」來送出新的 Bug report。"
+#: sites/start.thunderbird.net/release/index.html:33
+msgid "Thunderbird is developed openly and distributed freely. Our software license protects your right to use, modify, and share Thunderbird. Our mission is to protect your privacy and freedom."
+msgstr ""
 
-#: sites/start.thunderbird.net/beta/index.html:92 sites/start.thunderbird.net/monthly/index.html:96 sites/start.thunderbird.net/release/index.html:101
-msgid "Crash Reporter"
-msgstr "程式錯誤回報員"
+#: sites/start.thunderbird.net/release/index.html:36
+msgid "Powered by Community"
+msgstr ""
 
-#: sites/start.thunderbird.net/beta/index.html:101
-msgid "Question? Problem?"
-msgstr "使用上遇到問題？"
+#: sites/start.thunderbird.net/release/index.html:37
+msgid "You can become part of our story."
+msgstr ""
 
-#: sites/start.thunderbird.net/beta/index.html:103 sites/start.thunderbird.net/monthly/index.html:66 sites/start.thunderbird.net/release/index.html:71
-msgid "Post your general Thunderbird usage questions or problems on the support page, where many knowledgeable users can help you."
-msgstr "若您有 Thunderbird 的一般使用問題，可到技術支援頁面張貼，其他使用者會在平台上協助。"
+#: sites/start.thunderbird.net/release/index.html:38
+msgid "Anyone can contribute to Thunderbird. By donating, translating, answering questions, suggesting features, reporting bugs, and more, you make Thunderbird better for yourself and the world."
+msgstr ""
 
-#: sites/start.thunderbird.net/beta/index.html:105 sites/start.thunderbird.net/monthly/index.html:68 sites/start.thunderbird.net/release/index.html:73
-msgid "Support Page"
-msgstr "技術支援頁面"
-
-#: sites/start.thunderbird.net/beta/index.html:108
-msgid "In the Beta Forum, you can post feedback, questions, and learn how to use beta. You can also compare experiences with other beta users."
-msgstr "您可以在 Beta 版使用者討論區張貼意見回饋、使用問題，並了解如何使用 Beta 版。您也可以與其他 Beta 版使用者一同討論比較你們的使用體驗。"
-
-#: sites/start.thunderbird.net/beta/index.html:110 sites/start.thunderbird.net/beta/index.html:127
-msgid "Beta Forum"
-msgstr "Beta 版使用者討論區"
-
-#: sites/start.thunderbird.net/beta/index.html:118 sites/start.thunderbird.net/monthly/index.html:76 sites/start.thunderbird.net/release/index.html:81
-msgid "Report"
-msgstr "回報 Bug"
-
-#: sites/start.thunderbird.net/beta/index.html:120 sites/start.thunderbird.net/monthly/index.html:78 sites/start.thunderbird.net/release/index.html:83
-msgid "Think you’ve found a new problem or rough edge? Create a bug report so we can make sure it gets solved, resulting in a better Thunderbird experience for all."
-msgstr "覺得找到某個新問題，或者程式運作上的小毛病嗎？請回報 Bug，讓我們可以確保能修正問題，讓大家都有更好的 Thunderbird 使用體驗。"
-
-#: sites/start.thunderbird.net/beta/index.html:122 sites/start.thunderbird.net/monthly/index.html:80 sites/start.thunderbird.net/release/index.html:85
-msgid "Report a Bug"
-msgstr "回報 Bug"
-
-#: sites/start.thunderbird.net/beta/index.html:125
-msgid "Unsure? Ask for help in the beta forum."
-msgstr "不確定是不是 Bug？歡迎到 Beta 版使用者討論區尋求支援。"
-
-#: sites/start.thunderbird.net/monthly/index.html:8 sites/start.thunderbird.net/release/index.html:8
-msgid "Welcome to <div class=\"tb-text\">Thunderbird</div>"
-msgstr "歡迎使用 <div class=\"tb-text\">Thunderbird</div>"
-
-#: sites/start.thunderbird.net/monthly/index.html:33 sites/start.thunderbird.net/release/index.html:33
-msgid "Support Us"
-msgstr "支援我們！"
-
-#: sites/start.thunderbird.net/monthly/index.html:35 sites/start.thunderbird.net/release/index.html:35
-msgid ""
-"Thank you for supporting Thunderbird, which is funded by users like you! Producing Thunderbird requires software engineers, designers, system administrators and server infrastructure. So if you like"
-" Thunderbird, the best way to ensure Thunderbird remains available is to make a donation."
-msgstr "感謝您支援 Thunderbird，這套軟體是由像您這樣的使用者所資助發展的！開發 Thunderbird 需要有軟體工程師、設計師、系統管理員與維護基礎系統架構。所以若您喜愛 Thunderbird，請捐款給我們，讓 Thunderbird 能持續運作。"
-
-#: sites/start.thunderbird.net/monthly/index.html:47 sites/start.thunderbird.net/release/index.html:47
-msgid ""
-"Curious about helping? You don’t need to be an expert or know how to code to help other users or offer suggestions about improving the experience! Join us in this open source project where anyone "
-"can participate in the Thunderbird community."
-msgstr "想了解要如何協助？您不需要是專家或會寫程式，就可以幫助其他使用者，或是提供能改善使用體驗的建議！與我們一起成為這套任何人都可以參與的 Thunderbird 開放原始碼軟體社群的一員。"
-
-#: sites/start.thunderbird.net/monthly/index.html:52 sites/start.thunderbird.net/release/index.html:52
-msgid "Share ideas and feedback."
-msgstr "分享想法與意見回饋。"
-
-#: sites/start.thunderbird.net/monthly/index.html:54 sites/start.thunderbird.net/release/index.html:54 sites/www.thunderbird.net/desktop/index.html:207 sites/www.thunderbird.net/mobile/index.html:205
-#: sites/www.thunderbird.net/participate/index.html:151
-msgid "Mozilla Connect"
-msgstr "Mozilla Connect"
-
-#: sites/start.thunderbird.net/monthly/index.html:64 sites/start.thunderbird.net/release/index.html:69
-msgid "Questions? Problems?"
-msgstr "使用上遇到問題？"
-
-#: sites/start.thunderbird.net/monthly/index.html:90 sites/start.thunderbird.net/release/index.html:95
-msgid "If Crash Reporter appears when Thunderbird crashes, please provide as many details as possible to help developers."
-msgstr "若在 Thunderbird 發生錯誤（出現錯誤回報員）時，請盡可能提供詳細資訊來協助開發者找出問題。"
-
-#: sites/start.thunderbird.net/release/index.html:57
-msgid "Help make Thunderbird better."
-msgstr "幫助我們，讓 Thunderbird 變得更好。"
-
-#: sites/start.thunderbird.net/release/index.html:59
-msgid "Get the Beta"
-msgstr "下載測試版"
+#: sites/start.thunderbird.net/release/index.html:44
+#, python-format
+msgid "Want new features sooner? Learn about <a href=\"%(release_url)s\"><strong>Thunderbird Release</strong></a>."
+msgstr ""
 
 #: sites/updates.thunderbird.net/index.html:8 sites/updates.thunderbird.net/index.html:24
 msgid "Hello!"
@@ -1273,11 +1215,6 @@ msgstr "商業團隊"
 msgid "Organizations wanting to sponsor software development or obtain assistance in large-scale deployments should email our Business Team. This team also handles other partnership inquiries."
 msgstr "若您的單位希望贊助軟體開發，或取得大規模佈署的相關協助，請聯絡我們的商業團隊。若有合作需求，也歡迎聯絡本團隊。"
 
-#: sites/www.thunderbird.net/contact/index.html:38 sites/www.thunderbird.net/includes/base/footer.html:42 sites/www.thunderbird.net/includes/base/nav.html:69
-#: sites/www.thunderbird.net/participate/index.html:8
-msgid "Participate"
-msgstr "參與我們"
-
 #: sites/www.thunderbird.net/contact/index.html:38
 msgid "Participate Page"
 msgstr "參與頁面"
@@ -1494,6 +1431,10 @@ msgstr "分享點子"
 #: sites/www.thunderbird.net/desktop/index.html:206 sites/www.thunderbird.net/mobile/index.html:204
 msgid "When developers, designers, and users work together amazing things happen. Come share your ideas for how Thunderbird could be better."
 msgstr "當開發者、設計師、使用者一同合作，就能做出驚人的產品，一起來分享您的點子，讓 Thunderbird 變得更好。"
+
+#: sites/www.thunderbird.net/desktop/index.html:207 sites/www.thunderbird.net/mobile/index.html:205 sites/www.thunderbird.net/participate/index.html:151
+msgid "Mozilla Connect"
+msgstr "Mozilla Connect"
 
 #: sites/www.thunderbird.net/desktop/index.html:210 sites/www.thunderbird.net/mobile/index.html:208
 msgid "Find Support"
@@ -1856,10 +1797,6 @@ msgstr "Thunderbird 行動版"
 #: sites/www.thunderbird.net/includes/base/footer.html:22 sites/www.thunderbird.net/includes/base/nav.html:38
 msgid "Blog"
 msgstr "部落格"
-
-#: sites/www.thunderbird.net/includes/base/footer.html:23
-msgid "Get Help"
-msgstr "取得幫助"
 
 #: sites/www.thunderbird.net/includes/base/footer.html:24 sites/www.thunderbird.net/includes/base/nav.html:78 sites/www.thunderbird.net/includes/base/nav.html:84
 #: sites/www.thunderbird.net/includes/download/macros/download-smart.html:30 sites/www.thunderbird.net/includes/download/macros/download-smart.html:43
@@ -3771,10 +3708,6 @@ msgstr ""
 msgid "Locale"
 msgstr "語系"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:58
-msgid "Release Channel"
-msgstr "發行頻道"
-
 #: sites/www.thunderbird.net/thunderbird/all/index.html:73
 msgid "Operating System"
 msgstr "作業系統"
@@ -3862,3 +3795,125 @@ msgstr "Thunderbird 桌面板桌布"
 #: sites/www.thunderbird.net/thunderbird/wallpaper/index.html:17
 msgid "Thunderbird Desktop Wallpaer"
 msgstr "Thunderbird 桌面板桌布"
+
+#~ msgid "Welcome to <div class=\"tb-text\">Thunderbird <small class=\"accent-text\">Beta</small></div>"
+#~ msgstr "歡迎使用 <div class=\"tb-text\">Thunderbird <small class=\"accent-text\">Beta 測試版</small></div>"
+
+#~ msgid "Support us!"
+#~ msgstr "支援我們！"
+
+#~ msgid "Warning!"
+#~ msgstr "警告！"
+
+#~ msgid "Beta can be unstable, and there is potential to lose data."
+#~ msgstr "Beta 測試版可能不夠穩定，可能會遺失資料。"
+
+#~ msgid "Protect your data and other best practices."
+#~ msgstr "保護您的資料與其他最佳做法。"
+
+#~ msgid "Knowledge Base"
+#~ msgstr "知識庫"
+
+#~ msgid "Add-ons may not work properly, or not work at all."
+#~ msgstr "無法正常使用或完全無法使用附加元件。"
+
+#~ msgid "Add-ons Guide"
+#~ msgstr "附加元件指南"
+
+#~ msgid ""
+#~ "Thank you for using Thunderbird Beta. Your experiences with beta are important, so please report rough edges, bugs, and provide feedback in the ways suggested below - to help make the next "
+#~ "Thunderbird release as awesome as possible."
+#~ msgstr "感謝您使用 Thunderbird Beta 測試版。您的測試體驗相當重要，如果有功能不夠完善或臭蟲，或想要提供意見回饋的地方，請以下面的方式回報，讓我們能夠讓下一版的 Thunderbird 更臻於完美。"
+
+#~ msgid "Learn and Connect"
+#~ msgstr "了解與聯繫"
+
+#~ msgid "Meet other beta users and learn more about beta."
+#~ msgstr "認識其他 Beta 使用者，也了解 Beta 版的更多資訊。"
+
+#~ msgid "Beta Discussion Group"
+#~ msgstr "Beta 版使用者討論區"
+
+#~ msgid "Help"
+#~ msgstr "取得幫助"
+
+#~ msgid ""
+#~ "Curious about helping?  You don’t need to be an expert to help other users or offer suggestions about improving the experience! Join us in this open source project where anyone can participate in "
+#~ "the Thunderbird community (You don’t need to be an expert, and you don’t need to know how to code)."
+#~ msgstr "想了解要如何協助？您不需要是專家，也可以幫助其他使用者，或是提供能改善使用體驗的建議！與我們一起成為這套任何人都可以參與的 Thunderbird 開放原始碼軟體社群的一員（不是軟體專家，也不會寫任何一行程式都歡迎加入）。"
+
+#~ msgid "Get Involved"
+#~ msgstr "參與我們"
+
+#~ msgid "Crashed?"
+#~ msgstr "發生程式錯誤？"
+
+#~ msgid "If Crash Reporter appeared (when Thunderbird crashes), please provide more details to help developers"
+#~ msgstr "若在 Thunderbird 發生錯誤（出現錯誤回報員）時，請提供更多詳細資訊來協助開發者"
+
+#~ msgid "In Thunderbird do Help > More Troubleshooting Information, scroll to \"Crash Reports\", click a recent report link to open the crash report page."
+#~ msgstr "點擊 Thunderbird「說明」選單當中的「更多疑難排解資訊」，滾動到「錯誤報告」，點擊近期的回報鏈結，即可開啟對應的錯誤報告頁面。"
+
+#~ msgid "Click the Bugzilla tab, then click on an existing bug report under \"Related Bugs\" and add a comment to the bug, or click \"Thunderbird\" to submit a new bug report."
+#~ msgstr "點擊 Bugzilla 標籤，然後點擊「Related Bugs」下方的 Bug 編號來加入留言，或者是點擊「Thunderbird」來送出新的 Bug report。"
+
+#~ msgid "Crash Reporter"
+#~ msgstr "程式錯誤回報員"
+
+#~ msgid "Question? Problem?"
+#~ msgstr "使用上遇到問題？"
+
+#~ msgid "Post your general Thunderbird usage questions or problems on the support page, where many knowledgeable users can help you."
+#~ msgstr "若您有 Thunderbird 的一般使用問題，可到技術支援頁面張貼，其他使用者會在平台上協助。"
+
+#~ msgid "Support Page"
+#~ msgstr "技術支援頁面"
+
+#~ msgid "In the Beta Forum, you can post feedback, questions, and learn how to use beta. You can also compare experiences with other beta users."
+#~ msgstr "您可以在 Beta 版使用者討論區張貼意見回饋、使用問題，並了解如何使用 Beta 版。您也可以與其他 Beta 版使用者一同討論比較你們的使用體驗。"
+
+#~ msgid "Beta Forum"
+#~ msgstr "Beta 版使用者討論區"
+
+#~ msgid "Report"
+#~ msgstr "回報 Bug"
+
+#~ msgid "Think you’ve found a new problem or rough edge? Create a bug report so we can make sure it gets solved, resulting in a better Thunderbird experience for all."
+#~ msgstr "覺得找到某個新問題，或者程式運作上的小毛病嗎？請回報 Bug，讓我們可以確保能修正問題，讓大家都有更好的 Thunderbird 使用體驗。"
+
+#~ msgid "Report a Bug"
+#~ msgstr "回報 Bug"
+
+#~ msgid "Unsure? Ask for help in the beta forum."
+#~ msgstr "不確定是不是 Bug？歡迎到 Beta 版使用者討論區尋求支援。"
+
+#~ msgid "Welcome to <div class=\"tb-text\">Thunderbird</div>"
+#~ msgstr "歡迎使用 <div class=\"tb-text\">Thunderbird</div>"
+
+#~ msgid "Support Us"
+#~ msgstr "支援我們！"
+
+#~ msgid ""
+#~ "Thank you for supporting Thunderbird, which is funded by users like you! Producing Thunderbird requires software engineers, designers, system administrators and server infrastructure. So if you like"
+#~ " Thunderbird, the best way to ensure Thunderbird remains available is to make a donation."
+#~ msgstr "感謝您支援 Thunderbird，這套軟體是由像您這樣的使用者所資助發展的！開發 Thunderbird 需要有軟體工程師、設計師、系統管理員與維護基礎系統架構。所以若您喜愛 Thunderbird，請捐款給我們，讓 Thunderbird 能持續運作。"
+
+#~ msgid ""
+#~ "Curious about helping? You don’t need to be an expert or know how to code to help other users or offer suggestions about improving the experience! Join us in this open source project where anyone "
+#~ "can participate in the Thunderbird community."
+#~ msgstr "想了解要如何協助？您不需要是專家或會寫程式，就可以幫助其他使用者，或是提供能改善使用體驗的建議！與我們一起成為這套任何人都可以參與的 Thunderbird 開放原始碼軟體社群的一員。"
+
+#~ msgid "Share ideas and feedback."
+#~ msgstr "分享想法與意見回饋。"
+
+#~ msgid "Questions? Problems?"
+#~ msgstr "使用上遇到問題？"
+
+#~ msgid "If Crash Reporter appears when Thunderbird crashes, please provide as many details as possible to help developers."
+#~ msgstr "若在 Thunderbird 發生錯誤（出現錯誤回報員）時，請盡可能提供詳細資訊來協助開發者找出問題。"
+
+#~ msgid "Help make Thunderbird better."
+#~ msgstr "幫助我們，讓 Thunderbird 變得更好。"
+
+#~ msgid "Get the Beta"
+#~ msgstr "下載測試版"

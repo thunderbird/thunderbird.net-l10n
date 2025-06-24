@@ -6,201 +6,130 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-06-24 06:09+0000\n"
 "Language: es_AR\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
 
 #: sites/start.thunderbird.net/beta/index.html:8
-msgid "Welcome to <div class=\"tb-text\">Thunderbird <small class=\"accent-text\">Beta</small></div>"
-msgstr "Bienvenido a <div class=\"tb-text\">Thunderbird <small class=\"accent-text\">Beta</small></div>"
+msgid "Sharing Freedom – Thunderbird"
+msgstr ""
 
-#: sites/start.thunderbird.net/beta/index.html:19 sites/start.thunderbird.net/monthly/index.html:19 sites/start.thunderbird.net/release/index.html:19
-msgid "Support us!"
-msgstr "¡Ayudanos!"
+#: sites/start.thunderbird.net/beta/index.html:13
+msgid "Beta Channel"
+msgstr ""
 
-#: sites/start.thunderbird.net/beta/index.html:22 sites/start.thunderbird.net/monthly/index.html:22 sites/start.thunderbird.net/monthly/index.html:37 sites/start.thunderbird.net/release/index.html:22
-#: sites/start.thunderbird.net/release/index.html:37 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:174 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:178
-#: sites/www.thunderbird.net/donate/index.html:8 sites/www.thunderbird.net/includes/base/footer.html:41 sites/www.thunderbird.net/includes/base/nav.html:68
-#: sites/www.thunderbird.net/includes/base/nav.html:90 sites/www.thunderbird.net/includes/download/download-button.html:102 sites/www.thunderbird.net/includes/download/macros/download-desktop.html:31
-#: sites/www.thunderbird.net/includes/download/macros/download-mobile.html:29 sites/www.thunderbird.net/includes/download/macros/download-smart.html:48
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:79 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:287 sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:73
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:208 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:227
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:78 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:344
+#: sites/start.thunderbird.net/beta/index.html:16 sites/start.thunderbird.net/beta/index.html:24
+msgid "Report Issues"
+msgstr ""
+
+#: sites/start.thunderbird.net/beta/index.html:21
+msgid ""
+"Thunderbird is a gift from thousands of people like you. By using our Beta release and reporting issues, you contribute to that gift of productivity, privacy, and freedom to the world. Thank you!"
+msgstr ""
+
+#: sites/start.thunderbird.net/beta/index.html:23
+msgid "Read Docs"
+msgstr ""
+
+#: sites/start.thunderbird.net/beta/index.html:25
+msgid "Discuss"
+msgstr ""
+
+#: sites/start.thunderbird.net/beta/index.html:31
+msgid "Know the Risks First"
+msgstr ""
+
+#: sites/start.thunderbird.net/beta/index.html:32
+msgid "Thunderbird Beta is for testing."
+msgstr ""
+
+#: sites/start.thunderbird.net/beta/index.html:33
+msgid "Thunderbird Beta is not intended for general use. It can be unstable and in rare cases result in data loss. We strongly recommend you read the knowledge base article before proceeding."
+msgstr ""
+
+#: sites/start.thunderbird.net/beta/index.html:36
+msgid "Be Prepared"
+msgstr ""
+
+#: sites/start.thunderbird.net/beta/index.html:49
+#, python-format
+msgid "<a href=\"%(donate_url)s\"><strong>Donate</strong></a> to help fund the work to fix issues."
+msgstr ""
+
+#: sites/start.thunderbird.net/monthly/index.html:4 sites/www.thunderbird.net/thunderbird/all/index.html:58
+msgid "Release Channel"
+msgstr "Canal de lanzamiento"
+
+#: sites/start.thunderbird.net/monthly/index.html:8
+#, python-format
+msgid "Have you tried <a href=\"%(mobile_url)s\">Thunderbird Mobile</a> for Android?"
+msgstr ""
+
+#: sites/start.thunderbird.net/release/index.html:8
+msgid "Welcome to Freedom – Thunderbird"
+msgstr ""
+
+#: sites/start.thunderbird.net/release/index.html:13
+msgid "ESR Channel"
+msgstr ""
+
+#: sites/start.thunderbird.net/release/index.html:16 sites/start.thunderbird.net/release/index.html:24 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:174
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:178 sites/www.thunderbird.net/donate/index.html:8 sites/www.thunderbird.net/includes/base/footer.html:41
+#: sites/www.thunderbird.net/includes/base/nav.html:68 sites/www.thunderbird.net/includes/base/nav.html:90 sites/www.thunderbird.net/includes/download/download-button.html:102
+#: sites/www.thunderbird.net/includes/download/macros/download-desktop.html:31 sites/www.thunderbird.net/includes/download/macros/download-mobile.html:29
+#: sites/www.thunderbird.net/includes/download/macros/download-smart.html:48 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:79
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:287 sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:73 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:208
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:227 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:78
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:344
 msgid "Donate"
 msgstr "Doná"
 
-#: sites/start.thunderbird.net/beta/index.html:31
-msgid "Warning!"
-msgstr "¡Advertencia!"
-
-#: sites/start.thunderbird.net/beta/index.html:32
-msgid "Beta can be unstable, and there is potential to lose data."
-msgstr "La beta puede ser inestable y hay posibilidades de perder datos."
-
-#: sites/start.thunderbird.net/beta/index.html:36
-msgid "Protect your data and other best practices."
-msgstr "Protegé tus datos y otras prácticas mejores."
-
-#: sites/start.thunderbird.net/beta/index.html:38
-msgid "Knowledge Base"
-msgstr "Base de conocimientos"
-
-#: sites/start.thunderbird.net/beta/index.html:43
-msgid "Add-ons may not work properly, or not work at all."
-msgstr "Es posible que los complementos no funcionen correctamente o no funcionen en absoluto."
-
-#: sites/start.thunderbird.net/beta/index.html:45
-msgid "Add-ons Guide"
-msgstr "Guía de complementos"
-
-#: sites/start.thunderbird.net/beta/index.html:52
-msgid ""
-"Thank you for using Thunderbird Beta. Your experiences with beta are important, so please report rough edges, bugs, and provide feedback in the ways suggested below - to help make the next "
-"Thunderbird release as awesome as possible."
+#: sites/start.thunderbird.net/release/index.html:21
+msgid "Thunderbird is a gift from thousands of people like you. We hope you'll enjoy the productivity, privacy, and freedom they make possible and we invite you to become part of that gift to others."
 msgstr ""
-"Gracias por usar Thunderbird Beta. Tus experiencias con la versión beta son importantes, por lo tanto informanos sobre los detalles, errores y proporcioná comentarios en las formas sugeridas a "
-"continuación, para ayudar a que la próxima versión de Thunderbird sea lo más increíble posible."
 
-#: sites/start.thunderbird.net/beta/index.html:60
-msgid "Learn and Connect"
-msgstr "Aprendé y conectate"
+#: sites/start.thunderbird.net/release/index.html:23 sites/www.thunderbird.net/contact/index.html:38 sites/www.thunderbird.net/includes/base/footer.html:42
+#: sites/www.thunderbird.net/includes/base/nav.html:69 sites/www.thunderbird.net/participate/index.html:8
+msgid "Participate"
+msgstr "Participá"
 
-#: sites/start.thunderbird.net/beta/index.html:62
-msgid "Meet other beta users and learn more about beta."
-msgstr "Conocé a otros usuarios beta y conoce más sobre beta."
+#: sites/start.thunderbird.net/release/index.html:25 sites/www.thunderbird.net/includes/base/footer.html:23
+msgid "Get Help"
+msgstr "Obtené ayuda"
 
-#: sites/start.thunderbird.net/beta/index.html:64
-msgid "Beta Discussion Group"
-msgstr "Grupo de discusión Beta"
-
-#: sites/start.thunderbird.net/beta/index.html:72 sites/start.thunderbird.net/monthly/index.html:45 sites/start.thunderbird.net/release/index.html:45
-msgid "Help"
-msgstr "Ayuda"
-
-#: sites/start.thunderbird.net/beta/index.html:74
-msgid ""
-"Curious about helping?  You don’t need to be an expert to help other users or offer suggestions about improving the experience! Join us in this open source project where anyone can participate in "
-"the Thunderbird community (You don’t need to be an expert, and you don’t need to know how to code)."
+#: sites/start.thunderbird.net/release/index.html:31
+msgid "Free and Open Source"
 msgstr ""
-"¿Tenés curiosidad por ayudar?  ¡No necesitás ser un experto para ayudar a otros usuarios o para ofrecer sugerencias para mejorar la experiencia! Unite a este proyecto de código abierto donde "
-"cualquiera puede participar en la comunidad de Thunderbird (No necesitás ser un experto y no necesitás saber programación)."
 
-#: sites/start.thunderbird.net/beta/index.html:76 sites/start.thunderbird.net/monthly/index.html:49 sites/start.thunderbird.net/release/index.html:49
-msgid "Get Involved"
-msgstr "Involucrate"
-
-#: sites/start.thunderbird.net/beta/index.html:84 sites/start.thunderbird.net/monthly/index.html:88 sites/start.thunderbird.net/release/index.html:93
-msgid "Crashed?"
-msgstr "¿Falló?"
-
-#: sites/start.thunderbird.net/beta/index.html:86
-msgid "If Crash Reporter appeared (when Thunderbird crashes), please provide more details to help developers"
-msgstr "Si apareció Crash Reporter (cuando Thunderbird falla), proporcioná más detalles para ayudar a los desarrolladores"
-
-#: sites/start.thunderbird.net/beta/index.html:88 sites/start.thunderbird.net/monthly/index.html:92 sites/start.thunderbird.net/release/index.html:97
-msgid "In Thunderbird do Help > More Troubleshooting Information, scroll to \"Crash Reports\", click a recent report link to open the crash report page."
+#: sites/start.thunderbird.net/release/index.html:32
+msgid "Thunderbird is now yours forever."
 msgstr ""
-"En Thunderbird hacé clic en Ayuda > Más información sobre la solución de errores, desplazate hasta \"Informes de fallos\", y hacé clic en un enlace de algún informe reciente para abrir la página de "
-"informes de fallos."
 
-#: sites/start.thunderbird.net/beta/index.html:89 sites/start.thunderbird.net/monthly/index.html:93 sites/start.thunderbird.net/release/index.html:98
-msgid "Click the Bugzilla tab, then click on an existing bug report under \"Related Bugs\" and add a comment to the bug, or click \"Thunderbird\" to submit a new bug report."
+#: sites/start.thunderbird.net/release/index.html:33
+msgid "Thunderbird is developed openly and distributed freely. Our software license protects your right to use, modify, and share Thunderbird. Our mission is to protect your privacy and freedom."
 msgstr ""
-"Hacé clic en la pestaña de Bugzilla, después clic en un informe de fallos existente en \"Bugs relacionados\" y agregá un comentario o hacé clic en \"Thunderbird\" para enviar un nuevo informe de "
-"fallos."
 
-#: sites/start.thunderbird.net/beta/index.html:92 sites/start.thunderbird.net/monthly/index.html:96 sites/start.thunderbird.net/release/index.html:101
-msgid "Crash Reporter"
-msgstr "Informe de fallos"
-
-#: sites/start.thunderbird.net/beta/index.html:101
-msgid "Question? Problem?"
-msgstr "¿Preguntas? ¿Problemas?"
-
-#: sites/start.thunderbird.net/beta/index.html:103 sites/start.thunderbird.net/monthly/index.html:66 sites/start.thunderbird.net/release/index.html:71
-msgid "Post your general Thunderbird usage questions or problems on the support page, where many knowledgeable users can help you."
-msgstr "Publicá tus preguntas o problemas generales sobre el uso de Thunderbird en la página de ayuda, donde muchos usuarios pueden ayudarte."
-
-#: sites/start.thunderbird.net/beta/index.html:105 sites/start.thunderbird.net/monthly/index.html:68 sites/start.thunderbird.net/release/index.html:73
-msgid "Support Page"
-msgstr "Página de soporte"
-
-#: sites/start.thunderbird.net/beta/index.html:108
-msgid "In the Beta Forum, you can post feedback, questions, and learn how to use beta. You can also compare experiences with other beta users."
-msgstr "En el foro Beta, podés publicar comentarios, preguntas y aprender a usar la versión beta. También podés comparar tu experiencia con la de otros usuarios."
-
-#: sites/start.thunderbird.net/beta/index.html:110 sites/start.thunderbird.net/beta/index.html:127
-msgid "Beta Forum"
-msgstr "Foro Beta"
-
-#: sites/start.thunderbird.net/beta/index.html:118 sites/start.thunderbird.net/monthly/index.html:76 sites/start.thunderbird.net/release/index.html:81
-msgid "Report"
-msgstr "Informar"
-
-#: sites/start.thunderbird.net/beta/index.html:120 sites/start.thunderbird.net/monthly/index.html:78 sites/start.thunderbird.net/release/index.html:83
-msgid "Think you’ve found a new problem or rough edge? Create a bug report so we can make sure it gets solved, resulting in a better Thunderbird experience for all."
+#: sites/start.thunderbird.net/release/index.html:36
+msgid "Powered by Community"
 msgstr ""
-"¿Creés que enccontraste un nuevo problema o error? Creá un informe de error para que podamos asegurarnos que sea resuelto, lo que dará como resultado una mejor experiencia para todos en Thunderbird."
 
-#: sites/start.thunderbird.net/beta/index.html:122 sites/start.thunderbird.net/monthly/index.html:80 sites/start.thunderbird.net/release/index.html:85
-msgid "Report a Bug"
-msgstr "Informá sobre una falla"
-
-#: sites/start.thunderbird.net/beta/index.html:125
-msgid "Unsure? Ask for help in the beta forum."
-msgstr "¿No estás seguro? Pedí ayuda en el foro beta."
-
-#: sites/start.thunderbird.net/monthly/index.html:8 sites/start.thunderbird.net/release/index.html:8
-msgid "Welcome to <div class=\"tb-text\">Thunderbird</div>"
-msgstr "Bienvenido a <div class=\"tb-text\">Thunderbird</div>"
-
-#: sites/start.thunderbird.net/monthly/index.html:33 sites/start.thunderbird.net/release/index.html:33
-msgid "Support Us"
-msgstr "Ayudanos"
-
-#: sites/start.thunderbird.net/monthly/index.html:35 sites/start.thunderbird.net/release/index.html:35
-msgid ""
-"Thank you for supporting Thunderbird, which is funded by users like you! Producing Thunderbird requires software engineers, designers, system administrators and server infrastructure. So if you like"
-" Thunderbird, the best way to ensure Thunderbird remains available is to make a donation."
+#: sites/start.thunderbird.net/release/index.html:37
+msgid "You can become part of our story."
 msgstr ""
-"¡Gracias por apoyar a Thunderbird, que está financiado por usuarios como vos! Producir Thunderbird requiere ingenieros de software, diseñadores, administradores de sistemas e infraestructura de "
-"servidores. Así que si te gusta Thunderbird, la mejor manera de asegurarte de que Thunderbird siga disponible es hacer una donación."
 
-#: sites/start.thunderbird.net/monthly/index.html:47 sites/start.thunderbird.net/release/index.html:47
-msgid ""
-"Curious about helping? You don’t need to be an expert or know how to code to help other users or offer suggestions about improving the experience! Join us in this open source project where anyone "
-"can participate in the Thunderbird community."
+#: sites/start.thunderbird.net/release/index.html:38
+msgid "Anyone can contribute to Thunderbird. By donating, translating, answering questions, suggesting features, reporting bugs, and more, you make Thunderbird better for yourself and the world."
 msgstr ""
-"¿Tenés curiosidad por ayudar? ¡No necesitás ser un experto o saber programación para ayudar a otros usuarios o para ofrecer sugerencias para mejorar la experiencia! Unite a este proyecto de código "
-"abierto donde cualquiera puede participar en la comunidad de Thunderbird."
 
-#: sites/start.thunderbird.net/monthly/index.html:52 sites/start.thunderbird.net/release/index.html:52
-msgid "Share ideas and feedback."
-msgstr "Compartir ideas y opiniones."
-
-#: sites/start.thunderbird.net/monthly/index.html:54 sites/start.thunderbird.net/release/index.html:54 sites/www.thunderbird.net/desktop/index.html:207 sites/www.thunderbird.net/mobile/index.html:205
-#: sites/www.thunderbird.net/participate/index.html:151
-msgid "Mozilla Connect"
-msgstr "Mozilla Connect"
-
-#: sites/start.thunderbird.net/monthly/index.html:64 sites/start.thunderbird.net/release/index.html:69
-msgid "Questions? Problems?"
-msgstr "¿Preguntas? ¿Problemas?"
-
-#: sites/start.thunderbird.net/monthly/index.html:90 sites/start.thunderbird.net/release/index.html:95
-msgid "If Crash Reporter appears when Thunderbird crashes, please provide as many details as possible to help developers."
-msgstr "Si aparece Crash Reporter cuando Thunderbird falla, proporcioná la mayor cantidad de detalles posibles para ayudar a los desarrolladores."
-
-#: sites/start.thunderbird.net/release/index.html:57
-msgid "Help make Thunderbird better."
-msgstr "Ayudá a mejorar Thunderbird."
-
-#: sites/start.thunderbird.net/release/index.html:59
-msgid "Get the Beta"
-msgstr "Conseguí la beta"
+#: sites/start.thunderbird.net/release/index.html:44
+#, python-format
+msgid "Want new features sooner? Learn about <a href=\"%(release_url)s\"><strong>Thunderbird Release</strong></a>."
+msgstr ""
 
 #: sites/updates.thunderbird.net/index.html:8 sites/updates.thunderbird.net/index.html:24
 msgid "Hello!"
@@ -1364,11 +1293,6 @@ msgstr ""
 "Las organizaciones que deseen patrocinar el desarrollo del software u obtener asistencia en implementaciones a gran escala deben enviar un correo electrónico a nuestro equipo comercial. Este equipo "
 "también maneja otras consultas acerca de asociaciones."
 
-#: sites/www.thunderbird.net/contact/index.html:38 sites/www.thunderbird.net/includes/base/footer.html:42 sites/www.thunderbird.net/includes/base/nav.html:69
-#: sites/www.thunderbird.net/participate/index.html:8
-msgid "Participate"
-msgstr "Participá"
-
 #: sites/www.thunderbird.net/contact/index.html:38
 msgid "Participate Page"
 msgstr "Página de participación"
@@ -1594,6 +1518,10 @@ msgstr "Compartir ideas"
 #: sites/www.thunderbird.net/desktop/index.html:206 sites/www.thunderbird.net/mobile/index.html:204
 msgid "When developers, designers, and users work together amazing things happen. Come share your ideas for how Thunderbird could be better."
 msgstr "Cuando desarrolladores, diseñadores y usuarios trabajan juntos, pasan cosas alucinantes. Compartí tus ideas sobre Thunderbird."
+
+#: sites/www.thunderbird.net/desktop/index.html:207 sites/www.thunderbird.net/mobile/index.html:205 sites/www.thunderbird.net/participate/index.html:151
+msgid "Mozilla Connect"
+msgstr "Mozilla Connect"
 
 #: sites/www.thunderbird.net/desktop/index.html:210 sites/www.thunderbird.net/mobile/index.html:208
 msgid "Find Support"
@@ -1995,10 +1923,6 @@ msgstr "Thunderbird Mobile"
 #: sites/www.thunderbird.net/includes/base/footer.html:22 sites/www.thunderbird.net/includes/base/nav.html:38
 msgid "Blog"
 msgstr "Blog"
-
-#: sites/www.thunderbird.net/includes/base/footer.html:23
-msgid "Get Help"
-msgstr "Obtené ayuda"
 
 #: sites/www.thunderbird.net/includes/base/footer.html:24 sites/www.thunderbird.net/includes/base/nav.html:78 sites/www.thunderbird.net/includes/base/nav.html:84
 #: sites/www.thunderbird.net/includes/download/macros/download-smart.html:30 sites/www.thunderbird.net/includes/download/macros/download-smart.html:43
@@ -4095,10 +4019,6 @@ msgstr "La versión mensual oficial. Esta versión está dirigida a usuarios que
 msgid "Locale"
 msgstr "Idioma"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:58
-msgid "Release Channel"
-msgstr "Canal de lanzamiento"
-
 #: sites/www.thunderbird.net/thunderbird/all/index.html:73
 msgid "Operating System"
 msgstr "Sistema operativo"
@@ -4186,3 +4106,138 @@ msgstr "Fondo de pantalla de Thunderbird"
 #: sites/www.thunderbird.net/thunderbird/wallpaper/index.html:17
 msgid "Thunderbird Desktop Wallpaer"
 msgstr "Fondo de pantalla de Thunderbird"
+
+#~ msgid "Welcome to <div class=\"tb-text\">Thunderbird <small class=\"accent-text\">Beta</small></div>"
+#~ msgstr "Bienvenido a <div class=\"tb-text\">Thunderbird <small class=\"accent-text\">Beta</small></div>"
+
+#~ msgid "Support us!"
+#~ msgstr "¡Ayudanos!"
+
+#~ msgid "Warning!"
+#~ msgstr "¡Advertencia!"
+
+#~ msgid "Beta can be unstable, and there is potential to lose data."
+#~ msgstr "La beta puede ser inestable y hay posibilidades de perder datos."
+
+#~ msgid "Protect your data and other best practices."
+#~ msgstr "Protegé tus datos y otras prácticas mejores."
+
+#~ msgid "Knowledge Base"
+#~ msgstr "Base de conocimientos"
+
+#~ msgid "Add-ons may not work properly, or not work at all."
+#~ msgstr "Es posible que los complementos no funcionen correctamente o no funcionen en absoluto."
+
+#~ msgid "Add-ons Guide"
+#~ msgstr "Guía de complementos"
+
+#~ msgid ""
+#~ "Thank you for using Thunderbird Beta. Your experiences with beta are important, so please report rough edges, bugs, and provide feedback in the ways suggested below - to help make the next "
+#~ "Thunderbird release as awesome as possible."
+#~ msgstr ""
+#~ "Gracias por usar Thunderbird Beta. Tus experiencias con la versión beta son importantes, por lo tanto informanos sobre los detalles, errores y proporcioná comentarios en las formas sugeridas a "
+#~ "continuación, para ayudar a que la próxima versión de Thunderbird sea lo más increíble posible."
+
+#~ msgid "Learn and Connect"
+#~ msgstr "Aprendé y conectate"
+
+#~ msgid "Meet other beta users and learn more about beta."
+#~ msgstr "Conocé a otros usuarios beta y conoce más sobre beta."
+
+#~ msgid "Beta Discussion Group"
+#~ msgstr "Grupo de discusión Beta"
+
+#~ msgid "Help"
+#~ msgstr "Ayuda"
+
+#~ msgid ""
+#~ "Curious about helping?  You don’t need to be an expert to help other users or offer suggestions about improving the experience! Join us in this open source project where anyone can participate in "
+#~ "the Thunderbird community (You don’t need to be an expert, and you don’t need to know how to code)."
+#~ msgstr ""
+#~ "¿Tenés curiosidad por ayudar?  ¡No necesitás ser un experto para ayudar a otros usuarios o para ofrecer sugerencias para mejorar la experiencia! Unite a este proyecto de código abierto donde "
+#~ "cualquiera puede participar en la comunidad de Thunderbird (No necesitás ser un experto y no necesitás saber programación)."
+
+#~ msgid "Get Involved"
+#~ msgstr "Involucrate"
+
+#~ msgid "Crashed?"
+#~ msgstr "¿Falló?"
+
+#~ msgid "If Crash Reporter appeared (when Thunderbird crashes), please provide more details to help developers"
+#~ msgstr "Si apareció Crash Reporter (cuando Thunderbird falla), proporcioná más detalles para ayudar a los desarrolladores"
+
+#~ msgid "In Thunderbird do Help > More Troubleshooting Information, scroll to \"Crash Reports\", click a recent report link to open the crash report page."
+#~ msgstr ""
+#~ "En Thunderbird hacé clic en Ayuda > Más información sobre la solución de errores, desplazate hasta \"Informes de fallos\", y hacé clic en un enlace de algún informe reciente para abrir la página de "
+#~ "informes de fallos."
+
+#~ msgid "Click the Bugzilla tab, then click on an existing bug report under \"Related Bugs\" and add a comment to the bug, or click \"Thunderbird\" to submit a new bug report."
+#~ msgstr ""
+#~ "Hacé clic en la pestaña de Bugzilla, después clic en un informe de fallos existente en \"Bugs relacionados\" y agregá un comentario o hacé clic en \"Thunderbird\" para enviar un nuevo informe de "
+#~ "fallos."
+
+#~ msgid "Crash Reporter"
+#~ msgstr "Informe de fallos"
+
+#~ msgid "Question? Problem?"
+#~ msgstr "¿Preguntas? ¿Problemas?"
+
+#~ msgid "Post your general Thunderbird usage questions or problems on the support page, where many knowledgeable users can help you."
+#~ msgstr "Publicá tus preguntas o problemas generales sobre el uso de Thunderbird en la página de ayuda, donde muchos usuarios pueden ayudarte."
+
+#~ msgid "Support Page"
+#~ msgstr "Página de soporte"
+
+#~ msgid "In the Beta Forum, you can post feedback, questions, and learn how to use beta. You can also compare experiences with other beta users."
+#~ msgstr "En el foro Beta, podés publicar comentarios, preguntas y aprender a usar la versión beta. También podés comparar tu experiencia con la de otros usuarios."
+
+#~ msgid "Beta Forum"
+#~ msgstr "Foro Beta"
+
+#~ msgid "Report"
+#~ msgstr "Informar"
+
+#~ msgid "Think you’ve found a new problem or rough edge? Create a bug report so we can make sure it gets solved, resulting in a better Thunderbird experience for all."
+#~ msgstr ""
+#~ "¿Creés que enccontraste un nuevo problema o error? Creá un informe de error para que podamos asegurarnos que sea resuelto, lo que dará como resultado una mejor experiencia para todos en Thunderbird."
+
+#~ msgid "Report a Bug"
+#~ msgstr "Informá sobre una falla"
+
+#~ msgid "Unsure? Ask for help in the beta forum."
+#~ msgstr "¿No estás seguro? Pedí ayuda en el foro beta."
+
+#~ msgid "Welcome to <div class=\"tb-text\">Thunderbird</div>"
+#~ msgstr "Bienvenido a <div class=\"tb-text\">Thunderbird</div>"
+
+#~ msgid "Support Us"
+#~ msgstr "Ayudanos"
+
+#~ msgid ""
+#~ "Thank you for supporting Thunderbird, which is funded by users like you! Producing Thunderbird requires software engineers, designers, system administrators and server infrastructure. So if you like"
+#~ " Thunderbird, the best way to ensure Thunderbird remains available is to make a donation."
+#~ msgstr ""
+#~ "¡Gracias por apoyar a Thunderbird, que está financiado por usuarios como vos! Producir Thunderbird requiere ingenieros de software, diseñadores, administradores de sistemas e infraestructura de "
+#~ "servidores. Así que si te gusta Thunderbird, la mejor manera de asegurarte de que Thunderbird siga disponible es hacer una donación."
+
+#~ msgid ""
+#~ "Curious about helping? You don’t need to be an expert or know how to code to help other users or offer suggestions about improving the experience! Join us in this open source project where anyone "
+#~ "can participate in the Thunderbird community."
+#~ msgstr ""
+#~ "¿Tenés curiosidad por ayudar? ¡No necesitás ser un experto o saber programación para ayudar a otros usuarios o para ofrecer sugerencias para mejorar la experiencia! Unite a este proyecto de código "
+#~ "abierto donde cualquiera puede participar en la comunidad de Thunderbird."
+
+#~ msgid "Share ideas and feedback."
+#~ msgstr "Compartir ideas y opiniones."
+
+#~ msgid "Questions? Problems?"
+#~ msgstr "¿Preguntas? ¿Problemas?"
+
+#~ msgid "If Crash Reporter appears when Thunderbird crashes, please provide as many details as possible to help developers."
+#~ msgstr "Si aparece Crash Reporter cuando Thunderbird falla, proporcioná la mayor cantidad de detalles posibles para ayudar a los desarrolladores."
+
+#~ msgid "Help make Thunderbird better."
+#~ msgstr "Ayudá a mejorar Thunderbird."
+
+#~ msgid "Get the Beta"
+#~ msgstr "Conseguí la beta"
