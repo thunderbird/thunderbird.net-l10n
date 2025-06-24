@@ -6,104 +6,107 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-06-24 21:23+0000\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Pontoon\n"
 
-#: sites/start.thunderbird.net/beta/index.html:8
+#: sites/start.thunderbird.net/beta/index.html:13
 msgid "Sharing Freedom – Thunderbird"
 msgstr "Chia sẻ tự do – Thunderbird"
 
-#: sites/start.thunderbird.net/beta/index.html:13
+#: sites/start.thunderbird.net/beta/index.html:18
 msgid "Beta Channel"
 msgstr "Kênh beta"
 
-#: sites/start.thunderbird.net/beta/index.html:16 sites/start.thunderbird.net/beta/index.html:24
+#: sites/start.thunderbird.net/beta/index.html:21 sites/start.thunderbird.net/beta/index.html:29
 msgid "Report Issues"
 msgstr "Báo cáo sự cố"
 
-#: sites/start.thunderbird.net/beta/index.html:20
+#: sites/start.thunderbird.net/beta/index.html:25
 msgid "Sharing <span class=\"gradient-text\">Freedom</span>"
 msgstr ""
 
-#: sites/start.thunderbird.net/beta/index.html:21
+#: sites/start.thunderbird.net/beta/index.html:26
 msgid ""
 "Thunderbird is a gift from thousands of people like you. By using our Beta release and reporting issues, you contribute to that gift of productivity, privacy, and freedom to the world. Thank you!"
 msgstr ""
 "Thunderbird là món quà từ hàng ngàn người như bạn. Bằng cách sử dụng bản phát hành Beta và báo cáo sự cố, bạn đã đóng góp vào cải thiện năng suất, quyền riêng tư và tự do cho thế giới. Cảm ơn bạn!"
 
-#: sites/start.thunderbird.net/beta/index.html:23
+#: sites/start.thunderbird.net/beta/index.html:28
 msgid "Read Docs"
 msgstr "Đọc tài liệu"
 
-#: sites/start.thunderbird.net/beta/index.html:25
+#: sites/start.thunderbird.net/beta/index.html:30
 msgid "Discuss"
 msgstr "Thảo luận"
 
-#: sites/start.thunderbird.net/beta/index.html:31
+#: sites/start.thunderbird.net/beta/index.html:36
 msgid "Know the Risks First"
 msgstr "Biết những rủi ro trước"
 
-#: sites/start.thunderbird.net/beta/index.html:32
+#: sites/start.thunderbird.net/beta/index.html:37
 msgid "Thunderbird Beta is for testing."
 msgstr "Thunderbird Beta dành cho thử nghiệm."
 
-#: sites/start.thunderbird.net/beta/index.html:33
-msgid "Thunderbird Beta is not intended for general use. It can be unstable and in rare cases result in data loss. We strongly recommend you read the knowledge base article before proceeding."
-msgstr ""
-"Thunderbird Beta không dành cho mục đích sử dụng chung. Nó có thể không ổn định và trong một số trường hợp hiếm hoi có thể dẫn đến mất dữ liệu. Chúng tôi đặc biệt khuyên bạn nên đọc bài viết trong "
-"cơ sở kiến ​​thức trước khi tiếp tục."
-
-#: sites/start.thunderbird.net/beta/index.html:36
-msgid "Be Prepared"
-msgstr "Hãy chuẩn bị"
-
 #: sites/start.thunderbird.net/beta/index.html:38
-msgid "Regularly backup your beta profile to prevent data loss."
-msgstr ""
-
-#: sites/start.thunderbird.net/beta/index.html:39
-msgid "Anticipate frequent updates and ensure proper installation into a beta-specific directory."
-msgstr ""
-
-#: sites/start.thunderbird.net/beta/index.html:40
-msgid "If using mail filters, run them in only one profile."
-msgstr ""
-
-#: sites/start.thunderbird.net/beta/index.html:41
-msgid "Be aware that some add-ons may not be compatible with beta."
+#, python-format
+msgid ""
+"Thunderbird Beta is not intended for general use. It can be unstable and in rare cases result in data loss. We strongly recommend you read <a href=\"%(kb_url)s\">the knowledge base article</a> "
+"before proceeding."
 msgstr ""
 
 #: sites/start.thunderbird.net/beta/index.html:42
+msgid "Be Prepared"
+msgstr "Hãy chuẩn bị"
+
+#: sites/start.thunderbird.net/beta/index.html:44
+msgid "Regularly backup your beta profile to prevent data loss."
+msgstr ""
+
+#: sites/start.thunderbird.net/beta/index.html:45
+msgid "Anticipate frequent updates and ensure proper installation into a beta-specific directory."
+msgstr ""
+
+#: sites/start.thunderbird.net/beta/index.html:46
+msgid "If using mail filters, run them in only one profile."
+msgstr ""
+
+#: sites/start.thunderbird.net/beta/index.html:47
+msgid "Be aware that some add-ons may not be compatible with beta."
+msgstr ""
+
+#: sites/start.thunderbird.net/beta/index.html:48
 msgid "Avoid using POP accounts with beta. If necessary, configure to leave messages on the server indefinitely."
 msgstr ""
 
-#: sites/start.thunderbird.net/beta/index.html:49
+#: sites/start.thunderbird.net/beta/index.html:55
 #, python-format
 msgid "<a href=\"%(donate_url)s\"><strong>Donate</strong></a> to help fund the work to fix issues."
 msgstr "<a href=\"%(donate_url)s\"><strong>Quyên góp</strong></a> để giúp tài trợ cho công việc khắc phục sự cố."
 
-#: sites/start.thunderbird.net/monthly/index.html:4 sites/www.thunderbird.net/thunderbird/all/index.html:58
+#: sites/start.thunderbird.net/monthly/index.html:7 sites/www.thunderbird.net/thunderbird/all/index.html:58
 msgid "Release Channel"
 msgstr "Kênh chính thức"
 
-#: sites/start.thunderbird.net/monthly/index.html:8
+#: sites/start.thunderbird.net/monthly/index.html:11
 #, python-format
 msgid "Have you tried <a href=\"%(mobile_url)s\">Thunderbird Mobile</a> for Android?"
 msgstr "Bạn đã thử <a href=\"%(mobile_url)s\">Thunderbird Mobile</a> dành cho Android chưa?"
 
-#: sites/start.thunderbird.net/release/index.html:8
+#: sites/start.thunderbird.net/release/index.html:14
 msgid "Welcome to Freedom – Thunderbird"
 msgstr "Chào mừng đến với tự do – Thunderbird"
 
-#: sites/start.thunderbird.net/release/index.html:13
+#: sites/start.thunderbird.net/release/index.html:19
 msgid "ESR Channel"
 msgstr "Kênh ESR"
 
-#: sites/start.thunderbird.net/release/index.html:16 sites/start.thunderbird.net/release/index.html:24 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:174
+#: sites/start.thunderbird.net/release/index.html:22 sites/start.thunderbird.net/release/index.html:30 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:174
 #: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:178 sites/www.thunderbird.net/donate/index.html:8 sites/www.thunderbird.net/includes/base/footer.html:41
 #: sites/www.thunderbird.net/includes/base/nav.html:68 sites/www.thunderbird.net/includes/base/nav.html:90 sites/www.thunderbird.net/includes/download/download-button.html:102
 #: sites/www.thunderbird.net/includes/download/macros/download-desktop.html:31 sites/www.thunderbird.net/includes/download/macros/download-mobile.html:29
@@ -114,54 +117,54 @@ msgstr "Kênh ESR"
 msgid "Donate"
 msgstr "Quyên góp"
 
-#: sites/start.thunderbird.net/release/index.html:20
+#: sites/start.thunderbird.net/release/index.html:26
 msgid "Welcome to <span class=\"gradient-text\">Freedom</span>"
 msgstr ""
 
-#: sites/start.thunderbird.net/release/index.html:21
+#: sites/start.thunderbird.net/release/index.html:27
 msgid "Thunderbird is a gift from thousands of people like you. We hope you'll enjoy the productivity, privacy, and freedom they make possible and we invite you to become part of that gift to others."
 msgstr ""
 "Thunderbird là món quà từ hàng ngàn người như bạn. Chúng tôi hy vọng bạn sẽ tận hưởng năng suất, sự riêng tư và tự do mà chúng mang lại và chúng tôi mời bạn trở thành một phần của món quà đó dành "
 "cho những người khác."
 
-#: sites/start.thunderbird.net/release/index.html:23 sites/www.thunderbird.net/contact/index.html:38 sites/www.thunderbird.net/includes/base/footer.html:42
+#: sites/start.thunderbird.net/release/index.html:29 sites/www.thunderbird.net/contact/index.html:38 sites/www.thunderbird.net/includes/base/footer.html:42
 #: sites/www.thunderbird.net/includes/base/nav.html:69 sites/www.thunderbird.net/participate/index.html:8
 msgid "Participate"
 msgstr "Tham gia"
 
-#: sites/start.thunderbird.net/release/index.html:25 sites/www.thunderbird.net/includes/base/footer.html:23
+#: sites/start.thunderbird.net/release/index.html:31 sites/www.thunderbird.net/includes/base/footer.html:23
 msgid "Get Help"
 msgstr "Nhận trợ giúp"
 
-#: sites/start.thunderbird.net/release/index.html:31
+#: sites/start.thunderbird.net/release/index.html:37
 msgid "Free and Open Source"
 msgstr "Miễn phí và mã nguồn mở"
 
-#: sites/start.thunderbird.net/release/index.html:32
+#: sites/start.thunderbird.net/release/index.html:38
 msgid "Thunderbird is now yours forever."
 msgstr "Thunderbird bây giờ là của bạn mãi mãi."
 
-#: sites/start.thunderbird.net/release/index.html:33
+#: sites/start.thunderbird.net/release/index.html:39
 msgid "Thunderbird is developed openly and distributed freely. Our software license protects your right to use, modify, and share Thunderbird. Our mission is to protect your privacy and freedom."
 msgstr ""
 "Thunderbird được phát triển công khai và phân phối miễn phí. Giấy phép phần mềm của chúng tôi bảo vệ quyền sử dụng, sửa đổi và chia sẻ Thunderbird của bạn. Sứ mệnh của chúng tôi là bảo vệ quyền "
 "riêng tư và tự do của bạn."
 
-#: sites/start.thunderbird.net/release/index.html:36
+#: sites/start.thunderbird.net/release/index.html:42
 msgid "Powered by Community"
 msgstr "Được hỗ trợ bởi cộng đồng"
 
-#: sites/start.thunderbird.net/release/index.html:37
+#: sites/start.thunderbird.net/release/index.html:43
 msgid "You can become part of our story."
 msgstr "Bạn có thể trở thành một phần trong câu chuyện của chúng tôi."
 
-#: sites/start.thunderbird.net/release/index.html:38
+#: sites/start.thunderbird.net/release/index.html:44
 msgid "Anyone can contribute to Thunderbird. By donating, translating, answering questions, suggesting features, reporting bugs, and more, you make Thunderbird better for yourself and the world."
 msgstr ""
 "Bất kỳ ai cũng có thể đóng góp cho Thunderbird. Bằng cách quyên góp, dịch, trả lời câu hỏi, đề xuất tính năng, báo cáo lỗi và nhiều hơn nữa, bạn sẽ giúp Thunderbird tốt hơn cho chính mình và thế "
 "giới."
 
-#: sites/start.thunderbird.net/release/index.html:44
+#: sites/start.thunderbird.net/release/index.html:50
 #, python-format
 msgid "Want new features sooner? Learn about <a href=\"%(release_url)s\"><strong>Thunderbird Release</strong></a>."
 msgstr "Bạn muốn có các tính năng mới sớm hơn? Tìm hiểu về <a href=\"%(release_url)s\"><strong>bản phát hành chính thức của Thunderbird</strong></a>."
@@ -4147,3 +4150,8 @@ msgstr "Hình nền máy tính để bàn Thunderbird"
 #: sites/www.thunderbird.net/thunderbird/wallpaper/index.html:17
 msgid "Thunderbird Desktop Wallpaer"
 msgstr "Hình nền máy tính để bàn Thunderbird"
+
+#~ msgid "Thunderbird Beta is not intended for general use. It can be unstable and in rare cases result in data loss. We strongly recommend you read the knowledge base article before proceeding."
+#~ msgstr ""
+#~ "Thunderbird Beta không dành cho mục đích sử dụng chung. Nó có thể không ổn định và trong một số trường hợp hiếm hoi có thể dẫn đến mất dữ liệu. Chúng tôi đặc biệt khuyên bạn nên đọc bài viết trong "
+#~ "cơ sở kiến ​​thức trước khi tiếp tục."
