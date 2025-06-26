@@ -6,14 +6,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-06-26 16:27+0000\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
 
-#: sites/start.thunderbird.net/beta/index.html:13
+#: sites/start.thunderbird.net/beta/index.html:13 sites/start.thunderbird.net/daily/index.html:8
 msgid "Sharing Freedom – Thunderbird"
 msgstr "Libertà di condividere — Thunderbird"
 
@@ -21,11 +23,11 @@ msgstr "Libertà di condividere — Thunderbird"
 msgid "Beta Channel"
 msgstr "Canale Beta"
 
-#: sites/start.thunderbird.net/beta/index.html:21 sites/start.thunderbird.net/beta/index.html:29
+#: sites/start.thunderbird.net/beta/index.html:21 sites/start.thunderbird.net/beta/index.html:29 sites/start.thunderbird.net/daily/index.html:16 sites/start.thunderbird.net/daily/index.html:24
 msgid "Report Issues"
 msgstr "Segnala problemi"
 
-#: sites/start.thunderbird.net/beta/index.html:25
+#: sites/start.thunderbird.net/beta/index.html:25 sites/start.thunderbird.net/daily/index.html:20
 msgid "Sharing <span class=\"gradient-text\">Freedom</span>"
 msgstr "Condividi la <span class=\"gradient-text\">libertà</span>"
 
@@ -35,15 +37,15 @@ msgid ""
 msgstr ""
 "Thunderbird è un regalo da parte di migliaia di persone come te. Utilizzando la versione Beta e segnalando i problemi, contribuisci a donare produttività, privacy e libertà al mondo intero. Grazie!"
 
-#: sites/start.thunderbird.net/beta/index.html:28
+#: sites/start.thunderbird.net/beta/index.html:28 sites/start.thunderbird.net/daily/index.html:23
 msgid "Read Docs"
 msgstr "Leggi la documentazione"
 
-#: sites/start.thunderbird.net/beta/index.html:30
+#: sites/start.thunderbird.net/beta/index.html:30 sites/start.thunderbird.net/daily/index.html:25
 msgid "Discuss"
 msgstr "Discuti"
 
-#: sites/start.thunderbird.net/beta/index.html:36
+#: sites/start.thunderbird.net/beta/index.html:36 sites/start.thunderbird.net/daily/index.html:31
 msgid "Know the Risks First"
 msgstr "Informati prima sui rischi"
 
@@ -88,6 +90,55 @@ msgstr "Evita di utilizzare account POP con la versione beta. Se necessario, con
 #, python-format
 msgid "<a href=\"%(donate_url)s\"><strong>Donate</strong></a> to help fund the work to fix issues."
 msgstr "<a href=\"%(donate_url)s\"><strong>Fai una donazione</strong></a> per contribuire a finanziare il lavoro che ci consente di risolvere i problemi."
+
+#: sites/start.thunderbird.net/daily/index.html:13
+msgid "Daily Channel"
+msgstr ""
+
+#: sites/start.thunderbird.net/daily/index.html:21
+msgid ""
+"Thunderbird is a gift from thousands of people like you. By using our Daily release and reporting issues, you contribute to that gift of productivity, privacy, and freedom to the world. Thank you!"
+msgstr ""
+
+#: sites/start.thunderbird.net/daily/index.html:32
+msgid "Thunderbird Daily is for development."
+msgstr ""
+
+#: sites/start.thunderbird.net/daily/index.html:33
+#, python-format
+msgid ""
+"Thunderbird Daily is not intended for general use. As a precaution, assume it will be unstable and result in data loss. We recommend you <a href=\"%(forum_url)s\">join the Daily forum</a> to keep up"
+" to date with any news."
+msgstr ""
+
+#: sites/start.thunderbird.net/daily/index.html:37
+msgid "Take Precautions"
+msgstr ""
+
+#: sites/start.thunderbird.net/daily/index.html:39
+msgid "Prioritize frequent, thorough backups of your daily profile."
+msgstr ""
+
+#: sites/start.thunderbird.net/daily/index.html:40
+msgid "Expect very frequent, disruptive updates and install strictly to a daily-specific directory."
+msgstr ""
+
+#: sites/start.thunderbird.net/daily/index.html:41
+msgid "Limit mail filters to a single daily profile, or preferably, avoid them."
+msgstr ""
+
+#: sites/start.thunderbird.net/daily/index.html:42
+msgid "Assume most add-ons won’t work."
+msgstr ""
+
+#: sites/start.thunderbird.net/daily/index.html:43
+msgid "Avoid using POP accounts with daily. If necessary, configure to leave messages on the server indefinitely."
+msgstr ""
+
+#: sites/start.thunderbird.net/daily/index.html:50
+#, python-format
+msgid "Looking for something a bit more stable? Try <a href=\"%(beta_url)s\"><strong>Thunderbird Beta</strong></a>."
+msgstr ""
 
 #: sites/start.thunderbird.net/monthly/index.html:7 sites/www.thunderbird.net/thunderbird/all/index.html:58
 msgid "Release Channel"
