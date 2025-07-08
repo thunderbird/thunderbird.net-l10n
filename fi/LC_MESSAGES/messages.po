@@ -97,7 +97,7 @@ msgstr ""
 
 #: sites/start.thunderbird.net/daily/index.html:32
 msgid "Thunderbird Daily is for development."
-msgstr ""
+msgstr "Thunderbird Daily on tarkoitettu kehittäjille."
 
 #: sites/start.thunderbird.net/daily/index.html:33
 #, python-format
@@ -105,6 +105,8 @@ msgid ""
 "Thunderbird Daily is not intended for general use. As a precaution, assume it will be unstable and result in data loss. We recommend you <a href=\"%(forum_url)s\">join the Daily forum</a> to keep up"
 " to date with any news."
 msgstr ""
+"Thunderbird Daily ei ole tarkoitettu yleiseen käyttöön. Varotoimenpiteenä oleta, että se on epävakaa ja johtaa tietojen menetykseen. Suosittelemme, että <a href=\"%(forum_url)s\">liityt Daily-"
+"foorumille</a> pysyäksesi ajan tasalla uutisista."
 
 #: sites/start.thunderbird.net/daily/index.html:37
 msgid "Take Precautions"
@@ -387,15 +389,15 @@ msgstr ""
 
 #: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:45
 msgid "Which release channel is best for you?"
-msgstr ""
+msgstr "Mikä julkaisukanava sopii sinulle parhaiten?"
 
 #: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:49
 msgid "Channel"
-msgstr ""
+msgstr "Kanava"
 
 #: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:50
 msgid "Stability"
-msgstr ""
+msgstr "Vakaus"
 
 #: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:51
 msgid "New Features"
@@ -447,7 +449,7 @@ msgstr ""
 
 #: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:97
 msgid "For those actively developing and testing Thunderbird. Not recommended for most."
-msgstr ""
+msgstr "Niille, jotka kehittävät ja testaavat Thunderbirdiä aktiivisesti. Ei suositella useimmille."
 
 #: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:103
 #, python-format
@@ -533,7 +535,7 @@ msgstr ""
 
 #: sites/updates.thunderbird.net/thunderbird/140.0/whatsnew/index.html:60
 msgid "Dark Message Mode"
-msgstr ""
+msgstr "Viestien tumma tila"
 
 #: sites/updates.thunderbird.net/thunderbird/140.0/whatsnew/index.html:68
 msgid "Thunderbird’s Dark Mode now automatically adapts your messages when enabled, with a quick optional toggle to adjust your message view as needed."
@@ -541,7 +543,7 @@ msgstr ""
 
 #: sites/updates.thunderbird.net/thunderbird/140.0/whatsnew/index.html:79
 msgid "Native OS Notifications"
-msgstr ""
+msgstr "Käyttöjärjestelmän natiivit ilmoitukset"
 
 #: sites/updates.thunderbird.net/thunderbird/140.0/whatsnew/index.html:87
 msgid ""
@@ -559,7 +561,7 @@ msgstr ""
 
 #: sites/updates.thunderbird.net/thunderbird/140.0/whatsnew/index.html:120
 msgid "Appearance Settings"
-msgstr ""
+msgstr "Ulkoasun asetukset"
 
 #: sites/updates.thunderbird.net/thunderbird/140.0/whatsnew/index.html:128
 msgid ""
@@ -569,7 +571,7 @@ msgstr ""
 
 #: sites/updates.thunderbird.net/thunderbird/140.0/whatsnew/index.html:139
 msgid "Account Hub"
-msgstr ""
+msgstr "Tilikeskus"
 
 #: sites/updates.thunderbird.net/thunderbird/140.0/whatsnew/index.html:147
 msgid "Adding a new account to Thunderbird is now easier than ever. Connect all of your emails, address books and calendars in a few easy steps."
@@ -577,19 +579,19 @@ msgstr ""
 
 #: sites/updates.thunderbird.net/thunderbird/140.0/whatsnew/index.html:158
 msgid "and a lot more..."
-msgstr ""
+msgstr "ja paljon muuta..."
 
 #: sites/updates.thunderbird.net/thunderbird/140.0/whatsnew/index.html:168
 msgid "Experimental Exchange Email support"
-msgstr ""
+msgstr "Kokeellinen Exchange-sähköpostituki"
 
 #: sites/updates.thunderbird.net/thunderbird/140.0/whatsnew/index.html:175
 msgid "Natively set up a Microsoft Exchange account in Thunderbird by enabling a preference."
-msgstr ""
+msgstr "Määritä Microsoft Exchange -tili Thunderbirdissä ottamalla käyttöön asetus."
 
 #: sites/updates.thunderbird.net/thunderbird/140.0/whatsnew/index.html:186
 msgid "Export for Mobile"
-msgstr ""
+msgstr "Vie mobiililaitteelle"
 
 #: sites/updates.thunderbird.net/thunderbird/140.0/whatsnew/index.html:193
 msgid "Generate a QR code to quickly transfer your account settings and credentials to your Thunderbird for Android app."
@@ -605,7 +607,7 @@ msgstr ""
 
 #: sites/updates.thunderbird.net/thunderbird/140.0/whatsnew/index.html:222
 msgid "Bug Fixes and Improvements"
-msgstr ""
+msgstr "Virheenkorjauksia ja parannuksia"
 
 #: sites/updates.thunderbird.net/thunderbird/140.0/whatsnew/index.html:229
 msgid "Thousands of bug fixes and performance improvements to bring you the smooth, reliable Thunderbird experience you expect."
@@ -613,7 +615,7 @@ msgstr ""
 
 #: sites/updates.thunderbird.net/thunderbird/140.0/whatsnew/index.html:240
 msgid "Upgrade to the new Thunderbird Release"
-msgstr ""
+msgstr "Päivitä uuteen Thunderbird-versioon"
 
 #: sites/updates.thunderbird.net/thunderbird/140.0/whatsnew/index.html:246
 msgid "Don’t wait a year for the next release — enjoy monthly updates with the same dependable stability."
@@ -3877,21 +3879,25 @@ msgstr "Thunderbird ylläpitää ja jakelee näitä virallisesti. Lataa uusin ju
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:29
 msgid "The Daily channel is where development and testing begin, and new features are developed. This is expected to be the least stable channel. Make sure you back up important data regularly."
-msgstr ""
+msgstr "Päivittäinen kanava on se, jossa kehitys ja testaus alkavat, ja jossa kehitetään uusia ominaisuuksia. Tämän odotetaan olevan vähiten vakaa kanava. Varmuuskopioi tärkeät tiedot säännöllisesti."
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:32
 msgid ""
 "The Beta channel is where stabilization occurs. This is expected to be more stable than Daily, but not as stable as the Release or Extended Support Release channels. Make sure you back up important "
 "data regularly."
 msgstr ""
+"Vakauttaminen tapahtuu beetaversiossa. Tämän odotetaan olevan vakaampi kuin päivittäisen version, mutta ei yhtä vakaa kuin julkaisu- tai laajennetun tuen version. Varmuuskopioi tärkeät tiedot "
+"säännöllisesti."
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:35
 msgid "The official annual extended support release. This release is intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis."
 msgstr ""
+"Virallinen vuosittainen laajennetun tuen julkaisu. Tämä julkaisu on tarkoitettu käyttäjille, jotka haluavat kaikki saatavilla olevat uudet ominaisuudet vuosittain ja vakaus-/tietoturvakorjaukset "
+"kuukausittain."
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:38
 msgid "The official monthly release. This release is intended for users who want all available new features and bug fixes on a monthly basis."
-msgstr ""
+msgstr "Virallinen kuukausittainen julkaisu. Tämä julkaisu on tarkoitettu käyttäjille, jotka haluavat kaikki saatavilla olevat uudet ominaisuudet ja virheenkorjaukset kuukausittain."
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:44
 msgid "Locale"
@@ -3935,11 +3941,11 @@ msgstr "Järjestelmävaatimukset"
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:152
 msgid "New"
-msgstr ""
+msgstr "Uusi"
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:155 sites/www.thunderbird.net/thunderbird/all/index.html:219
 msgid "These are officially maintained and distributed by Thunderbird Mobile."
-msgstr ""
+msgstr "Näitä ylläpitää ja jakelee virallisesti Thunderbird Mobile."
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:171
 msgid "Binary (.apk)"
