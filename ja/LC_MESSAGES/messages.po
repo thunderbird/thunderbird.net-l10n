@@ -32,7 +32,7 @@ msgstr "<span class=\"gradient-text\">自由</span> を共有する"
 #: sites/start.thunderbird.net/beta/index.html:26
 msgid ""
 "Thunderbird is a gift from thousands of people like you. By using our Beta release and reporting issues, you contribute to that gift of productivity, privacy, and freedom to the world. Thank you!"
-msgstr "Thunderbird は、あなたのような数多くのユーザーからの贈り物です。Beta 版を使用して問題を報告していただくことで、生産性、プライバシー保護、そして自由という贈り物を世界に届ける活動に貢献できます。ご協力に感謝します！"
+msgstr "Thunderbird は、あなたのような数多くのユーザーからの贈り物です。Beta リリースを使用して問題を報告していただくことで、生産性、プライバシー保護、そして自由という贈り物を世界に届ける活動に貢献できます。ご協力に感謝します！"
 
 #: sites/start.thunderbird.net/beta/index.html:28 sites/start.thunderbird.net/daily/index.html:23
 msgid "Read Docs"
@@ -48,14 +48,14 @@ msgstr "まず危険性を知る"
 
 #: sites/start.thunderbird.net/beta/index.html:37
 msgid "Thunderbird Beta is for testing."
-msgstr "Thunderbird ベータ版はテスト用です。"
+msgstr "Thunderbird Beta はテスト用です。"
 
 #: sites/start.thunderbird.net/beta/index.html:38
 #, python-format
 msgid ""
 "Thunderbird Beta is not intended for general use. It can be unstable and in rare cases result in data loss. We strongly recommend you read <a href=\"%(kb_url)s\">the knowledge base article</a> "
 "before proceeding."
-msgstr "Thunderbird ベータ版は一般利用を想定していません。不安定になる可能性があり、稀にデータ損失が発生する場合があります。続ける前に、<a href=\"%(kb_url)s\">ナレッジベースの記事</a> を必ずお読みください。"
+msgstr "Thunderbird Beta は一般利用を想定していません。不安定になる可能性があり、稀にデータ損失が発生する場合があります。続ける前に、<a href=\"%(kb_url)s\">ナレッジベースの記事</a> を必ずお読みください。"
 
 #: sites/start.thunderbird.net/beta/index.html:42
 msgid "Be Prepared"
@@ -67,7 +67,7 @@ msgstr "データの損失を防ぐため、Beta プロファイルを定期的�
 
 #: sites/start.thunderbird.net/beta/index.html:45
 msgid "Anticipate frequent updates and ensure proper installation into a beta-specific directory."
-msgstr "頻繁な更新を予期し、Beta 版専用のディレクトリーへの適切なインストールを実行してください。"
+msgstr "頻繁な更新を予期し、Beta 専用のディレクトリーへの適切なインストールを実行してください。"
 
 #: sites/start.thunderbird.net/beta/index.html:46
 msgid "If using mail filters, run them in only one profile."
@@ -75,11 +75,11 @@ msgstr "メールフィルターを利用する場合は、一つのプロファ
 
 #: sites/start.thunderbird.net/beta/index.html:47
 msgid "Be aware that some add-ons may not be compatible with beta."
-msgstr ""
+msgstr "一部のアドオンは Beta と互換性がないかもしれないので注意してください。"
 
 #: sites/start.thunderbird.net/beta/index.html:48
 msgid "Avoid using POP accounts with beta. If necessary, configure to leave messages on the server indefinitely."
-msgstr ""
+msgstr "Beta では POP アカウントの使用を避けてください。必要に応じて、メッセージをサーバーに無期限に残すように設定してください。"
 
 #: sites/start.thunderbird.net/beta/index.html:55
 #, python-format
@@ -93,7 +93,7 @@ msgstr "Daily チャンネル"
 #: sites/start.thunderbird.net/daily/index.html:21
 msgid ""
 "Thunderbird is a gift from thousands of people like you. By using our Daily release and reporting issues, you contribute to that gift of productivity, privacy, and freedom to the world. Thank you!"
-msgstr ""
+msgstr "Thunderbird は、あなたのような数多くのユーザーからの贈り物です。Daily リリースを使用して問題を報告していただくことで、生産性、プライバシー保護、そして自由という贈り物を世界に届ける活動に貢献できます。ご協力に感謝します！"
 
 #: sites/start.thunderbird.net/daily/index.html:32
 msgid "Thunderbird Daily is for development."
@@ -124,16 +124,16 @@ msgstr ""
 
 #: sites/start.thunderbird.net/daily/index.html:42
 msgid "Assume most add-ons won’t work."
-msgstr ""
+msgstr "ほとんどのアドオンは動作しないものと想定してください。"
 
 #: sites/start.thunderbird.net/daily/index.html:43
 msgid "Avoid using POP accounts with daily. If necessary, configure to leave messages on the server indefinitely."
-msgstr ""
+msgstr "Daily では POP アカウントの使用を避けてください。必要に応じて、メッセージをサーバーに無期限に残すように設定してください。"
 
 #: sites/start.thunderbird.net/daily/index.html:50
 #, python-format
 msgid "Looking for something a bit more stable? Try <a href=\"%(beta_url)s\"><strong>Thunderbird Beta</strong></a>."
-msgstr ""
+msgstr "もう少し安定したものをお探しですか？ <a href=\"%(beta_url)s\"><strong>Thunderbird Beta</strong></a> をお試しください。"
 
 #: sites/start.thunderbird.net/monthly/index.html:7 sites/www.thunderbird.net/thunderbird/all/index.html:58
 msgid "Release Channel"
@@ -429,7 +429,7 @@ msgstr ""
 
 #: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:80
 msgid "Beta"
-msgstr ""
+msgstr "Beta"
 
 #: sites/updates.thunderbird.net/thunderbird/128.0/monthly/index.html:87
 msgid "For those willing to test releases a few weeks early and report any issues they discover."
@@ -2827,15 +2827,15 @@ msgid ""
 "Join the Beta today, and enjoy an exciting preview of the new features and visual enhancements coming to Thunderbird 115 Supernova. You can still run Thunderbird 102 after installing Beta on Windows"
 " with no special settings, unless you are using POP mail accounts. See details in the <a href=\"%(beta_kb_url)s\">beta knowledge base</a>."
 msgstr ""
-"今すぐベータ版に参加して、Thunderbird 115 Supernovaの新機能とビジュアルの強化のエキサイティングなプレビューをお楽しみください。POPメールアカウントを使用していない限り、Windowsにベータ版をインストールした後も、特別な設定なしでThunderbird 102を実行できます。詳細は、<a "
-"href=\"%(beta_kb_url)s\">ベータ版ナレッジベース</a>をご覧ください。"
+"今すぐ Beta に参加して、Thunderbird 115 Supernova の新機能とビジュアルの強化のエキサイティングなプレビューをお楽しみください。POP メールアカウントを使用していない限り、Windows に Beta をインストールした後も、特別な設定なしで Thunderbird 102 を実行できます。詳細は、<a "
+"href=\"%(beta_kb_url)s\">ベータ版ナレッジベース</a> をご覧ください。"
 
 #: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:73
 #, python-format
 msgid ""
 "Thunderbird Beta is early access software, so please report the rough edges using the Help menu. You can find assistance via “Get Help” and “Share Ideas and Feedback” as well as the <a "
 "href=\"%(beta_topicbox_url)s\">Beta Topicbox</a> forum."
-msgstr "Thunderbirdベータは早期アクセスソフトウェアですので、「ヘルプ」メニューを使用して粗いエッジを報告してください。サポートは、「ヘルプを得る」、「アイデアとフィードバックを共有する」、および<a href=\"%(beta_topicbox_url)s\">ベータ版のトピックボックス</a>フォーラムから入手できます。"
+msgstr "Thunderbird Beta は早期アクセスソフトウェアです。[ヘルプ] メニューから粗の目立つ部分を報告してください。「ヘルプを得る」「アイデアとフィードバックを共有する」および <a href=\"%(beta_topicbox_url)s\">Beta Topicbox</a> フォーラムからサポートを受けられます。"
 
 #: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:78
 msgid "Install now!"
@@ -2847,7 +2847,7 @@ msgstr "あともう少しです！"
 
 #: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:89
 msgid "Finish installing, and start enjoying Thunderbird Beta."
-msgstr "インストールを完了して、ベータ版Thunderbirdをお楽しみください。"
+msgstr "インストールを完了して、Thunderbird Beta をお楽しみください。"
 
 #: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:99
 msgid "Learn more about Thunderbird 115 Supernova"
@@ -3215,7 +3215,7 @@ msgstr ""
 
 #: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:67
 msgid "Help us bring Thunderbird to <span class=\"platform-gradient\">Android</span> and <span class=\"platform-gradient\">iOS.</span>"
-msgstr "<span class=\"platform-gradient\">Android</span>と<span class=\"platform-gradient\">iOS.</span>にThunderbirdをインストールしましょう。"
+msgstr "<span class=\"platform-gradient\">Android</span> と <span class=\"platform-gradient\">iOS</span> でも Thunderbird を使えるようにご協力ください。"
 
 #: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:68
 msgid ""
