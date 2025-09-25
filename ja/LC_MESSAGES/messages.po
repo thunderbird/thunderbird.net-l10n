@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-09-25 09:46-0700\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Pontoon\n"
@@ -17,120 +19,120 @@ msgstr ""
 msgid "Sharing Freedom – Thunderbird"
 msgstr "自由を分かち合う – Thunderbird"
 
-#: sites/start.thunderbird.net/beta/index.html:19
+#: sites/start.thunderbird.net/beta/index.html:18
 msgid "Beta Channel"
 msgstr "Beta チャンネル"
 
-#: sites/start.thunderbird.net/beta/index.html:22 sites/start.thunderbird.net/beta/index.html:31 sites/start.thunderbird.net/daily/index.html:17 sites/start.thunderbird.net/daily/index.html:26
+#: sites/start.thunderbird.net/beta/index.html:21 sites/start.thunderbird.net/beta/index.html:30 sites/start.thunderbird.net/daily/index.html:16 sites/start.thunderbird.net/daily/index.html:25
 msgid "Report Issues"
 msgstr "問題を報告する"
 
-#: sites/start.thunderbird.net/beta/index.html:27 sites/start.thunderbird.net/daily/index.html:22
+#: sites/start.thunderbird.net/beta/index.html:26 sites/start.thunderbird.net/daily/index.html:21
 msgid "Sharing <span class=\"gradient-text\">Freedom</span>"
 msgstr "<span class=\"gradient-text\">自由</span> を共有する"
 
-#: sites/start.thunderbird.net/beta/index.html:28
+#: sites/start.thunderbird.net/beta/index.html:27
 msgid ""
 "Thunderbird is a gift from thousands of people like you. By using our Beta release and reporting issues, you contribute to that gift of productivity, privacy, and freedom to the world. Thank you!"
 msgstr "Thunderbird は、あなたのような数多くのユーザーからの贈り物です。Beta リリースを使用して問題を報告していただくことで、生産性、プライバシー保護、そして自由という贈り物を世界に届ける活動に貢献できます。ご協力に感謝します！"
 
-#: sites/start.thunderbird.net/beta/index.html:30 sites/start.thunderbird.net/daily/index.html:25
+#: sites/start.thunderbird.net/beta/index.html:29 sites/start.thunderbird.net/daily/index.html:24
 msgid "Read Docs"
 msgstr "ドキュメントを読む"
 
-#: sites/start.thunderbird.net/beta/index.html:32 sites/start.thunderbird.net/daily/index.html:27
+#: sites/start.thunderbird.net/beta/index.html:31 sites/start.thunderbird.net/daily/index.html:26
 msgid "Discuss"
 msgstr "議論"
 
-#: sites/start.thunderbird.net/beta/index.html:38 sites/start.thunderbird.net/daily/index.html:33
+#: sites/start.thunderbird.net/beta/index.html:37 sites/start.thunderbird.net/daily/index.html:32
 msgid "Know the Risks First"
 msgstr "まず危険性を知る"
 
-#: sites/start.thunderbird.net/beta/index.html:39
+#: sites/start.thunderbird.net/beta/index.html:38
 msgid "Thunderbird Beta is for testing."
 msgstr "Thunderbird Beta はテスト用です。"
 
-#: sites/start.thunderbird.net/beta/index.html:40
+#: sites/start.thunderbird.net/beta/index.html:39
 #, python-format
 msgid ""
 "Thunderbird Beta is not intended for general use. It can be unstable and in rare cases result in data loss. We strongly recommend you read <a href=\"%(kb_url)s\">the knowledge base article</a> "
 "before proceeding."
 msgstr "Thunderbird Beta は一般利用を想定していません。不安定になる可能性があり、稀にデータ損失が発生する場合があります。続ける前に、<a href=\"%(kb_url)s\">ナレッジベースの記事</a> を必ずお読みください。"
 
-#: sites/start.thunderbird.net/beta/index.html:44
+#: sites/start.thunderbird.net/beta/index.html:43
 msgid "Be Prepared"
 msgstr "準備を整える"
 
-#: sites/start.thunderbird.net/beta/index.html:46
+#: sites/start.thunderbird.net/beta/index.html:45
 msgid "Regularly backup your beta profile to prevent data loss."
 msgstr "データの損失を防ぐため、Beta プロファイルを定期的にバックアップしてください。"
 
-#: sites/start.thunderbird.net/beta/index.html:47
+#: sites/start.thunderbird.net/beta/index.html:46
 msgid "Anticipate frequent updates and ensure proper installation into a beta-specific directory."
 msgstr "頻繁な更新を予期し、Beta 専用のディレクトリーへの適切なインストールを実行してください。"
 
-#: sites/start.thunderbird.net/beta/index.html:48
+#: sites/start.thunderbird.net/beta/index.html:47
 msgid "If using mail filters, run them in only one profile."
 msgstr "メールフィルターを利用する場合は、一つのプロファイルだけで実行してください。"
 
-#: sites/start.thunderbird.net/beta/index.html:49
+#: sites/start.thunderbird.net/beta/index.html:48
 msgid "Be aware that some add-ons may not be compatible with beta."
 msgstr "一部のアドオンは Beta と互換性がないかもしれないので注意してください。"
 
-#: sites/start.thunderbird.net/beta/index.html:50
+#: sites/start.thunderbird.net/beta/index.html:49
 msgid "Avoid using POP accounts with beta. If necessary, configure to leave messages on the server indefinitely."
 msgstr "Beta では POP アカウントの使用を避けてください。必要に応じて、メッセージをサーバーに無期限に残すように設定してください。"
 
-#: sites/start.thunderbird.net/beta/index.html:57
+#: sites/start.thunderbird.net/beta/index.html:56
 #, python-format
 msgid "<a href=\"%(donate_url)s\"><strong>Donate</strong></a> to help fund the work to fix issues."
 msgstr "ご協力いただいた <a href=\"%(donate_url)s\"><strong>寄付金</strong></a> は問題解決のための作業資金にあてられます。"
 
-#: sites/start.thunderbird.net/daily/index.html:14
+#: sites/start.thunderbird.net/daily/index.html:13
 msgid "Daily Channel"
 msgstr "Daily チャンネル"
 
-#: sites/start.thunderbird.net/daily/index.html:23
+#: sites/start.thunderbird.net/daily/index.html:22
 msgid ""
 "Thunderbird is a gift from thousands of people like you. By using our Daily release and reporting issues, you contribute to that gift of productivity, privacy, and freedom to the world. Thank you!"
 msgstr "Thunderbird は、あなたのような数多くのユーザーからの贈り物です。Daily リリースを使用して問題を報告していただくことで、生産性、プライバシー保護、そして自由という贈り物を世界に届ける活動に貢献できます。ご協力に感謝します！"
 
-#: sites/start.thunderbird.net/daily/index.html:34
+#: sites/start.thunderbird.net/daily/index.html:33
 msgid "Thunderbird Daily is for development."
 msgstr "Thunderbird Daily は開発用です。"
 
-#: sites/start.thunderbird.net/daily/index.html:35
+#: sites/start.thunderbird.net/daily/index.html:34
 #, python-format
 msgid ""
 "Thunderbird Daily is not intended for general use. As a precaution, assume it will be unstable and result in data loss. We recommend you <a href=\"%(forum_url)s\">join the Daily forum</a> to keep up"
 " to date with any news."
 msgstr "Thunderbird Daily は一般的な使用を想定していません。時々不安定になり、データが失われる可能性があることをご承知おきください。最新情報を入手するには、<a href=\"%(forum_url)s\">Daily フォーラム</a> への参加をお勧めします。"
 
-#: sites/start.thunderbird.net/daily/index.html:39
+#: sites/start.thunderbird.net/daily/index.html:38
 msgid "Take Precautions"
 msgstr "あらかじめご注意ください"
 
-#: sites/start.thunderbird.net/daily/index.html:41
+#: sites/start.thunderbird.net/daily/index.html:40
 msgid "Prioritize frequent, thorough backups of your daily profile."
 msgstr "毎日のプロファイルを頻繁にバックアップするようにしてください。"
 
-#: sites/start.thunderbird.net/daily/index.html:42
+#: sites/start.thunderbird.net/daily/index.html:41
 msgid "Expect very frequent, disruptive updates and install strictly to a daily-specific directory."
 msgstr "頻繁に中断を伴う更新が予想されるため、必ず Daily 専用のディレクトリーにインストールしてください。"
 
-#: sites/start.thunderbird.net/daily/index.html:43
+#: sites/start.thunderbird.net/daily/index.html:42
 msgid "Limit mail filters to a single daily profile, or preferably, avoid them."
 msgstr "メールフィルターを一つの Daily プロファイルに制限するか、フィルターの使用を避けてください。"
 
-#: sites/start.thunderbird.net/daily/index.html:44
+#: sites/start.thunderbird.net/daily/index.html:43
 msgid "Assume most add-ons won’t work."
 msgstr "ほとんどのアドオンは動作しないものと想定してください。"
 
-#: sites/start.thunderbird.net/daily/index.html:45
+#: sites/start.thunderbird.net/daily/index.html:44
 msgid "Avoid using POP accounts with daily. If necessary, configure to leave messages on the server indefinitely."
 msgstr "Daily では POP アカウントの使用を避けてください。必要に応じて、メッセージをサーバーに無期限に残すように設定してください。"
 
-#: sites/start.thunderbird.net/daily/index.html:52
+#: sites/start.thunderbird.net/daily/index.html:51
 #, python-format
 msgid "Looking for something a bit more stable? Try <a href=\"%(beta_url)s\"><strong>Thunderbird Beta</strong></a>."
 msgstr "もう少し安定したものをお探しですか？ <a href=\"%(beta_url)s\"><strong>Thunderbird Beta</strong></a> をお試しください。"
@@ -148,11 +150,11 @@ msgstr "Android 向けの <a href=\"%(mobile_url)s\">Thunderbird Mobile</a> を�
 msgid "Welcome to Freedom – Thunderbird"
 msgstr "ようこそ自由へ – Thunderbird"
 
-#: sites/start.thunderbird.net/release/index.html:20
+#: sites/start.thunderbird.net/release/index.html:19
 msgid "ESR Channel"
 msgstr "ESR チャンネル"
 
-#: sites/start.thunderbird.net/release/index.html:23 sites/start.thunderbird.net/release/index.html:32 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:174
+#: sites/start.thunderbird.net/release/index.html:22 sites/start.thunderbird.net/release/index.html:31 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:174
 #: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:178 sites/www.thunderbird.net/donate/index.html:8 sites/www.thunderbird.net/includes/base/footer.html:41
 #: sites/www.thunderbird.net/includes/base/nav.html:68 sites/www.thunderbird.net/includes/base/nav.html:90 sites/www.thunderbird.net/includes/download/download-button.html:102
 #: sites/www.thunderbird.net/includes/download/macros/download-desktop.html:31 sites/www.thunderbird.net/includes/download/macros/download-mobile.html:29
@@ -163,48 +165,48 @@ msgstr "ESR チャンネル"
 msgid "Donate"
 msgstr "寄付"
 
-#: sites/start.thunderbird.net/release/index.html:28
+#: sites/start.thunderbird.net/release/index.html:27
 msgid "Welcome to <span class=\"gradient-text\">Freedom</span>"
 msgstr "ようこそ <span class=\"gradient-text\">自由へ</span>"
 
-#: sites/start.thunderbird.net/release/index.html:29
+#: sites/start.thunderbird.net/release/index.html:28
 msgid "Thunderbird is a gift from thousands of people like you. We hope you'll enjoy the productivity, privacy, and freedom they make possible and we invite you to become part of that gift to others."
 msgstr "Thunderbird は、あなたのような数多くのユーザーからの贈り物です。この多くの方々によって実現された生産性、プライバシー保護、そして自由をお楽しみください。また、この贈り物をさらに他の人々へ届けるためのご協力をお願いします。"
 
-#: sites/start.thunderbird.net/release/index.html:31 sites/www.thunderbird.net/contact/index.html:38 sites/www.thunderbird.net/includes/base/footer.html:42
+#: sites/start.thunderbird.net/release/index.html:30 sites/www.thunderbird.net/contact/index.html:38 sites/www.thunderbird.net/includes/base/footer.html:42
 #: sites/www.thunderbird.net/includes/base/nav.html:69 sites/www.thunderbird.net/participate/index.html:8
 msgid "Participate"
 msgstr "参加"
 
-#: sites/start.thunderbird.net/release/index.html:33 sites/www.thunderbird.net/includes/base/footer.html:23
+#: sites/start.thunderbird.net/release/index.html:32 sites/www.thunderbird.net/includes/base/footer.html:23
 msgid "Get Help"
 msgstr "ヘルプサポート"
 
-#: sites/start.thunderbird.net/release/index.html:39
+#: sites/start.thunderbird.net/release/index.html:38
 msgid "Free and Open Source"
 msgstr "自由なオープンソース"
 
-#: sites/start.thunderbird.net/release/index.html:40
+#: sites/start.thunderbird.net/release/index.html:39
 msgid "Thunderbird is now yours forever."
 msgstr "Thunderbird は永久にあなたのものです。"
 
-#: sites/start.thunderbird.net/release/index.html:41
+#: sites/start.thunderbird.net/release/index.html:40
 msgid "Thunderbird is developed openly and distributed freely. Our software license protects your right to use, modify, and share Thunderbird. Our mission is to protect your privacy and freedom."
 msgstr "Thunderbird はオープンに開発され、無料で配布されています。当社のソフトウェアライセンスは、ユーザーによる Thunderbird の使用、改変、共有の権利を保護します。私たちの使命は、皆様のプライバシーと自由を守ることです。"
 
-#: sites/start.thunderbird.net/release/index.html:44
+#: sites/start.thunderbird.net/release/index.html:43
 msgid "Powered by Community"
 msgstr "コミュニティによって支えられています"
 
-#: sites/start.thunderbird.net/release/index.html:45
+#: sites/start.thunderbird.net/release/index.html:44
 msgid "You can become part of our story."
 msgstr "私たちの物語に加わることができます。"
 
-#: sites/start.thunderbird.net/release/index.html:46
+#: sites/start.thunderbird.net/release/index.html:45
 msgid "Anyone can contribute to Thunderbird. By donating, translating, answering questions, suggesting features, reporting bugs, and more, you make Thunderbird better for yourself and the world."
 msgstr "Thunderbird は誰でも貢献できます。寄付、翻訳、質問への回答、機能の提案、バグ報告などを通じて、あなた自身と世界のために Thunderbird をより良いものにしましょう。"
 
-#: sites/start.thunderbird.net/release/index.html:52
+#: sites/start.thunderbird.net/release/index.html:51
 #, python-format
 msgid "Want new features sooner? Learn about <a href=\"%(release_url)s\"><strong>Thunderbird Release</strong></a>."
 msgstr "新しい機能をいち早く利用したい方は、<a href=\"%(release_url)s\"><strong>Thunderbird Release</strong></a> をご使用ください。"
@@ -323,7 +325,7 @@ msgid "Will you help support the most powerful version of Thunderbird yet?"
 msgstr ""
 
 #: sites/updates.thunderbird.net/thunderbird/128.0/apr25/index.html:72 sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:71
-#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:187 sites/updates.thunderbird.net/thunderbird/140.0/jun25a/index.html:80
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:187 sites/updates.thunderbird.net/thunderbird/140.0/jun25a/index.html:81
 #: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:341 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:151 sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:84
 #: sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:341 sites/www.thunderbird.net/thunderbird/115.0/spring24/index.html:120
 #: sites/www.thunderbird.net/thunderbird/128.0/appeal/index.html:84
@@ -485,29 +487,29 @@ msgstr "<b>Thunderbird ユーザーのうち 3% 未満の方々が私たちを�
 msgid "Please help us continue for another 20 years."
 msgstr "次の 20 年もプロジェクトを継続できるように、ご協力よろしくお願いします。"
 
-#: sites/updates.thunderbird.net/thunderbird/140.0/jun25a/index.html:30 sites/updates.thunderbird.net/thunderbird/140.0/jun25a/index.html:37
+#: sites/updates.thunderbird.net/thunderbird/140.0/jun25a/index.html:31 sites/updates.thunderbird.net/thunderbird/140.0/jun25a/index.html:38
 msgid "Thank you for making Thunderbird possible!"
 msgstr ""
 
-#: sites/updates.thunderbird.net/thunderbird/140.0/jun25a/index.html:38
+#: sites/updates.thunderbird.net/thunderbird/140.0/jun25a/index.html:39
 msgid "<span>Thank YOU</span> for making Thunderbird possible!"
 msgstr ""
 
-#: sites/updates.thunderbird.net/thunderbird/140.0/jun25a/index.html:56
+#: sites/updates.thunderbird.net/thunderbird/140.0/jun25a/index.html:57
 msgid ""
 "The latest Thunderbird release exists because of you. Your donations directly funded every line of code, every bug fix, and every new feature you're experiencing today. You didn't just download and "
 "use Thunderbird, <strong>you helped build it.</strong>"
 msgstr ""
 
-#: sites/updates.thunderbird.net/thunderbird/140.0/jun25a/index.html:62
+#: sites/updates.thunderbird.net/thunderbird/140.0/jun25a/index.html:63
 msgid "Because supporters like you believed in truly private and ad-free email, we immediately turned your contributions into real improvements. <strong>Will you support the next chapter?</strong>"
 msgstr ""
 
-#: sites/updates.thunderbird.net/thunderbird/140.0/jun25b/index.html:26 sites/updates.thunderbird.net/thunderbird/140.0/jun25b/index.html:28
+#: sites/updates.thunderbird.net/thunderbird/140.0/jun25b/index.html:24 sites/updates.thunderbird.net/thunderbird/140.0/jun25b/index.html:26
 msgid "Thank you for keeping Thunderbird alive!"
 msgstr ""
 
-#: sites/updates.thunderbird.net/thunderbird/140.0/jun25b/index.html:29
+#: sites/updates.thunderbird.net/thunderbird/140.0/jun25b/index.html:27
 msgid "<span>Thank YOU</span> for keeping Thunderbird alive!"
 msgstr ""
 
@@ -1064,114 +1066,118 @@ msgid "Director, Web Services"
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:169
+msgid "Business Systems & Data Platform Administrator"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:170
 msgid "Sr. Software Engineer, Services"
 msgstr "サービス担当上級ソフトウェアエンジニア"
 
-#: sites/www.thunderbird.net/about/index.html:170
+#: sites/www.thunderbird.net/about/index.html:171
 msgid "Sr. UX Engineer, Desktop"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:171
+#: sites/www.thunderbird.net/about/index.html:172
 msgid "Principal Engineer"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:172
+#: sites/www.thunderbird.net/about/index.html:173
 msgid "Finance & Accounting Specialist"
 msgstr "財務・会計スペシャリスト"
 
-#: sites/www.thunderbird.net/about/index.html:173
+#: sites/www.thunderbird.net/about/index.html:174
 msgid "Software Engineer, Mobile"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:174 sites/www.thunderbird.net/about/index.html:191 sites/www.thunderbird.net/about/index.html:194
+#: sites/www.thunderbird.net/about/index.html:175 sites/www.thunderbird.net/about/index.html:192 sites/www.thunderbird.net/about/index.html:195
 msgid "Staff Software Engineer, Desktop"
 msgstr "デスクトップ担当スタッフソフトウェアエンジニア"
 
-#: sites/www.thunderbird.net/about/index.html:175
+#: sites/www.thunderbird.net/about/index.html:176
 msgid "Sr. Software Engineer, Desktop"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:176 sites/www.thunderbird.net/about/index.html:180
+#: sites/www.thunderbird.net/about/index.html:177 sites/www.thunderbird.net/about/index.html:181
 msgid "Software Engineer, Services"
 msgstr "サービス担当ソフトウェアエンジニア"
 
-#: sites/www.thunderbird.net/about/index.html:177
+#: sites/www.thunderbird.net/about/index.html:178
 msgid "Sr Staff Engineer, Strategic Initiatives"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:178
+#: sites/www.thunderbird.net/about/index.html:179
 msgid "Manager, Release Operations"
 msgstr "リリースオペレーション担当マネージャー"
 
-#: sites/www.thunderbird.net/about/index.html:179
+#: sites/www.thunderbird.net/about/index.html:180
 msgid "Sr. Release Engineer, Desktop"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:181 sites/www.thunderbird.net/about/index.html:186 sites/www.thunderbird.net/about/index.html:201 sites/www.thunderbird.net/about/index.html:211
+#: sites/www.thunderbird.net/about/index.html:182 sites/www.thunderbird.net/about/index.html:187 sites/www.thunderbird.net/about/index.html:211
 msgid "Software Engineer, Desktop"
 msgstr "デスクトップ担当ソフトウェアエンジニア"
 
-#: sites/www.thunderbird.net/about/index.html:182
+#: sites/www.thunderbird.net/about/index.html:183
 msgid "Sr. Staff Software Engineer, Desktop"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:183
+#: sites/www.thunderbird.net/about/index.html:184
 msgid "Sr. Developer Relations Engineer"
 msgstr "上級開発者関係エンジニア"
 
-#: sites/www.thunderbird.net/about/index.html:184
+#: sites/www.thunderbird.net/about/index.html:185
 msgid "Sr. UX Design Specialist"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:185
+#: sites/www.thunderbird.net/about/index.html:186
 msgid "Sr. Software Engineer, Desktop Add-ons"
 msgstr "デスクトップアドオン担当上級ソフトウェアエンジニア"
 
-#: sites/www.thunderbird.net/about/index.html:187
+#: sites/www.thunderbird.net/about/index.html:188
 msgid "Sr. Security Engineer, Desktop"
 msgstr "デスクトップ担当上級セキュリティエンジニア"
 
-#: sites/www.thunderbird.net/about/index.html:188
+#: sites/www.thunderbird.net/about/index.html:189
 msgid "Sr. Technical PM"
 msgstr "上級テクニカル PM"
 
-#: sites/www.thunderbird.net/about/index.html:189
+#: sites/www.thunderbird.net/about/index.html:190
 msgid "Manager, UI/UX Design Studio"
 msgstr "UI/UXデザインスタジオ担当マネージャー"
 
-#: sites/www.thunderbird.net/about/index.html:190
+#: sites/www.thunderbird.net/about/index.html:191
 msgid "Manager, Customer Support Operations"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:192
+#: sites/www.thunderbird.net/about/index.html:193
 msgid "Manager, Web Services"
 msgstr "ウェブサービス担当マネージャー"
 
-#: sites/www.thunderbird.net/about/index.html:193
+#: sites/www.thunderbird.net/about/index.html:194
 msgid "Manager, People Operations & Strategy"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:195
+#: sites/www.thunderbird.net/about/index.html:196
 msgid "Staff Software Engineer, Services"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:196
+#: sites/www.thunderbird.net/about/index.html:197
 msgid "Manager, Community Programs"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:197
+#: sites/www.thunderbird.net/about/index.html:198
 msgid "Communications & Engagement Coordinator"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:198
+#: sites/www.thunderbird.net/about/index.html:199
 msgid "Manager, Marketing & Communications"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:199
+#: sites/www.thunderbird.net/about/index.html:200
 msgid "Sr Software Engineer, Mobile"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:200
+#: sites/www.thunderbird.net/about/index.html:201
 msgid "Product Designer"
 msgstr ""
 
@@ -1648,21 +1654,21 @@ msgstr "Thunderbird ロゴ付きのロケット。"
 msgid "Our Team is experiencing a backlog in donor inquiries. Please expect a delay in our response time to your inquiry."
 msgstr ""
 
-#: sites/www.thunderbird.net/donate/help/index.html:32
+#: sites/www.thunderbird.net/donate/help/index.html:33
 msgid "We appreciate your understanding and thank you in advance for your support!"
 msgstr ""
 
-#: sites/www.thunderbird.net/donate/help/index.html:40
+#: sites/www.thunderbird.net/donate/help/index.html:41
 #, python-format
 msgid "If you need help donating to Thunderbird and did not find an answer in our <a href=\"%(faq)s\">FAQs</a>, please fill out this form and we will get back to you as soon as possible."
 msgstr "Thunderbird への寄付に関してサポートが必要で、<a href=\"%(faq)s\">よくある質問 (FAQ)</a> で回答が見つからない場合は、このフォームに記入してください。できるだけ早く返答します。"
 
-#: sites/www.thunderbird.net/donate/help/index.html:46
+#: sites/www.thunderbird.net/donate/help/index.html:47
 #, python-format
 msgid "<strong>Use the <a href=\"%(modify)s\">Donor Portal</a> to access your receipts and update or cancel your recurring plan.</strong>"
 msgstr "<strong><a href=\"%(modify)s\">Donor Portal</a> では領収書の確認と定期プランの更新、キャンセルができます。</strong>"
 
-#: sites/www.thunderbird.net/donate/help/index.html:51
+#: sites/www.thunderbird.net/donate/help/index.html:52
 #, python-format
 msgid ""
 "Please note, our payment support team cannot assist with Thunderbird product questions or technical issues. <strong>For technical support, please visit our <a href=\"%(support)s\">support "
