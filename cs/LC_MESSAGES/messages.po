@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-01-23 13:11-0500\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Generated-By: Pontoon\n"
@@ -139,7 +141,7 @@ msgstr "Vyhněte se používání účtů POP s denním sestavením. V případ�
 msgid "Looking for something a bit more stable? Try <a href=\"%(beta_url)s\"><strong>Thunderbird Beta</strong></a>."
 msgstr "Hledáte něco stabilnějšího? Vyzkoušejte <a href=\"%(beta_url)s\"><strong>Thunderbird Beta</strong></a>."
 
-#: sites/start.thunderbird.net/monthly/index.html:7 sites/www.thunderbird.net/thunderbird/all/index.html:58
+#: sites/start.thunderbird.net/monthly/index.html:7 sites/www.thunderbird.net/thunderbird/all/index.html:66
 msgid "Release Channel"
 msgstr "Distribuční kanál"
 
@@ -243,7 +245,7 @@ msgstr "Zkuste to znovu v jiném prohlížeči nebo rozšíření dočasně zaka
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
 msgstr "Thunderbird je poštovní program, který je snadno nastavitelný, přizpůsobitelný a obsahuje skvělé funkce!"
 
-#: sites/updates.thunderbird.net/includes/base/base.html:19 sites/www.thunderbird.net/includes/base/base.html:17 sites/www.thunderbird.net/includes/base/page.html:16
+#: sites/updates.thunderbird.net/includes/base/base.html:19 sites/www.thunderbird.net/includes/base/base.html:17 sites/www.thunderbird.net/includes/base/page.html:14
 #: sites/www.thunderbird.net/includes/product-metadata.html:2 sites/www.thunderbird.net/includes/product-metadata.html:21 sites/www.thunderbird.net/index.html:11
 #: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:17 sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:18
 #: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:19 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:18 sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:18
@@ -338,6 +340,7 @@ msgstr "Podpoříte zatím nejlepší verzi Thunderbirdu?"
 #: sites/updates.thunderbird.net/thunderbird/140.0/dec25-1a6C/index.html:62 sites/updates.thunderbird.net/thunderbird/140.0/dec25-1b/index.html:63
 #: sites/updates.thunderbird.net/thunderbird/140.0/dec25-1c/index.html:62 sites/updates.thunderbird.net/thunderbird/140.0/dec25-2a/index.html:65
 #: sites/updates.thunderbird.net/thunderbird/140.0/dec25-2b/index.html:65 sites/updates.thunderbird.net/thunderbird/140.0/dec25-2c/index.html:62
+#: sites/updates.thunderbird.net/thunderbird/140.0/dec25-2d/index.html:74 sites/updates.thunderbird.net/thunderbird/140.0/dec25-2d6c/index.html:74
 #: sites/updates.thunderbird.net/thunderbird/140.0/jun25a/index.html:81 sites/updates.thunderbird.net/thunderbird/140.0/nov25a/index.html:63
 #: sites/updates.thunderbird.net/thunderbird/140.0/nov25b/index.html:74 sites/updates.thunderbird.net/thunderbird/140.0/nov25c/index.html:74
 #: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:341 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:151 sites/www.thunderbird.net/thunderbird/115.0/appeal24/index.html:84
@@ -347,7 +350,9 @@ msgid "The Thunderbird Team"
 msgstr "Tým Thunderbirdu"
 
 #: sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:25 sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:31
-#: sites/updates.thunderbird.net/thunderbird/140.0/dec25-1c/index.html:27 sites/updates.thunderbird.net/thunderbird/140.0/nov25b/index.html:28
+#: sites/updates.thunderbird.net/thunderbird/140.0/dec25-1c/index.html:27 sites/updates.thunderbird.net/thunderbird/140.0/dec25-2d/index.html:28
+#: sites/updates.thunderbird.net/thunderbird/140.0/dec25-2d/index.html:34 sites/updates.thunderbird.net/thunderbird/140.0/dec25-2d6c/index.html:28
+#: sites/updates.thunderbird.net/thunderbird/140.0/dec25-2d6c/index.html:34 sites/updates.thunderbird.net/thunderbird/140.0/nov25b/index.html:28
 #: sites/updates.thunderbird.net/thunderbird/140.0/nov25b/index.html:34 sites/updates.thunderbird.net/thunderbird/140.0/nov25c/index.html:28
 #: sites/updates.thunderbird.net/thunderbird/140.0/nov25c/index.html:34 sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:15 sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:21
 #: sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:15 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:21
@@ -356,23 +361,27 @@ msgid "Help Keep Thunderbird Alive!"
 msgstr "Pomozte nám udržet Thunderbird naživu."
 
 #: sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:32 sites/updates.thunderbird.net/thunderbird/140.0/dec25-1b/index.html:33
-#: sites/updates.thunderbird.net/thunderbird/140.0/dec25-1c/index.html:32 sites/updates.thunderbird.net/thunderbird/140.0/nov25b/index.html:35
+#: sites/updates.thunderbird.net/thunderbird/140.0/dec25-1c/index.html:32 sites/updates.thunderbird.net/thunderbird/140.0/dec25-2d/index.html:35
+#: sites/updates.thunderbird.net/thunderbird/140.0/dec25-2d6c/index.html:35 sites/updates.thunderbird.net/thunderbird/140.0/nov25b/index.html:35
 #: sites/updates.thunderbird.net/thunderbird/140.0/nov25c/index.html:35
 msgid "Help Keep <span>Thunderbird Alive</span>"
 msgstr "Pomozte udržet <span>Thunderbird naživu</span>"
 
-#: sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:48 sites/updates.thunderbird.net/thunderbird/140.0/nov25b/index.html:51
+#: sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:48 sites/updates.thunderbird.net/thunderbird/140.0/dec25-2d/index.html:51
+#: sites/updates.thunderbird.net/thunderbird/140.0/dec25-2d6c/index.html:51 sites/updates.thunderbird.net/thunderbird/140.0/nov25b/index.html:51
 #: sites/updates.thunderbird.net/thunderbird/140.0/nov25c/index.html:51
 #, python-format
 msgid "All of the work we do is funded by less than 3% of our users."
 msgstr "Veškerá naše práce je financována méně než 3 % našich uživatelů."
 
-#: sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:50 sites/updates.thunderbird.net/thunderbird/140.0/nov25b/index.html:53
+#: sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:50 sites/updates.thunderbird.net/thunderbird/140.0/dec25-2d/index.html:53
+#: sites/updates.thunderbird.net/thunderbird/140.0/dec25-2d6c/index.html:53 sites/updates.thunderbird.net/thunderbird/140.0/nov25b/index.html:53
 #: sites/updates.thunderbird.net/thunderbird/140.0/nov25c/index.html:53
 msgid "We never show advertisements or sell your data. We don’t have corporate funding. We are fully funded by financial contributions from our users."
 msgstr "Neukazujeme vám reklamy ani neprodáváme vaše osobní údaje. Nejsme financováni korporacemi. Naše financování zcela závisí na finančních příspěvcích od našich uživatelů."
 
-#: sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:53 sites/updates.thunderbird.net/thunderbird/140.0/nov25b/index.html:56
+#: sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:53 sites/updates.thunderbird.net/thunderbird/140.0/dec25-2d/index.html:56
+#: sites/updates.thunderbird.net/thunderbird/140.0/dec25-2d6c/index.html:56 sites/updates.thunderbird.net/thunderbird/140.0/nov25b/index.html:56
 #: sites/updates.thunderbird.net/thunderbird/140.0/nov25c/index.html:56
 msgid ""
 "Thunderbird’s mission is to give you the best privacy-respecting, customizable email experience possible. Free for everyone to install and enjoy! Maintaining expensive servers, fixing bugs, "
@@ -381,7 +390,8 @@ msgstr ""
 "Posláním Thunderbirdu je poskytnout vám nejlepší možné přizpůsobitelné e-mailové služby respektující soukromí. Instalace a používání je pro každého zdarma! Pro toto poslání je zásadní udržovat drahé"
 " servery, opravovat chyby, vyvíjet nové funkce a najímat talentované inženýry."
 
-#: sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:56 sites/updates.thunderbird.net/thunderbird/140.0/nov25b/index.html:59
+#: sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:56 sites/updates.thunderbird.net/thunderbird/140.0/dec25-2d/index.html:59
+#: sites/updates.thunderbird.net/thunderbird/140.0/dec25-2d6c/index.html:59 sites/updates.thunderbird.net/thunderbird/140.0/nov25b/index.html:59
 #: sites/updates.thunderbird.net/thunderbird/140.0/nov25c/index.html:59
 msgid "If you get value from using Thunderbird, please help support it. We can’t do this without you."
 msgstr "Pokud vám používání Thunderbirdu přináší užitek, pomozte ho podpořit. Bez vás to nepůjde."
@@ -1511,11 +1521,11 @@ msgstr ""
 msgid "Thunderbird Desktop"
 msgstr "Thunderbird pro počítač"
 
-#: sites/www.thunderbird.net/desktop/index.html:23 sites/www.thunderbird.net/thunderbird/all/index.html:20 sites/www.thunderbird.net/thunderbird/all/index.html:225
+#: sites/www.thunderbird.net/desktop/index.html:23 sites/www.thunderbird.net/thunderbird/all/index.html:20 sites/www.thunderbird.net/thunderbird/all/index.html:236
 msgid "Thunderbird Desktop."
 msgstr "Thunderbird pro počítač."
 
-#: sites/www.thunderbird.net/desktop/index.html:24 sites/www.thunderbird.net/thunderbird/all/index.html:21 sites/www.thunderbird.net/thunderbird/all/index.html:226
+#: sites/www.thunderbird.net/desktop/index.html:24 sites/www.thunderbird.net/thunderbird/all/index.html:21 sites/www.thunderbird.net/thunderbird/all/index.html:237
 msgid "Thunderbird <span class=\"txt-gradient\">Desktop</span>"
 msgstr "Thunderbird <span class=\"txt-gradient\">pro počítač</span>"
 
@@ -1834,7 +1844,7 @@ msgid "Support Thunderbird for Android"
 msgstr "Podpora Thunderbirdu pro Android"
 
 #: sites/www.thunderbird.net/download/index.html:9 sites/www.thunderbird.net/includes/download/macros/download-desktop.html:23 sites/www.thunderbird.net/thunderbird/all/index.html:10
-#: sites/www.thunderbird.net/thunderbird/all/index.html:112
+#: sites/www.thunderbird.net/thunderbird/all/index.html:120
 msgid "Download"
 msgstr "Stáhnout"
 
@@ -2087,7 +2097,7 @@ msgstr "Další jazyky"
 msgid "Go"
 msgstr "Přejít"
 
-#: sites/www.thunderbird.net/includes/base/footer.html:9 sites/www.thunderbird.net/includes/base/page.html:50
+#: sites/www.thunderbird.net/includes/base/footer.html:9 sites/www.thunderbird.net/includes/base/page.html:48
 msgid "Home"
 msgstr "Domů"
 
@@ -2108,7 +2118,7 @@ msgstr "Blog"
 msgid "Downloads"
 msgstr "Ke stažení"
 
-#: sites/www.thunderbird.net/includes/base/footer.html:25 sites/www.thunderbird.net/thunderbird/all/index.html:139 sites/www.thunderbird.net/thunderbird/all/index.html:205
+#: sites/www.thunderbird.net/includes/base/footer.html:25 sites/www.thunderbird.net/thunderbird/all/index.html:147 sites/www.thunderbird.net/thunderbird/all/index.html:216
 msgid "Release Notes"
 msgstr "Poznámky k vydání"
 
@@ -2203,61 +2213,61 @@ msgstr "Potřebujeme pomocné ruce všeho druhu. Přečtěte si, jak můžete po
 msgid "Find the latest version of Thunderbird."
 msgstr "Získejte nejnovější verzi Thunderbirdu."
 
-#: sites/www.thunderbird.net/includes/base/page.html:16
+#: sites/www.thunderbird.net/includes/base/page.html:14
 msgid "Thunderbird Logo"
 msgstr "Logo Thunderbirdu"
 
-#: sites/www.thunderbird.net/includes/base/page.html:24
+#: sites/www.thunderbird.net/includes/base/page.html:22
 msgid "Open or close site navigation"
 msgstr "Otevře nebo zavře navigaci na webu"
 
-#: sites/www.thunderbird.net/includes/base/page.html:80
+#: sites/www.thunderbird.net/includes/base/page.html:78
 msgid "Learn What’s <span class=\"txt-gradient\">Next</span>"
 msgstr "Zjistěte, co nás <span class=\"txt-gradient\">čeká</span>"
 
-#: sites/www.thunderbird.net/includes/base/page.html:83
+#: sites/www.thunderbird.net/includes/base/page.html:81
 msgid "Thunderbird keeps getting better. Subscribe to our newsletter and follow us on social media to stay informed."
 msgstr "Thunderbird se stále zlepšuje. Přihlaste se k odběru našeho zpravodaje a sledujte nás na sociálních sítích, abyste byli informováni."
 
-#: sites/www.thunderbird.net/includes/base/page.html:94 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:312 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:233
+#: sites/www.thunderbird.net/includes/base/page.html:92 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:312 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:233
 #: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:252 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:369
 msgid "Your Email"
 msgstr "Váš e-mail"
 
-#: sites/www.thunderbird.net/includes/base/page.html:95
+#: sites/www.thunderbird.net/includes/base/page.html:93
 msgid "Subscribe"
 msgstr "Odebírat"
 
-#: sites/www.thunderbird.net/includes/base/page.html:104
+#: sites/www.thunderbird.net/includes/base/page.html:102
 #, python-format
 msgid "Follow %(mastodon)s on Mastodon"
 msgstr "Sledujte %(mastodon)s na Mastodonu"
 
-#: sites/www.thunderbird.net/includes/base/page.html:108
+#: sites/www.thunderbird.net/includes/base/page.html:106
 #, python-format
 msgid "Follow %(bluesky)s on Bluesky"
 msgstr "Sledujte %(bluesky)s na Bluesky"
 
-#: sites/www.thunderbird.net/includes/base/page.html:112
+#: sites/www.thunderbird.net/includes/base/page.html:110
 #, python-format
 msgid "Follow %(facebook)s on Facebook"
 msgstr "Sledujte %(facebook)s na Facebooku"
 
-#: sites/www.thunderbird.net/includes/base/page.html:116
+#: sites/www.thunderbird.net/includes/base/page.html:114
 #, python-format
 msgid "Follow %(youtube)s on YouTube"
 msgstr "Sledujte kanál %(youtube)s na YouTube"
 
-#: sites/www.thunderbird.net/includes/base/page.html:120
+#: sites/www.thunderbird.net/includes/base/page.html:118
 #, python-format
 msgid "Follow %(linkedin)s on LinkedIn"
 msgstr "Sledujte účet %(linkedin)s na LinkedInu"
 
-#: sites/www.thunderbird.net/includes/base/page.html:126
+#: sites/www.thunderbird.net/includes/base/page.html:124
 msgid "Visit Our Blog"
 msgstr "Navštivte náš blog"
 
-#: sites/www.thunderbird.net/includes/base/page.html:132
+#: sites/www.thunderbird.net/includes/base/page.html:130
 msgid "smartphone"
 msgstr "chytrý telefon"
 
@@ -2585,11 +2595,11 @@ msgstr "Google Play"
 msgid "F-Droid"
 msgstr "F-Droid"
 
-#: sites/www.thunderbird.net/mobile/index.html:24 sites/www.thunderbird.net/thunderbird/all/index.html:150 sites/www.thunderbird.net/thunderbird/all/index.html:216
+#: sites/www.thunderbird.net/mobile/index.html:24 sites/www.thunderbird.net/thunderbird/all/index.html:161 sites/www.thunderbird.net/thunderbird/all/index.html:227
 msgid "Thunderbird Mobile."
 msgstr "Thunderbird pro mobily."
 
-#: sites/www.thunderbird.net/mobile/index.html:25 sites/www.thunderbird.net/thunderbird/all/index.html:151 sites/www.thunderbird.net/thunderbird/all/index.html:217
+#: sites/www.thunderbird.net/mobile/index.html:25 sites/www.thunderbird.net/thunderbird/all/index.html:162 sites/www.thunderbird.net/thunderbird/all/index.html:228
 msgid "Thunderbird <span class=\"txt-gradient\">Mobile</span>"
 msgstr "Thunderbird <span class=\"txt-gradient\">pro mobily</span>"
 
@@ -4145,7 +4155,17 @@ msgstr "Tyto balíčky jsou oficiálně spravovány a distribuovány Thunderbird
 msgid "The Daily channel is where development and testing begin, and new features are developed. This is expected to be the least stable channel. Make sure you back up important data regularly."
 msgstr "V kanálu Daily se začínají vyvíjet a testovat nové funkce. Očekává se, že tento kanál bude nejméně stabilní. Dbejte na pravidelné zálohování důležitých dat."
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:32
+#: sites/www.thunderbird.net/thunderbird/all/index.html:30 sites/www.thunderbird.net/thunderbird/all/index.html:35 sites/www.thunderbird.net/thunderbird/all/index.html:40
+#: sites/www.thunderbird.net/thunderbird/all/index.html:45
+msgid "May not work with all add-ons."
+msgstr ""
+
+#: sites/www.thunderbird.net/thunderbird/all/index.html:31 sites/www.thunderbird.net/thunderbird/all/index.html:36 sites/www.thunderbird.net/thunderbird/all/index.html:41
+#: sites/www.thunderbird.net/thunderbird/all/index.html:46
+msgid "Learn more."
+msgstr ""
+
+#: sites/www.thunderbird.net/thunderbird/all/index.html:34
 msgid ""
 "The Beta channel is where stabilization occurs. This is expected to be more stable than Daily, but not as stable as the Release or Extended Support Release channels. Make sure you back up important "
 "data regularly."
@@ -4153,80 +4173,83 @@ msgstr ""
 "V kanálu Beta dochází ke stabilizaci. Očekává se, že bude stabilnější než kanál Daily, ale ne tak stabilní jako kanály Release nebo Extended Support Release. Dbejte na pravidelné zálohování "
 "důležitých dat."
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:35
-msgid "The official annual extended support release. This release is intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis."
+#: sites/www.thunderbird.net/thunderbird/all/index.html:39
+msgid "The official Extended Support Release channel. This release is intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis."
 msgstr ""
-"Oficiální každoroční vydání s rozšířenou podporou. Toto vydání je určeno uživatelům, kteří chtějí dostávat jednou ročně všechny dostupné nové funkce a jednou měsíčně opravy stability a zabezpečení."
-
-#: sites/www.thunderbird.net/thunderbird/all/index.html:38
-msgid "The official monthly release. This release is intended for users who want all available new features and bug fixes on a monthly basis."
-msgstr "Oficiální měsíční vydání. Toto vydání je určeno uživatelům, kteří chtějí dostávat jednou měsíčně všechny dostupné nové funkce a opravy chyb."
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:44
+msgid "The official Thunderbird Release channel. This release is intended for users who want all available new features and bug fixes on a monthly basis."
+msgstr ""
+
+#: sites/www.thunderbird.net/thunderbird/all/index.html:52
 msgid "Locale"
 msgstr "Jazyk"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:73
+#: sites/www.thunderbird.net/thunderbird/all/index.html:81
 msgid "Operating System"
 msgstr "Operační systém"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:85
+#: sites/www.thunderbird.net/thunderbird/all/index.html:93
 msgid "Need a specific installer?"
 msgstr "Potřebujete konkrétní instalátor?"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:89
+#: sites/www.thunderbird.net/thunderbird/all/index.html:97
 msgid "Installer Type"
 msgstr "Typ instalátoru"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:117 sites/www.thunderbird.net/thunderbird/all/index.html:162
+#: sites/www.thunderbird.net/thunderbird/all/index.html:125 sites/www.thunderbird.net/thunderbird/all/index.html:173
 msgid "Other Downloads"
 msgstr "Jiné možnosti stažení"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:120
+#: sites/www.thunderbird.net/thunderbird/all/index.html:128
 msgid "Microsoft Apps Store"
 msgstr "Obchod Microsoft Store"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:123
+#: sites/www.thunderbird.net/thunderbird/all/index.html:131
 msgid "Flathub"
 msgstr "Flathub"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:126
+#: sites/www.thunderbird.net/thunderbird/all/index.html:134
 msgid "Snap Store"
 msgstr "Snap Store"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:133 sites/www.thunderbird.net/thunderbird/all/index.html:199
+#: sites/www.thunderbird.net/thunderbird/all/index.html:141 sites/www.thunderbird.net/thunderbird/all/index.html:210
 msgid "More Information"
 msgstr "Více informací"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:136 sites/www.thunderbird.net/thunderbird/all/index.html:202
+#: sites/www.thunderbird.net/thunderbird/all/index.html:144 sites/www.thunderbird.net/thunderbird/all/index.html:213
 msgid "System Requirements"
 msgstr "Systémové požadavky"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:152
+#: sites/www.thunderbird.net/thunderbird/all/index.html:150
+msgid "Choosing a Release Channel"
+msgstr ""
+
+#: sites/www.thunderbird.net/thunderbird/all/index.html:163
 msgid "New"
 msgstr "Nové"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:155 sites/www.thunderbird.net/thunderbird/all/index.html:219
+#: sites/www.thunderbird.net/thunderbird/all/index.html:166 sites/www.thunderbird.net/thunderbird/all/index.html:230
 msgid "These are officially maintained and distributed by Thunderbird Mobile."
 msgstr "Tyto balíčky jsou oficiálně udržované a distribuované Thunderbirdem pro mobily."
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:171
+#: sites/www.thunderbird.net/thunderbird/all/index.html:182
 msgid "Binary (.apk)"
 msgstr "Binární soubor (.apk)"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:181
+#: sites/www.thunderbird.net/thunderbird/all/index.html:192
 msgid "Google Play (Beta)"
 msgstr "Google Play (Beta)"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:191
+#: sites/www.thunderbird.net/thunderbird/all/index.html:202
 msgid "F-Droid (Beta)"
 msgstr "F-Droid (Beta)"
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:228
+#: sites/www.thunderbird.net/thunderbird/all/index.html:239
 msgid "These are officially maintained and distributed by Thunderbird."
 msgstr "Tyto balíčky jsou oficiálně udržované a distribuované Thunderbirdem."
 
-#: sites/www.thunderbird.net/thunderbird/all/index.html:229
+#: sites/www.thunderbird.net/thunderbird/all/index.html:240
 msgid "Jump to the language you wish to download by using the legend below."
 msgstr "Pomocí níže uvedené legendy přejděte na jazyk, který chcete stáhnout."
 
@@ -4253,3 +4276,10 @@ msgstr "Tapeta Thunderbirdu na plochu"
 #: sites/www.thunderbird.net/thunderbird/wallpaper/index.html:17
 msgid "Thunderbird Desktop Wallpaer"
 msgstr "Tapeta Thunderbirdu na plochu"
+
+#~ msgid "The official annual extended support release. This release is intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis."
+#~ msgstr ""
+#~ "Oficiální každoroční vydání s rozšířenou podporou. Toto vydání je určeno uživatelům, kteří chtějí dostávat jednou ročně všechny dostupné nové funkce a jednou měsíčně opravy stability a zabezpečení."
+
+#~ msgid "The official monthly release. This release is intended for users who want all available new features and bug fixes on a monthly basis."
+#~ msgstr "Oficiální měsíční vydání. Toto vydání je určeno uživatelům, kteří chtějí dostávat jednou měsíčně všechny dostupné nové funkce a opravy chyb."
