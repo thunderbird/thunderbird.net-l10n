@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-04-11 00:29+0000\n"
 "Language: lt\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Pontoon\n"
@@ -325,7 +327,7 @@ msgid "Will you help support the most powerful version of Thunderbird yet?"
 msgstr ""
 
 #: sites/updates.thunderbird.net/thunderbird/128.0/apr25/index.html:72 sites/updates.thunderbird.net/thunderbird/128.0/dec24/index.html:71
-#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:187 sites/updates.thunderbird.net/thunderbird/140.0/apr26-1a/index.html:69
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:187 sites/updates.thunderbird.net/thunderbird/140.0/apr26-1a/index.html:79
 #: sites/updates.thunderbird.net/thunderbird/140.0/apr26-1b/index.html:69 sites/updates.thunderbird.net/thunderbird/140.0/apr26-1e/index.html:73
 #: sites/updates.thunderbird.net/thunderbird/140.0/dec25-1a/index.html:66 sites/updates.thunderbird.net/thunderbird/140.0/dec25-1a6C/index.html:62
 #: sites/updates.thunderbird.net/thunderbird/140.0/dec25-1c/index.html:62 sites/updates.thunderbird.net/thunderbird/140.0/dec25-2a/index.html:69
@@ -508,24 +510,24 @@ msgstr ""
 msgid "Please help us continue for another 20 years."
 msgstr ""
 
-#: sites/updates.thunderbird.net/thunderbird/140.0/apr26-1a/index.html:22 sites/updates.thunderbird.net/thunderbird/140.0/apr26-1a/index.html:29
+#: sites/updates.thunderbird.net/thunderbird/140.0/apr26-1a/index.html:22 sites/updates.thunderbird.net/thunderbird/140.0/apr26-1a/index.html:33
 #: sites/updates.thunderbird.net/thunderbird/140.0/apr26-1b/index.html:21 sites/updates.thunderbird.net/thunderbird/140.0/apr26-1b/index.html:29
 msgid "Help Build What’s Next"
 msgstr ""
 
-#: sites/updates.thunderbird.net/thunderbird/140.0/apr26-1a/index.html:30 sites/updates.thunderbird.net/thunderbird/140.0/apr26-1b/index.html:30
+#: sites/updates.thunderbird.net/thunderbird/140.0/apr26-1a/index.html:34 sites/updates.thunderbird.net/thunderbird/140.0/apr26-1b/index.html:30
 msgid "<span>Help Build</span><span>What’s Next</span>"
 msgstr ""
 
-#: sites/updates.thunderbird.net/thunderbird/140.0/apr26-1a/index.html:49 sites/updates.thunderbird.net/thunderbird/140.0/apr26-1b/index.html:49
+#: sites/updates.thunderbird.net/thunderbird/140.0/apr26-1a/index.html:59 sites/updates.thunderbird.net/thunderbird/140.0/apr26-1b/index.html:49
 msgid "In 2025, we reached new heights with faster updates, native Exchange support, improvements on Android, and strides toward iOS. We also started building our own email service."
 msgstr ""
 
-#: sites/updates.thunderbird.net/thunderbird/140.0/apr26-1a/index.html:52 sites/updates.thunderbird.net/thunderbird/140.0/apr26-1b/index.html:52
+#: sites/updates.thunderbird.net/thunderbird/140.0/apr26-1a/index.html:62 sites/updates.thunderbird.net/thunderbird/140.0/apr26-1b/index.html:52
 msgid "Thunderbird is funded entirely by user support."
 msgstr ""
 
-#: sites/updates.thunderbird.net/thunderbird/140.0/apr26-1a/index.html:53 sites/updates.thunderbird.net/thunderbird/140.0/apr26-1b/index.html:53
+#: sites/updates.thunderbird.net/thunderbird/140.0/apr26-1a/index.html:63 sites/updates.thunderbird.net/thunderbird/140.0/apr26-1b/index.html:53
 msgid "Will you help build what’s next?"
 msgstr ""
 
@@ -768,6 +770,125 @@ msgstr ""
 
 #: sites/updates.thunderbird.net/thunderbird/140.0/whatsnew/index.html:251
 msgid "Explore Monthly Releases"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:14 sites/updates.thunderbird.net/thunderbird/about/rights/index.html:41
+msgid "About Your Rights"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:43
+msgid "Thunderbird is free and open source software, built by a community of thousands from all over the world. There are a few things you should know:"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:49
+#, python-format
+msgid ""
+"Thunderbird is made available to you under the terms of the <a href=\"%(mpl_url)s\">Mozilla Public License</a>. This means you may use, copy and distribute Thunderbird to others. You are also "
+"welcome to modify the source code of Thunderbird as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions."
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:54
+#, python-format
+msgid ""
+"You are not granted any trademark rights or licenses to the trademarks of the Mozilla Foundation or any party, including without limitation the Thunderbird name or logo. Additional information on "
+"trademarks may be found <a href=\"%(trademark_url)s\">here</a>."
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:59
+msgid ""
+"Some features in Thunderbird, such as the Crash Reporter, give you the option to provide feedback to Mozilla. By choosing to submit feedback, you give Mozilla permission to use the feedback to "
+"improve its products, to publish the feedback on its websites, and to distribute the feedback."
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:64
+#, python-format
+msgid "How we use your personal information and feedback submitted to Mozilla through Thunderbird is described in the <a href=\"%(privacy_url)s\">Thunderbird Privacy Policy</a>."
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:69
+msgid ""
+"Some Thunderbird features make use of web-based information services, however, we cannot guarantee they are 100% accurate or error-free. More details, including information on how to disable the "
+"features that use these services, can be found in the <a href=\"#webservices\">service terms</a>."
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:74
+msgid "In order to play back certain types of video content, Thunderbird downloads certain content decryption modules from third parties."
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:80
+msgid "Thunderbird Web-Based Information Services"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:82
+msgid ""
+"Thunderbird uses web-based information services (\"Services\") to provide some of the features provided for your use with this binary version of Thunderbird under the terms described below. If you "
+"do not want to use one or more of the Services or the terms below are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be "
+"found <a href=\"#disabling-webservices\">here</a>. Other features and Services can be disabled in the application settings."
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:87
+msgid "Location Aware Browsing"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:89
+msgid "<strong>Location Aware Browsing:</strong> is always opt-in. No location information is ever sent without your permission. If you wish to disable the feature completely, follow these steps:"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:94
+msgid "Open the Config Editor"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:95
+msgid "Type geo.enabled"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:96
+msgid "Double click on the geo.enabled preference"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:97
+msgid "Location-Aware Browsing is now disabled"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:102
+msgid ""
+"Mozilla and its contributors, licensors and partners work to provide the most accurate and up-to-date Services. However, we cannot guarantee that this information is comprehensive and error-free. "
+"For example, the Safe Browsing Service may not identify some risky sites and may identify some safe sites in error and the Location Aware Service all locations returned by our service providers are "
+"estimates only and neither we nor our service providers guarantee the accuracy of the locations provided."
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:107
+msgid "Mozilla may discontinue or change the Services at its discretion."
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:112
+msgid ""
+"You are welcome to use these Services with the accompanying version of Thunderbird, and Mozilla grants you its rights to do so. Mozilla and its licensors reserve all other rights in the Services. "
+"These terms are not intended to limit any rights granted under open source licenses applicable to Thunderbird and to corresponding source code versions of Thunderbird."
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:117
+msgid ""
+"<strong>The Services are provided \"as-is.\" Mozilla, its contributors, licensors, and distributors, disclaim all warranties, whether express or implied, including without limitation, warranties "
+"that the Services are merchantable and fit for your particular purposes. You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the "
+"Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.</strong>"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:122
+msgid ""
+"<strong>Except as required by law, Mozilla, its contributors, licensors, and distributors will not be liable for any indirect, special, incidental, consequential, punitive, or exemplary damages "
+"arising out of or in any way relating to the use of Thunderbird and the Services. The collective liability under these terms will not exceed $500 (five hundred dollars). Some jurisdictions do not "
+"allow the exclusion or limitation of certain damages, so this exclusion and limitation may not apply to you.</strong>"
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:127
+msgid "Mozilla may update these terms as necessary from time to time. These terms may not be modified or canceled without Mozilla's written agreement."
+msgstr ""
+
+#: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:132
+msgid ""
+"These terms are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these terms is held to be invalid or unenforceable, the remaining"
+" portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control."
 msgstr ""
 
 #: sites/www.thunderbird.net/404.html:8
@@ -1164,11 +1285,11 @@ msgid "We have a growing team of talented employees who develop and maintain Thu
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:164
-msgid "Managing Director, Operations"
+msgid "CEO"
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:165
-msgid "Managing Director, Product"
+msgid "COO"
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:166
