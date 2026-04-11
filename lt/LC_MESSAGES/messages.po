@@ -774,11 +774,11 @@ msgstr ""
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:14 sites/updates.thunderbird.net/thunderbird/about/rights/index.html:41
 msgid "About Your Rights"
-msgstr ""
+msgstr "Apie jūsų teises"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:43
 msgid "Thunderbird is free and open source software, built by a community of thousands from all over the world. There are a few things you should know:"
-msgstr ""
+msgstr "„Thunderbird\" yra laisvoji atviroji programa, kuriama bendruomenės, apimančios tūkstančius žmonių iš viso pasaulio. Keletas dalykų, kuriuos turėtumėte žinoti:"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:49
 #, python-format
@@ -786,6 +786,8 @@ msgid ""
 "Thunderbird is made available to you under the terms of the <a href=\"%(mpl_url)s\">Mozilla Public License</a>. This means you may use, copy and distribute Thunderbird to others. You are also "
 "welcome to modify the source code of Thunderbird as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions."
 msgstr ""
+"Jums leidžiama naudotis „Thunderbird\" programa, vadovaujantis <a href=\"%(mpl_url)s\">„Mozilla\" viešąja licencija (Mozilla Public License)</a>. Ši licencija leidžia naudotis „Thunderbird\" "
+"programa, ją dauginti ir platinti.  Be to, galite laisvai modifikuoti programos pirminius tekstus. Licencija nedraudžia platinti ir jūsų modifikuotų programos versijų."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:54
 #, python-format
@@ -793,31 +795,37 @@ msgid ""
 "You are not granted any trademark rights or licenses to the trademarks of the Mozilla Foundation or any party, including without limitation the Thunderbird name or logo. Additional information on "
 "trademarks may be found <a href=\"%(trademark_url)s\">here</a>."
 msgstr ""
+"Jums nesuteikiamos jokios prekės ženklo teisės ar licencijos į „Mozilla Foundation\" ar kitų šalių prekės ženklus, tame tarpe – į „Thunderbird\" vardą ar logotipą. Papildomą informaciją apie prekės "
+"ženklus rasite <a href=\"%(trademark_url)s\">čia</a>."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:59
 msgid ""
 "Some features in Thunderbird, such as the Crash Reporter, give you the option to provide feedback to Mozilla. By choosing to submit feedback, you give Mozilla permission to use the feedback to "
 "improve its products, to publish the feedback on its websites, and to distribute the feedback."
 msgstr ""
+"Kai kurios „Thunderbird\" savybės, pavyzdžiui, strigčių pranešiklis, suteikia galimybę siųsti atsiliepimus „Mozillai\". Siųsdami atsiliepimus, jūs suteikiate „Mozillai\" teisę jais naudotis savo "
+"kuriamų produktų tobulinimo tikslais, skelbti juos savo svetainėse ir platinti juos kitais būdais."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:64
 #, python-format
 msgid "How we use your personal information and feedback submitted to Mozilla through Thunderbird is described in the <a href=\"%(privacy_url)s\">Thunderbird Privacy Policy</a>."
-msgstr ""
+msgstr "Kaip jūsų asmeninius duomenis ir per „Thunderbird\" pateiktus atsiliepimus naudoja „Mozilla\", nurodyta <a href=\"%(privacy_url)s\">„Thunderbird\" privatumo nuostatuose</a>."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:69
 msgid ""
 "Some Thunderbird features make use of web-based information services, however, we cannot guarantee they are 100% accurate or error-free. More details, including information on how to disable the "
 "features that use these services, can be found in the <a href=\"#webservices\">service terms</a>."
 msgstr ""
+"Kai kurie „Thunderbird\" komponentai suteikia galimybę naudotis papildomomis saityno tarnybų paslaugomis, tačiau mes negalime užtikrinti, kad šios tarnybos niekada neklysta ir veikia "
+"nepriekaištingai. Daugiau informacijos apie šiuos komponentus ir apie tai, kaip juos išjungti, rasite <a href=\"#webservices\">naudojimosi paslaugomis nuostatuose</a>."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:74
 msgid "In order to play back certain types of video content, Thunderbird downloads certain content decryption modules from third parties."
-msgstr ""
+msgstr "Kad galėtų atkurti tam tikrus vaizdo turinio formatus, „Thunderbird\" parsisiunčia tam tikrus turinio iššifravimo modulius iš trečiųjų šalių."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:80
 msgid "Thunderbird Web-Based Information Services"
-msgstr ""
+msgstr "„Thunderbird\" naudojamos informacinės saityno tarnybos"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:82
 msgid ""
@@ -833,22 +841,24 @@ msgstr ""
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:89
 msgid "<strong>Location Aware Browsing:</strong> is always opt-in. No location information is ever sent without your permission. If you wish to disable the feature completely, follow these steps:"
 msgstr ""
+"<strong>Naršymas nustatant geografinę vietą:</strong> Ši funkcija yra pasirenkama – be atskiro jūsų leidimo jokia informacija apie geografinę vietą nebus siunčiama. Jeigu norite šią funkciją "
+"išjungti visiškai, darykite tai taip:"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:94
 msgid "Open the Config Editor"
-msgstr ""
+msgstr "adreso lauke įrašykite <code>about:config;</code>"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:95
 msgid "Type geo.enabled"
-msgstr ""
+msgstr "filtro lauke įrašykite „geo.enabled\";"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:96
 msgid "Double click on the geo.enabled preference"
-msgstr ""
+msgstr "dukart spustelėkite nuostatą „geo.enabled\";"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:97
 msgid "Location-Aware Browsing is now disabled"
-msgstr ""
+msgstr "naršymas nustatant geografinę vietą išjungtas."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:102
 msgid ""
@@ -856,16 +866,22 @@ msgid ""
 "For example, the Safe Browsing Service may not identify some risky sites and may identify some safe sites in error and the Location Aware Service all locations returned by our service providers are "
 "estimates only and neither we nor our service providers guarantee the accuracy of the locations provided."
 msgstr ""
+"„Mozilla\" ir jos talkininkai, licencijų išdavėjai ir partneriai nuolat dirba, stengdamiesi teikti tiksliausias ir šviežiausias Paslaugas. Deja, neįmanoma užtikrinti, jog šie duomenys būtų išsamūs "
+"ir be klaidų. Pavyzdžiui, saugaus naršymo paslauga gali neatpažinti kai kurių pavojingų svetainių, o kai kurias saugias gali klaidingai palaikyti pavojingomis, o naršymo nustatant geografinę vietą "
+"Paslaugos nustatoma geografinė vieta visada yra tik apytikslė – nei mes, nei mūsų Paslaugų teikėjai negarantuojame, kad nustatoma vieta yra tiksli."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:107
 msgid "Mozilla may discontinue or change the Services at its discretion."
-msgstr ""
+msgstr "„Mozilla\" gali vienašališkai nutraukti ar pakeisti Paslaugų teikimą."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:112
 msgid ""
 "You are welcome to use these Services with the accompanying version of Thunderbird, and Mozilla grants you its rights to do so. Mozilla and its licensors reserve all other rights in the Services. "
 "These terms are not intended to limit any rights granted under open source licenses applicable to Thunderbird and to corresponding source code versions of Thunderbird."
 msgstr ""
+"Jūs esate kviečiami naudotis šiomis Paslaugomis su šia „Thunderbird\" laida, ir „Mozilla\" jums suteikia visas jos turimas tam reikalingas teises.  „Mozilla\" ir jos licencijų išdavėjai pasilieka "
+"visas kitas su Paslaugomis susijusias teises.  Šiomis taisyklėmis nesiekiama apriboti teisių, kurias jums suteikia programai „Thunderbird\" ir jos pirminiams tekstams taikoma atvirųjų programų "
+"licencija."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:117
 msgid ""
@@ -873,6 +889,9 @@ msgid ""
 "that the Services are merchantable and fit for your particular purposes. You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the "
 "Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.</strong>"
 msgstr ""
+"<strong>Paslaugos teikiamos „tokios, kokios yra\". „Mozilla\", jos bendradarbiai, licencijų išdavėjai ir platintojai atsiriboja nuo bet kokių išreikštų ar numanomų garantijų, kaip antai nuo "
+"garantijų, jog Paslaugos yra veiksmingos ir atitiks jūsų poreikius. Jūs prisiimate visą riziką, susijusią su Paslaugų, atitinkančių jūsų poreikius, pasirinkimu, kokybe ir veiksnumu. Kai kuriose "
+"jurisdikcijose atsiriboti nuo numanomų garantijų neleidžiama, tad gali būti, kad jums ši taisyklė negalioja.</strong>"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:122
 msgid ""
@@ -880,16 +899,22 @@ msgid ""
 "arising out of or in any way relating to the use of Thunderbird and the Services. The collective liability under these terms will not exceed $500 (five hundred dollars). Some jurisdictions do not "
 "allow the exclusion or limitation of certain damages, so this exclusion and limitation may not apply to you.</strong>"
 msgstr ""
+"<strong>Išskyrus kiek to reikalauja įstatymai, „Mozilla\", jos bendradarbiai, licencijų išdavėjai ir platintojai nebus laikomi atsakingais už bet kokią netiesioginę, tyčinę, netyčinę, pasėkminę, "
+"baudžiamąją ar kitokią žalą, kilusią dėl „Thunderbird\" ir Paslaugų naudojimo ar bet kokiu būdu su tuo susijusią.  Pagal šias taisykles, kolektyvinė atsakomybė negali viršyti 500 (penkių šimtų) JAV "
+"dolerių.  Kai kuriose jurisdikcijose atsiriboti nuo kai kurių tipų žalos neleidžiama, tad gali būti, kad jums ši taisyklė negalioja.</strong>"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:127
 msgid "Mozilla may update these terms as necessary from time to time. These terms may not be modified or canceled without Mozilla's written agreement."
-msgstr ""
+msgstr "Kilus poreikiui, „Mozilla\" šias taisykles gali keisti. Be raštiško „Mozillos\" sutikimo šios taisyklės negali būti taisomos ar atšaukiamos."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:132
 msgid ""
 "These terms are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these terms is held to be invalid or unenforceable, the remaining"
 " portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control."
 msgstr ""
+"Šiose taisyklėse vadovaujamasi JAV Kalifornijos valstijoje galiojančiais įstatymais. Kilus neatitikimams tarp šių taisyklių ir įstatymų, įstatymai laikomi viršesniais. Jei kuri nors šių taisyklių "
+"dalis neatitinka įstatymų ar negali būti įgyvendanama, kitos jų dalys bus laikomos galiojančiomis. Jei tarp išverstos šių taisyklių versijos ir originalių taisyklių anglų kalba yra neatitikimų, turi"
+" būti vadovaujamasi angliškąja taisyklių versija."
 
 #: sites/www.thunderbird.net/404.html:8
 #, python-format

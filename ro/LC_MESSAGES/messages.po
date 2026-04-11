@@ -809,11 +809,11 @@ msgstr "Explorează versiunile lunare"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:14 sites/updates.thunderbird.net/thunderbird/about/rights/index.html:41
 msgid "About Your Rights"
-msgstr ""
+msgstr "Despre drepturile tale"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:43
 msgid "Thunderbird is free and open source software, built by a community of thousands from all over the world. There are a few things you should know:"
-msgstr ""
+msgstr "Thunderbird este un program liber și cu sursă deschisă, construit de o comunitate de mii de oameni din lumea întreagă. Există câteva lucruri bine pe care ar trebui să le știi:"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:49
 #, python-format
@@ -821,6 +821,8 @@ msgid ""
 "Thunderbird is made available to you under the terms of the <a href=\"%(mpl_url)s\">Mozilla Public License</a>. This means you may use, copy and distribute Thunderbird to others. You are also "
 "welcome to modify the source code of Thunderbird as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions."
 msgstr ""
+"Thunderbird este disponibil sub termenii <a href=\"%(mpl_url)s\">Licenței publice Mozilla</a>. Acest lucru înseamnă că poți folosi, copia și distribui Thunderbird. De asemenea, ești binevenit(ă) să "
+"modifici cum dorești codul sursă Thunderbird pentru a răspunde nevoilor tale. Licența publică Mozilla îți oferă și dreptul de a distribui versiunile pe care le-ai modificat."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:54
 #, python-format
@@ -828,31 +830,39 @@ msgid ""
 "You are not granted any trademark rights or licenses to the trademarks of the Mozilla Foundation or any party, including without limitation the Thunderbird name or logo. Additional information on "
 "trademarks may be found <a href=\"%(trademark_url)s\">here</a>."
 msgstr ""
+"Nu vi se acordă niciun drept asupra mărcilor comerciale sau asupra licențelor de utilizare a mărcilor comerciale deținute de Fundația Mozilla sau orice altă parte terță, inclusiv, fără a se limita "
+"la, denumirea sau logo-ul Thunderbird. Informații suplimentare despre mărcile comerciale: <a href=\"%(trademark_url)s\">here</a>."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:59
 msgid ""
 "Some features in Thunderbird, such as the Crash Reporter, give you the option to provide feedback to Mozilla. By choosing to submit feedback, you give Mozilla permission to use the feedback to "
 "improve its products, to publish the feedback on its websites, and to distribute the feedback."
 msgstr ""
+"Unele funcționalități din Thunderbird, cum ar fi Raportorul de defecțiuni, oferă opțiunea de a trimite feedback la Mozilla. Alegând să trimiți feedback, îi dai permisiunea lui Mozilla să folosească "
+"feedbackurile pentru a-și îmbunătăți produsele, să publice feedbackurile pe propriile site-uri web și să distribuie feedbackurile."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:64
 #, python-format
 msgid "How we use your personal information and feedback submitted to Mozilla through Thunderbird is described in the <a href=\"%(privacy_url)s\">Thunderbird Privacy Policy</a>."
 msgstr ""
+"Modul în care folosim informațiile cu caracter personal și feedbackurile trimise la Mozilla prin Thunderbird este descris în <a href=\"%(privacy_url)s\">Politica de confidențialitate "
+"Thunderbird</a>."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:69
 msgid ""
 "Some Thunderbird features make use of web-based information services, however, we cannot guarantee they are 100% accurate or error-free. More details, including information on how to disable the "
 "features that use these services, can be found in the <a href=\"#webservices\">service terms</a>."
 msgstr ""
+"Unele funcționalități din Thunderbird folosesc servicii de informații bazate pe web, totuși, nu le putem garanta 100% acuratețea sau lipsa erorilor. Detalii suplimentare, inclusiv informații despre "
+"dezactivarea funcționalităților care folosesc aceste servicii, sunt disponibile în <a href=\"#webservices\">Termenii de utilizare a serviciilor</a>."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:74
 msgid "In order to play back certain types of video content, Thunderbird downloads certain content decryption modules from third parties."
-msgstr ""
+msgstr "Pentru redarea anumitor tipuri de conținut video, Thunderbird descarcă anumite module de decriptare de la terți."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:80
 msgid "Thunderbird Web-Based Information Services"
-msgstr ""
+msgstr "Servicii de informații bazate pe web în Thunderbird"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:82
 msgid ""
@@ -860,6 +870,10 @@ msgid ""
 "do not want to use one or more of the Services or the terms below are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be "
 "found <a href=\"#disabling-webservices\">here</a>. Other features and Services can be disabled in the application settings."
 msgstr ""
+"Thunderbird folosește servicii de informații bazate pe web („Servicii\") pentru a oferi unele funcționalități furnizate pentru utilizarea împreună cu această versiune binară de Thunderbird conform "
+"clauzelor descrise mai jos. Dacă nu vrei să folosești unul sau mai multe Servicii sau dacă clauzele de mai jos sunt inacceptabile pentru tine, poți dezactiva funcționalitățile sau Serviciile "
+"respective. Instrucțiuni pentru dezactivarea unei funcționalități sau a unui Serviciu găsiți <a href=\"#disabling-webservices\">aici</a>. Alte funcționalități și Servicii pot fi dezactivate în "
+"setările aplicației."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:87
 msgid "Location Aware Browsing"
@@ -868,22 +882,24 @@ msgstr ""
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:89
 msgid "<strong>Location Aware Browsing:</strong> is always opt-in. No location information is ever sent without your permission. If you wish to disable the feature completely, follow these steps:"
 msgstr ""
+"<strong>Navigarea cu depistarea locației:</strong> este întotdeauna opțională. Informațiile despre locație nu sunt niciodată transmise fără permisiunea ta. Dacă vrei să dezactivezi complet această "
+"funcționalitate, urmează pașii de mai jos:"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:94
 msgid "Open the Config Editor"
-msgstr ""
+msgstr "Tastează <code>about:config</code> în bara de adrese"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:95
 msgid "Type geo.enabled"
-msgstr ""
+msgstr "Tastează geo.enabled"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:96
 msgid "Double click on the geo.enabled preference"
-msgstr ""
+msgstr "Dă clic dublu pe preferința geo.enabled"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:97
 msgid "Location-Aware Browsing is now disabled"
-msgstr ""
+msgstr "Navigarea cu depistarea locației este acum dezactivată"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:102
 msgid ""
@@ -891,16 +907,23 @@ msgid ""
 "For example, the Safe Browsing Service may not identify some risky sites and may identify some safe sites in error and the Location Aware Service all locations returned by our service providers are "
 "estimates only and neither we nor our service providers guarantee the accuracy of the locations provided."
 msgstr ""
+"Mozilla și colaboratorii, licențiatorii și partenerii săi lucrează pentru a oferi cele mai precise și actualizate Servicii.  Totuși, nu putem garanta că informațiile sunt complete sau lipsite de "
+"erori. De exemplu, se poate ca serviciul de Navigare în siguranță să nu identifice unele site-uri riscante și ar putea identifica greșit unele site-uri sigure ca fiind riscante, iar în Serviciul de "
+"navigare cu geolocalizare, toate pozițiile recepționate de la furnizorii noștri de servicii sunt doar estimative și nici noi, nici furnizorii noștri de servicii nu garantăm acuratețea poziționărilor"
+" oferite."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:107
 msgid "Mozilla may discontinue or change the Services at its discretion."
-msgstr ""
+msgstr "Mozilla poate întrerupe sau modifica Serviciile la libera sa apreciere."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:112
 msgid ""
 "You are welcome to use these Services with the accompanying version of Thunderbird, and Mozilla grants you its rights to do so. Mozilla and its licensors reserve all other rights in the Services. "
 "These terms are not intended to limit any rights granted under open source licenses applicable to Thunderbird and to corresponding source code versions of Thunderbird."
 msgstr ""
+"Ești binevenit(ă) să folosești aceste Servicii și versiunea asociată de Thunderbird și Mozilla îți acordă drepturile necesare în acest sens. Mozilla și licențiatorii săi își rezervă toate celelalte "
+"drepturi asupra Serviciilor. Acești termeni nu sunt destinați să limiteze drepturi acordate sub licențe cu sursă deschisă aplicabile Thunderbird sau versiunilor corespunzătoare de cod sursă "
+"Thunderbird."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:117
 msgid ""
@@ -908,6 +931,9 @@ msgid ""
 "that the Services are merchantable and fit for your particular purposes. You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the "
 "Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.</strong>"
 msgstr ""
+"<strong>Serviciile sunt furnizate „ca atare\".  Mozilla, colaboratorii, licențiatorii și distribuitorii săi declină toate garanțiile, exprese ori implicite, inclusiv, fără a se limita la, garanții "
+"de vandabilitate sau de adecvare a Serviciilor pentru un scop anume.  Vei suporta integral riscul legat de selectarea Serviciilor pentru scopurile tale și cel implicat de calitatea și performanța "
+"Serviciilor. Unele jurisdicții nu permit excluderea sau limitarea garanțiilor implicite și atunci este posibil ca prezenta declinare a responsabilității să nu se aplice în cazul tău.</strong>"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:122
 msgid ""
@@ -915,16 +941,22 @@ msgid ""
 "arising out of or in any way relating to the use of Thunderbird and the Services. The collective liability under these terms will not exceed $500 (five hundred dollars). Some jurisdictions do not "
 "allow the exclusion or limitation of certain damages, so this exclusion and limitation may not apply to you.</strong>"
 msgstr ""
+"<strong>Cu excepția cazurilor prevăzute de lege, Mozilla, colaboratorii, licențiatorii și distribuitorii săi nu vor fi trași la răspundere pentru orice daune indirecte, speciale, incidentale, "
+"derivate, punitive sau exemplare izvorâte din sau legate în orice fel de utilizarea Thunderbird și a Serviciilor. Răspunderea colectivă în baza prezenților termeni nu va depăși 500 $ (cinci sute de "
+"dolari). Unele jurisdicții nu permit excluderea sau limitarea anumitor daune și atunci este posibil ca prezenta excludere și limitare să nu se aplice în cazul tău.</strong>"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:127
 msgid "Mozilla may update these terms as necessary from time to time. These terms may not be modified or canceled without Mozilla's written agreement."
-msgstr ""
+msgstr "Mozilla poate actualiza ocazional acești termeni, după caz. Termenii nu pot fi modificați sau anulați fără acordul scris al Mozilla."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:132
 msgid ""
 "These terms are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these terms is held to be invalid or unenforceable, the remaining"
 " portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control."
 msgstr ""
+"Acești termeni sunt guvernați de legislația statului California, S.U.A., cu excluderea prevederilor privind conflictul de legi. Dacă orice parte a prezenților termeni este considerată nevalidă sau "
+"neexecutabilă, celelalte prevederi vor rămâne integral în vigoare și vor produce efecte depline. În cazul unei neconcordanțe dintre o versiune tradusă a termenilor de față și versiunea în limba "
+"engleză, versiunea în limba engleză va prevala."
 
 #: sites/www.thunderbird.net/404.html:8
 #, python-format

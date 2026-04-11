@@ -807,11 +807,11 @@ msgstr "Havi kiadások felfedezése"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:14 sites/updates.thunderbird.net/thunderbird/about/rights/index.html:41
 msgid "About Your Rights"
-msgstr ""
+msgstr "Az Ön jogai"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:43
 msgid "Thunderbird is free and open source software, built by a community of thousands from all over the world. There are a few things you should know:"
-msgstr ""
+msgstr "A Thunderbird ingyenes és nyílt forrású szoftver, amelyet világszerte több ezer ember fejleszt. Néhány dologról tudnia kell:"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:49
 #, python-format
@@ -819,6 +819,8 @@ msgid ""
 "Thunderbird is made available to you under the terms of the <a href=\"%(mpl_url)s\">Mozilla Public License</a>. This means you may use, copy and distribute Thunderbird to others. You are also "
 "welcome to modify the source code of Thunderbird as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions."
 msgstr ""
+"A Thunderbird a <a href=\"%(mpl_url)s\">Mozilla Public License</a> feltételei szerint lett közreadva. Ez azt jelenti, hogy a  Thunderbird használható, másolható és terjeszthető. A Thunderbird "
+"forráskódjának igény szerinti módosítása szintén megengedett. A Mozilla Public License megadja a jogot a módosított verziók terjesztésére is."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:54
 #, python-format
@@ -826,31 +828,37 @@ msgid ""
 "You are not granted any trademark rights or licenses to the trademarks of the Mozilla Foundation or any party, including without limitation the Thunderbird name or logo. Additional information on "
 "trademarks may be found <a href=\"%(trademark_url)s\">here</a>."
 msgstr ""
+"Ön nem kapott jogot vagy felhatalmazást a védjegyek használatára sem a Mozilla Foundationtől, sem mástól, beleértve – de nem csak erre korlátozva – a Thunderbird nevet és logót. A védjegyekről "
+"további információ <a href=\"%(trademark_url)s\">itt</a> olvasható."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:59
 msgid ""
 "Some features in Thunderbird, such as the Crash Reporter, give you the option to provide feedback to Mozilla. By choosing to submit feedback, you give Mozilla permission to use the feedback to "
 "improve its products, to publish the feedback on its websites, and to distribute the feedback."
 msgstr ""
+"A Thunderbird egyes funkciói, például a Hibajelentő, lehetőséget ad a visszajelzésre a Mozilla felé. A visszajelzés elküldésével Ön engedélyt ad a Mozilla részére, hogy a visszajelzést a termékei "
+"fejlesztésére használja fel, a visszajelzést közzétegye a webhelyein, valamint a visszajelzést terjessze."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:64
 #, python-format
 msgid "How we use your personal information and feedback submitted to Mozilla through Thunderbird is described in the <a href=\"%(privacy_url)s\">Thunderbird Privacy Policy</a>."
-msgstr ""
+msgstr "A Mozilla részére a Thunderbird által beküldött személyes adatokat és visszajelzéseket a <a href=\"%(privacy_url)s\">Thunderbird Adatvédelmi Irányelvek</a> szerint kezeljük."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:69
 msgid ""
 "Some Thunderbird features make use of web-based information services, however, we cannot guarantee they are 100% accurate or error-free. More details, including information on how to disable the "
 "features that use these services, can be found in the <a href=\"#webservices\">service terms</a>."
 msgstr ""
+"A Thunderbird webalapú információs szolgáltatásokat is nyújt, mindazonáltal nem garantálható, hogy ezek 100%-osan pontosak és hibamentesek. A szolgáltatások letiltásáról szóló információk a <a "
+"href=\"#webservices\">szolgáltatás feltételei</a> dokumentumban olvashatók."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:74
 msgid "In order to play back certain types of video content, Thunderbird downloads certain content decryption modules from third parties."
-msgstr ""
+msgstr "Bizonyos típusú videotartalmak lejátszásához a Thunderbird tartalom-visszafejtési modulokat tölt le külső szolgáltatóktól."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:80
 msgid "Thunderbird Web-Based Information Services"
-msgstr ""
+msgstr "Thunderbird webalapú információs szolgáltatások"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:82
 msgid ""
@@ -858,6 +866,9 @@ msgid ""
 "do not want to use one or more of the Services or the terms below are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be "
 "found <a href=\"#disabling-webservices\">here</a>. Other features and Services can be disabled in the application settings."
 msgstr ""
+"A Thunderbird webalapú információs szolgáltatásokat („Szolgáltatások\") használ egyes funkciók megvalósítására. Ezek a Szolgáltatások a Thunderbird bináris verziójával együtt érhetők el az alább "
+"leírt módon. Ha nem akarja használni a Szolgáltatásokat, illetve az alábbi feltételek elfogadhatatlanok, letilthatja a funkciót vagy a Szolgáltatásokat. Egy adott funkció vagy Szolgáltatás "
+"letiltásáról <a href=\"#disabling-webservices\">itt</a> található információ. Más funkciók és szolgáltatások az alkalmazás beállításaiban kapcsolhatók ki."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:87
 msgid "Location Aware Browsing"
@@ -866,22 +877,24 @@ msgstr ""
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:89
 msgid "<strong>Location Aware Browsing:</strong> is always opt-in. No location information is ever sent without your permission. If you wish to disable the feature completely, follow these steps:"
 msgstr ""
+"<strong>Location Aware Browsing:</strong> A helyfüggő böngészés nincs alapból bekapcsolva. Az engedélye nélkül nem kerül elküldésre semmilyen adat a tartózkodási helyéről. Ha teljesen le akarja "
+"tiltani a funkciót, kövesse az alábbi lépéseket:"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:94
 msgid "Open the Config Editor"
-msgstr ""
+msgstr "A címsávba írja be: <code>about:config</code>"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:95
 msgid "Type geo.enabled"
-msgstr ""
+msgstr "Írja be: geo.enabled"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:96
 msgid "Double click on the geo.enabled preference"
-msgstr ""
+msgstr "Kattintson duplán a geo.enabled beállításon."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:97
 msgid "Location-Aware Browsing is now disabled"
-msgstr ""
+msgstr "A Location-Aware Browsing most le van tiltva."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:102
 msgid ""
@@ -889,16 +902,21 @@ msgid ""
 "For example, the Safe Browsing Service may not identify some risky sites and may identify some safe sites in error and the Location Aware Service all locations returned by our service providers are "
 "estimates only and neither we nor our service providers guarantee the accuracy of the locations provided."
 msgstr ""
+"A Mozilla, a közreműködők, a licencadók és a partnerek azon dolgoznak, hogy a lehető legpontosabb és legfrissebb Szolgáltatásokat nyújtsák. Mindazonáltal nem garantáljuk, hogy ez az információ "
+"teljes és hibamentes. Például a Safe Browsing szolgáltatás nem feltétlenül azonosít egyes kockázatos webhelyeket, vagy tévedésből biztonságos webhelyre nem enged be, valamint a Location Aware "
+"szolgáltatás által visszaadott tartózkodási helyet a szolgáltatóink közlik, ezek csak becslések, és sem mi, sem a szolgáltatóink nem garantáljuk a megadott tartózkodási hely pontosságát."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:107
 msgid "Mozilla may discontinue or change the Services at its discretion."
-msgstr ""
+msgstr "A Mozilla saját hatáskörében megszüntetheti vagy módosíthatja a Szolgáltatásokat."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:112
 msgid ""
 "You are welcome to use these Services with the accompanying version of Thunderbird, and Mozilla grants you its rights to do so. Mozilla and its licensors reserve all other rights in the Services. "
 "These terms are not intended to limit any rights granted under open source licenses applicable to Thunderbird and to corresponding source code versions of Thunderbird."
 msgstr ""
+"Ön igénybe veheti ezeket a Szolgáltatásokat a Thunderbird mellékelt verziójával, a Mozilla ehhez minden jogot megad. A Mozilla és licencadói minden más jogot fenntartanak a Szolgáltatásokkal "
+"kapcsolatban. Ezek a feltételek nem korlátozzák a Thunderbird programra és a Thunderbird forráskódjára alkalmazott nyílt forrású licencek által biztosított jogokat."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:117
 msgid ""
@@ -906,6 +924,10 @@ msgid ""
 "that the Services are merchantable and fit for your particular purposes. You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the "
 "Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.</strong>"
 msgstr ""
+"<strong>A Szolgáltatások „olyanok, amilyenek\". A Mozilla, a közreműködők, a licencadók és a terjesztők minden garanciát elutasítanak, legyen az kifejezett vagy vélelmezett, beleértve, de nem erre "
+"korlátozva azt, hogy a Szolgáltatások hasznosak és megfelelnek a felhasználó céljainak. Teljes egészében a felhasználó viseli annak kockázatát, hogy a Szolgáltatásokat saját céljára igénybe veszi, "
+"és hogy a Szolgáltatások az adott minőségben és teljesítménnyel működnek. Egyes jogrendszerek nem teszik lehetővé a vélelmezett garanciák kizárását vagy korlátozását, tehát ez az elutasítás lehet, "
+"hogy Önre nem vonatkozik.</strong>"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:122
 msgid ""
@@ -913,16 +935,21 @@ msgid ""
 "arising out of or in any way relating to the use of Thunderbird and the Services. The collective liability under these terms will not exceed $500 (five hundred dollars). Some jurisdictions do not "
 "allow the exclusion or limitation of certain damages, so this exclusion and limitation may not apply to you.</strong>"
 msgstr ""
+"<strong>Ha a törvény másképp nem rendelkezik, a Mozilla, a közreműködők, a licencadók és a terjesztők nem felelnek semmilyen közvetlen, különleges, következményes, büntetőjogi vagy példamutató "
+"kárért, amely a Thunderbird és a Szolgáltatások használatából következett, vagy azzal bármilyen módon összefüggésbe hozható. A kollektív felelősség ezen feltételek szerint nem haladja meg az 500 "
+"(ötszáz) USA-dollárt. Egyes jogrendszerek nem teszik lehetővé bizonyos károk kizárását vagy korlátozását, tehát ez a kizárás és korlátozás lehet, hogy Önre nem vonatkozik.</strong>"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:127
 msgid "Mozilla may update these terms as necessary from time to time. These terms may not be modified or canceled without Mozilla's written agreement."
-msgstr ""
+msgstr "A Mozilla időről időre frissítheti ezeket a feltételeket, ha szükségesnek látja. Ezek a feltételek nem módosíthatók vagy érvényteleníthetők a Mozilla írásos beleegyezése nélkül."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:132
 msgid ""
 "These terms are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these terms is held to be invalid or unenforceable, the remaining"
 " portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control."
 msgstr ""
+"A feltételekre Kalifornia (USA) állam törvényei vonatkoznak, kivéve ha ütközik helyi jogszabályokkal. Ha a feltételek egyes részei érvénytelenek vagy nem kikényszeríthetők, a többi rész attól még "
+"teljes mértékben érvényes és hatályos. Ha a feltételek lefordított változata ellentmond az angol változatnak, akkor az angol változat az irányadó."
 
 #: sites/www.thunderbird.net/404.html:8
 #, python-format

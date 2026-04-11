@@ -791,11 +791,11 @@ msgstr "Tutustu kuukausittaisiin julkaisuihin"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:14 sites/updates.thunderbird.net/thunderbird/about/rights/index.html:41
 msgid "About Your Rights"
-msgstr ""
+msgstr "Tietoa oikeuksistasi"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:43
 msgid "Thunderbird is free and open source software, built by a community of thousands from all over the world. There are a few things you should know:"
-msgstr ""
+msgstr "Thunderbird on ilmainen, avoimen lähdekoodin ohjelmisto, jonka tekijäyhteisö koostuu tuhansista ympäri maailmaa asuvista ihmisistä. Seuraavat seikat on hyvä tietää:"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:49
 #, python-format
@@ -803,6 +803,9 @@ msgid ""
 "Thunderbird is made available to you under the terms of the <a href=\"%(mpl_url)s\">Mozilla Public License</a>. This means you may use, copy and distribute Thunderbird to others. You are also "
 "welcome to modify the source code of Thunderbird as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions."
 msgstr ""
+"Thunderbird on annettu sinulle <a href=\"%(mpl_url)s\">Mozillan julkisen lisenssin (Mozilla Public License)</a> ehdoilla. Lisenssissä annetaan sinulle oikeus käyttää, kopioida ja levittää "
+"Thunderbirdia. Sinulla on myös halutessasi oikeus muokata ja muuttaa Thunderbirdin lähdekoodia omien tarpeittesi mukaisesti. Mozillan julkinen lisenssi antaa sinulle myös oikeuden levittää näitä "
+"muokkaamiasi versioita."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:54
 #, python-format
@@ -810,31 +813,37 @@ msgid ""
 "You are not granted any trademark rights or licenses to the trademarks of the Mozilla Foundation or any party, including without limitation the Thunderbird name or logo. Additional information on "
 "trademarks may be found <a href=\"%(trademark_url)s\">here</a>."
 msgstr ""
+"Sinulle ei anneta minkäänlaisia tavaramerkki- tai lisenssioikeuksia Mozilla-säätiön tai muun tahon tavaramerkkeihin, joihin lukeutuu Thunderbird-nimi ja -logo. Voit lukea tarkempia lisätietoja "
+"tavaramerkeistä <a href=\"%(trademark_url)s\">täältä</a>."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:59
 msgid ""
 "Some features in Thunderbird, such as the Crash Reporter, give you the option to provide feedback to Mozilla. By choosing to submit feedback, you give Mozilla permission to use the feedback to "
 "improve its products, to publish the feedback on its websites, and to distribute the feedback."
 msgstr ""
+"Jotkin Thunderbirdin ominaisuudet, kuten kaatumisen raportointi, antavat mahdollisuuden lähettää palautetta Mozillalle. Lähettämällä palautetta annat Mozillalle luvan käyttää lähetettyjä tietoja "
+"parantamaan tuotetta, julkaisemaan lähetetyn palautteen verkkosivuilla ja jakelemaan lähetettyjä palautetietoja."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:64
 #, python-format
 msgid "How we use your personal information and feedback submitted to Mozilla through Thunderbird is described in the <a href=\"%(privacy_url)s\">Thunderbird Privacy Policy</a>."
-msgstr ""
+msgstr "<a href=\"%(privacy_url)s\">Thunderbirdin tietosuojakäytännössä </a>kuvataan, mihin tarkoituksiin käytämme Thunderbirdista Mozillalle lähetetyt palautteet ja käyttäjätiedot."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:69
 msgid ""
 "Some Thunderbird features make use of web-based information services, however, we cannot guarantee they are 100% accurate or error-free. More details, including information on how to disable the "
 "features that use these services, can be found in the <a href=\"#webservices\">service terms</a>."
 msgstr ""
+"Jotkin Thunderbirdin ominaisuudet käyttävät hyväkseen verkkopohjaisia tietopalveluja, joiden emme voi taata olevan 100 % tarkkoja tai virheettömiä. Lisätietoja palveluista mukaan lukien ohjeet "
+"niiden päältä poistamiseen löydät <a href=\"#webservices\">palveluehdoista</a>."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:74
 msgid "In order to play back certain types of video content, Thunderbird downloads certain content decryption modules from third parties."
-msgstr ""
+msgstr "Thunderbird lataa kolmansilta osapuolilta salauksen purkumoduuleja voidakseen toistaa tietyntyyppistä videosisältöä."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:80
 msgid "Thunderbird Web-Based Information Services"
-msgstr ""
+msgstr "Thunderbirdin verkkopohjaiset tietopalvelut"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:82
 msgid ""
@@ -849,23 +858,23 @@ msgstr ""
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:89
 msgid "<strong>Location Aware Browsing:</strong> is always opt-in. No location information is ever sent without your permission. If you wish to disable the feature completely, follow these steps:"
-msgstr ""
+msgstr "<strong>Sijaintitietoinen selaus:</strong> on aina valinnainen. Sijaintitietoja ei ikinä lähetetä ilman hyväksyntääsi. Jos haluat poistaa toiminnon kokonaan, tee seuraavasti:"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:94
 msgid "Open the Config Editor"
-msgstr ""
+msgstr "Kirjoita osoitepalkkiin <code>about:config</code>"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:95
 msgid "Type geo.enabled"
-msgstr ""
+msgstr "Kirjoita suodata-kenttään geo.enabled"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:96
 msgid "Double click on the geo.enabled preference"
-msgstr ""
+msgstr "Tuplanapsauta geo.enabled -asetusta"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:97
 msgid "Location-Aware Browsing is now disabled"
-msgstr ""
+msgstr "Sijaintitietoinen selaus -toiminto on nyt otettu pois päältä"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:102
 msgid ""
@@ -873,16 +882,21 @@ msgid ""
 "For example, the Safe Browsing Service may not identify some risky sites and may identify some safe sites in error and the Location Aware Service all locations returned by our service providers are "
 "estimates only and neither we nor our service providers guarantee the accuracy of the locations provided."
 msgstr ""
+"Mozilla ja siihen liittyvät vapaaehtoiset, lisensoijat ja yhteistyökumppanit pyrkivät toimittamaan ja tarjoamaan mahdollisimman tarkat ja ajan tasalla olevat palvelut. Tämän tiedon kattavuudesta tai"
+" virheettömyydestä ei kuitenkaan voida antaa takuita. Esimerkiksi joitain vaarallisia sivustoja ei ehkä tunnisteta ja jotkin harmittomat sivut voidaan virheellisesti luokitella vaarallisiksi. "
+"Vastaavasti sijaintitiedot ovat vain arvioita, emmekä me tai meidän palveluntarjoajat voi taata sijaintitietojen tarkkuutta."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:107
 msgid "Mozilla may discontinue or change the Services at its discretion."
-msgstr ""
+msgstr "Mozilla voi lakkauttaa tai muuttaa palveluita yksipuolisesti."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:112
 msgid ""
 "You are welcome to use these Services with the accompanying version of Thunderbird, and Mozilla grants you its rights to do so. Mozilla and its licensors reserve all other rights in the Services. "
 "These terms are not intended to limit any rights granted under open source licenses applicable to Thunderbird and to corresponding source code versions of Thunderbird."
 msgstr ""
+"Voit käyttää näitä palveluita tämän Thunderbirdin version kanssa ja sinulla on ohjelman myötä kaikki tarvittavat oikeudet niiden käyttämiseen. Mozilla ja sen lisensoijat säilyttävät kaikki muut "
+"oikeudet palveluihin. Näitä ehtoja ei ole suunniteltu rajoittamaan mitään Thunderbirdin avoimen lähdekoodin lisenssien myöntämiä oikeuksia saati lähdekoodiversiolle myönnettyjä oikeuksia."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:117
 msgid ""
@@ -890,6 +904,9 @@ msgid ""
 "that the Services are merchantable and fit for your particular purposes. You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the "
 "Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.</strong>"
 msgstr ""
+"<strong>Palvelut toimitetaan siinä tilassa \"kuin ne ovat\". Mozilla, siihen liittyvät vapaaehtoiset, lisensoijat ja levittäjät kieltävät kaikki takuut, mukaan lukien lupaukset palvelun "
+"kaupallisesta laadusta ja sopivuudesta tarkoituksiisi. Kannat kokonaan vastuun palvelun valinnasta, sen laadusta ja toiminnasta. Tällaiset vastuun rajoitukset eivät ole välttämättä voimassa joissain"
+" tuomiovalloissa, joten edellä mainittu ei välttämättä pidä paikkaansa.</strong>"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:122
 msgid ""
@@ -897,16 +914,21 @@ msgid ""
 "arising out of or in any way relating to the use of Thunderbird and the Services. The collective liability under these terms will not exceed $500 (five hundred dollars). Some jurisdictions do not "
 "allow the exclusion or limitation of certain damages, so this exclusion and limitation may not apply to you.</strong>"
 msgstr ""
+"<strong>Lukuunottamatta mitä laki vaatii, Mozilla, siihen liittyvät vapaaehtoiset, lisensoijat ja levittäjät eivät ole korvausvastuussa mistään epäsuorasta, erikoisesta tai sattumanvaraisesta "
+"vahingosta, joka johtuu suoraan tai epäsuoraan Thunderbirdin ja palvelujen käytöstä. Näiden ehtojen alainen kollektiivinen korvausvelvollisuus ei ylitä $500 (viittä sataa Yhdysvaltain dollaria). "
+"Joissain tuomiovalloissa korvausvelvollisuuden ylärajaa ei lain mukaan voi asettaa, jolloin edellä mainittu ei pidä paikkaansa tapauksessasi.</strong>"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:127
 msgid "Mozilla may update these terms as necessary from time to time. These terms may not be modified or canceled without Mozilla's written agreement."
-msgstr ""
+msgstr "Mozilla voi päivittää ja muuttaa näitä ehtoja tarpeen mukaan aika ajoin. Näitä ehtoja ei voi muuttaa tai poistaa ilman Mozillan kirjallista suostumusta."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:132
 msgid ""
 "These terms are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these terms is held to be invalid or unenforceable, the remaining"
 " portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control."
 msgstr ""
+"Nämä ehdot ovat Amerikan Yhdysvaltojen Kalifornian osavaltion lainsäädännön alaisia. Jos jokin osa ehdoista ei päde tuomiovallan alueella, loput ehdot ovat voimassa kokonaisuudessaan. Jos näiden "
+"ehtojen käännetty versio ja alkuperäinen englanninkielinen versio eroavat toisistaan, englanninkielinen versio on sitova."
 
 #: sites/www.thunderbird.net/404.html:8
 #, python-format

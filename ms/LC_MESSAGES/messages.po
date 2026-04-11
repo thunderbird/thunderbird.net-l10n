@@ -775,11 +775,11 @@ msgstr ""
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:14 sites/updates.thunderbird.net/thunderbird/about/rights/index.html:41
 msgid "About Your Rights"
-msgstr ""
+msgstr "Perihal Hak Anda"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:43
 msgid "Thunderbird is free and open source software, built by a community of thousands from all over the world. There are a few things you should know:"
-msgstr ""
+msgstr "Thunderbird adalah perisian percuma dan sumber terbuka, dibina oleh komuniti yang terdiri daripada ribuan penyumbang dari seluruh dunia. Ada beberapa perkara yang anda perlu tahu:"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:49
 #, python-format
@@ -787,6 +787,8 @@ msgid ""
 "Thunderbird is made available to you under the terms of the <a href=\"%(mpl_url)s\">Mozilla Public License</a>. This means you may use, copy and distribute Thunderbird to others. You are also "
 "welcome to modify the source code of Thunderbird as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions."
 msgstr ""
+"Thunderbird disediakan untuk anda di bawah terma <a href=\"%(mpl_url)s\">Lesen Awam Mozilla</a>. Ini bermakna anda boleh guna, salin dan edarkan Thunderbird kepada pihak lain.  Anda juga dialu-"
+"alukan untuk mengubahsuai kod sumber Thunderbird untuk memenuhi keperluan anda. Lesen Umum Mozilla juga memberikan anda hak untuk mengedarkan versi yang diubah suai."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:54
 #, python-format
@@ -800,25 +802,32 @@ msgid ""
 "Some features in Thunderbird, such as the Crash Reporter, give you the option to provide feedback to Mozilla. By choosing to submit feedback, you give Mozilla permission to use the feedback to "
 "improve its products, to publish the feedback on its websites, and to distribute the feedback."
 msgstr ""
+"Beberapa ciri dalam Thunderbird, seperti Crash Reporter akan memberikan anda pilihan untuk memberikan maklum balas kepada Mozilla. Dengan memilih untuk memberikan maklum balas, anda akan memberikan "
+"Mozilla kebenaran untuk menggunakan maklum balas tersebut untuk menambahbaik produknya, untuk memaparkan maklum balas tersebut di laman web, dan untuk menyebarkan maklum balas tersebut."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:64
 #, python-format
 msgid "How we use your personal information and feedback submitted to Mozilla through Thunderbird is described in the <a href=\"%(privacy_url)s\">Thunderbird Privacy Policy</a>."
 msgstr ""
+"Bagaimana kami menggunakan maklumat peribadi dan maklum balas yang dihantar kepada Mozilla melalui Thunderbird adalah seperti yang diterangkan di dalam <a href=\"%(privacy_url)s\">Thunderbird Polisi"
+" Privasi</a>."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:69
 msgid ""
 "Some Thunderbird features make use of web-based information services, however, we cannot guarantee they are 100% accurate or error-free. More details, including information on how to disable the "
 "features that use these services, can be found in the <a href=\"#webservices\">service terms</a>."
 msgstr ""
+"Beberapa Thunderbird ciri-ciri menggunakan perkhidmatan-perkhidmatan maklumat berlandaskan web, walaubagaimana, kami tidak boleh menjamin bahawa ciri-ciri tersebut 100%; tepat atau tiada ralat. "
+"Maklumat lanjut, termasuk maklumat mengenai bagaimana untuk mematikan ciri-ciri yang menggunakan perkhidmatan-perkhidmatan ini, boleh didapati dalamnya <a href=\"#webservices\">terma "
+"perkhidmatan</a>."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:74
 msgid "In order to play back certain types of video content, Thunderbird downloads certain content decryption modules from third parties."
-msgstr ""
+msgstr "Untuk main semula sesetengah jenis kandungan video, Thunderbird memuat turun sesetengah modul dekripsi kandungan daripada pihak ketiga."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:80
 msgid "Thunderbird Web-Based Information Services"
-msgstr ""
+msgstr "Thunderbird Servis Informasi berdasarkan Web"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:82
 msgid ""
@@ -834,22 +843,24 @@ msgstr ""
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:89
 msgid "<strong>Location Aware Browsing:</strong> is always opt-in. No location information is ever sent without your permission. If you wish to disable the feature completely, follow these steps:"
 msgstr ""
+"<strong>Pelayaran Sedar Lokasi:</strong> adalah satu ciri pilihan.  Tiada maklumat lokasi yang akan dihantar tanpa keizinan anda.  Jika anda mahu menyahaktifkan ciri ini secara keseluruhan, ikuti "
+"arahan berikut:"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:94
 msgid "Open the Config Editor"
-msgstr ""
+msgstr "Di bar URL, taip <code>about:config</code>"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:95
 msgid "Type geo.enabled"
-msgstr ""
+msgstr "Taip geo.enabled"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:96
 msgid "Double click on the geo.enabled preference"
-msgstr ""
+msgstr "Klik-dua kali pada keutamaan geo.enabled"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:97
 msgid "Location-Aware Browsing is now disabled"
-msgstr ""
+msgstr "Location-Aware Browsing kini dinyahdayakan"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:102
 msgid ""
@@ -857,16 +868,22 @@ msgid ""
 "For example, the Safe Browsing Service may not identify some risky sites and may identify some safe sites in error and the Location Aware Service all locations returned by our service providers are "
 "estimates only and neither we nor our service providers guarantee the accuracy of the locations provided."
 msgstr ""
+"Mozilla serta semua penyumbang, pemberi lesen dan rakan kongsi berusaha untuk menyediakan perkhidmatan yang paling tepat dan terkini.  Walau bagaimanapun, kami tidak dapat menjamin bahawa maklumat "
+"ini komprehensif dan bebas daripada ralat. Sebagai contoh, Safe Browsing Service mungkin tidak dapat mengenal pasti beberapa laman berisiko dan mungkin mengenal pasti beberapa laman selamat semasa "
+"ralat dan Location Aware Service mengenal pasti semua lokasi yang dikembalikan oleh pembekal perkhidmatan kami hanyalah anggaran sahaja dan kami atau pembekal perkhidmatan kami tidak menjamin "
+"ketepatan lokasi yang disediakan."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:107
 msgid "Mozilla may discontinue or change the Services at its discretion."
-msgstr ""
+msgstr "Mozilla boleh memberhentikan atau mengubah Perkhidmatan mengikut budi bicara."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:112
 msgid ""
 "You are welcome to use these Services with the accompanying version of Thunderbird, and Mozilla grants you its rights to do so. Mozilla and its licensors reserve all other rights in the Services. "
 "These terms are not intended to limit any rights granted under open source licenses applicable to Thunderbird and to corresponding source code versions of Thunderbird."
 msgstr ""
+"Anda dialu-alukan menggunakan Perkhidmatan ini berserta versi iringan Thunderbird, dan Mozilla memberikan anda hak berbuat sedemikian.  Mozilla dan pemegang lesennya mempunyai semua hak terhadap "
+"Perkhidmatan tersebut.  Terma ini tidak bertujuan untuk menghadkan sebarang hak yang diberikan di bawah lesen sumber terbuka Thunderbird dan versi kod sumber yang ada kaitan dengan Thunderbird."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:117
 msgid ""
@@ -874,6 +891,9 @@ msgid ""
 "that the Services are merchantable and fit for your particular purposes. You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the "
 "Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.</strong>"
 msgstr ""
+"<strong>Perkhidmatan ini disediakan \"mengikut\" Mozilla, penyumbang, pemberi lesen, dan pengedar, menafikan semua jaminan, sama ada yang dinyatakan atau yang tersirat, termasuk tanpa batasan, "
+"jaminan bahawa Perkhidmatan yang boleh diperdagangkan dan sesuai untuk tujuan anda yang tertentu.  Anda menanggung risiko secara menyeluruh untuk memilih Perkhidmatan untuk apa jua tujuan anda dan "
+"kepada kualiti dan prestasi Perkhidmatan. Sesetengah bidang kuasa tidak membenarkan pengecualian atau batasan jaminan yang tersirat, jadi penafian ini tidak mungkin dikenakan  kepada anda.</strong>"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:122
 msgid ""
@@ -881,16 +901,22 @@ msgid ""
 "arising out of or in any way relating to the use of Thunderbird and the Services. The collective liability under these terms will not exceed $500 (five hundred dollars). Some jurisdictions do not "
 "allow the exclusion or limitation of certain damages, so this exclusion and limitation may not apply to you.</strong>"
 msgstr ""
+"<strong>Kecuali dikehendaki oleh undang-undang, Mozilla, para penyumbang, pemberi lesen dan para pengedar tidak bertanggungjawab ke atas mana-mana kerugian sampingan, khusus, tidak sengaja, "
+"berbangkit, punitif atau teladan yang terhasil daripada atau cara yang dikaitkan dengan penggunaan Thunderbird dan Perkhidmatan ini.  Liabiliti kolektif di bawah terma ini tidak akan melebihi $500 "
+"(lima ratus dolar). Sesetengah bidang kuasa tidak membenarkan pengecualian atau had kerugian tertentu, jadi pengecualian ini dan had mungkin tidak dikenakan kepada anda.</strong>"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:127
 msgid "Mozilla may update these terms as necessary from time to time. These terms may not be modified or canceled without Mozilla's written agreement."
-msgstr ""
+msgstr "Mozilla mungkin mengemaskini terma ini jika diperlukan daripada masa ke semasa. Terma ini tidak boleh diubah atau dibatalkan tanpa persetujuan bertulis Mozilla."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:132
 msgid ""
 "These terms are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these terms is held to be invalid or unenforceable, the remaining"
 " portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control."
 msgstr ""
+"Terma ini ditadbir oleh undang-undang negeri California, Amerika Syarikat, tidak termasuk konflik peruntukan undang-undang. Jika mana-mana bahagian terma ini diputuskan sebagai tidak sah atau tidak "
+"boleh dikuatkuasakan, bahagian yang tinggal akan terus berkuat kuasa dan berkesan sepenuhnya. Sekiranya berlaku percanggahan antara terma versi terjemahan ini dengan versi Bahasa Inggeris, versi "
+"Bahasa Inggeris akan diguna pakai."
 
 #: sites/www.thunderbird.net/404.html:8
 #, python-format

@@ -813,11 +813,11 @@ msgstr "Scopri le versioni mensili"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:14 sites/updates.thunderbird.net/thunderbird/about/rights/index.html:41
 msgid "About Your Rights"
-msgstr ""
+msgstr "I tuoi diritti"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:43
 msgid "Thunderbird is free and open source software, built by a community of thousands from all over the world. There are a few things you should know:"
-msgstr ""
+msgstr "Thunderbird è un software libero e Open Source, realizzato da una comunità di migliaia di persone provenienti da tutto il mondo. Ci sono alcuni aspetti che è utile conoscere:"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:49
 #, python-format
@@ -825,6 +825,8 @@ msgid ""
 "Thunderbird is made available to you under the terms of the <a href=\"%(mpl_url)s\">Mozilla Public License</a>. This means you may use, copy and distribute Thunderbird to others. You are also "
 "welcome to modify the source code of Thunderbird as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions."
 msgstr ""
+"Thunderbird è disponibile nei termini della <a href=\"%(mpl_url)s\">Mozilla Public License</a>. Questo significa che è possibile usare, copiare e distribuire Thunderbird ad altre persone. Le "
+"modifiche al codice sorgente di Thunderbird per adattarlo alle proprie esigenze sono benaccette. Inoltre, la Mozilla Public License garantisce il diritto di distribuire tali versioni modificate."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:54
 #, python-format
@@ -832,31 +834,39 @@ msgid ""
 "You are not granted any trademark rights or licenses to the trademarks of the Mozilla Foundation or any party, including without limitation the Thunderbird name or logo. Additional information on "
 "trademarks may be found <a href=\"%(trademark_url)s\">here</a>."
 msgstr ""
+"Mozilla non attribuisce all'utente alcun diritto o licenza relativamente all'utilizzo dei marchi registrati da Mozilla Foundation o da altri soggetti, inclusi senza alcuna limitazione il nome "
+"Thunderbird e i logo associati. Ulteriori informazioni su questo argomento sono disponibili <a href=\"%(trademark_url)s\">in questa pagina</a>."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:59
 msgid ""
 "Some features in Thunderbird, such as the Crash Reporter, give you the option to provide feedback to Mozilla. By choosing to submit feedback, you give Mozilla permission to use the feedback to "
 "improve its products, to publish the feedback on its websites, and to distribute the feedback."
 msgstr ""
+"Alcune caratteristiche di Thunderbird, come ad esempio Crash Reporter, offrono la possibilità di inviare commenti e suggerimenti a Mozilla. Scegliendo di trasmettere questi dati, si garantisce a "
+"Mozilla il permesso di utilizzare queste informazioni per migliorare i propri prodotti, pubblicare sui propri siti web o distribuire i dati raccolti."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:64
 #, python-format
 msgid "How we use your personal information and feedback submitted to Mozilla through Thunderbird is described in the <a href=\"%(privacy_url)s\">Thunderbird Privacy Policy</a>."
 msgstr ""
+"Le modalità di utilizzo dei dati personali, dei commenti e dei suggerimenti raccolti da Mozilla attraverso Thunderbird sono descritte nella <a href=\"%(privacy_url)s\">Informativa sulla privacy di "
+"Thunderbird</a>."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:69
 msgid ""
 "Some Thunderbird features make use of web-based information services, however, we cannot guarantee they are 100% accurate or error-free. More details, including information on how to disable the "
 "features that use these services, can be found in the <a href=\"#webservices\">service terms</a>."
 msgstr ""
+"Alcune caratteristiche di Thunderbird si appoggiano a servizi di informazioni basati sul Web, anche se non è possibile garantire la completa accuratezza e l'affidabilità di tali servizi. Ulteriori "
+"dettagli, comprese indicazioni per disattivare questi servizi, sono disponibili <a href=\"#webservices\">nei termini di utilizzo</a>."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:74
 msgid "In order to play back certain types of video content, Thunderbird downloads certain content decryption modules from third parties."
-msgstr ""
+msgstr "Per riprodurre alcuni tipi di contenuti video, Thunderbird scarica dei moduli di decrittazione da terze parti."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:80
 msgid "Thunderbird Web-Based Information Services"
-msgstr ""
+msgstr "Servizi di informazioni basati sul Web di Thunderbird"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:82
 msgid ""
@@ -864,6 +874,9 @@ msgid ""
 "do not want to use one or more of the Services or the terms below are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be "
 "found <a href=\"#disabling-webservices\">here</a>. Other features and Services can be disabled in the application settings."
 msgstr ""
+"Thunderbird utilizza alcuni servizi web (\"Servizi\") distribuiti con questa versione dell'eseguibile di Thunderbird nei termini descritti di seguito. Se non si desidera utilizzare tali Servizi "
+"oppure i termini di utilizzo risultano inaccettabili, è possibile disattivarli. Istruzioni per disattivare una caratteristica specifica o un Servizio sono disponibili <a href=\"#disabling-"
+"webservices\">in questa pagina</a>. Altre caratteristiche e servizi possono essere disattivati nelle impostazioni dell'applicazione."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:87
 msgid "Location Aware Browsing"
@@ -872,22 +885,24 @@ msgstr ""
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:89
 msgid "<strong>Location Aware Browsing:</strong> is always opt-in. No location information is ever sent without your permission. If you wish to disable the feature completely, follow these steps:"
 msgstr ""
+"<strong>Navigazione geolocalizzata:</strong> richiede sempre un consenso esplicito. Nessuna informazione sulla posizione viene mai trasmessa senza consenso. Per disattivare completamente questa "
+"caratteristica procedere nel seguente modo:"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:94
 msgid "Open the Config Editor"
-msgstr ""
+msgstr "Nella barra degli indirizzi digitare <code>about:config</code>"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:95
 msgid "Type geo.enabled"
-msgstr ""
+msgstr "Digitare geo.enabled"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:96
 msgid "Double click on the geo.enabled preference"
-msgstr ""
+msgstr "Fare doppio clic sulla voce geo.enabled"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:97
 msgid "Location-Aware Browsing is now disabled"
-msgstr ""
+msgstr "Da questo momento la navigazione geolocalizzata è disattivata"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:102
 msgid ""
@@ -895,16 +910,23 @@ msgid ""
 "For example, the Safe Browsing Service may not identify some risky sites and may identify some safe sites in error and the Location Aware Service all locations returned by our service providers are "
 "estimates only and neither we nor our service providers guarantee the accuracy of the locations provided."
 msgstr ""
+"Mozilla e i suoi collaboratori, i licenziatari e i partner si impegnano a fornire i servizi nella forma più accurata e aggiornata possibile. Tuttavia non è sempre possibile garantire la completezza "
+"e l'affidabilità di tali informazioni. Ad esempio, il servizio di Safe Browsing potrebbe non essere in grado di individuare siti web pericolosi o identificare erroneamente alcuni siti affidabili "
+"come pericolosi. Inoltre, tutte le posizioni fornite dal servizio di navigazione geolocalizzata sono stime trasmesse dai nostri fornitori, per cui non siamo in grado, né lo sono i nostri fornitori, "
+"di garantire l'accuratezza di questi dati."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:107
 msgid "Mozilla may discontinue or change the Services at its discretion."
-msgstr ""
+msgstr "Mozilla si riserva il diritto di modificare o interrompere il Servizio a propria discrezione."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:112
 msgid ""
 "You are welcome to use these Services with the accompanying version of Thunderbird, and Mozilla grants you its rights to do so. Mozilla and its licensors reserve all other rights in the Services. "
 "These terms are not intended to limit any rights granted under open source licenses applicable to Thunderbird and to corresponding source code versions of Thunderbird."
 msgstr ""
+"L'utente è invitato a utilizzare i Servizi inclusi in questa versione di Thunderbird e Mozilla gli garantisce tutti i diritti necessari per farlo. Mozilla e i suoi licenziatari si riservano tutti "
+"gli altri diritti relativi ai Servizi. Questi termini di utilizzo non intendono in alcun modo limitare i diritti derivanti da licenze Open Source applicabili a Thunderbird e alla versioni "
+"corrispondenti del codice sorgente di Thunderbird."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:117
 msgid ""
@@ -912,6 +934,10 @@ msgid ""
 "that the Services are merchantable and fit for your particular purposes. You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the "
 "Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.</strong>"
 msgstr ""
+"<strong>I servizi sono distribuiti \"così come descritti\". Mozilla, i collaboratori, i licenziatari e i distributori non forniscono alcuna garanzia, implicita o esplicita, incluse, senza alcuna "
+"limitazione, garanzie sulla possibilità di vendere i Servizi o sull'adeguatezza alle esigenze dell'utilizzatore. L'utente si assume l'intero rischio scegliendo di utilizzare il servizio, sia per "
+"quanto riguarda l'adeguatezza delle funzioni, sia per la qualità e le prestazioni del servizio stesso. In alcune giurisdizioni non è possibile imporre esclusioni o limitazioni alle garanzie "
+"implicite, in tali casi questa dichiarazione di non responsabilità non sarà applicabile.</strong>"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:122
 msgid ""
@@ -919,16 +945,23 @@ msgid ""
 "arising out of or in any way relating to the use of Thunderbird and the Services. The collective liability under these terms will not exceed $500 (five hundred dollars). Some jurisdictions do not "
 "allow the exclusion or limitation of certain damages, so this exclusion and limitation may not apply to you.</strong>"
 msgstr ""
+"<strong>Escluse le eccezioni previste dalla legge, Mozilla, i collaboratori, i licenziatari e i distributori non potranno essere considerati responsabili per qualsiasi danno indiretto, speciale, "
+"accidentale, consequenziale, punitivo o esemplare causato o legato in qualsiasi modo all'uso di Thunderbird e dei Servizi. La responsabilità complessiva nei termini indicati non potrà superare la "
+"somma di 500$ (cinquecento dollari). In alcune giurisdizioni non è possibile imporre esclusioni o limitazioni a determinati tipi di danno, in tali casi questa dichiarazione non sarà "
+"applicabile.</strong>"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:127
 msgid "Mozilla may update these terms as necessary from time to time. These terms may not be modified or canceled without Mozilla's written agreement."
-msgstr ""
+msgstr "Mozilla si riserva il diritto di aggiornare periodicamente questi termini di utilizzo. Tali termini non possono essere modificati o cancellati senza l'autorizzazione scritta di Mozilla."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:132
 msgid ""
 "These terms are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these terms is held to be invalid or unenforceable, the remaining"
 " portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control."
 msgstr ""
+"Questi termini sono disciplinati dalle leggi dello stato della California, U.S.A., ad esclusione delle disposizioni sul conflitto di leggi. Se una qualsiasi parte di questi termini verrà giudicata "
+"invalida o inefficace, la rimanente parte rimarrà valida ed efficace. In caso di incoerenza tra la versione tradotta dei presenti termini e la versione in lingua inglese, avrà priorità la versione "
+"in lingua inglese."
 
 #: sites/www.thunderbird.net/404.html:8
 #, python-format

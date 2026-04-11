@@ -797,11 +797,11 @@ msgstr "Utforsk månedlige utgivelser"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:14 sites/updates.thunderbird.net/thunderbird/about/rights/index.html:41
 msgid "About Your Rights"
-msgstr ""
+msgstr "Om dine rettigheter"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:43
 msgid "Thunderbird is free and open source software, built by a community of thousands from all over the world. There are a few things you should know:"
-msgstr ""
+msgstr "Thunderbird er programvare basert på fri og åpen kildekode, utviklet av et samfunn med tusenvis av medlemmer rundt om i verden. Det er noen ting du bør vite:"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:49
 #, python-format
@@ -809,6 +809,8 @@ msgid ""
 "Thunderbird is made available to you under the terms of the <a href=\"%(mpl_url)s\">Mozilla Public License</a>. This means you may use, copy and distribute Thunderbird to others. You are also "
 "welcome to modify the source code of Thunderbird as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions."
 msgstr ""
+"Thunderbird er tilgjengelig for deg under betingelsene i <a href=\"%(mpl_url)s\">Mozilla Public License</a>. Dette betyr at du kan bruke, kopiere og formidle Thunderbird til andre. Du kan også "
+"forandre kildekoden til Thunderbird for å passe til dine behov. Mozilla Public License gir deg også rett til å formidle forandrede versjoner."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:54
 #, python-format
@@ -816,31 +818,37 @@ msgid ""
 "You are not granted any trademark rights or licenses to the trademarks of the Mozilla Foundation or any party, including without limitation the Thunderbird name or logo. Additional information on "
 "trademarks may be found <a href=\"%(trademark_url)s\">here</a>."
 msgstr ""
+"Du gis ikke noen varemerkerettigheter eller lisenser til varemerker som tilhører Mozilla Foundation eller andre, noe som også gjelder Thunderbird-navnet og -logoen. Mer informasjon om varemerker "
+"finner du <a href=\"%(trademark_url)s\">her</a>."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:59
 msgid ""
 "Some features in Thunderbird, such as the Crash Reporter, give you the option to provide feedback to Mozilla. By choosing to submit feedback, you give Mozilla permission to use the feedback to "
 "improve its products, to publish the feedback on its websites, and to distribute the feedback."
 msgstr ""
+"Noen funksjoner i Thunderbird, som for eksempel krasjrapportereren, gir deg muligheten å gi tilbakemelding til Mozilla. Ved å sende tilbakemelding gir du Mozilla tillatelse til å bruke "
+"tilbakemeldingene for å forbedre produktene sine, publisere tilbakemeldingene på nettstedene sine, og å distribuere tilbakemeldingene."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:64
 #, python-format
 msgid "How we use your personal information and feedback submitted to Mozilla through Thunderbird is described in the <a href=\"%(privacy_url)s\">Thunderbird Privacy Policy</a>."
-msgstr ""
+msgstr "Hvordan vi bruker personlig informasjon og tilbakemeldinger som er sendt til Mozilla gjennom Thunderbird er beskrevet i <a href=\"%(privacy_url)s\">Thunderbird personvernbestemmelser</a>."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:69
 msgid ""
 "Some Thunderbird features make use of web-based information services, however, we cannot guarantee they are 100% accurate or error-free. More details, including information on how to disable the "
 "features that use these services, can be found in the <a href=\"#webservices\">service terms</a>."
 msgstr ""
+"Noen Thunderbird-funksjoner bruker vevbaserte informasjonstjenester, men vi kan ikke garantere at de er 100 % nøyaktige eller feilfrie. Mer informasjon, også om hvordan tjenestene som bruker disse "
+"funksjonene kan slås av, kan du finne i <a href=\"#webservices\">tjenestebetingelsene</a>."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:74
 msgid "In order to play back certain types of video content, Thunderbird downloads certain content decryption modules from third parties."
-msgstr ""
+msgstr "For å spille av forskjellige typer videoinnhold, laster Thunderbird ned dekrypteringsmoduler fra tredjeparter."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:80
 msgid "Thunderbird Web-Based Information Services"
-msgstr ""
+msgstr "Thunderbird webbaserte informasjonstjenester"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:82
 msgid ""
@@ -848,6 +856,9 @@ msgid ""
 "do not want to use one or more of the Services or the terms below are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be "
 "found <a href=\"#disabling-webservices\">here</a>. Other features and Services can be disabled in the application settings."
 msgstr ""
+"Thunderbird bruker webbaserte informasjonstjenester (\"Tjenester\") for å tilgjengeliggjøre noen av funksjonene i den binære versjonen av Thunderbird, under betingelsene som er beskrevet nedenfor. "
+"Dersom du ikke ønsker å bruke en eller flere av tjenestene, eller om du ikke kan akseptere betingelsene, kan du slå av funksjonen eller tjenesten(e). Instruksjoner om hvordan du slår av en bestemt "
+"funksjon eller tjeneste fins <a href=\"#disabling-webservices\">her</a>. Andre funksjoner og tjenester kan slås av i programinnstillingene."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:87
 msgid "Location Aware Browsing"
@@ -856,22 +867,24 @@ msgstr ""
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:89
 msgid "<strong>Location Aware Browsing:</strong> is always opt-in. No location information is ever sent without your permission. If you wish to disable the feature completely, follow these steps:"
 msgstr ""
+"<strong>Stedsbevisst nettlesing:</strong> er alltid en funksjon du må aktivt velge å slå på for at den brukes.  Ingen stedsinfo sendes uten at du gir tillatelse til det.  Dersom du ønsker å skru av "
+"denne funksjonen helt, følg disse stegene:"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:94
 msgid "Open the Config Editor"
-msgstr ""
+msgstr "I adresselinjen, skriv inn <code>about:config</code>"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:95
 msgid "Type geo.enabled"
-msgstr ""
+msgstr "Skriv inn geo.enabled"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:96
 msgid "Double click on the geo.enabled preference"
-msgstr ""
+msgstr "Dobbeltklikk på geo.enabled preference"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:97
 msgid "Location-Aware Browsing is now disabled"
-msgstr ""
+msgstr "Stedsbevisst nettlesing er nå avslått"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:102
 msgid ""
@@ -879,16 +892,22 @@ msgid ""
 "For example, the Safe Browsing Service may not identify some risky sites and may identify some safe sites in error and the Location Aware Service all locations returned by our service providers are "
 "estimates only and neither we nor our service providers guarantee the accuracy of the locations provided."
 msgstr ""
+"Mozilla og dens bidragsytere, lisensgivere og partnere jobber for å tilby den mest nøyaktige og oppdaterte tjenesten.  Vi kan likevel ikke garantere at denne informasjonen er fullstendig og feilfri."
+"  Det kan for eksempel hende at tjenesten for trygg nettlesing ikke indentifiserer noen risikable nettsteder, og noen trygge nettsteder kan feilaktig ha blitt klassifisert som risikable. All "
+"plasseringsinfo som returneres fra våre tjenestetilbydere er bare estimater, og verken vi eller tjenestetilbyderne garanterer for nøyaktigheten av plasseringsinformasjonen som gis."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:107
 msgid "Mozilla may discontinue or change the Services at its discretion."
-msgstr ""
+msgstr "Mozilla kan avslutte eller forandre Tjenestene etter eget ønske."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:112
 msgid ""
 "You are welcome to use these Services with the accompanying version of Thunderbird, and Mozilla grants you its rights to do so. Mozilla and its licensors reserve all other rights in the Services. "
 "These terms are not intended to limit any rights granted under open source licenses applicable to Thunderbird and to corresponding source code versions of Thunderbird."
 msgstr ""
+"Du er velkommen til å bruke disse Tjenestene med den medfølgende versjonen av Thunderbird, og Mozilla gir deg retten til å gjøre det.  Mozilla og dens lisensgivere reserverer alle andre rettigheter "
+"til Tjenestene.  Disse betingelsene er ikke beregnet for å begrense rettighetene som er gitt under åpen kildekode-lisensene som gjelder for Thunderbird, og den tilhørende kildekodeutgaven av "
+"Thunderbird."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:117
 msgid ""
@@ -896,6 +915,9 @@ msgid ""
 "that the Services are merchantable and fit for your particular purposes. You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the "
 "Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.</strong>"
 msgstr ""
+"<strong>Tjenestene er tilbydt \"som-de-er.\"  Mozilla, bidragsyterne, lisensgiverne og distributørene gir ingen garantier, verken eksplisitt eller implisitt, inkludert uten begrensinger, garantier "
+"for at Tjenestene skal passe til dine formål.  Du har den fullstendige risikoen for å velge Tjenestene for å oppnå dine hensikter, samt for kvaliteten og ytelsen til Tjenstene. Noen jurisdiksjoner "
+"tillater ikke at implisitte garantier ekskluderes, så denne disclaimeren kan muligens ikke gjelde deg.</strong>"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:122
 msgid ""
@@ -903,16 +925,21 @@ msgid ""
 "arising out of or in any way relating to the use of Thunderbird and the Services. The collective liability under these terms will not exceed $500 (five hundred dollars). Some jurisdictions do not "
 "allow the exclusion or limitation of certain damages, so this exclusion and limitation may not apply to you.</strong>"
 msgstr ""
+"<strong>Med unntak av der det er påbudt ved lov, er Mozilla, dens bidragsytere, lisensgivere og distributører er ikke ansvarlige for noen indirekte, spesiell, tilfeldig, følgelig, strafferettslig "
+"eller forbilledlige skader eller ulemper som skjer som en følge av eller relatert til bruk av Thunderbird og Tjenestene.  Det kollektive ansvaret i disse betingelsene vil ikke overstige $500 (fem "
+"hundre amerikanske dollar). Noen jurisdiksjoner tillater ikke eksklusjon eller begrensing av enkelte former av skade, så det er mulig disse eksklusjonene og begrensingene ikke gjelder deg.</strong>"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:127
 msgid "Mozilla may update these terms as necessary from time to time. These terms may not be modified or canceled without Mozilla's written agreement."
-msgstr ""
+msgstr "Mozilla kan oppdatere disse betingelsene etter behov med jevne mellomrom. Betingelsene kan ikke endres eller annullert uten skriftlig avtale fra Mozilla."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:132
 msgid ""
 "These terms are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these terms is held to be invalid or unenforceable, the remaining"
 " portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control."
 msgstr ""
+"Disse betingelsene er underlagt loven til staten California, U.S.A., med unntak av der hvor lovpålegg krever unntak. Dersom noen av disse betingelsene viser seg å være ugyldige eller urettskraftige,"
+" vil de gjenværende delene fortsatt ha effekt. Dersom det er avvik mellom en oversatt versjon av disse betingelsene og den engelske utgaven, vil bestemmelsene i den engelske utgaven gjelde."
 
 #: sites/www.thunderbird.net/404.html:8
 #, python-format

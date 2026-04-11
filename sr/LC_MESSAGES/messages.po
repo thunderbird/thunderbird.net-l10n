@@ -797,11 +797,11 @@ msgstr "Истражите месечна издања"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:14 sites/updates.thunderbird.net/thunderbird/about/rights/index.html:41
 msgid "About Your Rights"
-msgstr ""
+msgstr "О вашим правима"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:43
 msgid "Thunderbird is free and open source software, built by a community of thousands from all over the world. There are a few things you should know:"
-msgstr ""
+msgstr "Thunderbird је бесплатан и отворен софтвер, кога је изградила заједница хиљада људи широм света. Ево неколико ствари које треба да знате:"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:49
 #, python-format
@@ -809,6 +809,8 @@ msgid ""
 "Thunderbird is made available to you under the terms of the <a href=\"%(mpl_url)s\">Mozilla Public License</a>. This means you may use, copy and distribute Thunderbird to others. You are also "
 "welcome to modify the source code of Thunderbird as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions."
 msgstr ""
+"Thunderbird вам је дат на коришћење под условима <a href=\"%(mpl_url)s\">Mozilla јавне лиценце</a>. То значи да можете да користите, копирате и даље делите програм Thunderbird другима.  Такође "
+"можете слободно да мењате изворни код програма Thunderbird онако како одговара вашим потребама. Mozilla јавна лиценца такође даје право да делите измењено издање."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:54
 #, python-format
@@ -816,31 +818,37 @@ msgid ""
 "You are not granted any trademark rights or licenses to the trademarks of the Mozilla Foundation or any party, including without limitation the Thunderbird name or logo. Additional information on "
 "trademarks may be found <a href=\"%(trademark_url)s\">here</a>."
 msgstr ""
+"Нисте добили права на робну марку или лиценце за робне марке Задужбине Moyilla или друге стране, укључујући и без ограничења Thunderbird име или логотип. Додатни подаци о робним маркама се могу наћи"
+" <a href=\"%(trademark_url)s\">овде</a>."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:59
 msgid ""
 "Some features in Thunderbird, such as the Crash Reporter, give you the option to provide feedback to Mozilla. By choosing to submit feedback, you give Mozilla permission to use the feedback to "
 "improve its products, to publish the feedback on its websites, and to distribute the feedback."
 msgstr ""
+"Неке Thunderbird функције, као што је слање извештаја о паду, дају вам опцију да пружите повратне информације Mozilla-у. Слањем тих информације, дајете Mozilla-у дозволу да их користи у сврху "
+"побољшања производа, да их објави на својим сајтовима и да их подели."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:64
 #, python-format
 msgid "How we use your personal information and feedback submitted to Mozilla through Thunderbird is described in the <a href=\"%(privacy_url)s\">Thunderbird Privacy Policy</a>."
-msgstr ""
+msgstr "Како користимо ваше личне и повратне информације послате издавачу Mozilla кроз Thunderbird описано је у <a href=\"%(privacy_url)s\">полиси приватности Thunderbird-а</a>."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:69
 msgid ""
 "Some Thunderbird features make use of web-based information services, however, we cannot guarantee they are 100% accurate or error-free. More details, including information on how to disable the "
 "features that use these services, can be found in the <a href=\"#webservices\">service terms</a>."
 msgstr ""
+"Неке Thunderbird могућности користе сервисе засноване на вебу, ми не можемо да гарантујемо да су оне 100% тачне или да немају грешке. Више детаља, укључујући информације о томе како да искључите "
+"могућности које користе ове сервисе, могу да се нађу у <a href=\"#webservices\">условима услуга</a>."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:74
 msgid "In order to play back certain types of video content, Thunderbird downloads certain content decryption modules from third parties."
-msgstr ""
+msgstr "Да би се репродуковале одређене врсте видео садржаја, Thunderbird преузима одређене декрипционе модуле од трећих лица."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:80
 msgid "Thunderbird Web-Based Information Services"
-msgstr ""
+msgstr "Услуге Thunderbird-ових информација заснованих на вебу"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:82
 msgid ""
@@ -855,23 +863,23 @@ msgstr ""
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:89
 msgid "<strong>Location Aware Browsing:</strong> is always opt-in. No location information is ever sent without your permission. If you wish to disable the feature completely, follow these steps:"
-msgstr ""
+msgstr "<strong>Читање осетљиво на положај:</strong> је увек могуће. Никакве информације неће бити послате без ваше дозволе. Ако желите да ову могућност трајно искључите, пратите следеће кораке:"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:94
 msgid "Open the Config Editor"
-msgstr ""
+msgstr "У траци за адресу унесите <code>about:config</code>"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:95
 msgid "Type geo.enabled"
-msgstr ""
+msgstr "Укуцајте geo.enabled"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:96
 msgid "Double click on the geo.enabled preference"
-msgstr ""
+msgstr "Двапут кликните на подешавања geo.enabled"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:97
 msgid "Location-Aware Browsing is now disabled"
-msgstr ""
+msgstr "Читање осетљиво на положај је онемогућено"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:102
 msgid ""
@@ -879,16 +887,21 @@ msgid ""
 "For example, the Safe Browsing Service may not identify some risky sites and may identify some safe sites in error and the Location Aware Service all locations returned by our service providers are "
 "estimates only and neither we nor our service providers guarantee the accuracy of the locations provided."
 msgstr ""
+"Mozilla и његови доприносиоци, носиоци лиценци и сарадници раде да би Вам пружили што тачније и ажурније услуге. Ипак, не можемо гарантовани да су ове информације исправне и без грешака. На пример, "
+"безбедно прегледање можда неће препознати нека ризична места, а нека безбедна може означити као небезбедна. Све места која услуги Location Aware врате наши добављачи су само процена, па ни они, ни "
+"ми не можемо гарантовани за тачност пружених места."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:107
 msgid "Mozilla may discontinue or change the Services at its discretion."
-msgstr ""
+msgstr "Mozilla задржава право да укине или измени услуге по свом нахођењу."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:112
 msgid ""
 "You are welcome to use these Services with the accompanying version of Thunderbird, and Mozilla grants you its rights to do so. Mozilla and its licensors reserve all other rights in the Services. "
 "These terms are not intended to limit any rights granted under open source licenses applicable to Thunderbird and to corresponding source code versions of Thunderbird."
 msgstr ""
+"Позивамо вас да користите ове услуге са пратећом верзијом производа Thunderbird, а Mozilla вам одобрава да то урадите. Mozilla и његови носиоци лиценце задржавају сва остала права у услугама. Ови "
+"услови нису намењени да ограничавају икаква права дата под лиценцама отвореног кода примењених у Thunderbird-у и његовим одговарајућим верзијама производа Thunderbird."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:117
 msgid ""
@@ -896,6 +909,9 @@ msgid ""
 "that the Services are merchantable and fit for your particular purposes. You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the "
 "Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.</strong>"
 msgstr ""
+"<strong>Сервиси који су пружени \"as-is.\"  Mozilla, њихови доприносиоци, особе које издају лиценце и дистрибутери одричу се свих гаранција, било експлицитно или имплицитно, укључујући без "
+"ограничења. Гаранција да су сервиси поднесени за продају и одговарају вашем захтеву. Ви носите пун ризик ако изабарете сервисе за ваше потребе, то се односи и на квалитет и перфомансе сервиса. У "
+"неким надлежностима није дозвољено искључивање или ограничавање подразумеваних гаранција, то одрицање се може односити на вас.</strong>"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:122
 msgid ""
@@ -903,16 +919,21 @@ msgid ""
 "arising out of or in any way relating to the use of Thunderbird and the Services. The collective liability under these terms will not exceed $500 (five hundred dollars). Some jurisdictions do not "
 "allow the exclusion or limitation of certain damages, so this exclusion and limitation may not apply to you.</strong>"
 msgstr ""
+"<strong>Осим у законом прописаним случајевима, Mozilla, приложници, даваоци лиценци и дистрибутери неће бити одговорни ни за какву индиректну, посебну, последичну, случајну, или примерну штету која "
+"настане као последица или у било каквој другој вези са употребом програма Thunderbird и услуга.  Укупна одговорност под овим условима неће премашити $500 (пет стотина америчких долара).  У неким "
+"надлежностима изузеће или ограничење вредности обештећења није дозвољено, у ком случају ово ограничење одговорности се можда не примењује на вас.</strong>"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:127
 msgid "Mozilla may update these terms as necessary from time to time. These terms may not be modified or canceled without Mozilla's written agreement."
-msgstr ""
+msgstr "Mozilla може да допуни ове услове по потреби, с времена на време.  Услови се не могу мењати или отказати без писменог одобрења које даје Mozilla."
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:132
 msgid ""
 "These terms are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these terms is held to be invalid or unenforceable, the remaining"
 " portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control."
 msgstr ""
+"Ови услови су начињени према државним законима америчке државе Калифорније, осим у случајевима сукоба прописа.  Ако је иједан део ових услова неважећи, остатак остаје пуноважан.  У случају неслагања"
+" преведеног издања ових услова са енглеским оригиналом, енглески оригинал ће бити пуноважан."
 
 #: sites/www.thunderbird.net/404.html:8
 #, python-format
