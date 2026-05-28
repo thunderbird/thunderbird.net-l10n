@@ -346,52 +346,52 @@ msgstr "Принять участие"
 
 #: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:8
 msgid "Thunderbird for Desktop"
-msgstr ""
+msgstr "Thunderbird для ПК"
 
 #: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:16
 msgid "View desktop roadmap"
-msgstr ""
+msgstr "Просмотреть дорожную карту для ПК"
 
 #: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:18 sites/roadmaps.thunderbird.net/includes/base/landing-page.html:34 sites/roadmaps.thunderbird.net/includes/base/landing-page.html:49
 #: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:64
 msgid "View roadmap"
-msgstr ""
+msgstr "Просмотреть план развития"
 
 #: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:23
 msgid "Android"
-msgstr ""
+msgstr "Android"
 
 #: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:27
 msgid "A transparent view of upcoming Android features and improvements. Track progress by milestone."
-msgstr ""
+msgstr "Прозрачный обзор предстоящих функций и улучшений для Android. Отслеживайте прогресс по вехам."
 
 #: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:32
 msgid "View Android roadmap"
-msgstr ""
+msgstr "Просмотреть карту развития для Android"
 
 #: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:39
 msgid "iOS"
-msgstr ""
+msgstr "iOS"
 
 #: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:42
 msgid "Priorities for performance, accessibility, and a gesture-first mobile UX on iPhone and iPad."
-msgstr ""
+msgstr "Приоритеты в производительности, доступности и мобильном интерфейсе, основанном на жестах на iPhone и iPad."
 
 #: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:47
 msgid "View iOS roadmap"
-msgstr ""
+msgstr "Просмотреть дорожную карту для iOS"
 
 #: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:54
 msgid "Services"
-msgstr ""
+msgstr "Сервисы"
 
 #: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:57
 msgid "Follow the services roadmap to learn what's coming up next for Thunderbird Pro, Websites and Infrastructure projects."
-msgstr ""
+msgstr "Изучите план развития сервисов, чтобы узнать, что запланировано для Thunderbird Pro, веб-сайтов и инфраструктурных проектов."
 
 #: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:62
 msgid "View services roadmap"
-msgstr ""
+msgstr "Просмотреть план развития сервисов"
 
 #: sites/roadmaps.thunderbird.net/includes/base/nav.html:24 sites/www.thunderbird.net/includes/base/nav.html:24
 msgid "Meet the powerful email, calendar, and contacts app for Windows, Linux, and macOS."
@@ -455,95 +455,99 @@ msgstr "Открыть или закрыть навигацию сайта"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:4
 msgid "iOS Roadmap"
-msgstr ""
+msgstr "Дорожная карта iOS"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:5
 msgid "Thunderbird for iOS. Follow the roadmap from active work to future ideas. Timelines may shift as we learn and iterate."
-msgstr ""
+msgstr "Thunderbird для iOS. Следите за планом перехода от активной работы к будущим идеям. Временные рамки могут смещаться по мере того, как мы обучаемся и итерируем."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:7
 msgid "Download TestFlight app"
-msgstr ""
+msgstr "Скачать приложение TestFlight"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:11
 msgid "iOS Create Protocol, Database, &amp; Framework"
-msgstr ""
+msgstr "iOS: Создание протокола, база данных, фреймворк &amp;"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:11
 msgid "Implement the IMAP protocol first as it's the most widespread protocol currently in use."
-msgstr ""
+msgstr "Сначала внедрить протокол IMAP, так как это наиболее распространенный протокол из используемых сейчас."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:12
 msgid "Full Email Writing and Reading Experience"
-msgstr ""
+msgstr "Полные возможности написания и чтения электронной почты"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:12
 msgid "Implement the full reading and writing email experience on mobile, including initial support for encrypted messages (OpenPGP and S/MIME with existing libraries)."
-msgstr ""
+msgstr "Реализовать полное чтение и запись электронной почты на мобильных устройствах, включая начальную поддержку зашифрованных сообщений (OpenPGP и S/MIME с существующими библиотеками)."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:16
 msgid "JMAP Support"
-msgstr ""
+msgstr "Поддержка JMAP"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:16
 msgid "Support the JMAP protocol as one of the first extra protocols we ship with by default outside of IMAP."
-msgstr ""
+msgstr "Поддержать протокол JMAP как один из первых дополнительных протоколов, которые мы поставляем по умолчанию после IMAP."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:20
 msgid "Account Creation Flow"
-msgstr ""
+msgstr "Порядок создания учётной записи"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:20
 msgid "Implement a full automated and manual setup, including autodiscovery and OAuth."
-msgstr ""
+msgstr "Реализовать полную автоматическую и ручную настройку, включая автообнаружение и OAuth."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:21
 msgid "Architecture"
-msgstr ""
+msgstr "Архитектура"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:21
 msgid ""
 "Establish a robust and scalable architecture to begin the Thunderbird for iOS project and create the backend. This architecture will include strategies for code sharing across platforms, taking into"
 " account the Android and Desktop clients."
 msgstr ""
+"Создать надёжную и масштабируемую архитектуру, чтобы начать проект Thunderbird для iOS, и создать движок. Эта структура будет включать в себя политики совместного использования кода между "
+"платформами, с учётом клиентов для Android и ПК."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:22
 msgid "Autoconfiguration"
-msgstr ""
+msgstr "Автонастройка"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:22
 msgid "Add DNS MX lookup to autoconfig feature library and move SRV record lookup into autoconfig feature library and delete Autodiscover core library"
-msgstr ""
+msgstr "Добавить DNS-запрос MX в библиотеку функций автонастройки и переместить поиск SRV-записей в библиотеку функций автонастройки и удалить основную библиотеку автообнаружения"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:22
 msgid "September 2025"
-msgstr ""
+msgstr "Сентябрь 2025"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:4
 msgid "Services Roadmap"
-msgstr ""
+msgstr "План развития сервисов"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:5
 msgid "Thunderbird Pro Services and Infrastructure Support. Follow the roadmap from active work to future ideas. Timelines may change as we learn and iterate."
-msgstr ""
+msgstr "Поддержка служб и инфраструктуры Thunderbird Pro. Следовать плану перехода от активной работы к будущим идеям. Временные рамки могут меняться по мере того, как мы учимся и итерируем."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:6
 msgid "Last updated March 19, 2026"
-msgstr ""
+msgstr "Последнее обновление 19 марта 2026 г."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:7
 msgid "Submit your ideas for Thunderbird Pro"
-msgstr ""
+msgstr "Отправляйте свои идеи для Thunderbird Pro"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:11
 msgid "Send UI Completion"
-msgstr ""
+msgstr "Завершение пользовательского интерфейса Send"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:11
 msgid ""
 "Send was the one product we haven't been able to complete UI overhaul work. We don't need to block the rollout for this, but we should work on this to keep it up to par with the other products and "
 "create consistency."
 msgstr ""
+"Send был единственным продуктом, в котором мы не смогли завершить работу по ревизии пользовательского интерфейса. Нам не нужно блокировать для этого развертывание, но мы должны поработать над этим, "
+"чтобы не отставать от других продуктов и обеспечить согласованность."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:12
 msgid "Integrate Thunderbird Appointment into Pro add-on"
@@ -1982,7 +1986,7 @@ msgstr "Старший UX-инженер, ПК"
 
 #: sites/www.thunderbird.net/about/index.html:173
 msgid "Staff Designer"
-msgstr ""
+msgstr "Штатный дизайнер"
 
 #: sites/www.thunderbird.net/about/index.html:174
 msgid "Principal Engineer"
@@ -2027,7 +2031,7 @@ msgstr "Старший инженер-программист, мобильные
 
 #: sites/www.thunderbird.net/about/index.html:188
 msgid "Release Engineer"
-msgstr ""
+msgstr "Инженер по релизам"
 
 #: sites/www.thunderbird.net/about/index.html:189
 msgid "Sr Staff Software Engineer, Desktop"
@@ -2079,7 +2083,7 @@ msgstr "Менеджер, операции поддержки клиентов"
 
 #: sites/www.thunderbird.net/about/index.html:203 sites/www.thunderbird.net/about/index.html:209
 msgid "Sr Software Engineer"
-msgstr ""
+msgstr "Старший инженер ПО"
 
 #: sites/www.thunderbird.net/about/index.html:204
 msgid "Support Knowledge & Enablement Lead"
@@ -2143,7 +2147,7 @@ msgstr "Старший менеджер, инжиниринг, ПК"
 
 #: sites/www.thunderbird.net/about/index.html:225
 msgid "Sr Executive Assistant"
-msgstr ""
+msgstr "Старший исполнительный помощник"
 
 #: sites/www.thunderbird.net/about/index.html:227
 msgid "Community Manager"
