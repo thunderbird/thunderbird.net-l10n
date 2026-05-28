@@ -6,12 +6,605 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-05-28 14:32-0400\n"
 "Language: en_ZA\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
+
+#: sites/roadmaps.thunderbird.net/includes/base/footer.html:28 sites/roadmaps.thunderbird.net/index.html:3 sites/www.thunderbird.net/includes/base/footer.html:28
+msgid "Roadmaps"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/index.html:4
+msgid "Welcome to the Thunderbird roadmaps for our Desktop, Android, and iOS clients!"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/android/index.html:4
+msgid "Android Roadmap"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/android/index.html:5
+msgid "Thunderbird for Android. Follow the roadmap from active work to to future ideas. Timelines may shift as we learn and iterate."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/android/index.html:6 sites/roadmaps.thunderbird.net/desktop/index.html:6 sites/roadmaps.thunderbird.net/ios/index.html:6
+msgid "Last updated March 31, 2026"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/android/index.html:7
+msgid "Download Thunderbird for Android"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/android/index.html:9 sites/roadmaps.thunderbird.net/desktop/index.html:9 sites/roadmaps.thunderbird.net/ios/index.html:9
+#: sites/roadmaps.thunderbird.net/services/index.html:9
+msgid "Active"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/android/index.html:11
+msgid "Rearchitecture and Core Maintenance"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/android/index.html:11
+msgid "Modernize the source code that we inherited from K9, tackle the most glaring maintenance and stability issues, and restructure the core architecture for faster and easier development."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/android/index.html:12
+msgid "Message View Improvements"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/android/index.html:12
+msgid "Modernize the message view to address the most glaring issues like attachment handling, message loading, zoom, remove images, and so on. Making the experience comparable to the competition."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/android/index.html:14 sites/roadmaps.thunderbird.net/desktop/index.html:15 sites/roadmaps.thunderbird.net/ios/index.html:14
+#: sites/roadmaps.thunderbird.net/services/index.html:14
+msgid "Planned"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/android/index.html:16
+msgid "Message List Improvements"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/android/index.html:16
+msgid ""
+"Users spend most of their time on the message list, waiting for messages to load, scrolling to find messages, and quickly interacting with them through swipe actions. This effort is aimed at "
+"improving this primary view and addressing all major concerns."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/android/index.html:17
+msgid "JMAP Support Exploration"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/android/index.html:17
+msgid "Exploring JMAP integration, learning what it means to add a new protocol on Android, and ensuring future proofing against proprietary protocols."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/android/index.html:19 sites/roadmaps.thunderbird.net/desktop/index.html:21 sites/roadmaps.thunderbird.net/ios/index.html:18
+#: sites/roadmaps.thunderbird.net/services/index.html:23
+msgid "Shipped"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/android/index.html:21
+msgid "CASA Approval"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/android/index.html:21
+msgid "Complete the Cloud Application Security Assessment (CASA)"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/android/index.html:21
+msgid "March 2025"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:4
+msgid "Desktop Roadmap"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:5 sites/roadmaps.thunderbird.net/includes/base/landing-page.html:11
+msgid "Thunderbird for Windows, macOS, and Linux. Follow the roadmap from active work to future ideas. Timelines may shift as we learn and iterate."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:7
+msgid "Download Thunderbird for desktop"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:11
+msgid "Exchange (EWS, GraphAPI)"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:11
+msgid "Finalize the work on the Exchange protocol in order to support all versions of Exchange and Microsoft 365, including calendar and address book support."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:12
+msgid "Global Database"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:12
+msgid "Continue the work on the new Panorama database, allowing users to start testing the new database, and handle a consistent data migration."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:13
+msgid "Improve and extend existing add-ons APIs"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:13
+msgid "Improve the currently available APIs, focus on giving access to new sections and core features, as well as introducing new APIs for specific sections."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:17
+msgid "Calendar Dialogs UI/UX"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:17
+msgid "Complete the refresh of the calendar interface and user experience. Some protocols handling changes might be needed."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:18
+msgid "Settings Interface Improvements"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:18
+msgid "Clean up and reorganize the settings into more discoverable sections and improve its search."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:19
+msgid "Encryption and Security Improvements"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:19
+msgid "Improve the support and discovery of OpenPGP and S/MIME, improve email tracking protection, and harden phishing email prevention."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:23
+msgid "First Time User Experience: Account Hub"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:23
+msgid "Complete Account Hub for all account creations, enable it for first time users."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:23 sites/roadmaps.thunderbird.net/desktop/index.html:24 sites/roadmaps.thunderbird.net/ios/index.html:20
+#: sites/roadmaps.thunderbird.net/services/index.html:25
+msgid "March 2026"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:24
+msgid "Unobtrusive Signatures"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:24
+msgid "This was part of the larger “Encryption and Security Improvements” initiative and has been completed to reduce confusion around OpenPGP signatures."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:25
+msgid "Exchange Email Support"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:25
+msgid "Full support of email operations and account creation."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:25
+msgid "November 2025"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:26 sites/updates.thunderbird.net/thunderbird/140.0/whatsnew/index.html:79
+msgid "Native OS Notifications"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:26
+msgid "Add quick actions to reply, delete, mark messages as read/unread, and manage the notifications."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:26 sites/roadmaps.thunderbird.net/ios/index.html:21
+msgid "July 2025"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:27
+msgid "Implement Glean Telemetry"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:27
+msgid "Move away from the old telemetry implementation and add the new Glean Telemetry."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:27
+msgid "April 2025"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:28
+msgid "In-App Notifications"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:28
+msgid "Implement a new notification system that allows the Thunderbird team to push important, time-sensitive information directly to a user's Thunderbird desktop client."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:28
+msgid "May 2025"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/base.html:12 sites/updates.thunderbird.net/includes/base/base.html:1 sites/www.thunderbird.net/includes/base/base.html:15
+msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/base.html:14 sites/roadmaps.thunderbird.net/includes/base/page.html:9 sites/updates.thunderbird.net/includes/base/base.html:19
+#: sites/www.thunderbird.net/includes/base/base.html:17 sites/www.thunderbird.net/includes/base/page.html:14 sites/www.thunderbird.net/includes/product-metadata.html:2
+#: sites/www.thunderbird.net/includes/product-metadata.html:21 sites/www.thunderbird.net/index.html:11 sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:17
+#: sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:18 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:19 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:18
+#: sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:18 sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:18 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:19
+#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:17 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:17 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:17
+msgid "Thunderbird"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/footer.html:9 sites/www.thunderbird.net/includes/base/footer.html:9 sites/www.thunderbird.net/includes/base/page.html:48
+msgid "Home"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/footer.html:13 sites/roadmaps.thunderbird.net/includes/base/nav.html:20 sites/www.thunderbird.net/includes/base/footer.html:13
+#: sites/www.thunderbird.net/includes/base/nav.html:20 sites/www.thunderbird.net/thunderbird/releases/index.html:9
+msgid "Products"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/footer.html:15 sites/roadmaps.thunderbird.net/includes/base/nav.html:24 sites/www.thunderbird.net/desktop/index.html:10
+#: sites/www.thunderbird.net/includes/base/footer.html:15 sites/www.thunderbird.net/includes/base/nav.html:24 sites/www.thunderbird.net/thunderbird/releases/index.html:9
+msgid "Thunderbird Desktop"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/footer.html:16 sites/roadmaps.thunderbird.net/includes/base/nav.html:25 sites/www.thunderbird.net/includes/base/footer.html:16
+#: sites/www.thunderbird.net/includes/base/nav.html:25 sites/www.thunderbird.net/mobile/index.html:12
+msgid "Thunderbird Mobile"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/footer.html:20 sites/roadmaps.thunderbird.net/includes/base/nav.html:34 sites/www.thunderbird.net/calendar/holidays/index.html:9
+#: sites/www.thunderbird.net/calendar/index.html:9 sites/www.thunderbird.net/download/index.html:10 sites/www.thunderbird.net/includes/base/footer.html:20
+#: sites/www.thunderbird.net/includes/base/nav.html:34 sites/www.thunderbird.net/newsletter/index.html:9 sites/www.thunderbird.net/thank-you/index.html:9
+#: sites/www.thunderbird.net/thunderbird/all/index.html:11
+msgid "Resources"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/footer.html:22 sites/roadmaps.thunderbird.net/includes/base/nav.html:38 sites/www.thunderbird.net/includes/base/footer.html:22
+#: sites/www.thunderbird.net/includes/base/nav.html:38
+msgid "Blog"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/footer.html:23 sites/start.thunderbird.net/release/index.html:32 sites/www.thunderbird.net/includes/base/footer.html:23
+msgid "Get Help"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/footer.html:24 sites/roadmaps.thunderbird.net/includes/base/nav.html:78 sites/roadmaps.thunderbird.net/includes/base/nav.html:84
+#: sites/www.thunderbird.net/includes/base/footer.html:24 sites/www.thunderbird.net/includes/base/nav.html:78 sites/www.thunderbird.net/includes/base/nav.html:84
+#: sites/www.thunderbird.net/includes/download/macros/download-smart.html:30 sites/www.thunderbird.net/includes/download/macros/download-smart.html:43
+msgid "Downloads"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/footer.html:25 sites/www.thunderbird.net/includes/base/footer.html:25 sites/www.thunderbird.net/thunderbird/all/index.html:147
+#: sites/www.thunderbird.net/thunderbird/all/index.html:216
+msgid "Release Notes"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/footer.html:26 sites/www.thunderbird.net/includes/base/footer.html:26
+msgid "For Enterprises"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/footer.html:27 sites/www.thunderbird.net/includes/base/footer.html:27
+msgid "Holiday Calendars"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/footer.html:32 sites/roadmaps.thunderbird.net/includes/base/nav.html:49 sites/www.thunderbird.net/about/index.html:9
+#: sites/www.thunderbird.net/about/mission-statement/index.html:9 sites/www.thunderbird.net/contact/index.html:9 sites/www.thunderbird.net/includes/base/footer.html:32
+#: sites/www.thunderbird.net/includes/base/nav.html:49 sites/www.thunderbird.net/privacy/index.html:9
+msgid "About"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/footer.html:34 sites/roadmaps.thunderbird.net/includes/base/nav.html:53 sites/www.thunderbird.net/about/index.html:8
+#: sites/www.thunderbird.net/about/mission-statement/index.html:27 sites/www.thunderbird.net/includes/base/footer.html:34 sites/www.thunderbird.net/includes/base/nav.html:53
+msgid "Who We Are"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/footer.html:35 sites/roadmaps.thunderbird.net/includes/base/nav.html:54 sites/www.thunderbird.net/contact/index.html:8
+#: sites/www.thunderbird.net/includes/base/footer.html:35 sites/www.thunderbird.net/includes/base/nav.html:54
+msgid "Contact Us"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/footer.html:36 sites/roadmaps.thunderbird.net/includes/base/nav.html:55 sites/www.thunderbird.net/includes/base/footer.html:36
+#: sites/www.thunderbird.net/includes/base/nav.html:55
+msgid "Careers"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/footer.html:40 sites/roadmaps.thunderbird.net/includes/base/nav.html:64 sites/www.thunderbird.net/donate/help/index.html:9
+#: sites/www.thunderbird.net/donate/help/thank-you/index.html:9 sites/www.thunderbird.net/donate/index.html:9 sites/www.thunderbird.net/includes/base/footer.html:40
+#: sites/www.thunderbird.net/includes/base/nav.html:64 sites/www.thunderbird.net/participate/index.html:9
+msgid "Contribute"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/footer.html:42 sites/roadmaps.thunderbird.net/includes/base/nav.html:68 sites/roadmaps.thunderbird.net/includes/base/nav.html:90
+#: sites/start.thunderbird.net/release/index.html:22 sites/start.thunderbird.net/release/index.html:31 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:174
+#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:178 sites/www.thunderbird.net/donate/index.html:8 sites/www.thunderbird.net/includes/base/footer.html:42
+#: sites/www.thunderbird.net/includes/base/nav.html:68 sites/www.thunderbird.net/includes/base/nav.html:90 sites/www.thunderbird.net/includes/download/download-button.html:102
+#: sites/www.thunderbird.net/includes/download/macros/download-desktop.html:31 sites/www.thunderbird.net/includes/download/macros/download-mobile.html:29
+#: sites/www.thunderbird.net/includes/download/macros/download-smart.html:48 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:79
+#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:287 sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:73 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:208
+#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:227 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:78
+#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:344
+msgid "Donate"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/footer.html:43 sites/roadmaps.thunderbird.net/includes/base/nav.html:69 sites/start.thunderbird.net/release/index.html:30
+#: sites/www.thunderbird.net/contact/index.html:38 sites/www.thunderbird.net/includes/base/footer.html:43 sites/www.thunderbird.net/includes/base/nav.html:69
+#: sites/www.thunderbird.net/participate/index.html:8
+msgid "Participate"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:8
+msgid "Thunderbird for Desktop"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:16
+msgid "View desktop roadmap"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:18 sites/roadmaps.thunderbird.net/includes/base/landing-page.html:34 sites/roadmaps.thunderbird.net/includes/base/landing-page.html:49
+#: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:64
+msgid "View roadmap"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:23
+msgid "Android"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:27
+msgid "A transparent view of upcoming Android features and improvements. Track progress by milestone."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:32
+msgid "View Android roadmap"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:39
+msgid "iOS"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:42
+msgid "Priorities for performance, accessibility, and a gesture-first mobile UX on iPhone and iPad."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:47
+msgid "View iOS roadmap"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:54
+msgid "Services"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:57
+msgid "Follow the services roadmap to learn what's coming up next for Thunderbird Pro, Websites and Infrastructure projects."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:62
+msgid "View services roadmap"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/nav.html:24 sites/www.thunderbird.net/includes/base/nav.html:24
+msgid "Meet the powerful email, calendar, and contacts app for Windows, Linux, and macOS."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/nav.html:25 sites/www.thunderbird.net/includes/base/nav.html:25
+msgid "Learn about the leading open-source email app for Android."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/nav.html:38 sites/www.thunderbird.net/includes/base/nav.html:38
+msgid "Learn about new product releases, community events, tech tips, and more."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/nav.html:39 sites/www.thunderbird.net/includes/base/nav.html:39
+msgid "Desktop Help"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/nav.html:39 sites/www.thunderbird.net/includes/base/nav.html:39
+msgid "Find the help you need configuring and using Thunderbird Desktop."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/nav.html:40 sites/www.thunderbird.net/includes/base/nav.html:40
+msgid "Mobile Help"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/nav.html:40 sites/www.thunderbird.net/includes/base/nav.html:40
+msgid "Find the help you need configuring and using Thunderbird Mobile."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/nav.html:53 sites/www.thunderbird.net/includes/base/nav.html:53
+msgid "Learn how our values, community, and organization shape the future of Thunderbird."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/nav.html:54 sites/www.thunderbird.net/includes/base/nav.html:54
+msgid "Find out who to contact and how."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/nav.html:55 sites/www.thunderbird.net/includes/base/nav.html:55
+msgid "We have an enthusiastic team with diverse talents. Learn how to join us."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/nav.html:68 sites/www.thunderbird.net/includes/base/nav.html:68
+msgid "Learn how to donate as an individual or business to support Thunderbird and open source."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/nav.html:69 sites/www.thunderbird.net/includes/base/nav.html:69
+msgid "We need helping hands of all kinds. Learn how you can help Thunderbird and others."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/nav.html:83 sites/www.thunderbird.net/includes/base/nav.html:83
+msgid "Find the latest version of Thunderbird."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/page.html:9 sites/www.thunderbird.net/includes/base/page.html:14
+msgid "Thunderbird Logo"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/includes/base/page.html:17 sites/www.thunderbird.net/includes/base/page.html:22
+msgid "Open or close site navigation"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/ios/index.html:4
+msgid "iOS Roadmap"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/ios/index.html:5
+msgid "Thunderbird for iOS. Follow the roadmap from active work to future ideas. Timelines may shift as we learn and iterate."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/ios/index.html:7
+msgid "Download TestFlight app"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/ios/index.html:11
+msgid "iOS Create Protocol, Database, &amp; Framework"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/ios/index.html:11
+msgid "Implement the IMAP protocol first as it's the most widespread protocol currently in use."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/ios/index.html:12
+msgid "Full Email Writing and Reading Experience"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/ios/index.html:12
+msgid "Implement the full reading and writing email experience on mobile, including initial support for encrypted messages (OpenPGP and S/MIME with existing libraries)."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/ios/index.html:16
+msgid "JMAP Support"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/ios/index.html:16
+msgid "Support the JMAP protocol as one of the first extra protocols we ship with by default outside of IMAP."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/ios/index.html:20
+msgid "Account Creation Flow"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/ios/index.html:20
+msgid "Implement a full automated and manual setup, including autodiscovery and OAuth."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/ios/index.html:21
+msgid "Architecture"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/ios/index.html:21
+msgid ""
+"Establish a robust and scalable architecture to begin the Thunderbird for iOS project and create the backend. This architecture will include strategies for code sharing across platforms, taking into"
+" account the Android and Desktop clients."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/ios/index.html:22
+msgid "Autoconfiguration"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/ios/index.html:22
+msgid "Add DNS MX lookup to autoconfig feature library and move SRV record lookup into autoconfig feature library and delete Autodiscover core library"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/ios/index.html:22
+msgid "September 2025"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:4
+msgid "Services Roadmap"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:5
+msgid "Thunderbird Pro Services and Infrastructure Support. Follow the roadmap from active work to future ideas. Timelines may change as we learn and iterate."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:6
+msgid "Last updated March 19, 2026"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:7
+msgid "Submit your ideas for Thunderbird Pro"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:11
+msgid "Send UI Completion"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:11
+msgid ""
+"Send was the one product we haven't been able to complete UI overhaul work. We don't need to block the rollout for this, but we should work on this to keep it up to par with the other products and "
+"create consistency."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:12
+msgid "Integrate Thunderbird Appointment into Pro add-on"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:12
+msgid "As a Pro user, you want to be able to quickly copy your scheduling link when in Thunderbird. Integrate so it can be inserted into emails, or easily copied from the main toolbar."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:16
+msgid "Active Sessions"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:16
+msgid "Give the user a view on their active sessions and allow them to end the session."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:17
+msgid "MFA Support"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:17
+msgid "Multifactor authentication via TOTP or similar. We didn't get to this in 2025, and it is an essential security feature."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:18
+msgid "Community Selected Initiative"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:18
+msgid ""
+"No doubt the community will have a bunch of great ideas on https://ideas.tb.pro that we can build on. We're making sure we have time to work on one of the top community suggestions that will fit "
+"well into the Thunderbird Pro ecosystem."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:19
+msgid "Improve Pro Add-on Integration"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:19
+msgid ""
+"We are shipping an Thunderbird Pro add-on to enable Pro features in Thunderbird desktop. For a low barrier of entry we want to improve integration by using the system add-on or new account add-on "
+"mechanism. This allows us to make these features easier to discover and use within Thunderbird."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:20
+msgid "Thundermail: Webmail"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:20
+msgid ""
+"What would an email service be without webmail? We will spend time making the proof of concept more usable, and enable this as an experimental feature for users willing to try new things earyly. The scope will initially be limited to basic folder visibility and message display.\n"
+"Webmail will be built with JMAP as a backend, and we need to explore how users can benefit from Webmail while still being encouraged to use end to end encryption and allowing search across folders."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:25
+msgid "Thundermail: Spam Filtering"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:25
+msgid ""
+"The spam filtering was very aggressive, causing many emails to unintentionally land in the spam folder. The filtering mechanism has been changed to significantly improve this behavior. A big thank "
+"you to Mauro and team from Stalwart, who have made the spam detection algorithm more sophisticated and accurate!"
+msgstr ""
 
 #: sites/start.thunderbird.net/beta/index.html:13 sites/start.thunderbird.net/daily/index.html:8
 msgid "Sharing Freedom – Thunderbird"
@@ -152,32 +745,12 @@ msgstr ""
 msgid "ESR Channel"
 msgstr ""
 
-#: sites/start.thunderbird.net/release/index.html:22 sites/start.thunderbird.net/release/index.html:31 sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:174
-#: sites/updates.thunderbird.net/thunderbird/128.0/nov24/index.html:178 sites/www.thunderbird.net/donate/index.html:8 sites/www.thunderbird.net/includes/base/footer.html:42
-#: sites/www.thunderbird.net/includes/base/nav.html:68 sites/www.thunderbird.net/includes/base/nav.html:90 sites/www.thunderbird.net/includes/download/download-button.html:102
-#: sites/www.thunderbird.net/includes/download/macros/download-desktop.html:31 sites/www.thunderbird.net/includes/download/macros/download-mobile.html:29
-#: sites/www.thunderbird.net/includes/download/macros/download-smart.html:48 sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:79
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:287 sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:73 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:208
-#: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:227 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:78
-#: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:344
-msgid "Donate"
-msgstr ""
-
 #: sites/start.thunderbird.net/release/index.html:27
 msgid "Welcome to <span class=\"gradient-text\">Freedom</span>"
 msgstr ""
 
 #: sites/start.thunderbird.net/release/index.html:28
 msgid "Thunderbird is a gift from thousands of people like you. We hope you'll enjoy the productivity, privacy, and freedom they make possible and we invite you to become part of that gift to others."
-msgstr ""
-
-#: sites/start.thunderbird.net/release/index.html:30 sites/www.thunderbird.net/contact/index.html:38 sites/www.thunderbird.net/includes/base/footer.html:43
-#: sites/www.thunderbird.net/includes/base/nav.html:69 sites/www.thunderbird.net/participate/index.html:8
-msgid "Participate"
-msgstr ""
-
-#: sites/start.thunderbird.net/release/index.html:32 sites/www.thunderbird.net/includes/base/footer.html:23
-msgid "Get Help"
 msgstr ""
 
 #: sites/start.thunderbird.net/release/index.html:38
@@ -232,19 +805,6 @@ msgstr ""
 
 #: sites/updates.thunderbird.net/includes/donation-blocked-notice.html:10 sites/www.thunderbird.net/includes/donation-blocked-notice.html:10
 msgid "Please try again using a different browser, or temporarily disabling the extension."
-msgstr ""
-
-#: sites/updates.thunderbird.net/includes/base/base.html:1 sites/www.thunderbird.net/includes/base/base.html:15
-msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
-msgstr ""
-
-#: sites/updates.thunderbird.net/includes/base/base.html:19 sites/www.thunderbird.net/includes/base/base.html:17 sites/www.thunderbird.net/includes/base/page.html:14
-#: sites/www.thunderbird.net/includes/product-metadata.html:2 sites/www.thunderbird.net/includes/product-metadata.html:21 sites/www.thunderbird.net/index.html:11
-#: sites/www.thunderbird.net/thunderbird/102.0/beta-appeal/index.html:17 sites/www.thunderbird.net/thunderbird/102.0/eoy/index.html:18
-#: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:19 sites/www.thunderbird.net/thunderbird/115.0/appeal/index.html:18 sites/www.thunderbird.net/thunderbird/115.0/eoy/index.html:18
-#: sites/www.thunderbird.net/thunderbird/115.0/holidayeoy/index.html:18 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:19
-#: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:17 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:17 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:17
-msgid "Thunderbird"
 msgstr ""
 
 #: sites/updates.thunderbird.net/includes/base/footer.html:5 sites/www.thunderbird.net/includes/product-metadata.html:7 sites/www.thunderbird.net/includes/product-metadata.html:27
@@ -686,10 +1246,6 @@ msgstr ""
 msgid "Thunderbird’s Dark Mode now automatically adapts your messages when enabled, with a quick optional toggle to adjust your message view as needed."
 msgstr ""
 
-#: sites/updates.thunderbird.net/thunderbird/140.0/whatsnew/index.html:79
-msgid "Native OS Notifications"
-msgstr ""
-
 #: sites/updates.thunderbird.net/thunderbird/140.0/whatsnew/index.html:87
 msgid ""
 "Leverage the speed and ease of your Operating System’s built-in notifications, whether you’re on Windows, Linux, or Mac. Quickly delete, archive, or use customizable actions directly from your "
@@ -1106,16 +1662,6 @@ msgstr ""
 msgid "A rendering of a mobile phone."
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:8 sites/www.thunderbird.net/about/mission-statement/index.html:27 sites/www.thunderbird.net/includes/base/footer.html:34
-#: sites/www.thunderbird.net/includes/base/nav.html:53
-msgid "Who We Are"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:9 sites/www.thunderbird.net/about/mission-statement/index.html:9 sites/www.thunderbird.net/contact/index.html:9
-#: sites/www.thunderbird.net/includes/base/footer.html:32 sites/www.thunderbird.net/includes/base/nav.html:49 sites/www.thunderbird.net/privacy/index.html:9
-msgid "About"
-msgstr ""
-
 #: sites/www.thunderbird.net/about/index.html:15
 msgid "Meet <span class=\"txt-gradient\">Thunderbird</span>"
 msgstr ""
@@ -1302,7 +1848,7 @@ msgstr ""
 msgid "Business Systems & Data Platform Administrator"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:171 sites/www.thunderbird.net/about/index.html:179 sites/www.thunderbird.net/about/index.html:184
+#: sites/www.thunderbird.net/about/index.html:171 sites/www.thunderbird.net/about/index.html:181 sites/www.thunderbird.net/about/index.html:186
 msgid "Sr Software Engineer, Services"
 msgstr ""
 
@@ -1311,163 +1857,179 @@ msgid "Sr UX Engineer, Desktop"
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:173
-msgid "Principal Engineer"
+msgid "Staff Designer"
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:174
-msgid "Senior FP&A Analyst"
+msgid "Principal Engineer"
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:175
-msgid "Software Engineer, Mobile"
+msgid "Senior FP&A Analyst"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:176 sites/www.thunderbird.net/about/index.html:177 sites/www.thunderbird.net/about/index.html:185 sites/www.thunderbird.net/about/index.html:200
-#: sites/www.thunderbird.net/about/index.html:204
-msgid "Staff Software Engineer, Desktop"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:178
-msgid "Marketing Manager"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:180
-msgid "Manager, AI R&D"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:181
-msgid "Manager, Release Operations"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:182
-msgid "Sr Release Engineer, Desktop"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:183 sites/www.thunderbird.net/about/index.html:209 sites/www.thunderbird.net/about/index.html:218
-msgid "Sr Software Engineer, Mobile"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:186
-msgid "Sr Staff Software Engineer, Desktop"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:187
-msgid "User Interface / Visual Designer"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:188
-msgid "Staff DevRel Engineer, Community Programs Lead"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:189
-msgid "Software Engineer"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:190
-msgid "Sr UX Design Specialist"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:191
-msgid "Sr Software Engineer, Desktop Add-ons"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:192
-msgid "Manager, Mobile Apps"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:193
+#: sites/www.thunderbird.net/about/index.html:176 sites/www.thunderbird.net/about/index.html:196 sites/www.thunderbird.net/about/index.html:200
 msgid "Staff Software Engineer"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:194 sites/www.thunderbird.net/about/index.html:219
-msgid "Software Engineer, Desktop"
+#: sites/www.thunderbird.net/about/index.html:177
+msgid "Software Engineer, Mobile"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:178 sites/www.thunderbird.net/about/index.html:179 sites/www.thunderbird.net/about/index.html:187 sites/www.thunderbird.net/about/index.html:205
+#: sites/www.thunderbird.net/about/index.html:210
+msgid "Staff Software Engineer, Desktop"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:180
+msgid "Marketing Manager"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:182
+msgid "Manager, AI R&D"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:183
+msgid "Manager, Release Operations"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:184
+msgid "Sr Release Engineer, Desktop"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:185 sites/www.thunderbird.net/about/index.html:215 sites/www.thunderbird.net/about/index.html:224
+msgid "Sr Software Engineer, Mobile"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:188
+msgid "Release Engineer"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:189
+msgid "Sr Staff Software Engineer, Desktop"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:190
+msgid "User Interface / Visual Designer"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:191
+msgid "Staff DevRel Engineer, Community Programs Lead"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:192
+msgid "Software Engineer"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:193
+msgid "Sr UX Design Specialist"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:194
+msgid "Sr Software Engineer, Desktop Add-ons"
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:195
-msgid "Sr Security Engineer, Desktop"
+msgid "Manager, Mobile Apps"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:196
-msgid "Sr Technical PM"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:197
-msgid "Manager, UI/UX Design Studio"
+#: sites/www.thunderbird.net/about/index.html:197 sites/www.thunderbird.net/about/index.html:226
+msgid "Software Engineer, Desktop"
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:198
-msgid "Manager, Customer Support Operations"
+msgid "Sr Security Engineer, Desktop"
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:199
-msgid "Support Knowledge & Enablement Lead"
+msgid "Sr Technical PM"
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:201
-msgid "Manager, Web Services"
+msgid "Manager, UI/UX Design Studio"
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:202
-msgid "Sr Manager, People Operations & Strategy"
+msgid "Manager, Customer Support Operations"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:203
-msgid "People & Talent Generalist"
+#: sites/www.thunderbird.net/about/index.html:203 sites/www.thunderbird.net/about/index.html:209
+msgid "Sr Software Engineer"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:205
-msgid "Staff Software Engineer, Services"
+#: sites/www.thunderbird.net/about/index.html:204
+msgid "Support Knowledge & Enablement Lead"
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:206
-msgid "Communications & Engagement Specialist"
+msgid "Manager, Web Services"
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:207
-msgid "Sr Manager, Corporate Strategy"
+msgid "Sr Manager, People Operations & Strategy"
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:208
-msgid "Senior Accountant"
-msgstr ""
-
-#: sites/www.thunderbird.net/about/index.html:210 sites/www.thunderbird.net/about/index.html:214
-msgid "Product Designer"
+msgid "People & Talent Generalist"
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:211
-msgid "Sr Software Engineer, Test"
+msgid "Staff Software Engineer, Services"
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:212
-msgid "User Support Specialist"
+msgid "Communications & Engagement Specialist"
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:213
-msgid "Sr Site Reliability Engineer"
+msgid "Sr Manager, Corporate Strategy"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:215
-msgid "Sr Release Engineer"
+#: sites/www.thunderbird.net/about/index.html:214
+msgid "Senior Accountant"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:216
-msgid "Sr People Partner"
+#: sites/www.thunderbird.net/about/index.html:216 sites/www.thunderbird.net/about/index.html:220
+msgid "Product Designer"
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:217
-msgid "Sr Manager, Desktop Engineering"
+msgid "Sr Software Engineer, Test"
 msgstr ""
 
-#: sites/www.thunderbird.net/about/index.html:220
-msgid "Community Manager"
+#: sites/www.thunderbird.net/about/index.html:218
+msgid "User Support Specialist"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:219
+msgid "Sr Site Reliability Engineer"
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:221
-msgid "Staff Software Engineer, Mobile"
+msgid "Sr Release Engineer"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:222
+msgid "Sr People Partner"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:223
+msgid "Sr Manager, Desktop Engineering"
 msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:225
+msgid "Sr Executive Assistant"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:227
+msgid "Community Manager"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:228
+msgid "Staff Software Engineer, Mobile"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:232
 msgid "Explore Career Opportunities"
 msgstr ""
 
@@ -1483,12 +2045,6 @@ msgstr ""
 
 #: sites/www.thunderbird.net/calendar/index.html:8
 msgid "Calendar"
-msgstr ""
-
-#: sites/www.thunderbird.net/calendar/holidays/index.html:9 sites/www.thunderbird.net/calendar/index.html:9 sites/www.thunderbird.net/download/index.html:10
-#: sites/www.thunderbird.net/includes/base/footer.html:20 sites/www.thunderbird.net/includes/base/nav.html:34 sites/www.thunderbird.net/newsletter/index.html:9
-#: sites/www.thunderbird.net/thank-you/index.html:9 sites/www.thunderbird.net/thunderbird/all/index.html:11
-msgid "Resources"
 msgstr ""
 
 #: sites/www.thunderbird.net/calendar/index.html:16
@@ -1523,10 +2079,6 @@ msgstr ""
 #: sites/www.thunderbird.net/calendar/holidays/index.html:47
 #, python-format
 msgid "<a href=\"%(url)s\" class=\"inline-link text-blue\">%(country)s</a> holidays thanks to %(authors)s"
-msgstr ""
-
-#: sites/www.thunderbird.net/contact/index.html:8 sites/www.thunderbird.net/includes/base/footer.html:35 sites/www.thunderbird.net/includes/base/nav.html:54
-msgid "Contact Us"
 msgstr ""
 
 #: sites/www.thunderbird.net/contact/index.html:15
@@ -1620,11 +2172,6 @@ msgstr ""
 msgid ""
 "Protect future users from malware, data mining, or being fraudulently charged for Thunderbird by reporting trademark misuse. If you believe we are infringing on your copyright or trademark, please "
 "send a DMCA notice."
-msgstr ""
-
-#: sites/www.thunderbird.net/desktop/index.html:10 sites/www.thunderbird.net/includes/base/footer.html:15 sites/www.thunderbird.net/includes/base/nav.html:24
-#: sites/www.thunderbird.net/thunderbird/releases/index.html:9
-msgid "Thunderbird Desktop"
 msgstr ""
 
 #: sites/www.thunderbird.net/desktop/index.html:23 sites/www.thunderbird.net/thunderbird/all/index.html:20 sites/www.thunderbird.net/thunderbird/all/index.html:236
@@ -1829,11 +2376,6 @@ msgstr ""
 
 #: sites/www.thunderbird.net/desktop/index.html:212 sites/www.thunderbird.net/mobile/index.html:210
 msgid "Support Site"
-msgstr ""
-
-#: sites/www.thunderbird.net/donate/help/index.html:9 sites/www.thunderbird.net/donate/help/thank-you/index.html:9 sites/www.thunderbird.net/donate/index.html:9
-#: sites/www.thunderbird.net/includes/base/footer.html:40 sites/www.thunderbird.net/includes/base/nav.html:64 sites/www.thunderbird.net/participate/index.html:9
-msgid "Contribute"
 msgstr ""
 
 #: sites/www.thunderbird.net/donate/index.html:15
@@ -2155,107 +2697,6 @@ msgstr ""
 
 #: sites/www.thunderbird.net/includes/lang_switcher.html:30
 msgid "Go"
-msgstr ""
-
-#: sites/www.thunderbird.net/includes/base/footer.html:9 sites/www.thunderbird.net/includes/base/page.html:48
-msgid "Home"
-msgstr ""
-
-#: sites/www.thunderbird.net/includes/base/footer.html:13 sites/www.thunderbird.net/includes/base/nav.html:20 sites/www.thunderbird.net/thunderbird/releases/index.html:9
-msgid "Products"
-msgstr ""
-
-#: sites/www.thunderbird.net/includes/base/footer.html:16 sites/www.thunderbird.net/includes/base/nav.html:25 sites/www.thunderbird.net/mobile/index.html:12
-msgid "Thunderbird Mobile"
-msgstr ""
-
-#: sites/www.thunderbird.net/includes/base/footer.html:22 sites/www.thunderbird.net/includes/base/nav.html:38
-msgid "Blog"
-msgstr ""
-
-#: sites/www.thunderbird.net/includes/base/footer.html:24 sites/www.thunderbird.net/includes/base/nav.html:78 sites/www.thunderbird.net/includes/base/nav.html:84
-#: sites/www.thunderbird.net/includes/download/macros/download-smart.html:30 sites/www.thunderbird.net/includes/download/macros/download-smart.html:43
-msgid "Downloads"
-msgstr ""
-
-#: sites/www.thunderbird.net/includes/base/footer.html:25 sites/www.thunderbird.net/thunderbird/all/index.html:147 sites/www.thunderbird.net/thunderbird/all/index.html:216
-msgid "Release Notes"
-msgstr ""
-
-#: sites/www.thunderbird.net/includes/base/footer.html:26
-msgid "For Enterprises"
-msgstr ""
-
-#: sites/www.thunderbird.net/includes/base/footer.html:27
-msgid "Holiday Calendars"
-msgstr ""
-
-#: sites/www.thunderbird.net/includes/base/footer.html:28
-msgid "Roadmaps"
-msgstr ""
-
-#: sites/www.thunderbird.net/includes/base/footer.html:36 sites/www.thunderbird.net/includes/base/nav.html:55
-msgid "Careers"
-msgstr ""
-
-#: sites/www.thunderbird.net/includes/base/nav.html:24
-msgid "Meet the powerful email, calendar, and contacts app for Windows, Linux, and macOS."
-msgstr ""
-
-#: sites/www.thunderbird.net/includes/base/nav.html:25
-msgid "Learn about the leading open-source email app for Android."
-msgstr ""
-
-#: sites/www.thunderbird.net/includes/base/nav.html:38
-msgid "Learn about new product releases, community events, tech tips, and more."
-msgstr ""
-
-#: sites/www.thunderbird.net/includes/base/nav.html:39
-msgid "Desktop Help"
-msgstr ""
-
-#: sites/www.thunderbird.net/includes/base/nav.html:39
-msgid "Find the help you need configuring and using Thunderbird Desktop."
-msgstr ""
-
-#: sites/www.thunderbird.net/includes/base/nav.html:40
-msgid "Mobile Help"
-msgstr ""
-
-#: sites/www.thunderbird.net/includes/base/nav.html:40
-msgid "Find the help you need configuring and using Thunderbird Mobile."
-msgstr ""
-
-#: sites/www.thunderbird.net/includes/base/nav.html:53
-msgid "Learn how our values, community, and organization shape the future of Thunderbird."
-msgstr ""
-
-#: sites/www.thunderbird.net/includes/base/nav.html:54
-msgid "Find out who to contact and how."
-msgstr ""
-
-#: sites/www.thunderbird.net/includes/base/nav.html:55
-msgid "We have an enthusiastic team with diverse talents. Learn how to join us."
-msgstr ""
-
-#: sites/www.thunderbird.net/includes/base/nav.html:68
-msgid "Learn how to donate as an individual or business to support Thunderbird and open source."
-msgstr ""
-
-#: sites/www.thunderbird.net/includes/base/nav.html:69
-msgid "We need helping hands of all kinds. Learn how you can help Thunderbird and others."
-msgstr ""
-
-#: sites/www.thunderbird.net/includes/base/nav.html:83
-msgid "Find the latest version of Thunderbird."
-msgstr ""
-
-#: sites/www.thunderbird.net/includes/base/page.html:14
-msgid "Thunderbird Logo"
-msgstr ""
-
-#: sites/www.thunderbird.net/includes/base/page.html:22
-msgid "Open or close site navigation"
 msgstr ""
 
 #: sites/www.thunderbird.net/includes/base/page.html:78
