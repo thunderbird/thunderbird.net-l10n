@@ -49,7 +49,7 @@ msgstr "Tái cấu trúc và bảo trì hệ thống cốt lõi"
 
 #: sites/roadmaps.thunderbird.net/android/index.html:11
 msgid "Modernize the source code that we inherited from K9, tackle the most glaring maintenance and stability issues, and restructure the core architecture for faster and easier development."
-msgstr "Hiện đại hoá mã nguồn mà chúng ta thừa hưởng từ K9, giải quyết các vấn đề bảo trì và ổn định nổi bật nhất, và tái cấu trúc kiến trúc cốt lõi để phát triển nhanh hơn và dễ dàng hơn."
+msgstr "Hiện đại hoá mã nguồn mà chúng tôi thừa hưởng từ K9, giải quyết các vấn đề bảo trì và ổn định nổi bật nhất, và tái cấu trúc kiến trúc cốt lõi để phát triển nhanh hơn và dễ dàng hơn."
 
 #: sites/roadmaps.thunderbird.net/android/index.html:12
 msgid "Message View Improvements"
@@ -80,11 +80,11 @@ msgstr ""
 
 #: sites/roadmaps.thunderbird.net/android/index.html:17
 msgid "JMAP Support Exploration"
-msgstr ""
+msgstr "Khám phá hỗ trợ JMAP"
 
 #: sites/roadmaps.thunderbird.net/android/index.html:17
 msgid "Exploring JMAP integration, learning what it means to add a new protocol on Android, and ensuring future proofing against proprietary protocols."
-msgstr ""
+msgstr "Tìm hiểu về tích hợp JMAP, hiểu ý nghĩa của việc thêm một giao thức mới trên Android và đảm bảo khả năng tương thích với các giao thức độc quyền trong tương lai."
 
 #: sites/roadmaps.thunderbird.net/android/index.html:19 sites/roadmaps.thunderbird.net/desktop/index.html:21 sites/roadmaps.thunderbird.net/ios/index.html:18
 #: sites/roadmaps.thunderbird.net/services/index.html:23
@@ -93,11 +93,11 @@ msgstr ""
 
 #: sites/roadmaps.thunderbird.net/android/index.html:21
 msgid "CASA Approval"
-msgstr ""
+msgstr "Phê duyệt CASA"
 
 #: sites/roadmaps.thunderbird.net/android/index.html:21
 msgid "Complete the Cloud Application Security Assessment (CASA)"
-msgstr ""
+msgstr "Hoàn thành Cloud Application Security Assessment (CASA)"
 
 #: sites/roadmaps.thunderbird.net/android/index.html:21
 msgid "March 2025"
@@ -475,27 +475,27 @@ msgstr ""
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:12
 msgid "Full Email Writing and Reading Experience"
-msgstr ""
+msgstr "Trải nghiệm viết và đọc email toàn diện"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:12
 msgid "Implement the full reading and writing email experience on mobile, including initial support for encrypted messages (OpenPGP and S/MIME with existing libraries)."
-msgstr ""
+msgstr "Triển khai đầy đủ trải nghiệm đọc và viết email trên thiết bị di động, bao gồm hỗ trợ ban đầu cho thư mã hóa (OpenPGP và S/MIME với các thư viện hiện có)."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:16
 msgid "JMAP Support"
-msgstr ""
+msgstr "Hỗ trợ JMAP"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:16
 msgid "Support the JMAP protocol as one of the first extra protocols we ship with by default outside of IMAP."
-msgstr ""
+msgstr "Hỗ trợ giao thức JMAP như một trong những giao thức bổ sung đầu tiên được tích hợp sẵn theo mặc định, bên cạnh IMAP."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:20
 msgid "Account Creation Flow"
-msgstr ""
+msgstr "Quy trình tạo tài khoản"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:20
 msgid "Implement a full automated and manual setup, including autodiscovery and OAuth."
-msgstr ""
+msgstr "Triển khai thiết lập hoàn toàn tự động và thủ công, bao gồm tự động phát hiện và xác thực OAuth."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:21
 msgid "Architecture"
@@ -565,11 +565,11 @@ msgstr "Cung cấp cho người dùng thông tin về các phiên hoạt động
 
 #: sites/roadmaps.thunderbird.net/services/index.html:17
 msgid "MFA Support"
-msgstr ""
+msgstr "Hỗ trợ MFA"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:17
 msgid "Multifactor authentication via TOTP or similar. We didn't get to this in 2025, and it is an essential security feature."
-msgstr ""
+msgstr "Xác thực đa yếu tố thông qua TOTP hoặc tương tự. Chúng tôi chưa triển khai tính năng này vào năm 2025, và đây là một tính năng bảo mật thiết yếu."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:18
 msgid "Community Selected Initiative"
@@ -583,33 +583,39 @@ msgstr ""
 
 #: sites/roadmaps.thunderbird.net/services/index.html:19
 msgid "Improve Pro Add-on Integration"
-msgstr ""
+msgstr "Cải thiện tích hợp tiện ích Pro"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:19
 msgid ""
 "We are shipping an Thunderbird Pro add-on to enable Pro features in Thunderbird desktop. For a low barrier of entry we want to improve integration by using the system add-on or new account add-on "
 "mechanism. This allows us to make these features easier to discover and use within Thunderbird."
 msgstr ""
+"Chúng tôi phát hành tiện ích Thunderbird Pro để kích hoạt các tính năng Pro trong Thunderbird dành cho máy tính. Để giảm thiểu rào cản gia nhập, chúng tôi muốn cải thiện khả năng tích hợp bằng cách "
+"sử dụng cơ chế tiện ích hệ thống hoặc tiện ích tài khoản mới. Điều này cho phép chúng tôi giúp người dùng dễ dàng tìm thấy và sử dụng các tính năng này trong Thunderbird."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:20
 msgid "Thundermail: Webmail"
-msgstr ""
+msgstr "Thundermail: Webmail"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:20
 msgid ""
 "What would an email service be without webmail? We will spend time making the proof of concept more usable, and enable this as an experimental feature for users willing to try new things earyly. The scope will initially be limited to basic folder visibility and message display.\n"
 "Webmail will be built with JMAP as a backend, and we need to explore how users can benefit from Webmail while still being encouraged to use end to end encryption and allowing search across folders."
 msgstr ""
+"Một dịch vụ email sẽ ra sao nếu thiếu webmail? Chúng tôi sẽ dành thời gian để hoàn thiện bản thử nghiệm này và kích hoạt nó như một tính năng thử nghiệm dành cho những người dùng sẵn sàng trải nghiệm những điều mới mẻ ngay từ đầu. Phạm vi ban đầu sẽ giới hạn ở việc hiển thị thư mục và thư cơ bản.\n"
+"Webmail sẽ được xây dựng với JMAP làm backend, và chúng ta cần tìm hiểu xem người dùng có thể hưởng lợi như thế nào từ Webmail trong khi vẫn được khuyến khích sử dụng mã hóa đầu cuối và cho phép tìm kiếm trên nhiều thư mục."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:25
 msgid "Thundermail: Spam Filtering"
-msgstr ""
+msgstr "Thundermail: Lọc thư rác"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:25
 msgid ""
 "The spam filtering was very aggressive, causing many emails to unintentionally land in the spam folder. The filtering mechanism has been changed to significantly improve this behavior. A big thank "
 "you to Mauro and team from Stalwart, who have made the spam detection algorithm more sophisticated and accurate!"
 msgstr ""
+"Bộ lọc thư rác trước đây hoạt động rất mạnh tay, khiến nhiều email vô tình bị đưa vào thư mục thư rác. Cơ chế lọc đã được thay đổi để cải thiện đáng kể tình trạng này. Xin chân thành cảm ơn Mauro và"
+" nhóm của anh ấy từ Stalwart, những người đã giúp thuật toán phát hiện thư rác trở nên tinh vi và chính xác hơn!"
 
 #: sites/start.thunderbird.net/beta/index.html:13 sites/start.thunderbird.net/daily/index.html:8
 msgid "Sharing Freedom – Thunderbird"
@@ -1984,7 +1990,7 @@ msgstr "Sr UX Engineer, Ứng dụng máy tính"
 
 #: sites/www.thunderbird.net/about/index.html:173
 msgid "Staff Designer"
-msgstr ""
+msgstr "Nhân viên thiết kế"
 
 #: sites/www.thunderbird.net/about/index.html:174
 msgid "Principal Engineer"
@@ -2029,7 +2035,7 @@ msgstr "Sr. Software Engineer, Ứng dụng di động"
 
 #: sites/www.thunderbird.net/about/index.html:188
 msgid "Release Engineer"
-msgstr ""
+msgstr "Kỹ sư phát hành"
 
 #: sites/www.thunderbird.net/about/index.html:189
 msgid "Sr Staff Software Engineer, Desktop"
@@ -2081,7 +2087,7 @@ msgstr "Quản lý, hỗ trợ hoạt động khách hàng"
 
 #: sites/www.thunderbird.net/about/index.html:203 sites/www.thunderbird.net/about/index.html:209
 msgid "Sr Software Engineer"
-msgstr ""
+msgstr "Sr Software Engineer"
 
 #: sites/www.thunderbird.net/about/index.html:204
 msgid "Support Knowledge & Enablement Lead"
@@ -2145,7 +2151,7 @@ msgstr "Sr Manager, Desktop Engineering"
 
 #: sites/www.thunderbird.net/about/index.html:225
 msgid "Sr Executive Assistant"
-msgstr ""
+msgstr "Sr Executive Assistant"
 
 #: sites/www.thunderbird.net/about/index.html:227
 msgid "Community Manager"
