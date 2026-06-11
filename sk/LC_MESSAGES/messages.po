@@ -27,7 +27,7 @@ msgstr "Plán pre Android"
 
 #: sites/roadmaps.thunderbird.net/android/index.html:5
 msgid "Thunderbird for Android. Follow the roadmap from active work to to future ideas. Timelines may shift as we learn and iterate."
-msgstr "Thunderbird pre Android. Sledujte plán od aktívnej práce k budúcim nápadom. Časové harmonogramy sa môžu počas vývoja a iterácií meniť."
+msgstr "Thunderbird pre Android. Sledujte plán vývoja od aktuálnych prác až po budúce nápady. Časový harmonogram sa môže meniť v závislosti od našich poznatkov a iterácií."
 
 #: sites/roadmaps.thunderbird.net/android/index.html:6 sites/roadmaps.thunderbird.net/desktop/index.html:6 sites/roadmaps.thunderbird.net/ios/index.html:6
 msgid "Last updated March 31, 2026"
@@ -177,7 +177,7 @@ msgstr "Marec 2026"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:24
 msgid "Unobtrusive Signatures"
-msgstr "Nenápadné podpisy"
+msgstr "Nenápadné detekčné vzorce/podpisy"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:24
 msgid "This was part of the larger “Encryption and Security Improvements” initiative and has been completed to reduce confusion around OpenPGP signatures."
@@ -185,11 +185,11 @@ msgstr "Toto bolo súčasťou širšej iniciatívy „Vylepšenia šifrovania a 
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:25
 msgid "Exchange Email Support"
-msgstr ""
+msgstr "Podpora e‑mailu Exchange"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:25
 msgid "Full support of email operations and account creation."
-msgstr ""
+msgstr "Plná podpora e‑mailových operácií a vytvárania účtov."
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:25
 msgid "November 2025"
@@ -201,7 +201,7 @@ msgstr "Natívne upozornenia operačného systému"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:26
 msgid "Add quick actions to reply, delete, mark messages as read/unread, and manage the notifications."
-msgstr ""
+msgstr "Pridanie rýchlych akcií na odpovedanie, mazanie, označovanie správ ako prečítaných/neprečítaných a správu upozornení."
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:26 sites/roadmaps.thunderbird.net/ios/index.html:21
 msgid "July 2025"
@@ -209,11 +209,11 @@ msgstr "Júl 2025"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:27
 msgid "Implement Glean Telemetry"
-msgstr ""
+msgstr "Implementácia telemetrie Glean"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:27
 msgid "Move away from the old telemetry implementation and add the new Glean Telemetry."
-msgstr ""
+msgstr "Odchod od starej implementácie telemetrie a pridanie novej telemetrie Glean."
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:27
 msgid "April 2025"
@@ -225,7 +225,7 @@ msgstr "Upozornenia v aplikácii"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:28
 msgid "Implement a new notification system that allows the Thunderbird team to push important, time-sensitive information directly to a user's Thunderbird desktop client."
-msgstr ""
+msgstr "Implementácia nového systému upozornení, ktorý umožní tímu Thunderbirdu posielať dôležité a časovo citlivé informácie priamo do desktopového klienta Thunderbirdu používateľa."
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:28
 msgid "May 2025"
@@ -386,11 +386,11 @@ msgstr "Služby"
 
 #: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:57
 msgid "Follow the services roadmap to learn what's coming up next for Thunderbird Pro, Websites and Infrastructure projects."
-msgstr ""
+msgstr "Sledujte plán služieb a zistite, čo sa bude diať ďalej v súvislosti s projektmi Thunderbird Pro, webových stránok a infraštruktúry."
 
 #: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:62
 msgid "View services roadmap"
-msgstr ""
+msgstr "Zobraziť plán pre služby"
 
 #: sites/roadmaps.thunderbird.net/includes/base/nav.html:24 sites/www.thunderbird.net/includes/base/nav.html:24
 msgid "Meet the powerful email, calendar, and contacts app for Windows, Linux, and macOS."
@@ -458,11 +458,11 @@ msgstr "Plán pre iOS"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:5
 msgid "Thunderbird for iOS. Follow the roadmap from active work to future ideas. Timelines may shift as we learn and iterate."
-msgstr ""
+msgstr "Thunderbird pre iOS. Sledujte plán od aktívnej práce k budúcim nápadom. Časový harmonogram sa môže meniť v závislosti od našich poznatkov a iterácií."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:7
 msgid "Download TestFlight app"
-msgstr ""
+msgstr "Stiahnite si aplikáciu TestFlight"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:11
 msgid "iOS Create Protocol, Database, &amp; Framework"
@@ -470,7 +470,7 @@ msgstr ""
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:11
 msgid "Implement the IMAP protocol first as it's the most widespread protocol currently in use."
-msgstr ""
+msgstr "Prioritná implementácia protokolu IMAP, pretože je to momentálne najrozšírenejší protokol, ktorý sa používa."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:12
 msgid "Full Email Writing and Reading Experience"
@@ -498,21 +498,25 @@ msgstr ""
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:21
 msgid "Architecture"
-msgstr ""
+msgstr "Architektúra"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:21
 msgid ""
 "Establish a robust and scalable architecture to begin the Thunderbird for iOS project and create the backend. This architecture will include strategies for code sharing across platforms, taking into"
 " account the Android and Desktop clients."
 msgstr ""
+"Vytvorenie robustnej a škálovateľnej architektúry na spustenie projektu Thunderbird pre iOS a vytvorenie backendu. Táto architektúra bude zahŕňať stratégie pre zdieľanie kódu naprieč platformami, "
+"berúc do úvahy klientov pre Android a desktop."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:22
 msgid "Autoconfiguration"
-msgstr ""
+msgstr "Automatická konfigurácia"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:22
 msgid "Add DNS MX lookup to autoconfig feature library and move SRV record lookup into autoconfig feature library and delete Autodiscover core library"
 msgstr ""
+"Pridanie vyhľadávania DNS MX do knižnice funkcií automatickej konfigurácie a presunutie vyhľadávania záznamov SRV do knižnice funkcií automatickej konfigurácie a odstránenie základnej knižnice "
+"Autodiscover."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:22
 msgid "September 2025"
