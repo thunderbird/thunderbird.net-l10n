@@ -524,6 +524,8 @@ msgstr "Configurazione automatica"
 #: sites/roadmaps.thunderbird.net/ios/index.html:22
 msgid "Add DNS MX lookup to autoconfig feature library and move SRV record lookup into autoconfig feature library and delete Autodiscover core library"
 msgstr ""
+"Aggiunta del supporto alla ricerca tramite DNS dei record MX nella libreria di configurazione automatica, spostamento della ricerca dei record SRV nella stessa libreria ed eliminazione della "
+"libreria principale di Autodiscover."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:22
 msgid "September 2025"
@@ -531,11 +533,13 @@ msgstr "Settembre 2025"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:4
 msgid "Services Roadmap"
-msgstr ""
+msgstr "Roadmap per i servizi"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:5
 msgid "Thunderbird Pro Services and Infrastructure Support. Follow the roadmap from active work to future ideas. Timelines may change as we learn and iterate."
 msgstr ""
+"Segui la roadmap dei servizi di Thunderbird Pro e dell’infrastruttura di supporto, dai progetti attualmente in sviluppo fino alle idee per il futuro. Tieni conto che le tempistiche potrebbero "
+"cambiare man mano che ci avviciniamo agli obiettivi."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:6
 msgid "Last updated March 19, 2026"
@@ -543,7 +547,7 @@ msgstr "Ultimo aggiornamento: 19 marzo 2026"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:7
 msgid "Submit your ideas for Thunderbird Pro"
-msgstr ""
+msgstr "Proponi le tue idee per Thunderbird Pro"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:11
 msgid "Send UI Completion"
@@ -554,6 +558,8 @@ msgid ""
 "Send was the one product we haven't been able to complete UI overhaul work. We don't need to block the rollout for this, but we should work on this to keep it up to par with the other products and "
 "create consistency."
 msgstr ""
+"Send è stato l’unico prodotto per cui non siamo riusciti a completare il lavoro di revisione dell’interfaccia utente. Abbiamo deciso di non bloccare il lancio per questo motivo, ma dovremmo "
+"lavorarci per mantenerlo al passo con gli altri prodotti e garantire una maggior coerenza."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:12
 msgid "Integrate Thunderbird Appointment into Pro add-on"
@@ -571,7 +577,7 @@ msgstr "Sessioni attive"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:16
 msgid "Give the user a view on their active sessions and allow them to end the session."
-msgstr ""
+msgstr "Implementazione di una vista per le sessioni attive dell’utente, con possibilità di terminarle."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:17
 msgid "MFA Support"
@@ -579,7 +585,7 @@ msgstr "Supporto MFA"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:17
 msgid "Multifactor authentication via TOTP or similar. We didn't get to this in 2025, and it is an essential security feature."
-msgstr ""
+msgstr "Implementazione dell’autenticazione a più fattori tramite TOTP o simili, non completata nel 2025 e considerata una funzionalità di sicurezza essenziale."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:18
 msgid "Community Selected Initiative"
@@ -590,6 +596,8 @@ msgid ""
 "No doubt the community will have a bunch of great ideas on https://ideas.tb.pro that we can build on. We're making sure we have time to work on one of the top community suggestions that will fit "
 "well into the Thunderbird Pro ecosystem."
 msgstr ""
+"Gli utenti della comunità avranno senza dubbio tante buone idee da proporre su https://ideas.tb.pro sulle quali potremo lavorare. Vogliamo assicurarci di dedicare tempo a uno dei suggerimenti più "
+"rilevanti della comunità, che si integri bene nell’ecosistema di Thunderbird Pro."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:19
 msgid "Improve Pro Add-on Integration"
@@ -600,16 +608,20 @@ msgid ""
 "We are shipping an Thunderbird Pro add-on to enable Pro features in Thunderbird desktop. For a low barrier of entry we want to improve integration by using the system add-on or new account add-on "
 "mechanism. This allows us to make these features easier to discover and use within Thunderbird."
 msgstr ""
+"Stiamo rilasciando un componente aggiuntivo Thunderbird Pro che consente di attivare le funzionalità Pro in Thunderbird desktop. Per facilitarne l’accesso, vogliamo migliorare l’integrazione "
+"utilizzando i meccanismi dei componenti aggiuntivi di sistema o per nuovi account. Ciò renderà le funzionalità più facili da scoprire e utilizzare all’interno di Thunderbird."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:20
 msgid "Thundermail: Webmail"
-msgstr ""
+msgstr "Webmail per Thundermail"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:20
 msgid ""
 "What would an email service be without webmail? We will spend time making the proof of concept more usable, and enable this as an experimental feature for users willing to try new things earyly. The scope will initially be limited to basic folder visibility and message display.\n"
 "Webmail will be built with JMAP as a backend, and we need to explore how users can benefit from Webmail while still being encouraged to use end to end encryption and allowing search across folders."
 msgstr ""
+"Che cosa sarebbe un servizio di posta elettronica senza webmail? Dedicheremo tempo a rendere il prototipo più facile da utilizzare e lo renderemo disponibile come funzionalità sperimentale per gli utenti che desiderano provarlo in anticipo. L’ambito sarà inizialmente limitato alla visibilità delle cartelle e alla visualizzazione dei messaggi.\n"
+"La webmail sarà realizzata con JMAP come backend. Dobbiamo esplorare come gli utenti possano beneficiare della webmail e allo stesso tempo essere incoraggiati a utilizzare la crittografia end-to-end, oltre a consentire la ricerca in più cartelle."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:25
 msgid "Thundermail: Spam Filtering"
@@ -620,6 +632,8 @@ msgid ""
 "The spam filtering was very aggressive, causing many emails to unintentionally land in the spam folder. The filtering mechanism has been changed to significantly improve this behavior. A big thank "
 "you to Mauro and team from Stalwart, who have made the spam detection algorithm more sophisticated and accurate!"
 msgstr ""
+"Il filtro antispam era molto aggressivo e faceva finire molte email per errore nella cartella della posta indesiderata. Il meccanismo di filtraggio è stato quindi modificato per migliorarne "
+"notevolmente il comportamento. Un grande ringraziamento a Mauro e al team di Stalwart, che hanno reso l’algoritmo di rilevamento dello spam più sofisticato e accurato."
 
 #: sites/start.thunderbird.net/beta/index.html:13 sites/start.thunderbird.net/daily/index.html:8
 msgid "Sharing Freedom – Thunderbird"
@@ -1384,29 +1398,29 @@ msgstr "Scopri le versioni mensili"
 #: sites/updates.thunderbird.net/thunderbird/153.0/jun26-1a/index.html:23 sites/updates.thunderbird.net/thunderbird/153.0/jun26-1a/index.html:30
 #, python-format
 msgid "Only 3% of users keep Thunderbird alive"
-msgstr ""
+msgstr "Solo il 3% degli utenti ci aiuta a mantenere in vita Thunderbird"
 
 #: sites/updates.thunderbird.net/thunderbird/153.0/jun26-1a/index.html:31
 #, python-format
 msgid "<span>Only 3% of users</span> keep Thunderbird alive"
-msgstr ""
+msgstr "<span>Solo il 3% degli utenti</span> ci aiuta a mantenere in vita Thunderbird"
 
 #: sites/updates.thunderbird.net/thunderbird/153.0/jun26-1a/index.html:49
 msgid "Every update, every fix and every new feature of this latest Thunderbird release <strong>exists thanks to the users who chose to support it.</strong>"
-msgstr ""
+msgstr "Ogni aggiornamento, ogni correzione e ogni nuova funzionalità di questa ultima versione di Thunderbird <strong>esiste grazie agli utenti che hanno scelto di supportarci</strong>."
 
 #: sites/updates.thunderbird.net/thunderbird/153.0/jun26-1a/index.html:52
 msgid "No ads, no corporate funding, no strings."
-msgstr ""
+msgstr "Nessuna pubblicità, nessun finanziamento da altre aziende, nessun vincolo."
 
 #: sites/updates.thunderbird.net/thunderbird/153.0/jun26-1a/index.html:55
 msgid "We can't do this without you. If you get value from Thunderbird, please help keep it going."
-msgstr ""
+msgstr "Non possiamo farcela senza il tuo aiuto. Se trai beneficio dall’uso di Thunderbird, aiutaci a mantenerlo attivo."
 
 #: sites/updates.thunderbird.net/thunderbird/153.0/jun26-1b/index.html:10 sites/updates.thunderbird.net/thunderbird/153.0/jun26-1b/index.html:13
 #: sites/updates.thunderbird.net/thunderbird/153.0/jun26-1b/index.html:14
 msgid "Keep Thunderbird alive"
-msgstr ""
+msgstr "Aiutaci a mantenere in vita Thunderbird"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:14 sites/updates.thunderbird.net/thunderbird/about/rights/index.html:41
 msgid "About Your Rights"
@@ -1970,6 +1984,8 @@ msgid ""
 "Thunderbird operates in a separate, for-profit subsidiary of the not-for-profit Mozilla.org. This structure gives us the flexibility to offer optional paid services to sustain Thunderbird’s "
 "development far into the future."
 msgstr ""
+"Thunderbird è gestito da una società controllata separata a scopo di lucro, appartenente a Mozilla.org, che è invece un’organizzazione senza fini di lucro. Questa struttura ci permette di offrire "
+"servizi a pagamento opzionali per garantire il continuo sviluppo di Thunderbird anche in futuro."
 
 #: sites/www.thunderbird.net/about/index.html:156
 msgid "We have a growing team of talented employees who develop and maintain Thunderbird, collaborate with our community and partners, and work to deliver Thunderbird to users around the world."
@@ -2897,7 +2913,7 @@ msgstr "Qual è il rapporto tra Thunderbird e MZLA Technologies Corporation?"
 
 #: sites/www.thunderbird.net/includes/faq.html:232
 msgid "MZLA Technologies Corporation is a wholly owned for-profit subsidiary of the not-for-profit Mozilla.org and the home of Thunderbird."
-msgstr ""
+msgstr "MZLA Technologies Corporation è una società a scopo di lucro interamente controllata da Mozilla.org, organizzazione senza fini di lucro, ed è la “casa” di Thunderbird."
 
 #: sites/www.thunderbird.net/includes/faq.html:240
 msgid "Doesn’t Thunderbird earn income?"
@@ -4075,6 +4091,9 @@ msgid ""
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
+"Thunderbird è ora parte di\n"
+"<a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>, una società interamente controllata da Mozilla.org, un’organizzazione senza fini di lucro.\n"
+"Parte di questi contenuti sono ©1998–%(current_year)s di singoli collaboratori. I contenuti sono disponibili secondo la <a href=\"%(url)s\" class=\"inline-link\">licenza Creative Commons</a>."
 
 #: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:384 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:460
 #: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:307 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:326
