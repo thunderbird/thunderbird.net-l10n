@@ -92,7 +92,7 @@ msgstr "Esplorazione dell’integrazione con JMAP, analisi dell’introduzione d
 #: sites/roadmaps.thunderbird.net/android/index.html:19 sites/roadmaps.thunderbird.net/desktop/index.html:21 sites/roadmaps.thunderbird.net/ios/index.html:18
 #: sites/roadmaps.thunderbird.net/services/index.html:23
 msgid "Shipped"
-msgstr ""
+msgstr "Completati"
 
 #: sites/roadmaps.thunderbird.net/android/index.html:21
 msgid "CASA Approval"
@@ -113,6 +113,8 @@ msgstr "Roadmap per desktop"
 #: sites/roadmaps.thunderbird.net/desktop/index.html:5 sites/roadmaps.thunderbird.net/includes/base/landing-page.html:11
 msgid "Thunderbird for Windows, macOS, and Linux. Follow the roadmap from active work to future ideas. Timelines may shift as we learn and iterate."
 msgstr ""
+"Segui la roadmap di Thunderbird per Windows, macOS e Linux, dai progetti in sviluppo alle evoluzioni future. Tieni conto che le tempistiche potrebbero cambiare man mano che ci avviciniamo agli "
+"obiettivi."
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:7
 msgid "Download Thunderbird for desktop"
@@ -124,7 +126,7 @@ msgstr "Exchange (EWS, GraphAPI)"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:11
 msgid "Finalize the work on the Exchange protocol in order to support all versions of Exchange and Microsoft 365, including calendar and address book support."
-msgstr ""
+msgstr "Completamento del lavoro sul protocollo Exchange per il supporto di tutte le versioni di Exchange e Microsoft 365, calendario e rubrica inclusi."
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:12
 msgid "Global Database"
@@ -132,7 +134,7 @@ msgstr "Database globale"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:12
 msgid "Continue the work on the new Panorama database, allowing users to start testing the new database, and handle a consistent data migration."
-msgstr ""
+msgstr "Proseguimento dello sviluppo del nuovo database Panorama, con avvio dei test da parte di utenti e gestione della migrazione dati."
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:13
 msgid "Improve and extend existing add-ons APIs"
@@ -168,11 +170,11 @@ msgstr "Miglioramento del supporto e della visibilità di OpenPGP e S/MIME, dell
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:23
 msgid "First Time User Experience: Account Hub"
-msgstr ""
+msgstr "Esperienza per nuovi utenti: Centro account"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:23
 msgid "Complete Account Hub for all account creations, enable it for first time users."
-msgstr ""
+msgstr "Rilascio del Centro account per la creazione di tutti gli account, con attivazione per i nuovi utenti."
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:23 sites/roadmaps.thunderbird.net/desktop/index.html:24 sites/roadmaps.thunderbird.net/ios/index.html:20
 #: sites/roadmaps.thunderbird.net/services/index.html:25
@@ -185,7 +187,7 @@ msgstr "Firme discrete"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:24
 msgid "This was part of the larger “Encryption and Security Improvements” initiative and has been completed to reduce confusion around OpenPGP signatures."
-msgstr ""
+msgstr "Completato nell’ambito della più ampia iniziativa “Miglioramenti alla crittografia e alla sicurezza”, per ridurre la confusione relativa alle firme OpenPGP."
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:25
 msgid "Exchange Email Support"
@@ -378,11 +380,11 @@ msgstr "iOS"
 
 #: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:42
 msgid "Priorities for performance, accessibility, and a gesture-first mobile UX on iPhone and iPad."
-msgstr ""
+msgstr "Priorità a prestazioni, accessibilità e a un’esperienza utente incentrata sui gesti per iPhone e iPad."
 
 #: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:47
 msgid "View iOS roadmap"
-msgstr ""
+msgstr "Visualizza la roadmap per iOS"
 
 #: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:54
 msgid "Services"
@@ -390,7 +392,7 @@ msgstr "Servizi"
 
 #: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:57
 msgid "Follow the services roadmap to learn what's coming up next for Thunderbird Pro, Websites and Infrastructure projects."
-msgstr ""
+msgstr "Consulta la roadmap dei servizi per scoprire le novità in arrivo per progetti come Thunderbird Pro, siti web e infrastruttura."
 
 #: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:62
 msgid "View services roadmap"
@@ -463,18 +465,20 @@ msgstr "Roadmap per iOS"
 #: sites/roadmaps.thunderbird.net/ios/index.html:5
 msgid "Thunderbird for iOS. Follow the roadmap from active work to future ideas. Timelines may shift as we learn and iterate."
 msgstr ""
+"Segui la roadmap di Thunderbird per iOS, dai progetti attualmente in sviluppo fino alle idee per il futuro. Tieni conto che le tempistiche potrebbero cambiare man mano che ci avviciniamo agli "
+"obiettivi."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:7
 msgid "Download TestFlight app"
-msgstr ""
+msgstr "Scarica l’app TestFlight"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:11
 msgid "iOS Create Protocol, Database, &amp; Framework"
-msgstr ""
+msgstr "Sviluppo di protocolli, database e framework per iOS"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:11
 msgid "Implement the IMAP protocol first as it's the most widespread protocol currently in use."
-msgstr ""
+msgstr "Implementazione del protocollo IMAP come priorità iniziale, in quanto è attualmente il protocollo più diffuso."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:12
 msgid "Full Email Writing and Reading Experience"
@@ -483,14 +487,15 @@ msgstr "Esperienza completa di scrittura e lettura email"
 #: sites/roadmaps.thunderbird.net/ios/index.html:12
 msgid "Implement the full reading and writing email experience on mobile, including initial support for encrypted messages (OpenPGP and S/MIME with existing libraries)."
 msgstr ""
+"Implementazione dell’esperienza completa di lettura e scrittura delle email su dispositivi mobili, incluso il supporto iniziale ai messaggi crittati (OpenPGP e S/MIME tramite librerie esistenti)."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:16
 msgid "JMAP Support"
-msgstr ""
+msgstr "Supporto JMAP"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:16
 msgid "Support the JMAP protocol as one of the first extra protocols we ship with by default outside of IMAP."
-msgstr ""
+msgstr "Supporto al protocollo JMAP come uno dei primi protocolli aggiuntivi forniti per impostazione predefinita oltre a IMAP."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:20
 msgid "Account Creation Flow"
@@ -498,7 +503,7 @@ msgstr "Flusso di creazione account"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:20
 msgid "Implement a full automated and manual setup, including autodiscovery and OAuth."
-msgstr ""
+msgstr "Implementazione della configurazione completamente automatizzata e manuale, con rilevamento automatico e supporto OAuth."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:21
 msgid "Architecture"
@@ -509,6 +514,8 @@ msgid ""
 "Establish a robust and scalable architecture to begin the Thunderbird for iOS project and create the backend. This architecture will include strategies for code sharing across platforms, taking into"
 " account the Android and Desktop clients."
 msgstr ""
+"Definizione di un’architettura solida e scalabile per l’avvio del progetto Thunderbird per iOS e la creazione del backend, con strategie di condivisione del codice tra piattaforme e supporto ai "
+"client Android e desktop."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:22
 msgid "Autoconfiguration"
