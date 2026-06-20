@@ -621,6 +621,8 @@ msgid ""
 "The spam filtering was very aggressive, causing many emails to unintentionally land in the spam folder. The filtering mechanism has been changed to significantly improve this behavior. A big thank "
 "you to Mauro and team from Stalwart, who have made the spam detection algorithm more sophisticated and accurate!"
 msgstr ""
+"A levélszemétszűrés túl szigorú volt, ezért sok e-mail véletlenül a levélszemétmappába került. Módosítottunk a szűrőmechanizmusokon, hogy jelentősen javítsunk ezen a viselkedésen. Nagy köszönet "
+"Maurónak és a Stalwart csapatának, akik kifinomultabbá és pontosabbá tették a levélszemét-felismerő algoritmust!"
 
 #: sites/start.thunderbird.net/beta/index.html:13 sites/start.thunderbird.net/daily/index.html:8
 msgid "Sharing Freedom – Thunderbird"
@@ -1379,29 +1381,29 @@ msgstr "Havi kiadások felfedezése"
 #: sites/updates.thunderbird.net/thunderbird/153.0/jun26-1a/index.html:23 sites/updates.thunderbird.net/thunderbird/153.0/jun26-1a/index.html:30
 #, python-format
 msgid "Only 3% of users keep Thunderbird alive"
-msgstr ""
+msgstr "Csak a felhasználók 3%-a segít a Thunderbird életben tartásában"
 
 #: sites/updates.thunderbird.net/thunderbird/153.0/jun26-1a/index.html:31
 #, python-format
 msgid "<span>Only 3% of users</span> keep Thunderbird alive"
-msgstr ""
+msgstr "<span>Csak a felhasználók 3%-a</span> segít a Thunderbird életben tartásában"
 
 #: sites/updates.thunderbird.net/thunderbird/153.0/jun26-1a/index.html:49
 msgid "Every update, every fix and every new feature of this latest Thunderbird release <strong>exists thanks to the users who chose to support it.</strong>"
-msgstr ""
+msgstr "A legújabb Thunderbird kiadás minden frissítése, javítása és minden új funkciója <strong>a felhasználók támogatásának köszönhetően létezik.</strong>"
 
 #: sites/updates.thunderbird.net/thunderbird/153.0/jun26-1a/index.html:52
 msgid "No ads, no corporate funding, no strings."
-msgstr ""
+msgstr "Nincsenek hirdetések, nincs vállalati finanszírozás, nincsenek függőségek."
 
 #: sites/updates.thunderbird.net/thunderbird/153.0/jun26-1a/index.html:55
 msgid "We can't do this without you. If you get value from Thunderbird, please help keep it going."
-msgstr ""
+msgstr "Ezt nem tudjuk Ön nélkül megtenni. Ha értékes Önnek a Thunderbird, akkor segítsen az életben tartásában."
 
 #: sites/updates.thunderbird.net/thunderbird/153.0/jun26-1b/index.html:10 sites/updates.thunderbird.net/thunderbird/153.0/jun26-1b/index.html:13
 #: sites/updates.thunderbird.net/thunderbird/153.0/jun26-1b/index.html:14
 msgid "Keep Thunderbird alive"
-msgstr ""
+msgstr "Tartsa életben a Thunderbirdöt"
 
 #: sites/updates.thunderbird.net/thunderbird/about/rights/index.html:14 sites/updates.thunderbird.net/thunderbird/about/rights/index.html:41
 msgid "About Your Rights"
@@ -1979,6 +1981,8 @@ msgid ""
 "Thunderbird operates in a separate, for-profit subsidiary of the not-for-profit Mozilla.org. This structure gives us the flexibility to offer optional paid services to sustain Thunderbird’s "
 "development far into the future."
 msgstr ""
+"A Thunderbird a nonprofit Mozilla.org különálló, profitorientált leányvállalataként működik. Ez a szerkezet rugalmasságot biztosít számunkra a választható fizetős szolgáltatások nyújtásában, hogy "
+"fenntarthassuk a Thunderbird fejlesztését a távoli jövőben is."
 
 #: sites/www.thunderbird.net/about/index.html:156
 msgid "We have a growing team of talented employees who develop and maintain Thunderbird, collaborate with our community and partners, and work to deliver Thunderbird to users around the world."
@@ -2016,7 +2020,7 @@ msgstr "Senior UX mérnök, Asztali alkalmazás"
 
 #: sites/www.thunderbird.net/about/index.html:173
 msgid "Staff Designer"
-msgstr ""
+msgstr "Vezető dizájner"
 
 #: sites/www.thunderbird.net/about/index.html:174
 msgid "Principal Engineer"
@@ -2904,7 +2908,7 @@ msgstr "Mi a Thunderbird kapcsolata az MZLA Technologies Corporation vállalatta
 
 #: sites/www.thunderbird.net/includes/faq.html:232
 msgid "MZLA Technologies Corporation is a wholly owned for-profit subsidiary of the not-for-profit Mozilla.org and the home of Thunderbird."
-msgstr ""
+msgstr "Az MZLA Technologies Corporation a nonprofit Mozilla.org kizárólagos tulajdonú profitorientált leányvállalata, és a Thunderbird otthona."
 
 #: sites/www.thunderbird.net/includes/faq.html:240
 msgid "Doesn’t Thunderbird earn income?"
@@ -4080,6 +4084,12 @@ msgid ""
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
+"A Thunderbird az\n"
+"      <a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a> része,\n"
+"      amely a nonprofit Mozilla.org kizárólagos tulajdonú leányvállalata.\n"
+"      A tartalom egyes részeire a következő vonatkozik: ©1998–%(current_year)s egyéni közreműködők\n"
+"      A tartalom\n"
+"      <a href=\"%(url)s\" class=\"inline-link\">Creative Commons licenc</a> alatt érhető el."
 
 #: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:384 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:460
 #: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:307 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:326
