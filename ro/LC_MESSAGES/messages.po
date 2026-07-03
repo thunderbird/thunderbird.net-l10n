@@ -376,7 +376,7 @@ msgstr "iOS"
 
 #: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:42
 msgid "Priorities for performance, accessibility, and a gesture-first mobile UX on iPhone and iPad."
-msgstr ""
+msgstr "Priorități pentru performanță, accesibilitate și o experiență prin gesturi pe iPhone și iPad."
 
 #: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:47
 msgid "View iOS roadmap"
@@ -472,15 +472,16 @@ msgstr "Creare de protocoale, baze de date și cadru pentru iOS"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:11
 msgid "Implement the IMAP protocol first as it's the most widespread protocol currently in use."
-msgstr ""
+msgstr "Implementează mai întâi protocolul IMAP ca cel mai larg utilizat protocol utilizat în prezent."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:12
 msgid "Full Email Writing and Reading Experience"
-msgstr ""
+msgstr "Experiență completă de scriere și citire a mesajelor pe e-mail"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:12
 msgid "Implement the full reading and writing email experience on mobile, including initial support for encrypted messages (OpenPGP and S/MIME with existing libraries)."
 msgstr ""
+"Implementează experiența completă de scriere și citire a mesajelor de e-mail pe dispozitive mobile, inclusiv suportul inițial pentru mesaje criptate (OpenPGP și S/MIME cu bibliotecile existente)."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:16
 msgid "JMAP Support"
@@ -488,15 +489,15 @@ msgstr "Suport JMAP"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:16
 msgid "Support the JMAP protocol as one of the first extra protocols we ship with by default outside of IMAP."
-msgstr ""
+msgstr "Susține protocolul JMAP ca unul dintre primele protocoale extra pe care le furnizăm implicit în afara IMAP."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:20
 msgid "Account Creation Flow"
-msgstr ""
+msgstr "Flux de creare a contului"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:20
 msgid "Implement a full automated and manual setup, including autodiscovery and OAuth."
-msgstr ""
+msgstr "Implementează o configurare complet automată și manuală, inclusiv descoperire automată și OAuth."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:21
 msgid "Architecture"
@@ -507,6 +508,8 @@ msgid ""
 "Establish a robust and scalable architecture to begin the Thunderbird for iOS project and create the backend. This architecture will include strategies for code sharing across platforms, taking into"
 " account the Android and Desktop clients."
 msgstr ""
+"Stabilește o arhitectură robustă și scalabilă pentru demararea proiectului Thunderbird pentru iOS și creează backendul. Această arhitectură va include strategii de partajare de coduri pe mai multe "
+"platforme, luând în calcul clienții Android și Desktop."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:22
 msgid "Autoconfiguration"
@@ -515,6 +518,8 @@ msgstr "Autoconfigurare"
 #: sites/roadmaps.thunderbird.net/ios/index.html:22
 msgid "Add DNS MX lookup to autoconfig feature library and move SRV record lookup into autoconfig feature library and delete Autodiscover core library"
 msgstr ""
+"Adaugă căutarea DNS MX la biblioteca de funcționalități de autoconfigurare și mută căutarea de înregistrări SRV în biblioteca de funcționalități de autoconfigurare și șterge biblioteca principală "
+"Autodiscover"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:22
 msgid "September 2025"
@@ -526,7 +531,7 @@ msgstr "Foaie de parcurs pentru servicii"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:5
 msgid "Thunderbird Pro Services and Infrastructure Support. Follow the roadmap from active work to future ideas. Timelines may change as we learn and iterate."
-msgstr ""
+msgstr "Suport pentru serviciile și infrastructura Thunderbird Pro. Urmează foaia de parcurs de la lucrările curente la ideile viitoare. Cronologia se poate modifica pe măsură ce învățăm și iterăm."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:6
 msgid "Last updated March 19, 2026"
@@ -538,21 +543,25 @@ msgstr "Trimite-ți ideile pentru Thunderbird Pro"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:11
 msgid "Send UI Completion"
-msgstr ""
+msgstr "Finalizare interfață de utilizator Send"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:11
 msgid ""
 "Send was the one product we haven't been able to complete UI overhaul work. We don't need to block the rollout for this, but we should work on this to keep it up to par with the other products and "
 "create consistency."
 msgstr ""
+"Send a fost singurul produs pentru care nu am putut finaliza lucrările de revizuire a interfeței pentru utilizator. Nu trebuie să blocăm lansarea din această cauză, dar trebui să lucrăm pentru a-l "
+"menține la același nivel cu celelalte produse și să asigurăm coerența."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:12
 msgid "Integrate Thunderbird Appointment into Pro add-on"
-msgstr ""
+msgstr "Integrează Thunderbird Appointment în suplimentul Pro"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:12
 msgid "As a Pro user, you want to be able to quickly copy your scheduling link when in Thunderbird. Integrate so it can be inserted into emails, or easily copied from the main toolbar."
 msgstr ""
+"Ca utilizator Pro, vrei să poți să îți copiezi rapid linkul de programare când ești în Thunderbird. Integrează ca să fie inserat în mesaje pe e-mail sau să poată fi copiat ușor din bara de "
+"instrumente principală."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:16
 msgid "Active Sessions"
@@ -560,7 +569,7 @@ msgstr "Sesiuni active"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:16
 msgid "Give the user a view on their active sessions and allow them to end the session."
-msgstr ""
+msgstr "Dă utilizatorului o imagine a sesiunilor active și îi permite să încheie o sesiune."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:17
 msgid "MFA Support"
@@ -579,10 +588,12 @@ msgid ""
 "No doubt the community will have a bunch of great ideas on https://ideas.tb.pro that we can build on. We're making sure we have time to work on one of the top community suggestions that will fit "
 "well into the Thunderbird Pro ecosystem."
 msgstr ""
+"Fără îndoială că comunitatea va avea o mulțime de idei grozave pe https://ideas.tb.pro pe care putem construi mai departe. Ne asigurăm că avem timpul necesar să lucrăm pe una dintre sugestiile de "
+"top din comunitate, care să se potrivească bine în ecosistemul Thunderbird Pro."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:19
 msgid "Improve Pro Add-on Integration"
-msgstr ""
+msgstr "Îmbunătățește integrarea suplimentului Pro"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:19
 msgid ""
