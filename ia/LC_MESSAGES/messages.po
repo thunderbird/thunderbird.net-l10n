@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-08-02 15:12-0400\n"
 "Language: ia\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
@@ -30,8 +32,8 @@ msgid "Thunderbird for Android. Follow the roadmap from active work to to future
 msgstr "Thunderbird pro Android. Seque le plano de action ab le labor active al ideas pro le futuro. Le chronogrammas pote cambiar a mesura que nos apprende e itera."
 
 #: sites/roadmaps.thunderbird.net/android/index.html:6 sites/roadmaps.thunderbird.net/desktop/index.html:6 sites/roadmaps.thunderbird.net/ios/index.html:6
-msgid "Last updated March 31, 2026"
-msgstr "Actualisate le ultime vice le 31 de martio, 2026"
+msgid "Last updated July 23, 2026"
+msgstr ""
 
 #: sites/roadmaps.thunderbird.net/android/index.html:7
 msgid "Download Thunderbird for Android"
@@ -53,16 +55,14 @@ msgstr ""
 "veloce e plus facile."
 
 #: sites/roadmaps.thunderbird.net/android/index.html:12
-msgid "Message View Improvements"
-msgstr "Meliorationes del visualisation de message"
+msgid "Notifications &amp; Synchronization"
+msgstr ""
 
 #: sites/roadmaps.thunderbird.net/android/index.html:12
-msgid "Modernize the message view to address the most glaring issues like attachment handling, message loading, zoom, remove images, and so on. Making the experience comparable to the competition."
+msgid "Broken out from the rearchitecture program to prioritize this specific effort, because many of the low ratings are because of this and we are listening to what our community wants."
 msgstr ""
-"Modernisa le visualisation de messages pro solver le plus evidente problemas como gestion del annexos, cargamento del messages, aggrandimento, remotion del imagines, etc.. Rendente le experientia "
-"comparabile al competition."
 
-#: sites/roadmaps.thunderbird.net/android/index.html:14 sites/roadmaps.thunderbird.net/desktop/index.html:15 sites/roadmaps.thunderbird.net/ios/index.html:14
+#: sites/roadmaps.thunderbird.net/android/index.html:14 sites/roadmaps.thunderbird.net/desktop/index.html:18 sites/roadmaps.thunderbird.net/ios/index.html:14
 #: sites/roadmaps.thunderbird.net/services/index.html:14
 msgid "Planned"
 msgstr "Planate"
@@ -87,22 +87,55 @@ msgstr "Exploration del assistentia a JMAP"
 msgid "Exploring JMAP integration, learning what it means to add a new protocol on Android, and ensuring future proofing against proprietary protocols."
 msgstr "Explora le integration de JMAP, apprende que significa adder un nove protocollo sur Android, e garanti le compatibilitate futur erga protocollos proprietari."
 
-#: sites/roadmaps.thunderbird.net/android/index.html:19 sites/roadmaps.thunderbird.net/desktop/index.html:21 sites/roadmaps.thunderbird.net/ios/index.html:18
+#: sites/roadmaps.thunderbird.net/android/index.html:18
+msgid "Message View Improvements - Phase 2"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/android/index.html:18
+msgid "Modernize the message view to address the most glaring issues like attachment handling, message loading, zoom, remove images, and so on. Making the experience comparable to the competition."
+msgstr ""
+"Modernisa le visualisation de messages pro solver le plus evidente problemas como gestion del annexos, cargamento del messages, aggrandimento, remotion del imagines, etc.. Rendente le experientia "
+"comparabile al competition."
+
+#: sites/roadmaps.thunderbird.net/android/index.html:20 sites/roadmaps.thunderbird.net/desktop/index.html:22 sites/roadmaps.thunderbird.net/ios/index.html:19
 #: sites/roadmaps.thunderbird.net/services/index.html:23
 msgid "Shipped"
 msgstr "Expedite"
 
-#: sites/roadmaps.thunderbird.net/android/index.html:21
+#: sites/roadmaps.thunderbird.net/android/index.html:22
 msgid "CASA Approval"
 msgstr "Approbation CASA"
 
-#: sites/roadmaps.thunderbird.net/android/index.html:21
+#: sites/roadmaps.thunderbird.net/android/index.html:22
 msgid "Complete the Cloud Application Security Assessment (CASA)"
 msgstr "Completar le Evalutation del securitate del application de nube (Cloud Application Security Assessment - CASA)"
 
-#: sites/roadmaps.thunderbird.net/android/index.html:21
+#: sites/roadmaps.thunderbird.net/android/index.html:22
 msgid "March 2025"
 msgstr "Martio 2025"
+
+#: sites/roadmaps.thunderbird.net/android/index.html:23
+msgid "Thundermail Integration - QR Code Login"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/android/index.html:23
+msgid "Added and prioritized due to the Thundermail release. Implemented one-click OAuth on the first screen and implemented QR code scanning for Thundermail (from web) for easy account setup."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/android/index.html:23 sites/roadmaps.thunderbird.net/android/index.html:24 sites/roadmaps.thunderbird.net/desktop/index.html:30
+#: sites/roadmaps.thunderbird.net/desktop/index.html:31 sites/roadmaps.thunderbird.net/ios/index.html:24
+msgid "June 2026"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/android/index.html:24
+msgid "Message View Improvements - Phase 1"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/android/index.html:24
+msgid ""
+"We added a message header indicator as well as an attachment button. Now attachments are shown in-line as well as at the bottom of the message. We also improved text rendering and tackled the worst "
+"HTML and CSS rendering bug reports, to mitigate the most glaring issues."
+msgstr ""
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:4
 msgid "Desktop Roadmap"
@@ -140,100 +173,130 @@ msgstr "Meliora e extende le APIs de additivos existente"
 msgid "Improve the currently available APIs, focus on giving access to new sections and core features, as well as introducing new APIs for specific sections."
 msgstr "Meliora le APIs actualmente disponibile, prestante attention a dar accesso a nove sectiones e functionalitates essential, e introducente nove APIs pro sectiones specific."
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:17
-msgid "Calendar Dialogs UI/UX"
-msgstr "UI/UX del fenestras de dialogo del agenda"
-
-#: sites/roadmaps.thunderbird.net/desktop/index.html:17
-msgid "Complete the refresh of the calendar interface and user experience. Some protocols handling changes might be needed."
-msgstr "Completa le actualisation del interfacie del agenda e del experientia de usator. Alcun modificationes de gestion de protocollos poterea esser necessari."
-
-#: sites/roadmaps.thunderbird.net/desktop/index.html:18
-msgid "Settings Interface Improvements"
-msgstr "Meliorationes del interfacie del configurationes"
-
-#: sites/roadmaps.thunderbird.net/desktop/index.html:18
-msgid "Clean up and reorganize the settings into more discoverable sections and improve its search."
-msgstr "Netta e reorganisa le configurationes in sectiones plus detectabile e meliora su recerca."
-
-#: sites/roadmaps.thunderbird.net/desktop/index.html:19
+#: sites/roadmaps.thunderbird.net/desktop/index.html:14
 msgid "Encryption and Security Improvements"
 msgstr "Meliorationes del cryptation e de securitate"
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:19
-msgid "Improve the support and discovery of OpenPGP and S/MIME, improve email tracking protection, and harden phishing email prevention."
-msgstr "Meliora le assistentia e le discoperta de OpenPGP e S/MIMAR, meliora le protection antitraciamento del e-mails, e consolida le prevention contra le e-mail fraudulente."
+#: sites/roadmaps.thunderbird.net/desktop/index.html:14
+msgid ""
+"Improve the support and discovery of OpenPGP and S/MIME, improve email tracking protection, and harden phishing email prevention. These will continue all year as we respond to high priority "
+"vulnerabilities, upstream changes, AI-powered sec reports and regressions. (Ongoing maintenance)"
+msgstr ""
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:23
+#: sites/roadmaps.thunderbird.net/desktop/index.html:15
+msgid "Settings Interface Improvements"
+msgstr "Meliorationes del interfacie del configurationes"
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:15
+msgid "Clean up and reorganize the settings into more discoverable sections and improve its search. User survey will heavily influence the end result."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:16
+msgid "Calendar Dialogs UI/UX"
+msgstr "UI/UX del fenestras de dialogo del agenda"
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:16
+msgid "Complete the refresh of the calendar interface and user experience. Some protocols handling changes might be needed."
+msgstr "Completa le actualisation del interfacie del agenda e del experientia de usator. Alcun modificationes de gestion de protocollos poterea esser necessari."
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:20
+msgid "OAuth2 Enhancements"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:20
+msgid ""
+"OAuth became a significant initiative due to evolving provider authentication requirements (including PKCE adoption), browser-based authentication improvements, and the need to deliver a seamless "
+"Thundermail sign-in experience."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:24
 msgid "First Time User Experience: Account Hub"
 msgstr "Experientia de nove usator: centro de conto"
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:23
+#: sites/roadmaps.thunderbird.net/desktop/index.html:24
 msgid "Complete Account Hub for all account creations, enable it for first time users."
 msgstr "Completa centro de conto pro tote le creationes de conto, lo activa pro le nove usatores."
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:23 sites/roadmaps.thunderbird.net/desktop/index.html:24 sites/roadmaps.thunderbird.net/ios/index.html:20
+#: sites/roadmaps.thunderbird.net/desktop/index.html:24 sites/roadmaps.thunderbird.net/desktop/index.html:25 sites/roadmaps.thunderbird.net/ios/index.html:23
 #: sites/roadmaps.thunderbird.net/services/index.html:25
 msgid "March 2026"
 msgstr "Martio 2026"
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:24
+#: sites/roadmaps.thunderbird.net/desktop/index.html:25
 msgid "Unobtrusive Signatures"
 msgstr "Firmas discrete"
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:24
+#: sites/roadmaps.thunderbird.net/desktop/index.html:25
 msgid "This was part of the larger “Encryption and Security Improvements” initiative and has been completed to reduce confusion around OpenPGP signatures."
 msgstr "Isto era parte del major initiativa: “Meliorationes del cryptation e de securitate”, e ha essite completate pro reducer le confusion circum le firmas OpenPGP."
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:25
+#: sites/roadmaps.thunderbird.net/desktop/index.html:26
 msgid "Exchange Email Support"
 msgstr "Assistentia pro le e-mail de Exchange"
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:25
+#: sites/roadmaps.thunderbird.net/desktop/index.html:26
 msgid "Full support of email operations and account creation."
 msgstr "Supporto plen del operationes de e-mail e de creation de conto."
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:25
+#: sites/roadmaps.thunderbird.net/desktop/index.html:26
 msgid "November 2025"
 msgstr "Novembre 2025"
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:26 sites/updates.thunderbird.net/thunderbird/140.0/whatsnew/index.html:79
+#: sites/roadmaps.thunderbird.net/desktop/index.html:27 sites/updates.thunderbird.net/thunderbird/140.0/whatsnew/index.html:79
 msgid "Native OS Notifications"
 msgstr "Avisos native de systema operative"
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:26
+#: sites/roadmaps.thunderbird.net/desktop/index.html:27
 msgid "Add quick actions to reply, delete, mark messages as read/unread, and manage the notifications."
 msgstr "Adde actiones rapide pro responder, deler, marcar messages como legite/non legite, e gerer le avisos."
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:26 sites/roadmaps.thunderbird.net/ios/index.html:21
+#: sites/roadmaps.thunderbird.net/desktop/index.html:27 sites/roadmaps.thunderbird.net/ios/index.html:21
 msgid "July 2025"
 msgstr "Julio 2025"
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:27
+#: sites/roadmaps.thunderbird.net/desktop/index.html:28
 msgid "Implement Glean Telemetry"
 msgstr "Implementar Telemetria Glea"
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:27
+#: sites/roadmaps.thunderbird.net/desktop/index.html:28
 msgid "Move away from the old telemetry implementation and add the new Glean Telemetry."
 msgstr "Move foras del vetere implementation del telemetria e adder le nove Telemetria Glean."
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:27
+#: sites/roadmaps.thunderbird.net/desktop/index.html:28
 msgid "April 2025"
 msgstr "April 2025"
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:28
+#: sites/roadmaps.thunderbird.net/desktop/index.html:29
 msgid "In-App Notifications"
 msgstr "Avisos in-app"
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:28
+#: sites/roadmaps.thunderbird.net/desktop/index.html:29
 msgid "Implement a new notification system that allows the Thunderbird team to push important, time-sensitive information directly to a user's Thunderbird desktop client."
 msgstr ""
 "Implementa un nove systema de aviso que permitte al equipa de Thunderbird de pulsar informationes importante, sensibile al tempore directemente al Thunderbird de un usator pro application cliente de"
 " scriptorio."
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:28
+#: sites/roadmaps.thunderbird.net/desktop/index.html:29
 msgid "May 2025"
 msgstr "Maio 2025"
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:30
+msgid "First Time User Experience"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:30
+msgid ""
+"We had to refocus on the email onboarding section of the Account Hub due to Exchange, Graph, and Thundermail release. User feedback &amp; telemetry data points at a large percentage of manual config"
+" usage, and the new protocols come with very complex manual user flows. First introduction of a 1-click setup OAuth for Thundermail."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:31
+msgid "System add-on integration"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:31
+msgid "Allowing to ship ad-hoc features faster for objectives that supersede the release train. This will be in 153!"
+msgstr ""
 
 #: sites/roadmaps.thunderbird.net/includes/base/base.html:12 sites/updates.thunderbird.net/includes/base/base.html:1 sites/www.thunderbird.net/includes/base/base.html:15
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
@@ -469,36 +532,39 @@ msgid "Download TestFlight app"
 msgstr "Discargar le application TestFlight"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:11
-msgid "iOS Create Protocol, Database, &amp; Framework"
-msgstr "iOS crea protocollo, base de datos, &amp; pannello"
-
-#: sites/roadmaps.thunderbird.net/ios/index.html:11
-msgid "Implement the IMAP protocol first as it's the most widespread protocol currently in use."
-msgstr "Implementa le protocollo IMAP primo pois que illo es le plus extense protocollo actualmente in uso."
-
-#: sites/roadmaps.thunderbird.net/ios/index.html:12
 msgid "Full Email Writing and Reading Experience"
 msgstr "Plen experientia con le lectura e le scriptura del e-mails"
 
+#: sites/roadmaps.thunderbird.net/ios/index.html:11
+msgid ""
+"Implement the full reading and writing email experience on mobile, including initial support for encrypted messages (OpenPGP and S/MIME with existing libraries). WYSIWYG is now wrapping up. The next"
+" piece is to connect the protocol and database to render email."
+msgstr ""
+
 #: sites/roadmaps.thunderbird.net/ios/index.html:12
-msgid "Implement the full reading and writing email experience on mobile, including initial support for encrypted messages (OpenPGP and S/MIME with existing libraries)."
-msgstr "Implementa le plen experientia de scriptura e lectura con le e-mails sur mobile, incluse assistentia initial pro messages cryptate (OpenPGP e S/MIMAR con bibliothecas existente)."
+msgid "JMAP Support - Exploration"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/ios/index.html:12
+#, python-format
+msgid "Already 80% finished. The intention is to implement the full protocol with all the basic infrastructure in place."
+msgstr ""
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:16
-msgid "JMAP Support"
-msgstr "Assistentia pro JMAP"
+msgid "JMAP Support - Complete Implementation"
+msgstr ""
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:16
-msgid "Support the JMAP protocol as one of the first extra protocols we ship with by default outside of IMAP."
-msgstr "Supporta le protocollo JMAP como un del prime protocollos extra que nos expedi con de ordinario foras de IMAP."
+msgid "Support the JMAP protocol as one of the first extra protocols we ship with by default outside of IMAP. Currently we are prioritizing IMAP and a first user release."
+msgstr ""
 
-#: sites/roadmaps.thunderbird.net/ios/index.html:20
-msgid "Account Creation Flow"
-msgstr "Fluxo de creation del conto"
+#: sites/roadmaps.thunderbird.net/ios/index.html:17
+msgid "Database"
+msgstr ""
 
-#: sites/roadmaps.thunderbird.net/ios/index.html:20
-msgid "Implement a full automated and manual setup, including autodiscovery and OAuth."
-msgstr "Implementa un installation plen automatisate e manual, incluse auto-discoperta e OAuth."
+#: sites/roadmaps.thunderbird.net/ios/index.html:17
+msgid "We’re changing how we cache the email to be able to consume the UI faster, and moving the database work for after the first version is out to the users."
+msgstr ""
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:21
 msgid "Architecture"
@@ -525,6 +591,22 @@ msgstr ""
 #: sites/roadmaps.thunderbird.net/ios/index.html:22
 msgid "September 2025"
 msgstr "Septembre 2025"
+
+#: sites/roadmaps.thunderbird.net/ios/index.html:23
+msgid "Account Creation Flow"
+msgstr "Fluxo de creation del conto"
+
+#: sites/roadmaps.thunderbird.net/ios/index.html:23
+msgid "Implement a full automated and manual setup, including autodiscovery and OAuth."
+msgstr "Implementa un installation plen automatisate e manual, incluse auto-discoperta e OAuth."
+
+#: sites/roadmaps.thunderbird.net/ios/index.html:24
+msgid "iOS Create Protocol &amp; Framework"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/ios/index.html:24
+msgid "Implement the IMAP protocol first as it's the most widespread protocol currently in use. We completed the protocol work and basic framework."
+msgstr ""
 
 #: sites/roadmaps.thunderbird.net/services/index.html:4
 msgid "Services Roadmap"
@@ -2093,7 +2175,7 @@ msgstr "Ingeniero principal"
 msgid "Senior FP&A Analyst"
 msgstr "Analysta FP&A senior"
 
-#: sites/www.thunderbird.net/about/index.html:176 sites/www.thunderbird.net/about/index.html:196 sites/www.thunderbird.net/about/index.html:200
+#: sites/www.thunderbird.net/about/index.html:176 sites/www.thunderbird.net/about/index.html:200
 msgid "Staff Software Engineer"
 msgstr "Ingeniero de software"
 
@@ -2111,8 +2193,8 @@ msgid "Marketing Manager"
 msgstr "Gestor de commercialisation"
 
 #: sites/www.thunderbird.net/about/index.html:182
-msgid "Manager, AI R&D"
-msgstr "Gestor de IA, recerca e disveloppamento"
+msgid "Head of Thunderbolt"
+msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:183
 msgid "Manager, Release Operations"
@@ -2157,6 +2239,10 @@ msgstr "Ingeniero de software, additivos de scriptorio"
 #: sites/www.thunderbird.net/about/index.html:195
 msgid "Manager, Mobile Apps"
 msgstr "Gestor, applicationes mobile"
+
+#: sites/www.thunderbird.net/about/index.html:196
+msgid "Staff Forward Deployed Engineer"
+msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:197 sites/www.thunderbird.net/about/index.html:226
 msgid "Software Engineer, Desktop"
@@ -5087,3 +5173,33 @@ msgstr "Fundo del scriptorio de Thunderbird"
 #: sites/www.thunderbird.net/thunderbird/wallpaper/index.html:17
 msgid "Thunderbird Desktop Wallpaer"
 msgstr "Fundo del scriptorio de Thunderbird"
+
+#~ msgid "Last updated March 31, 2026"
+#~ msgstr "Actualisate le ultime vice le 31 de martio, 2026"
+
+#~ msgid "Message View Improvements"
+#~ msgstr "Meliorationes del visualisation de message"
+
+#~ msgid "Clean up and reorganize the settings into more discoverable sections and improve its search."
+#~ msgstr "Netta e reorganisa le configurationes in sectiones plus detectabile e meliora su recerca."
+
+#~ msgid "Improve the support and discovery of OpenPGP and S/MIME, improve email tracking protection, and harden phishing email prevention."
+#~ msgstr "Meliora le assistentia e le discoperta de OpenPGP e S/MIMAR, meliora le protection antitraciamento del e-mails, e consolida le prevention contra le e-mail fraudulente."
+
+#~ msgid "iOS Create Protocol, Database, &amp; Framework"
+#~ msgstr "iOS crea protocollo, base de datos, &amp; pannello"
+
+#~ msgid "Implement the IMAP protocol first as it's the most widespread protocol currently in use."
+#~ msgstr "Implementa le protocollo IMAP primo pois que illo es le plus extense protocollo actualmente in uso."
+
+#~ msgid "Implement the full reading and writing email experience on mobile, including initial support for encrypted messages (OpenPGP and S/MIME with existing libraries)."
+#~ msgstr "Implementa le plen experientia de scriptura e lectura con le e-mails sur mobile, incluse assistentia initial pro messages cryptate (OpenPGP e S/MIMAR con bibliothecas existente)."
+
+#~ msgid "JMAP Support"
+#~ msgstr "Assistentia pro JMAP"
+
+#~ msgid "Support the JMAP protocol as one of the first extra protocols we ship with by default outside of IMAP."
+#~ msgstr "Supporta le protocollo JMAP como un del prime protocollos extra que nos expedi con de ordinario foras de IMAP."
+
+#~ msgid "Manager, AI R&D"
+#~ msgstr "Gestor de IA, recerca e disveloppamento"

@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-08-02 15:12-0400\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Pontoon\n"
@@ -31,8 +33,8 @@ msgstr ""
 "Thunderbird cho Android. Theo dõi lộ trình phát triển từ những công việc đang thực hiện đến những ý tưởng trong tương lai. Thời gian biểu có thể thay đổi khi chúng tôi tìm hiểu và cải tiến liên tục."
 
 #: sites/roadmaps.thunderbird.net/android/index.html:6 sites/roadmaps.thunderbird.net/desktop/index.html:6 sites/roadmaps.thunderbird.net/ios/index.html:6
-msgid "Last updated March 31, 2026"
-msgstr "Cập nhật lần cuối ngày 31 tháng 3 năm 2026"
+msgid "Last updated July 23, 2026"
+msgstr ""
 
 #: sites/roadmaps.thunderbird.net/android/index.html:7
 msgid "Download Thunderbird for Android"
@@ -52,16 +54,14 @@ msgid "Modernize the source code that we inherited from K9, tackle the most glar
 msgstr "Hiện đại hoá mã nguồn mà chúng tôi thừa hưởng từ K9, giải quyết các vấn đề bảo trì và ổn định nổi bật nhất, và tái cấu trúc kiến trúc cốt lõi để phát triển nhanh hơn và dễ dàng hơn."
 
 #: sites/roadmaps.thunderbird.net/android/index.html:12
-msgid "Message View Improvements"
-msgstr "Cải tiến giao diện hiển thị thư"
+msgid "Notifications &amp; Synchronization"
+msgstr ""
 
 #: sites/roadmaps.thunderbird.net/android/index.html:12
-msgid "Modernize the message view to address the most glaring issues like attachment handling, message loading, zoom, remove images, and so on. Making the experience comparable to the competition."
+msgid "Broken out from the rearchitecture program to prioritize this specific effort, because many of the low ratings are because of this and we are listening to what our community wants."
 msgstr ""
-"Hiện đại hoá giao diện xem thư để giải quyết các vấn đề nổi cộm nhất như xử lý tập tin đính kèm, tốc độ tải thư, phóng to thu nhỏ, xoá hình ảnh, v.v. giúp trải nghiệm người dùng sánh ngang với các "
-"đối thủ cạnh tranh."
 
-#: sites/roadmaps.thunderbird.net/android/index.html:14 sites/roadmaps.thunderbird.net/desktop/index.html:15 sites/roadmaps.thunderbird.net/ios/index.html:14
+#: sites/roadmaps.thunderbird.net/android/index.html:14 sites/roadmaps.thunderbird.net/desktop/index.html:18 sites/roadmaps.thunderbird.net/ios/index.html:14
 #: sites/roadmaps.thunderbird.net/services/index.html:14
 msgid "Planned"
 msgstr "Đã lên kế hoạch"
@@ -86,22 +86,55 @@ msgstr "Khám phá hỗ trợ JMAP"
 msgid "Exploring JMAP integration, learning what it means to add a new protocol on Android, and ensuring future proofing against proprietary protocols."
 msgstr "Tìm hiểu về tích hợp JMAP, hiểu ý nghĩa của việc thêm một giao thức mới trên Android và đảm bảo khả năng tương thích với các giao thức độc quyền trong tương lai."
 
-#: sites/roadmaps.thunderbird.net/android/index.html:19 sites/roadmaps.thunderbird.net/desktop/index.html:21 sites/roadmaps.thunderbird.net/ios/index.html:18
+#: sites/roadmaps.thunderbird.net/android/index.html:18
+msgid "Message View Improvements - Phase 2"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/android/index.html:18
+msgid "Modernize the message view to address the most glaring issues like attachment handling, message loading, zoom, remove images, and so on. Making the experience comparable to the competition."
+msgstr ""
+"Hiện đại hoá giao diện xem thư để giải quyết các vấn đề nổi cộm nhất như xử lý tập tin đính kèm, tốc độ tải thư, phóng to thu nhỏ, xoá hình ảnh, v.v. giúp trải nghiệm người dùng sánh ngang với các "
+"đối thủ cạnh tranh."
+
+#: sites/roadmaps.thunderbird.net/android/index.html:20 sites/roadmaps.thunderbird.net/desktop/index.html:22 sites/roadmaps.thunderbird.net/ios/index.html:19
 #: sites/roadmaps.thunderbird.net/services/index.html:23
 msgid "Shipped"
 msgstr "Đã phát hành"
 
-#: sites/roadmaps.thunderbird.net/android/index.html:21
+#: sites/roadmaps.thunderbird.net/android/index.html:22
 msgid "CASA Approval"
 msgstr "Phê duyệt CASA"
 
-#: sites/roadmaps.thunderbird.net/android/index.html:21
+#: sites/roadmaps.thunderbird.net/android/index.html:22
 msgid "Complete the Cloud Application Security Assessment (CASA)"
 msgstr "Hoàn thành Cloud Application Security Assessment (CASA)"
 
-#: sites/roadmaps.thunderbird.net/android/index.html:21
+#: sites/roadmaps.thunderbird.net/android/index.html:22
 msgid "March 2025"
 msgstr "Tháng 3 năm 2025"
+
+#: sites/roadmaps.thunderbird.net/android/index.html:23
+msgid "Thundermail Integration - QR Code Login"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/android/index.html:23
+msgid "Added and prioritized due to the Thundermail release. Implemented one-click OAuth on the first screen and implemented QR code scanning for Thundermail (from web) for easy account setup."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/android/index.html:23 sites/roadmaps.thunderbird.net/android/index.html:24 sites/roadmaps.thunderbird.net/desktop/index.html:30
+#: sites/roadmaps.thunderbird.net/desktop/index.html:31 sites/roadmaps.thunderbird.net/ios/index.html:24
+msgid "June 2026"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/android/index.html:24
+msgid "Message View Improvements - Phase 1"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/android/index.html:24
+msgid ""
+"We added a message header indicator as well as an attachment button. Now attachments are shown in-line as well as at the bottom of the message. We also improved text rendering and tackled the worst "
+"HTML and CSS rendering bug reports, to mitigate the most glaring issues."
+msgstr ""
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:4
 msgid "Desktop Roadmap"
@@ -139,98 +172,128 @@ msgstr "Cải tiến và mở rộng các API tiện ích mở rộng hiện có
 msgid "Improve the currently available APIs, focus on giving access to new sections and core features, as well as introducing new APIs for specific sections."
 msgstr "Cải thiện các API hiện có, tập trung vào việc cung cấp quyền truy cập vào các phần mới và các tính năng cốt lõi, cũng như giới thiệu các API mới cho các phần cụ thể."
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:17
-msgid "Calendar Dialogs UI/UX"
-msgstr "Giao diện và trải nghiệm người dùng của hộp thoại lịch"
-
-#: sites/roadmaps.thunderbird.net/desktop/index.html:17
-msgid "Complete the refresh of the calendar interface and user experience. Some protocols handling changes might be needed."
-msgstr "Hoàn tất việc làm mới giao diện lịch và trải nghiệm người dùng. Một số giao thức xử lý thay đổi có thể cần được điều chỉnh."
-
-#: sites/roadmaps.thunderbird.net/desktop/index.html:18
-msgid "Settings Interface Improvements"
-msgstr "Cải tiến giao diện cài đặt"
-
-#: sites/roadmaps.thunderbird.net/desktop/index.html:18
-msgid "Clean up and reorganize the settings into more discoverable sections and improve its search."
-msgstr "Dọn dẹp và sắp xếp lại các cài đặt thành các mục dễ tìm kiếm hơn, đồng thời cải thiện chức năng tìm kiếm."
-
-#: sites/roadmaps.thunderbird.net/desktop/index.html:19
+#: sites/roadmaps.thunderbird.net/desktop/index.html:14
 msgid "Encryption and Security Improvements"
 msgstr "Cải tiến mã hoá và bảo mật"
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:19
-msgid "Improve the support and discovery of OpenPGP and S/MIME, improve email tracking protection, and harden phishing email prevention."
-msgstr "Cải thiện khả năng hỗ trợ và phát hiện OpenPGP và S/MIME, nâng cao khả năng bảo vệ chống theo dõi email và tăng cường phòng chống email lừa đảo."
+#: sites/roadmaps.thunderbird.net/desktop/index.html:14
+msgid ""
+"Improve the support and discovery of OpenPGP and S/MIME, improve email tracking protection, and harden phishing email prevention. These will continue all year as we respond to high priority "
+"vulnerabilities, upstream changes, AI-powered sec reports and regressions. (Ongoing maintenance)"
+msgstr ""
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:23
+#: sites/roadmaps.thunderbird.net/desktop/index.html:15
+msgid "Settings Interface Improvements"
+msgstr "Cải tiến giao diện cài đặt"
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:15
+msgid "Clean up and reorganize the settings into more discoverable sections and improve its search. User survey will heavily influence the end result."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:16
+msgid "Calendar Dialogs UI/UX"
+msgstr "Giao diện và trải nghiệm người dùng của hộp thoại lịch"
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:16
+msgid "Complete the refresh of the calendar interface and user experience. Some protocols handling changes might be needed."
+msgstr "Hoàn tất việc làm mới giao diện lịch và trải nghiệm người dùng. Một số giao thức xử lý thay đổi có thể cần được điều chỉnh."
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:20
+msgid "OAuth2 Enhancements"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:20
+msgid ""
+"OAuth became a significant initiative due to evolving provider authentication requirements (including PKCE adoption), browser-based authentication improvements, and the need to deliver a seamless "
+"Thundermail sign-in experience."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:24
 msgid "First Time User Experience: Account Hub"
 msgstr "Trải nghiệm người dùng lần đầu: Trung tâm tài khoản"
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:23
+#: sites/roadmaps.thunderbird.net/desktop/index.html:24
 msgid "Complete Account Hub for all account creations, enable it for first time users."
 msgstr "Trung tâm quản lý tài khoản hoàn chỉnh cho tất cả các lần tạo tài khoản, kích hoạt nó cho người dùng lần đầu."
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:23 sites/roadmaps.thunderbird.net/desktop/index.html:24 sites/roadmaps.thunderbird.net/ios/index.html:20
+#: sites/roadmaps.thunderbird.net/desktop/index.html:24 sites/roadmaps.thunderbird.net/desktop/index.html:25 sites/roadmaps.thunderbird.net/ios/index.html:23
 #: sites/roadmaps.thunderbird.net/services/index.html:25
 msgid "March 2026"
 msgstr "Tháng 3 năm 2026"
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:24
+#: sites/roadmaps.thunderbird.net/desktop/index.html:25
 msgid "Unobtrusive Signatures"
 msgstr "Chữ ký tinh giản"
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:24
+#: sites/roadmaps.thunderbird.net/desktop/index.html:25
 msgid "This was part of the larger “Encryption and Security Improvements” initiative and has been completed to reduce confusion around OpenPGP signatures."
 msgstr "Đây là một phần của sáng kiến lớn hơn mang tên “Cải tiến mã hóa và bảo mật” và đã được hoàn thành để giảm bớt sự nhầm lẫn xung quanh chữ ký OpenPGP."
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:25
+#: sites/roadmaps.thunderbird.net/desktop/index.html:26
 msgid "Exchange Email Support"
 msgstr "Hỗ trợ email Exchange"
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:25
+#: sites/roadmaps.thunderbird.net/desktop/index.html:26
 msgid "Full support of email operations and account creation."
 msgstr "Hỗ trợ đầy đủ các thao tác email và tạo tài khoản."
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:25
+#: sites/roadmaps.thunderbird.net/desktop/index.html:26
 msgid "November 2025"
 msgstr "Tháng 11 năm 2025"
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:26 sites/updates.thunderbird.net/thunderbird/140.0/whatsnew/index.html:79
+#: sites/roadmaps.thunderbird.net/desktop/index.html:27 sites/updates.thunderbird.net/thunderbird/140.0/whatsnew/index.html:79
 msgid "Native OS Notifications"
 msgstr "Thông báo native của hệ điều hành"
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:26
+#: sites/roadmaps.thunderbird.net/desktop/index.html:27
 msgid "Add quick actions to reply, delete, mark messages as read/unread, and manage the notifications."
 msgstr "Thêm các thao tác nhanh để trả lời, xóa, đánh dấu thư đã đọc/chưa đọc và quản lý thông báo."
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:26 sites/roadmaps.thunderbird.net/ios/index.html:21
+#: sites/roadmaps.thunderbird.net/desktop/index.html:27 sites/roadmaps.thunderbird.net/ios/index.html:21
 msgid "July 2025"
 msgstr "Tháng 7 năm 2025"
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:27
+#: sites/roadmaps.thunderbird.net/desktop/index.html:28
 msgid "Implement Glean Telemetry"
 msgstr "Triển khai hệ thống telemetry Glean"
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:27
+#: sites/roadmaps.thunderbird.net/desktop/index.html:28
 msgid "Move away from the old telemetry implementation and add the new Glean Telemetry."
 msgstr "Loại bỏ phương pháp telemetry cũ và thay thế bằng phương pháp telemetry mới Glean."
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:27
+#: sites/roadmaps.thunderbird.net/desktop/index.html:28
 msgid "April 2025"
 msgstr "Tháng 4 năm 2025"
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:28
+#: sites/roadmaps.thunderbird.net/desktop/index.html:29
 msgid "In-App Notifications"
 msgstr "Thông báo trong ứng dụng"
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:28
+#: sites/roadmaps.thunderbird.net/desktop/index.html:29
 msgid "Implement a new notification system that allows the Thunderbird team to push important, time-sensitive information directly to a user's Thunderbird desktop client."
 msgstr "Triển khai một hệ thống thông báo mới cho phép nhóm Thunderbird gửi thông tin quan trọng, cần xử lý gấp trực tiếp đến ứng dụng Thunderbird trên máy tính của người dùng."
 
-#: sites/roadmaps.thunderbird.net/desktop/index.html:28
+#: sites/roadmaps.thunderbird.net/desktop/index.html:29
 msgid "May 2025"
 msgstr "Tháng 5 năm 2025"
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:30
+msgid "First Time User Experience"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:30
+msgid ""
+"We had to refocus on the email onboarding section of the Account Hub due to Exchange, Graph, and Thundermail release. User feedback &amp; telemetry data points at a large percentage of manual config"
+" usage, and the new protocols come with very complex manual user flows. First introduction of a 1-click setup OAuth for Thundermail."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:31
+msgid "System add-on integration"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/desktop/index.html:31
+msgid "Allowing to ship ad-hoc features faster for objectives that supersede the release train. This will be in 153!"
+msgstr ""
 
 #: sites/roadmaps.thunderbird.net/includes/base/base.html:12 sites/updates.thunderbird.net/includes/base/base.html:1 sites/www.thunderbird.net/includes/base/base.html:15
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
@@ -466,36 +529,39 @@ msgid "Download TestFlight app"
 msgstr "Tải xuống ứng dụng TestFlight"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:11
-msgid "iOS Create Protocol, Database, &amp; Framework"
-msgstr "Khởi tạo giao thức, cơ sở dữ liệu &amp; framework trên iOS"
-
-#: sites/roadmaps.thunderbird.net/ios/index.html:11
-msgid "Implement the IMAP protocol first as it's the most widespread protocol currently in use."
-msgstr "Triển khai giao thức IMAP trước tiên vì đây là giao thức phổ biến nhất đang được sử dụng hiện nay."
-
-#: sites/roadmaps.thunderbird.net/ios/index.html:12
 msgid "Full Email Writing and Reading Experience"
 msgstr "Trải nghiệm viết và đọc email toàn diện"
 
+#: sites/roadmaps.thunderbird.net/ios/index.html:11
+msgid ""
+"Implement the full reading and writing email experience on mobile, including initial support for encrypted messages (OpenPGP and S/MIME with existing libraries). WYSIWYG is now wrapping up. The next"
+" piece is to connect the protocol and database to render email."
+msgstr ""
+
 #: sites/roadmaps.thunderbird.net/ios/index.html:12
-msgid "Implement the full reading and writing email experience on mobile, including initial support for encrypted messages (OpenPGP and S/MIME with existing libraries)."
-msgstr "Triển khai đầy đủ trải nghiệm đọc và viết email trên thiết bị di động, bao gồm hỗ trợ ban đầu cho thư mã hóa (OpenPGP và S/MIME với các thư viện hiện có)."
+msgid "JMAP Support - Exploration"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/ios/index.html:12
+#, python-format
+msgid "Already 80% finished. The intention is to implement the full protocol with all the basic infrastructure in place."
+msgstr ""
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:16
-msgid "JMAP Support"
-msgstr "Hỗ trợ JMAP"
+msgid "JMAP Support - Complete Implementation"
+msgstr ""
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:16
-msgid "Support the JMAP protocol as one of the first extra protocols we ship with by default outside of IMAP."
-msgstr "Hỗ trợ giao thức JMAP như một trong những giao thức bổ sung đầu tiên được tích hợp sẵn theo mặc định, bên cạnh IMAP."
+msgid "Support the JMAP protocol as one of the first extra protocols we ship with by default outside of IMAP. Currently we are prioritizing IMAP and a first user release."
+msgstr ""
 
-#: sites/roadmaps.thunderbird.net/ios/index.html:20
-msgid "Account Creation Flow"
-msgstr "Quy trình tạo tài khoản"
+#: sites/roadmaps.thunderbird.net/ios/index.html:17
+msgid "Database"
+msgstr ""
 
-#: sites/roadmaps.thunderbird.net/ios/index.html:20
-msgid "Implement a full automated and manual setup, including autodiscovery and OAuth."
-msgstr "Triển khai thiết lập hoàn toàn tự động và thủ công, bao gồm tự động phát hiện và xác thực OAuth."
+#: sites/roadmaps.thunderbird.net/ios/index.html:17
+msgid "We’re changing how we cache the email to be able to consume the UI faster, and moving the database work for after the first version is out to the users."
+msgstr ""
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:21
 msgid "Architecture"
@@ -520,6 +586,22 @@ msgstr "Thêm cơ chế tra cứu DNS MX vào thư viện tính năng autoconfig
 #: sites/roadmaps.thunderbird.net/ios/index.html:22
 msgid "September 2025"
 msgstr "Tháng 9 năm 2025"
+
+#: sites/roadmaps.thunderbird.net/ios/index.html:23
+msgid "Account Creation Flow"
+msgstr "Quy trình tạo tài khoản"
+
+#: sites/roadmaps.thunderbird.net/ios/index.html:23
+msgid "Implement a full automated and manual setup, including autodiscovery and OAuth."
+msgstr "Triển khai thiết lập hoàn toàn tự động và thủ công, bao gồm tự động phát hiện và xác thực OAuth."
+
+#: sites/roadmaps.thunderbird.net/ios/index.html:24
+msgid "iOS Create Protocol &amp; Framework"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/ios/index.html:24
+msgid "Implement the IMAP protocol first as it's the most widespread protocol currently in use. We completed the protocol work and basic framework."
+msgstr ""
 
 #: sites/roadmaps.thunderbird.net/services/index.html:4
 msgid "Services Roadmap"
@@ -2115,7 +2197,7 @@ msgstr "Kĩ sư chính"
 msgid "Senior FP&A Analyst"
 msgstr "Chuyên viên phân tích FP&A cấp cao"
 
-#: sites/www.thunderbird.net/about/index.html:176 sites/www.thunderbird.net/about/index.html:196 sites/www.thunderbird.net/about/index.html:200
+#: sites/www.thunderbird.net/about/index.html:176 sites/www.thunderbird.net/about/index.html:200
 msgid "Staff Software Engineer"
 msgstr "Kỹ sư phần mềm cấp cao"
 
@@ -2133,8 +2215,8 @@ msgid "Marketing Manager"
 msgstr "Giám đốc Marketing"
 
 #: sites/www.thunderbird.net/about/index.html:182
-msgid "Manager, AI R&D"
-msgstr "Manager, AI R&D"
+msgid "Head of Thunderbolt"
+msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:183
 msgid "Manager, Release Operations"
@@ -2179,6 +2261,10 @@ msgstr "Sr Software Engineer, Tiện ích mở rộng cho ứng dụng máy tín
 #: sites/www.thunderbird.net/about/index.html:195
 msgid "Manager, Mobile Apps"
 msgstr "Quản lý, Ứng dụng di động"
+
+#: sites/www.thunderbird.net/about/index.html:196
+msgid "Staff Forward Deployed Engineer"
+msgstr ""
 
 #: sites/www.thunderbird.net/about/index.html:197 sites/www.thunderbird.net/about/index.html:226
 msgid "Software Engineer, Desktop"
@@ -5112,3 +5198,33 @@ msgstr "Hình nền máy tính để bàn Thunderbird"
 #: sites/www.thunderbird.net/thunderbird/wallpaper/index.html:17
 msgid "Thunderbird Desktop Wallpaer"
 msgstr "Hình nền máy tính để bàn Thunderbird"
+
+#~ msgid "Last updated March 31, 2026"
+#~ msgstr "Cập nhật lần cuối ngày 31 tháng 3 năm 2026"
+
+#~ msgid "Message View Improvements"
+#~ msgstr "Cải tiến giao diện hiển thị thư"
+
+#~ msgid "Clean up and reorganize the settings into more discoverable sections and improve its search."
+#~ msgstr "Dọn dẹp và sắp xếp lại các cài đặt thành các mục dễ tìm kiếm hơn, đồng thời cải thiện chức năng tìm kiếm."
+
+#~ msgid "Improve the support and discovery of OpenPGP and S/MIME, improve email tracking protection, and harden phishing email prevention."
+#~ msgstr "Cải thiện khả năng hỗ trợ và phát hiện OpenPGP và S/MIME, nâng cao khả năng bảo vệ chống theo dõi email và tăng cường phòng chống email lừa đảo."
+
+#~ msgid "iOS Create Protocol, Database, &amp; Framework"
+#~ msgstr "Khởi tạo giao thức, cơ sở dữ liệu &amp; framework trên iOS"
+
+#~ msgid "Implement the IMAP protocol first as it's the most widespread protocol currently in use."
+#~ msgstr "Triển khai giao thức IMAP trước tiên vì đây là giao thức phổ biến nhất đang được sử dụng hiện nay."
+
+#~ msgid "Implement the full reading and writing email experience on mobile, including initial support for encrypted messages (OpenPGP and S/MIME with existing libraries)."
+#~ msgstr "Triển khai đầy đủ trải nghiệm đọc và viết email trên thiết bị di động, bao gồm hỗ trợ ban đầu cho thư mã hóa (OpenPGP và S/MIME với các thư viện hiện có)."
+
+#~ msgid "JMAP Support"
+#~ msgstr "Hỗ trợ JMAP"
+
+#~ msgid "Support the JMAP protocol as one of the first extra protocols we ship with by default outside of IMAP."
+#~ msgstr "Hỗ trợ giao thức JMAP như một trong những giao thức bổ sung đầu tiên được tích hợp sẵn theo mặc định, bên cạnh IMAP."
+
+#~ msgid "Manager, AI R&D"
+#~ msgstr "Manager, AI R&D"
