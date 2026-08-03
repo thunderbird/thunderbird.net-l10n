@@ -120,21 +120,25 @@ msgstr "Интеграция с Thundermail - Вход по QR-коду"
 #: sites/roadmaps.thunderbird.net/android/index.html:23
 msgid "Added and prioritized due to the Thundermail release. Implemented one-click OAuth on the first screen and implemented QR code scanning for Thundermail (from web) for easy account setup."
 msgstr ""
+"Добавлено и улучшено в связи с выпуском Thundermail. Реализовал OAuth одним щелчком на первом экране и реализовал сканирование QR-кода для Thundermail (из Интернета) для лёгкой настройки учётной "
+"записи."
 
 #: sites/roadmaps.thunderbird.net/android/index.html:23 sites/roadmaps.thunderbird.net/android/index.html:24 sites/roadmaps.thunderbird.net/desktop/index.html:30
 #: sites/roadmaps.thunderbird.net/desktop/index.html:31 sites/roadmaps.thunderbird.net/ios/index.html:24
 msgid "June 2026"
-msgstr ""
+msgstr "Июнь 2026"
 
 #: sites/roadmaps.thunderbird.net/android/index.html:24
 msgid "Message View Improvements - Phase 1"
-msgstr ""
+msgstr "Улучшения в Режиме просмотра сообщений — Фаза 1"
 
 #: sites/roadmaps.thunderbird.net/android/index.html:24
 msgid ""
 "We added a message header indicator as well as an attachment button. Now attachments are shown in-line as well as at the bottom of the message. We also improved text rendering and tackled the worst "
 "HTML and CSS rendering bug reports, to mitigate the most glaring issues."
 msgstr ""
+"Мы добавили индикатор заголовка сообщения, а также кнопку вложения. Теперь вложения отображаются в строке, а также внизу сообщения. Мы также улучшили отрисовку текста и рассмотрели самые плохие "
+"сообщения о багах отрисовки HTML и CSS, чтобы смягчить самые явные проблемы."
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:4
 msgid "Desktop Roadmap"
@@ -181,6 +185,8 @@ msgid ""
 "Improve the support and discovery of OpenPGP and S/MIME, improve email tracking protection, and harden phishing email prevention. These will continue all year as we respond to high priority "
 "vulnerabilities, upstream changes, AI-powered sec reports and regressions. (Ongoing maintenance)"
 msgstr ""
+"Улучшена поддержка и обнаружение OpenPGP и S/MIME, улучшена защита от отслеживания электронной почты и усилена защита от фишинга. Это будет продолжаться в течение всего года по мере того, как мы "
+"будем реагировать на уязвимости с высоким приоритетом, изменения в обновлениях, отчеты sec с использованием искусственного интеллекта и регрессии. (Текущее техническое обслуживание)"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:15
 msgid "Settings Interface Improvements"
@@ -188,7 +194,7 @@ msgstr "Улучшения в интерфейсе настроек"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:15
 msgid "Clean up and reorganize the settings into more discoverable sections and improve its search. User survey will heavily influence the end result."
-msgstr ""
+msgstr "Очистка и преобразование настроек в более доступные для поиска разделы и улучшение поиска по ним. Опрос пользователей сильно повлияет на конечный результат."
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:16
 msgid "Calendar Dialogs UI/UX"
@@ -200,13 +206,15 @@ msgstr "Завершить обновление интерфейса кален�
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:20
 msgid "OAuth2 Enhancements"
-msgstr ""
+msgstr "Улучшения OAuth2"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:20
 msgid ""
 "OAuth became a significant initiative due to evolving provider authentication requirements (including PKCE adoption), browser-based authentication improvements, and the need to deliver a seamless "
 "Thundermail sign-in experience."
 msgstr ""
+"OAuth стал важной инициативой из-за меняющихся требований к аутентификации у провайдеров (включая принятие PKCE), улучшений аутентификации на основе браузера, а также необходимости обеспечить "
+"беспроблемный вход в Thundermail."
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:24
 msgid "First Time User Experience: Account Hub"
@@ -279,21 +287,24 @@ msgstr "Май 2025"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:30
 msgid "First Time User Experience"
-msgstr ""
+msgstr "Пользовательский опыт при первом использовании"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:30
 msgid ""
 "We had to refocus on the email onboarding section of the Account Hub due to Exchange, Graph, and Thundermail release. User feedback &amp; telemetry data points at a large percentage of manual config"
 " usage, and the new protocols come with very complex manual user flows. First introduction of a 1-click setup OAuth for Thundermail."
 msgstr ""
+"Нам пришлось перефокусироваться на разделе ввода электронной почты в Центре учётных записей из-за релиза Exchange, Graph и Thundermail. Отзывы пользователей &amp; данные телеметрии указывают на "
+"большой процент ручного использования конфигурации, а новые протоколы поставляются с очень сложными ручными пользовательскими потоками. Первое представление о настройке OAuth для Thundermail в один "
+"щелчок."
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:31
 msgid "System add-on integration"
-msgstr ""
+msgstr "Интеграция с системными дополнениями"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:31
 msgid "Allowing to ship ad-hoc features faster for objectives that supersede the release train. This will be in 153!"
-msgstr ""
+msgstr "Разрешение быстрее выпускать специальные функции для целей, которые заменяют состав релизов. Это будет в 153!"
 
 #: sites/roadmaps.thunderbird.net/includes/base/base.html:12 sites/updates.thunderbird.net/includes/base/base.html:1 sites/www.thunderbird.net/includes/base/base.html:15
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
@@ -537,31 +548,37 @@ msgid ""
 "Implement the full reading and writing email experience on mobile, including initial support for encrypted messages (OpenPGP and S/MIME with existing libraries). WYSIWYG is now wrapping up. The next"
 " piece is to connect the protocol and database to render email."
 msgstr ""
+"Реализованы все возможности чтения и записи электронной почты на мобильных устройствах, включая первоначальную поддержку зашифрованных сообщений (OpenPGP и S/MIME с существующими библиотеками). "
+"WYSIWYG сейчас завершается. Следующий этап - подключение протокола и базы данных для отображения электронной почты."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:12
 msgid "JMAP Support - Exploration"
-msgstr ""
+msgstr "Поддержка JMAP - Исследование"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:12
 #, python-format
 msgid "Already 80% finished. The intention is to implement the full protocol with all the basic infrastructure in place."
-msgstr ""
+msgstr "Уже готово на 80%. Намерение состоит в том, чтобы реализовать полный протокол со всей базовой инфраструктурой."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:16
 msgid "JMAP Support - Complete Implementation"
-msgstr ""
+msgstr "Поддержка JMAP — Полная реализация"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:16
 msgid "Support the JMAP protocol as one of the first extra protocols we ship with by default outside of IMAP. Currently we are prioritizing IMAP and a first user release."
 msgstr ""
+"Поддержка протокола JMAP как один из первых дополнительных протоколов, которые мы поставляем по умолчанию после IMAP. В настоящее время мы уделяем приоритетное внимание IMAP и первому "
+"пользовательскому релизу."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:17
 msgid "Database"
-msgstr ""
+msgstr "База данных"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:17
 msgid "We’re changing how we cache the email to be able to consume the UI faster, and moving the database work for after the first version is out to the users."
 msgstr ""
+"Мы меняем способ кеширования электронной почты, чтобы иметь возможность быстрее использовать пользовательский интерфейс, и переносим работу с базой данных после того, как первая версия будет "
+"отправлена пользователям."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:21
 msgid "Architecture"
@@ -597,11 +614,11 @@ msgstr "Реализовать полную автоматическую и ру
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:24
 msgid "iOS Create Protocol &amp; Framework"
-msgstr ""
+msgstr "iOS Создать протокол &amp; Фреймворк"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:24
 msgid "Implement the IMAP protocol first as it's the most widespread protocol currently in use. We completed the protocol work and basic framework."
-msgstr ""
+msgstr "Сначала внедряется протокол IMAP, так как это наиболее распространенный протокол из используемых сейчас. Мы завершили работу с протоколом и базовым фреймворком."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:4
 msgid "Services Roadmap"
@@ -2210,7 +2227,7 @@ msgstr "Менеджер по маркетингу"
 
 #: sites/www.thunderbird.net/about/index.html:182
 msgid "Head of Thunderbolt"
-msgstr ""
+msgstr "Глава Thunderbolt"
 
 #: sites/www.thunderbird.net/about/index.html:183
 msgid "Manager, Release Operations"
@@ -2258,7 +2275,7 @@ msgstr "Менеджер, Мобильные приложения"
 
 #: sites/www.thunderbird.net/about/index.html:196
 msgid "Staff Forward Deployed Engineer"
-msgstr ""
+msgstr "Инженер по передовому развёртыванию персонала"
 
 #: sites/www.thunderbird.net/about/index.html:197 sites/www.thunderbird.net/about/index.html:226
 msgid "Software Engineer, Desktop"
