@@ -89,7 +89,7 @@ msgstr "Διερεύνηση της ενσωμάτωσης του JMAP, κατα
 
 #: sites/roadmaps.thunderbird.net/android/index.html:18
 msgid "Message View Improvements - Phase 2"
-msgstr ""
+msgstr "Βελτιώσεις προβολής μηνυμάτων - Φάση 2"
 
 #: sites/roadmaps.thunderbird.net/android/index.html:18
 msgid "Modernize the message view to address the most glaring issues like attachment handling, message loading, zoom, remove images, and so on. Making the experience comparable to the competition."
@@ -121,6 +121,8 @@ msgstr ""
 #: sites/roadmaps.thunderbird.net/android/index.html:23
 msgid "Added and prioritized due to the Thundermail release. Implemented one-click OAuth on the first screen and implemented QR code scanning for Thundermail (from web) for easy account setup."
 msgstr ""
+"Προστέθηκε και ιεραρχήθηκε λόγω της έκδοσης του Thundermail. Υλοποίηση του OAuth με ένα κλικ στην πρώτη οθόνη και εφαρμογή σάρωσης κωδικών QR για Thundermail (από το διαδίκτυο) για εύκολη ρύθμιση "
+"του λογαριασμού."
 
 #: sites/roadmaps.thunderbird.net/android/index.html:23 sites/roadmaps.thunderbird.net/android/index.html:24 sites/roadmaps.thunderbird.net/desktop/index.html:30
 #: sites/roadmaps.thunderbird.net/desktop/index.html:31 sites/roadmaps.thunderbird.net/ios/index.html:24
@@ -136,6 +138,8 @@ msgid ""
 "We added a message header indicator as well as an attachment button. Now attachments are shown in-line as well as at the bottom of the message. We also improved text rendering and tackled the worst "
 "HTML and CSS rendering bug reports, to mitigate the most glaring issues."
 msgstr ""
+"Προσθέσαμε μια ένδειξη στην κεφαλίδα μηνύματος καθώς και ένα κουμπί συνημμένου. Πλέον, τα συνημμένα εμφανίζονται εντός γραμμής καθώς και στο κάτω μέρος του μηνύματος. Βελτιώσαμε επίσης την απόδοση "
+"κειμένου και αντιμετωπίσαμε τις χειρότερες αναφορές σφαλμάτων απόδοσης HTML και CSS, για να μετριάσουμε τα πιο σοβαρά ζητήματα."
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:4
 msgid "Desktop Roadmap"
@@ -187,6 +191,8 @@ msgid ""
 "Improve the support and discovery of OpenPGP and S/MIME, improve email tracking protection, and harden phishing email prevention. These will continue all year as we respond to high priority "
 "vulnerabilities, upstream changes, AI-powered sec reports and regressions. (Ongoing maintenance)"
 msgstr ""
+"Βελτίωση υποστήριξης και ανακάλυψης των OpenPGP και S/MIME, της προστασίας από καταγραφή email και ενίσχυση την πρόληψης email από ηλεκτρονικό ψάρεμα. Αυτά θα συνεχιστούν όλο το χρόνο, καθώς "
+"ανταποκρινόμαστε σε ευπάθειες υψηλής προτεραιότητας, προγενέστερες αλλαγές, άμεσες αναφορές που βασίζονται σε ΤΝ και παλινδρομήσεις. (Συντήρηση σε εξέλιξη)"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:15
 msgid "Settings Interface Improvements"
@@ -194,7 +200,7 @@ msgstr "Βελτιώσεις περιβάλλοντος ρυθμίσεων"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:15
 msgid "Clean up and reorganize the settings into more discoverable sections and improve its search. User survey will heavily influence the end result."
-msgstr ""
+msgstr "Εκκαθάριση και οργάνωση ρυθμίσεων σε πιο ευανάγνωστες ενότητες και βελτίωση της αναζήτησης. Η έρευνα χρηστών θα επηρεάσει σε μεγάλο βαθμό το τελικό αποτέλεσμα."
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:16
 msgid "Calendar Dialogs UI/UX"
@@ -206,13 +212,15 @@ msgstr "Ολοκλήρωση της ανανέωσης του περιβάλλο
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:20
 msgid "OAuth2 Enhancements"
-msgstr ""
+msgstr "Βελτιώσεις OAuth2"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:20
 msgid ""
 "OAuth became a significant initiative due to evolving provider authentication requirements (including PKCE adoption), browser-based authentication improvements, and the need to deliver a seamless "
 "Thundermail sign-in experience."
 msgstr ""
+"Το OAuth έγινε μια σημαντική πρωτοβουλία λόγω των εξελισσόμενων απαιτήσεων ταυτοποίησης παρόχων (συμπεριλαμβανομένης της υιοθέτησης του PKCE), των βελτιώσεων ταυτοποίησης που βασίζονται σε "
+"προγράμματα περιήγησης και της ανάγκης για μια απρόσκοπτη εμπειρία σύνδεσης στο Thundermail."
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:24
 msgid "First Time User Experience: Account Hub"
@@ -285,17 +293,19 @@ msgstr "Μάιος 2025"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:30
 msgid "First Time User Experience"
-msgstr ""
+msgstr "Εμπειρία πρώτης χρήσης"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:30
 msgid ""
 "We had to refocus on the email onboarding section of the Account Hub due to Exchange, Graph, and Thundermail release. User feedback &amp; telemetry data points at a large percentage of manual config"
 " usage, and the new protocols come with very complex manual user flows. First introduction of a 1-click setup OAuth for Thundermail."
 msgstr ""
+"Αναγκαστήκαμε να επικεντρωθούμε εκ νέου στην ενότητα ένταξη email του Κέντρου λογαριασμών λόγω των κυκλοφοριών Exchange, Graph και Thundermail. Σχόλια χρηστών και δεδομένα τηλεμετρίας δείχνουν σε "
+"μεγάλο ποσοστό τη χρήση χειροκίνητων ρυθμίσεων και τα νέα πρωτόκολλα συνοδεύονται από πολύ περίπλοκες ροές χρήσης. Πρώτη παρουσίαση ενός ρυθμισμένου OAuth για Thundermail με 1 κλικ."
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:31
 msgid "System add-on integration"
-msgstr ""
+msgstr "Ενσωμάτωση προσθέτων συστήματος"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:31
 msgid "Allowing to ship ad-hoc features faster for objectives that supersede the release train. This will be in 153!"
@@ -545,15 +555,17 @@ msgid ""
 "Implement the full reading and writing email experience on mobile, including initial support for encrypted messages (OpenPGP and S/MIME with existing libraries). WYSIWYG is now wrapping up. The next"
 " piece is to connect the protocol and database to render email."
 msgstr ""
+"Υλοποίηση πλήρους εμπειρίας ανάγνωσης και εγγραφής email στο κινητό, μαζί με την αρχική υποστήριξη για κρυπτογραφημένα μηνύματα (OpenPGP και S/MIME με υπάρχουσες βιβλιοθήκες). Το WYSIWYG τελειώνει "
+"τώρα. Το επόμενο τμήμα είναι η σύνδεση του πρωτοκόλλου και της βάσης δεδομένων για την απόδοση email."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:12
 msgid "JMAP Support - Exploration"
-msgstr ""
+msgstr "Εξερεύνηση - Υποστήριξη JMAP"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:12
 #, python-format
 msgid "Already 80% finished. The intention is to implement the full protocol with all the basic infrastructure in place."
-msgstr ""
+msgstr "Έχει ήδη ολοκληρωθεί κατά 80%. Ο σκοπός είναι να υλοποιηθεί το πλήρες πρωτόκολλο με όλη τη βασική υποδομή."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:16
 msgid "JMAP Support - Complete Implementation"
