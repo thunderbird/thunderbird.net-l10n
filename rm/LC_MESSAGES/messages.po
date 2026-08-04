@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-08-04 18:11-0400\n"
 "Language: rm\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
@@ -90,7 +92,7 @@ msgid "Modernize the message view to address the most glaring issues like attach
 msgstr ""
 
 #: sites/roadmaps.thunderbird.net/android/index.html:20 sites/roadmaps.thunderbird.net/desktop/index.html:22 sites/roadmaps.thunderbird.net/ios/index.html:19
-#: sites/roadmaps.thunderbird.net/services/index.html:23
+#: sites/roadmaps.thunderbird.net/services/index.html:19
 msgid "Shipped"
 msgstr ""
 
@@ -115,7 +117,8 @@ msgid "Added and prioritized due to the Thundermail release. Implemented one-cli
 msgstr ""
 
 #: sites/roadmaps.thunderbird.net/android/index.html:23 sites/roadmaps.thunderbird.net/android/index.html:24 sites/roadmaps.thunderbird.net/desktop/index.html:30
-#: sites/roadmaps.thunderbird.net/desktop/index.html:31 sites/roadmaps.thunderbird.net/ios/index.html:24
+#: sites/roadmaps.thunderbird.net/desktop/index.html:31 sites/roadmaps.thunderbird.net/ios/index.html:24 sites/roadmaps.thunderbird.net/services/index.html:21
+#: sites/roadmaps.thunderbird.net/services/index.html:22
 msgid "June 2026"
 msgstr ""
 
@@ -210,7 +213,7 @@ msgid "Complete Account Hub for all account creations, enable it for first time 
 msgstr ""
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:24 sites/roadmaps.thunderbird.net/desktop/index.html:25 sites/roadmaps.thunderbird.net/ios/index.html:23
-#: sites/roadmaps.thunderbird.net/services/index.html:25
+#: sites/roadmaps.thunderbird.net/services/index.html:23
 msgid "March 2026"
 msgstr ""
 
@@ -603,7 +606,7 @@ msgid "Thunderbird Pro Services and Infrastructure Support. Follow the roadmap f
 msgstr ""
 
 #: sites/roadmaps.thunderbird.net/services/index.html:6
-msgid "Last updated March 19, 2026"
+msgid "Last updated August 4, 2026"
 msgstr ""
 
 #: sites/roadmaps.thunderbird.net/services/index.html:7
@@ -611,74 +614,64 @@ msgid "Submit your ideas for Thunderbird Pro"
 msgstr ""
 
 #: sites/roadmaps.thunderbird.net/services/index.html:11
-msgid "Send UI Completion"
-msgstr ""
-
-#: sites/roadmaps.thunderbird.net/services/index.html:11
-msgid ""
-"Send was the one product we haven't been able to complete UI overhaul work. We don't need to block the rollout for this, but we should work on this to keep it up to par with the other products and "
-"create consistency."
-msgstr ""
-
-#: sites/roadmaps.thunderbird.net/services/index.html:12
-msgid "Integrate Thunderbird Appointment into Pro add-on"
-msgstr ""
-
-#: sites/roadmaps.thunderbird.net/services/index.html:12
-msgid "As a Pro user, you want to be able to quickly copy your scheduling link when in Thunderbird. Integrate so it can be inserted into emails, or easily copied from the main toolbar."
-msgstr ""
-
-#: sites/roadmaps.thunderbird.net/services/index.html:16
 msgid "Active Sessions"
 msgstr ""
 
-#: sites/roadmaps.thunderbird.net/services/index.html:16
+#: sites/roadmaps.thunderbird.net/services/index.html:11
 msgid "Give the user a view on their active sessions and allow them to end the session."
 msgstr ""
 
-#: sites/roadmaps.thunderbird.net/services/index.html:17
-msgid "MFA Support"
-msgstr ""
-
-#: sites/roadmaps.thunderbird.net/services/index.html:17
-msgid "Multifactor authentication via TOTP or similar. We didn't get to this in 2025, and it is an essential security feature."
-msgstr ""
-
-#: sites/roadmaps.thunderbird.net/services/index.html:18
-msgid "Community Selected Initiative"
-msgstr ""
-
-#: sites/roadmaps.thunderbird.net/services/index.html:18
-msgid ""
-"No doubt the community will have a bunch of great ideas on https://ideas.tb.pro that we can build on. We're making sure we have time to work on one of the top community suggestions that will fit "
-"well into the Thunderbird Pro ecosystem."
-msgstr ""
-
-#: sites/roadmaps.thunderbird.net/services/index.html:19
-msgid "Improve Pro Add-on Integration"
-msgstr ""
-
-#: sites/roadmaps.thunderbird.net/services/index.html:19
-msgid ""
-"We are shipping an Thunderbird Pro add-on to enable Pro features in Thunderbird desktop. For a low barrier of entry we want to improve integration by using the system add-on or new account add-on "
-"mechanism. This allows us to make these features easier to discover and use within Thunderbird."
-msgstr ""
-
-#: sites/roadmaps.thunderbird.net/services/index.html:20
+#: sites/roadmaps.thunderbird.net/services/index.html:12
 msgid "Thundermail: Webmail"
 msgstr ""
 
-#: sites/roadmaps.thunderbird.net/services/index.html:20
+#: sites/roadmaps.thunderbird.net/services/index.html:12
 msgid ""
-"What would an email service be without webmail? We will spend time making the proof of concept more usable, and enable this as an experimental feature for users willing to try new things earyly. The scope will initially be limited to basic folder visibility and message display.\n"
-"Webmail will be built with JMAP as a backend, and we need to explore how users can benefit from Webmail while still being encouraged to use end to end encryption and allowing search across folders."
+"What would an email service be without webmail? We will spend time making the proof of concept more usable, and enable this as an experimental feature for users willing to try new things early. The "
+"scope will initially be limited to basic folder visibility and message display."
 msgstr ""
 
-#: sites/roadmaps.thunderbird.net/services/index.html:25
+#: sites/roadmaps.thunderbird.net/services/index.html:16
+msgid "Improve Pro Add-on Integration"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:16
+msgid ""
+"We are shipping a Thunderbird Pro add-on to enable Pro features in Thunderbird desktop. For a low barrier of entry we want to improve integration by using the system add-on or new account add-on "
+"mechanism. This allows us to make these features easier to discover and use within Thunderbird."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:17
+msgid "Import email, contacts, and calendar feature"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:17
+msgid ""
+"As one of the top ideas on ideas.tb.pro, we have added this suggestion from: https://ideas.tb.pro/p/import-email-calendar-and-contacts-feature and it fits into our quest to make Thundermail the "
+"users’ primary inbox."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:21
+msgid "MFA Support"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:21
+msgid "Multifactor authentication via TOTP or a similar method is an essential security feature."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:22
+msgid "Send UI Completion"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:22
+msgid "Send was shipped as a system add-on and that UI work was completed."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:23
 msgid "Thundermail: Spam Filtering"
 msgstr ""
 
-#: sites/roadmaps.thunderbird.net/services/index.html:25
+#: sites/roadmaps.thunderbird.net/services/index.html:23
 msgid ""
 "The spam filtering was very aggressive, causing many emails to unintentionally land in the spam folder. The filtering mechanism has been changed to significantly improve this behavior. A big thank "
 "you to Mauro and team from Stalwart, who have made the spam detection algorithm more sophisticated and accurate!"

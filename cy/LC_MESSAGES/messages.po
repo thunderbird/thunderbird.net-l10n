@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-08-04 18:11-0400\n"
 "Language: cy\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n == 3) ? 3 : ((n == 6) ? 4 : 5))));\n"
 "Generated-By: Pontoon\n"
@@ -96,7 +98,7 @@ msgid "Modernize the message view to address the most glaring issues like attach
 msgstr "Moderneiddio'r olwg neges i fynd i'r afael â'r materion mwyaf amlwg fel trin atodiadau, llwytho negeseuon, chwyddo, tynnu delweddau, ac ati. Gwneud y profiad yn debyg i'r gystadleuaeth."
 
 #: sites/roadmaps.thunderbird.net/android/index.html:20 sites/roadmaps.thunderbird.net/desktop/index.html:22 sites/roadmaps.thunderbird.net/ios/index.html:19
-#: sites/roadmaps.thunderbird.net/services/index.html:23
+#: sites/roadmaps.thunderbird.net/services/index.html:19
 msgid "Shipped"
 msgstr "Wedi ei Ryddhau"
 
@@ -123,7 +125,8 @@ msgstr ""
 "hawdd."
 
 #: sites/roadmaps.thunderbird.net/android/index.html:23 sites/roadmaps.thunderbird.net/android/index.html:24 sites/roadmaps.thunderbird.net/desktop/index.html:30
-#: sites/roadmaps.thunderbird.net/desktop/index.html:31 sites/roadmaps.thunderbird.net/ios/index.html:24
+#: sites/roadmaps.thunderbird.net/desktop/index.html:31 sites/roadmaps.thunderbird.net/ios/index.html:24 sites/roadmaps.thunderbird.net/services/index.html:21
+#: sites/roadmaps.thunderbird.net/services/index.html:22
 msgid "June 2026"
 msgstr "Mehefin 2026"
 
@@ -224,7 +227,7 @@ msgid "Complete Account Hub for all account creations, enable it for first time 
 msgstr "Cwblhau Canolfan Cyfrifon ar gyfer creu cyfrifon, ei alluogi ar gyfer defnyddwyr tro cyntaf."
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:24 sites/roadmaps.thunderbird.net/desktop/index.html:25 sites/roadmaps.thunderbird.net/ios/index.html:23
-#: sites/roadmaps.thunderbird.net/services/index.html:25
+#: sites/roadmaps.thunderbird.net/services/index.html:23
 msgid "March 2026"
 msgstr "Mawrth 2026"
 
@@ -624,91 +627,72 @@ msgid "Thunderbird Pro Services and Infrastructure Support. Follow the roadmap f
 msgstr "Gwasanaethau Thunderbird Pro a Chymorth Seilwaith. Dilynwch y map cynllunio o waith gweithredol i syniadau ar gyfer y dyfodol. Gall llinellau amser newid wrth i ni brofi ac ailddatblygu."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:6
-msgid "Last updated March 19, 2026"
-msgstr "Wedi ei ddiweddaru diwethaf, Mawrth 19, 2026,"
+msgid "Last updated August 4, 2026"
+msgstr ""
 
 #: sites/roadmaps.thunderbird.net/services/index.html:7
 msgid "Submit your ideas for Thunderbird Pro"
 msgstr "Cyflwynwch eich syniadau ar gyfer Thunderbird Pro"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:11
-msgid "Send UI Completion"
-msgstr "Cwblhau UI Send"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:11
-msgid ""
-"Send was the one product we haven't been able to complete UI overhaul work. We don't need to block the rollout for this, but we should work on this to keep it up to par with the other products and "
-"create consistency."
-msgstr ""
-"Send oedd yr un cynnyrch nad ydym wedi gallu cwblhau gwaith ailwampio UI. Does dim angen i ni rwystro'r broses gyflwyno ar gyfer hwn, ond dylem weithio arno i'w gadw ar yr un lefel â'r cynnyrch "
-"eraill a chreu cysondeb."
-
-#: sites/roadmaps.thunderbird.net/services/index.html:12
-msgid "Integrate Thunderbird Appointment into Pro add-on"
-msgstr "Integreiddio Apwyntiadau Thunderbird yn ychwanegyn Pro"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:12
-msgid "As a Pro user, you want to be able to quickly copy your scheduling link when in Thunderbird. Integrate so it can be inserted into emails, or easily copied from the main toolbar."
-msgstr ""
-"Fel defnyddiwr Pro, rydych chi am allu copïo'ch dolen amserlennu yn gyflym pan fyddwch yn Thunderbird. Integreiddiwch fel y mae modd ei fewnosod mewn e-byst, neu ei gopïo'n hawdd o'r prif far offer."
-
-#: sites/roadmaps.thunderbird.net/services/index.html:16
 msgid "Active Sessions"
 msgstr "Sesiynau Gweithredol"
 
-#: sites/roadmaps.thunderbird.net/services/index.html:16
+#: sites/roadmaps.thunderbird.net/services/index.html:11
 msgid "Give the user a view on their active sessions and allow them to end the session."
 msgstr "Rhoi golwg i'r defnyddiwr ar ei sesiynau gweithredol a chaniatáu iddo ddod â'r sesiwn i ben."
 
-#: sites/roadmaps.thunderbird.net/services/index.html:17
-msgid "MFA Support"
-msgstr "Cefnogaeth MFA"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:17
-msgid "Multifactor authentication via TOTP or similar. We didn't get to this in 2025, and it is an essential security feature."
-msgstr "Dilysu aml-ffactor trwy TOTP neu debyg. Doedd dim modd i ni wneud hyn yn 2025, ac mae'n nodwedd ddiogelwch hanfodol."
-
-#: sites/roadmaps.thunderbird.net/services/index.html:18
-msgid "Community Selected Initiative"
-msgstr "Menter Gymunedol Ddewisol"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:18
-msgid ""
-"No doubt the community will have a bunch of great ideas on https://ideas.tb.pro that we can build on. We're making sure we have time to work on one of the top community suggestions that will fit "
-"well into the Thunderbird Pro ecosystem."
-msgstr ""
-"Mae'n siŵr y bydd gan y gymuned syniadau gwych ar https://ideas.tb.pro y gallwn adeiladu arnyn nhw. Rydyn ni'n gwneud yn siŵr bod gennym ni amser i weithio ar un o'r awgrymiadau cymunedol gorau a "
-"fydd yn cyd-fynd yn dda ag ecosystem Thunderbird Pro."
-
-#: sites/roadmaps.thunderbird.net/services/index.html:19
-msgid "Improve Pro Add-on Integration"
-msgstr "Gwella Integreiddio Ychwanegion Pro"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:19
-msgid ""
-"We are shipping an Thunderbird Pro add-on to enable Pro features in Thunderbird desktop. For a low barrier of entry we want to improve integration by using the system add-on or new account add-on "
-"mechanism. This allows us to make these features easier to discover and use within Thunderbird."
-msgstr ""
-"Rydym yn ryddhau ychwanegyn Thunderbird Pro i alluogi nodweddion Pro ar Thunderbird y Bwrdd Gwaith . Ar gyfer ryddhau mynediad rydym am wella integreiddio trwy ddefnyddio'r ychwanegyn system neu "
-"fecanwaith ychwanegu cyfrif newydd. Mae hyn yn ein galluogi i wneud y nodweddion hyn yn haws i'w darganfod a'u defnyddio o fewn Thunderbird."
-
-#: sites/roadmaps.thunderbird.net/services/index.html:20
+#: sites/roadmaps.thunderbird.net/services/index.html:12
 msgid "Thundermail: Webmail"
 msgstr "Thundermail: Gwebost"
 
-#: sites/roadmaps.thunderbird.net/services/index.html:20
+#: sites/roadmaps.thunderbird.net/services/index.html:12
 msgid ""
-"What would an email service be without webmail? We will spend time making the proof of concept more usable, and enable this as an experimental feature for users willing to try new things earyly. The scope will initially be limited to basic folder visibility and message display.\n"
-"Webmail will be built with JMAP as a backend, and we need to explore how users can benefit from Webmail while still being encouraged to use end to end encryption and allowing search across folders."
+"What would an email service be without webmail? We will spend time making the proof of concept more usable, and enable this as an experimental feature for users willing to try new things early. The "
+"scope will initially be limited to basic folder visibility and message display."
 msgstr ""
-"Beth fyddai gwasanaeth e-bost heb gwebost? Byddwn yn treulio amser yn gwneud y prawf cysyniad yn fwy defnyddiadwy, ac yn galluogi hyn fel nodwedd arbrofol i ddefnyddwyr sy'n barod i roi cynnig ar bethau newydd yn gynnar. Bydd y cwmpas yn cael ei gyfyngu i ddechrau i welededd ffolderi sylfaenol ac dangos negeseuon.\n"
-"Bydd y gwebost yn cael ei adeiladu gyda JMAP fel cefn, ac mae angen i ni archwilio sut y gall defnyddwyr elwa o webost tra'n dal i gael eu hannog i ddefnyddio amgryptio pen i ben a chaniatáu chwilio ar draws ffolderi."
 
-#: sites/roadmaps.thunderbird.net/services/index.html:25
+#: sites/roadmaps.thunderbird.net/services/index.html:16
+msgid "Improve Pro Add-on Integration"
+msgstr "Gwella Integreiddio Ychwanegion Pro"
+
+#: sites/roadmaps.thunderbird.net/services/index.html:16
+msgid ""
+"We are shipping a Thunderbird Pro add-on to enable Pro features in Thunderbird desktop. For a low barrier of entry we want to improve integration by using the system add-on or new account add-on "
+"mechanism. This allows us to make these features easier to discover and use within Thunderbird."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:17
+msgid "Import email, contacts, and calendar feature"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:17
+msgid ""
+"As one of the top ideas on ideas.tb.pro, we have added this suggestion from: https://ideas.tb.pro/p/import-email-calendar-and-contacts-feature and it fits into our quest to make Thundermail the "
+"users’ primary inbox."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:21
+msgid "MFA Support"
+msgstr "Cefnogaeth MFA"
+
+#: sites/roadmaps.thunderbird.net/services/index.html:21
+msgid "Multifactor authentication via TOTP or a similar method is an essential security feature."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:22
+msgid "Send UI Completion"
+msgstr "Cwblhau UI Send"
+
+#: sites/roadmaps.thunderbird.net/services/index.html:22
+msgid "Send was shipped as a system add-on and that UI work was completed."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:23
 msgid "Thundermail: Spam Filtering"
 msgstr "Thundermail: Hidlo Sbam"
 
-#: sites/roadmaps.thunderbird.net/services/index.html:25
+#: sites/roadmaps.thunderbird.net/services/index.html:23
 msgid ""
 "The spam filtering was very aggressive, causing many emails to unintentionally land in the spam folder. The filtering mechanism has been changed to significantly improve this behavior. A big thank "
 "you to Mauro and team from Stalwart, who have made the spam detection algorithm more sophisticated and accurate!"
@@ -5192,3 +5176,47 @@ msgstr "Papur Wal Bwrdd Gwaith Thunderbird"
 #: sites/www.thunderbird.net/thunderbird/wallpaper/index.html:17
 msgid "Thunderbird Desktop Wallpaer"
 msgstr "Papur Wal Bwrdd Gwaith Thunderbird"
+
+#~ msgid ""
+#~ "We are shipping an Thunderbird Pro add-on to enable Pro features in Thunderbird desktop. For a low barrier of entry we want to improve integration by using the system add-on or new account add-on "
+#~ "mechanism. This allows us to make these features easier to discover and use within Thunderbird."
+#~ msgstr ""
+#~ "Rydym yn ryddhau ychwanegyn Thunderbird Pro i alluogi nodweddion Pro ar Thunderbird y Bwrdd Gwaith . Ar gyfer ryddhau mynediad rydym am wella integreiddio trwy ddefnyddio'r ychwanegyn system neu "
+#~ "fecanwaith ychwanegu cyfrif newydd. Mae hyn yn ein galluogi i wneud y nodweddion hyn yn haws i'w darganfod a'u defnyddio o fewn Thunderbird."
+
+#~ msgid "Last updated March 19, 2026"
+#~ msgstr "Wedi ei ddiweddaru diwethaf, Mawrth 19, 2026,"
+
+#~ msgid ""
+#~ "Send was the one product we haven't been able to complete UI overhaul work. We don't need to block the rollout for this, but we should work on this to keep it up to par with the other products and "
+#~ "create consistency."
+#~ msgstr ""
+#~ "Send oedd yr un cynnyrch nad ydym wedi gallu cwblhau gwaith ailwampio UI. Does dim angen i ni rwystro'r broses gyflwyno ar gyfer hwn, ond dylem weithio arno i'w gadw ar yr un lefel â'r cynnyrch "
+#~ "eraill a chreu cysondeb."
+
+#~ msgid "Integrate Thunderbird Appointment into Pro add-on"
+#~ msgstr "Integreiddio Apwyntiadau Thunderbird yn ychwanegyn Pro"
+
+#~ msgid "As a Pro user, you want to be able to quickly copy your scheduling link when in Thunderbird. Integrate so it can be inserted into emails, or easily copied from the main toolbar."
+#~ msgstr ""
+#~ "Fel defnyddiwr Pro, rydych chi am allu copïo'ch dolen amserlennu yn gyflym pan fyddwch yn Thunderbird. Integreiddiwch fel y mae modd ei fewnosod mewn e-byst, neu ei gopïo'n hawdd o'r prif far offer."
+
+#~ msgid "Multifactor authentication via TOTP or similar. We didn't get to this in 2025, and it is an essential security feature."
+#~ msgstr "Dilysu aml-ffactor trwy TOTP neu debyg. Doedd dim modd i ni wneud hyn yn 2025, ac mae'n nodwedd ddiogelwch hanfodol."
+
+#~ msgid "Community Selected Initiative"
+#~ msgstr "Menter Gymunedol Ddewisol"
+
+#~ msgid ""
+#~ "No doubt the community will have a bunch of great ideas on https://ideas.tb.pro that we can build on. We're making sure we have time to work on one of the top community suggestions that will fit "
+#~ "well into the Thunderbird Pro ecosystem."
+#~ msgstr ""
+#~ "Mae'n siŵr y bydd gan y gymuned syniadau gwych ar https://ideas.tb.pro y gallwn adeiladu arnyn nhw. Rydyn ni'n gwneud yn siŵr bod gennym ni amser i weithio ar un o'r awgrymiadau cymunedol gorau a "
+#~ "fydd yn cyd-fynd yn dda ag ecosystem Thunderbird Pro."
+
+#~ msgid ""
+#~ "What would an email service be without webmail? We will spend time making the proof of concept more usable, and enable this as an experimental feature for users willing to try new things earyly. The scope will initially be limited to basic folder visibility and message display.\n"
+#~ "Webmail will be built with JMAP as a backend, and we need to explore how users can benefit from Webmail while still being encouraged to use end to end encryption and allowing search across folders."
+#~ msgstr ""
+#~ "Beth fyddai gwasanaeth e-bost heb gwebost? Byddwn yn treulio amser yn gwneud y prawf cysyniad yn fwy defnyddiadwy, ac yn galluogi hyn fel nodwedd arbrofol i ddefnyddwyr sy'n barod i roi cynnig ar bethau newydd yn gynnar. Bydd y cwmpas yn cael ei gyfyngu i ddechrau i welededd ffolderi sylfaenol ac dangos negeseuon.\n"
+#~ "Bydd y gwebost yn cael ei adeiladu gyda JMAP fel cefn, ac mae angen i ni archwilio sut y gall defnyddwyr elwa o webost tra'n dal i gael eu hannog i ddefnyddio amgryptio pen i ben a chaniatáu chwilio ar draws ffolderi."

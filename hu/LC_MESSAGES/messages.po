@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-08-04 18:11-0400\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
@@ -95,7 +97,7 @@ msgstr ""
 "összehasonlítható legyen a versenytársakkal."
 
 #: sites/roadmaps.thunderbird.net/android/index.html:20 sites/roadmaps.thunderbird.net/desktop/index.html:22 sites/roadmaps.thunderbird.net/ios/index.html:19
-#: sites/roadmaps.thunderbird.net/services/index.html:23
+#: sites/roadmaps.thunderbird.net/services/index.html:19
 msgid "Shipped"
 msgstr "Leszállítva"
 
@@ -120,7 +122,8 @@ msgid "Added and prioritized due to the Thundermail release. Implemented one-cli
 msgstr ""
 
 #: sites/roadmaps.thunderbird.net/android/index.html:23 sites/roadmaps.thunderbird.net/android/index.html:24 sites/roadmaps.thunderbird.net/desktop/index.html:30
-#: sites/roadmaps.thunderbird.net/desktop/index.html:31 sites/roadmaps.thunderbird.net/ios/index.html:24
+#: sites/roadmaps.thunderbird.net/desktop/index.html:31 sites/roadmaps.thunderbird.net/ios/index.html:24 sites/roadmaps.thunderbird.net/services/index.html:21
+#: sites/roadmaps.thunderbird.net/services/index.html:22
 msgid "June 2026"
 msgstr ""
 
@@ -215,7 +218,7 @@ msgid "Complete Account Hub for all account creations, enable it for first time 
 msgstr "Fiókközpont befejezése az összes fiók létrehozásához, és engedélyezés az első felhasználók számára."
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:24 sites/roadmaps.thunderbird.net/desktop/index.html:25 sites/roadmaps.thunderbird.net/ios/index.html:23
-#: sites/roadmaps.thunderbird.net/services/index.html:25
+#: sites/roadmaps.thunderbird.net/services/index.html:23
 msgid "March 2026"
 msgstr "2026. március"
 
@@ -612,91 +615,72 @@ msgid "Thunderbird Pro Services and Infrastructure Support. Follow the roadmap f
 msgstr "A Thunderbird Pro szolgáltatások és infrastruktúra támogatása. Kövesse az ütemtervet az aktív munkától a jövőbeli ötletekig. Az idővonalak változhatnak, ahogy többet tudunk meg és iterálunk."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:6
-msgid "Last updated March 19, 2026"
-msgstr "Legutóbbi frissítés: 2026. március 19."
+msgid "Last updated August 4, 2026"
+msgstr ""
 
 #: sites/roadmaps.thunderbird.net/services/index.html:7
 msgid "Submit your ideas for Thunderbird Pro"
 msgstr "Küldje be ötleteit a Thunderbird Próhoz"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:11
-msgid "Send UI Completion"
-msgstr "Send felület befejezése"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:11
-msgid ""
-"Send was the one product we haven't been able to complete UI overhaul work. We don't need to block the rollout for this, but we should work on this to keep it up to par with the other products and "
-"create consistency."
-msgstr ""
-"A Send volt az egyetlen termék, amelynél nem tudtuk befejezni a felület átdolgozási munkáját. Ehhez nem kell blokkolnunk a bevezetést, de dolgoznunk kell ezen, hogy szinten tartsuk a többi "
-"termékkel, és konzisztenssé tegyük őket."
-
-#: sites/roadmaps.thunderbird.net/services/index.html:12
-msgid "Integrate Thunderbird Appointment into Pro add-on"
-msgstr "A Thunderbird Appointment integrációja a Pro kiegészítőbe"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:12
-msgid "As a Pro user, you want to be able to quickly copy your scheduling link when in Thunderbird. Integrate so it can be inserted into emails, or easily copied from the main toolbar."
-msgstr "Pro felhasználóként gyorsan szeretné másolni az ütemezési hivatkozásokat a Thunderbirdben. Integrálni fogjuk, így beszúrható lesz az e-mailekbe, és könnyen másolható lesz a fő eszköztárról."
-
-#: sites/roadmaps.thunderbird.net/services/index.html:16
 msgid "Active Sessions"
 msgstr "Aktív munkamenetek"
 
-#: sites/roadmaps.thunderbird.net/services/index.html:16
+#: sites/roadmaps.thunderbird.net/services/index.html:11
 msgid "Give the user a view on their active sessions and allow them to end the session."
 msgstr "Áttekintés nyújtunk a felhasználónak az aktív munkameneteiről, és lehetővé tesszük a munkamenet befejezését."
 
-#: sites/roadmaps.thunderbird.net/services/index.html:17
-msgid "MFA Support"
-msgstr "MFA támogatás"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:17
-msgid "Multifactor authentication via TOTP or similar. We didn't get to this in 2025, and it is an essential security feature."
-msgstr "Többfaktoros hitelesítés TOTP-vel vagy hasonló megoldással. 2025-ben nem jutottunk el idáig, és ez egy fontos biztonsági funkció."
-
-#: sites/roadmaps.thunderbird.net/services/index.html:18
-msgid "Community Selected Initiative"
-msgstr "Közösség által választott kezdeményezés"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:18
-msgid ""
-"No doubt the community will have a bunch of great ideas on https://ideas.tb.pro that we can build on. We're making sure we have time to work on one of the top community suggestions that will fit "
-"well into the Thunderbird Pro ecosystem."
-msgstr ""
-"Kétségtelen, hogy a közösségnek sok nagyszerű ötlete lesz a https://ideas.tb.pro oldalon, amelyekre támaszkodhatunk. Biztosítjuk, hogy legyen időnk arra, hogy az egyik legfontosabb olyan közösségi "
-"javaslaton dolgozzunk, amely jól illeszkedik a Thunderbird Pro ökoszisztémába."
-
-#: sites/roadmaps.thunderbird.net/services/index.html:19
-msgid "Improve Pro Add-on Integration"
-msgstr "A Pro kiegészítők integrációjának fejlesztése"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:19
-msgid ""
-"We are shipping an Thunderbird Pro add-on to enable Pro features in Thunderbird desktop. For a low barrier of entry we want to improve integration by using the system add-on or new account add-on "
-"mechanism. This allows us to make these features easier to discover and use within Thunderbird."
-msgstr ""
-"Kiadunk egy Thunderbird Pro kiegészítőt, amely lehetővé teszi a Pro funkciók használatát a Thunderbird asztali alkalmazásban. A belépési küszöb alacsonyan tartása érdekében javítani szeretnénk az "
-"integrációt, így a rendszer-kiegészítők vagy az új fiókok kiegészítőinek mechanizmusát fogjuk használni. Ez lehetővé teszi számunkra, hogy ezeket a funkciókat könnyebben felfedezhessék és "
-"használhassák a Thunderbirdben."
-
-#: sites/roadmaps.thunderbird.net/services/index.html:20
+#: sites/roadmaps.thunderbird.net/services/index.html:12
 msgid "Thundermail: Webmail"
 msgstr "Thundermail: webes levelezés"
 
-#: sites/roadmaps.thunderbird.net/services/index.html:20
+#: sites/roadmaps.thunderbird.net/services/index.html:12
 msgid ""
-"What would an email service be without webmail? We will spend time making the proof of concept more usable, and enable this as an experimental feature for users willing to try new things earyly. The scope will initially be limited to basic folder visibility and message display.\n"
-"Webmail will be built with JMAP as a backend, and we need to explore how users can benefit from Webmail while still being encouraged to use end to end encryption and allowing search across folders."
+"What would an email service be without webmail? We will spend time making the proof of concept more usable, and enable this as an experimental feature for users willing to try new things early. The "
+"scope will initially be limited to basic folder visibility and message display."
 msgstr ""
-"Milyen lenne egy e-mail-szolgáltatás webes levelezés nélkül? Időt fogunk szánni arra, hogy a kezdeti megvalósítást használhatóbbá tegyük, és ezt kísérleti funkcióként elérhetővé tegyük azoknak a felhasználóknak, akik szívesen kipróbálnak új dolgokat már a korai szakaszban. A funkció hatóköre kezdetben az alapvető mappák láthatóságára és az üzenetek megjelenítésére korlátozódik.\n"
-"A webes levelezés háttérrendszerként a JMAP-ra épül majd, és meg kell vizsgálnunk, hogy a felhasználók hogyan profitálhatnak a webes levelezésből úgy, hogy közben továbbra is ösztönözzük őket a végpontok közti titkosítás használatára, és lehetővé tesszük a mappák közötti keresést."
 
-#: sites/roadmaps.thunderbird.net/services/index.html:25
+#: sites/roadmaps.thunderbird.net/services/index.html:16
+msgid "Improve Pro Add-on Integration"
+msgstr "A Pro kiegészítők integrációjának fejlesztése"
+
+#: sites/roadmaps.thunderbird.net/services/index.html:16
+msgid ""
+"We are shipping a Thunderbird Pro add-on to enable Pro features in Thunderbird desktop. For a low barrier of entry we want to improve integration by using the system add-on or new account add-on "
+"mechanism. This allows us to make these features easier to discover and use within Thunderbird."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:17
+msgid "Import email, contacts, and calendar feature"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:17
+msgid ""
+"As one of the top ideas on ideas.tb.pro, we have added this suggestion from: https://ideas.tb.pro/p/import-email-calendar-and-contacts-feature and it fits into our quest to make Thundermail the "
+"users’ primary inbox."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:21
+msgid "MFA Support"
+msgstr "MFA támogatás"
+
+#: sites/roadmaps.thunderbird.net/services/index.html:21
+msgid "Multifactor authentication via TOTP or a similar method is an essential security feature."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:22
+msgid "Send UI Completion"
+msgstr "Send felület befejezése"
+
+#: sites/roadmaps.thunderbird.net/services/index.html:22
+msgid "Send was shipped as a system add-on and that UI work was completed."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:23
 msgid "Thundermail: Spam Filtering"
 msgstr "Thundermail: Levélszemétszűrés"
 
-#: sites/roadmaps.thunderbird.net/services/index.html:25
+#: sites/roadmaps.thunderbird.net/services/index.html:23
 msgid ""
 "The spam filtering was very aggressive, causing many emails to unintentionally land in the spam folder. The filtering mechanism has been changed to significantly improve this behavior. A big thank "
 "you to Mauro and team from Stalwart, who have made the spam detection algorithm more sophisticated and accurate!"
@@ -5186,3 +5170,47 @@ msgstr "Thunderbird háttérkép"
 #: sites/www.thunderbird.net/thunderbird/wallpaper/index.html:17
 msgid "Thunderbird Desktop Wallpaer"
 msgstr "Thunderbird háttérkép"
+
+#~ msgid ""
+#~ "We are shipping an Thunderbird Pro add-on to enable Pro features in Thunderbird desktop. For a low barrier of entry we want to improve integration by using the system add-on or new account add-on "
+#~ "mechanism. This allows us to make these features easier to discover and use within Thunderbird."
+#~ msgstr ""
+#~ "Kiadunk egy Thunderbird Pro kiegészítőt, amely lehetővé teszi a Pro funkciók használatát a Thunderbird asztali alkalmazásban. A belépési küszöb alacsonyan tartása érdekében javítani szeretnénk az "
+#~ "integrációt, így a rendszer-kiegészítők vagy az új fiókok kiegészítőinek mechanizmusát fogjuk használni. Ez lehetővé teszi számunkra, hogy ezeket a funkciókat könnyebben felfedezhessék és "
+#~ "használhassák a Thunderbirdben."
+
+#~ msgid "Last updated March 19, 2026"
+#~ msgstr "Legutóbbi frissítés: 2026. március 19."
+
+#~ msgid ""
+#~ "Send was the one product we haven't been able to complete UI overhaul work. We don't need to block the rollout for this, but we should work on this to keep it up to par with the other products and "
+#~ "create consistency."
+#~ msgstr ""
+#~ "A Send volt az egyetlen termék, amelynél nem tudtuk befejezni a felület átdolgozási munkáját. Ehhez nem kell blokkolnunk a bevezetést, de dolgoznunk kell ezen, hogy szinten tartsuk a többi "
+#~ "termékkel, és konzisztenssé tegyük őket."
+
+#~ msgid "Integrate Thunderbird Appointment into Pro add-on"
+#~ msgstr "A Thunderbird Appointment integrációja a Pro kiegészítőbe"
+
+#~ msgid "As a Pro user, you want to be able to quickly copy your scheduling link when in Thunderbird. Integrate so it can be inserted into emails, or easily copied from the main toolbar."
+#~ msgstr "Pro felhasználóként gyorsan szeretné másolni az ütemezési hivatkozásokat a Thunderbirdben. Integrálni fogjuk, így beszúrható lesz az e-mailekbe, és könnyen másolható lesz a fő eszköztárról."
+
+#~ msgid "Multifactor authentication via TOTP or similar. We didn't get to this in 2025, and it is an essential security feature."
+#~ msgstr "Többfaktoros hitelesítés TOTP-vel vagy hasonló megoldással. 2025-ben nem jutottunk el idáig, és ez egy fontos biztonsági funkció."
+
+#~ msgid "Community Selected Initiative"
+#~ msgstr "Közösség által választott kezdeményezés"
+
+#~ msgid ""
+#~ "No doubt the community will have a bunch of great ideas on https://ideas.tb.pro that we can build on. We're making sure we have time to work on one of the top community suggestions that will fit "
+#~ "well into the Thunderbird Pro ecosystem."
+#~ msgstr ""
+#~ "Kétségtelen, hogy a közösségnek sok nagyszerű ötlete lesz a https://ideas.tb.pro oldalon, amelyekre támaszkodhatunk. Biztosítjuk, hogy legyen időnk arra, hogy az egyik legfontosabb olyan közösségi "
+#~ "javaslaton dolgozzunk, amely jól illeszkedik a Thunderbird Pro ökoszisztémába."
+
+#~ msgid ""
+#~ "What would an email service be without webmail? We will spend time making the proof of concept more usable, and enable this as an experimental feature for users willing to try new things earyly. The scope will initially be limited to basic folder visibility and message display.\n"
+#~ "Webmail will be built with JMAP as a backend, and we need to explore how users can benefit from Webmail while still being encouraged to use end to end encryption and allowing search across folders."
+#~ msgstr ""
+#~ "Milyen lenne egy e-mail-szolgáltatás webes levelezés nélkül? Időt fogunk szánni arra, hogy a kezdeti megvalósítást használhatóbbá tegyük, és ezt kísérleti funkcióként elérhetővé tegyük azoknak a felhasználóknak, akik szívesen kipróbálnak új dolgokat már a korai szakaszban. A funkció hatóköre kezdetben az alapvető mappák láthatóságára és az üzenetek megjelenítésére korlátozódik.\n"
+#~ "A webes levelezés háttérrendszerként a JMAP-ra épül majd, és meg kell vizsgálnunk, hogy a felhasználók hogyan profitálhatnak a webes levelezésből úgy, hogy közben továbbra is ösztönözzük őket a végpontok közti titkosítás használatára, és lehetővé tesszük a mappák közötti keresést."

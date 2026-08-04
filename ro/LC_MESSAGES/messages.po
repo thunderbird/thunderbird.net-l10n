@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-08-04 18:11-0400\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
 "Generated-By: Pontoon\n"
@@ -98,7 +100,7 @@ msgstr ""
 "comparabilă cu cea a concurenței."
 
 #: sites/roadmaps.thunderbird.net/android/index.html:20 sites/roadmaps.thunderbird.net/desktop/index.html:22 sites/roadmaps.thunderbird.net/ios/index.html:19
-#: sites/roadmaps.thunderbird.net/services/index.html:23
+#: sites/roadmaps.thunderbird.net/services/index.html:19
 msgid "Shipped"
 msgstr "Expediat"
 
@@ -125,7 +127,8 @@ msgstr ""
 "configurarea ușoară a conturilor."
 
 #: sites/roadmaps.thunderbird.net/android/index.html:23 sites/roadmaps.thunderbird.net/android/index.html:24 sites/roadmaps.thunderbird.net/desktop/index.html:30
-#: sites/roadmaps.thunderbird.net/desktop/index.html:31 sites/roadmaps.thunderbird.net/ios/index.html:24
+#: sites/roadmaps.thunderbird.net/desktop/index.html:31 sites/roadmaps.thunderbird.net/ios/index.html:24 sites/roadmaps.thunderbird.net/services/index.html:21
+#: sites/roadmaps.thunderbird.net/services/index.html:22
 msgid "June 2026"
 msgstr "Iunie 2026"
 
@@ -228,7 +231,7 @@ msgid "Complete Account Hub for all account creations, enable it for first time 
 msgstr "Centru complet al contului pentru crearea tuturor conturilor, activează-l pentru utilizatorii noi."
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:24 sites/roadmaps.thunderbird.net/desktop/index.html:25 sites/roadmaps.thunderbird.net/ios/index.html:23
-#: sites/roadmaps.thunderbird.net/services/index.html:25
+#: sites/roadmaps.thunderbird.net/services/index.html:23
 msgid "March 2026"
 msgstr "Martie 2026"
 
@@ -630,92 +633,72 @@ msgid "Thunderbird Pro Services and Infrastructure Support. Follow the roadmap f
 msgstr "Suport pentru serviciile și infrastructura Thunderbird Pro. Urmează foaia de parcurs de la lucrările curente la ideile viitoare. Cronologia se poate modifica pe măsură ce învățăm și iterăm."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:6
-msgid "Last updated March 19, 2026"
-msgstr "Ultima actualizare la 19 martie 2026"
+msgid "Last updated August 4, 2026"
+msgstr ""
 
 #: sites/roadmaps.thunderbird.net/services/index.html:7
 msgid "Submit your ideas for Thunderbird Pro"
 msgstr "Trimite-ți ideile pentru Thunderbird Pro"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:11
-msgid "Send UI Completion"
-msgstr "Finalizare interfață de utilizator Send"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:11
-msgid ""
-"Send was the one product we haven't been able to complete UI overhaul work. We don't need to block the rollout for this, but we should work on this to keep it up to par with the other products and "
-"create consistency."
-msgstr ""
-"Send a fost singurul produs pentru care nu am putut finaliza lucrările de revizuire a interfeței pentru utilizator. Nu trebuie să blocăm lansarea din această cauză, dar trebui să lucrăm pentru a-l "
-"menține la același nivel cu celelalte produse și să asigurăm coerența."
-
-#: sites/roadmaps.thunderbird.net/services/index.html:12
-msgid "Integrate Thunderbird Appointment into Pro add-on"
-msgstr "Integrează Thunderbird Appointment în suplimentul Pro"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:12
-msgid "As a Pro user, you want to be able to quickly copy your scheduling link when in Thunderbird. Integrate so it can be inserted into emails, or easily copied from the main toolbar."
-msgstr ""
-"Ca utilizator Pro, vrei să poți să îți copiezi rapid linkul de programare când ești în Thunderbird. Integrează ca să fie inserat în mesaje pe e-mail sau să poată fi copiat ușor din bara de "
-"instrumente principală."
-
-#: sites/roadmaps.thunderbird.net/services/index.html:16
 msgid "Active Sessions"
 msgstr "Sesiuni active"
 
-#: sites/roadmaps.thunderbird.net/services/index.html:16
+#: sites/roadmaps.thunderbird.net/services/index.html:11
 msgid "Give the user a view on their active sessions and allow them to end the session."
 msgstr "Dă utilizatorului o imagine a sesiunilor active și îi permite să încheie o sesiune."
 
-#: sites/roadmaps.thunderbird.net/services/index.html:17
-msgid "MFA Support"
-msgstr "Suport MFA"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:17
-msgid "Multifactor authentication via TOTP or similar. We didn't get to this in 2025, and it is an essential security feature."
-msgstr "Autentificare multifactor prin TOTP sau similar. Nu am ajuns la asta în 2025 și este o caracteristică esențială de securitate."
-
-#: sites/roadmaps.thunderbird.net/services/index.html:18
-msgid "Community Selected Initiative"
-msgstr "Inițiativă selectată de comunitate"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:18
-msgid ""
-"No doubt the community will have a bunch of great ideas on https://ideas.tb.pro that we can build on. We're making sure we have time to work on one of the top community suggestions that will fit "
-"well into the Thunderbird Pro ecosystem."
-msgstr ""
-"Fără îndoială că comunitatea va avea o mulțime de idei grozave pe https://ideas.tb.pro pe care putem construi mai departe. Ne asigurăm că avem timpul necesar să lucrăm pe una dintre sugestiile de "
-"top din comunitate, care să se potrivească bine în ecosistemul Thunderbird Pro."
-
-#: sites/roadmaps.thunderbird.net/services/index.html:19
-msgid "Improve Pro Add-on Integration"
-msgstr "Îmbunătățește integrarea suplimentului Pro"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:19
-msgid ""
-"We are shipping an Thunderbird Pro add-on to enable Pro features in Thunderbird desktop. For a low barrier of entry we want to improve integration by using the system add-on or new account add-on "
-"mechanism. This allows us to make these features easier to discover and use within Thunderbird."
-msgstr ""
-"Propunem un supliment Thunderbird Pro care să activeze funcționalități Pro în desktopul Thunderbird. Pentru o barieră joasă de intrare, vrem să îmbunătățim integrarea folosind mecanismul de "
-"supliment de sistem sau supliment de cont nou. Ne permite să facem funcționalitățile mai ușor de descoperit și de folosit în Thunderbird."
-
-#: sites/roadmaps.thunderbird.net/services/index.html:20
+#: sites/roadmaps.thunderbird.net/services/index.html:12
 msgid "Thundermail: Webmail"
 msgstr "Thundermail: Webmail"
 
-#: sites/roadmaps.thunderbird.net/services/index.html:20
+#: sites/roadmaps.thunderbird.net/services/index.html:12
 msgid ""
-"What would an email service be without webmail? We will spend time making the proof of concept more usable, and enable this as an experimental feature for users willing to try new things earyly. The scope will initially be limited to basic folder visibility and message display.\n"
-"Webmail will be built with JMAP as a backend, and we need to explore how users can benefit from Webmail while still being encouraged to use end to end encryption and allowing search across folders."
+"What would an email service be without webmail? We will spend time making the proof of concept more usable, and enable this as an experimental feature for users willing to try new things early. The "
+"scope will initially be limited to basic folder visibility and message display."
 msgstr ""
-"Ce ar fi un serviciu de poștă electronică fără webmail? Vom dedica timp pentru a face demonstrația conceptului mai utilizabilă și o vom activa ca funcție experimentală pentru utilizatorii dispuși să încerce în avans lucruri noi. Inițial, domeniul de aplicare va fi limitat la vizibilitatea de bază a dosarelor și afișarea mesajelor.\n"
-"Webmail-ul va fi construit cu JMAP ca backend și trebuie să explorăm cum pot beneficia utilizatorii în urma folosirii Webmail, încurajându-i, în același timp, să folosească criptarea end-to-end și permițând căutările în dosare."
 
-#: sites/roadmaps.thunderbird.net/services/index.html:25
+#: sites/roadmaps.thunderbird.net/services/index.html:16
+msgid "Improve Pro Add-on Integration"
+msgstr "Îmbunătățește integrarea suplimentului Pro"
+
+#: sites/roadmaps.thunderbird.net/services/index.html:16
+msgid ""
+"We are shipping a Thunderbird Pro add-on to enable Pro features in Thunderbird desktop. For a low barrier of entry we want to improve integration by using the system add-on or new account add-on "
+"mechanism. This allows us to make these features easier to discover and use within Thunderbird."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:17
+msgid "Import email, contacts, and calendar feature"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:17
+msgid ""
+"As one of the top ideas on ideas.tb.pro, we have added this suggestion from: https://ideas.tb.pro/p/import-email-calendar-and-contacts-feature and it fits into our quest to make Thundermail the "
+"users’ primary inbox."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:21
+msgid "MFA Support"
+msgstr "Suport MFA"
+
+#: sites/roadmaps.thunderbird.net/services/index.html:21
+msgid "Multifactor authentication via TOTP or a similar method is an essential security feature."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:22
+msgid "Send UI Completion"
+msgstr "Finalizare interfață de utilizator Send"
+
+#: sites/roadmaps.thunderbird.net/services/index.html:22
+msgid "Send was shipped as a system add-on and that UI work was completed."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:23
 msgid "Thundermail: Spam Filtering"
 msgstr "Thundermail: Filtrare spam"
 
-#: sites/roadmaps.thunderbird.net/services/index.html:25
+#: sites/roadmaps.thunderbird.net/services/index.html:23
 msgid ""
 "The spam filtering was very aggressive, causing many emails to unintentionally land in the spam folder. The filtering mechanism has been changed to significantly improve this behavior. A big thank "
 "you to Mauro and team from Stalwart, who have made the spam detection algorithm more sophisticated and accurate!"
@@ -5218,3 +5201,48 @@ msgstr "Imagine de fundal Thunderbird pentru desktop"
 #: sites/www.thunderbird.net/thunderbird/wallpaper/index.html:17
 msgid "Thunderbird Desktop Wallpaer"
 msgstr "Imagine de fundal Thunderbird pentru desktop"
+
+#~ msgid ""
+#~ "We are shipping an Thunderbird Pro add-on to enable Pro features in Thunderbird desktop. For a low barrier of entry we want to improve integration by using the system add-on or new account add-on "
+#~ "mechanism. This allows us to make these features easier to discover and use within Thunderbird."
+#~ msgstr ""
+#~ "Propunem un supliment Thunderbird Pro care să activeze funcționalități Pro în desktopul Thunderbird. Pentru o barieră joasă de intrare, vrem să îmbunătățim integrarea folosind mecanismul de "
+#~ "supliment de sistem sau supliment de cont nou. Ne permite să facem funcționalitățile mai ușor de descoperit și de folosit în Thunderbird."
+
+#~ msgid "Last updated March 19, 2026"
+#~ msgstr "Ultima actualizare la 19 martie 2026"
+
+#~ msgid ""
+#~ "Send was the one product we haven't been able to complete UI overhaul work. We don't need to block the rollout for this, but we should work on this to keep it up to par with the other products and "
+#~ "create consistency."
+#~ msgstr ""
+#~ "Send a fost singurul produs pentru care nu am putut finaliza lucrările de revizuire a interfeței pentru utilizator. Nu trebuie să blocăm lansarea din această cauză, dar trebui să lucrăm pentru a-l "
+#~ "menține la același nivel cu celelalte produse și să asigurăm coerența."
+
+#~ msgid "Integrate Thunderbird Appointment into Pro add-on"
+#~ msgstr "Integrează Thunderbird Appointment în suplimentul Pro"
+
+#~ msgid "As a Pro user, you want to be able to quickly copy your scheduling link when in Thunderbird. Integrate so it can be inserted into emails, or easily copied from the main toolbar."
+#~ msgstr ""
+#~ "Ca utilizator Pro, vrei să poți să îți copiezi rapid linkul de programare când ești în Thunderbird. Integrează ca să fie inserat în mesaje pe e-mail sau să poată fi copiat ușor din bara de "
+#~ "instrumente principală."
+
+#~ msgid "Multifactor authentication via TOTP or similar. We didn't get to this in 2025, and it is an essential security feature."
+#~ msgstr "Autentificare multifactor prin TOTP sau similar. Nu am ajuns la asta în 2025 și este o caracteristică esențială de securitate."
+
+#~ msgid "Community Selected Initiative"
+#~ msgstr "Inițiativă selectată de comunitate"
+
+#~ msgid ""
+#~ "No doubt the community will have a bunch of great ideas on https://ideas.tb.pro that we can build on. We're making sure we have time to work on one of the top community suggestions that will fit "
+#~ "well into the Thunderbird Pro ecosystem."
+#~ msgstr ""
+#~ "Fără îndoială că comunitatea va avea o mulțime de idei grozave pe https://ideas.tb.pro pe care putem construi mai departe. Ne asigurăm că avem timpul necesar să lucrăm pe una dintre sugestiile de "
+#~ "top din comunitate, care să se potrivească bine în ecosistemul Thunderbird Pro."
+
+#~ msgid ""
+#~ "What would an email service be without webmail? We will spend time making the proof of concept more usable, and enable this as an experimental feature for users willing to try new things earyly. The scope will initially be limited to basic folder visibility and message display.\n"
+#~ "Webmail will be built with JMAP as a backend, and we need to explore how users can benefit from Webmail while still being encouraged to use end to end encryption and allowing search across folders."
+#~ msgstr ""
+#~ "Ce ar fi un serviciu de poștă electronică fără webmail? Vom dedica timp pentru a face demonstrația conceptului mai utilizabilă și o vom activa ca funcție experimentală pentru utilizatorii dispuși să încerce în avans lucruri noi. Inițial, domeniul de aplicare va fi limitat la vizibilitatea de bază a dosarelor și afișarea mesajelor.\n"
+#~ "Webmail-ul va fi construit cu JMAP ca backend și trebuie să explorăm cum pot beneficia utilizatorii în urma folosirii Webmail, încurajându-i, în același timp, să folosească criptarea end-to-end și permițând căutările în dosare."

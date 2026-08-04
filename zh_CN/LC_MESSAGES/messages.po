@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-08-04 18:11-0400\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Pontoon\n"
@@ -90,7 +92,7 @@ msgid "Modernize the message view to address the most glaring issues like attach
 msgstr "现代化的消息视图解决最明显的问题例如附件处理、消息加载、缩放、移除图片等等。使体验在竞争中具有可比性。"
 
 #: sites/roadmaps.thunderbird.net/android/index.html:20 sites/roadmaps.thunderbird.net/desktop/index.html:22 sites/roadmaps.thunderbird.net/ios/index.html:19
-#: sites/roadmaps.thunderbird.net/services/index.html:23
+#: sites/roadmaps.thunderbird.net/services/index.html:19
 msgid "Shipped"
 msgstr "已推出"
 
@@ -115,7 +117,8 @@ msgid "Added and prioritized due to the Thundermail release. Implemented one-cli
 msgstr "由于 Thundermail 的版本添加并排列优先级。已在首屏实现一键式 OAuth 并实现 Thundermail来自 Web 的二维码扫描从而轻松设置账户。"
 
 #: sites/roadmaps.thunderbird.net/android/index.html:23 sites/roadmaps.thunderbird.net/android/index.html:24 sites/roadmaps.thunderbird.net/desktop/index.html:30
-#: sites/roadmaps.thunderbird.net/desktop/index.html:31 sites/roadmaps.thunderbird.net/ios/index.html:24
+#: sites/roadmaps.thunderbird.net/desktop/index.html:31 sites/roadmaps.thunderbird.net/ios/index.html:24 sites/roadmaps.thunderbird.net/services/index.html:21
+#: sites/roadmaps.thunderbird.net/services/index.html:22
 msgid "June 2026"
 msgstr "2026 年 6 月"
 
@@ -210,7 +213,7 @@ msgid "Complete Account Hub for all account creations, enable it for first time 
 msgstr "创建账户时请填写账户中心为新用户启用。"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:24 sites/roadmaps.thunderbird.net/desktop/index.html:25 sites/roadmaps.thunderbird.net/ios/index.html:23
-#: sites/roadmaps.thunderbird.net/services/index.html:25
+#: sites/roadmaps.thunderbird.net/services/index.html:23
 msgid "March 2026"
 msgstr "2026 年 3 月"
 
@@ -603,84 +606,72 @@ msgid "Thunderbird Pro Services and Infrastructure Support. Follow the roadmap f
 msgstr "Thunderbird Pro 服务和基础设施支持。按照路线图从积极的工作到未来的想法。时间线可能会随着我们的了解和迭代而变化。"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:6
-msgid "Last updated March 19, 2026"
-msgstr "最后更新于 2026 年 3 月 19 日"
+msgid "Last updated August 4, 2026"
+msgstr ""
 
 #: sites/roadmaps.thunderbird.net/services/index.html:7
 msgid "Submit your ideas for Thunderbird Pro"
 msgstr "提交你对 Thunderbird Pro 的想法"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:11
-msgid "Send UI Completion"
-msgstr "发送界面完成信息"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:11
-msgid ""
-"Send was the one product we haven't been able to complete UI overhaul work. We don't need to block the rollout for this, but we should work on this to keep it up to par with the other products and "
-"create consistency."
-msgstr "Send 是唯一一个我们未能完成 UI 革新的产品。我们不需要为它阻止首次推出但我们应该努力让它与其他产品保持一致并创造一致性。"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:12
-msgid "Integrate Thunderbird Appointment into Pro add-on"
-msgstr "将 Thunderbird Appointmentment 集成到 Pro 附加组件中"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:12
-msgid "As a Pro user, you want to be able to quickly copy your scheduling link when in Thunderbird. Integrate so it can be inserted into emails, or easily copied from the main toolbar."
-msgstr "作为 Pro 用户您希望在使用 Thunderbird 时能够快速复制安排链接。集成因此可以将其插入电子邮件或从主工具栏轻松复制。"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:16
 msgid "Active Sessions"
 msgstr "活动会话"
 
-#: sites/roadmaps.thunderbird.net/services/index.html:16
+#: sites/roadmaps.thunderbird.net/services/index.html:11
 msgid "Give the user a view on their active sessions and allow them to end the session."
 msgstr "让用户可以查看其活动会话并允许他们结束会话。"
 
-#: sites/roadmaps.thunderbird.net/services/index.html:17
-msgid "MFA Support"
-msgstr "MFA 支持"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:17
-msgid "Multifactor authentication via TOTP or similar. We didn't get to this in 2025, and it is an essential security feature."
-msgstr "通过 TOTP 或类似机制进行的多因素身份验证。我们在 2025 年未实现此功能但这是一项基本安全功能。"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:18
-msgid "Community Selected Initiative"
-msgstr "社区精选倡议"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:18
-msgid ""
-"No doubt the community will have a bunch of great ideas on https://ideas.tb.pro that we can build on. We're making sure we have time to work on one of the top community suggestions that will fit "
-"well into the Thunderbird Pro ecosystem."
-msgstr "毫无疑问在 https://ideas.tb.pro 上社区会有很多我们可以借鉴的好点子。我们正在确认是否有时间处理一项热门的社区建议这将会很好地融入 Thunderbird Pro 生态系统。"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:19
-msgid "Improve Pro Add-on Integration"
-msgstr "改进 Pro 附加组件集成"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:19
-msgid ""
-"We are shipping an Thunderbird Pro add-on to enable Pro features in Thunderbird desktop. For a low barrier of entry we want to improve integration by using the system add-on or new account add-on "
-"mechanism. This allows us to make these features easier to discover and use within Thunderbird."
-msgstr "我们正在发行 Thunderbird Pro 附加组件以在 Thunderbird 桌面版中启用 Pro 功能。为了降低进入门槛我们希望通过使用系统附加组件或新账户附加组件的机制来改进集成。这使我们能够在 Thunderbird 中更容易发现和使用这些功能。"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:20
+#: sites/roadmaps.thunderbird.net/services/index.html:12
 msgid "Thundermail: Webmail"
 msgstr "ThundermailWebmail"
 
-#: sites/roadmaps.thunderbird.net/services/index.html:20
+#: sites/roadmaps.thunderbird.net/services/index.html:12
 msgid ""
-"What would an email service be without webmail? We will spend time making the proof of concept more usable, and enable this as an experimental feature for users willing to try new things earyly. The scope will initially be limited to basic folder visibility and message display.\n"
-"Webmail will be built with JMAP as a backend, and we need to explore how users can benefit from Webmail while still being encouraged to use end to end encryption and allowing search across folders."
+"What would an email service be without webmail? We will spend time making the proof of concept more usable, and enable this as an experimental feature for users willing to try new things early. The "
+"scope will initially be limited to basic folder visibility and message display."
 msgstr ""
-"如果电子邮件服务没有 Webmail 将会怎样？我们将花时间使概念验证更好用，并将其作为愿意及早尝试新事物的用户的实验功能启用。范围最初仅限于基本的文件夹可见性和消息显示。\n"
-"Webmail 将以 JMAP 作为后端构建，我们需要探索如何在鼓励用户使用 Webmail 的同时使用端到端加密并允许跨文件夹搜索。"
 
-#: sites/roadmaps.thunderbird.net/services/index.html:25
+#: sites/roadmaps.thunderbird.net/services/index.html:16
+msgid "Improve Pro Add-on Integration"
+msgstr "改进 Pro 附加组件集成"
+
+#: sites/roadmaps.thunderbird.net/services/index.html:16
+msgid ""
+"We are shipping a Thunderbird Pro add-on to enable Pro features in Thunderbird desktop. For a low barrier of entry we want to improve integration by using the system add-on or new account add-on "
+"mechanism. This allows us to make these features easier to discover and use within Thunderbird."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:17
+msgid "Import email, contacts, and calendar feature"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:17
+msgid ""
+"As one of the top ideas on ideas.tb.pro, we have added this suggestion from: https://ideas.tb.pro/p/import-email-calendar-and-contacts-feature and it fits into our quest to make Thundermail the "
+"users’ primary inbox."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:21
+msgid "MFA Support"
+msgstr "MFA 支持"
+
+#: sites/roadmaps.thunderbird.net/services/index.html:21
+msgid "Multifactor authentication via TOTP or a similar method is an essential security feature."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:22
+msgid "Send UI Completion"
+msgstr "发送界面完成信息"
+
+#: sites/roadmaps.thunderbird.net/services/index.html:22
+msgid "Send was shipped as a system add-on and that UI work was completed."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:23
 msgid "Thundermail: Spam Filtering"
 msgstr "Thundermail 垃圾邮件过滤"
 
-#: sites/roadmaps.thunderbird.net/services/index.html:25
+#: sites/roadmaps.thunderbird.net/services/index.html:23
 msgid ""
 "The spam filtering was very aggressive, causing many emails to unintentionally land in the spam folder. The filtering mechanism has been changed to significantly improve this behavior. A big thank "
 "you to Mauro and team from Stalwart, who have made the spam detection algorithm more sophisticated and accurate!"
@@ -4822,3 +4813,40 @@ msgstr "Thunderbird 桌面版壁纸"
 #: sites/www.thunderbird.net/thunderbird/wallpaper/index.html:17
 msgid "Thunderbird Desktop Wallpaer"
 msgstr "Thunderbird 桌面版壁纸"
+
+#~ msgid ""
+#~ "We are shipping an Thunderbird Pro add-on to enable Pro features in Thunderbird desktop. For a low barrier of entry we want to improve integration by using the system add-on or new account add-on "
+#~ "mechanism. This allows us to make these features easier to discover and use within Thunderbird."
+#~ msgstr "我们正在发行 Thunderbird Pro 附加组件以在 Thunderbird 桌面版中启用 Pro 功能。为了降低进入门槛我们希望通过使用系统附加组件或新账户附加组件的机制来改进集成。这使我们能够在 Thunderbird 中更容易发现和使用这些功能。"
+
+#~ msgid "Last updated March 19, 2026"
+#~ msgstr "最后更新于 2026 年 3 月 19 日"
+
+#~ msgid ""
+#~ "Send was the one product we haven't been able to complete UI overhaul work. We don't need to block the rollout for this, but we should work on this to keep it up to par with the other products and "
+#~ "create consistency."
+#~ msgstr "Send 是唯一一个我们未能完成 UI 革新的产品。我们不需要为它阻止首次推出但我们应该努力让它与其他产品保持一致并创造一致性。"
+
+#~ msgid "Integrate Thunderbird Appointment into Pro add-on"
+#~ msgstr "将 Thunderbird Appointmentment 集成到 Pro 附加组件中"
+
+#~ msgid "As a Pro user, you want to be able to quickly copy your scheduling link when in Thunderbird. Integrate so it can be inserted into emails, or easily copied from the main toolbar."
+#~ msgstr "作为 Pro 用户您希望在使用 Thunderbird 时能够快速复制安排链接。集成因此可以将其插入电子邮件或从主工具栏轻松复制。"
+
+#~ msgid "Multifactor authentication via TOTP or similar. We didn't get to this in 2025, and it is an essential security feature."
+#~ msgstr "通过 TOTP 或类似机制进行的多因素身份验证。我们在 2025 年未实现此功能但这是一项基本安全功能。"
+
+#~ msgid "Community Selected Initiative"
+#~ msgstr "社区精选倡议"
+
+#~ msgid ""
+#~ "No doubt the community will have a bunch of great ideas on https://ideas.tb.pro that we can build on. We're making sure we have time to work on one of the top community suggestions that will fit "
+#~ "well into the Thunderbird Pro ecosystem."
+#~ msgstr "毫无疑问在 https://ideas.tb.pro 上社区会有很多我们可以借鉴的好点子。我们正在确认是否有时间处理一项热门的社区建议这将会很好地融入 Thunderbird Pro 生态系统。"
+
+#~ msgid ""
+#~ "What would an email service be without webmail? We will spend time making the proof of concept more usable, and enable this as an experimental feature for users willing to try new things earyly. The scope will initially be limited to basic folder visibility and message display.\n"
+#~ "Webmail will be built with JMAP as a backend, and we need to explore how users can benefit from Webmail while still being encouraged to use end to end encryption and allowing search across folders."
+#~ msgstr ""
+#~ "如果电子邮件服务没有 Webmail 将会怎样？我们将花时间使概念验证更好用，并将其作为愿意及早尝试新事物的用户的实验功能启用。范围最初仅限于基本的文件夹可见性和消息显示。\n"
+#~ "Webmail 将以 JMAP 作为后端构建，我们需要探索如何在鼓励用户使用 Webmail 的同时使用端到端加密并允许跨文件夹搜索。"

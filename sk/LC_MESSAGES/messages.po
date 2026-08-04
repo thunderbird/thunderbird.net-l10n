@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-08-04 18:11-0400\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Generated-By: Pontoon\n"
@@ -94,7 +96,7 @@ msgstr ""
 " porovnateľný s konkurenciou."
 
 #: sites/roadmaps.thunderbird.net/android/index.html:20 sites/roadmaps.thunderbird.net/desktop/index.html:22 sites/roadmaps.thunderbird.net/ios/index.html:19
-#: sites/roadmaps.thunderbird.net/services/index.html:23
+#: sites/roadmaps.thunderbird.net/services/index.html:19
 msgid "Shipped"
 msgstr "Dokončené"
 
@@ -119,7 +121,8 @@ msgid "Added and prioritized due to the Thundermail release. Implemented one-cli
 msgstr ""
 
 #: sites/roadmaps.thunderbird.net/android/index.html:23 sites/roadmaps.thunderbird.net/android/index.html:24 sites/roadmaps.thunderbird.net/desktop/index.html:30
-#: sites/roadmaps.thunderbird.net/desktop/index.html:31 sites/roadmaps.thunderbird.net/ios/index.html:24
+#: sites/roadmaps.thunderbird.net/desktop/index.html:31 sites/roadmaps.thunderbird.net/ios/index.html:24 sites/roadmaps.thunderbird.net/services/index.html:21
+#: sites/roadmaps.thunderbird.net/services/index.html:22
 msgid "June 2026"
 msgstr ""
 
@@ -214,7 +217,7 @@ msgid "Complete Account Hub for all account creations, enable it for first time 
 msgstr "Dokončenie Centra účtov pre všetky vytvorené účty a jeho povolenie pre nových používateľov."
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:24 sites/roadmaps.thunderbird.net/desktop/index.html:25 sites/roadmaps.thunderbird.net/ios/index.html:23
-#: sites/roadmaps.thunderbird.net/services/index.html:25
+#: sites/roadmaps.thunderbird.net/services/index.html:23
 msgid "March 2026"
 msgstr "Marec 2026"
 
@@ -611,92 +614,72 @@ msgid "Thunderbird Pro Services and Infrastructure Support. Follow the roadmap f
 msgstr "Podpora služieb a infraštruktúry Thunderbird Pro. Sledujte plán od aktívnej práce k budúcim nápadom. Harmonogramy sa môžu meniť v priebehu učenia a iterácií."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:6
-msgid "Last updated March 19, 2026"
-msgstr "Posledná aktualizácia 19. marca 2026"
+msgid "Last updated August 4, 2026"
+msgstr ""
 
 #: sites/roadmaps.thunderbird.net/services/index.html:7
 msgid "Submit your ideas for Thunderbird Pro"
 msgstr "Odošlite svoje nápady pre Thunderbird Pro"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:11
-msgid "Send UI Completion"
-msgstr "Dokončenie používateľského rozhrania pre službu Send"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:11
-msgid ""
-"Send was the one product we haven't been able to complete UI overhaul work. We don't need to block the rollout for this, but we should work on this to keep it up to par with the other products and "
-"create consistency."
-msgstr ""
-"Send bol jediný produkt, u ktorého sme nedokázali dokončiť prepracovanie používateľského rozhrania. Nemusíme kvôli tomu blokovať jeho spustenie, ale mali by sme na ňom pracovať, aby sme ho udržali "
-"na úrovni ostatných produktov a zabezpečili konzistenciu."
-
-#: sites/roadmaps.thunderbird.net/services/index.html:12
-msgid "Integrate Thunderbird Appointment into Pro add-on"
-msgstr "Integrácia Thunderbird Appointment do doplnku Pro"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:12
-msgid "As a Pro user, you want to be able to quickly copy your scheduling link when in Thunderbird. Integrate so it can be inserted into emails, or easily copied from the main toolbar."
-msgstr ""
-"Ako používateľ verzie Pro chcete mať možnosť rýchlo skopírovať odkaz na plánovanie priamo v Thunderbirde. Cieľom je taká integrácia, aby sa odkaz dal vložiť do e‑mailov alebo jednoducho skopírovať z"
-" hlavného panela s nástrojmi."
-
-#: sites/roadmaps.thunderbird.net/services/index.html:16
 msgid "Active Sessions"
 msgstr "Aktívne relácie"
 
-#: sites/roadmaps.thunderbird.net/services/index.html:16
+#: sites/roadmaps.thunderbird.net/services/index.html:11
 msgid "Give the user a view on their active sessions and allow them to end the session."
 msgstr "Poskytnúť používateľovi prehľad o jeho aktívnych reláciách a umožniť mu ich ukončiť."
 
-#: sites/roadmaps.thunderbird.net/services/index.html:17
-msgid "MFA Support"
-msgstr "Podpora MFA"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:17
-msgid "Multifactor authentication via TOTP or similar. We didn't get to this in 2025, and it is an essential security feature."
-msgstr "Viacstupňové overovanie prostredníctvom TOTP alebo podobného protokolu. K tomu sme sa v roku 2025 nedostali a je to základná bezpečnostná funkcia."
-
-#: sites/roadmaps.thunderbird.net/services/index.html:18
-msgid "Community Selected Initiative"
-msgstr "Iniciatíva vybraná komunitou"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:18
-msgid ""
-"No doubt the community will have a bunch of great ideas on https://ideas.tb.pro that we can build on. We're making sure we have time to work on one of the top community suggestions that will fit "
-"well into the Thunderbird Pro ecosystem."
-msgstr ""
-"Niet pochýb o tom, že komunita bude mať na https://ideas.tb.pro množstvo skvelých nápadov, na ktorých môžeme stavať. Snažíme sa zabezpečiť, aby sme mali čas pracovať na jednom z najlepších návrhov "
-"komunity, ktorý dobre zapadne do ekosystému Thunderbird Pro."
-
-#: sites/roadmaps.thunderbird.net/services/index.html:19
-msgid "Improve Pro Add-on Integration"
-msgstr "Vylepšenie integrácie doplnku Pro"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:19
-msgid ""
-"We are shipping an Thunderbird Pro add-on to enable Pro features in Thunderbird desktop. For a low barrier of entry we want to improve integration by using the system add-on or new account add-on "
-"mechanism. This allows us to make these features easier to discover and use within Thunderbird."
-msgstr ""
-"Vydávame doplnok pre Thunderbird Pro, ktorý v počítačovej verzii Thunderbirdu sprístupňuje funkcie verzie Pro. Aby sme používateľom čo najviac uľahčili začiatok, chceme zlepšiť integráciu pomocou "
-"systémového doplnku alebo nového mechanizmu na pridávanie účtov. Vďaka tomu budú tieto funkcie v Thunderbirde ľahšie objaviteľné a použiteľné."
-
-#: sites/roadmaps.thunderbird.net/services/index.html:20
+#: sites/roadmaps.thunderbird.net/services/index.html:12
 msgid "Thundermail: Webmail"
 msgstr "Thundermail: Webmail"
 
-#: sites/roadmaps.thunderbird.net/services/index.html:20
+#: sites/roadmaps.thunderbird.net/services/index.html:12
 msgid ""
-"What would an email service be without webmail? We will spend time making the proof of concept more usable, and enable this as an experimental feature for users willing to try new things earyly. The scope will initially be limited to basic folder visibility and message display.\n"
-"Webmail will be built with JMAP as a backend, and we need to explore how users can benefit from Webmail while still being encouraged to use end to end encryption and allowing search across folders."
+"What would an email service be without webmail? We will spend time making the proof of concept more usable, and enable this as an experimental feature for users willing to try new things early. The "
+"scope will initially be limited to basic folder visibility and message display."
 msgstr ""
-"Čo by bola e‑mailová služba bez webmailu? Venujeme čas tomu, aby bol koncept použiteľnejší, a umožníme ho ako experimentálnu funkciu pre používateľov, ktorí sú ochotní vyskúšať nové veci v ranom štádiu. Rozsah bude spočiatku obmedzený na základnú viditeľnosť priečinkov a zobrazenie správ.\n"
-"Webmail bude vytvorený s JMAP ako backendom a musíme preskúmať, ako môžu používatelia využívať výhody webmailu a zároveň byť povzbudzovaní k používaniu obojstranného šifrovania a mať možnosť vyhľadávania v priečinkoch."
 
-#: sites/roadmaps.thunderbird.net/services/index.html:25
+#: sites/roadmaps.thunderbird.net/services/index.html:16
+msgid "Improve Pro Add-on Integration"
+msgstr "Vylepšenie integrácie doplnku Pro"
+
+#: sites/roadmaps.thunderbird.net/services/index.html:16
+msgid ""
+"We are shipping a Thunderbird Pro add-on to enable Pro features in Thunderbird desktop. For a low barrier of entry we want to improve integration by using the system add-on or new account add-on "
+"mechanism. This allows us to make these features easier to discover and use within Thunderbird."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:17
+msgid "Import email, contacts, and calendar feature"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:17
+msgid ""
+"As one of the top ideas on ideas.tb.pro, we have added this suggestion from: https://ideas.tb.pro/p/import-email-calendar-and-contacts-feature and it fits into our quest to make Thundermail the "
+"users’ primary inbox."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:21
+msgid "MFA Support"
+msgstr "Podpora MFA"
+
+#: sites/roadmaps.thunderbird.net/services/index.html:21
+msgid "Multifactor authentication via TOTP or a similar method is an essential security feature."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:22
+msgid "Send UI Completion"
+msgstr "Dokončenie používateľského rozhrania pre službu Send"
+
+#: sites/roadmaps.thunderbird.net/services/index.html:22
+msgid "Send was shipped as a system add-on and that UI work was completed."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:23
 msgid "Thundermail: Spam Filtering"
 msgstr "Thundermail: Filtrovanie nevyžiadanej pošty"
 
-#: sites/roadmaps.thunderbird.net/services/index.html:25
+#: sites/roadmaps.thunderbird.net/services/index.html:23
 msgid ""
 "The spam filtering was very aggressive, causing many emails to unintentionally land in the spam folder. The filtering mechanism has been changed to significantly improve this behavior. A big thank "
 "you to Mauro and team from Stalwart, who have made the spam detection algorithm more sophisticated and accurate!"
@@ -5113,3 +5096,48 @@ msgstr "Tapeta na plochu Thunderbird"
 #: sites/www.thunderbird.net/thunderbird/wallpaper/index.html:17
 msgid "Thunderbird Desktop Wallpaer"
 msgstr "Tapeta na plochu Thunderbird"
+
+#~ msgid ""
+#~ "We are shipping an Thunderbird Pro add-on to enable Pro features in Thunderbird desktop. For a low barrier of entry we want to improve integration by using the system add-on or new account add-on "
+#~ "mechanism. This allows us to make these features easier to discover and use within Thunderbird."
+#~ msgstr ""
+#~ "Vydávame doplnok pre Thunderbird Pro, ktorý v počítačovej verzii Thunderbirdu sprístupňuje funkcie verzie Pro. Aby sme používateľom čo najviac uľahčili začiatok, chceme zlepšiť integráciu pomocou "
+#~ "systémového doplnku alebo nového mechanizmu na pridávanie účtov. Vďaka tomu budú tieto funkcie v Thunderbirde ľahšie objaviteľné a použiteľné."
+
+#~ msgid "Last updated March 19, 2026"
+#~ msgstr "Posledná aktualizácia 19. marca 2026"
+
+#~ msgid ""
+#~ "Send was the one product we haven't been able to complete UI overhaul work. We don't need to block the rollout for this, but we should work on this to keep it up to par with the other products and "
+#~ "create consistency."
+#~ msgstr ""
+#~ "Send bol jediný produkt, u ktorého sme nedokázali dokončiť prepracovanie používateľského rozhrania. Nemusíme kvôli tomu blokovať jeho spustenie, ale mali by sme na ňom pracovať, aby sme ho udržali "
+#~ "na úrovni ostatných produktov a zabezpečili konzistenciu."
+
+#~ msgid "Integrate Thunderbird Appointment into Pro add-on"
+#~ msgstr "Integrácia Thunderbird Appointment do doplnku Pro"
+
+#~ msgid "As a Pro user, you want to be able to quickly copy your scheduling link when in Thunderbird. Integrate so it can be inserted into emails, or easily copied from the main toolbar."
+#~ msgstr ""
+#~ "Ako používateľ verzie Pro chcete mať možnosť rýchlo skopírovať odkaz na plánovanie priamo v Thunderbirde. Cieľom je taká integrácia, aby sa odkaz dal vložiť do e‑mailov alebo jednoducho skopírovať z"
+#~ " hlavného panela s nástrojmi."
+
+#~ msgid "Multifactor authentication via TOTP or similar. We didn't get to this in 2025, and it is an essential security feature."
+#~ msgstr "Viacstupňové overovanie prostredníctvom TOTP alebo podobného protokolu. K tomu sme sa v roku 2025 nedostali a je to základná bezpečnostná funkcia."
+
+#~ msgid "Community Selected Initiative"
+#~ msgstr "Iniciatíva vybraná komunitou"
+
+#~ msgid ""
+#~ "No doubt the community will have a bunch of great ideas on https://ideas.tb.pro that we can build on. We're making sure we have time to work on one of the top community suggestions that will fit "
+#~ "well into the Thunderbird Pro ecosystem."
+#~ msgstr ""
+#~ "Niet pochýb o tom, že komunita bude mať na https://ideas.tb.pro množstvo skvelých nápadov, na ktorých môžeme stavať. Snažíme sa zabezpečiť, aby sme mali čas pracovať na jednom z najlepších návrhov "
+#~ "komunity, ktorý dobre zapadne do ekosystému Thunderbird Pro."
+
+#~ msgid ""
+#~ "What would an email service be without webmail? We will spend time making the proof of concept more usable, and enable this as an experimental feature for users willing to try new things earyly. The scope will initially be limited to basic folder visibility and message display.\n"
+#~ "Webmail will be built with JMAP as a backend, and we need to explore how users can benefit from Webmail while still being encouraged to use end to end encryption and allowing search across folders."
+#~ msgstr ""
+#~ "Čo by bola e‑mailová služba bez webmailu? Venujeme čas tomu, aby bol koncept použiteľnejší, a umožníme ho ako experimentálnu funkciu pre používateľov, ktorí sú ochotní vyskúšať nové veci v ranom štádiu. Rozsah bude spočiatku obmedzený na základnú viditeľnosť priečinkov a zobrazenie správ.\n"
+#~ "Webmail bude vytvorený s JMAP ako backendom a musíme preskúmať, ako môžu používatelia využívať výhody webmailu a zároveň byť povzbudzovaní k používaniu obojstranného šifrovania a mať možnosť vyhľadávania v priečinkoch."

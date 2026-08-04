@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-08-04 18:11-0400\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Pontoon\n"
@@ -94,7 +96,7 @@ msgstr ""
 "конкуренцијом."
 
 #: sites/roadmaps.thunderbird.net/android/index.html:20 sites/roadmaps.thunderbird.net/desktop/index.html:22 sites/roadmaps.thunderbird.net/ios/index.html:19
-#: sites/roadmaps.thunderbird.net/services/index.html:23
+#: sites/roadmaps.thunderbird.net/services/index.html:19
 msgid "Shipped"
 msgstr "Објављено"
 
@@ -119,7 +121,8 @@ msgid "Added and prioritized due to the Thundermail release. Implemented one-cli
 msgstr ""
 
 #: sites/roadmaps.thunderbird.net/android/index.html:23 sites/roadmaps.thunderbird.net/android/index.html:24 sites/roadmaps.thunderbird.net/desktop/index.html:30
-#: sites/roadmaps.thunderbird.net/desktop/index.html:31 sites/roadmaps.thunderbird.net/ios/index.html:24
+#: sites/roadmaps.thunderbird.net/desktop/index.html:31 sites/roadmaps.thunderbird.net/ios/index.html:24 sites/roadmaps.thunderbird.net/services/index.html:21
+#: sites/roadmaps.thunderbird.net/services/index.html:22
 msgid "June 2026"
 msgstr ""
 
@@ -214,7 +217,7 @@ msgid "Complete Account Hub for all account creations, enable it for first time 
 msgstr "Завршимо Центар за налоге за све креирања налога и омогућите га корисницима при првом коришћењу."
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:24 sites/roadmaps.thunderbird.net/desktop/index.html:25 sites/roadmaps.thunderbird.net/ios/index.html:23
-#: sites/roadmaps.thunderbird.net/services/index.html:25
+#: sites/roadmaps.thunderbird.net/services/index.html:23
 msgid "March 2026"
 msgstr "Март 2026."
 
@@ -609,92 +612,72 @@ msgid "Thunderbird Pro Services and Infrastructure Support. Follow the roadmap f
 msgstr "Подршка за Thunderbird Pro услуге и инфраструктуру. Пратите мапу пута од активног рада до будућих идеја. Временски оквири се могу променити како учимо и итерирамо."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:6
-msgid "Last updated March 19, 2026"
-msgstr "Последњи пут ажурирано 19. марта 2026."
+msgid "Last updated August 4, 2026"
+msgstr ""
 
 #: sites/roadmaps.thunderbird.net/services/index.html:7
 msgid "Submit your ideas for Thunderbird Pro"
 msgstr "Пошаљите ваше идеје за Thunderbird Pro"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:11
-msgid "Send UI Completion"
-msgstr "Пошаљимо завршење КП"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:11
-msgid ""
-"Send was the one product we haven't been able to complete UI overhaul work. We don't need to block the rollout for this, but we should work on this to keep it up to par with the other products and "
-"create consistency."
-msgstr ""
-"Send је био једини производ код којег нисмо успели да завршимо посао потпуног преображаја корисничког прочеља. Не морамо да блокирамо увођење због тога, али би требало да радимо на томе како би "
-"остао у нивоу са осталим производима и како бисмо остварили једнообразност."
-
-#: sites/roadmaps.thunderbird.net/services/index.html:12
-msgid "Integrate Thunderbird Appointment into Pro add-on"
-msgstr "Интегришимо Thunderbird Appointment у Pro додатак"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:12
-msgid "As a Pro user, you want to be able to quickly copy your scheduling link when in Thunderbird. Integrate so it can be inserted into emails, or easily copied from the main toolbar."
-msgstr ""
-"Као Pro корисник, желите да можете брзо да копирате своју везу за заказивање док сте у Thunderbird-у. Интегришите ово тако да се може уметнути у е-поште или лако копирати са главне траке са "
-"алаткама."
-
-#: sites/roadmaps.thunderbird.net/services/index.html:16
 msgid "Active Sessions"
 msgstr "Активне сесије"
 
-#: sites/roadmaps.thunderbird.net/services/index.html:16
+#: sites/roadmaps.thunderbird.net/services/index.html:11
 msgid "Give the user a view on their active sessions and allow them to end the session."
 msgstr "Омогућимо кориснику преглед њихових активних сесија и дозволимо им да заврше сесију."
 
-#: sites/roadmaps.thunderbird.net/services/index.html:17
-msgid "MFA Support"
-msgstr "Подршка за MFA"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:17
-msgid "Multifactor authentication via TOTP or similar. We didn't get to this in 2025, and it is an essential security feature."
-msgstr "Вишефакторно потврђивање идентитета путем TOTP-а или сличног. Нисмо стигли до овога 2025. године, а то је основна функција безбедности."
-
-#: sites/roadmaps.thunderbird.net/services/index.html:18
-msgid "Community Selected Initiative"
-msgstr "Изабрана иницијатива заједнице"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:18
-msgid ""
-"No doubt the community will have a bunch of great ideas on https://ideas.tb.pro that we can build on. We're making sure we have time to work on one of the top community suggestions that will fit "
-"well into the Thunderbird Pro ecosystem."
-msgstr ""
-"Нема сумње да ће заједница имати мноштво сјајних идеја на https://ideas.tb.pro на којима можемо да надградимо. Постараћемо се да имамо времена за рад на једном од најбољих предлога заједнице који ће"
-" се добро уклопити у Thunderbird Pro екосистем."
-
-#: sites/roadmaps.thunderbird.net/services/index.html:19
-msgid "Improve Pro Add-on Integration"
-msgstr "Побољшање интеграције Pro додатака"
-
-#: sites/roadmaps.thunderbird.net/services/index.html:19
-msgid ""
-"We are shipping an Thunderbird Pro add-on to enable Pro features in Thunderbird desktop. For a low barrier of entry we want to improve integration by using the system add-on or new account add-on "
-"mechanism. This allows us to make these features easier to discover and use within Thunderbird."
-msgstr ""
-"Испоручујемо Thunderbird Pro додатак како бисмо омогућили Pro могућности у стоном Thunderbird-у. За лакши приступ желимо да побољшамо интеграцију коришћењем системског додатка или механизма додатка "
-"за нове налоге. Ово нам омогућава да ове могућности учинимо лакшим за откривање и коришћење унутар Thunderbird-а."
-
-#: sites/roadmaps.thunderbird.net/services/index.html:20
+#: sites/roadmaps.thunderbird.net/services/index.html:12
 msgid "Thundermail: Webmail"
 msgstr "Thundermail: веб пошта"
 
-#: sites/roadmaps.thunderbird.net/services/index.html:20
+#: sites/roadmaps.thunderbird.net/services/index.html:12
 msgid ""
-"What would an email service be without webmail? We will spend time making the proof of concept more usable, and enable this as an experimental feature for users willing to try new things earyly. The scope will initially be limited to basic folder visibility and message display.\n"
-"Webmail will be built with JMAP as a backend, and we need to explore how users can benefit from Webmail while still being encouraged to use end to end encryption and allowing search across folders."
+"What would an email service be without webmail? We will spend time making the proof of concept more usable, and enable this as an experimental feature for users willing to try new things early. The "
+"scope will initially be limited to basic folder visibility and message display."
 msgstr ""
-"Шта би била услуга е-поште без веб поште? Посветићемо време томе да доказ концепта учинимо употребљивијим и омогућићемо ово као експерименталну функцију за кориснике који су спремни да рано испробају нове ствари. Опсег ће првобитно бити ограничен на основну видљивост фасцикли и приказ порука.\n"
-"Веб пошта ће бити изграђена са JMAP-ом као позадинацем, а ми морамо истражити како корисници могу искористити предности веб поште, а да и даље буду подстицани да користе шифровање од краја до краја и да омогуће претрагу кроз фасцикле."
 
-#: sites/roadmaps.thunderbird.net/services/index.html:25
+#: sites/roadmaps.thunderbird.net/services/index.html:16
+msgid "Improve Pro Add-on Integration"
+msgstr "Побољшање интеграције Pro додатака"
+
+#: sites/roadmaps.thunderbird.net/services/index.html:16
+msgid ""
+"We are shipping a Thunderbird Pro add-on to enable Pro features in Thunderbird desktop. For a low barrier of entry we want to improve integration by using the system add-on or new account add-on "
+"mechanism. This allows us to make these features easier to discover and use within Thunderbird."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:17
+msgid "Import email, contacts, and calendar feature"
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:17
+msgid ""
+"As one of the top ideas on ideas.tb.pro, we have added this suggestion from: https://ideas.tb.pro/p/import-email-calendar-and-contacts-feature and it fits into our quest to make Thundermail the "
+"users’ primary inbox."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:21
+msgid "MFA Support"
+msgstr "Подршка за MFA"
+
+#: sites/roadmaps.thunderbird.net/services/index.html:21
+msgid "Multifactor authentication via TOTP or a similar method is an essential security feature."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:22
+msgid "Send UI Completion"
+msgstr "Пошаљимо завршење КП"
+
+#: sites/roadmaps.thunderbird.net/services/index.html:22
+msgid "Send was shipped as a system add-on and that UI work was completed."
+msgstr ""
+
+#: sites/roadmaps.thunderbird.net/services/index.html:23
 msgid "Thundermail: Spam Filtering"
 msgstr "Thundermail: филтрирање непожељног"
 
-#: sites/roadmaps.thunderbird.net/services/index.html:25
+#: sites/roadmaps.thunderbird.net/services/index.html:23
 msgid ""
 "The spam filtering was very aggressive, causing many emails to unintentionally land in the spam folder. The filtering mechanism has been changed to significantly improve this behavior. A big thank "
 "you to Mauro and team from Stalwart, who have made the spam detection algorithm more sophisticated and accurate!"
@@ -5135,3 +5118,48 @@ msgstr "Thunderbird позадина за радну површину"
 #: sites/www.thunderbird.net/thunderbird/wallpaper/index.html:17
 msgid "Thunderbird Desktop Wallpaer"
 msgstr "Thunderbird позадина за радну површину"
+
+#~ msgid ""
+#~ "We are shipping an Thunderbird Pro add-on to enable Pro features in Thunderbird desktop. For a low barrier of entry we want to improve integration by using the system add-on or new account add-on "
+#~ "mechanism. This allows us to make these features easier to discover and use within Thunderbird."
+#~ msgstr ""
+#~ "Испоручујемо Thunderbird Pro додатак како бисмо омогућили Pro могућности у стоном Thunderbird-у. За лакши приступ желимо да побољшамо интеграцију коришћењем системског додатка или механизма додатка "
+#~ "за нове налоге. Ово нам омогућава да ове могућности учинимо лакшим за откривање и коришћење унутар Thunderbird-а."
+
+#~ msgid "Last updated March 19, 2026"
+#~ msgstr "Последњи пут ажурирано 19. марта 2026."
+
+#~ msgid ""
+#~ "Send was the one product we haven't been able to complete UI overhaul work. We don't need to block the rollout for this, but we should work on this to keep it up to par with the other products and "
+#~ "create consistency."
+#~ msgstr ""
+#~ "Send је био једини производ код којег нисмо успели да завршимо посао потпуног преображаја корисничког прочеља. Не морамо да блокирамо увођење због тога, али би требало да радимо на томе како би "
+#~ "остао у нивоу са осталим производима и како бисмо остварили једнообразност."
+
+#~ msgid "Integrate Thunderbird Appointment into Pro add-on"
+#~ msgstr "Интегришимо Thunderbird Appointment у Pro додатак"
+
+#~ msgid "As a Pro user, you want to be able to quickly copy your scheduling link when in Thunderbird. Integrate so it can be inserted into emails, or easily copied from the main toolbar."
+#~ msgstr ""
+#~ "Као Pro корисник, желите да можете брзо да копирате своју везу за заказивање док сте у Thunderbird-у. Интегришите ово тако да се може уметнути у е-поште или лако копирати са главне траке са "
+#~ "алаткама."
+
+#~ msgid "Multifactor authentication via TOTP or similar. We didn't get to this in 2025, and it is an essential security feature."
+#~ msgstr "Вишефакторно потврђивање идентитета путем TOTP-а или сличног. Нисмо стигли до овога 2025. године, а то је основна функција безбедности."
+
+#~ msgid "Community Selected Initiative"
+#~ msgstr "Изабрана иницијатива заједнице"
+
+#~ msgid ""
+#~ "No doubt the community will have a bunch of great ideas on https://ideas.tb.pro that we can build on. We're making sure we have time to work on one of the top community suggestions that will fit "
+#~ "well into the Thunderbird Pro ecosystem."
+#~ msgstr ""
+#~ "Нема сумње да ће заједница имати мноштво сјајних идеја на https://ideas.tb.pro на којима можемо да надградимо. Постараћемо се да имамо времена за рад на једном од најбољих предлога заједнице који ће"
+#~ " се добро уклопити у Thunderbird Pro екосистем."
+
+#~ msgid ""
+#~ "What would an email service be without webmail? We will spend time making the proof of concept more usable, and enable this as an experimental feature for users willing to try new things earyly. The scope will initially be limited to basic folder visibility and message display.\n"
+#~ "Webmail will be built with JMAP as a backend, and we need to explore how users can benefit from Webmail while still being encouraged to use end to end encryption and allowing search across folders."
+#~ msgstr ""
+#~ "Шта би била услуга е-поште без веб поште? Посветићемо време томе да доказ концепта учинимо употребљивијим и омогућићемо ово као експерименталну функцију за кориснике који су спремни да рано испробају нове ствари. Опсег ће првобитно бити ограничен на основну видљивост фасцикли и приказ порука.\n"
+#~ "Веб пошта ће бити изграђена са JMAP-ом као позадинацем, а ми морамо истражити како корисници могу искористити предности веб поште, а да и даље буду подстицани да користе шифровање од краја до краја и да омогуће претрагу кроз фасцикле."
