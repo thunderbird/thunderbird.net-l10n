@@ -194,7 +194,7 @@ msgstr "Verbeteringen aan instellingeninterface"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:15
 msgid "Clean up and reorganize the settings into more discoverable sections and improve its search. User survey will heavily influence the end result."
-msgstr ""
+msgstr "Opschonen van de instellingen, ze in beter vindbare secties herordenen en de zoekfunctie verbeteren. Gebruikersenquête heeft grote invloed op het eindresultaat."
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:16
 msgid "Calendar Dialogs UI/UX"
@@ -213,6 +213,8 @@ msgid ""
 "OAuth became a significant initiative due to evolving provider authentication requirements (including PKCE adoption), browser-based authentication improvements, and the need to deliver a seamless "
 "Thundermail sign-in experience."
 msgstr ""
+"OAuth werd een significant initiatief vanwege veranderende vereisten voor providerauthenticatie (waaronder adoptie van PKCE), verbeteringen in browsergebaseerde authenticatie en de behoefte om een "
+"naadloze Thundermail-aanmeldingservaring te leveren."
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:24
 msgid "First Time User Experience: Account Hub"
@@ -292,14 +294,17 @@ msgid ""
 "We had to refocus on the email onboarding section of the Account Hub due to Exchange, Graph, and Thundermail release. User feedback &amp; telemetry data points at a large percentage of manual config"
 " usage, and the new protocols come with very complex manual user flows. First introduction of a 1-click setup OAuth for Thundermail."
 msgstr ""
+"Vanwege de release van Exchange, Graph en Thundermail moesten we onze focus verleggen naar de sectie over e-mailintroductie van de Accounthub. Gebruikersfeedback en telemetriegegevens wijzen op een "
+"groot percentage van handmatig configuratiegebruik, en de nieuwe protocollen worden geleverd met zeer complexe handmatige processen voor gebruikers. Eerst introductie van instellen in één klik van "
+"OAuth voor Thundermail."
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:31
 msgid "System add-on integration"
-msgstr ""
+msgstr "Integratie van systeem-add-on"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:31
 msgid "Allowing to ship ad-hoc features faster for objectives that supersede the release train. This will be in 153!"
-msgstr ""
+msgstr "Toestaan om sneller ad-hocfuncties te verzenden voor doelstellingen die de release-trein vervangen. Dit is in 153!"
 
 #: sites/roadmaps.thunderbird.net/includes/base/base.html:12 sites/updates.thunderbird.net/includes/base/base.html:1 sites/www.thunderbird.net/includes/base/base.html:15
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
@@ -543,6 +548,8 @@ msgid ""
 "Implement the full reading and writing email experience on mobile, including initial support for encrypted messages (OpenPGP and S/MIME with existing libraries). WYSIWYG is now wrapping up. The next"
 " piece is to connect the protocol and database to render email."
 msgstr ""
+"Implementatie van de volledige lees- en schrijfervaring op mobiele apparaten, inclusief initiële ondersteuning voor versleutelde berichten (OpenPGP en S/MIME met bestaande bibliotheken). WYSIWYG "
+"wordt nu afgerond. Het volgende onderdeel is het verbinden van het protocol en de database om e-mail weer te geven."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:12
 msgid "JMAP Support - Exploration"
@@ -551,15 +558,15 @@ msgstr "JMAP-ondersteuning – Verkenning"
 #: sites/roadmaps.thunderbird.net/ios/index.html:12
 #, python-format
 msgid "Already 80% finished. The intention is to implement the full protocol with all the basic infrastructure in place."
-msgstr ""
+msgstr "Al voor 80% voltooid. De bedoeling is om het volledige protocol te implementeren met alle basisinfrastructuur aanwezig."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:16
 msgid "JMAP Support - Complete Implementation"
-msgstr ""
+msgstr "JMAP-ondersteuning – Volledige implementatie"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:16
 msgid "Support the JMAP protocol as one of the first extra protocols we ship with by default outside of IMAP. Currently we are prioritizing IMAP and a first user release."
-msgstr ""
+msgstr "Ondersteunen van het JMAP-protocol als een van de eerste extra protocollen waarmee we standaard buiten IMAP leveren. Momenteel geven we prioriteit aan IMAP en een eerste gebruikersversie."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:17
 msgid "Database"
@@ -568,6 +575,7 @@ msgstr "Database"
 #: sites/roadmaps.thunderbird.net/ios/index.html:17
 msgid "We’re changing how we cache the email to be able to consume the UI faster, and moving the database work for after the first version is out to the users."
 msgstr ""
+"We wijzigen hoe we het e-mailbericht opslaan in de buffer om de UI sneller te kunnen gebruiken, en het databasewerk, nadat de eerste versie voor de gebruikers beschikbaar is, wordt verplaatst."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:21
 msgid "Architecture"
@@ -603,11 +611,11 @@ msgstr "Implementeren van een volledig geautomatiseerde en handmatige installati
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:24
 msgid "iOS Create Protocol &amp; Framework"
-msgstr ""
+msgstr "iOS Create-protocol &amp; raamwerk"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:24
 msgid "Implement the IMAP protocol first as it's the most widespread protocol currently in use. We completed the protocol work and basic framework."
-msgstr ""
+msgstr "Eerst het IMAP-protocol implementeren, aangezien dit het meest gebruikte protocol is. We hebben het protocolwerk en het basisraamwerk voltooid."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:4
 msgid "Services Roadmap"
@@ -619,7 +627,7 @@ msgstr "Thunderbird Pro Services en infrastructuur-ondersteuning. Volg de roadma
 
 #: sites/roadmaps.thunderbird.net/services/index.html:6
 msgid "Last updated August 4, 2026"
-msgstr ""
+msgstr "Laatst bijgewerkt op 4 augustus 2026"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:7
 msgid "Submit your ideas for Thunderbird Pro"
@@ -642,6 +650,8 @@ msgid ""
 "What would an email service be without webmail? We will spend time making the proof of concept more usable, and enable this as an experimental feature for users willing to try new things early. The "
 "scope will initially be limited to basic folder visibility and message display."
 msgstr ""
+"Wat zou een e-mailservice zijn zonder webmail? We zullen tijd besteden aan het bruikbaarder maken van het proof of concept en dit inschakelen als een experimentele functie voor gebruikers die vroeg "
+"nieuwe dingen willen proberen. Het bereik zal in eerste instantie beperkt zijn tot de basiszichtbaarheid van mappen en berichtenweergave."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:16
 msgid "Improve Pro Add-on Integration"
@@ -652,16 +662,20 @@ msgid ""
 "We are shipping a Thunderbird Pro add-on to enable Pro features in Thunderbird desktop. For a low barrier of entry we want to improve integration by using the system add-on or new account add-on "
 "mechanism. This allows us to make these features easier to discover and use within Thunderbird."
 msgstr ""
+"We leveren een Thunderbird Pro-add-on om Pro-functies in Thunderbird voor desktops in te schakelen. Voor een lage toegangsdrempel willen we de integratie verbeteren door gebruik te maken van het "
+"systeemmechanisme voor add-ons of het add-onmechanisme voor nieuwe accounts. Hierdoor maken we deze functies gemakkelijker te ontdekken en te gebruiken binnen Thunderbird."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:17
 msgid "Import email, contacts, and calendar feature"
-msgstr ""
+msgstr "Importeerfunctie voor e-mail, contacten en agenda"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:17
 msgid ""
 "As one of the top ideas on ideas.tb.pro, we have added this suggestion from: https://ideas.tb.pro/p/import-email-calendar-and-contacts-feature and it fits into our quest to make Thundermail the "
 "users’ primary inbox."
 msgstr ""
+"Als een van de beste ideeën op ideeën.tb.pro hebben we deze suggestie toegevoegd van: https://ideas.tb.pro/p/import-email-calendar-and-contacts-feature, en dit past in onze zoektocht om Thundermail "
+"in te stellen als het primaire Postvak IN van gebruikers."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:21
 msgid "MFA Support"
@@ -669,7 +683,7 @@ msgstr "MFA-ondersteuning"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:21
 msgid "Multifactor authentication via TOTP or a similar method is an essential security feature."
-msgstr ""
+msgstr "Multifactor-authenticatie via TOTP of een vergelijkbare methode is een essentiële beveiligingsfunctie."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:22
 msgid "Send UI Completion"
@@ -677,7 +691,7 @@ msgstr "Voltooien van Send UI"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:22
 msgid "Send was shipped as a system add-on and that UI work was completed."
-msgstr ""
+msgstr "Send is als een systeem-add-on geleverd en het werk aan de gebruikersinterface is voltooid."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:23
 msgid "Thundermail: Spam Filtering"
@@ -2202,7 +2216,7 @@ msgstr "Marketing Manager"
 
 #: sites/www.thunderbird.net/about/index.html:182
 msgid "Head of Thunderbolt"
-msgstr ""
+msgstr "Hoofd van Thunderbolt"
 
 #: sites/www.thunderbird.net/about/index.html:183
 msgid "Manager, Release Operations"
