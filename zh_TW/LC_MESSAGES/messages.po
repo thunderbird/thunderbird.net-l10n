@@ -279,7 +279,7 @@ msgstr "首次使用體驗"
 msgid ""
 "We had to refocus on the email onboarding section of the Account Hub due to Exchange, Graph, and Thundermail release. User feedback &amp; telemetry data points at a large percentage of manual config"
 " usage, and the new protocols come with very complex manual user flows. First introduction of a 1-click setup OAuth for Thundermail."
-msgstr ""
+msgstr "因應 Exchange、Graph 與 Thundermail 的推出，我們必須重新聚焦於「帳號中心」的電子郵件初始設定區塊。使用者意見回饋與遙測資料顯示，採用手動設定的比例相當高，而新通訊協定的手動操作流程十分複雜。首次為 Thundermail 導入一鍵式 OAuth 設定。"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:31
 msgid "System add-on integration"
@@ -530,7 +530,7 @@ msgstr "完整的郵件撰寫與閱讀體驗"
 msgid ""
 "Implement the full reading and writing email experience on mobile, including initial support for encrypted messages (OpenPGP and S/MIME with existing libraries). WYSIWYG is now wrapping up. The next"
 " piece is to connect the protocol and database to render email."
-msgstr ""
+msgstr "在行動版實作完整的電子郵件閱讀與撰寫體驗，包括初步支援以現有程式庫處理加密郵件（OpenPGP 與 S/MIME）。所見即所得編輯器的開發已接近完成。下一步是要串接用來呈現電子郵件的通訊協定與資料庫。"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:12
 msgid "JMAP Support - Exploration"
@@ -539,7 +539,7 @@ msgstr "探索 JMAP 支援"
 #: sites/roadmaps.thunderbird.net/ios/index.html:12
 #, python-format
 msgid "Already 80% finished. The intention is to implement the full protocol with all the basic infrastructure in place."
-msgstr ""
+msgstr "已完成 80%。目標是在所有基礎架構就緒後，完整實作此通訊協定。"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:16
 msgid "JMAP Support - Complete Implementation"
@@ -547,7 +547,7 @@ msgstr "JMAP 支援 - 完整實作"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:16
 msgid "Support the JMAP protocol as one of the first extra protocols we ship with by default outside of IMAP. Currently we are prioritizing IMAP and a first user release."
-msgstr ""
+msgstr "除了 IMAP 之外，JMAP 將是首批預設提供的額外通訊協定之一。目前我們還在優先處理 IMAP 與第一個能推出給使用者的版本。"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:17
 msgid "Database"
@@ -555,7 +555,7 @@ msgstr "資料庫"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:17
 msgid "We’re changing how we cache the email to be able to consume the UI faster, and moving the database work for after the first version is out to the users."
-msgstr ""
+msgstr "我們將調整電子郵件的快取方式，以加快 UI 載入速度，並將資料庫相關工作延後至第一版推出後再著手進行。"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:21
 msgid "Architecture"
@@ -565,7 +565,7 @@ msgstr "架構"
 msgid ""
 "Establish a robust and scalable architecture to begin the Thunderbird for iOS project and create the backend. This architecture will include strategies for code sharing across platforms, taking into"
 " account the Android and Desktop clients."
-msgstr ""
+msgstr "建立靈活且具擴充性的架構，作為 Thunderbird for iOS 專案與後端開發的基礎。此架構將納入跨平台共用程式碼的策略，並兼顧 Android 與桌面版客戶端軟體。"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:22
 msgid "Autoconfiguration"
@@ -593,7 +593,7 @@ msgstr "iOS Create 通訊協定、架構"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:24
 msgid "Implement the IMAP protocol first as it's the most widespread protocol currently in use. We completed the protocol work and basic framework."
-msgstr ""
+msgstr "因為 IMAP 它是目前最普及的通訊協定，我們優先實作。我們已完成通訊協定相關工作與基本框架。"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:4
 msgid "Services Roadmap"
@@ -627,7 +627,7 @@ msgstr "Thundermail：網頁郵件服務"
 msgid ""
 "What would an email service be without webmail? We will spend time making the proof of concept more usable, and enable this as an experimental feature for users willing to try new things early. The "
 "scope will initially be limited to basic folder visibility and message display."
-msgstr ""
+msgstr "電子郵件服務怎能少了網頁郵件功能？我們會投入時間來提升概念驗證版本的易用性，並將此做為實驗性功能，供願意嘗鮮的使用者使用。初期範圍僅限於基本的信件匣瀏覽與郵件顯示。"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:16
 msgid "Improve Pro Add-on Integration"
@@ -637,7 +637,7 @@ msgstr "Pro 附加元件的整合程度改善"
 msgid ""
 "We are shipping a Thunderbird Pro add-on to enable Pro features in Thunderbird desktop. For a low barrier of entry we want to improve integration by using the system add-on or new account add-on "
 "mechanism. This allows us to make these features easier to discover and use within Thunderbird."
-msgstr ""
+msgstr "我們推出了一套 Thunderbird Pro 附加元件，讓您可以在 Thunderbird 桌面版中使用 Pro 版功能。為了降低門檻，我們想要透過使用系統級附加元件或新帳號附加元件機制來改善整合度。如此一來我們就可以讓 Thunderbird 的這些功能更容易被發現與使用。"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:17
 msgid "Import email, contacts, and calendar feature"
@@ -647,7 +647,7 @@ msgstr "匯入電子郵件、聯絡人、行事曆功能"
 msgid ""
 "As one of the top ideas on ideas.tb.pro, we have added this suggestion from: https://ideas.tb.pro/p/import-email-calendar-and-contacts-feature and it fits into our quest to make Thundermail the "
 "users’ primary inbox."
-msgstr ""
+msgstr "這是 ideas.tb.pro 上最受歡迎的提案之一，我們已採納來自 https://ideas.tb.pro/p/import-email-calendar-and-contacts-feature 的建議，也符合我們致力讓 Thundermail 成為使用者主要信件服務的目標。"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:21
 msgid "MFA Support"
