@@ -212,6 +212,8 @@ msgid ""
 "OAuth became a significant initiative due to evolving provider authentication requirements (including PKCE adoption), browser-based authentication improvements, and the need to deliver a seamless "
 "Thundermail sign-in experience."
 msgstr ""
+"OAuth blev ett viktigt initiativ på grund av utvecklande krav för leverantörsautentisering (inklusive PKCE-implementering), förbättringar av webbläsarbaserad autentisering och behovet av att "
+"leverera en smidig Thundermail-inloggningsupplevelse."
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:24
 msgid "First Time User Experience: Account Hub"
@@ -284,21 +286,23 @@ msgstr "Maj 2025"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:30
 msgid "First Time User Experience"
-msgstr ""
+msgstr "Användarupplevelse för första gången"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:30
 msgid ""
 "We had to refocus on the email onboarding section of the Account Hub due to Exchange, Graph, and Thundermail release. User feedback &amp; telemetry data points at a large percentage of manual config"
 " usage, and the new protocols come with very complex manual user flows. First introduction of a 1-click setup OAuth for Thundermail."
 msgstr ""
+"Vi var tvungna att fokusera om på e-postintroduktionsdelen av kontohubben på grund av lanseringen av Exchange, Graph och Thundermail. Användarfeedback och telemetridata pekar på en stor andel "
+"manuell konfigurationsanvändning, och de nya protokollen kommer med mycket komplexa manuella användarflöden. Första introduktionen av en 1-klicks OAuth-installation för Thundermail."
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:31
 msgid "System add-on integration"
-msgstr ""
+msgstr "Integrering av systemtillägg"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:31
 msgid "Allowing to ship ad-hoc features faster for objectives that supersede the release train. This will be in 153!"
-msgstr ""
+msgstr "Möjliggör snabbare leverans av ad hoc-funktioner för mål som ersätter utgivningståget. Detta kommer att ske i 153!"
 
 #: sites/roadmaps.thunderbird.net/includes/base/base.html:12 sites/updates.thunderbird.net/includes/base/base.html:1 sites/www.thunderbird.net/includes/base/base.html:15
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
@@ -542,31 +546,33 @@ msgid ""
 "Implement the full reading and writing email experience on mobile, including initial support for encrypted messages (OpenPGP and S/MIME with existing libraries). WYSIWYG is now wrapping up. The next"
 " piece is to connect the protocol and database to render email."
 msgstr ""
+"Implementera den fullständiga läs- och skrivupplevelsen för e-post på mobilen, inklusive initialt stöd för krypterade meddelanden (OpenPGP och S/MIME med befintliga bibliotek). WYSIWYG är nu på väg "
+"att avslutas. Nästa steg är att ansluta protokollet och databasen för att rendera e-post."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:12
 msgid "JMAP Support - Exploration"
-msgstr ""
+msgstr "JMAP-support - Utforskning"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:12
 #, python-format
 msgid "Already 80% finished. The intention is to implement the full protocol with all the basic infrastructure in place."
-msgstr ""
+msgstr "Redan 80 % klart. Avsikten är att implementera hela protokollet med all grundläggande infrastruktur på plats."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:16
 msgid "JMAP Support - Complete Implementation"
-msgstr ""
+msgstr "JMAP-support - Fullständig implementering"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:16
 msgid "Support the JMAP protocol as one of the first extra protocols we ship with by default outside of IMAP. Currently we are prioritizing IMAP and a first user release."
-msgstr ""
+msgstr "Stöd för JMAP-protokollet som ett av de första extra protokollen vi levererar med som standard utanför IMAP. För närvarande prioriterar vi IMAP och en första användarversion."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:17
 msgid "Database"
-msgstr ""
+msgstr "Databas"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:17
 msgid "We’re changing how we cache the email to be able to consume the UI faster, and moving the database work for after the first version is out to the users."
-msgstr ""
+msgstr "Vi ändrar hur vi cachar e-postmeddelanden för att kunna använda användargränssnittet snabbare, och flyttar databasarbetet till efter att den första versionen har släppts till användarna."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:21
 msgid "Architecture"
@@ -602,11 +608,11 @@ msgstr "Implementera en helt automatiserad och manuell installation, inklusive a
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:24
 msgid "iOS Create Protocol &amp; Framework"
-msgstr ""
+msgstr "iOS Skapa protokoll och ramverk"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:24
 msgid "Implement the IMAP protocol first as it's the most widespread protocol currently in use. We completed the protocol work and basic framework."
-msgstr ""
+msgstr "Implementera IMAP-protokollet först eftersom det är det mest utbredda protokollet som används för närvarande. Vi har slutfört protokollarbetet och det grundläggande ramverket."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:4
 msgid "Services Roadmap"
@@ -618,7 +624,7 @@ msgstr "Thunderbird Pro-tjänster och infrastruktursupport. Följ färdplanen fr
 
 #: sites/roadmaps.thunderbird.net/services/index.html:6
 msgid "Last updated August 4, 2026"
-msgstr ""
+msgstr "Senast uppdaterad 4 augusti 2026"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:7
 msgid "Submit your ideas for Thunderbird Pro"
@@ -641,6 +647,8 @@ msgid ""
 "What would an email service be without webmail? We will spend time making the proof of concept more usable, and enable this as an experimental feature for users willing to try new things early. The "
 "scope will initially be limited to basic folder visibility and message display."
 msgstr ""
+"Vad vore en e-posttjänst utan webbmejl? Vi kommer att lägga tid på att göra konceptet mer användbart och aktivera detta som en experimentell funktion för användare som är villiga att prova nya saker"
+" tidigt. Omfattningen kommer initialt att begränsas till grundläggande mappsynlighet och meddelandevisning."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:16
 msgid "Improve Pro Add-on Integration"
@@ -651,16 +659,20 @@ msgid ""
 "We are shipping a Thunderbird Pro add-on to enable Pro features in Thunderbird desktop. For a low barrier of entry we want to improve integration by using the system add-on or new account add-on "
 "mechanism. This allows us to make these features easier to discover and use within Thunderbird."
 msgstr ""
+"Vi levererar ett Thunderbird Pro-tillägg för att aktivera Pro-funktioner i Thunderbirds skrivbordsmiljö. För att minska inträdesbarriären vill vi förbättra integrationen genom att använda "
+"systemtillägget eller mekanismen för att lägga till nya konton. Detta gör det lättare för oss att upptäcka och använda dessa funktioner i Thunderbird."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:17
 msgid "Import email, contacts, and calendar feature"
-msgstr ""
+msgstr "Importera e-post, kontakter och kalenderfunktion"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:17
 msgid ""
 "As one of the top ideas on ideas.tb.pro, we have added this suggestion from: https://ideas.tb.pro/p/import-email-calendar-and-contacts-feature and it fits into our quest to make Thundermail the "
 "users’ primary inbox."
 msgstr ""
+"Som en av de bästa idéerna på ideas.tb.pro har vi lagt till detta förslag från: https://ideas.tb.pro/p/import-email-calendar-and-contacts-feature och det passar in i vår strävan att göra Thundermail"
+" till användarnas primära inkorg."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:21
 msgid "MFA Support"
@@ -668,7 +680,7 @@ msgstr "MFA-stöd"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:21
 msgid "Multifactor authentication via TOTP or a similar method is an essential security feature."
-msgstr ""
+msgstr "Multifaktorautentisering via TOTP eller en liknande metod är en viktig säkerhetsfunktion."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:22
 msgid "Send UI Completion"
@@ -676,7 +688,7 @@ msgstr "Slutförande av användargränssnittet Send"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:22
 msgid "Send was shipped as a system add-on and that UI work was completed."
-msgstr ""
+msgstr "Send skickades som ett systemtillägg och det gränssnittsarbetet var slutfört."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:23
 msgid "Thundermail: Spam Filtering"
@@ -2234,7 +2246,7 @@ msgstr "Chef, mobilappar"
 
 #: sites/www.thunderbird.net/about/index.html:196
 msgid "Staff Forward Deployed Engineer"
-msgstr ""
+msgstr "Staff Forward Deployed Engineer"
 
 #: sites/www.thunderbird.net/about/index.html:197 sites/www.thunderbird.net/about/index.html:226
 msgid "Software Engineer, Desktop"
