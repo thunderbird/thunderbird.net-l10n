@@ -462,8 +462,8 @@ msgid "Services"
 msgstr "Serviços"
 
 #: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:57
-msgid "Follow the services roadmap to learn what's coming up next for Thunderbird Pro, Websites and Infrastructure projects."
-msgstr "Siga o mapa de desenvolvimento dos serviços para saber o que vem a seguir para o Thunderbird Pro, Sites e projetos de Infraestrutura."
+msgid "Follow the services roadmap to learn what's coming up next for Thundermail, Websites and Infrastructure projects."
+msgstr ""
 
 #: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:62
 msgid "View services roadmap"
@@ -629,18 +629,16 @@ msgid "Services Roadmap"
 msgstr "Mapa de Desenvolvimento dos Serviços"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:5
-msgid "Thunderbird Pro Services and Infrastructure Support. Follow the roadmap from active work to future ideas. Timelines may change as we learn and iterate."
+msgid "Thundermail Services and Infrastructure Support. Follow the roadmap from active work to future ideas. Timelines may change as we learn and iterate."
 msgstr ""
-"Serviços Thunderbird Pro e Suporte à Infraestrutura. Acompanhe o mapa de desenvolvimento desde os trabalhos em curso até às ideias futuras. Os prazos poderão mudar à medida que aprendemos e "
-"iteramos."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:6
 msgid "Last updated August 4, 2026"
 msgstr "Atualizado pela última vez em 4 de Agosto de 2026"
 
 #: sites/roadmaps.thunderbird.net/services/index.html:7
-msgid "Submit your ideas for Thunderbird Pro"
-msgstr "Submeta as suas ideias para o Thunderbird Pro"
+msgid "Submit your ideas for Thundermail"
+msgstr ""
 
 #: sites/roadmaps.thunderbird.net/services/index.html:11
 msgid "Active Sessions"
@@ -663,16 +661,14 @@ msgstr ""
 "utilizadores dispostos a experimentar novidades antecipadamente. Inicialmente o âmbito estará limitado à visibilidade básica das pastas e à apresentação das mensagens."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:16
-msgid "Improve Pro Add-on Integration"
-msgstr "Melhorar a integração do complemento Pro"
+msgid "Improve Thundermail Add-on Integration"
+msgstr ""
 
 #: sites/roadmaps.thunderbird.net/services/index.html:16
 msgid ""
-"We are shipping a Thunderbird Pro add-on to enable Pro features in Thunderbird desktop. For a low barrier of entry we want to improve integration by using the system add-on or new account add-on "
-"mechanism. This allows us to make these features easier to discover and use within Thunderbird."
+"We are shipping an add-on that enables Thundermail features in Thunderbird desktop. To keep the barrier to entry low, we want to improve integration by using the system add-on or the new account "
+"add-on mechanism. This makes these features easier to discover and use within Thunderbird."
 msgstr ""
-"Estamos a disponibilizar um complemento do Thunderbird Pro para ativar as funcionalidades Pro na versão do Thunderbird para desktop. Para facilitar a adesão, queremos melhorar a integração "
-"utilizando o complemento de sistema ou o mecanismo de nova conta. Isto permite-nos tornar mais fácil a descoberta e a utilização destas funcionalidades no Thunderbird."
 
 #: sites/roadmaps.thunderbird.net/services/index.html:17
 msgid "Import email, contacts, and calendar feature"
@@ -2179,7 +2175,7 @@ msgstr "Engenheiro Sénior de UX, Computador"
 msgid "Staff Designer"
 msgstr "Designer Efetivo"
 
-#: sites/www.thunderbird.net/about/index.html:174 sites/www.thunderbird.net/about/index.html:219
+#: sites/www.thunderbird.net/about/index.html:174 sites/www.thunderbird.net/about/index.html:220
 msgid "Technical Support Specialist"
 msgstr "Especialista em Suporte Técnico"
 
@@ -2199,8 +2195,8 @@ msgstr "Engenheiro de Software Efetivo"
 msgid "Software Engineer, Mobile"
 msgstr "Engenheiro de Software, dispositivos móveis"
 
-#: sites/www.thunderbird.net/about/index.html:179 sites/www.thunderbird.net/about/index.html:180 sites/www.thunderbird.net/about/index.html:188 sites/www.thunderbird.net/about/index.html:206
-#: sites/www.thunderbird.net/about/index.html:211
+#: sites/www.thunderbird.net/about/index.html:179 sites/www.thunderbird.net/about/index.html:180 sites/www.thunderbird.net/about/index.html:188 sites/www.thunderbird.net/about/index.html:208
+#: sites/www.thunderbird.net/about/index.html:213
 msgid "Staff Software Engineer, Desktop"
 msgstr "Engenheiro Sénior de Equipa, Computador"
 
@@ -2220,7 +2216,7 @@ msgstr "Gestor, Operações de Lançamento"
 msgid "Sr Release Engineer, Desktop"
 msgstr "Engenheiro Sénior de Lançamentos, Computador"
 
-#: sites/www.thunderbird.net/about/index.html:186 sites/www.thunderbird.net/about/index.html:216 sites/www.thunderbird.net/about/index.html:226
+#: sites/www.thunderbird.net/about/index.html:186 sites/www.thunderbird.net/about/index.html:217 sites/www.thunderbird.net/about/index.html:228
 msgid "Sr Software Engineer, Mobile"
 msgstr "Engenheiro Sénior de Software, dispositivos móveis"
 
@@ -2260,7 +2256,7 @@ msgstr "Gestor, Apps Móveis"
 msgid "Staff Forward Deployed Engineer"
 msgstr "Engenheiro Efetivo de Implantação Avançada"
 
-#: sites/www.thunderbird.net/about/index.html:198 sites/www.thunderbird.net/about/index.html:228
+#: sites/www.thunderbird.net/about/index.html:198 sites/www.thunderbird.net/about/index.html:230
 msgid "Software Engineer, Desktop"
 msgstr "Engenheiro de Software, Computador"
 
@@ -2273,90 +2269,98 @@ msgid "Sr Technical PM"
 msgstr "Técnico Sénior de PM"
 
 #: sites/www.thunderbird.net/about/index.html:202
+msgid "Sr Engineering Manager, Web Services"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:203
 msgid "Manager, UI/UX Design Studio"
 msgstr "Gestor, Estúdio de Desenho de UI/UX"
 
-#: sites/www.thunderbird.net/about/index.html:203
+#: sites/www.thunderbird.net/about/index.html:204
+msgid "Marketing Specialist"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:205
 msgid "Manager, Customer Support Operations"
 msgstr "Gestor, Operações de Apoio ao Cliente"
 
-#: sites/www.thunderbird.net/about/index.html:204 sites/www.thunderbird.net/about/index.html:210
+#: sites/www.thunderbird.net/about/index.html:206 sites/www.thunderbird.net/about/index.html:212
 msgid "Sr Software Engineer"
 msgstr "Engenheiro Sénior de Software"
 
-#: sites/www.thunderbird.net/about/index.html:205
+#: sites/www.thunderbird.net/about/index.html:207
 msgid "Support Knowledge & Enablement Lead"
 msgstr "Responsável por Conhecimento & Capacitação de Suporte"
 
-#: sites/www.thunderbird.net/about/index.html:207
+#: sites/www.thunderbird.net/about/index.html:209
 msgid "Manager, Web Services"
 msgstr "Gestor, Serviços Web"
 
-#: sites/www.thunderbird.net/about/index.html:208
+#: sites/www.thunderbird.net/about/index.html:210
 msgid "Sr Manager, People Operations & Strategy"
 msgstr "Gestor Sénior, Operações & Estratégia de Pessoas"
 
-#: sites/www.thunderbird.net/about/index.html:209
+#: sites/www.thunderbird.net/about/index.html:211
 msgid "People & Talent Generalist"
 msgstr "Generalista de Talentos & Pessoas"
 
-#: sites/www.thunderbird.net/about/index.html:212
-msgid "Staff Software Engineer, Services"
-msgstr "Engenheiro da Equipa de Software, Serviços"
-
-#: sites/www.thunderbird.net/about/index.html:213
+#: sites/www.thunderbird.net/about/index.html:214
 msgid "Communications & Engagement Specialist"
 msgstr "Especialista em Comunicação & Envolvimento"
 
-#: sites/www.thunderbird.net/about/index.html:214
+#: sites/www.thunderbird.net/about/index.html:215
 msgid "Sr Manager, Corporate Strategy"
 msgstr "Gestor Sénior, Estratégia Corporativa"
 
-#: sites/www.thunderbird.net/about/index.html:215
+#: sites/www.thunderbird.net/about/index.html:216
 msgid "Senior Accountant"
 msgstr "Contabilista Sénior"
 
-#: sites/www.thunderbird.net/about/index.html:217 sites/www.thunderbird.net/about/index.html:222
+#: sites/www.thunderbird.net/about/index.html:218 sites/www.thunderbird.net/about/index.html:224
 msgid "Product Designer"
 msgstr "Designer de Produto"
 
-#: sites/www.thunderbird.net/about/index.html:218
+#: sites/www.thunderbird.net/about/index.html:219
 msgid "Sr Software Engineer, Test"
 msgstr "Engenheiro Sénior de Software, Teste"
 
-#: sites/www.thunderbird.net/about/index.html:220
+#: sites/www.thunderbird.net/about/index.html:221
 msgid "User Support Specialist"
 msgstr "Especialista em Apoio ao Utilizador"
 
-#: sites/www.thunderbird.net/about/index.html:221
+#: sites/www.thunderbird.net/about/index.html:222
 msgid "Sr Site Reliability Engineer"
 msgstr "Engenheiro Sénior de Fiabilidade de Sites"
 
 #: sites/www.thunderbird.net/about/index.html:223
+msgid "Sr Engineering Manager, Thunderbolt"
+msgstr ""
+
+#: sites/www.thunderbird.net/about/index.html:225
 msgid "Sr Release Engineer"
 msgstr "Engenheiro Sénior de Lançamento"
 
-#: sites/www.thunderbird.net/about/index.html:224
+#: sites/www.thunderbird.net/about/index.html:226
 msgid "Sr People Partner"
 msgstr "Parceiro Sénior de Pessoas"
 
-#: sites/www.thunderbird.net/about/index.html:225
+#: sites/www.thunderbird.net/about/index.html:227
 msgid "Sr Manager, Desktop Engineering"
 msgstr "Gestor Sénior, Engenharia de Computadores"
 
-#: sites/www.thunderbird.net/about/index.html:227
+#: sites/www.thunderbird.net/about/index.html:229
 msgid "Sr Executive Assistant"
 msgstr "Assistente Executivo Sénior"
 
-#: sites/www.thunderbird.net/about/index.html:229
+#: sites/www.thunderbird.net/about/index.html:231
 msgid "Community Manager"
 msgstr "Gestor de Comunidade"
 
-#: sites/www.thunderbird.net/about/index.html:230
+#: sites/www.thunderbird.net/about/index.html:232
 msgid "Staff Software Engineer, Mobile"
 msgstr "Engenheiro Efetivo de Software, Dispositivos Móveis"
 
-#: sites/www.thunderbird.net/about/index.html:234
+#: sites/www.thunderbird.net/about/index.html:236
 msgid "Explore Career Opportunities"
 msgstr "Explorar oportunidades de carreira"
 
@@ -3154,7 +3158,7 @@ msgstr "telemóvel"
 msgid "I need"
 msgstr "Eu preciso de"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:68 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:254
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:68 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:242
 msgid "Please select..."
 msgstr "Por favor, selecione..."
 
@@ -3203,46 +3207,17 @@ msgid "Help with something else"
 msgstr "Ajuda com outra coisa"
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:86
-msgid "Please note that due to the limited contact information we receive, we are unable to issue donation receipts or acknowledgements."
-msgstr "Note que devido às informações de contacto limitadas que recebemos, não podemos emitir recibos de doações ou reconhecimentos."
-
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:88
-msgid "Account currency:"
-msgstr "Moeda da conta:"
-
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:89
-msgid "Beneficiary Bank:"
-msgstr "Banco Beneficiário:"
+msgid "Thunderbird accepts Single Euro Payments Area (SEPA) donations safely and efficiently through our secure donation partner, <b>FundraiseUp</b>."
+msgstr ""
 
 #: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:90
-msgid "Name of payee (Care of):"
-msgstr "Nome do beneficiário (Ao cuidado de):"
+#, python-format
+msgid ""
+"Using our <a target=\"_blank\" href=\"%(url)s\">online donation platform</a> ensures that your contribution is processed securely, allows us to issue prompt receipts for tax purposes, and helps keep"
+" Thunderbird free and open-source."
+msgstr ""
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:91
-msgid "IBAN:"
-msgstr "IBAN:"
-
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:92
-msgid "Purpose:"
-msgstr "Propósito:"
-
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:95
-msgid "Receiving Bank (Pay to):"
-msgstr "Banco Destinatário (Pagar para):"
-
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:96
-msgid "Location:"
-msgstr "Localização:"
-
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:97
-msgid "SWIFT Code (BIC):"
-msgstr "Código SWIFT (BIC):"
-
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:99
-msgid "If your bank requires our office address:"
-msgstr "Se o seu banco necessitar da morada do nosso escritório:"
-
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:113
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:101
 #, python-format
 msgid ""
 "<b>Visit our </b> <a target=\"_blank\" href=\"%(url)s\"><b>Donor Portal</b></a> for <b>on-demand access to your receipts and to modify or cancel a recurring plan</b> including changing the amount, "
@@ -3251,40 +3226,40 @@ msgstr ""
 "<b>Visite o nosso </b> <a target=\"_blank\" href=\"%(url)s\"><b>Portal do doador</b></a> para <b>ter acesso imediato aos seus recibos e para alterar ou cancelar um plano recorrente</b>, o que inclui"
 " alterar o montante, a frequência, o método de pagamento e a data de cobrança."
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:118
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:106
 msgid "Please note: we are unable to provide customized or summary receipts."
 msgstr "Tenha em atenção: não temos como fornecer recibos personalizados ou resumidos."
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:127
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:115
 #, python-format
 msgid "Please be sure to check our <a target=\"_blank\" href=\"%(url)s\"><b>Donation FAQ</b></a> page first as your question may be answered there."
 msgstr "Por favor consulte primeiro a nossa página <a target=\"_blank\" href=\"%(url)s\"><b>FAQ de Doações</b></a> pois a sua questão pode estar respondida aí."
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:135 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:137
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:123 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:125
 msgid "Issue Summary"
 msgstr "Resumo do problema"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:142 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:145
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:130 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:133
 msgid "Please provide more details as needed"
 msgstr "Por favor, forneça mais detalhes, conforme necessário"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:150 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:156
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:138 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:144
 msgid "Add a screenshot to help us with your request (optional)"
 msgstr "Adicione uma captura de ecrã para nos ajudar com o seu pedido (opcional)"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:156
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:144
 msgid "JPG, PNG and BMP files only"
 msgstr "Apenas ficheiros JPG, PNG e BMP"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:163 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:168
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:151 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:156
 msgid "Name"
 msgstr "Nome"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:173 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:178
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:161 sites/www.thunderbird.net/includes/donor-contact/fa-body.html:166
 msgid "Email"
 msgstr "E-mail"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:184
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:172
 #, python-format
 msgid ""
 "Thunderbird will only use your submitted information for purposes of communicating with you about your request. See our <a href=\"%(url)s\" target=\"_blank\">privacy policy</a> for further "
@@ -3293,7 +3268,7 @@ msgstr ""
 "O Thunderbird apenas fará uso das informações que forneceu para comunicar consigo sobre o seu pedido. Para mais detalhes, consulte a nossa <a href=\"%(url)s\" target=\"_blank\">política de "
 "privacidade</a>."
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:196
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:184
 #, python-format
 msgid ""
 "Our Donor Support Team is unable to respond to any technical support questions. We do not provide technical support in exchange for financial gifts. To ensure that you get the help that you need, "
@@ -3302,7 +3277,7 @@ msgstr ""
 "A nossa Equipa de Suporte ao Doador não consegue responder a quaisquer questões de suporte técnico. Não fornecemos suporte técnico em troca de doações financeiras. Para garantir que obtém a ajuda de"
 " que precisa, por favor <a target=\"_blank\" href=\"%(url)s\">visite a nossa página de suporte técnico</a>."
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:201
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:189
 #, python-format
 msgid ""
 "Thunderbird <b>technical support is community-based </b>and available to everyone. Our technical support page <b>includes knowledge base articles and a community of volunteers ready to "
@@ -3311,7 +3286,7 @@ msgstr ""
 "O <b>apoio técnico do Thunderbird é fornecido pela comunidade</b> e está disponível para todos. A nossa página de apoio técnico <b>inclui artigos da base de conhecimentos e uma comunidade de "
 "voluntários prontos para ajudar</b>!<br><br> <a target=\"_blank\" href=\"%(url)s\"><b>Visite o nosso site de apoio técnico para obter mais ajuda</b></a>."
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:221
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:209
 #, python-format
 msgid ""
 "Our Donor Support Team is unable to respond to your Thunderbird product feedback and feature requests. But, we want to hear from you! Please visit<b> <a target=\"_blank\" href=\"%(url)s\">Mozilla "
@@ -3320,7 +3295,7 @@ msgstr ""
 "A nossa equipa de apoio aos doadores não tem capacidade para responder ao seu feedback sobre o produto Thunderbird nem aos seus pedidos de novas funcionalidades. Contudo, a sua opinião é muito "
 "importante para nós! Por favor, visite o <b><a target=\"_blank\" href=\"%(url)s\">Mozilla Connect</a></b>."
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:226
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:214
 #, python-format
 msgid ""
 "<a target=\"_blank\" href=\"%(url)s\"><b>Mozilla Connect</b></a> is a collaborative space for ideas, feedback, and discussions that will help shape future Thunderbird product releases. <a "
@@ -3331,85 +3306,85 @@ msgstr ""
 "Thunderbird. <a target=\"_blank\" href=\"%(url2)s\"><b>Submeta as suas ideias</b></a> e não se esqueça de etiquetar o Thunderbird para que outros possam encontrar e votar nas suas sugestões.<br> "
 "<br> Para suporte técnico do Thunderbird, por favor, visite a nossa <a target=\"_blank\" href=\"%(url3)s\"><b>página de suporte</b></a>"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:239
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:227
 msgid "Visit Mozilla Connect to submit your ideas for Thunderbird."
 msgstr "Visite Mozilla Connect para submeter as suas ideias para o Thunderbird."
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:255
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:243
 msgid "Chinese Simplified"
 msgstr "Chinês Simplificado"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:256
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:244
 msgid "Czech"
 msgstr "Checo"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:257
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:245
 msgid "Danish"
 msgstr "Dinamarquês"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:258
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:246
 msgid "Dutch"
 msgstr "Holandês"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:259
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:247
 msgid "English"
 msgstr "Inglês"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:260
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:248
 msgid "French"
 msgstr "Francês"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:261
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:249
 msgid "German"
 msgstr "Alemão"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:262
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:250
 msgid "Italian"
 msgstr "Italiano"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:263
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:251
 msgid "Japanese"
 msgstr "Japonês"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:264
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:252
 msgid "Other"
 msgstr "Outros"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:265
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:253
 msgid "Polish"
 msgstr "Polaco"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:266
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:254
 msgid "Portuguese"
 msgstr "Português"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:267
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:255
 msgid "Russian"
 msgstr "Russo"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:268
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:256
 msgid "Spanish"
 msgstr "Espanhol"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:282
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:270
 #, python-format
 msgid "To update the email that you are using to make and manage your donations, please <b>visit our <a target=\"_blank\" href=\"%(url)s\">Donor Portal</a></b>."
 msgstr "Para atualizar o e-mail que está a utilizar para fazer e gerir as suas doações, por favor <b>visite o nosso <a target=\"_blank\" href=\"%(url)s\">Portal do Doador</a></b>."
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:286
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:274
 msgid "To sign in to your donor portal, please use the email that you used to make your donation."
 msgstr "Para iniciar sessão no seu portal de doadores, por favor, utilize o e-mail que utilizou para fazer o seu donativo."
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:297
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:285
 #, python-format
 msgid "We currently <b>accept over 100 currencies through our <a target=\"_blank\" href=\"%(url)s\">donation form</a>!</b>"
 msgstr "Atualmente <b>aceitamos mais de 100 moedas através do nosso <a target=\"_blank\" href=\"%(url)s\">formulário de donativos</a>!</b>"
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:302
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:290
 msgid "If you do not see your preferred currency listed, we unfortunately cannot accept that currency at this time."
 msgstr "Se não vê a sua moeda preferida listada, infelizmente não podemos aceitar essa moeda neste momento."
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:306
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:294
 msgid ""
 "We <b>also accept a number of payment methods</b> which, depending upon your location, include by Credit Card, PayPal, SEPA Direct Debit, iDEAL, Google Pay, Apple Pay, and ACH. If you do not see "
 "your preferred payment method listed, we unfortunately do not accept that method at this time."
@@ -3417,11 +3392,11 @@ msgstr ""
 "Nós <b>também aceitamos vários métodos de pagamento</b> que, dependendo da sua localização, incluem cartão de crédito, PayPal, débito direto SEPA, iDEAL, Google Pay, Apple Pay e ACH. Se o seu método"
 " de pagamento preferido não estiver listado, infelizmente não aceitamos esse método neste momento."
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:311
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:299
 msgid "We do not accept donations in crypto."
 msgstr "Não aceitamos donativos em criptoativos."
 
-#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:315
+#: sites/www.thunderbird.net/includes/donor-contact/fa-body.html:303
 #, python-format
 msgid "If you are in the US (or using a US bank account), you can donate via check. Detailed instructions are available on our <a target=\"_blank\" href=\"%(url)s\"><b>Donation FAQ</b></a> page."
 msgstr ""
@@ -5210,3 +5185,57 @@ msgstr "Fundo de Ecrã Thunderbird"
 #: sites/www.thunderbird.net/thunderbird/wallpaper/index.html:17
 msgid "Thunderbird Desktop Wallpaer"
 msgstr "Fundo de Ecrã Thunderbird"
+
+#~ msgid "Follow the services roadmap to learn what's coming up next for Thunderbird Pro, Websites and Infrastructure projects."
+#~ msgstr "Siga o mapa de desenvolvimento dos serviços para saber o que vem a seguir para o Thunderbird Pro, Sites e projetos de Infraestrutura."
+
+#~ msgid "Thunderbird Pro Services and Infrastructure Support. Follow the roadmap from active work to future ideas. Timelines may change as we learn and iterate."
+#~ msgstr ""
+#~ "Serviços Thunderbird Pro e Suporte à Infraestrutura. Acompanhe o mapa de desenvolvimento desde os trabalhos em curso até às ideias futuras. Os prazos poderão mudar à medida que aprendemos e "
+#~ "iteramos."
+
+#~ msgid "Submit your ideas for Thunderbird Pro"
+#~ msgstr "Submeta as suas ideias para o Thunderbird Pro"
+
+#~ msgid "Improve Pro Add-on Integration"
+#~ msgstr "Melhorar a integração do complemento Pro"
+
+#~ msgid ""
+#~ "We are shipping a Thunderbird Pro add-on to enable Pro features in Thunderbird desktop. For a low barrier of entry we want to improve integration by using the system add-on or new account add-on "
+#~ "mechanism. This allows us to make these features easier to discover and use within Thunderbird."
+#~ msgstr ""
+#~ "Estamos a disponibilizar um complemento do Thunderbird Pro para ativar as funcionalidades Pro na versão do Thunderbird para desktop. Para facilitar a adesão, queremos melhorar a integração "
+#~ "utilizando o complemento de sistema ou o mecanismo de nova conta. Isto permite-nos tornar mais fácil a descoberta e a utilização destas funcionalidades no Thunderbird."
+
+#~ msgid "Staff Software Engineer, Services"
+#~ msgstr "Engenheiro da Equipa de Software, Serviços"
+
+#~ msgid "Please note that due to the limited contact information we receive, we are unable to issue donation receipts or acknowledgements."
+#~ msgstr "Note que devido às informações de contacto limitadas que recebemos, não podemos emitir recibos de doações ou reconhecimentos."
+
+#~ msgid "Account currency:"
+#~ msgstr "Moeda da conta:"
+
+#~ msgid "Beneficiary Bank:"
+#~ msgstr "Banco Beneficiário:"
+
+#~ msgid "Name of payee (Care of):"
+#~ msgstr "Nome do beneficiário (Ao cuidado de):"
+
+#~ msgid "IBAN:"
+#~ msgstr "IBAN:"
+
+#~ msgid "Purpose:"
+#~ msgstr "Propósito:"
+
+#~ msgid "Receiving Bank (Pay to):"
+#~ msgstr "Banco Destinatário (Pagar para):"
+
+#~ msgid "Location:"
+#~ msgstr "Localização:"
+
+#~ msgid "SWIFT Code (BIC):"
+#~ msgstr "Código SWIFT (BIC):"
+
+#~ msgid "If your bank requires our office address:"
+#~ msgstr "Se o seu banco necessitar da morada do nosso escritório:"
