@@ -292,6 +292,8 @@ msgid ""
 "We had to refocus on the email onboarding section of the Account Hub due to Exchange, Graph, and Thundermail release. User feedback &amp; telemetry data points at a large percentage of manual config"
 " usage, and the new protocols come with very complex manual user flows. First introduction of a 1-click setup OAuth for Thundermail."
 msgstr ""
+"Exchange, Graph un Thundermail izlaišanas dēļ mums nācās no jauna koncentrēties uz epasta ieviešanas sadaļu konta centrā. Lietotāju atsauksmes un telemetrijas dati liecina par lielu manuālas "
+"konfigurācijas izmantošanas procentuālo daļu, un jaunajiem protokoliem ir ļoti sarežģītas manuālas lietotāju plūsmas. Pirmā ieviešana ar 1 klikšķa iestatīšanas OAuth Thundermail."
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:31
 msgid "System add-on integration"
@@ -299,7 +301,7 @@ msgstr "Sistēmas papildinājumu iekļaušana"
 
 #: sites/roadmaps.thunderbird.net/desktop/index.html:31
 msgid "Allowing to ship ad-hoc features faster for objectives that supersede the release train. This will be in 153!"
-msgstr ""
+msgstr "Ļauj ātrāk piegādāt ad-hoc funkcijas mērķiem, kas aizstāj izlaišanas sēriju. Tas būs 153. versijā!"
 
 #: sites/roadmaps.thunderbird.net/includes/base/base.html:12 sites/updates.thunderbird.net/includes/base/base.html:1 sites/www.thunderbird.net/includes/base/base.html:15
 msgid "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
@@ -326,7 +328,7 @@ msgstr "Produkti"
 #: sites/roadmaps.thunderbird.net/includes/base/footer.html:15 sites/roadmaps.thunderbird.net/includes/base/nav.html:24 sites/www.thunderbird.net/desktop/index.html:10
 #: sites/www.thunderbird.net/includes/base/footer.html:15 sites/www.thunderbird.net/includes/base/nav.html:24 sites/www.thunderbird.net/thunderbird/releases/index.html:9
 msgid "Thunderbird Desktop"
-msgstr ""
+msgstr "Thunderbird darbvirsma"
 
 #: sites/roadmaps.thunderbird.net/includes/base/footer.html:16 sites/roadmaps.thunderbird.net/includes/base/nav.html:25 sites/www.thunderbird.net/includes/base/footer.html:16
 #: sites/www.thunderbird.net/includes/base/nav.html:25 sites/www.thunderbird.net/mobile/index.html:12
@@ -415,7 +417,7 @@ msgstr "Piedalies"
 
 #: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:8
 msgid "Thunderbird for Desktop"
-msgstr ""
+msgstr "Thunderbird datoram"
 
 #: sites/roadmaps.thunderbird.net/includes/base/landing-page.html:16
 msgid "View desktop roadmap"
@@ -512,7 +514,7 @@ msgstr "Mums vajadzīgas visa veida palīdzīgas rokas. Uzzini, kā vari palīdz
 
 #: sites/roadmaps.thunderbird.net/includes/base/nav.html:83 sites/www.thunderbird.net/includes/base/nav.html:83
 msgid "Find the latest version of Thunderbird."
-msgstr ""
+msgstr "Atrodiet jaunāko Thunderbird versiju."
 
 #: sites/roadmaps.thunderbird.net/includes/base/page.html:9 sites/www.thunderbird.net/includes/base/page.html:14
 msgid "Thunderbird Logo"
@@ -520,7 +522,7 @@ msgstr "Thunderbird logotips"
 
 #: sites/roadmaps.thunderbird.net/includes/base/page.html:17 sites/www.thunderbird.net/includes/base/page.html:22
 msgid "Open or close site navigation"
-msgstr ""
+msgstr "Atvērt vai aizvērt vietnes navigāciju"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:4
 msgid "iOS Roadmap"
@@ -528,7 +530,7 @@ msgstr "iOS rīcības plāns"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:5
 msgid "Thunderbird for iOS. Follow the roadmap from active work to future ideas. Timelines may shift as we learn and iterate."
-msgstr ""
+msgstr "Thunderbird Android. Seko rīcības plānam no aktīva darba līdz nākotnes iecerēm! Izpildes laiki var mainīties, tā kā mēs mācāmies un atkārtojam."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:7
 msgid "Download TestFlight app"
@@ -536,38 +538,42 @@ msgstr "Lejupielādēt TestFlight lietotni"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:11
 msgid "Full Email Writing and Reading Experience"
-msgstr ""
+msgstr "Pilnīga epasta rakstīšanas un lasīšanas pieredze"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:11
 msgid ""
 "Implement the full reading and writing email experience on mobile, including initial support for encrypted messages (OpenPGP and S/MIME with existing libraries). WYSIWYG is now wrapping up. The next"
 " piece is to connect the protocol and database to render email."
 msgstr ""
+"Ieviest pilnīgu epasta lasīšanas un rakstīšanas pieredzi mobilajās ierīcēs, tostarp sākotnējo atbalstu šifrētiem ziņojumiem (OpenPGP un S/MIME ar esošajām bibliotēkām). WYSIWYG tagad tiek pabeigts. "
+"Nākamais solis ir savienot protokolu un datubāzi, lai renderētu epastu."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:12
 msgid "JMAP Support - Exploration"
-msgstr ""
+msgstr "JMAP atbalsts — izpēte"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:12
 #, python-format
 msgid "Already 80% finished. The intention is to implement the full protocol with all the basic infrastructure in place."
-msgstr ""
+msgstr "Jau 80% pabeigts. Mērķis ir ieviest pilnu protokolu ar visu pamata infrastruktūru."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:16
 msgid "JMAP Support - Complete Implementation"
-msgstr ""
+msgstr "JMAP atbalsts — pilnīga ieviešana"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:16
 msgid "Support the JMAP protocol as one of the first extra protocols we ship with by default outside of IMAP. Currently we are prioritizing IMAP and a first user release."
 msgstr ""
+"Atbalstīt JMAP protokolu kā vienu no pirmajiem papildu protokoliem, ko mēs pēc noklusējuma piegādājam ārpus IMAP. Pašlaik mēs piešķiram prioritāti IMAP un pirmajam lietotājam paredzētajam "
+"izlaidumam."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:17
 msgid "Database"
-msgstr ""
+msgstr "Datubāze"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:17
 msgid "We’re changing how we cache the email to be able to consume the UI faster, and moving the database work for after the first version is out to the users."
-msgstr ""
+msgstr "Mēs mainām epasta kešatmiņu, lai varētu ātrāk izmantot lietotāja saskarni, un pārvietojam datubāzes darbu uz laiku pēc pirmās versijas izlaišanas lietotājiem."
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:21
 msgid "Architecture"
@@ -581,15 +587,17 @@ msgstr ""
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:22
 msgid "Autoconfiguration"
-msgstr ""
+msgstr "Automātiskā konfigurācija"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:22
 msgid "Add DNS MX lookup to autoconfig feature library and move SRV record lookup into autoconfig feature library and delete Autodiscover core library"
 msgstr ""
+"Pievienot DNS MX meklēšanu automātiskās konfigurēšanas funkciju bibliotēkai un pārvietot SRV ierakstu meklēšanu uz automātiskās konfigurēšanas funkciju bibliotēku, kā arī dzēst automātiskās "
+"noteikšanas pamatbibliotēku"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:22
 msgid "September 2025"
-msgstr ""
+msgstr "2025. gada Septembris"
 
 #: sites/roadmaps.thunderbird.net/ios/index.html:23
 msgid "Account Creation Flow"
