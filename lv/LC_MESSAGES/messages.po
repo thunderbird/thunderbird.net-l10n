@@ -4185,9 +4185,9 @@ msgstr ""
 "labojumi, tostarp pareiza nedēļas skata galveņu un dienu secība lokalizācijām no labās uz kreiso pusi."
 
 #: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:260
-#, fuzzy, python-format
+#, python-format
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 102.0 and up</a>."
-msgstr "Sīkāku informāciju par visām mūsu izmaiņām varat skatīt <a href=\"%(release)s\">Thunderbird 78.0 un jaunāku versiju</a> laidiena piezīmēs."
+msgstr "Detalizētu informāciju par visām mūsu izmaiņām varat skatīt <a href=\"%(release)s\">Thunderbird 102.0 un jaunākām versijām</a> izlaiduma piezīmēs."
 
 #: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:276 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:197
 #: sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:216 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:333
@@ -4234,6 +4234,9 @@ msgid ""
 "      contributors. Content available under\n"
 "      a <a href=\"%(url)s\" class=\"inline-link\">Creative Commons license</a>."
 msgstr ""
+"Thunderbird ir daļa no\n"
+"<a href=\"%(mzla)s\" class=\"inline-link\">MZLA Technologies Corporation</a>, kas ir pilnībā piederošs bezpeļņas organizācijas Mozilla.org meitasuzņēmums.\n"
+"Daļas no šī satura ir ©1998–%(current_year)s autortiesības pieder individuāliem autoriem. Saturs ir pieejams saskaņā ar <a href=\"%(url)s\" class=\"inline-link\">Creative Commons licenci</a>."
 
 #: sites/www.thunderbird.net/thunderbird/102.0/whatsnew/index.html:384 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:460
 #: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:307 sites/www.thunderbird.net/thunderbird/78.0/whatsnew/index.html:326
@@ -4483,41 +4486,45 @@ msgid ""
 "More than just a refreshed set of graphics, Supernova introduces beautiful icons with a more consistent visual\n"
 "          style unique to Thunderbird. Our new designs remain sharp and pixel-perfect at any density setting."
 msgstr ""
+"Supernova piedāvā ne tikai atjauninātu grafikas elementu kopumu, bet arī skaistas ikonas ar vienotāku vizuālo stilu, kas raksturīgs tikai Thunderbird. Mūsu jaunie dizaini saglabā asuma un pikseļu "
+"precizitātes līmeni jebkurā blīvuma iestatījumā."
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:138
 msgid "The improved icons"
-msgstr ""
+msgstr "Uzlabotās ikonas"
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:154
 msgid "Easy Density Control"
-msgstr ""
+msgstr "Vienkārša blīvuma kontrole"
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:157
 msgid ""
 "Working with multiple monitors and display resolutions? Supernova lets you dial in the perfect density settings\n"
 "          and font sizes for the entire application, with just a single click from the App Menu."
 msgstr ""
+"Strādājat ar vairākiem monitoriem un displeja izšķirtspējām? Supernova ļauj iestatīt perfektus blīvuma iestatījumus un fonta izmērus visai lietojumprogrammai, veicot tikai vienu klikšķi no lietotnes"
+" izvēlnes."
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:180
 msgid "Compact density icon"
-msgstr ""
+msgstr "Kompakta blīvuma ikona"
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:181
 msgid "Default density icon"
-msgstr ""
+msgstr "Noklusējuma blīvuma ikona"
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:182
 msgid "Relaxed density icon"
-msgstr ""
+msgstr "Relaksēta blīvuma ikona"
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:185 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:186
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:187
 msgid "An example of the relaxed density"
-msgstr ""
+msgstr "Relaksēta blīvuma piemērs"
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:203
 msgid "Intuitive App Menu"
-msgstr ""
+msgstr "Intuitīva lietotnes izvēlne"
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:206
 msgid ""
@@ -4525,14 +4532,16 @@ msgid ""
 "          navigation. Fewer submenus, persistent global options, and consistent iconography combine to create a much\n"
 "          more intuitive experience."
 msgstr ""
+"Jaunā lietojumprogrammu izvēlne (≡) Supernova lietotnē tagad ir pieejama ar tastatūru un ir pārveidota, lai nodrošinātu ātrāku un vienkāršāku navigāciju. Mazāk apakšizvēlņu, pastāvīgas globālās "
+"opcijas un konsekventa ikonogrāfija kopā rada daudz intuitīvāku pieredzi."
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:212
 msgid "The new AppMenu"
-msgstr ""
+msgstr "Jaunā lietotņu izvēlne"
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:229
 msgid "New + Sortable Folder Modes"
-msgstr ""
+msgstr "Kas Jauns + kārtojami mapju režīmi"
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:232
 msgid ""
@@ -4540,24 +4549,28 @@ msgid ""
 "            Pane, turn on and off Local Folders, or move your favorite Folder Mode sections up and down with one click. Less\n"
 "            scrolling, more productivity."
 msgstr ""
+"Supernova sniedz jums lielāku kontroli, ieviešot kārtojamus mapju režīmus. Mapju rūtī attēlojiet visas savas atzīmes, ieslēdziet un izslēdziet lokālās mapes vai pārvietojiet iecienītākās mapju "
+"režīma sadaļas uz augšu un uz leju ar vienu klikšķi. Mazāk ritināšanas, lielāka produktivitāte."
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:245
 msgid "Eye-Catching Tags View"
-msgstr ""
+msgstr "Uzkrītošs tagu skats"
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:248
 msgid ""
 "Tags are a familiar and powerful part of your workflow, so Supernova adds an eye-catching “Tags” view to the\n"
 "            Folder Pane. Quickly jump to your custom, color-coded tag categories to find and filter your messages even faster."
 msgstr ""
+"Birkas ir pazīstama un spēcīga jūsu darbplūsmas sastāvdaļa, tāpēc Supernova mapju rūtij pievieno uzmanību piesaistošu skatu “Birkas”. Ātri pārejiet uz pielāgotajām, krāsu kodētajām birkām, lai vēl "
+"ātrāk atrastu un filtrētu savus ziņojumus."
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:255
 msgid "The improved folder pane"
-msgstr ""
+msgstr "Uzlabotā mapju rūts"
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:271
 msgid "Modernized Cards View"
-msgstr ""
+msgstr "Modernizēts kartīšu skats"
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:274
 msgid ""
@@ -4573,21 +4586,23 @@ msgstr ""
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:282 sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:283
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:284
 msgid "An example of a message in card view"
-msgstr ""
+msgstr "Ziņojuma piemērs kartītes skatā"
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:300
 msgid "Improved Address Book"
-msgstr ""
+msgstr "Uzlabota adrešu grāmata"
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:303
 msgid ""
 "Supernova continues to iterate on the modernized Address Book introduced in Thunderbird 102. You’ll enjoy a new\n"
 "          tabular view, an improved Edit view, delete buttons, and better accessibility."
 msgstr ""
+"Supernova turpina pilnveidot modernizēto adrešu grāmatu, kas tika ieviesta Thunderbird 102 versijā. Jūs varēsiet baudīt jaunu tabulas skatu, uzlabotu rediģēšanas skatu, dzēšanas pogas un labāku "
+"pieejamību."
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:308
 msgid "The improved address book edit pane"
-msgstr ""
+msgstr "Uzlabotā adrešu grāmatas rediģēšanas rūts"
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:324
 msgid "Expanded Accessibility"
@@ -4599,80 +4614,88 @@ msgid ""
 "          entire application. We’ve also greatly expanded the ability to navigate Mail content and buttons using the TAB and\n"
 "          arrow keys."
 msgstr ""
+"Supernova ievērojami uzlabo Thunderbird tastatūras navigāciju un ekrāna lasītāja pieejamību visā lietojumprogrammā.\n"
+"\n"
+"Esam arī ievērojami paplašinājuši iespēju pārvietoties pa pasta saturu un pogām, izmantojot TAB un bulttaustiņus."
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:334
 msgid "Button"
-msgstr ""
+msgstr "Poga"
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:336
 msgid "Button 1"
-msgstr ""
+msgstr "Poga 1"
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:337
 msgid "Button 2"
-msgstr ""
+msgstr "Poga 2"
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:338
 msgid "Button 3"
-msgstr ""
+msgstr "Poga 3"
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:339
 msgid "Button 4"
-msgstr ""
+msgstr "Poga 4"
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:362
 msgid "Improved Calendar Design"
-msgstr ""
+msgstr "Uzlabots kalendāra dizains"
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:365
 msgid ""
 "As part of an ongoing effort to modernize and upgrade Thunderbird’s Calendar, Supernova introduces an improved\n"
 "          “mini-month” layout, improvements to the day/week/month grid, a pleasing color palette, and several more minor changes."
 msgstr ""
+"Turpinot centienus modernizēt un uzlabot Thunderbird kalendāru, Supernova ievieš uzlabotu “minimēneša” izkārtojumu, uzlabojumus dienas/nedēļas/mēneša režģī, patīkamu krāsu paleti un vairākas citas "
+"nelielas izmaiņas."
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:370
 msgid "The improved calendar"
-msgstr ""
+msgstr "Uzlabotais kalendārs"
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:379
 msgid "More to come!"
-msgstr ""
+msgstr "Vairāk sekos!"
 
 #: sites/www.thunderbird.net/thunderbird/115.0/whatsnew/index.html:381
 msgid ""
 "Supernova is constantly evolving. Throughout the next year, we’ll deliver many improvements to existing Supernova\n"
 "        features and introduce brand new ones. Upgrade to version 115 and experience the future of Thunderbird!"
 msgstr ""
+"Supernova nepārtraukti attīstās. Nākamā gada laikā mēs ieviesīsim daudzus uzlabojumus esošajām Supernova funkcijām un pavisam jaunas. Jauniniet uz 115. versiju un izbaudiet Thunderbird nākotni!"
 
 #: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:6 sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:44
 msgid "Welcome to the evolution of Supernova!"
-msgstr ""
+msgstr "Laipni lūgti Supernovas evolūcijā!"
 
 #: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:37
 msgid "Thunderbird 128 Nebula"
-msgstr ""
+msgstr "Thunderbird 128 Nebula"
 
 #: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:46
 msgid "With revolutionary code improvements, Nebula sets the stage for faster delivery of new features, reinforced stability, stellar quality-of-life enhancements and visual refinements."
-msgstr ""
+msgstr "Ar revolucionāriem koda uzlabojumiem Nebula sagatavo augsni ātrākai jaunu funkciju piegādei, pastiprinātai stabilitātei, izciliem dzīves kvalitātes uzlabojumiem un vizuāliem uzlabojumiem."
 
 #: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:63
 msgid "Fast and Fluid"
-msgstr ""
+msgstr "Ātri un plūstoši"
 
 #: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:65
 msgid "Feel the difference smarter code makes possible! Interactions with your message list are faster, the email space is more responsive, and Thunderbird is more stable and reliable."
-msgstr ""
+msgstr "Sajūti atšķirību, ko sniedz gudrāks kods! Mijiedarbība ar tavu ziņojumu sarakstu ir ātrāka, epasta telpa ir atsaucīgāka, un Thunderbird ir stabilāks un uzticamāks."
 
 #: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:78
 msgid "Cards View"
-msgstr ""
+msgstr "Kartīšu skats"
 
 #: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:82
 msgid ""
 "The updated design makes scanning your emails faster, with a more attractive layout and an improved threads experience. Plus, the height of email cards adjusts automatically based on your settings, "
 "so everything looks just right."
 msgstr ""
+"Atjauninātais dizains paātrina epasta ziņojumu skenēšanu, piedāvājot pievilcīgāku izkārtojumu un uzlabotu pavedienu pieredzi. Turklāt epasta kartīšu augstums tiek automātiski pielāgots atbilstoši "
+"jūsu iestatījumiem, lai viss izskatītos tieši tā, kā vajag."
 
 #: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:102
 msgid "Enhanced theme compatibility, especially for Linux users on Ubuntu and Mint. Your Thunderbird will better blend with your desktop environment, seamlessly matching the system’s accent colors."
@@ -4722,11 +4745,11 @@ msgstr ""
 
 #: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:198
 msgid "By popular demand, you can now customize the color of your account icons. These colors also show up in the “From” selection when composing emails."
-msgstr ""
+msgstr "Pēc plaša pieprasījuma tagad varat pielāgot savu kontu ikonu krāsu. Šīs krāsas tiek rādītas arī sadaļā “No”, rakstot epastus."
 
 #: sites/www.thunderbird.net/thunderbird/128.0/whatsnew/index.html:209
 msgid "“Nebula” enables an email experience that shines brighter than ever. Expect more updates and helpful new features to materialize over the upcoming months."
-msgstr ""
+msgstr "“Nebula” nodrošina epasta pieredzi, kas spīd spožāk nekā jebkad agrāk. Turpmākajos mēnešos gaidāmi vēl vairāk atjauninājumu un noderīgu jaunu funkciju."
 
 #: sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:14 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:20 sites/www.thunderbird.net/thunderbird/68.0/whatsnew/index.html:62
 msgid "New in Thunderbird 68"
@@ -4882,21 +4905,19 @@ msgid "You can see details of all our changes in the release notes for <a href=\
 msgstr "Sīkāku informāciju par visām mūsu izmaiņām varat skatīt <a href=\"%(release)s\">Thunderbird 78.0 un jaunāku versiju</a> laidiena piezīmēs."
 
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:14 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:20 sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:63
-#, fuzzy
 msgid "New in Thunderbird 91"
-msgstr "Thunderbird 68 jaunumi"
+msgstr "Jaunumi Thunderbird 91 versijā"
 
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:65
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "This article describes some of the major changes visible to users in Thunderbird version 91. Full details of all the changes can be found in the <a href=\"%(release)s\">Thunderbird release notes "
 "from 91.0 and up</a>."
 msgstr ""
-"Šajā rakstā aprakstītas dažas no galvenajām izmaiņām, kas lietotājiem redzamas Thunderbird 78. versijā. Sīkāka informācija par visām izmaiņām ir atrodama <a href=\"%(release)s\"> Thunderbird "
-"laidiena piezīmēs no 78.0 un jaunākām versijām</a>."
+"Šajā rakstā ir aprakstītas dažas no galvenajām izmaiņām, kas redzamas lietotājiem Thunderbird 91. versijā. Pilnu informāciju par visām izmaiņām var atrast <a href=\"%(release)s\">Thunderbird "
+"laidiena piezīmēs no 91.0 versijas un jaunākām versijām</a>."
 
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:139
-#, fuzzy
 msgid "New Account Setup"
 msgstr "Pasta konta iestatīšanas vednis"
 
@@ -4906,9 +4927,11 @@ msgid ""
 "allows most users to set them up with just a click. After setting up an account, the wizard also points users at additional (optional) things to do – such as adding a signature or setting up end-to-"
 "end encryption."
 msgstr ""
+"Viena no ievērojamākajām izmaiņām versijā Thunderbird 91 ir jaunais konta iestatīšanas vednis. Jaunajam vednim ir ne tikai labāks izskats, bet tas arī automātiski nosaka kalendārus un adrešu "
+"grāmatas un ļauj lielākajai daļai lietotāju tās iestatīt tikai ar vienu klikšķi. Pēc konta iestatīšanas vednis lietotājiem norāda arī uz papildu (pēc izvēles) darbībām, piemēram, paraksta "
+"pievienošanu vai pilnīgas šifrēšanas iestatīšanu."
 
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:159
-#, fuzzy
 msgid "Attachments & Drag-and-Drop"
 msgstr "Pielikuma atgādinājums"
 
@@ -4922,30 +4945,34 @@ msgstr ""
 
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:185
 msgid "UI Density Control"
-msgstr ""
+msgstr "Lietotāja saskarnes blīvuma kontrole"
 
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:188
 msgid ""
 "Whether you are using it on a large desktop monitor or a small laptop touchscreen, you may want the icons and text of the interface to be larger and more spread out or very compact. In Thunderbird "
 "91, under View -> Density in the menu, you can select the UI density for the entire application. Three options are available: compact (small), normal(medium), and touch(large)."
 msgstr ""
+"Neatkarīgi no tā, vai to lietojat lielā galddatora monitorā vai nelielā klēpjdatora skārienekrānā, iespējams, vēlēsities, lai saskarnes ikonas un teksts būtu lielāks un izkliedētāks vai ļoti "
+"kompakts. Thunderbird 91 izvēlnē sadaļā Skats -> Blīvums varat atlasīt visas lietojumprogrammas lietotāja interfeisa blīvumu. Ir pieejamas trīs opcijas: kompakts (mazs), normāls (vidējs) un "
+"skārienjutīgs (liels)."
 
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:208
 msgid "Protect Your Privacy"
-msgstr ""
+msgstr "Aizsargājiet savu privātumu"
 
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:211
 msgid ""
 "Whether it’s work or play, you deserve to have privacy when you are online. A VPN, Virtual Private Network, can help you create a secure, private connection to the internet. So that when you are "
 "traveling, connecting to WiFi, or simply want more online security - you know that your information is protected from prying eyes."
 msgstr ""
+"Neatkarīgi no tā, vai tas ir darbs vai izklaide, jums ir tiesības uz privātumu, atrodoties tiešsaistē. VPN jeb virtuālais privātais tīkls var palīdzēt jums izveidot drošu un privātu savienojumu ar "
+"internetu. Lai, ceļojot, pieslēdzoties Wi-Fi vai vienkārši vēloties lielāku drošību tiešsaistē, jūs zinātu, ka jūsu informācija ir aizsargāta no ziņkārīgām acīm."
 
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:214
 msgid "Learn More"
 msgstr "Uzzināt vairāk"
 
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:241
-#, fuzzy
 msgid "Calendar Improvements"
 msgstr "Kalendāra papildinājums"
 
@@ -4954,64 +4981,70 @@ msgid ""
 "Managing multiple calendars has been made easier with the calendar sidebar improvements in this release. There is a quick enable button for disabled calendars, a lock indicator for read-only "
 "calendars, and a show/hide icon for easily toggling what calendars are visible. Outside the sidebar, there are now better color accents to highlight the current day in the calendar."
 msgstr ""
+"Šajā laidienā ir uzlabota kalendāra sānu josla, tāpēc vairāku kalendāru pārvaldība ir kļuvusi vienkāršāka. Atspējotiem kalendāriem ir ātrās iespējošanas poga, tikai lasāmiem kalendāriem ir "
+"bloķēšanas indikators, kā arī rādīšanas/paslēpšanas ikona, lai ērti pārslēgtu redzamos kalendārus. Ārpus sānu joslas tagad ir labāki krāsu akcenti, lai izceltu pašreizējo dienu kalendārā."
 
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:264
 msgid ""
 "Thunderbird’s Dark Theme got even better in this release. In the past some windows and dialogues looked a bit out of place if you had Thunderbird’s dark theme selected. Now almost every dialogue and"
 " window in Thunderbird is fully styled to respect the user’s color scheme preferences."
 msgstr ""
+"Šajā laidienā Thunderbird tumšā tēma ir kļuvusi vēl labāka. Iepriekš daži logi un dialogi izskatījās nedaudz neiederīgi, ja bija atlasīta Thunderbird tumšā tēma. Tagad gandrīz katrs dialoglodziņš un"
+" logs Thunderbird ir pilnībā pielāgots lietotāja krāsu shēmas preferencēm."
 
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:285
 msgid "PDF Viewer"
-msgstr ""
+msgstr "PDF skatītājs"
 
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:288
 msgid ""
 "Thunderbird now has a built-in PDF viewer, which means you can read and even do some editing on PDFs sent to you as attachments. You can do all this without ever leaving Thunderbird, allowing you to"
 " return to your inbox without missing a beat."
 msgstr ""
+"Thunderbird tagad ir iebūvēts PDF skatītājs, kas nozīmē, ka varat lasīt un pat rediģēt PDF failus, kas jums nosūtīti kā pielikumi. To visu varat izdarīt, pat neizejot no Thunderbird, ļaujot "
+"atgriezties iesūtnē, nezaudējot laiku."
 
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:306
 msgid "There are many other big changes that make Thunderbird 91 a very large release including:"
-msgstr ""
+msgstr "Ir arī daudzas citas lielas izmaiņas, kas padara Thunderbird 91 par ļoti lielu izlaidumu, tostarp:"
 
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:309
 msgid "Native support for macOS devices built with Apple Silicon CPU"
-msgstr ""
+msgstr "Vietējais atbalsts macOS ierīcēm, kas veidotas ar Apple Silicon CPU"
 
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:310
 msgid "CardDAV Address Book Support (and CardDAV auto-detection support)"
-msgstr ""
+msgstr "CardDAV adrešu grāmatas atbalsts (un CardDAV automātiskās noteikšanas atbalsts)"
 
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:311
 msgid "Printing UI updated"
-msgstr ""
+msgstr "Drukāšanas lietotāja interfeiss ir atjaunināts"
 
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:312
 msgid "Ability to change order of accounts in UI"
-msgstr ""
+msgstr "Iespēja mainīt kontu secību lietotāja saskarnē"
 
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:313
 msgid "Registers to handle .ics files, letting you preview and import events to the calendar by double clicking the file"
-msgstr ""
+msgstr "Reģistrējas .ics failu apstrādei, ļaujot priekšskatīt un importēt notikumus kalendārā, veicot dubultklikšķi uz faila"
 
 #: sites/www.thunderbird.net/thunderbird/91.0/whatsnew/index.html:316
-#, fuzzy, python-format
+#, python-format
 msgid "You can see details of all our changes in the release notes for <a href=\"%(release)s\">Thunderbird 91.0 and up</a>."
-msgstr "Sīkāku informāciju par visām mūsu izmaiņām varat skatīt <a href=\"%(release)s\">Thunderbird 78.0 un jaunāku versiju</a> laidiena piezīmēs."
+msgstr "Detalizētu informāciju par visām mūsu izmaiņām varat skatīt <a href=\"%(release)s\">Thunderbird 91.0 un jaunākām versijām</a> izlaiduma piezīmēs."
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:24
 msgid "These are officially maintained and distributed by Thunderbird. Download the latest Release version unless you wish to test the Beta version and report bugs."
-msgstr ""
+msgstr "Tos oficiāli uztur un izplata Thunderbird. Lejupielādējiet jaunāko laidiena versiju, ja vien nevēlaties testēt beta versiju un ziņot par kļūdām."
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:29
 msgid "The Daily channel is where development and testing begin, and new features are developed. This is expected to be the least stable channel. Make sure you back up important data regularly."
-msgstr ""
+msgstr "Dienas kanālā sākas izstrāde un testēšana, kā arī tiek izstrādātas jaunas funkcijas. Paredzams, ka šis būs vismazāk stabilais kanāls. Regulāri dublējiet svarīgos datus."
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:30 sites/www.thunderbird.net/thunderbird/all/index.html:35 sites/www.thunderbird.net/thunderbird/all/index.html:40
 #: sites/www.thunderbird.net/thunderbird/all/index.html:45
 msgid "May not work with all add-ons."
-msgstr ""
+msgstr "Var nedarboties ar visiem papildinājumiem."
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:31 sites/www.thunderbird.net/thunderbird/all/index.html:36 sites/www.thunderbird.net/thunderbird/all/index.html:41
 #: sites/www.thunderbird.net/thunderbird/all/index.html:46
@@ -5023,34 +5056,36 @@ msgid ""
 "The Beta channel is where stabilization occurs. This is expected to be more stable than Daily, but not as stable as the Release or Extended Support Release channels. Make sure you back up important "
 "data regularly."
 msgstr ""
+"Beta kanālā notiek stabilizācija. Paredzams, ka tas būs stabilāks nekā ikdienas versija, bet ne tik stabils kā laidiena vai paplašinātā atbalsta laidiena kanāli. Regulāri dublējiet svarīgos datus."
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:39
 msgid "The official Extended Support Release channel. This release is intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis."
 msgstr ""
+"Oficiālais paplašinātā atbalsta laidiena kanāls. Šis laidiens ir paredzēts lietotājiem, kuri vēlas saņemt visas pieejamās jaunās funkcijas katru gadu un stabilitātes/drošības labojumus katru mēnesi."
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:44
 msgid "The official Thunderbird Release channel. This release is intended for users who want all available new features and bug fixes on a monthly basis."
-msgstr ""
+msgstr "Oficiālais Thunderbird izlaiduma kanāls. Šis izlaidums ir paredzēts lietotājiem, kuri vēlas saņemt visas pieejamās jaunās funkcijas un kļūdu labojumus katru mēnesi."
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:52
 msgid "Locale"
-msgstr ""
+msgstr "Lokalizācija"
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:66
 msgid "Release Channel"
-msgstr ""
+msgstr "Izlaiduma kanāls"
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:81
 msgid "Operating System"
-msgstr ""
+msgstr "Operētājsistēma"
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:93
 msgid "Need a specific installer?"
-msgstr ""
+msgstr "Vai nepieciešams konkrēts uzstādītājs?"
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:97
 msgid "Installer Type"
-msgstr ""
+msgstr "Instalētāja tips"
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:125 sites/www.thunderbird.net/thunderbird/all/index.html:173
 msgid "Other Downloads"
@@ -5058,51 +5093,51 @@ msgstr "Citas lejupielādes"
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:128
 msgid "Microsoft Apps Store"
-msgstr ""
+msgstr "Microsoft lietotņu veikals"
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:131
 msgid "Flathub"
-msgstr ""
+msgstr "Flathub"
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:134
 msgid "Snap Store"
-msgstr ""
+msgstr "Snap veikals"
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:141 sites/www.thunderbird.net/thunderbird/all/index.html:210
 msgid "More Information"
-msgstr ""
+msgstr "Vairāk informācijas"
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:144 sites/www.thunderbird.net/thunderbird/all/index.html:213
 msgid "System Requirements"
-msgstr ""
+msgstr "Sistēmas prasības"
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:150
 msgid "Choosing a Release Channel"
-msgstr ""
+msgstr "Izlaiduma kanāla izvēle"
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:163
 msgid "New"
-msgstr ""
+msgstr "Jauns"
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:166 sites/www.thunderbird.net/thunderbird/all/index.html:230
 msgid "These are officially maintained and distributed by Thunderbird Mobile."
-msgstr ""
+msgstr "Tos oficiāli uztur un izplata Thunderbird Mobile."
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:182
 msgid "Binary (.apk)"
-msgstr ""
+msgstr "Binārais fails (.apk)"
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:192
 msgid "Google Play (Beta)"
-msgstr ""
+msgstr "Google Play (Beta)"
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:202
 msgid "F-Droid (Beta)"
-msgstr ""
+msgstr "F-Droid (Beta)"
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:239
 msgid "These are officially maintained and distributed by Thunderbird."
-msgstr ""
+msgstr "Tos oficiāli uztur un izplata Thunderbird."
 
 #: sites/www.thunderbird.net/thunderbird/all/index.html:240
 msgid "Jump to the language you wish to download by using the legend below."
@@ -5110,11 +5145,11 @@ msgstr "Pārej uz valodu, kuru vēlies lejupielādēt ar zemāk redzamo aprakstu
 
 #: sites/www.thunderbird.net/thunderbird/releases/index.html:8
 msgid "Releases"
-msgstr ""
+msgstr "Izlaidumi"
 
 #: sites/www.thunderbird.net/thunderbird/releases/index.html:11 sites/www.thunderbird.net/thunderbird/releases/index.html:21
 msgid "Thunderbird Release Notes Atom Feed"
-msgstr ""
+msgstr "Thunderbird laidiena piezīmes Atom Feed"
 
 #: sites/www.thunderbird.net/thunderbird/releases/index.html:18
 msgid "Thunderbird release notes are specific to each version of the application. Select your version from the list below to see the release notes for it."
@@ -5122,12 +5157,12 @@ msgstr "Thunderbird laidiena piezīmes ir atsevišķi katrai lietotnes versijai.
 
 #: sites/www.thunderbird.net/thunderbird/wallpaper/index.html:8
 msgid "Wallpaper"
-msgstr ""
+msgstr "Tapetes"
 
 #: sites/www.thunderbird.net/thunderbird/wallpaper/index.html:9
 msgid "Thunderbird Desktop Wallpaper"
-msgstr ""
+msgstr "Thunderbird darbvirsmas tapete"
 
 #: sites/www.thunderbird.net/thunderbird/wallpaper/index.html:17
 msgid "Thunderbird Desktop Wallpaer"
-msgstr ""
+msgstr "Thunderbird darbvirsmas fona attēls"
